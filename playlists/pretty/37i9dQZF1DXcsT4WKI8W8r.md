@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,991 likes - 145 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,182 likes - 145 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 | 145 | [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 |
 
-Snapshot ID: `MCxjNDEwZWUyY2VjMTVhMGQxMTQzYzNiNjQ0YTc2ZTFlYjBkZTYwZDJj`
+Snapshot ID: `MCw5MjRhNTQ3N2YwM2U0MzU1ZDE3YmZjYmZkODU2YTc5YjRiMWY0YzJk`

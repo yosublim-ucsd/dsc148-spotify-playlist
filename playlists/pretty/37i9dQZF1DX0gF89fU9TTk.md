@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,358 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,400 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 75 | [Not a Chance](https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Fear Not](https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7) | 5:33 |
 
-Snapshot ID: `MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My`
+Snapshot ID: `MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh`

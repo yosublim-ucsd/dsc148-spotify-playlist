@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,506 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,705 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Boogie Woogie](https://open.spotify.com/track/71rTjuTsuh03etRwpIOPRj) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Boogie Woogie](https://open.spotify.com/album/7hRR0f0wMiV0Th2fceOHxn) | 2:53 |
 | 100 | [Believe Me \- Disco Radio Mix](https://open.spotify.com/track/0c4SSUBtJeaBVxFE3Gtusr) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd), [The Backup Plan](https://open.spotify.com/artist/2OHdFbFCCK7cuJS02RHbwh) | [Believe Me](https://open.spotify.com/album/0gvA9sEQqxehD0m0BHHEPm) | 3:07 |
 
-Snapshot ID: `MCxiMGEyMzU1NmNlNDYwOTc4YzNlODRlNjUyZWExMTU1ZWU0OWQ1ZDU1`
+Snapshot ID: `MCwyOTkwM2E0OGVkM2YwZTkyYmY5ZjYzOGM0YjIzZWE4NTRkNDRlZDQ0`

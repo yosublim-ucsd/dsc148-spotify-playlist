@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,135 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,138 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 149 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
 | 150 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
 
-Snapshot ID: `MCwzYmQ5ODMyYjQ1YTNmMDc5ZDNhM2U5NTMyMWE2NzdjYzM0YjM4ZjM5`
+Snapshot ID: `MCw0NGQ5NWQ0OTE5ODY4OGI0YjljNjcyMGQ3MTZlZjM0ZWQwMjYzODA2`

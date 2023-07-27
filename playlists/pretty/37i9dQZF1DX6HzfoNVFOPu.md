@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,452 likes - 200 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,537 likes - 200 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
 | 200 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 |
 
-Snapshot ID: `MCwxZWE5ODM4MjU1YWRkM2IxZmYwZDM0MmYyMjk1MTIwYTYyZWM2M2Iy`
+Snapshot ID: `MCxhZTQxMzk3ZDgyMjZlNmI4Mjg0YTBkMzcxZjI4NDFlNjA4ZTA5NjAw`

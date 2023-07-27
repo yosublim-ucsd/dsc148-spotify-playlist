@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Itoshi no Butterfly",
+        "url": "https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324574,
+      "name": "Itoshi no Butterfly",
+      "url": "https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6"
+    },
+    {
+      "album": {
         "name": "Silent Jazz Case 4",
         "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
       },
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 324574,
       "name": "\u611b\u3057\u306e\u30d0\u30bf\u30d5\u30e9\u30a4",
       "url": "https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY"

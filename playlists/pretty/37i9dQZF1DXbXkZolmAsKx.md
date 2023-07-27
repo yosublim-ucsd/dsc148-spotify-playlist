@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,965 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,981 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Further Away \- Benoît Pioulard Rework](https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 5:48 |
 | 100 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 |
 
-Snapshot ID: `MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx`
+Snapshot ID: `MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2`

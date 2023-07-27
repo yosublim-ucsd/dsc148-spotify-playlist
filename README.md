@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6383\)
+## Playlists \(6384\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1858,6 +1858,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fresh Finds Arabia](/playlists/pretty/37i9dQZF1DWUTC08ZxLjSQ.md)
 - [Fresh Finds Best of 2017](/playlists/pretty/37i9dQZF1DX5VxYDK98w7B.md)
 - [Fresh Finds Brasil](/playlists/pretty/37i9dQZF1DX5R53BjnKBjk.md)
+- [Fresh Finds Canada](/playlists/pretty/37i9dQZF1DWVxStm5ni6tl.md)
 - [Fresh Finds Country](/playlists/pretty/37i9dQZF1DWYUfsq4hxHWP.md)
 - [Fresh Finds Dance](/playlists/pretty/37i9dQZF1DX6bBjHfdRnza.md)
 - [Fresh Finds España](/playlists/pretty/37i9dQZF1DWVhn3qoy98w6.md)

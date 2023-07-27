@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,500 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,800 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 | 80 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 |
 
-Snapshot ID: `MCxmMzQ0MWY5MjVlYzUwNmE1NTg0ZmI1OTI3Zjc3ZTYxNWJmMTZjM2Jj`
+Snapshot ID: `MCxkMTgxMzYxY2UyY2YzOTA3YThhOGNhMjM1YTM2NzBmZjg2ODc2MWIz`

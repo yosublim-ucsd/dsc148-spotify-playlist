@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: DJ Maff & Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,788 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,792 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 |
 | 100 | [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 |
 
-Snapshot ID: `MCw2ZTg3MTRkMWMzMGQ1MTkwMzg4NzNjMjVjNTA0NWFhMjBhYmNkMmVh`
+Snapshot ID: `MCxiMmJiOGRlMzlmYWIzZGVmNGU2NDI5YjI4MDQ1Mzg0MjNkNmNjOTI2`

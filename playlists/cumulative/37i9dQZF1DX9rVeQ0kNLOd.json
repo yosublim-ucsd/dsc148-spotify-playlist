@@ -2236,7 +2236,7 @@
     {
       "album": {
         "name": "Windmills",
-        "url": "https://open.spotify.com/album/5lvjELLjKZi7YaIsnQgbWu"
+        "url": "https://open.spotify.com/album/4DzOrai5gfKhWBEazJUP5W"
       },
       "artists": [
         {
@@ -2247,6 +2247,24 @@
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210874,
+      "name": "Windmills",
+      "url": "https://open.spotify.com/track/1aha4I89HovVYkb2O4udUM"
+    },
+    {
+      "album": {
+        "name": "Windmills",
+        "url": "https://open.spotify.com/album/5lvjELLjKZi7YaIsnQgbWu"
+      },
+      "artists": [
+        {
+          "name": "maco marets",
+          "url": "https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
       "duration_ms": 210874,
       "name": "Windmills",
       "url": "https://open.spotify.com/track/7EOtFyHjdSrnUdYlydmxNM"

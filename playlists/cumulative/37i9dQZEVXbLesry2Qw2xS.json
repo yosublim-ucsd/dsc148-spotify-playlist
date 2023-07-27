@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
@@ -7008,7 +7026,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 267243,
       "name": "Erootika Pood",
       "url": "https://open.spotify.com/track/0irG7UHJP2APS0hul5MCat"
@@ -8006,6 +8024,32 @@
       "duration_ms": 183750,
       "name": "friday nights (all my friends are wasted)",
       "url": "https://open.spotify.com/track/5okZWa9fJ4Go6NUnEbyEgl"
+    },
+    {
+      "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "album": {
@@ -15832,7 +15876,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -19056,6 +19100,28 @@
       "duration_ms": 123333,
       "name": "Psycho Dreams (Sped Up)",
       "url": "https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ"
+    },
+    {
+      "album": {
+        "name": "Psycho Dreams (Sped Up)",
+        "url": "https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Psycho Dreams (Sped Up)",
+      "url": "https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6"
     },
     {
       "album": {
@@ -26706,6 +26772,24 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: The Brother Brothers",
-  "num_followers": 251369,
+  "num_followers": 251401,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjljMGQ1YzRiYmY4NGI5NDAxYWQ0NWFhNTI3NThlNWQxN2ZjNGE0",
+  "snapshot_id": "MCwxOTkxZjM1Njk1MDg5MjkwNmJhZDBmYmUyMDNmMmE3OTU3MTZkZWRi",
   "tracks": [
     {
       "added_at": "2023-07-14 18:01:06",
@@ -682,6 +682,10 @@
         {
           "name": "Pickin' On Series",
           "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "The Sidekicks",
+          "url": "https://open.spotify.com/artist/4ZJVFT8xiw3SgQ8dydvWey"
         }
       ],
       "duration_ms": 215093,

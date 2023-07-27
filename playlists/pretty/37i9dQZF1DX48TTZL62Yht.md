@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,341 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,426 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:33 |
 | 100 | [Your Heart](https://open.spotify.com/track/2DTpP3caqX3QdJIEoS83mD) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Your Heart](https://open.spotify.com/album/1VKFaHoIvkZTzsSRad2jDZ) | 3:18 |
 
-Snapshot ID: `MCxhMjJlN2JhMmNjMWQ5NWU2YWRhYjE2NWY1ZTg2ZTJhMTY3ZWI4MTZm`
+Snapshot ID: `MCwwYmFhNzljYzZjNjA3MmJlYmU2YTJhY2Q3ZGYwOGE2ZTEwZmVkZTU5`

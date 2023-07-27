@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,280 likes - 31 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,330 likes - 31 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 30 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 |
 | 31 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 |
 
-Snapshot ID: `MCwyYjFkMmQyYjE5YWNmOTQ1ZmM2NzViNzRiYzBmMTQxYTdkMTRiMTFj`
+Snapshot ID: `MCxiMTcxNmY3OGQwZTk3MDFlMzMzZDAxMmVmMmMzMzZiNWRkODQ2NTM2`

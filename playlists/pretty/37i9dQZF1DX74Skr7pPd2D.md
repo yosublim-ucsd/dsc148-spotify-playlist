@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,854 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,868 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 | 100 | [I Still Love Him So](https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Urbane Jazz Of Roy Eldridge And Benny Carter](https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF) | 5:43 |
 
-Snapshot ID: `MCw4Y2E3MjIyMmI4YzFiZGY0MjYxYzA1NGJhY2RiZDM0M2NkYTRhNDAz`
+Snapshot ID: `MCw0OTQ1NTZiYTU3NzcxOTU5MWU0ZmQ3ZDcwZGFlNDE4OWIxNGE2OWNh`

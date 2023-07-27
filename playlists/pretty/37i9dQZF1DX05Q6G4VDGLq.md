@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,447 likes - 600 songs - 1 day 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,445 likes - 600 songs - 1 day 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 599 | [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 |
 | 600 | [If You Could See Me Now](https://open.spotify.com/track/6XdkzWraEtjlpD544ELbre) | [Back Room Jazz Trio](https://open.spotify.com/artist/0QsYYreXejEBRLCOp8v6bP) | [If You Could See Me Now](https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1) | 6:36 |
 
-Snapshot ID: `MCw1MzNlYWJiNDU2NTkzZjI1NDhhM2VlNjAwYzY0ZTEzOTdiZTY1ZWYw`
+Snapshot ID: `MCxjYmQwNGY1MzE3YzExZmQzMWZhNDRkYjhiNzM2ZjY1NDYwMzVkOTU1`

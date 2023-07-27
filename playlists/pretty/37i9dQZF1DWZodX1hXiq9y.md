@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,377 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,474 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Bye bye blackbird](https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [Swingin' Till The Girls Come Home](https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw) | 3:40 |
 | 100 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 |
 
-Snapshot ID: `MCxlMTZiZjRiMjAxMzQwZTFiNWZkNzBkNmM4ZTk3M2NhMzc5NzU1NDZi`
+Snapshot ID: `MCw5YzRlN2U4NTQwMTRjZmY1MDA5MWQ2MGUwODVlZTc5NmM1MWJmNWFm`

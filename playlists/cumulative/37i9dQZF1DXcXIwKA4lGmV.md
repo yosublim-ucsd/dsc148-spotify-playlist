@@ -4,7 +4,7 @@
 
 > Songs all about cleaning up.
 
-38 songs - 1 hr 15 min
+40 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Clean It Up!](https://open.spotify.com/track/1MQtc9JALkjXqOafjdeJnJ) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:02 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/0t1rkqsHhGf4JsZycaeNSs) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:51 | 2022-04-08 |  |
-| [Clean Up](https://open.spotify.com/track/75gisOvXlUiZPB75G6ppWP) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids \(Junior\)](https://open.spotify.com/album/4BrZmS5VWV1QaGfKhQQdSO) | 2:20 | 2022-04-08 |  |
+| [Clean Up](https://open.spotify.com/track/75gisOvXlUiZPB75G6ppWP) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids \(Junior\)](https://open.spotify.com/album/4BrZmS5VWV1QaGfKhQQdSO) | 2:20 | 2022-04-08 | 2023-07-27 |
+| [Clean Up](https://open.spotify.com/track/37dK47kxSPuKX7x7KAVhgq) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids](https://open.spotify.com/album/4bkiDGpX8AfK7foUCqNG2G) | 2:21 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/3SL6K3A1lXg2p3PDYkKjyA) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 2:14 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/6YB26Hh9zYELVR01LSQpMA) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [For the Kids: Songs from Everyone's Favorite Children's Tv Shows](https://open.spotify.com/album/6g3KoJWI0A8rnytReVE39W) | 0:48 | 2022-04-08 |  |
@@ -44,7 +45,8 @@
 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 | 2022-04-08 |  |
 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 | 2022-04-08 |  |
 | [Tidy Up](https://open.spotify.com/track/7rTG4TBax6vBcpbjSdAsLK) | [nick cope](https://open.spotify.com/artist/6RR9MIMTusJiW4XvJRjWRa) | [Why Is the Sky Blue?](https://open.spotify.com/album/2dgAAfKWHxHVuLHRB0NT26) | 3:58 | 2022-04-08 |  |
-| [Tidy up Song](https://open.spotify.com/track/2AwKs2JAHuDBBvpvARB1J1) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That! \(Kiwi Songs for Kids Under 7\)](https://open.spotify.com/album/5oCjNXxxxWFRHySLIgTkBg) | 2:32 | 2022-04-08 |  |
+| [Tidy up Song](https://open.spotify.com/track/0cSjY0qsgy6Ti90Gjc442f) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That!: Kiwi Songs for Kids Under 7](https://open.spotify.com/album/3FwcrMH4eVhspum2Ib6jPv) | 2:32 | 2022-04-08 |  |
+| [Tidy up Song](https://open.spotify.com/track/2AwKs2JAHuDBBvpvARB1J1) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That! \(Kiwi Songs for Kids Under 7\)](https://open.spotify.com/album/5oCjNXxxxWFRHySLIgTkBg) | 2:32 | 2022-04-08 | 2023-07-27 |
 | [Under the Bed](https://open.spotify.com/track/7JiMJTS474AbTv1x9Cfn6p) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I Found It!](https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1) | 4:05 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,857 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,870 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 |
 | 50 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 |
 
-Snapshot ID: `MCw4NWUyYjkzZTRlYzI0ZWViMjQzMmU2YTU5YTU0NGNhZDVkMDkzMjNk`
+Snapshot ID: `MCwyYTNiNmM1NmY4NGFiODAyNzA4YWQxMzM4YTNkZjc3ZjZkODUzZGI2`

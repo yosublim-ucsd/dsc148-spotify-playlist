@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100% Pure Love (UNIIQU3 Remix)",
+        "url": "https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "100% Pure Love - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF"
+    },
+    {
+      "album": {
         "name": "Last Year Was Weird, Vol. 2",
         "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
       },
@@ -282,7 +304,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 286874,
       "name": "Back Seat - Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K"
@@ -524,7 +546,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 241264,
       "name": "Black Mascara.",
       "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
@@ -1563,6 +1585,36 @@
     },
     {
       "album": {
+        "name": "HANDS IN THE SAND",
+        "url": "https://open.spotify.com/album/3EojlKt07YpxBg4ZMd9IWl"
+      },
+      "artists": [
+        {
+          "name": "Ebony Beach Club",
+          "url": "https://open.spotify.com/artist/6j795N4SgavzDmT4i2oeOR"
+        },
+        {
+          "name": "BRICK!",
+          "url": "https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v"
+        },
+        {
+          "name": "Leon Knight",
+          "url": "https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY"
+        },
+        {
+          "name": "Farrah Fawx",
+          "url": "https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144634,
+      "name": "HANDS IN THE SAND",
+      "url": "https://open.spotify.com/track/2801IQoMui53bSdJfEmvDd"
+    },
+    {
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -2427,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Manchester",
+        "url": "https://open.spotify.com/album/7dUS480qwiBn9oHpNkO0Fg"
+      },
+      "artists": [
+        {
+          "name": "Kyle Kinch",
+          "url": "https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239786,
+      "name": "Manchester",
+      "url": "https://open.spotify.com/track/6rhrppe1NoVgrL9nR08yCs"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -2827,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Ollie Cool J",
+        "url": "https://open.spotify.com/album/1iLGfapJXAihbi3L4qnVvW"
+      },
+      "artists": [
+        {
+          "name": "Ollie Red",
+          "url": "https://open.spotify.com/artist/6oY4OxZ5jtUfWZbhWeGrqp"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350831,
+      "name": "Ollie Cool J",
+      "url": "https://open.spotify.com/track/33FxaacUuABYe5BDrP4YEy"
+    },
+    {
+      "album": {
         "name": "One Night Ting (feat. Saweetie) [Bloom Line Remix]",
         "url": "https://open.spotify.com/album/6BaCNSXPA2F2LIYqtnWBz4"
       },
@@ -2904,7 +2992,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
@@ -3224,6 +3312,24 @@
       "duration_ms": 157494,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7lUzaQbK1zLDCJYzLGKD4x"
+    },
+    {
+      "album": {
+        "name": "Ring-a-Ling",
+        "url": "https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Ring-a-Ling",
+      "url": "https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns"
     },
     {
       "album": {
@@ -3996,7 +4102,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 192401,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"

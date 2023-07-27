@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,706 likes - 125 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,830 likes - 125 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 | 125 | [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 |
 
-Snapshot ID: `MCxmZDQyZGFkOTlhOTIyZWFmYTFkMDc5ZjUzNmNkMzUzMjg4N2MyMWIz`
+Snapshot ID: `MCwyMzNhNGQ4ZDBiMjM3ZjY0NjRlMWQ4ZWI2Y2EyYzcxNjliMjE3YTJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > Pigtail buns, chokers, knee socks, tumblr, and chunky platforms\. Cover: Melanie Martinez
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,537 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,709 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 49 | [Training Wheels](https://open.spotify.com/track/3EGW6TGGbdk6Ys1Y3HU3lj) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:25 |
 | 50 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 
-Snapshot ID: `MCxiNzdjODQyYWM3MGU0OWIxMzEwYzlkZWEyN2U5NjZmOTEzYmNmNjM3`
+Snapshot ID: `MCwzN2QyYTIwYzZmNjc0NmI4Y2U5NTFmMWI5YTk5OTBmNDEyOGUxOWQz`

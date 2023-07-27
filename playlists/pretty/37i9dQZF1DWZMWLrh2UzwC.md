@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,695 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,702 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 29 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
 | 30 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 31 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
-| 32 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 32 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 33 | [Chalawan Funk](https://open.spotify.com/track/7FrYrukvlwCc3zRo0dI87T) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Chalawan Funk](https://open.spotify.com/album/4HIaHqYtldG0Gb90aSprX0) | 5:38 |
 | 34 | [Daydream](https://open.spotify.com/track/5GVyappgUYjyeEAtzw2mVY) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Daydream](https://open.spotify.com/album/4mw1JCFUh2ZSagGxmb5cwm) | 3:23 |
 | 35 | [还有机会爱](https://open.spotify.com/track/4c6srEbLQtLUvg4s3cDUCX) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb) | [还有机会爱](https://open.spotify.com/album/11wXzhPnbrYJ6DPuxxZ71x) | 3:19 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 84 | [There's Nothing Else](https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [There's Nothing Else](https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq) | 3:42 |
 | 85 | [Love On Our Side](https://open.spotify.com/track/3LKQxFbjggBP8HckHIVXxR) | [Tanayu](https://open.spotify.com/artist/32mJinuGJRIppgtdgxUXE5) | [Love On Our Side](https://open.spotify.com/album/3Dsten0a5DcWBpGojl6VqE) | 4:24 |
 
-Snapshot ID: `MCw2OGY2NTQzYzYwYWRkMGVlNzE4MzVmMmI4ZmIzYjg4NzM3MTRmZjRl`
+Snapshot ID: `MCxiM2ZkYmUzYzhlMGZiMGU4OThjNTkxMmMxOTEwOTMzMDdiNDEzOGQx`

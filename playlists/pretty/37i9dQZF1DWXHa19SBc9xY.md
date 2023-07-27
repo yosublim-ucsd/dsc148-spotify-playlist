@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,968 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,079 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 | 85 | [Louco de Amor \- Acústica](https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9) | [INTENSO \(Deluxe\)](https://open.spotify.com/album/39xQjzBnICugrn3SIPy3bJ) | 2:51 |
 
-Snapshot ID: `MCxjMzBkNjI4ODc0MjdjZWRhNGNkYjI1ODJlZDkxMzA0NGI1ZmU5MjU0`
+Snapshot ID: `MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl`

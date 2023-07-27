@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: To The Grave
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,981 likes - 125 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,270 likes - 125 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 124 | [Hangman](https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Hangman](https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l) | 2:56 |
 | 125 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 |
 
-Snapshot ID: `MCwwNWViOTFmMmY5MjQzMTgyMGQ5OTdmZDg2OWEzZTM5MDdmYTgwNDE5`
+Snapshot ID: `MCwxMmRlZTM1NzlmOGQzNDAzYmNkZDYzN2QxOGNkMzNmMGMwNjk4MDRh`

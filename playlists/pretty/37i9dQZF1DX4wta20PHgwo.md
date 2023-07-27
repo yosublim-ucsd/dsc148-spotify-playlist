@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,037,460 likes - 150 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037,754 likes - 150 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 149 | [Blue and Sentimental](https://open.spotify.com/track/3ekVMZX5rGIrr8NJzPGnUN) | [Will Vinson](https://open.spotify.com/artist/39xJEa28eWbVz5f3FSZLp5) | [Tripwire](https://open.spotify.com/album/3JfSiufEqo9JHzBhjyIa91) | 6:09 |
 | 150 | [Requiem \- Live](https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [8: Kindred Spirits \(Live From The Lobero\)](https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6) | 11:32 |
 
-Snapshot ID: `MCxiMDIwNTZlYmE1ZDE1Y2M5NzY2MGE5NDgyMDFiMDg1ODdhZjUzZjA0`
+Snapshot ID: `MCw0ZDczMTNjODU0ZDdjMDBiZDAxZjk5ODVjMzM4ZTI5MTRhMWMzMDRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,654 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,720 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [If Love Is Good To Me](https://open.spotify.com/track/3LN1BQ7wVrALTnKRgEFVmF) | [Jackie Paris](https://open.spotify.com/artist/2Cu7QnPPlXXI90FjajvG1A) | [The Song Is Paris](https://open.spotify.com/album/1s82VyxZG5gx9OjeglI027) | 3:13 |
 | 150 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
 
-Snapshot ID: `MCwzZmM0YmUzNjhjNTFlOWQzYmIyYmE5ZmEwNDZiMzFiYjBiYWE1OWVl`
+Snapshot ID: `MCw4ODM4ZTc2OTYzYjRlOTZhNGNhYTIzMTg4MTE2YThjOTAxNjE1YWQx`

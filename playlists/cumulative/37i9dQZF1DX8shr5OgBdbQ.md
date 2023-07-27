@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-88 songs - 4 hr 33 min
+89 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,9 +88,10 @@
 | [The Maid on the Shore](https://open.spotify.com/track/3bNWnx8gL7vE28hMwY8epM) | [Jamie Jaffe](https://open.spotify.com/artist/59plkMTktla83D0uMxnDti), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz) | [Homeward Bound: Sea Songs, Ballads, and Chanteys](https://open.spotify.com/album/6OdLaBj4056Vnj1SzbcWU6) | 3:14 | 2022-03-10 |  |
 | [The Maiden and the Selkie](https://open.spotify.com/track/4U4T8QO8Cci2ubSo0B089I) | [Heather Dale](https://open.spotify.com/artist/4NCKwyk9WVY6YI81tRQTLA) | [The Green Knight](https://open.spotify.com/album/46RYQdFwzrH94oqJeFISaD) | 4:06 | 2022-03-10 | 2022-07-29 |
 | [The Maiden and the Selkie](https://open.spotify.com/track/6mm3BGVN6zER6t8mDjM8cQ) | [Heather Dale](https://open.spotify.com/artist/4NCKwyk9WVY6YI81tRQTLA) | [The Green Knight](https://open.spotify.com/album/1X476e9gq68JcrEMPkOleb) | 4:06 | 2022-06-29 |  |
-| [The Voyage of the James Caird](https://open.spotify.com/track/0SYC9Cmjty5bKDQ6mqj3nw) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Seasons](https://open.spotify.com/album/1M6FxxDFYxCn1DYwOXqnjs) | 4:50 | 2022-06-29 |  |
+| [The Voyage of the James Caird](https://open.spotify.com/track/0SYC9Cmjty5bKDQ6mqj3nw) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Seasons](https://open.spotify.com/album/1M6FxxDFYxCn1DYwOXqnjs) | 4:50 | 2022-06-29 | 2023-07-27 |
 | [The Voyage of the James Caird](https://open.spotify.com/track/1fbZTkb59Ak6iRxMGaMhn4) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/3lF1DEsmnHVH3smDy61ZM5) | 4:50 | 2022-06-29 | 2022-11-13 |
 | [The Voyage of the James Caird](https://open.spotify.com/track/5wVeEIDipWe8qH8uPkAAEv) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/66ohN6TdRvK9opK3FT4uZ1) | 4:50 | 2022-03-10 | 2022-07-29 |
+| [The Voyage of the James Caird](https://open.spotify.com/track/6ITIy2hnY7xx9wCLycIlzq) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Seasons](https://open.spotify.com/album/3LHThPCPCGGwLu0ghEAYtC) | 4:50 | 2023-06-16 |  |
 | [Wellerman](https://open.spotify.com/track/2mSJqOCHxWfVkXYUXja92I) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Seemannslieder / Sea Shanty](https://open.spotify.com/album/3nagOcNnsjwAseelaXXKcW) | 2:16 | 2022-06-29 | 2022-11-13 |
 | [Wellerman](https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:16 | 2022-06-29 |  |
 | [Wellerman](https://open.spotify.com/track/3oUuRNgyIuiqVTWLCChp3s) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind and Water](https://open.spotify.com/album/00B1vpnbtfEPYWOBL5jp6h) | 2:18 | 2022-03-10 | 2022-07-29 |

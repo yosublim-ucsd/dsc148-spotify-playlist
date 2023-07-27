@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Sena Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,371 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,380 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 50 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 
-Snapshot ID: `MCw5MzRmY2QyMWRiN2JkZWJiYjhmODIwYjY1NDRlNjk2YTdlOTM5N2Nh`
+Snapshot ID: `MCxiMjk3YTgwNTdkMTNlYzNlZmJkMzY5NGE0YzIyZTFkOWVkNGNmOTg5`

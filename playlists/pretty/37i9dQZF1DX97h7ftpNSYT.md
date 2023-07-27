@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,978 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,033 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 |
 | 100 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
 
-Snapshot ID: `MCwzMjY4Yjk4Mjg2M2IzMGI2MGVhZDhhYmZkN2Y4ODQwZWFiNDZhM2U2`
+Snapshot ID: `MCw5ZDA3NGRjYjJjYzA5YTVkYjNmYTZkOTZhNDdkNWRiNzhlMDdkZTVl`

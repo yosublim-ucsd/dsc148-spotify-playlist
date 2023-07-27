@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,554 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,821 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [Romeo Surgeon](https://open.spotify.com/track/24hpdRzYZzg2MoNhqmdARN) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Welshpool Frillies](https://open.spotify.com/album/0t5LjorcMhr4nEmPwefSYv) | 3:17 |
 | 24 | [This](https://open.spotify.com/track/0N63RBpTovevPppc3D8NZj) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This](https://open.spotify.com/album/4xevMdJnWGbcTmYZRtctQE) | 4:02 |
 | 25 | [Right On Time](https://open.spotify.com/track/0jVmSDYUEqnn3VC5EnOJV3) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Right On Time](https://open.spotify.com/album/6Jphng14owmdrJatHjuxX4) | 3:51 |
-| 26 | [White Line Frankenstein](https://open.spotify.com/track/2cW1tXApRx8VhI5KARp2nW) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [White Line Frankenstein](https://open.spotify.com/album/0Z3BEEWFoe8om7BYDmt8xy) | 3:40 |
+| 26 | [White Line Frankenstein](https://open.spotify.com/track/2cW1tXApRx8VhI5KARp2nW) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [White Line Frankenstein](https://open.spotify.com/album/0Z3BEEWFoe8om7BYDmt8xy) | 3:40 |
 | 27 | [Nothing To Lose](https://open.spotify.com/track/4jtUBltoXZYMmYKoNzLatr) | [The Screaming Jets](https://open.spotify.com/artist/3vgQA38yGGMvn4DHjsVre5) | [Nothing To Lose](https://open.spotify.com/album/76n7M7KfO7WHSQ2tU9Y11v) | 3:24 |
 | 28 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 |
 | 29 | [Everything Turns Around](https://open.spotify.com/track/1snNY6gV41RNLYdetvv2nr) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [Everything Turns Around](https://open.spotify.com/album/2q1uXiqqTfP24tnWjEDxhg) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 |
 | 50 | [Ten Billion People](https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Ten Billion People](https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q) | 6:29 |
 
-Snapshot ID: `MCw4YjQ1NmY2OTE3NzhkNzM1ODY0ZDMzMTJlY2IxZTEzZWY1MDM1YmZl`
+Snapshot ID: `MCwwOTM4ZTY1MjQ3ODZhMzFkZjMwMGM3ZWY2MDJhYTU4YTIyN2Y5NjU4`

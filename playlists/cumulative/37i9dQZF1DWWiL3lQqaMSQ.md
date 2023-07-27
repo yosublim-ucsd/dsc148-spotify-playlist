@@ -4,7 +4,7 @@
 
 > All of the 2023 nominees in one playlist! More info on this year's event can be found at <a href="https://www.thestellarawards.com/index.html">stellarawards.com</a>.
 
-143 songs - 11 hr 48 min
+144 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Believe in Yourself](https://open.spotify.com/track/7r7kv6Iel6zWiJQJqU8KhJ) | [Keith Wonderboy Johnson](https://open.spotify.com/artist/2DueTnHVGO5j6yZvfj3Xyy), [Josh Myles](https://open.spotify.com/artist/1B9rnrQ7PD7At59QbGj7Hr) | [Inspirational Project](https://open.spotify.com/album/65u1g8GkzNCp5qIwTCy6dd) | 3:56 | 2020-09-08 | 2023-07-14 |
 | [Big \- Live](https://open.spotify.com/track/2bbjohjXkon0Xm1D5C3ilV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [B!g](https://open.spotify.com/album/2KPy6pMWZ9yIlY03j6iYEY) | 3:21 | 2020-09-08 | 2023-07-14 |
 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 | 2023-07-13 |  |
-| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2023-07-13 |  |
+| [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 | 2023-07-13 |  |
+| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2023-07-13 | 2023-07-27 |
 | [Bless Somebody Else \(Dorothy's Song\)](https://open.spotify.com/track/6qIad8GqCYYDDXjLj6ry5x) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [Bless Somebody Else](https://open.spotify.com/album/4vRoBivVMl8YODQ0mR4Pdw) | 5:43 | 2020-09-08 | 2023-07-14 |
 | [Blessings on Blessings](https://open.spotify.com/track/7vUFBl7CEHoSKuzl6FjV3J) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [2econd Wind: Ready](https://open.spotify.com/album/58mYgRaVDm6sI6gRMKr9nQ) | 4:51 | 2020-09-08 | 2023-07-14 |
 | [Break Every Chain \- Live](https://open.spotify.com/track/0BauxGnHBA2epjWuq1S5Vq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 5:41 | 2020-09-08 | 2023-07-14 |

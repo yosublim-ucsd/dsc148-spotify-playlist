@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,940 likes - 115 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,959 likes - 115 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 |
 | 115 | [Mr\. Bojangles](https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Mr\. Bojangles](https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC) | 4:03 |
 
-Snapshot ID: `MCxiNjgxZjNkODhkN2VjOTk0ODY0YjVkNmM1M2QzODQ3OGZiZjA4MDg3`
+Snapshot ID: `MCxhYWQ0MzQxNDhmM2UwZjAyZjkxNGY0NDFiZGI4NmMzODdkYWZkYWVm`

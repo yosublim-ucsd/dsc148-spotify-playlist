@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,715 likes - 70 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,788 likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 |
 | 70 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
 
-Snapshot ID: `MCw1YWY2ZWVkNDhkNTgwNTY2OTI3ZGUxMjFmMjJlZDFkYWQ2MzMzZGE5`
+Snapshot ID: `MCw3MjY5NTBmZjBiOThmMTI2ZWY2MmQxOGRjZjc1Zjg4ZTU3ZWYyMjEz`

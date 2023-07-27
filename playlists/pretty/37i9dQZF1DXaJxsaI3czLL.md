@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,045 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,053 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 79 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 80 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 |
 
-Snapshot ID: `MCw2NGExMDI2Nzg0YTM0OTk0ODIyYjgzMjU3MDNlYjZiMjg2ZjNmNmRi`
+Snapshot ID: `MCxlOTg1Y2Y4ZWYzNWMzNzVjMjY3ZDk3ZDg0YmUxZTJmNTA3YTgwOTU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,763 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,105 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/album/45ZhRluyUrfxPeRXlryi2L) | 3:17 |
 | 100 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
 
-Snapshot ID: `MCw4YTIzODQ5M2I5YWY4NWMwYzdjZWUzMDZmMTBmYzdhNzIxNTBiNGE1`
+Snapshot ID: `MCxlODM0MmE3MmFhNDMwOTNlYjA2NGM0NzMyM2MzZGFlNWVmM2ZjZmFi`

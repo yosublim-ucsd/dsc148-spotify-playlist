@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,897 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,973 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Look Like That](https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 3:17 |
 | 55 | [Pure Mode](https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:07 |
 
-Snapshot ID: `MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh`
+Snapshot ID: `MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz`

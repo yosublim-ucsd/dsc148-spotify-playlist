@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,253 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,327 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 |
 | 150 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
 
-Snapshot ID: `MCw5MzU2NmY0MDc0MmE4NjZjZTg4OTZlZmJmNjFlNGVhZmY4YzQ3ZGQ2`
+Snapshot ID: `MCw4ZjdiZDc1NmE1ZTM4OTkzM2M0ZDg3ODJkY2ZmMjk0ZjZkMTBmYjYz`

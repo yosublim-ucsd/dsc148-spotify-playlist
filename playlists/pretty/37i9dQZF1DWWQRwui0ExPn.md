@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,056,463 likes - 750 songs - 1 day 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,057,035 likes - 750 songs - 1 day 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Salamander](https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Salamander](https://open.spotify.com/album/2mofgRp3ne1mYeUZowFnpu) | 2:40 |
 | 750 | [Keep It Meta](https://open.spotify.com/track/73fERCJHbwaSTAQCM3qI3M) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Keep It Meta](https://open.spotify.com/album/0Ib5cZZfagemRE16zD3V36) | 3:03 |
 
-Snapshot ID: `MCxjYWVmOWNiNWJkNTdmZDVhNzk4NmEwYzEwNTMwNmE2MTRiNTUyYmQ5`
+Snapshot ID: `MCw0NTFjN2QwZmE3NTI2MTJlNTUzYjYwYTZmNzJmM2M5N2UyZmU2ODQ4`

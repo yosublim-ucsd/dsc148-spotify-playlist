@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 | 23 | [Animal Skin](https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:28 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA4OGM2NzAxODBkZjBmOTU2MWViMmQ4ZDM3ZjM1OWNiNA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDAzZTU4YTkzYTAwMGVhZmNkOWRiYjE1NjlkOThmOTkwOA==`

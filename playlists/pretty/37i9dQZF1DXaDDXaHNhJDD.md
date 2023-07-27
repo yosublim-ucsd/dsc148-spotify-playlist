@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Thallumala
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,658 likes - 55 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,715 likes - 55 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 38 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 |
 | 39 | [Aaraadhike](https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Ambili \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal) | 6:00 |
 | 40 | [Koyikkodu](https://open.spotify.com/track/4ZvzfkM8slkxtCB7EtkyLD) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Abhaya Hiranmayi](https://open.spotify.com/artist/0Z8vxkS3JFzjsLPHH7MLhR) | [Goodalochana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE) | 1:46 |
-| 41 | [Kalakkatha](https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi) | [Nanjiyamma](https://open.spotify.com/artist/4LDKQfEAZt4pldaHSjisgs) | [Ayyappanum Koshiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH) | 2:04 |
+| 41 | [Kalakkatha](https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [ANJU BRAMASMI](https://open.spotify.com/artist/2kr25HqZPrVzGq992qkH75) | [Ayyappanum Koshiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH) | 2:04 |
 | 42 | [Raftaara \- From "Lucifer"](https://open.spotify.com/track/4BnwmUfcnypLs5EGGCljIR) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Jyotsna Radhakrishnan](https://open.spotify.com/artist/4PGsgCRwejakZOHdf36Xum) | [Raftaara \(From "Lucifer"\)](https://open.spotify.com/album/6DyWpQpggHBivSY6Ya5kmG) | 6:16 |
 | 43 | [Thee Minnal](https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 2:12 |
 | 44 | [Aaro Nenjil](https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Godha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ) | 4:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 54 | [Vathilil](https://open.spotify.com/track/43K9FkL7gfLxLm69Da1UMF) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ustad Hotel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10bKk4j5D4qxYuW8lQKIUO) | 6:09 |
 | 55 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCw5NWJkZDYwM2E2MjhiNDk0Nzc1Mzc2NTA2MjNkMWE0NjY2ZGE5OWJh`
+Snapshot ID: `MCw2Yjk2YjRlM2U4NjZmYzZjMjkzMjM0NWM2ZWE4OWZlOTI5N2IzODBj`

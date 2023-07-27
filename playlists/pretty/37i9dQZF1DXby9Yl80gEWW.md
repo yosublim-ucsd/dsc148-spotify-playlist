@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,708 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,747 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 |
 | 100 | [Blackberry Blossom](https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 2:36 |
 
-Snapshot ID: `MCw0OTRmZjc0MjdhM2ZhNjkxYjM1ZjQ3NDk1ZjUxOTViNjQ3N2I4ZDk5`
+Snapshot ID: `MCw1MTE0NTJmZWU1ZjM3NWFlYzRiZDkxNGE0YzNiZjY1YjE0ZmZiMjQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,654 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,764 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 |
 | 100 | [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 |
 
-Snapshot ID: `MCwwNDMyZmE0OTFlNTFlN2RkN2QxMmJhZjhiOWJjODAyMWY2MmQyMmZl`
+Snapshot ID: `MCwxN2NlMWVkYjdmNzAyZDJhZjQwNTYxMTdkM2YzMTM4NmEzMDU4ZTQz`

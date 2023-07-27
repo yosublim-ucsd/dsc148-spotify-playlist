@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,643,503 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,644,023 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 |
 | 100 | [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 |
 
-Snapshot ID: `MCw0ZDAxYjNhNjI4ZGZlMGFhMjVmZDEzMzllNWUwMWQ4MWZhYThiODgx`
+Snapshot ID: `MCwyNmNjZjQ5Y2MyNTk1ODI5YWY1YjI2OGY1M2IzYTRkYTcwZTI4ZTk2`

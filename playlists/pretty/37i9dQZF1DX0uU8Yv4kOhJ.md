@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,269 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,295 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
 | 50 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
 
-Snapshot ID: `MCxiNDA2ZTE5MjcyYmExMWQ0OGZmZGNlZDA2YTAzZTBhN2YyM2NjZWE5`
+Snapshot ID: `MCw4MGY5OTcwZDAxNjI5MGQ2MjJjM2M1MWZmZTJjMDg1YTE5YzY3Zjk3`

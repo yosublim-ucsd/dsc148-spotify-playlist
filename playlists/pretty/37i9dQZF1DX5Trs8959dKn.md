@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,622 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,695 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 |
 | 50 | [Kabi O Osi O](https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Life and Worship Chapter 1](https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X) | 4:17 |
 
-Snapshot ID: `MCxkZjdiZTliZWQxNTc2OWEyNDZkOWNjYjE2ZGM0NTkwNzIyYjMzYTMx`
+Snapshot ID: `MCw5MjgxYWVmMjAzNmQwM2Q4NDY5MDIwYjc2Y2M5OTlmNGYwMjdkM2M0`

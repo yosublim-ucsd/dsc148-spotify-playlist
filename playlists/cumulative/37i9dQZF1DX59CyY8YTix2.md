@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: クレナズム
 
-1,035 songs - 2 day 17 hr 29 min
+1,036 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [60W](https://open.spotify.com/track/1xRACXqo2UiX6Ci4oa5vKw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [60W](https://open.spotify.com/album/4WOO5s3gSbRsFV0q5D6AzF) | 4:15 | 2023-01-31 | 2023-05-31 |
 | [7.26](https://open.spotify.com/track/4aZaTKNOS8hzT0qhMUJFlb) | [Leica](https://open.spotify.com/artist/1VkUmyetwZ4BRkl1VuMKFG) | [7.26](https://open.spotify.com/album/0j8d37uiEbFp3fzQAFl3d0) | 4:00 | 2022-06-14 | 2022-07-21 |
 | [8.8](https://open.spotify.com/track/78igtKiXSTIGqLVr2dHb5k) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [8.8](https://open.spotify.com/album/68T9fiYFvjHMLCUPbei61t) | 5:53 | 2022-05-26 | 2022-07-08 |
+| [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 | 2023-07-25 |  |
 | [8つ上のあなたに恋をした](https://open.spotify.com/track/4iADbOKVeDoHs508tQdVcC) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [8つ上のあなたに恋をした](https://open.spotify.com/album/6YmhTM28XqjZmKjbJFgK2N) | 4:32 | 2022-06-02 | 2022-07-09 |
-| [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 | 2023-07-25 |  |
+| [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 | 2023-07-25 | 2023-07-27 |
 | [96](https://open.spotify.com/track/3DFTBYmTBM0hju2dFDVNG7) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [96](https://open.spotify.com/album/7byqPEkAGlMsKCsnwL9K1g) | 3:07 | 2023-03-07 | 2023-04-12 |
 | [A revolution](https://open.spotify.com/track/6JbWY04QxDrzoQgKUuILPu) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/2VjBSHmjbkuXRzIWS2QRKa) | 4:46 | 2022-08-17 | 2022-08-24 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-14 |

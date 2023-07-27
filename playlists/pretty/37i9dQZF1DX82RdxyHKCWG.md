@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades do pop que estão explodindo no Spotify\. ✨ Foto: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,770 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,830 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 84 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 |
 | 85 | [Hope](https://open.spotify.com/track/1fB1m65t28LjFyvEJpBIIf) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:29 |
 
-Snapshot ID: `MCw1OWY5NDY1NDNhYWE5MTgxYzAyMTcxODFlNzgxM2Y4YzEzOWI3ZTFk`
+Snapshot ID: `MCwxNmE1ZjMxYTJiNjZjMmE4NDZhYzEyYTA2MGM5N2JkZGQ0ZWU4YTMy`

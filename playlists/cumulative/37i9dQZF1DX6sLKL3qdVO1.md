@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Shawty lo que necesitas es darle flow\. Tainy y Bad Bunny en Portada.
+> Shawty lo que necesitas es darle flow\. Quevedo en Portada.
 
 445 songs - 1 day 0 hr 30 min
 

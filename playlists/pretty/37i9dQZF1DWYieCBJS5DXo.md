@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 
 > Serving up your favorite songs about snacks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328 likes - 35 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326 likes - 35 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 |
-| 2 | [Pineapple](https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:42 |
+| 2 | [Pineapple](https://open.spotify.com/track/6uTZBOLjGcq1YfhrQqx9Uk) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \- It's Fleabite 5](https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT) | 2:42 |
 | 3 | [The Pretzel Store](https://open.spotify.com/track/7iGp6dI0fl4ECsOeIkfg7Q) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Food Songs](https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO) | 2:09 |
 | 4 | [Fruit Salad](https://open.spotify.com/track/7cRLSuOaw8RzS5avx30uOQ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Best of The Wiggles](https://open.spotify.com/album/1uh7RZLKvq5muRFJ5U0Fzf) | 2:09 |
 | 5 | [Who Took The Cookie?](https://open.spotify.com/track/3PpuDg0ZVPviHuljT3R087) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Do You Like Broccoli Ice Cream? & More Kids Songs](https://open.spotify.com/album/1VypRh8WKSwIjDCkHuiQah) | 1:58 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 | 34 | [Cookie Boogie](https://open.spotify.com/track/4Wge8h9SAbSl9h1ru2dDPR) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:02 |
 | 35 | [Ice Cream Song](https://open.spotify.com/track/1lrTu8P1TrX3IzRlc4Zcn0) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:02 |
 
-Snapshot ID: `MCw4OWQxOWViOGE0OGY1NmNiMThjMmY3NDk4MzEwNjQwMzZhY2I1NTIx`
+Snapshot ID: `MCw1YWIyMWVhZGJmYTYzZTcxMDBkMTU1OWZiNzVlNzA5ZDFkMTMyYmI0`

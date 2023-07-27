@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,553 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,580 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 |
 | 80 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 
-Snapshot ID: `MCxiMGRhNmFhYzIxMThhYzM0OWQ0ODdjNGI3N2ZkMTJkOGU0ZDRkNWE2`
+Snapshot ID: `MCwwZTI5YWNmMTA1MzBkMzY1OWY1Njg4NGZhNTUwNmM0ZGM3MWFlNzZm`

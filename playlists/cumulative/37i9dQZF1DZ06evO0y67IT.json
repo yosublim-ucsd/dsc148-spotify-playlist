@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+    },
+    {
+      "album": {
         "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },

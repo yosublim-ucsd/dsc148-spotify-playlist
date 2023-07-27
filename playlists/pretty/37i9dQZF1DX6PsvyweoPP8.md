@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,076 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,194 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 4 | [Território](https://open.spotify.com/track/5PdXjjxtXFph228HxlHHV1) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Território](https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7) | 3:03 |
 | 5 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
 | 6 | [Pra Que Isso?](https://open.spotify.com/track/3URdomWpV9PPNROt98UwFa) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:21 |
-| 7 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 |
+| 7 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 |
 | 8 | [Topless](https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klauss](https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY), [Lucas Chief](https://open.spotify.com/artist/2Z5T5UanKvhyUyKuUv3hFe) | [Intenção](https://open.spotify.com/album/7wdJveXfB0dVqbbPdR5zUD) | 2:49 |
 | 9 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
 | 10 | [Malvadona](https://open.spotify.com/track/4GST2I05FoZuNVpYliZYvK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MCxiNzEwOWE2MWQ3NWE4ZDNjMjRkMTYxNmVmMGUxZDBlMTM3YTZiNmI0`
+Snapshot ID: `MCwxMWI3MDc3ZjI0YjdiN2ViMzVlOTgyY2RiNWM2YTFmMjIyYzU4NDMw`

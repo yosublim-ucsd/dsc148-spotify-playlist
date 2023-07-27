@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,341 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,511 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [雀の子](https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [雀の子](https://open.spotify.com/album/1MzgYIiGByI7YdHKGCr4xG) | 3:11 |
+| 1 | [Little Sparrow](https://open.spotify.com/track/3E8afOCrmBwpaWJa088oiK) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Little Sparrow](https://open.spotify.com/album/5GxWPcPEess2AWA8YswjHE) | 3:11 |
 | 2 | [地球儀](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 3 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 4 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
-| 5 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 |
+| 5 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 |
 | 6 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
 | 7 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
 | 8 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 55 | [名前を呼ぶよ](https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/5UXiAgBDuYMULAVlRNF3it) | 4:37 |
 | 56 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 |
 | 57 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 |
-| 58 | [やさしくなりたい \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/52w8YoUPGmDGmKuxwMx6Ea) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/0FLQU9ycu88AVRO6PNGDVF) | 5:26 |
+| 58 | [Yasashiku Naritai \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/5Di7mAEctcwaj2HpoW4DAu) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/67rfBRMgQSY4ctr2PAtUJx) | 5:26 |
 | 59 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 60 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 |
 
-Snapshot ID: `MCw5MDUwYzJiNTg1MWFlMGNmYjBlZGIyYzBmYjAyZTY2ZDc4Nzk4ODQ5`
+Snapshot ID: `MCw1YzQ1M2E0ZDY4ZjVmMTc1MGI5YWQyNTYxNmY2YTI0MGE3N2JlZTZk`

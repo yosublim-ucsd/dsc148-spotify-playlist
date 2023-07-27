@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-662 songs - 1 day 17 hr 27 min
+664 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [130](https://open.spotify.com/track/7r7kXWGqoHcLp1CgzoNsvM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [130](https://open.spotify.com/album/1JDCIfpoBPrYy5vnAFkp30) | 1:30 | 2023-06-20 | 2023-07-05 |
 | [a \(hey\)](https://open.spotify.com/track/1sGH32pmXnEhI5myHYhYi1) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [a \(hey\)](https://open.spotify.com/album/2SwEji0M37BGWE7nDKMUOG) | 3:09 | 2023-05-23 | 2023-06-07 |
 | [A Bit On The Side](https://open.spotify.com/track/1f9nwOMTtMSLYvVreTnSyg) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [EP](https://open.spotify.com/album/2nFumk9wFMFhKU6FgiVcLL) | 2:02 | 2023-04-25 | 2023-05-24 |
-| [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 | 2023-07-25 |  |
+| [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 | 2023-07-25 | 2023-07-27 |
+| [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 | 2023-07-25 |  |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-02 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 |  |
 | [Afraid??](https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Afraid??](https://open.spotify.com/album/0AwUv4QlEg7y7oZGSGtfW8) | 3:16 | 2023-01-12 | 2023-01-25 |
@@ -364,7 +365,8 @@
 | [Sunday Eve](https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Sunday Eve](https://open.spotify.com/album/72uKl7a6PC95Fnu6Ew35sX) | 4:24 | 2023-06-13 | 2023-06-28 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-19 | 2023-02-24 |
 | [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-11 |  |
-| [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 |  |
+| [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 | 2023-07-27 |
+| [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 |  |
 | [SWAG](https://open.spotify.com/track/3lWuQtvl0C3pTcStluTtgj) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [SWAG](https://open.spotify.com/album/6dKzXsTmOV2WNWOWajmaM4) | 2:59 | 2023-07-04 | 2023-07-19 |
 | [SWAG](https://open.spotify.com/track/32HRX6Iu36uiraswJkIbiv) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [SWAG](https://open.spotify.com/album/0veFcBGgU77H4LKxGCL1TZ) | 2:59 | 2023-07-04 | 2023-07-06 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |

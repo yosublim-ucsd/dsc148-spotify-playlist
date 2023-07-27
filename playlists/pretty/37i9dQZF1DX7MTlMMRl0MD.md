@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,983 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,114 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 100 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
 
-Snapshot ID: `MCwzMGQ2YmRlYjcxMTFjZGNhMGY1MzlhYzM5YTExN2VhZWIxNGU2YjA3`
+Snapshot ID: `MCwyYzBhZTUyOWJmMTM3NWMxNTRmOGU0MDA5YzE5M2JhNjI4YTRlZmY4`

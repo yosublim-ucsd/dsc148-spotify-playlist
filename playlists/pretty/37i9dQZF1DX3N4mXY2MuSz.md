@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,519 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,517 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Father Christmas](https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:29 |
 | 75 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
 
-Snapshot ID: `MCw2OTMzOTU2MmJlMjY2M2IwNTIwYzM3YjhmYWE0YjFjMTBjM2IxNWU4`
+Snapshot ID: `MCw4NGRkNWQxYWM0NjcyNjMxNWJmZWE5ZmFjZTdjYzllNTY1NDU1YzE2`

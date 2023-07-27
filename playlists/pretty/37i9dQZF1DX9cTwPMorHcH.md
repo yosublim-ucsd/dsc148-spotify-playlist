@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,492 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,566 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Help Me](https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Essential Sonny Boy Williamson](https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc) | 3:08 |
 | 100 | [Fresh Out](https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:48 |
 
-Snapshot ID: `MCxiMDYxNzg0M2MwODRkNzAwYWFkZmI0M2Y0NTkxOWVmMzFhYmU0ZjEy`
+Snapshot ID: `MCw1MjE0Mzg4OGY2MDhiYTNhZDBlNzI3M2E5MTkzNGMwY2I1NDUxYWU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,321 likes - 170 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,424 likes - 170 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 |
 | 170 | [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 |
 
-Snapshot ID: `MCwzYjY3YTA4NTdlMzQzMDY0MGY4M2MzOTAwZWUzYzE5ZDAxMTg2MDhh`
+Snapshot ID: `MCwzOWI5ODIxY2UwMTM1NmUyMzNiNDMxYTY1ODIzZDc1OWI3MzUxZWU0`

@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1532232,
+  "num_followers": 1532800,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNhYjRjYWY4MTMzMDExYWFmNTUyNDNmZTY0MjAzNDFhNjMzNTk3",
+  "snapshot_id": "MCwyYjc0NzIwOGE1ZmU3OGU0N2I0ZWMxNjFlYTIzMWU5NTI2NjFkMWQ0",
   "tracks": [
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187834,
+      "name": "El Papel Cambio (Bonus Track)",
+      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 217200,
       "name": "Cuando Fuimos Nada",
       "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 188400,
       "name": "Ac\u00e1bame De Matar",
       "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1891,6 +1907,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -1911,22 +1943,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -2047,6 +2063,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -2075,22 +2107,6 @@
       "duration_ms": 188266,
       "name": "Que Te Trague La Tierra",
       "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -2143,26 +2159,6 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "Me Rend\u00ed",
-        "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Me Rend\u00ed",
-      "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
     }
   ],
   "unique_name": "Mal de Amores",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,825 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,040 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 |
 | 100 | [U Ok?](https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [U Ok?](https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7) | 2:34 |
 
-Snapshot ID: `MCw1N2NjZGJmMzBhODhlMTljNmExZGFkZDVmYmIyMTBkMmI5NTczMmM0`
+Snapshot ID: `MCxmYzVjMTg3M2NmNzNhYWMwNGZiMjYzNmQwMTk1NWVjMzZmNTkzZmYx`

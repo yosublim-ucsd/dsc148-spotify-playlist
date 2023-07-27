@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 511579,
+  "num_followers": 511682,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFkZWY5ZWZhNzcyNDRkNDY2NTk0ZTlmYjhmYTIwOTVkNDA4MmI2",
+  "snapshot_id": "MCw1ZTc1OTk1ZTYzZjNkNjVmNjIyOGMyYjI5MzY3ZmUyMmMxNWJmMTM3",
   "tracks": [
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Salsa-Jazz-Descarga",
-        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Condiciones Que Existen",
-      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 568773,
       "name": "Guarachi Guaro - Live",
       "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Hidalgo",
+          "url": "https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6"
+        }
+      ],
+      "duration_ms": 425333,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6"
     }
   ],
   "unique_name": "Latin Jazz",

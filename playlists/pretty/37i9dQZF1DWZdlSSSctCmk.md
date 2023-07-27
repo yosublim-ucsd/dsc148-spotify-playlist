@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,012 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,098 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Tropicololo](https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 5:32 |
 | 100 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 |
 
-Snapshot ID: `MCw1ODE2ZWUxMTY4MmZjOTZlMTYzZWY3YmFkN2IxOTljMzBiZWMxODFl`
+Snapshot ID: `MCxiNjQ2YjBmZjA5NDE4YzkzMjc5NWFjNDI3YTZmN2FmZDUxNjU4ZTUw`

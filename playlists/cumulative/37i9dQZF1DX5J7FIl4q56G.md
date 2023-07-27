@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Code Orange
 
-4,052 songs - 11 day 9 hr 35 min
+4,053 songs - 11 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2168,7 +2168,8 @@
 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 | 2022-04-15 | 2022-04-22 |
 | [Making Monsters](https://open.spotify.com/track/0K161bLN0sD0NuIBUs8Uir) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Making Monsters](https://open.spotify.com/album/6T8mKUbptB0T4jkJD4dozN) | 5:29 | 2023-04-28 | 2023-05-06 |
 | [Malady](https://open.spotify.com/track/4XX4hnmMNemLHsTd8WZx8M) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Malady](https://open.spotify.com/album/4Jd5siItwcUoDND7YU2ogV) | 4:03 | 2023-06-23 | 2023-07-01 |
-| [Malediction](https://open.spotify.com/track/3fMDpql7vPSfez1LjUMAOT) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/2LewaGThuUlnoZfSO3y809) | 10:56 | 2023-07-21 |  |
+| [Malediction](https://open.spotify.com/track/3fMDpql7vPSfez1LjUMAOT) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/2LewaGThuUlnoZfSO3y809) | 10:56 | 2023-07-21 | 2023-07-27 |
+| [Malediction](https://open.spotify.com/track/6AoGo54IeTINHsyS3vAsje) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/7x2XSoavmWKAXpG3HorsFM) | 10:56 | 2023-07-21 |  |
 | [Maleficent](https://open.spotify.com/track/0AQwQFCWk5o51cQONVCuRH) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Maleficent](https://open.spotify.com/album/1uop7QTETT2EqjPl0ky2cv) | 3:48 | 2023-05-05 | 2023-05-13 |
 | [Malicious Sukkubus](https://open.spotify.com/track/6u0NRvczjUzBIaEeWEzOcc) | [Atrocity](https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX), [Elina Siirala](https://open.spotify.com/artist/6AEq0leC9g7XTUp3Z7tUlp), [Zoë Marie Federoff](https://open.spotify.com/artist/0B8xFjzuA1tZ6nmnKSzVG7) | [Malicious Sukkubus](https://open.spotify.com/album/2k9C5MwKo4tklKfnpcD3Ix) | 6:35 | 2022-12-23 | 2023-01-06 |
 | [Malignant Visions](https://open.spotify.com/track/6Tbsy7matHjDnOPz0lJxnk) | [Disguised Malignance](https://open.spotify.com/artist/0e5FD8Ns1BnTTOMEZk4Cvf) | [Malignant Visions](https://open.spotify.com/album/5a0BLnqAg66iQ7VNmfZl6q) | 4:43 | 2023-06-30 | 2023-07-08 |

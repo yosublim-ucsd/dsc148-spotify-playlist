@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,834,446 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,835,020 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 102 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 103 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCxkZDZkYTRkNWZlZDlhYjVlNDc0ZTdkYTM1NzcwMGI3ZjcyYTlkNzU2`
+Snapshot ID: `MCxkZTJjZGZiMmFhM2JjNzM0ZTAzMWUwODE0NzUyOWQ1NmMyODMxYTQ4`

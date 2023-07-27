@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > ¡Una inyección de alegría para tus mañanas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,974 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,034 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 99 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 |
 | 100 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
 
-Snapshot ID: `MCw2YmYzYTc4NjU0NDljYjBhMDVlNGNjMWMzOTBkYjI5ZWNkNzIyYzE2`
+Snapshot ID: `MCw1NWI2ZmRkNWY2NGFjNGFhNmQ3OWJiOTU2MjVjNTNjYWExODdlZGI0`

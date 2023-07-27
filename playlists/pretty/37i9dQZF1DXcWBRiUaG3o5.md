@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,953 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,936 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 100 | [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 |
 
-Snapshot ID: `MCw3ODdmOTNlZWEyM2EyYTU5ZDNlYWZiZDhjYmI4ODkzZjE0Yzg2NTky`
+Snapshot ID: `MCw0YmYxMTA5NDdiMGUzYzE5YjE2N2Q0MGY4NWUzZWYyM2Q4NjE2YTU3`

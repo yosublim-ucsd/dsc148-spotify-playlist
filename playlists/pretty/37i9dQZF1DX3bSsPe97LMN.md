@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,472 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,493 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Amarte Es Mi Destino](https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5) | [Los De La Verde](https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6) | [Amarte Es Mi Destino](https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR) | 3:00 |
 | 100 | [La Tostada](https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp) | [Los del roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj) | [La Tostada](https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j) | 3:35 |
 
-Snapshot ID: `MCxkYTRkMDE4ODM3MTUwMjI2NDUyZjMxMTc0YzJjZDcyZTJhNTZlMGVk`
+Snapshot ID: `MCxjMDYzNDI0ZjVhOWM5MjU4ODQ5NDg4NDFkNWI3NGQ4ZTRhZWNiMjcx`

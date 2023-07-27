@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905,272 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,906,359 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 99 | [The Rubberband Man](https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Rubberband Man / Now That We're Together](https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW) | 3:33 |
 | 100 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 
-Snapshot ID: `MCw2MGRiZTJhMDUxNGIzMzMxOThlY2ZmNTBkMDRiZTUzYTA2MzZmNmU0`
+Snapshot ID: `MCw4MjZiNDkxNTE3MzJmZjYxOTQyNGJmOGQzNjg5YThlOTk3OGY3Yzhm`

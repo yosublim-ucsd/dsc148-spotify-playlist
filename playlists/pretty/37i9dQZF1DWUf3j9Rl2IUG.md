@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=Y0HlqxWKQ3mZiSk9tpQvGw"> Oxlade </a>  and <a href="https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=1e\-okKDFRC2a4XJNKTkuRQ"> Dave </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,131 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,220 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 79 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 80 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 |
 
-Snapshot ID: `MCxjNDU3N2Y3ZDViNWU3NTYyY2Y4MjA4ZTAwZjM2YTQzMjFiYjQ2MDQ5`
+Snapshot ID: `MCxkMTdkZjY3YWZmNzlmZTgwMzZlZGJmZTA4ZmEyM2YyZTkzYjYzMTc1`

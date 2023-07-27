@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,257 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,542 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 49 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
 | 50 | [Every Rose Has Its Thorn](https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 4:20 |
 
-Snapshot ID: `MCwwMjQzMTllYmQwYzE3YWE2MDZkYmM0NDNhNGQwY2VmY2QwNDJhZTU0`
+Snapshot ID: `MCwxMzE4MmY1MjY1ZmI1MWY4MjMyYjYyOGVlY2ExYTQ0NjNjMWY5NjRm`

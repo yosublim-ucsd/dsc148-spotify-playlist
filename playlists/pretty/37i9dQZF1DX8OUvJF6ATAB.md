@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,430 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,485 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
 | 100 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 |
 
-Snapshot ID: `MCw0ZjkyMTc4ZTdlMWMzMWEyN2MyZTJjYTJmODQ0YTA3YWE1MGNlZjZl`
+Snapshot ID: `MCwxNjJkYjE4ZmEyM2E0ZDk3ZjkzZWQzYzc3MWE0ZjM1YmEwNWM1OTli`

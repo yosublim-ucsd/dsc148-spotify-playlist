@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,058 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,093 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [amends \- VIP edit](https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎‎amends \(Remixes\)](https://open.spotify.com/album/0KhnXSPJIBJiRr41t0sSHA) | 1:24 |
 | 125 | [What It Feels Like](https://open.spotify.com/track/4THzf8XAVHJptdedD0ZlKO) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Almost Weightless](https://open.spotify.com/album/5DnqvrQnOpEZr2vVnGnq3l) | 3:51 |
 
-Snapshot ID: `MCw2NGVkZTM4MjFhZjFlOGFlMGZjYjdhMjdmNzhiZWM5MWE4ODVkZGQx`
+Snapshot ID: `MCw3MzA0M2Q5Y2VmYjA5NjIxZWVhZGI3MmMyNDQ5MDE4YzkwZjc3NjBl`

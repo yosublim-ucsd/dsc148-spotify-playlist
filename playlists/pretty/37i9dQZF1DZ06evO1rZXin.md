@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,201 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,204 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 25 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
 | 26 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 |
 | 27 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
-| 28 | [Dicembre Del 63](https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:15 |
+| 28 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
 | 29 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 |
-| 30 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
+| 30 | [Dicembre Del 63](https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:15 |
 | 31 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
 | 32 | [El Botecito](https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:43 |
 | 33 | [Baila](https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:58 |
 | 34 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 |
 | 35 | [Así lo Quiso Él](https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:13 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBiNzI1MzMyZWZiOTIyNDg2NmY2MzliNDg4NjJkYzM3YQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBiZjZmNGQ1NWZmMjc5NzU1NDM0YjQ4ZjM0Mzk1ODVkZA==`

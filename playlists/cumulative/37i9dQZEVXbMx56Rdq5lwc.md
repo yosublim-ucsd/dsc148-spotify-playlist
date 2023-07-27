@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,242 songs - 2 day 19 hr 36 min
+1,243 songs - 2 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-04 | 2022-07-17 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2023-01-03 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-23 | 2021-05-28 |
-| [aerobika](https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [aerobika](https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB) | 2:30 | 2022-07-05 |  |
+| [aerobika](https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [aerobika](https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB) | 2:30 | 2022-07-05 | 2023-07-27 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-27 | 2022-09-20 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-28 | 2022-10-15 |
 | [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2022-10-14 | 2023-02-16 |
@@ -835,6 +835,7 @@
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-25 | 2023-05-12 |
 | [Plepalai](https://open.spotify.com/track/3Ev25YP1Sja8luJsnZa89g) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L) | [Plepalai](https://open.spotify.com/album/2Q8bhzx9kB3wmKaNC682jL) | 3:05 | 2022-08-18 | 2022-08-20 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 | 2022-10-30 |
+| [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 | 2023-07-26 |  |
 | [POPAJUS](https://open.spotify.com/track/4bvI2Se4Qmg6ZoMwqsqFsL) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:00 | 2022-08-27 | 2022-09-05 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-13 | 2022-01-08 |
 | [POPSICLE](https://open.spotify.com/track/02LSj4m0ByVrmXATZ9gK43) | [SWITCHILL](https://open.spotify.com/artist/54IgzDLW8nsudR4YZFi4va) | [GREEN FLAMINGO](https://open.spotify.com/album/0qEL8o6VtlasrKeUrGZwoS) | 3:13 | 2021-04-07 | 2021-04-08 |

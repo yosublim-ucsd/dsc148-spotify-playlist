@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,678 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,793 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
 | 50 | [River Runs Red](https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [River Runs Red \[Top Shelf Edition\]](https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi) | 1:54 |
 
-Snapshot ID: `MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1`
+Snapshot ID: `MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0`

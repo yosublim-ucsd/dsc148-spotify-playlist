@@ -4,7 +4,7 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 9 min
+56 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 | 2022-10-25 |  |
 | [The Perfect Way to Fall Apart](https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 4:09 | 2022-10-25 |  |
 | [The Rain Just Follows Me](https://open.spotify.com/track/4V06e8gINM5WBvZIqcZ9Ni) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:11 | 2022-10-25 |  |
+| [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-07-26 |  |
 | [The Suicide Mile](https://open.spotify.com/track/6KwxSlvsFeiAe3kDvyAgba) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:39 | 2022-10-25 |  |
 | [The Transition](https://open.spotify.com/track/2Kl16QuHGGiK7Je4VGzQIt) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-10-25 |  |
 | [This Is Who We Are](https://open.spotify.com/track/3vH6JWa7tKvkk1YBdHCg6m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:45 | 2022-10-25 |  |

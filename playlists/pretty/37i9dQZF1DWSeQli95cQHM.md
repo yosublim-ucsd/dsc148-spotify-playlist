@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,154 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,170 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
 | 50 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
 
-Snapshot ID: `MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5`
+Snapshot ID: `MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4`

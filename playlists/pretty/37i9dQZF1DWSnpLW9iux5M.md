@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,649 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,646 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0KAERzL7Izhd5Knm9EDsnM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Christmas With Shirley Caesar](https://open.spotify.com/album/2qyAawhIrl41sHRVG7Zwzy) | 5:17 |
 | 100 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
 
-Snapshot ID: `MCxiZDgzZTgxMjA5ZmRlMjk3YjM3YzJiMDQ0YzJiNWFlY2JmYmMwYjMz`
+Snapshot ID: `MCwxODQ0ZTA4NDIwOTA2MjQyNmVlZDZmYTFhOTA2YzQ5ODM2YjBhMGE2`

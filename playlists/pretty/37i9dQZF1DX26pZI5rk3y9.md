@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,932 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 64 | [Waiting](https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Waiting](https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01) | 2:14 |
 | 65 | [Wayward Son](https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Wayward Son](https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd) | 3:43 |
 
-Snapshot ID: `MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3`
+Snapshot ID: `MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi`

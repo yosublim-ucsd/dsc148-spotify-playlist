@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,696 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,684 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 23 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 |
 | 24 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/7sCdIXPcYIzYmPEl7FdloT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:17 |
 | 25 | [Letter](https://open.spotify.com/track/7KyCx9yhNre0RdV7D1ANZJ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:09 |
-| 26 | [Edinburgh](https://open.spotify.com/track/6n9ElX7ujp5KjPCssiwY5a) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Edinburgh](https://open.spotify.com/album/7kl8CGHUsKphVGQ1IsBp8G) | 3:59 |
+| 26 | [Edinburgh](https://open.spotify.com/track/5Nn9YX5YAFPvVDW4EFqm8e) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Edinburgh](https://open.spotify.com/album/53QhPabAcg1T9dOxUxTMAQ) | 3:59 |
 | 27 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
 | 28 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 |
 | 29 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 39 | [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 |
 | 40 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 |
 | 41 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
-| 42 | [Tunnel Vision](https://open.spotify.com/track/3RhZ2Yp8usBRc1FtN55Xcx) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Tunnel Vision](https://open.spotify.com/album/2SuvX1g88NmY35gQZRhami) | 3:40 |
+| 42 | [Tunnel Vision](https://open.spotify.com/track/4yvcI6pOLBcIcnxSsDTWSR) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 3:40 |
 | 43 | [Forgot About Us](https://open.spotify.com/track/5WJtuMqSdxcbuNvouacT37) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Forgot About Us](https://open.spotify.com/album/414LRtMnUY3SguBTwr0duS) | 3:33 |
 | 44 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 |
 | 45 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 69 | [Winter City](https://open.spotify.com/track/2KtH6OayZaFH5Zowhglw1Y) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/7g0CXNdiVVnAGj1f9yle7e) | 2:41 |
 | 70 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 |
 
-Snapshot ID: `MCw3NDYyODFmYWQxNWUzMzg1MDFiY2E1YTA0MDMwYzNmZWQ1ZTcwYTM2`
+Snapshot ID: `MCw4NDUwMGI3NWFkNzU5OWZkNmI2NDU1NDU0NjZmOWQ5Yzg0NmFkMDdj`

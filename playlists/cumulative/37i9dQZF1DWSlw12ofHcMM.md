@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-184 songs - 10 hr 38 min
+185 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Courage for Love](https://open.spotify.com/track/2YCHXHF12UigCNtXsRUoLg) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [Courage For Love](https://open.spotify.com/album/33tTNU1gX6jr7OjTNCfN4j) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [Different Kind Of Love](https://open.spotify.com/track/5gy7tyFsQIFcxMajZlghLD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:24 | 2022-07-11 |  |
 | [Different Kind Of Love](https://open.spotify.com/track/69AKDlGXDAIrxHX9dzIPTi) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Different Kind Of Love](https://open.spotify.com/album/466wcQapaCx9rPHOHU1o1i) | 3:24 | 2021-11-19 | 2022-07-29 |
-| [Diggin' for the Devil](https://open.spotify.com/track/3RVbbNzSF5ssXTuwaqU3lB) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/2F5z4VGrSwOwEFURgBz7oO) | 3:04 | 2022-07-11 |  |
+| [Diggin' for the Devil](https://open.spotify.com/track/1mCmYWH9S7M7DY4JruPAve) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/08h2w1hvwWYFaf9wG47pCw) | 3:04 | 2023-03-10 |  |
+| [Diggin' for the Devil](https://open.spotify.com/track/3RVbbNzSF5ssXTuwaqU3lB) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/2F5z4VGrSwOwEFURgBz7oO) | 3:04 | 2022-07-11 | 2023-07-27 |
 | [Diggin' for the Devil](https://open.spotify.com/track/6yqt6ZIeWAaxU6hguDi5HY) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/09MAsgcK5FLF23D8MqQSQa) | 3:04 | 2021-11-19 | 2022-07-29 |
 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 | 2021-11-19 |  |
 | [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-11 | 2023-04-29 |

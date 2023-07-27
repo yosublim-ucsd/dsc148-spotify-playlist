@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,413 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,432 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
 | 50 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 |
 
-Snapshot ID: `MCxlYmRhYWE4M2Q5MjAyZDliZjA1MDllOTQ3ZmU2MTg5OGE2YzY0Mjdj`
+Snapshot ID: `MCw2MWQ5M2Q3NzZhZmM0OTExOGVjZmQ4Y2NjNTNkYWUxMjM1ZWJmOWY4`

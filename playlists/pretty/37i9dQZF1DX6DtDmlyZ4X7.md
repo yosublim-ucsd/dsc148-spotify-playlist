@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,613 likes - 250 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,608 likes - 250 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 |
 | 250 | [The Balance](https://open.spotify.com/track/76N81Kjyn0CLyjyU6a7sUg) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [The Balance](https://open.spotify.com/album/5DftGjcxi5Gg6WUTw1AfqR) | 2:37 |
 
-Snapshot ID: `MCw3YTNmZWZiYTMwZTIyMDgzOGZmZGMyMGMwMTJiN2Q5NDY2MWRiYmYy`
+Snapshot ID: `MCxhYTkyMjQxNTI0NGVjNzVkZmJmYTU0MTgzNWVkNWUyNzBjZDM1OWRk`

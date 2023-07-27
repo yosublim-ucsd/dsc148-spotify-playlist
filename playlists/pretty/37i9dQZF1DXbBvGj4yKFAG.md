@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,847 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,159 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 99 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 100 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 |
 
-Snapshot ID: `MCwxNWNkMGVkNzEzZjZhMjdkMmUxY2I5OWMwNWVlZTczY2IwNjIwYzE4`
+Snapshot ID: `MCw4NzY4YTAxODdkNjA3MmRkMzY4OGUxYmE0MDcwNzUxMjVkNDc5Yjkw`

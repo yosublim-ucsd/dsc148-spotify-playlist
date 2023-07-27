@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,612 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,628 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
 | 75 | [Mirage](https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mirage](https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc) | 8:38 |
 
-Snapshot ID: `MCw3NThkOWJiYzgzYTBjMTNkOWI2Y2M1MzQyNjZiNTgwZDIzMTMwYTVj`
+Snapshot ID: `MCxkNDA1MDZhZDFhYzg2ZWFjODNkZDMxNDIzOTA3YzNiODQ4MTE0YjYw`

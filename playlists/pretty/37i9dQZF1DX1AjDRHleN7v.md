@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,051 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,084 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
 | 60 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
 
-Snapshot ID: `MCwyNmIyZTFiZDA4Y2JkYWZhYWUxMzA3MDMzNTVhNzllYmMzY2VjMzJk`
+Snapshot ID: `MCwwM2JiNjI3ZTQwOGRiOTdkZjZhMWU1MTJlNjI2NDk0Y2YxYjYyNTM5`

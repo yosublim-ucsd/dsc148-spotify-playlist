@@ -1,13 +1,33 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: MELONYX Artwork: Joy Yamusangie",
-  "num_followers": 191378,
+  "num_followers": 191694,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgyZGY1YWQ5NTBhYzc4ZTlkZGM2ZDlhNWY1YTY4ZmY0ZGMxYTkw",
+  "snapshot_id": "MCxjZjk3Y2RmZjlmMmRmODI5MTlkNjhjMzUyYjg3Nzc3YTU5ODZlMjI1",
   "tracks": [
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Buried Treasure",
+        "url": "https://open.spotify.com/album/19ISZ7DNTbB6xUMZrGdjtU"
+      },
+      "artists": [
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        },
+        {
+          "name": "Ben Kono",
+          "url": "https://open.spotify.com/artist/21VECiMz8AxGvbloDJLoXX"
+        }
+      ],
+      "duration_ms": 262768,
+      "name": "Buried Treasure",
+      "url": "https://open.spotify.com/track/43zmYs2kSsZEruQQOPfGEG"
+    },
     {
       "added_at": "2023-07-19 04:00:00",
       "album": {
@@ -23,6 +43,38 @@
       "duration_ms": 128914,
       "name": "Evil Cute",
       "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "When U Land",
+        "url": "https://open.spotify.com/album/3qm4zashN1MARFt2ZJNfCh"
+      },
+      "artists": [
+        {
+          "name": "moondiver",
+          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
+        }
+      ],
+      "duration_ms": 285557,
+      "name": "When U Land",
+      "url": "https://open.spotify.com/track/5DO8qwKtreY2xD37qywNYV"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/2TifUuGg4PZj1fRbboq8fw"
+      },
+      "artists": [
+        {
+          "name": "Emily Nicole Green",
+          "url": "https://open.spotify.com/artist/6QNbIluNpRc2ejEJmFQFUT"
+        }
+      ],
+      "duration_ms": 152900,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/3dSmlxpSvh7RKiq9vlIdZa"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -47,26 +99,6 @@
       "duration_ms": 244153,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/2yy21cjv5ZPgYvUaFfZASZ"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Buried Treasure",
-        "url": "https://open.spotify.com/album/19ISZ7DNTbB6xUMZrGdjtU"
-      },
-      "artists": [
-        {
-          "name": "Zac Zinger",
-          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
-        },
-        {
-          "name": "Ben Kono",
-          "url": "https://open.spotify.com/artist/21VECiMz8AxGvbloDJLoXX"
-        }
-      ],
-      "duration_ms": 262768,
-      "name": "Buried Treasure",
-      "url": "https://open.spotify.com/track/43zmYs2kSsZEruQQOPfGEG"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -649,42 +681,6 @@
       "url": "https://open.spotify.com/track/0vEW5eJdKqXYtXeHWQyqzQ"
     },
     {
-      "added_at": "2023-05-03 04:00:00",
-      "album": {
-        "name": "An Instrumental Interlude",
-        "url": "https://open.spotify.com/album/26PmZNfXW8XF66AofXLg6q"
-      },
-      "artists": [
-        {
-          "name": "MAXN",
-          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Just Love Me One More Time",
-      "url": "https://open.spotify.com/track/20iMqx5hYnhP4dpcq0rwp0"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Yanagi Ni Kaze (rework)",
-        "url": "https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        },
-        {
-          "name": "m.s.t.",
-          "url": "https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G"
-        }
-      ],
-      "duration_ms": 274572,
-      "name": "Yanagi Ni Kaze - rework",
-      "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"
-    },
-    {
       "added_at": "2023-06-28 04:00:00",
       "album": {
         "name": "Drum Of Stories",
@@ -747,66 +743,6 @@
       "duration_ms": 188132,
       "name": "Du-Rag",
       "url": "https://open.spotify.com/track/0X9jMXZlMwqTYINyvbezK9"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "The Girl In Blue",
-        "url": "https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E"
-      },
-      "artists": [
-        {
-          "name": "Sci-Clone",
-          "url": "https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs"
-        },
-        {
-          "name": "A Sides",
-          "url": "https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 363911,
-      "name": "The Girl In Blue",
-      "url": "https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
-        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
-      },
-      "artists": [
-        {
-          "name": "Sunb\u00f6rn",
-          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
-        },
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        }
-      ],
-      "duration_ms": 431664,
-      "name": "Dancing in the Dusk - Clap! Clap! Remix",
-      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "I Am, Because You Are",
-        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
-      },
-      "artists": [
-        {
-          "name": "\u6d77\u91ce \u96c5\u5a01",
-          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
-        }
-      ],
-      "duration_ms": 409520,
-      "name": "I Am, Because You Are",
-      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -1029,46 +965,6 @@
       "url": "https://open.spotify.com/track/41uzGdULkfO33YjY5QAe7O"
     },
     {
-      "added_at": "2023-05-31 04:00:00",
-      "album": {
-        "name": "Pace (POLY POLY Remix)",
-        "url": "https://open.spotify.com/album/5CLr2E4MmZnd3N84WcmXT6"
-      },
-      "artists": [
-        {
-          "name": "Ferge X Fisherman",
-          "url": "https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV"
-        },
-        {
-          "name": "Victoryaz",
-          "url": "https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk"
-        },
-        {
-          "name": "POLY POLY",
-          "url": "https://open.spotify.com/artist/4MdhWtwr2EGHOn80cSM380"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Pace - POLY POLY Remix",
-      "url": "https://open.spotify.com/track/7hYAnMReztki8o92UT3Bpp"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2023-06-14 04:00:00",
       "album": {
         "name": "Como El Viento",
@@ -1121,22 +1017,6 @@
       "url": "https://open.spotify.com/track/5EuHGJnx5aInPpE32L61eF"
     },
     {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Spunky",
-        "url": "https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh"
-      },
-      "artists": [
-        {
-          "name": "Conrad Schwenke Quartett",
-          "url": "https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx"
-        }
-      ],
-      "duration_ms": 351515,
-      "name": "Spunky",
-      "url": "https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en"
-    },
-    {
       "added_at": "2023-06-14 04:00:00",
       "album": {
         "name": "\u8d85\u3072\u3082",
@@ -1173,22 +1053,6 @@
       "url": "https://open.spotify.com/track/6hIl0ubhTcYbC2QaeeANgA"
     },
     {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Push It All Away",
-        "url": "https://open.spotify.com/album/2P6xQ94U6AS4vGMx5bd548"
-      },
-      "artists": [
-        {
-          "name": "Wandering Monster",
-          "url": "https://open.spotify.com/artist/76qpgEBPZBE8obznb3DBHy"
-        }
-      ],
-      "duration_ms": 394533,
-      "name": "Push It All Away",
-      "url": "https://open.spotify.com/track/6o7Xc4KlznZ2DWwcZBpG99"
-    },
-    {
       "added_at": "2023-05-31 04:00:00",
       "album": {
         "name": "The Simple Things",
@@ -1209,38 +1073,6 @@
       "url": "https://open.spotify.com/track/7Dj5fZNBjsONlFdl8HjRTu"
     },
     {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/13p12hbHuG7afzP0tMs6Fb"
-      },
-      "artists": [
-        {
-          "name": "Tim Lin",
-          "url": "https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt"
-        }
-      ],
-      "duration_ms": 418826,
-      "name": "Fourth Right",
-      "url": "https://open.spotify.com/track/0Nfxhvbv5aBah5FRuBO7Yo"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Ruins Everything",
-        "url": "https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Laoshu",
-      "url": "https://open.spotify.com/track/0plFMUOLdktZj1dlnwHPvc"
-    },
-    {
       "added_at": "2023-05-31 04:00:00",
       "album": {
         "name": "Spilornis",
@@ -1255,38 +1087,6 @@
       "duration_ms": 239666,
       "name": "Spilornis",
       "url": "https://open.spotify.com/track/3RInyzqnPlEL0SKAyrmzap"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/6lkWhsa43nOo4QZ4SkslKm"
-      },
-      "artists": [
-        {
-          "name": "BZSounds",
-          "url": "https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/3D8qO1KBD4LE3hf98PWDaz"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/1msOnvHrwoip5denlffx8C"
-      },
-      "artists": [
-        {
-          "name": "Kendra Erika",
-          "url": "https://open.spotify.com/artist/29YEIiGDj5agFJ2Bda2dkO"
-        }
-      ],
-      "duration_ms": 253953,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/7snxlNRA6W6IAtHhcVP77k"
     },
     {
       "added_at": "2023-06-14 04:00:00",
@@ -1445,22 +1245,6 @@
       "url": "https://open.spotify.com/track/2O6SDo3uFiZMLt2GLtTvWI"
     },
     {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf"
-      },
-      "artists": [
-        {
-          "name": "The Circling Sun",
-          "url": "https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ"
-        }
-      ],
-      "duration_ms": 298590,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/5BkLPw2DqeNA3LhXwsTCZy"
-    },
-    {
       "added_at": "2023-05-31 04:00:00",
       "album": {
         "name": "White Runway",
@@ -1479,6 +1263,134 @@
       "duration_ms": 282413,
       "name": "White Runway",
       "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
+    },
+    {
+      "added_at": "2023-05-03 04:00:00",
+      "album": {
+        "name": "An Instrumental Interlude",
+        "url": "https://open.spotify.com/album/26PmZNfXW8XF66AofXLg6q"
+      },
+      "artists": [
+        {
+          "name": "MAXN",
+          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Just Love Me One More Time",
+      "url": "https://open.spotify.com/track/20iMqx5hYnhP4dpcq0rwp0"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "The Girl In Blue",
+        "url": "https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E"
+      },
+      "artists": [
+        {
+          "name": "Sci-Clone",
+          "url": "https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs"
+        },
+        {
+          "name": "A Sides",
+          "url": "https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 363911,
+      "name": "The Girl In Blue",
+      "url": "https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "Yanagi Ni Kaze (rework)",
+        "url": "https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        },
+        {
+          "name": "m.s.t.",
+          "url": "https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G"
+        }
+      ],
+      "duration_ms": 274572,
+      "name": "Yanagi Ni Kaze - rework",
+      "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
+        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
+      },
+      "artists": [
+        {
+          "name": "Sunb\u00f6rn",
+          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "duration_ms": 431664,
+      "name": "Dancing in the Dusk - Clap! Clap! Remix",
+      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "I Am, Because You Are",
+        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u91ce \u96c5\u5a01",
+          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
+        }
+      ],
+      "duration_ms": 409520,
+      "name": "I Am, Because You Are",
+      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Spunky",
+        "url": "https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh"
+      },
+      "artists": [
+        {
+          "name": "Conrad Schwenke Quartett",
+          "url": "https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx"
+        }
+      ],
+      "duration_ms": 351515,
+      "name": "Spunky",
+      "url": "https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en"
     },
     {
       "added_at": "2023-07-12 19:57:20",

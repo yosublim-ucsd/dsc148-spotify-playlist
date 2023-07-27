@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,485 likes - 85 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,555 likes - 85 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 84 | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 |
 | 85 | [The Way You Say \- LP Giobbi Remix](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Way You Say \(Remixes\)](https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ) | 2:55 |
 
-Snapshot ID: `MCwyMjhlNjI0NzU5ZDA3Mjg0MmNhNTA0ZWRlNDQ0YTY3ZDcxM2M0NWNl`
+Snapshot ID: `MCw1MDhiMzVkMWE5MTAzNmQyMjRhN2Q0MzNkN2ZjNWJmNmQ3YjIwNzli`

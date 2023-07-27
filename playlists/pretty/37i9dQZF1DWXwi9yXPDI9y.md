@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,665 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,776 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
 | 100 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
 
-Snapshot ID: `MCw5ZDMzYTE2MmJkM2M5YWFkYzhlMzZhNmVmM2UxOGM5OWEwNjE4MDdl`
+Snapshot ID: `MCxjNjAwNjIyMTlkYWZiYzE4NDQ0ZjkzZDFhMWQ4ZTI0YmY3OTcxMGQ5`

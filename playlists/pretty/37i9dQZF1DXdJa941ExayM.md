@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,173 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,246 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
 | 80 | [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 |
 
-Snapshot ID: `MCxmODhjM2RjNGU2MzZhOTI5ZjZjMzBjNmM1NWQ1NjM5ZGJhZmRkYTM5`
+Snapshot ID: `MCw3ZmY4Njc0YzViNDJhNDYxNjdkN2Y3NmZhNTBhMGM4ODUxMTZmNmJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,159 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,178 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 37 | [The 3 R's](https://open.spotify.com/track/3AzDXZlYrmFzhurP1I5Xfm) | [Mitchel Musso](https://open.spotify.com/artist/3IcF2f5vEkY6HPQfLlQDlw) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:06 |
 | 38 | [The Little Things We Do](https://open.spotify.com/track/0yUopclRSSHGbfvA3G57vJ) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj), [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH), [Bob Kaliban](https://open.spotify.com/artist/1ExU2bSUg1xijuoiQHdKw9), [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Val Hawk](https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN), [Vicki Doney](https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd), [Nancy Reed](https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:01 |
 | 39 | [I Love Nature \- Original Demo](https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:43 |
-| 40 | [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 |
+| 40 | [Rule of thumb](https://open.spotify.com/track/36LUWAi5LYSwV57XPYPkOh) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/6zrqHnPVu66QV7tjNrbQsb) | 2:44 |
 
-Snapshot ID: `MCxiY2Y0ZjFkYTUxMzI2MTY2YzYwZTJjYzZmZTU3NGZhNzRjMjBhMjI3`
+Snapshot ID: `MCw4MDFhN2JkZDZjODkwMDE4MDk4ZDY0M2M2YzY0ODQ4MmVhNmM4ODM1`

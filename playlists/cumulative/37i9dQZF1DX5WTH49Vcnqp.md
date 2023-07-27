@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Big Thief
 
-1,015 songs - 2 day 9 hr 43 min
+1,016 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Brinner](https://open.spotify.com/track/53eThdE4SviUNz3CeIw7QM) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:43 | 2022-10-11 | 2022-11-18 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-03 | 2022-04-01 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-05-04 | 2023-05-19 |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-29 | 2022-11-02 |
 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2022-10-27 | 2022-11-25 |
 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 | 2022-07-28 | 2022-08-12 |
@@ -965,7 +966,7 @@
 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 | 2023-01-26 | 2023-03-16 |
 | [Volcano](https://open.spotify.com/track/1D8vOlsg63zFgnzBjCNmOO) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Volcano](https://open.spotify.com/album/0arnHsFdqQ2zCt3L4evpW4) | 3:31 | 2022-09-29 | 2022-12-24 |
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-12-28 | 2022-01-14 |
-| [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-29 |  |
+| [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-29 | 2023-07-27 |
 | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK) | 4:08 | 2021-12-28 | 2022-03-11 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-06 | 2022-07-29 |
 | [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2022-12-22 | 2023-01-24 |

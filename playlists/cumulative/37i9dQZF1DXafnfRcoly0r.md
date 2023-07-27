@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-89 songs - 3 hr 15 min
+92 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Can You Hear the Doggie?](https://open.spotify.com/track/0GoAwQGcrWFgaJu5yasDZO) | [The Sticker Club](https://open.spotify.com/artist/1Zn205TqWmfazNWJ65nGrs) | [Scratch 'N' Sniff](https://open.spotify.com/album/3OL1X7p16svhnLSgKbK01J) | 1:42 | 2022-01-14 |  |
 | [Cat Party](https://open.spotify.com/track/17ABRiEsxrBE5cNjI1LcGM) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Viral: Songs About Cats and Stuff](https://open.spotify.com/album/7cBj5lu79gJ5pascSzsrBK) | 3:03 | 2022-01-14 |  |
 | [Cats & Dogs](https://open.spotify.com/track/7pJ1XRYQnH7f8NNr9R9RHl) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Backyard Bop](https://open.spotify.com/album/7jmDOvu7kPJt9C9cyjiSPN) | 3:24 | 2022-01-14 |  |
-| [Chihuahua](https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:34 | 2022-01-14 |  |
+| [Chihuahua](https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:34 | 2022-01-14 | 2023-07-27 |
+| [Chihuahua](https://open.spotify.com/track/3pRN7RUvtcNGLxBUUq8zf3) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \- It's Fleabite 5](https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT) | 2:34 | 2022-07-25 |  |
 | [Class Pet Song](https://open.spotify.com/track/7xrMbzfCoQzCXikKFmNLpz) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:29 | 2022-01-14 |  |
 | [Dog](https://open.spotify.com/track/2NapR0fiTNcbF4BLr2yKdP) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Dog](https://open.spotify.com/album/13Q5HrZMkLhIubi0t7GR3T) | 1:09 | 2022-01-14 |  |
 | [Dog Pound](https://open.spotify.com/track/1eNDDTXuR91r9niUu395QB) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Critters](https://open.spotify.com/album/4FCvj0mX0Uh2TcJ5wzSdwN) | 1:00 | 2022-01-14 |  |
@@ -27,7 +28,8 @@
 | [Dogs Like These](https://open.spotify.com/track/44DW42gkSXW2i5CFzNz8oR) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 2:08 | 2022-01-14 |  |
 | [Fly Like a Bird](https://open.spotify.com/track/1a8WREyUdVPnMuogHkgX13) | [John Field](https://open.spotify.com/artist/5c5mns5KPNnQj1QBHJmQIw) | [Animal Songs and Sounds](https://open.spotify.com/album/1NsVmZhtWkUiOmcXxe02VI) | 1:57 | 2022-07-25 |  |
 | [Fly Like A Bird](https://open.spotify.com/track/5TB9HMwW3waZmDGsJGNsz5) | [John Field](https://open.spotify.com/artist/5c5mns5KPNnQj1QBHJmQIw) | [Animal Songs And Sounds](https://open.spotify.com/album/4HA4r1Jfgnr2o7MqGJeK5z) | 1:57 | 2022-01-14 | 2022-07-29 |
-| [Goldfish Swimming](https://open.spotify.com/track/6MbEEcCYiDRr91SIxT9qKD) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song, Vol\. 4](https://open.spotify.com/album/3itJrAQRLknr4N50Prg6LM) | 2:04 | 2022-01-14 |  |
+| [Goldfish Swimming](https://open.spotify.com/track/6MbEEcCYiDRr91SIxT9qKD) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song, Vol\. 4](https://open.spotify.com/album/3itJrAQRLknr4N50Prg6LM) | 2:04 | 2022-01-14 | 2023-07-27 |
+| [Goldfish Swimming](https://open.spotify.com/track/7o02v5TglBBQQ7Y5Aqobth) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song, Vol\. 4](https://open.spotify.com/album/1CQ7EhKypvStEcKx4zHGgQ) | 2:04 | 2022-07-25 |  |
 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 | 2022-01-14 |  |
 | [Here Boy \- TV Show Edit](https://open.spotify.com/track/4jsk9vzSNgMghlno7aswQc) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Here Boy \(TV Show Edit\)](https://open.spotify.com/album/7utjLJoFRe5TzDBBK0w8tE) | 1:40 | 2022-01-14 |  |
 | [Hey Little Rockabye](https://open.spotify.com/track/2sLfxvwUMSeK3Jhz3Lcdig) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Hey Little Rockabye \(A Lullaby for Pet Adoption\)](https://open.spotify.com/album/7ytgBy3sjVl8y7MRPnDdh9) | 1:52 | 2022-01-14 | 2022-07-29 |
@@ -74,7 +76,8 @@
 | [Puppy Dog](https://open.spotify.com/track/3ANJQIvfAgkh1VudRXGVm9) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:04 | 2022-01-14 |  |
 | [Puppy Love](https://open.spotify.com/track/6CVJOoUjm3TUQgGaymBpdZ) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Full of Beans](https://open.spotify.com/album/5MvRprUOnJKcgpoDMNdJHI) | 2:37 | 2022-01-14 |  |
 | [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:58 | 2022-01-14 |  |
-| [Rabbit Hop](https://open.spotify.com/track/4uuEQv29ndZgc8uVlqt864) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/2YP8tqXTba9GISBrPixjha) | 1:01 | 2022-01-14 |  |
+| [Rabbit Hop](https://open.spotify.com/track/4uuEQv29ndZgc8uVlqt864) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/2YP8tqXTba9GISBrPixjha) | 1:01 | 2022-01-14 | 2023-07-27 |
+| [Rabbit Hop](https://open.spotify.com/track/5iTb1LImL6ts8VMWVkfbol) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/7jrnOkygJj11ak2ui02RXe) | 1:01 | 2022-07-25 |  |
 | [Respect My Pet](https://open.spotify.com/track/5XGUjLbuhsz1R5DADXrXa2) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:00 | 2022-01-14 |  |
 | [Run Like The Kitty](https://open.spotify.com/track/0njL7tKenSQRxmBXdGouGs) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 0:56 | 2022-07-25 |  |
 | [Run Like The Kitty](https://open.spotify.com/track/6Rc4Qk36Cmv86RFoEVcww7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/1W9jKPazWvWpQI3pRaAcBK) | 0:56 | 2022-01-14 | 2022-07-29 |

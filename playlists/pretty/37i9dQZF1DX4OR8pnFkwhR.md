@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,719 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,797 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 |
+| 1 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 |
 | 2 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 |
 | 3 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
 | 4 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 40 | [なんてったっけタイトル](https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [なんてったっけタイトル](https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE) | 2:45 |
 | 41 | [Taishitamondayo](https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [69 Jewel Beetle](https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF) | 4:32 |
 | 42 | [Broken Song](https://open.spotify.com/track/1G6A1ymQOop6o0V0imT2Gl) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Tough Love Therapy](https://open.spotify.com/album/0WAe0aNKZkj8QW8QY77d4k) | 3:33 |
-| 43 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 |
+| 43 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 |
 | 44 | [or.or.](https://open.spotify.com/track/6E6EqZBia9Ug3dgrg7vkkw) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [or.or.](https://open.spotify.com/album/3VkjctQEPVVJvBVCcfxwGU) | 3:35 |
 | 45 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
 | 46 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Runaway](https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Runaway](https://open.spotify.com/album/58t2YKGd5II2bwvxp6LYfl) | 4:55 |
 | 70 | [無計画化計画](https://open.spotify.com/track/7I7tM4CnJNguu8Mfc6w0Ba) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [無計画化計画](https://open.spotify.com/album/1Jq7KVysKOthuUPYQVbDs6) | 4:08 |
 
-Snapshot ID: `MCw3Y2U0ZTZiZjY3MGY3ODFiNzEwODBmOTM0ZDQ1ZjQxZDdlODFmYTFj`
+Snapshot ID: `MCw3NDI5N2Q5MWZlMTJjYmU5Yzc2YzU1MmZiOTY3MDhlZjM0NmU4ODFk`

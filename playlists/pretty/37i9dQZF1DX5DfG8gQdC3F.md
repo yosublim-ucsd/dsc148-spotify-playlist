@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Travis Scott, Bad Bunny & The Weeknd, Diplo, ZAYN and Smiley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,287 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,296 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 36 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
 | 37 | [God's Eyes](https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [God's Eyes](https://open.spotify.com/album/6OK5AWd7zWg4wJrY3dPrMe) | 3:05 |
 | 38 | [CRUISE CONTROL](https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [CRUISE CONTROL](https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA) | 3:04 |
-| 39 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 39 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 40 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 |
 | 41 | [Married with Millions](https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married with Millions](https://open.spotify.com/album/1axgP2oTkXQDzQkwxx6dQ1) | 3:19 |
 | 42 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 |
 | 99 | [DOPAMINE](https://open.spotify.com/track/5zn72oZUR8Ldi1pRF1fVUe) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [DOPAMINE](https://open.spotify.com/album/3LVXGFy9HeSFsRl9iLp3PQ) | 2:47 |
 
-Snapshot ID: `MCw5MjMyOGNlZWZlOGI4MmIwNmY4MjcyMGJhODY3OWM4ODg5MDRjNjRl`
+Snapshot ID: `MCxiOTdhMmNiZDNiMGYzNjZmNzA3NGU1YWY1ZjMxNTQwOTI0ZmVlNGNi`

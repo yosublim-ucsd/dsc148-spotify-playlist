@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,012 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,457 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 |
 | 150 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 |
 
-Snapshot ID: `MCwyMTBmOTNlMThhM2U0ODdiOTk4YzhlMGU1NDBjMTI0NmZhMjNhOTM5`
+Snapshot ID: `MCwzMWZjODU0NTZmNzNmNzlmYmZlOTFkNDRiY2Y3N2ExNjU5ZjFkZTFh`

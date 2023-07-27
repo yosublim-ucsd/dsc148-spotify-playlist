@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,718 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,768 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 79 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
 | 80 | [Reinstatement](https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Sleep \- Vol 4](https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC) | 4:15 |
 
-Snapshot ID: `MCw2NThlMzFlMjliYjJkZDRiMGJiZjE5OWVmM2NlYjQ1NjZiZjNjZTRl`
+Snapshot ID: `MCxkMDAyZGQ1YzE4NTU1YzJjOTNiODU2ZDhjNjkxNTg2Y2E1ODE4ZDUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Hendra Kumbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,735 likes - 101 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,909 likes - 101 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 100 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 | 101 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
 
-Snapshot ID: `MCxlMDJmZmZhMGRhNTgzYzY0OWQ1NzBlY2U1OGUyZjI3MTg5ZmI3M2M5`
+Snapshot ID: `MCw5NDY2MTExOGI0OTViMDhjMjZiZmYxNjUxZjc0MDg1NzRhYzE3MTdi`

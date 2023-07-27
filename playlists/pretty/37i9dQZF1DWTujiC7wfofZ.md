@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,576 likes - 250 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,652 likes - 250 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [Shoot the Runner](https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Empire](https://open.spotify.com/album/22cuBzNBEzMhitybh0WEIh) | 3:27 |
 | 250 | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/track/4jFLw7QqWlv3lZr980HyYW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/album/5sb0O03rnoBqD1iDPOSkkf) | 3:38 |
 
-Snapshot ID: `MCxjZmI1YzljMThiODMyZGQzN2RiYTNlZDgyNGY4ODUxZjhkOWQ4Njk2`
+Snapshot ID: `MCxmMGVhNDY0ZjhmYzFhYmRhN2VlYWE1NzkyOGRjYzIyNzE4YjQ1MDM2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5800\u5185\u307e\u308a\u83dc (Marina Horiuchi)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u611b\u7f8e (Aimi)",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 227306,
       "name": "1 LOVE 1",
       "url": "https://open.spotify.com/track/1dcro7tCEqeC1sMEo8Ye0o"
+    },
+    {
+      "album": {
+        "name": "A NEW DAY",
+        "url": "https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u7531\u8cb4",
+          "url": "https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "A NEW DAY",
+      "url": "https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf"
     },
     {
       "album": {
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 231000,
       "name": "Adore me",
       "url": "https://open.spotify.com/track/7BZOrVN1JyV5uNbQicYHK6"
@@ -301,6 +319,42 @@
     },
     {
       "album": {
+        "name": "Yuka Iguchi 2nd mini album Kimiga Kimide Kiminandayo",
+        "url": "https://open.spotify.com/album/0anM8t3zBvbPViHpN5A9Me"
+      },
+      "artists": [
+        {
+          "name": "Yuka Iguchi",
+          "url": "https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "ANOHINOKOI",
+      "url": "https://open.spotify.com/track/6oxZrOvKU6T1i8b0Lh9j7F"
+    },
+    {
+      "album": {
+        "name": "Another Self",
+        "url": "https://open.spotify.com/album/2txcg6rnTnKDCfHy9DivYm"
+      },
+      "artists": [
+        {
+          "name": "\u718a\u7530\u831c\u97f3",
+          "url": "https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Another Self",
+      "url": "https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx"
+    },
+    {
+      "album": {
         "name": "Ashita no Katachi",
         "url": "https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6"
       },
@@ -384,7 +438,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 251040,
       "name": "Blue sky summer",
       "url": "https://open.spotify.com/track/6nLJ5Klq7CopWGPwSSIwlM"
@@ -935,6 +989,24 @@
     },
     {
       "album": {
+        "name": "SuperBloom",
+        "url": "https://open.spotify.com/album/2uVhPzXNvyOycahIbsT9Nd"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Follow You\uff01",
+      "url": "https://open.spotify.com/track/12yFftAMBHezdtLeEC9CRD"
+    },
+    {
+      "album": {
         "name": "FROZEN MIDNIGHT",
         "url": "https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL"
       },
@@ -1138,6 +1210,24 @@
       "duration_ms": 221626,
       "name": "Guide",
       "url": "https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN"
+    },
+    {
+      "album": {
+        "name": "Haiiro",
+        "url": "https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233166,
+      "name": "Haiiro",
+      "url": "https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar"
     },
     {
       "album": {
@@ -1368,7 +1458,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 235466,
       "name": "Kanaeru",
       "url": "https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO"
@@ -1880,7 +1970,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 266466,
       "name": "Musical",
       "url": "https://open.spotify.com/track/5nkNdlVIIs9Agg4nzZSuwR"
@@ -2262,6 +2352,24 @@
       "duration_ms": 241840,
       "name": "Shiko",
       "url": "https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM"
+    },
+    {
+      "album": {
+        "name": "Shot",
+        "url": "https://open.spotify.com/album/2yCOva3P2F7qYMIq4kBw9j"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u96c4\u99ac",
+          "url": "https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Shot",
+      "url": "https://open.spotify.com/track/2jmlVQ4HcIAhnZ5qELjf9a"
     },
     {
       "album": {
@@ -2742,7 +2850,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 257228,
       "name": "Walk my own line",
       "url": "https://open.spotify.com/track/39DTwVwjK8VbYiMmvITpq8"
@@ -2836,7 +2944,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 266720,
       "name": "YOU",
       "url": "https://open.spotify.com/track/3PGCayP1i5SdFvrKZzFdhb"
@@ -3330,6 +3438,24 @@
       "duration_ms": 208878,
       "name": "\u30ad\u30e3\u30f3\u30c9\u30eb",
       "url": "https://open.spotify.com/track/3guwFH5LZFtVCTdzI69dIc"
+    },
+    {
+      "album": {
+        "name": "\u7b11\u3063\u3066\u3044\u3066\u2026",
+        "url": "https://open.spotify.com/album/3jaaO4xOwXZUbCIHn5NPbE"
+      },
+      "artists": [
+        {
+          "name": "Tetsuya Kakihara",
+          "url": "https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308893,
+      "name": "\u30b3\u30c8\u30fb\u30e2\u30ce\u30fb\u30c8\u30ad",
+      "url": "https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ"
     },
     {
       "album": {
@@ -3946,7 +4072,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 248146,
       "name": "\u5fae\u7b11\u307f\u306e\u7206\u5f3e",
       "url": "https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM"
@@ -4094,6 +4220,24 @@
       "duration_ms": 244391,
       "name": "\u6d77\u306e\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct"
+    },
+    {
+      "album": {
+        "name": "\u7169\u60a9\u2606\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/3z9Cq1Qh61mRXZCNmx2cYc"
+      },
+      "artists": [
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224364,
+      "name": "\u7169\u60a9\u2606\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/1CcsOEioAea0QiWjrn2JDK"
     },
     {
       "album": {

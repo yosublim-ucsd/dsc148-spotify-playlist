@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,885 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 28 | [Pandillero, Pt\. 1](https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:56 |
 | 29 | [Mi Amigo Manuel](https://open.spotify.com/track/0UMy7gWkj930S829cgLNns) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:37 |
 | 30 | [Jesús de Nazaret](https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 7:12 |
-| 31 | [La Llorona](https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:59 |
+| 31 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
 | 32 | [Trascendencia](https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 3:59 |
 | 33 | [Tocando Fondo \- En Vivo](https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 1](https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD) | 6:53 |
-| 34 | [¿Por Qué?](https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:56 |
-| 35 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
-| 36 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
+| 34 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
+| 35 | [La Llorona](https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:59 |
+| 36 | [¿Por Qué?](https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:56 |
 | 37 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 |
-| 38 | [Jesus de Nazareth](https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 6:07 |
-| 39 | [C\. P.](https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:28 |
-| 40 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
-| 41 | [Hipotecados](https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:25 |
-| 42 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 |
-| 43 | [Hipocresía](https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:55 |
-| 44 | [Tlaltelolco 68](https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 5:18 |
-| 45 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
-| 46 | [Ciego](https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:28 |
-| 47 | [Ave Nocturna](https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 5:40 |
-| 48 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 |
+| 38 | [Hipocresía](https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:55 |
+| 39 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
+| 40 | [Jesus de Nazareth](https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 6:07 |
+| 41 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
+| 42 | [C\. P.](https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:28 |
+| 43 | [Tlaltelolco 68](https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 5:18 |
+| 44 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 |
+| 45 | [Hipotecados](https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:25 |
+| 46 | [Ave Nocturna](https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 5:40 |
+| 47 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 |
+| 48 | [Ciego](https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:28 |
 | 49 | [Mi Mexico](https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Mi Mexico](https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il) | 5:49 |
 | 50 | [El o Ella](https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 4:37 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDAyMWE4NDcwMWQ5MDIyNzcxZWE4YTMxODRiMjlkYTIxMA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBlNjkwMGIyNmVmNWJkNzM2ZGIyOTc0ZjM0NGYxNWRlNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,982 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,113 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [De Mí Enamórate \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1nxQjDGVHaaLNBD0uQMSTO) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 4:35 |
 | 100 | [Aunque Te Enamores](https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:36 |
 
-Snapshot ID: `MCwxYjU2YTRhMjYxOGU3ODFiY2NiYjc3OWU2MjdlMzM1N2UwYjc3ODRk`
+Snapshot ID: `MCwxNmNlMWExMzZlMWFlZWYyNzkyZTgwMGI5MTRkODdkY2ZmYjY3ZjVh`

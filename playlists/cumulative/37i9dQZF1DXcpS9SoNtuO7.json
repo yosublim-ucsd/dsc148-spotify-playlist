@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "album": {
         "name": "TV Animation \"MACROSS DELTA\" VOCAL SONGS COLLECTION \"Walk?re TRAP!\"",
         "url": "https://open.spotify.com/album/0HuVUFY5e2Gp3OlpJHzyWO"
       },
@@ -1805,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "JOJO SONO CHINO SADAME",
+        "url": "https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262566,
+      "name": "JOJO SONO CHINO SADAME",
+      "url": "https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA"
+    },
+    {
+      "album": {
         "name": "NATURAL",
         "url": "https://open.spotify.com/album/4T6TiVpQaWHwViRSQK7B2v"
       },
@@ -2036,6 +2072,24 @@
       "duration_ms": 265770,
       "name": "LEVEL5-judgelight- (-version 2022-)",
       "url": "https://open.spotify.com/track/52aKwaRO82uwLTp0IVLbJL"
+    },
+    {
+      "album": {
+        "name": "LISTEN!!",
+        "url": "https://open.spotify.com/album/1rtVSl6S2WpZqLfr25ODfI"
+      },
+      "artists": [
+        {
+          "name": "Mikako Komatsu",
+          "url": "https://open.spotify.com/artist/4gzfRfkcrQ3Lle7ONpYZJO"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "LISTEN!!",
+      "url": "https://open.spotify.com/track/4wtZ1QM9c0wJfedtA4jfLt"
     },
     {
       "album": {
@@ -3693,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "LANDSPACE",
+        "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "traumerei",
+      "url": "https://open.spotify.com/track/24GwFhh1ByRhPuCBrTQhlW"
+    },
+    {
+      "album": {
         "name": "TRUE FOOL LOVE",
         "url": "https://open.spotify.com/album/4pJLDyl1rqjnMbWmXyzU1W"
       },
@@ -4118,7 +4190,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 270773,
       "name": "\u3052\u3093\u3057\u3001\u5973\u5b50\u306f\u3001\u305f\u3044\u3088\u3046\u3060\u3063\u305f\u3002",
       "url": "https://open.spotify.com/track/2YQ9pa1llffEWMHkBGjqeb"
@@ -4400,6 +4472,42 @@
       "duration_ms": 222366,
       "name": "\u30a2\u30a4\u30a6\u30a8",
       "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
+        "name": "OVERSKY",
+        "url": "https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "\u30a2\u30a4\u30f2\u30a6\u30bf\u30a8",
+      "url": "https://open.spotify.com/track/4fNyKwXchDtiVwcf0ZPik5"
     },
     {
       "album": {

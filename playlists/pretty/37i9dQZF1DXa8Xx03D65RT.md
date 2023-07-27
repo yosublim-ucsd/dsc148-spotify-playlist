@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,598 likes - 250 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,616 likes - 250 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 |
 | 250 | [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 |
 
-Snapshot ID: `MCxiNWU0MDIwMDZkYTk5NGE0ZmM2YThiZGFjODA3ZDFkYzAzMTE4MmM4`
+Snapshot ID: `MCw1MTc2MjhiZTg5ZjRlYzdkMmZjZGZhMzI5OGM4OTMyMGRiNTc2OWY5`

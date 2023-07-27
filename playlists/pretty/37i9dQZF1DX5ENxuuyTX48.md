@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Rizky Febian
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,959 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,005 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [P.S\. I LOVE YOU \(feat\. Yuna\)](https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P.S\. I LOVE YOU](https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp) | 4:01 |
 | 50 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
 
-Snapshot ID: `MCwwNGJmMDgwNzUwODA2MGU0ODQwYTIzOTliZjBhMTRkYjEwYjVjYzYz`
+Snapshot ID: `MCw1MTlkOTU4MWFmMDQ1NzcxYzAxZWUzY2EwYTVkNWM2ZDhmMDA3M2E4`

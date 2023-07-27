@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,338 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,354 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 100 | [State of Clear](https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Ohms](https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO) | 2:16 |
 
-Snapshot ID: `MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx`
+Snapshot ID: `MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 
 > Los clásicos de hoy y siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,054 likes - 150 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,262 likes - 150 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 | 149 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 150 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 
-Snapshot ID: `MCwxMTg1OTU0YjEwMzgwOWU1NTYwOTQyMzlkYTliOTBlYjllZGVlZTQ5`
+Snapshot ID: `MCwzZTg2OGJhM2U1NzZkYzk0NmFmNGQ2MGMwM2VkODAxZWRhZjA0MzQ0`

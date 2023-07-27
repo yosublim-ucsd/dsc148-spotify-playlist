@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,890 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,909 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 |
 | 100 | [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 |
 
-Snapshot ID: `MCwzY2FlMGUyZmEwMTIwYTRlMDE0OTY4MDA3MTE3Yjc3YjM0NjM2YzUw`
+Snapshot ID: `MCwwNDlkM2JiNGI1MTVjMGQ4ZjViMDRlNjRhODU3NDRjODEyOTE2ZmZm`

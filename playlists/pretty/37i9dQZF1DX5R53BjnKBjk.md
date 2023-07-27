@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,183 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,193 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 | 80 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
 
-Snapshot ID: `MCw1NmMyNDQ4ZjZjNjVkYTNjNjJjOTAyNzJkMTUzNmYxZDQ4YjVlYzdj`
+Snapshot ID: `MCwyNDNmNjQ4YTliOGM0MDBiZmMyMzJkMmU4YTNkOGJmNDc0ZDlkY2I2`

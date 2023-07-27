@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,031,791 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,032,781 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
 | 100 | [Anti\-Hero \- Kungs Remix](https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt) | 3:14 |
 
-Snapshot ID: `MCwxY2MxMDZiYmY2NTUwMWJjM2ZlMjNmMjY5OGM3NzkwOTY1MTczZTc2`
+Snapshot ID: `MCw2ZDc2NmY3NWYyNjQ5MWU4MTM1MGVlMWZjYjMwM2JjMmI4NmZiYzkx`

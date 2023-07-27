@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Melanie, a fan mixtape.
+> Bringing in the heat every Thursday\. 🔥 Cover: Melanie, a fan mixtape
 
 1,145 songs - 2 day 16 hr 7 min
 

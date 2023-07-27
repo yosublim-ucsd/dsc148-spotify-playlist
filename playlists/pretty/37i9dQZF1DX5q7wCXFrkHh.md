@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,567 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,639 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
 | 100 | [Dawn Mist](https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Fishin' In Stockholm](https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21) | 2:51 |
 
-Snapshot ID: `MCw5Zjg2YTEwMzJhNjJhOWU0NDYxYzNmMmQyMDVlMzExOWIwYWM0YTRh`
+Snapshot ID: `MCw4ODU4MDYyZTg4NTUzNzU3ZDZkN2U4ZDdlMTdkZjVkNTVlOWYwN2Yz`

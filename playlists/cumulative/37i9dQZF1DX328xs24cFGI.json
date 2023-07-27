@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Kiminomachimade",
+        "url": "https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Kiminomachimade",
+      "url": "https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM"
+    },
+    {
+      "album": {
         "name": "KIMINOMAMA",
         "url": "https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz"
       },
@@ -732,6 +750,24 @@
       "duration_ms": 177580,
       "name": "KIMINOMAMA",
       "url": "https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47"
+    },
+    {
+      "album": {
+        "name": "Koi no Iro",
+        "url": "https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282060,
+      "name": "Koi no Iro",
+      "url": "https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa"
     },
     {
       "album": {
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 198293,
       "name": "\u541b\u306e\u8857\u307e\u3067",
       "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
@@ -2182,7 +2218,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 282060,
       "name": "\u604b\u306e\u8272",
       "url": "https://open.spotify.com/track/0L2Ljt0LnXg4RyUiLuF7sD"

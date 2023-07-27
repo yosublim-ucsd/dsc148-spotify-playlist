@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,065 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,094 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Trip](https://open.spotify.com/track/53s35uBUa1PpKdwY3L8zxF) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/18YfZB3sMphELTAkjMjpZk) | 2:53 |
 | 100 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 
-Snapshot ID: `MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3`
+Snapshot ID: `MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi`

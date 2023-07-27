@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,194 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,344 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 |
 | 100 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
 
-Snapshot ID: `MCw2ZmJjMGNmNmIyNjljMzc0MjE2NDcwOWIyOTIxYTQyZDIxYjE4M2Ey`
+Snapshot ID: `MCwyZjdkMWI5MmRhMTkyMTA3NjVlMDdiNzRmYzk2YzdjOTVhNWEzMmRi`

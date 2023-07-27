@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,871 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,886 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 31 | [All The Way \(Stay\)](https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 4:05 |
 | 32 | [Your New Aesthetic](https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 2:40 |
 | 33 | [Electable \(Give It Up\)](https://open.spotify.com/track/6YF86Myf8ganLrq9QtCg0E) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 2:56 |
-| 34 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
+| 34 | [Action Needs An Audience](https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 2:40 |
 | 35 | [Surviving](https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:04 |
 | 36 | [Crush](https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:11 |
-| 37 | [Action Needs An Audience](https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 2:40 |
+| 37 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
 | 38 | [It Matters](https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:54 |
 | 39 | [Love Never](https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 2:54 |
 | 40 | [Ten](https://open.spotify.com/track/2WKfrlOLw7U1RvqvdiMpM2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [No Sensitivity](https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:41 |
 | 50 | [You Are Free](https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 4:14 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA5NjU0ZThhYzFiMWY3MDYzOTZlMGIyYjYxMmU1Mjg3NA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBjNGZhYzA5ZDJlMjRiNzBkMGVkNGMwMTMxYTVhM2U5NA==`

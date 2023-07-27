@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,475 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,547 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `MCxlNWFhZjc4YWU4NDJhYjMyZGMyOWU0ZTk3Njg4ZWM1OTU2ZWE3YzNj`
+Snapshot ID: `MCxiOTc0ODllNjk0ODhjYjczMTE0YWI5MWRmYTNjNGE0ZjdiNDZmYjUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,207,120 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,207,788 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 | 99 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 100 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 
-Snapshot ID: `MCxjZTM3NGM5MDg5OTJhZDE0NjQxYzMzNWE1ZWEyYzkwZGU3NzY3OWMz`
+Snapshot ID: `MCxiYmIyY2U2NGQ4ZmY4ZmYzYmNhZTgwYmZiODA0MWU4ZGNkZmQwYzNm`

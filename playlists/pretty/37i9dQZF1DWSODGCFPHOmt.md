@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,730 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,727 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
 | 80 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
 
-Snapshot ID: `MCxlZjkxZGI4NTBjNjkzNWJmYzIzYjkzZDQ3OWI4MGI3MzU1ZmE4MDdi`
+Snapshot ID: `MCxlOWEzNDcwZmU0Njg4OTk1NmI3MThmNjEyNmE3ZDQ5OTM3MDM3ZjE3`

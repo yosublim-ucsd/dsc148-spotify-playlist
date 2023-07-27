@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,679 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,776 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 48 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 49 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 50 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
-| 51 | [La Boni](https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [La Boni](https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F) | 3:27 |
+| 51 | [La Boni](https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [La Boni](https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F) | 3:29 |
 | 52 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 53 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 54 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 100 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
 
-Snapshot ID: `MCxlZjU1Y2FhZDc3ZDAyOTA5MTNiZmQ0NjMwZTg2Nzc1M2M1YzI2MGMz`
+Snapshot ID: `MCxjMmY5OWIzYTZlNTRiNzRkMzU1MjZhODUxMTc4ZmQzYzVlYmY1YTNj`

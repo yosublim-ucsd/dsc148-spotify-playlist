@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 233998,
       "name": "Cleanup Hitter",
       "url": "https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU"
@@ -308,6 +308,28 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E"
+    },
+    {
+      "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
     },
     {
       "album": {
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 248240,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
@@ -1060,7 +1082,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 202391,
       "name": "Run To Me (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"

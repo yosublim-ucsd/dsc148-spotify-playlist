@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,516 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,589 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Monterey](https://open.spotify.com/track/6eN2ntcNKxLUYNn6IE94Fq) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/4cGhWxhcpivt0JkXl0jtn0) | 3:28 |
 | 90 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
 
-Snapshot ID: `MCxmNTc5ZmYyMzZlZGU0NWUyOGIwNDZmYmI2YTQ2YWI4YWQxOGM4YmMw`
+Snapshot ID: `MCxiM2E4Yjc3M2ZmZWNiZmYzZTc2ZmI2MWQzMWU3NmZmNzVmNWRmMmU4`

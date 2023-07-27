@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 
 > Throwing it back with these summer classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,222 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,759 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 79 | [Just A Dream](https://open.spotify.com/track/3ZdJffjzJWFimSQyxgGIxN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [5.0](https://open.spotify.com/album/3mz9p3cA0Cl5oDUlpTxB0c) | 3:57 |
 | 80 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 |
 
-Snapshot ID: `MCxhMTgyODU2MGVjZDVkNzE0ODNiOGRmYmNlZWFkYzJjYWRkYzg3NTUx`
+Snapshot ID: `MCw1ODVlOTM2OTczMzU1MGQxYzQwYjQ2NzVhNDUxOTQ2YzJlYTRhNzIz`

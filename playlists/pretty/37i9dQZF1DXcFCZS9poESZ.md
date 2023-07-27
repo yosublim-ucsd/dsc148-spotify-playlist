@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,471 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,538 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 43 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
 | 44 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 |
 | 45 | [Daisuki Shinba](https://open.spotify.com/track/68hMeIvF2TKpM9ZZola13Z) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [Daisuki Shinba](https://open.spotify.com/album/5tI1JwyeinlZKDHQHK2gvM) | 3:19 |
-| 46 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986\~1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
+| 46 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986～1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
 | 47 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
 | 48 | [City Hunter 〜愛よ消えないで〜](https://open.spotify.com/track/4c0G3S4tGbwoJrF8Ve662r) | [Kahoru Kohiruimaki](https://open.spotify.com/artist/25AlSzLodlCYZrjU8je4pJ) | [The LEGEND](https://open.spotify.com/album/2X7Bq9qIsYPbva7aAZyB87) | 4:06 |
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCw2Y2RlMzFkNWUxYzI2MGQ0N2Q4MzBmZjg5ZjZmMjBmMzAxYjM2NjM0`
+Snapshot ID: `MCxiZGRiZTgyNjkzMGEyNGU3MDAyZmU4MGUzMTYwNGVhZWFlNmNkZGI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: The hosts of this year's <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> , <a href="https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7">Tasha Cobbs Leonard</a>  and <a href="https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a">Jonathan McReynolds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,785 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,885 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 10 | [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 |
 | 11 | [I Will Rejoice \- Live](https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:34 |
 | 12 | [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 |
-| 13 | [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 |
+| 13 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 |
 | 14 | [You've Been Good To Me \- Live](https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 9:30 |
 | 15 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 |
 | 16 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Good & Loved \(feat\. DOE\) \- Stellars 2020](https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Good & Loved \(feat\. DOE\) \[Stellars 2020\]](https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz) | 3:52 |
 | 100 | [You're Bigger \(Radio Edit\)](https://open.spotify.com/track/6H81l4DgtgdEvfRGow3gI9) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 3:50 |
 
-Snapshot ID: `MCxjM2JiY2M2YWY0YTgzODMyNTJkNTM5NmEyMDQ0MmYyYjE0ZmUwMGFi`
+Snapshot ID: `MCw4Mjk0YTY0NmY2NGI4OTVlNzc5NmRhYWIwMjU0ZmM1MGI5ZGUzOTMx`

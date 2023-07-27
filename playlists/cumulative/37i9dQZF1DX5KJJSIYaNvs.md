@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Rashmeet Kaur
 
-208 songs - 12 hr 1 min
+209 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,10 +211,11 @@
 | [Video Bana De](https://open.spotify.com/track/7hXcOpRn1c1zFG6sOFcfj5) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Video Bana De](https://open.spotify.com/album/5dCxhMSOKC6RTwWcAFCtM0) | 3:07 | 2022-02-01 | 2022-03-08 |
 | [Waah Sajna](https://open.spotify.com/track/1W09KnUmN919i5upuJXD2S) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulraj Singh](https://open.spotify.com/artist/7apTJ2UKJkBZNKwCiPkfLJ) | [Waah Sajna](https://open.spotify.com/album/0ylRYNvQcZnyWQeprACjIA) | 3:31 | 2023-07-14 |  |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-02-01 | 2023-01-04 |
+| [Woh Adhure Khwaab \- From "Do Gubbare"](https://open.spotify.com/track/4BsEc8aHRdcsYTnbgVjfk6) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Saurabh Bhalerao](https://open.spotify.com/artist/4QEtJ98Z5qRGH0lx6b4vU4), [Sunil Sukhtankar](https://open.spotify.com/artist/5fGSqDLGNudql82ajOSbnG) | [Woh Adhure Khwaab \(From "Do Gubbare"\)](https://open.spotify.com/album/2J9nzKETyGK3o3KozamV2k) | 2:55 | 2023-07-26 |  |
 | [Woh Galiyaan](https://open.spotify.com/track/67Fy9ScEA3gGp9NQ5lC7yU) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Shabaash Mithu](https://open.spotify.com/album/6bko9gg65RWq9HUL9FWDqY) | 4:00 | 2022-08-03 | 2023-03-03 |
 | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lalit Sen](https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS) | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS) | 4:16 | 2022-02-01 |  |
 | [Yeh Aaina](https://open.spotify.com/track/62RXe5I6L7n32fUMd8Puvo) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 5:11 | 2022-02-01 | 2022-03-08 |
-| [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-02 |  |
+| [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-02 | 2023-07-27 |
 | [Zidd](https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rashmi Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5clXHYUXuMpthSuwC94ngl) | 4:08 | 2021-12-10 | 2022-01-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

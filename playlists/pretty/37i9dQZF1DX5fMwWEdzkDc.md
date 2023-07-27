@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,262 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,294 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 |
 | 100 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 |
 
-Snapshot ID: `MCw2MGM2MWRjYTBmMjYzOTQ5OWYxZWU2MmFiMWViZWI2YjJkYzc4ZmI5`
+Snapshot ID: `MCwwMzM0ODM0NGVhYmM3MWJhYjQwZjY1ZGJhOTMzZGM5YWViOTBiYTMy`

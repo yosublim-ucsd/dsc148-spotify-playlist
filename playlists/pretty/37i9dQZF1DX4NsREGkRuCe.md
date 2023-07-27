@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,472 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,520 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 79 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 80 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 |
 
-Snapshot ID: `MCwwNDRkNTM5ZWVjOTM3ZDA5MDk2MjkyMmE5Y2VjMmRhNTZhYjUyMjhj`
+Snapshot ID: `MCwzNDRjZmY3YmVkOWI2Njc1NTBhODM3N2M0M2QyMGRlZTYzM2UwMmY1`

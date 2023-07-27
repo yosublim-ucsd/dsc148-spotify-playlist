@@ -2490,7 +2490,7 @@
     {
       "album": {
         "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl"
+        "url": "https://open.spotify.com/album/4ASxmYeXQfUMcaDAxAgx2a"
       },
       "artists": [
         {
@@ -2501,6 +2501,24 @@
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl"
+      },
+      "artists": [
+        {
+          "name": "LOU'ANA",
+          "url": "https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
       "duration_ms": 239000,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes"

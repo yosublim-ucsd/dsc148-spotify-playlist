@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,362 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,382 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 |
 | 80 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 |
 
-Snapshot ID: `MCw2YmZmZmFmYjk2ZGQwYWRjY2FhMTU5MjNjYmE2OGE2NWVkN2MwNzBh`
+Snapshot ID: `MCw1YmMzMmQwYTRmZTk4OGNiZmQ3NDMyZmMxNmJlNTNhNDY2Nzg5ZjZj`

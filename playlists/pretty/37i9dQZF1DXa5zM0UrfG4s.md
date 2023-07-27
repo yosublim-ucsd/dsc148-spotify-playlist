@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,635 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,694 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 70 | [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 |
 
-Snapshot ID: `MCw4M2YwOWUyODE2OGJkYmNmNTc5MDJkMzc3MzMyYjQ4NjRjYWM5NjFl`
+Snapshot ID: `MCxhNjU2MGJjNjE2ZTZlYWZkMDIwMDViNWZlNGY0YTdhZmZjOTk3MDA4`

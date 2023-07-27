@@ -4,7 +4,7 @@
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor y lo último del pop\. Foto: Abraham Mateo
 
-218 songs - 10 hr 59 min
+219 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,8 +191,9 @@
 | [Soy Yo](https://open.spotify.com/track/74yNlKlythblKb9INN5ZOx) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Soy Yo](https://open.spotify.com/album/6rus1wE3yIOoOqCXTMWlmn) | 2:37 | 2023-03-13 | 2023-05-31 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-21 | 2023-04-04 |
 | [Suena en las Bodas](https://open.spotify.com/track/5saZEfLmY8Ii6BZq7gGLe7) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Suena en las Bodas](https://open.spotify.com/album/1GCMmZzwzTjGegPwK3tXmK) | 3:12 | 2023-03-13 | 2023-03-22 |
-| [SÚBEME EL VOLUMEN](https://open.spotify.com/track/2W7ddrYsk4HvFeKiY5wPZM) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:52 | 2023-06-01 |  |
+| [SÚBEME EL VOLUMEN](https://open.spotify.com/track/2W7ddrYsk4HvFeKiY5wPZM) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:52 | 2023-06-01 | 2023-07-27 |
 | [SÚBEME EL VOLUMEN](https://open.spotify.com/track/5qicCzZtQXytllZop0SF2H) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 2:52 | 2023-05-09 | 2023-06-04 |
+| [SÚBEME EL VOLUMEN](https://open.spotify.com/track/6leKU6P3z0XkBNBx6hiue4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 2:52 | 2023-07-24 |  |
 | [SÚBEME EL VOLUMEN](https://open.spotify.com/track/7iVR2net75ct59gmUtkDLb) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 2:52 | 2023-04-10 | 2023-05-10 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-10 |  |
 | [Te Miro A La Cara](https://open.spotify.com/track/7hlPoVZ1uz7FiQagPTVbQG) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Te Miro A La Cara](https://open.spotify.com/album/6LCwDsFIPU8BPk3f0jdzr3) | 2:22 | 2023-03-13 |  |

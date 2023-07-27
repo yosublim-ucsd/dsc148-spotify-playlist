@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,364 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,458 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Agba](https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Agba](https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG) | 3:24 |
 | 100 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 |
 
-Snapshot ID: `MCw0NTU5ZjBlYzA2ZWEyZDZmMjhlZmEzYzUxYzQyZWIwNTVkMTllOTBl`
+Snapshot ID: `MCw4M2ZmZDNjMjc5Y2JlOWY5NjJlM2Y5MTdhYWYzMzBiMmQzYzNkMWNi`

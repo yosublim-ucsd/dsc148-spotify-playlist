@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 | 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 
-Snapshot ID: `MCw1ZGYxNDk1YjM5MGNjYTYxOGEyOTIyNTc5NjEwODE4ODgyOGFjMWNh`
+Snapshot ID: `MCw3MjAyZWViMjMzZDcwODQ5MTRhZTlmOWNhZTZkNGQwZGRjMzFlZDcx`

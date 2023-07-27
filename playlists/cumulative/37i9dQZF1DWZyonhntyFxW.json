@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e! \u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo?si=PWJjdqZgTbKUjDdKpRdIMA\">\u062f\u0628\u0644 \u0632\u0648\u0643\u0634  </a>",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e! \u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM?si=OCLHw6D2TB-ZZLoBlHkZzA\"> \u0632\u064a\u0627\u062f \u0638\u0627\u0638\u0627 </a>",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 157974,
       "name": "AFROTO TYPE BEAT",
       "url": "https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8"
@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170919,
+      "name": "Askot Khales",
+      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 153802,
       "name": "BASHA",
       "url": "https://open.spotify.com/track/1fgU43Ln9aByhg4kZpTJnX"
@@ -734,6 +752,24 @@
       "duration_ms": 174538,
       "name": "CA7BY",
       "url": "https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH"
+    },
+    {
+      "album": {
+        "name": "CAP MERCEDES",
+        "url": "https://open.spotify.com/album/5Xw5WVvVrPJTU96wj5gHgV"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "CAP MERCEDES",
+      "url": "https://open.spotify.com/track/1e6lP3m32MeLVEtZ2W1tnI"
     },
     {
       "album": {
@@ -3767,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "\u0638\u0627\u0638\u0627 \u0627\u0644\u0648\u0633\u064a\u0645",
+        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128444,
+      "name": "\u0633\u0645\u0639 \u0627\u062e\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw"
+    },
+    {
+      "album": {
         "name": "\u0639\u0631\u0641\u0629",
         "url": "https://open.spotify.com/album/4EXcT2v8Vy1zUpBwjMF39Y"
       },
@@ -3876,7 +3930,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 132000,
       "name": "\u0642\u0648\u0644\u0648\u0648",
       "url": "https://open.spotify.com/track/6nqQeu7flmyBXJRe8qdgja"

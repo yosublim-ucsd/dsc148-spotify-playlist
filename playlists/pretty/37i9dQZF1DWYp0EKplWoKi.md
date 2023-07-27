@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Beto Vega & Lefty SM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,899 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,962 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/1AGSmPx8zXH09slCKqHBA3) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Una Vez Más](https://open.spotify.com/album/2aZ9dXtMoBGTgJMsDKy0Y5) | 2:51 |
 | 50 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 
-Snapshot ID: `MCw1MjNiZGU1M2I5MDA5MDQzNzFlMjk3NDJkYzJmZmU3OGJjYzE5MDJh`
+Snapshot ID: `MCw0Yzg2ZmNjYzVlNTc0YTYxOTgxYTU4ZTYwMDM0ZTUwOWE4NGIzOTEx`

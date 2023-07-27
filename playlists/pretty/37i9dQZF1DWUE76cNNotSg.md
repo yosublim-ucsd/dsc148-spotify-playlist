@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,271 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,513 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 |
 | 80 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
 
-Snapshot ID: `MCxiNTBhNzZiNTdiMjUwYzZkYWYyZjVmYzhiMzcyYWI3N2Q3ODBlYWFi`
+Snapshot ID: `MCxmYjYyMjA4ZmE0NmNmNWY4N2JiZTQ2NmQyMGRhYWEyYWY0N2M4YTEz`

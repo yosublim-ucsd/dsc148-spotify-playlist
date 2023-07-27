@@ -4,7 +4,7 @@
 
 > our favorite coastal cowgirl Ashley Cooke is taking over to celebrate her new album "shot in the dark" 🌴
 
-121 songs - 7 hr 25 min
+122 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 | 2023-04-03 |  |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2023-04-28 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-04-03 |  |
-| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-21 |  |
+| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-21 | 2023-07-27 |
+| [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-07-22 |  |
 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 | 2023-04-03 |  |
 
 \*This playlist was first scraped on 2023-04-04. Prior content cannot be recovered.

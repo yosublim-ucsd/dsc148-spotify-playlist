@@ -3158,10 +3158,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 232727,
       "name": "Rush",
       "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
+    },
+    {
+      "album": {
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,096 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,088 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Winter Wonderland \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG) | 3:38 |
 | 75 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
 
-Snapshot ID: `MCxmMzZmNjNiODUxMDRjZWU5Y2NjOWFmYmEwMmQwYzZlODhmZTYyYjNh`
+Snapshot ID: `MCw1YzgzOTEzMjdmMTg3ZTc5OTlhZjVjNTJhMmNlNmNhYThmMjgyMGZj`

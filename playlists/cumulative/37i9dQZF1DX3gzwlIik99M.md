@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-185 songs - 12 hr 39 min
+186 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Grito Insurgente](https://open.spotify.com/track/3o9SkLJYSQsrMGZQsqgcRl) | [Egregor](https://open.spotify.com/artist/0Lsrmln7HOkfKVuGye7eQh) | [Pachakuti](https://open.spotify.com/album/3h7UUJSgd2fIOYIJ5nrBVO) | 4:20 | 2020-10-24 | 2022-07-22 |
 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 | 2020-10-24 |  |
 | [Guerrero del Arco Iris](https://open.spotify.com/track/69Sf6oHKKmQNOYYvaw2Pfb) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Guerrero del Arco Iris](https://open.spotify.com/album/2kmJS5Hd1QqI9ZyTYe4Z6U) | 5:04 | 2020-10-24 | 2022-07-29 |
-| [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 | 2020-10-24 |  |
+| [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 | 2020-10-24 | 2023-07-27 |
 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 | 2020-10-24 |  |
 | [Hilera de Cráneos](https://open.spotify.com/track/4KYCAI8Ji8ZjsMnolgoZdC) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [Tzompantli](https://open.spotify.com/album/7GmdWqPEcptcBt89MZwzcH) | 3:49 | 2020-10-24 | 2022-07-21 |
 | [Horrendo](https://open.spotify.com/track/03jPeLdw2Ry6ZtRZCL3VVv) | [Larva](https://open.spotify.com/artist/70fgQkaCL6ITJxg1E8Q9iP) | [Horrendo](https://open.spotify.com/album/2oi69bCo79bJtBJfiEFUOY) | 4:12 | 2020-10-24 | 2022-07-28 |
@@ -122,6 +122,7 @@
 | [Maldito sea tu nombre](https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz) | [Ángeles Del Infierno](https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y) | [Pacto con el diablo](https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25) | 3:45 | 2020-10-24 |  |
 | [Mas Abajo del Infierno](https://open.spotify.com/track/0ZuH2VKIftMnzukP08gktc) | [Sol de Sangre](https://open.spotify.com/artist/210X3PzWuivvNasJE9QpR7) | [Sol de Sangre](https://open.spotify.com/album/5frrrCq1naPDUp2iI5wxQm) | 4:37 | 2020-10-24 | 2022-07-27 |
 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 | 2020-10-24 |  |
+| [Mawiza Ñi Piwke](https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt) | [Kollong](https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1) | 3:57 | 2023-04-28 |  |
 | [Mawiza Ñi Piwke](https://open.spotify.com/track/0CXdGgWZMDr8ze8NO2XAjd) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Mawiza Ñi Piwke](https://open.spotify.com/album/6539WvG4lD8gvodbPr9hEW) | 3:55 | 2020-10-24 | 2022-07-22 |
 | [Merciless Machine](https://open.spotify.com/track/14YPy9y4pGct5kDHwYl0ns) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M\. \(Up for the Massacre\)](https://open.spotify.com/album/1QFZRMsBbTK27CbtIRX5yP) | 5:15 | 2020-10-24 | 2023-05-11 |
 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 | 2023-04-28 |  |

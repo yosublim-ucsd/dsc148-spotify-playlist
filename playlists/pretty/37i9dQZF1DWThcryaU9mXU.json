@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 43732,
+  "num_followers": 43795,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
+  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Slow Burning Love",
-        "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Peepin' And Hidin'",
         "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 134573,
       "name": "Someone Broke This Heart Of Mine",
       "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Right Kinda Wrong",
+        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
+      },
+      "artists": [
+        {
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
     }
   ],
   "unique_name": "Just Me and the Blues",

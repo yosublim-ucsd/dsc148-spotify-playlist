@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with CloZee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,815 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,900 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Chemicals](https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Catlea](https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV) | [Chemicals](https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ) | 3:21 |
 | 150 | [Not In The Mood](https://open.spotify.com/track/3NYw5JI6wlqtGoCuZRzn6R) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Minha Vida \- Sadness](https://open.spotify.com/album/7hpaVvbrgihorMXpHVRhE4) | 1:50 |
 
-Snapshot ID: `MCxjNmUzMWM2NzVmNjgwOGNhODYyMzk4OWMzNDUyODQ2NjJhMTNhMTli`
+Snapshot ID: `MCxiOGFmOTcyMzcwOTY1MGRkNzVjZDQyN2M3MjU4ZDY4NTU4NjI5ODFk`

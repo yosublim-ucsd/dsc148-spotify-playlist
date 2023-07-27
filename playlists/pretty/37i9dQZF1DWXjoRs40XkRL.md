@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,408 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,441 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 17 | [Ghan Garjat](https://open.spotify.com/track/2YnDcmHbXSnbOAisOMggYb) | [Raga Boyz](https://open.spotify.com/artist/49egqatijUFHovUpyNjOx2), [Wali Hamid Ali Khan](https://open.spotify.com/artist/0bUBeMl5dsE3LxBOofcswt) | [Ghan Garjat](https://open.spotify.com/album/2YzQd8ncqjU2cSyyAR8TgF) | 2:59 |
 | 18 | [Main Bharose](https://open.spotify.com/track/33AshJyW3Wu1iKtTLoD8AW) | [Anoushka Naik](https://open.spotify.com/artist/5LdF19BpLXsQs4ELTk8VXE), [Apurva Kulkarni](https://open.spotify.com/artist/4Tk7SLs9my2CCDFmtzy6DU), [Gayatri Saraf](https://open.spotify.com/artist/4iqlL57fSjUZQSAdzXVuaJ), [Mitali Satonkar](https://open.spotify.com/artist/20LOzy8HZRGv5rgjpYNt96), [Rushali Khirwadkar](https://open.spotify.com/artist/5OThH9A9IYu8IkhPy7i4kb), [Sanika Phadke](https://open.spotify.com/artist/46RzK6ES4M0yVhR5cboSq1), [Shivani Kulkarni](https://open.spotify.com/artist/7EHToNUH8VQB5ZXbGuNP0N) | [Main Bharose](https://open.spotify.com/album/1ppMNvQmMiDiQBJjWL06zS) | 5:25 |
 | 19 | [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 |
-| 20 | [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 |
+| 20 | [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 |
 | 21 | [More Piya](https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [More Piya](https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1) | 5:34 |
 | 22 | [Kanha Re](https://open.spotify.com/track/2WE7d2v6kdC2tED3oWtdaz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4OwpgHERocW4KSPZ1D1rqV) | 3:51 |
 | 23 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 |
 | 75 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCwzNWYyMWNiNGEwM2NlZGQ1YzM4YWM3MGE2NjUxOGM1MTZjNDQ0M2Fm`
+Snapshot ID: `MCwwNWQwMWQ1ZDFlMDJiM2I0MThjMjg5NzNlYzViMjRhYWJiNTc3ZDQw`

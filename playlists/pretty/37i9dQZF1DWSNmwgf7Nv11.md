@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,744 likes - 164 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,714 likes - 164 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 93 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 |
 | 94 | [Everybody Needs Somebody](https://open.spotify.com/track/1uheNSEpSpLy6RQ9iJ0PXn) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Everybody Needs Somebody](https://open.spotify.com/album/2k4v7znbAQYat1ndcvZ48n) | 3:30 |
 | 95 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 96 | [Binge Drinking & D.H\. Lawrence](https://open.spotify.com/track/0TRnglnomElZA1IXv01hlb) | [Lake South](https://open.spotify.com/artist/5IQtbBmCk7x6ZJT6iqKZjF) | [Lake South](https://open.spotify.com/album/76eCwirIjt1uJ71GzJypTq) | 3:58 |
+| 96 | [Binge Drinking & D.H\. Lawrence](https://open.spotify.com/track/4nqFrxExNfVDwj66vCgkYJ) | [Lake South](https://open.spotify.com/artist/5IQtbBmCk7x6ZJT6iqKZjF) | [If You're Born On An Island The Ocean Heals You](https://open.spotify.com/album/2YNqpqDFvagX8L95XCZG5W) | 3:57 |
 | 97 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 |
 | 98 | [Holy Soul](https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 3:21 |
 | 99 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 163 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 164 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MCxhYzU4MmE4ZGYwMDA1MTE0MGRiODgxZDExNjFmMTZiMGU5YzNlNDA0`
+Snapshot ID: `MCwwMzRkNWE5YTc1NDZhMzZkZmQyMDY1Y2U4MDdkOWRjOWE5MzI2Y2Yy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,483 likes - 250 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,252 likes - 250 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [You're Not There](https://open.spotify.com/track/3cdmLOVYY9vht4a1THRJcZ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:22 |
 | 250 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
 
-Snapshot ID: `MCxmNDI5ZThmNDIyZWQxZGQzMTk4ZTQ2NDkxMDg2ZDA2MTM1NTA3NWI1`
+Snapshot ID: `MCw1OGU4NjU0OTJlODA5MDg1MzdhMWViNTZhMjI1Y2Y2MmQwY2NkODQ0`

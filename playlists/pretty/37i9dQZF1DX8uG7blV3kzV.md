@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,233 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,259 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 49 | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF) | 3:08 |
 | 50 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
 
-Snapshot ID: `MCw0ZWNmOTRjN2QyYjk2ZWFhZGVkMzVhNGZlYmEzYjJlYWEzOGRmMjk0`
+Snapshot ID: `MCw5YmFlZmE3NzlkZDYzNGFjM2NjMTc3NWJlYWMyZjEwZDA5MGMwNjlh`

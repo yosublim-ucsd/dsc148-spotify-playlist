@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,583 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,682 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 69 | [Your Love](https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Your Love](https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx) | 3:22 |
 | 70 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 |
 | 71 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 |
-| 72 | [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 |
+| 72 | [Lost & Found](https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/4ASxmYeXQfUMcaDAxAgx2a) | 3:59 |
 | 73 | [Better With You](https://open.spotify.com/track/4g5SL9yCXRzAFyeTsI7kEu) | [Jaycee](https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ) | [Better With You](https://open.spotify.com/album/5DX7E2aoZ3AC1qUGv6ePaN) | 3:05 |
 | 74 | [I'm Ready](https://open.spotify.com/track/04TdG6iigOntS4dyQHuxwY) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Zorina](https://open.spotify.com/artist/72olVPy3d6dn6ELACg30UG) | [I'm Ready](https://open.spotify.com/album/2JkxOn5bY1Uamzo82VpHCD) | 2:58 |
 | 75 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 |
 | 100 | [It's Gonna Be Alright \- Ricky Birickyno Classic Remix Edit](https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Frankie Lovecchio](https://open.spotify.com/artist/5v4HimVMqQbkqKg9kBrkQT), [Ricky Birickyno](https://open.spotify.com/artist/1hxQACgW4A0vQr2yzk3IrD) | [It's Gonna Be Alright \(Ricky Birickyno Remix\)](https://open.spotify.com/album/5ypOk5AWTooT79vNee52Ai) | 4:37 |
 
-Snapshot ID: `MCw1Y2U0MjdmZjRlYjU1MWQ4MWUxYmEzMzRiOTkyNjhhNDFhOWZkNTQz`
+Snapshot ID: `MCw3MGNlZGZjNGMyZjY0MjZiM2VkMTk0ZmMwZjhlZjAxMDYxNmU3N2Nj`

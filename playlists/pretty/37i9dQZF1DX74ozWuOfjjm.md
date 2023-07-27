@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,588 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,603 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 1 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 2 | [god complex](https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [god complex](https://open.spotify.com/album/0xLDiRQyvRM2Jh18sWTG5Z) | 3:08 |
 | 3 | [Drippin' In Gold](https://open.spotify.com/track/2YggNVBxOpzLvwAdlF9934) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/65MawbayrX3kZV1vhFcZkj) | 2:55 |
 | 4 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 89 | [Myriagon \(No Photos Please\)](https://open.spotify.com/track/1bHMdStFH8IKo8KO3umtyC) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Myriagon \(No Photos Please\)](https://open.spotify.com/album/5yJA9xeRSuSX3FIlsJIG8L) | 2:54 |
 | 90 | [If You Wanna Love Me](https://open.spotify.com/track/3jzpeb2htfvSp2Qssmky0B) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 3:24 |
 
-Snapshot ID: `MCxlOGVjYTdmZGE1NWJjNDhmNGJiODY3YTQzNmQyNjQwMTUxNjdlYzc3`
+Snapshot ID: `MCwxYjIzNmM1ZjAzMTUzMjk5YWU1NDJkZGQ2MTg4Yjg3NTI4OGNlMzU1`

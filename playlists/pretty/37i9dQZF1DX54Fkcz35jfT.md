@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: PRAISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,481 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,521 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 4 | [MEITEI EXCITE](https://open.spotify.com/track/5jQyTZB2Izc3NXHtut5SVE) | [PRAISE](https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs) | [MEITEI EXCITE](https://open.spotify.com/album/03ta7GAyYavhFhLIaANBMO) | 3:00 |
 | 5 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
 | 6 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
-| 7 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 |
+| 7 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 |
 | 8 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 9 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 10 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
 | 100 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
 
-Snapshot ID: `MCxlMjVjNGY1ZWVhZjIyNDQ3ZjVmODc2MzYzMjNlMmIwNzY3Y2Y3YTQx`
+Snapshot ID: `MCxmYmU3YTBjNjUwZjNjYzFjODcwMjNlMzZjMDMyYTFlODdkYWY3NWJk`

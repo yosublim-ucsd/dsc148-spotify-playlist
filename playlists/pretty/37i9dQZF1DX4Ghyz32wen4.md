@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Tini y Tiago PZK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,405 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,476 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 72 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 73 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
 | 74 | [Chica del Verano](https://open.spotify.com/track/415SDloEFOgfjFMgMhEOIY) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Chica del Verano](https://open.spotify.com/album/2BIYUpu5FC2ajpBJqpCEX9) | 3:38 |
-| 75 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 |
+| 75 | [Brillo en Soledad](https://open.spotify.com/track/489o2zIJx0S6I5HusgbBLK) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/4TyWJZlbnKjneVFZnSqUOe) | 4:22 |
 | 76 | [Mató Mi Corazón](https://open.spotify.com/track/2aCbnkuBZcGBNtYQYf1QyD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Mató Mi Corazón](https://open.spotify.com/album/7qGDQXrIHDq4WqkDxN78XD) | 3:35 |
 | 77 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 |
 | 78 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 | 100 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 |
 
-Snapshot ID: `MCxlMDljYWRmNWNhM2UwOTE4M2VmNmVkYzRhMTljYTU1NGZmYWIyZjM1`
+Snapshot ID: `MCwwOTllMWIyZDY2YjJmZWZiMmE1YWM2NDNlYTlmMTAwNmU0ZmY3YzQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: MYA, Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,017 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,141 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
 | 100 | [Entre Sombras](https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY) | [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM) | [Entre Sombras](https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob) | 3:18 |
 
-Snapshot ID: `MCw3NWJmMmZhOTcyYmRiYzlhNjQ4MzBlNmNjY2NiOTk2ZmI3MjZkZGU4`
+Snapshot ID: `MCw0NDJlOGZhNWExN2RkYjA0YTk1ZWUxMjNiYzJjMjNhYjY0YjcwY2U5`

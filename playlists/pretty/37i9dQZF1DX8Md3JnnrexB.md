@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,057 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,083 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 |
 | 100 | [Golden Time Of Day \- Remastered](https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Golden Time Of Day \(Remastered\)](https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS) | 5:33 |
 
-Snapshot ID: `MCw2M2ZlNWRjMWYxNjYyYmQxNmVlYmU5ZWFkNmZlNzE0ZWFmN2NhMGZl`
+Snapshot ID: `MCw2YTI2ZGM0ZjJlYTNlOGJmZmM3ZDEyYWMxMjM2MzAzMGUzNmJlNzAw`

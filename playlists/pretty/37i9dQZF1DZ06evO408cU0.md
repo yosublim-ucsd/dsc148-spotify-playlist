@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,081 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,120 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 8 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
 | 9 | [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 |
 | 10 | [Lo Que Pienso De Ti](https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:34 |
-| 11 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
-| 12 | [La Historia De Mis Manos](https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:52 |
+| 11 | [La Historia De Mis Manos](https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:52 |
+| 12 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
 | 13 | [La Doble Cara](https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:34 |
 | 14 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 15 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 31 | [¿Desde Cuándo No Me Quieres?](https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Bandas Románticas](https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I) | 3:26 |
 | 32 | [Ya Me Sirvió De Experiencia](https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:19 |
 | 33 | [Culpable Soy Yo \- En Vivo Desde El Rancho](https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 3:39 |
-| 34 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 |
-| 35 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 |
+| 34 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 |
+| 35 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 |
 | 36 | [A Ver A Qué Horas \- En Vivo](https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [A Ver A Qué Horas \(En Vivo\)](https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a) | 2:33 |
 | 37 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 | 38 | [El Magnate](https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 49 | [Ya Me Vi Contigo](https://open.spotify.com/track/3wvf2xLgmbgJIFyKuJVH3R) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:28 |
 | 50 | [Lo Que Nos Pasó](https://open.spotify.com/track/4NpuPjCAp6J1lOvbV1OiHf) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 2:59 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBjODU0NDk0NWMyM2Q3MDQxNTE5OWU3NjZhODM2ZmYxMg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA2YTIwOWRkZjk5ZGRiYzQyZDg4Zjk3NDM5ZjlkYjVmNw==`

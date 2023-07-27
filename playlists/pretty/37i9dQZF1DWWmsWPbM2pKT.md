@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,107 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,454 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Звук и темнота](https://open.spotify.com/track/1C2DCm6KwDa1bVBJM4Mh5Z) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Звук и темнота](https://open.spotify.com/album/56qzZ00inodGzhGPLT3wXL) | 3:30 |
 | 100 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 |
 
-Snapshot ID: `MCwzOTE3Njc0YTliNjdjNzI5ZGYyZDZiZGU2YzExNjc5ZDVkZTVkNGI5`
+Snapshot ID: `MCw0NzRkZDdmMTRjMzljY2QxM2VhZTA1NWQ0OGU5NTI0NWM3YTUzMjlk`

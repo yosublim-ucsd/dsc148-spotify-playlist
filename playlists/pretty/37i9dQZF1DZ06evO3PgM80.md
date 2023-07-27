@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,566 likes - 37 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,586 likes - 37 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 7 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 8 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
 | 9 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
-| 10 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
-| 11 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
+| 10 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
+| 11 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
 | 12 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
 | 13 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 |
 | 14 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 36 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 |
 | 37 | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h) | 6:06 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA3NWE3Nzc0NjM5MGMyY2NjMzEwZmFlMmZkYjE1ODcyMw==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDAwYjE3Y2I1MWY0ZGQ1N2Y5Y2QzNzQ0M2IzZTRmNmY0Zg==`

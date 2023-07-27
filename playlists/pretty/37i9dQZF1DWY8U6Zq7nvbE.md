@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,966 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,988 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 199 | [Light Switch \- Acoustic](https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Fresh Acoustic](https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh) | 3:06 |
 | 200 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
 
-Snapshot ID: `MCw5NDFmYTQyNTQ0YTU4NDI5NmRhMzY0N2Y4ZWMwNjAxN2RiNjlmYjg0`
+Snapshot ID: `MCxiMTk0Y2NiZTk3ZDNjODlkZGY3Yzg5M2E4MDlmZTNmNDEyODg4MTll`

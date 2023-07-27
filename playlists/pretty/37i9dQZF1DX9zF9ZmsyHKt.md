@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,873 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,930 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
 | 100 | [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 |
 
-Snapshot ID: `MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm`
+Snapshot ID: `MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl`

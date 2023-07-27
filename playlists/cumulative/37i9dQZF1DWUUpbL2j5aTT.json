@@ -1230,10 +1230,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 165230,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8"
+    },
+    {
+      "album": {
+        "name": "New Era, Vol. 3",
+        "url": "https://open.spotify.com/album/2ZC5O12mhaLFmg9x5u5jaQ"
+      },
+      "artists": [
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/20p5YCG101lJcLPtPnOqAH"
+        },
+        {
+          "name": "Newera",
+          "url": "https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND"
     },
     {
       "album": {

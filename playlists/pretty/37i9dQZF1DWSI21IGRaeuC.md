@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,649 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,701 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 |
 | 75 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
 
-Snapshot ID: `MCxlOGMxYzVlNDg2ODdkZjJjNGFhNWU1ZmU5OGU4NDdiY2Q2MTYyMmI0`
+Snapshot ID: `MCw4NmVlZTFiMGU3ZjVjZTU0YWZmMDkxYjY3ZTgzYzNiYjMzNTA2OGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=rR1PpJXuSFO7jh3FvO\-2Vw">Franja Du Plessis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,497 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,541 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 |
 | 75 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 
-Snapshot ID: `MCxhMjg1MmE5YzllOTViYWFiYzc1NzliMDM1NmU3NGNlZDYwNzVmZTNk`
+Snapshot ID: `MCxjODhjNzE0OGRmOTEyOGFmNWU3ZjliMDViMzc5YjU3MGMxNmM5MWNk`

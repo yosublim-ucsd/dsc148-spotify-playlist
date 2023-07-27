@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 |
 | 50 | [Wewe ni mungu](https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Wewe ni mungu](https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP) | 4:22 |
 
-Snapshot ID: `MCxhYTgzNTQyMjUzOGUxYzg5YjVjM2IzZDViYzBlMmViMzkxMWQzZTE5`
+Snapshot ID: `MCxmNDQyMzIzOGE4MzcxZTI5YmZlZmMzNWVhM2QwZmU1Mjk5Y2Y1MTBh`

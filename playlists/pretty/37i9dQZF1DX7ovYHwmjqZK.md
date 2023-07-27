@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,228 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,364 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 |
 | 100 | [Muito a Vontade](https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [100% João Donato, Vol\. 1](https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA) | 2:36 |
 
-Snapshot ID: `MCxmNmY3Yjc4ZDlmM2I3NmE3YzQ2OWUzOTE2OTQzY2RmZWYxZjExMzhi`
+Snapshot ID: `MCw3MTQ1MGIwMWZjNGUyY2Q4NmYwMzZlYjViNjczMjMwOTdlZDA2NDcz`

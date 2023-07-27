@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,675 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,751 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [You Will Know \- Afro Mix](https://open.spotify.com/track/1qgVvEPuunWx1AK0rB1Dnh) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [You Will Know \(Afro Mix\)](https://open.spotify.com/album/1lPbIPyuETuvSrKUYwB22W) | 3:40 |
 | 60 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 
-Snapshot ID: `MCw4YzU4M2JhNTU2NTFiZTk1NTE5ODljMGM1ZjU2YzZmNGJlMzI1MjJl`
+Snapshot ID: `MCwyMTdjZmY1MWFiZDgxNDRiMjllMTFiMDRiOWRmNmExNTRlYjQ4ZDU3`

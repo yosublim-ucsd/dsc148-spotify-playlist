@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Miau Trío.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,701 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,710 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Cruzandonos](https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n) | [Rosario Serafin](https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM) | [Cruzandonos](https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY) | 3:35 |
 | 100 | [Nena](https://open.spotify.com/track/0zGiP8h7GMV2W1aIqq4mJz) | [SINGULARES](https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN) | [Nena](https://open.spotify.com/album/56ahGn7izo6fGrS5lMvCjm) | 2:30 |
 
-Snapshot ID: `MCxhMzY0NGJkNjYxMDUxZmQ0NDAyYTJhM2IxNmNkODgxZDZlYmZkZjJh`
+Snapshot ID: `MCxmMGMwYjNiNWM1NDRjYzM2NWVkNzIwYTA4YzY3M2M3OWRlNzQ2ODM1`

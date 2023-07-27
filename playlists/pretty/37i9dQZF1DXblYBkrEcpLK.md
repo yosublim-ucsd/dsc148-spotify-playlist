@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,752 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,958 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
+| 1 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
 | 2 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 |
-| 3 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 |
+| 3 | [あてもなく](https://open.spotify.com/track/4VIteRWGpJ77WBm1nQfQu0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:54 |
 | 4 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 5 | [ムーンライト伝説](https://open.spotify.com/track/64QWRvVuZet8Ov3mCNM7yR) | [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe), [エターナルセーラームーン\(CV:三石琴乃\)](https://open.spotify.com/artist/0vayXkaNmY0ss9VG3NS9WS), [エターナルセーラーマーキュリー\(CV:金元寿子\)](https://open.spotify.com/artist/4NpZScinftidudpPSy6jNC), [エターナルセーラーマーズ\(CV:佐藤利奈\)](https://open.spotify.com/artist/3e71gWgrpcqofCufn94m8P), [エターナルセーラージュピター\(CV:小清水亜美\)](https://open.spotify.com/artist/5gifeFylr4hLNLl9IclZCj), [エターナルセーラーヴィーナス\(CV:伊藤 静\)](https://open.spotify.com/artist/2oHHu9xblrnbBmRqEY1QDe) | [ムーンライト伝説/流れ星へ](https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv) | 3:05 |
-| 6 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
+| 6 | [朝が来る](https://open.spotify.com/track/1pf86hMft7R3Gg79LHQ94v) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 4:53 |
 | 7 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 8 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 9 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
 | 50 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 |
 
-Snapshot ID: `MCwwYWEyM2RmZjY3MjU3ZmExMTVlNWJjYTIwZjljYzkzNTNhMjc0NmRl`
+Snapshot ID: `MCxmNGExMjcwNGRhM2NlZGM2Nzc3ZDFlZjUwODVjNzQxMGJiODhkNDI0`

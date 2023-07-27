@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,733 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,922 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [The Nearness Of You \- Remastered](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 |
 | 100 | [Come Fly With Me](https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:18 |
 
-Snapshot ID: `MCw1NTZhYmZjYjM0MDQ2NDc4NTlmMzY4NDQyZjIyZTRiNDAyNzE0YWY1`
+Snapshot ID: `MCxlZDFkMjQ4Njk5Zjk4YTdiMjQyNGIyNDAyYzE0NGIwYzA0NTczM2Ri`

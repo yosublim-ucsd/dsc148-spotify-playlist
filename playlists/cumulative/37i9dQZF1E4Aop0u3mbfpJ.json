@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 186173,
       "name": "All About Tonight",
       "url": "https://open.spotify.com/track/1Fx9aiORwv0cx5mFEBasHo"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 123973,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 263066,
       "name": "Bad Romance - Skrillex Remix",
       "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 255586,
       "name": "Blow Me (One Last Kiss)",
       "url": "https://open.spotify.com/track/4k80K0b6KZ2QjAYkXON7q6"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
@@ -4534,7 +4534,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 186266,
       "name": "Break Your Heart",
       "url": "https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa"
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 231213,
       "name": "Burn",
       "url": "https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -7300,6 +7300,24 @@
       "duration_ms": 213866,
       "name": "Delete You",
       "url": "https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx"
+    },
+    {
+      "album": {
+        "name": "Delicious",
+        "url": "https://open.spotify.com/album/2PnytKuIZTK2cXfqK60PQh"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67221,
+      "name": "Delicious",
+      "url": "https://open.spotify.com/track/4Kq1H9v0YpPKQYUyrHe8Cm"
     },
     {
       "album": {
@@ -7970,7 +7988,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 262240,
       "name": "Don't Let Me Be Misunderstood (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/6DO29wBOfESk3C2sScpxZn"
@@ -8096,7 +8114,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 256280,
       "name": "Dream Dancing",
       "url": "https://open.spotify.com/track/7kjzAKTVd9umvnChTkzTNd"
@@ -8722,7 +8740,7 @@
       ],
       "date_added": "2020-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
@@ -8856,7 +8874,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 185920,
       "name": "Et alors !",
       "url": "https://open.spotify.com/track/0XKTCQiiJpW9GfQa9eh4Wi"
@@ -8968,7 +8986,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 213720,
       "name": "F**kin' Perfect - Radio Edit",
       "url": "https://open.spotify.com/track/3ueoTboomKEQpI3r9z47Kg"
@@ -9422,7 +9440,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 117640,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/4NCZEnM4tq2MazaFURJxWY"
@@ -9458,7 +9476,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
@@ -11487,6 +11505,24 @@
     },
     {
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
         "name": "Hard",
         "url": "https://open.spotify.com/album/1uXq6vXkwhJUlnn84y7Irc"
       },
@@ -12252,7 +12288,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -13468,7 +13504,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 219720,
       "name": "I Knew You Were Trouble.",
       "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
@@ -13548,7 +13584,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
@@ -13754,7 +13790,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -14094,7 +14130,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 236720,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/4Sps76IJpIyyZqRTj7HCEi"
@@ -14730,7 +14766,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/6AdyrjfSeRu3NbnU7taZvg"
@@ -15628,7 +15664,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -16156,7 +16192,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 155076,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
@@ -16488,7 +16524,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 126760,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0MH2uJT6XXhtm419pZn2H9"
@@ -16506,7 +16542,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2020-11-13",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
@@ -19356,7 +19392,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 322500,
       "name": "Nails, Hair, Hips, Heels - Sagi Kariv Remix",
       "url": "https://open.spotify.com/track/1JJz8sHn5PPxaK9u57ACbA"
@@ -20878,7 +20914,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -20976,7 +21012,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 223493,
       "name": "Papi",
       "url": "https://open.spotify.com/track/1nAGuIZXz6vb8XW0xiMqic"
@@ -21106,7 +21142,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -21260,7 +21296,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Perfect Illusion",
       "url": "https://open.spotify.com/track/56ZrTFkANjeAMiS14njg4E"
@@ -21648,7 +21684,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Poker Face - LLG vs GLG Radio Mix",
       "url": "https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf"
@@ -22548,7 +22584,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
@@ -23364,7 +23400,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
@@ -24434,7 +24470,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
@@ -25360,7 +25396,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -27990,7 +28026,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 320586,
       "name": "The Edge Of Glory",
       "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
@@ -28458,7 +28494,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 277670,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/6UFreGSICnJHbUWUGkDn37"
@@ -28636,7 +28672,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 108560,
       "name": "They All Laughed",
       "url": "https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr"
@@ -29528,7 +29564,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
@@ -29564,7 +29600,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 247906,
       "name": "Try",
       "url": "https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0"
@@ -29834,7 +29870,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
@@ -30172,7 +30208,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 183560,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
@@ -30554,7 +30590,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 207719,
       "name": "Want to Want Me",
       "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
@@ -31402,7 +31438,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
@@ -31514,7 +31550,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 169000,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct"
@@ -31734,7 +31770,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 220601,
       "name": "Wig",
       "url": "https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI"
@@ -32448,7 +32484,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 169400,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ"

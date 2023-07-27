@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,600 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,604 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 74 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 
-Snapshot ID: `MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw`
+Snapshot ID: `MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy`

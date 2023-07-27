@@ -4,7 +4,7 @@
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-77 songs - 4 hr 11 min
+78 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Oak Tree Special](https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Corridos de Caballos](https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI) | 4:34 | 2022-08-01 |  |
 | [One Dashing Eagle](https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU) | [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [One Dashing Eagle](https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi) | 3:44 | 2022-08-01 |  |
 | [Potro Lobo Gateado](https://open.spotify.com/track/7xnqtZmV2k9ZGDuBPTQkmn) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 4:38 | 2023-05-03 | 2023-06-16 |
-| [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 | 2022-08-01 |  |
+| [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 | 2022-08-01 | 2023-07-27 |
+| [Ranchero Y Gallardo](https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 2:14 | 2023-05-03 |  |
 | [Regalo Del Cielo](https://open.spotify.com/track/7DBvS6V71BdQSDE89fun8r) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Agarró Camino](https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh) | 3:06 | 2022-08-01 |  |
 | [Se Vende un Caballo](https://open.spotify.com/track/4INGYD1uBRoEIwrIWLHoK3) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 2:42 | 2022-08-01 |  |
 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 | 2022-08-01 |  |

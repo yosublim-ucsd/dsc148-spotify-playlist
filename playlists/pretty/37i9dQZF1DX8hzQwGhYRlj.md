@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,046 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,060 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 | 59 | [Grieg: Lyric Pieces, Book 8, Op\. 65: No\. 1, From Early Years](https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Grieg: Piano Concerto, 6 Lyric Pieces \- Liszt: Piano Concerto No\. 2](https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8) | 4:39 |
 | 60 | [Cello Sonata in A Minor, Op\. 36: I\. Allegro agitato](https://open.spotify.com/track/6nJDclqzmwq9dOoyc0CXMH) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Truls Mørk](https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1) | [Sleeping \- Grieg](https://open.spotify.com/album/2KkVaSnTKRBRz8QhywVbiE) | 10:06 |
 
-Snapshot ID: `MCw0M2NiNTQxMzYxMjdjMzllYzI1NDNiMmQyZWFhMGFmN2JlZTgyZjQy`
+Snapshot ID: `MCw5MDNiZWYyM2Y4MTAwZjU1NTNhYjliMTczOWYzMGU1ODM4NTQ4OWIw`

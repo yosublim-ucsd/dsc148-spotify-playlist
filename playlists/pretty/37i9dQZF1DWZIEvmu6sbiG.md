@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 
 > Scopa, paletta e musica!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,829 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,832 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 | 99 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 100 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
 
-Snapshot ID: `MCw0MzI4NjA0NjAzYTdhZDk1MDc0MDMyMjUzZjU5ZjQ2ODEzZjY5MDZi`
+Snapshot ID: `MCw4MDljNGJjNzljZmEyMWFmYzZmYTYyNDhhNGVkOWRiZWUxMDYwNjI2`

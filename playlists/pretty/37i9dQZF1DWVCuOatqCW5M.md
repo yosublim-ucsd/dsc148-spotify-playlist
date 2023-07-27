@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Gurnazar, Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,087 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,175 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCwzNTQ2ZTNiMTAwMDFkNmNmNTMxYzYwYWQ1ZmYxYmQxMGYwMDgzNWRm`
+Snapshot ID: `MCxhN2JmMTVlYjA2YTEwNzZhNTRiNzUwM2IyMDY0Mzg2YzJlYmIzNGM1`

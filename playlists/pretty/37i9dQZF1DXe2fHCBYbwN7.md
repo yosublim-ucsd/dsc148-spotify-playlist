@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,873 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,941 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 47 | [Backwater Blues](https://open.spotify.com/track/26uFDxLujO2qtZQrpu7eTt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 3:02 |
 | 48 | [TODAY I SING THE BLUES](https://open.spotify.com/track/6xY3S5g4wqeyE1fItzNBPa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady \(International Version\)](https://open.spotify.com/album/5s2DFcjjTKMiL9HYHij0uH) | 3:20 |
 
-Snapshot ID: `MCwzNjYwYWZlOGM3MzAzNjk3Zjg1YThiNGI1ZTQzYWUxNDkwYmI1NTdi`
+Snapshot ID: `MCxjNWY2NzM3YmJmMGI3YjA5N2FiMWUzYzI0MDE1NTRiYTliMjcwMzRh`

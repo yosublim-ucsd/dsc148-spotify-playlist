@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,749 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,165 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Bonita](https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bonita](https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8) | 3:15 |
 | 75 | [Sobran Motivos](https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Sobran Motivos](https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l) | 3:06 |
 
-Snapshot ID: `MCwzYzBiOWQxMDVlNjYwM2EwZWU4MDkzNjc1MTUxNzc3OTE2NTc2MTY3`
+Snapshot ID: `MCwzOTQ1NTM1NjhmMmZjNWJhYmIxNzg3ZGU5OTY3MTdhZGM5ZjVlNDJm`

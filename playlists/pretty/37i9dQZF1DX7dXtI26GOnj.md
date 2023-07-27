@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,862 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,110 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 69 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
 | 70 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 |
 
-Snapshot ID: `MCwzY2ZiYWEzNzM0N2Y3Mjg3MTQ2ZjZlYjlkM2Y3ZGJiYWRlNDhhZDNk`
+Snapshot ID: `MCxjOTgwOTZjMzUxMTgyNWZjYWYyOGNlZDQxYmQ4ZjczYWI0NTg4NTcz`

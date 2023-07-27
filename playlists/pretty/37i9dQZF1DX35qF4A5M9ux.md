@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,058 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,304 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 99 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 100 | [Amigo Cuídala](https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Problemas de Ciudad](https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ) | 4:31 |
 
-Snapshot ID: `MCwyMDFjYmVhMjE5MzMwNGU5YmE2MGU4MDA2ZGE3NWZhOTEyYzQwZGU3`
+Snapshot ID: `MCxhNDhhMzU3NjVlNDdiZDIyZmUwYWYzMWUxMjk5MzM4NzRjNzRhN2Iw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,281 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,358 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 60 | [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 |
 
-Snapshot ID: `MCwyNGNjM2EzZjI4ZGZjNWFhOWFkZGU4ODlmMDYyYzhlYWRiZWU4ZDBl`
+Snapshot ID: `MCxkZTYzNDk0ZjlhODAxYzY0YmIwMjEyY2E0MzM0MDZlOGU3MmJhZTdl`

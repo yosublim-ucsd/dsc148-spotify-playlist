@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop tracks right now\. Cover: Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,832 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,881,121 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 |
 | 50 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
 
-Snapshot ID: `MCw2ZTBmMjU2NGNmNTZiYTQ1ZmMwZTFjMDcyMjgyMDJlYmM5OGE0NmQz`
+Snapshot ID: `MCw2OGU2MDA0ZjcyYzIwNmIyNjlkODZkZWVlMWU3MzJjMGQ4MGM5MmY5`

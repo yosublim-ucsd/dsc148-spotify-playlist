@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Lost Acapulco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,316 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,336 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Baby Conmigo](https://open.spotify.com/track/2gnBjom0h6kKOxrOEZyfKl) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Baby Conmigo](https://open.spotify.com/album/3GnVutzi383HWllH37PkBU) | 2:41 |
 | 50 | [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/track/2YKniWmO0pqMXajnqrKpA3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Sola en los Bares \(En Vivo Estadio Obras\)](https://open.spotify.com/album/2m9MlSTsQ31vDsGtkNGcbG) | 3:41 |
 
-Snapshot ID: `MCw2ODFhZGNmY2M3YjVjYTVkZTllN2RlNjBhZTA3NmI5ZjkxOGQ5ODEz`
+Snapshot ID: `MCxlYzZhNzJmYzg3YjExZGU5MTFjNjkzYWJhNzg3NmZkZmQyZWYxM2I2`

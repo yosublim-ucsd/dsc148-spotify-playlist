@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,732 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,787 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 |
 | 100 | [Mariposas](https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Mutaciones](https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg) | 3:44 |
 
-Snapshot ID: `MCw4YzkyYjEwMmVjNDJkYzMwN2U5NjlkMzBjY2FhYjQ1NGM0MWU4MmQ3`
+Snapshot ID: `MCwxMTQ2MjMxMGViODkwMGNkYTM2ZmMzZDNjNjM4NDMwNjc1MTE5MGFm`

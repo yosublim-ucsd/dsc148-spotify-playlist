@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,884 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,908 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 93 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
 | 94 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 |
 | 95 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
-| 96 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/6MKuYvesr8p8csU9jt5Roa) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Dance Fruits Music](https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP) | 2:08 |
-| 97 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
-| 98 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
-| 99 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
-| 100 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
+| 96 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
+| 97 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
+| 98 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
+| 99 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
+| 100 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 
-Snapshot ID: `MCxkMGVlZDQzOTkxODIxNjEyMzVkNTA5ZWMyMDhkOGFmY2UxMTU0OGE3`
+Snapshot ID: `MCwyZDI5NjMxM2Q0ODNmYTkzYzkxODhmODdhZjNhYjE2ZDg4ZjAzZTEx`

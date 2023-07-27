@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,388 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,467 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 99 | [El 701](https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Amanecida](https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb) | 3:01 |
 | 100 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
 
-Snapshot ID: `MCwxZDAxYmFkMTRkMTI0YzIzYTFhNTQ3YzFmYzk4MzgyYWM2YjZlZjQy`
+Snapshot ID: `MCwyYTQ3YWUwZDdmZTBlYmM3MDU0NDcyMGFkMmI5MmRkZmUyNmZjMzU0`

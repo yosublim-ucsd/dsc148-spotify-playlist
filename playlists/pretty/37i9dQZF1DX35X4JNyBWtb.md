@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,610 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,407 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 150 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 
-Snapshot ID: `MCxlOTg1ZTFlNmE0OTg1YmQ5NWIxOTZmN2Q1NTk0NTc3ZWMxZTYwM2E4`
+Snapshot ID: `MCw3YzY2Y2ZmZDVlMzE0OTI0ZDEzOWEyNmQ4YzVkYjFlZjQzYzJmNjk3`

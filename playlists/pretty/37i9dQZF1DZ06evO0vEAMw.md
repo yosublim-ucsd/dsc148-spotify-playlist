@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,928 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,007 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 21 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 22 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 |
 | 23 | [La La \(feat\. Ckay\)](https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:07 |
-| 24 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
-| 25 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
+| 24 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
+| 25 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
 | 26 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
 | 27 | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9) | 3:45 |
 | 28 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 51 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBiMzc0NzdkZDYyYTMyZGExMTM0NTlhNWQzYzhiMWJhNA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBiMjQ1NDI1OTUxYTU3ZTEyOGU4MTA3YWFjMDMyOGQxNg==`

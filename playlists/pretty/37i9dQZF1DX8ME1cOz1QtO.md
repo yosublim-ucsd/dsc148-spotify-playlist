@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,214 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,323 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
 | 100 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
 
-Snapshot ID: `MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4`
+Snapshot ID: `MCxiYjIzOTY4YjIzYjNiOGM1ODEyMDdjMDRlNTljYjFkZWY4ZmNhODFk`

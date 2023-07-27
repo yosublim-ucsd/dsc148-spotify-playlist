@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-437 songs - 1 day 2 hr 26 min
+439 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 | 2023-06-22 | 2023-07-02 |
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 | 2023-03-01 |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-10-26 |
-| [ANIME](https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/153c91yGLUSNj6yefDIIoL) | 2:42 | 2023-07-25 |  |
+| [ANIME](https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/153c91yGLUSNj6yefDIIoL) | 2:42 | 2023-07-25 | 2023-07-27 |
+| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-07-25 |  |
 | [Another One](https://open.spotify.com/track/0hI90Rfg7XR90i773C7EPo) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Another One](https://open.spotify.com/album/0pKHkskgK1hYJFkrpEGyZq) | 2:50 | 2022-12-15 | 2023-04-19 |
 | [Antidote](https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Antidote](https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB) | 5:00 | 2023-04-18 | 2023-05-10 |
 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2022-12-08 | 2023-03-18 |
@@ -150,6 +151,7 @@
 | [Hibi no Tezawari](https://open.spotify.com/track/5oKmJKvZrFGY64a3oouYkP) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 4:32 | 2022-11-10 | 2022-11-13 |
 | [Hold on](https://open.spotify.com/track/1YknjFiCnMnJVz12GdXqN7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgiam](https://open.spotify.com/artist/5zMxT7ShYw4l8WpA9hmxq5) | [Wonderland](https://open.spotify.com/album/0WSFViphXCkNPkHwSiTuO3) | 3:14 | 2023-02-28 | 2023-05-17 |
 | [Holy Hell](https://open.spotify.com/track/5y6BaL3VQ2hQt5sMN1Qmzj) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Holy Hell](https://open.spotify.com/album/1Fq57wNgriijiYFTTCwU6c) | 3:12 | 2022-10-20 | 2022-11-05 |
+| [honomekashi](https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [honomekashi](https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV) | 3:41 | 2023-07-25 |  |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-23 |  |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-04-19 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-06-23 |
@@ -408,7 +410,7 @@
 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-07-26 |
 | [どぎまぎ](https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Branch](https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb) | 3:35 | 2022-12-20 | 2023-01-11 |
 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 | 2023-07-18 |  |
-| [ほのめかし](https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [ほのめかし](https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE) | 3:41 | 2023-07-25 |  |
+| [ほのめかし](https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [ほのめかし](https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE) | 3:41 | 2023-07-25 | 2023-07-27 |
 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 | 2023-07-18 |  |
 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 | 2022-10-20 | 2022-11-11 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2022-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,877 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,881 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 60 | [Home](https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [In Between](https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU) | 3:58 |
 
-Snapshot ID: `MCw1NTdiN2YzMzg5NjRlMWU0NDIyNDliZGU2NmUxYWMzZmRlYmJjNjUw`
+Snapshot ID: `MCxhMjhhMzc3NDdlZjRlMDc1ZTFiYjA4YzcyOGEyZmFhOGJhNGFmYzBk`

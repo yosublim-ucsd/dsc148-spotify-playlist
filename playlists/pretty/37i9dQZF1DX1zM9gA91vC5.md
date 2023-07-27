@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,680 likes - 250 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,723 likes - 250 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 |
 | 250 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 |
 
-Snapshot ID: `MCw1YmY2ZmE5YjllY2IzMTUwMjkzMGFlZjEwZDU1YWRiZDc1MTFlZjEy`
+Snapshot ID: `MCxjNjA2YzU4ODk5YzViMzQ1ZDcyY2IyZTRjMDY2ZTZmNTI2MmNiMjE0`

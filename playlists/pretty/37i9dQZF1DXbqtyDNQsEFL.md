@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,539 likes - 80 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,594 likes - 80 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 |
 | 80 | [Amen \(Wo Awie\)](https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Amen \(Wo Awie\)](https://open.spotify.com/album/6F5WDYPKrqpkaiyPrdt6J4) | 5:35 |
 
-Snapshot ID: `MCxlYjAzZTUyNTZkODY5ZjE4MTA2NjQ0MmJkNDE0OWYxM2NkZGYyOTE1`
+Snapshot ID: `MCxhZDEwMGFhNmVhNzRlZjQ5ZDVkMGQwZmQxNzYxODk0OGRkYWY1YzJh`

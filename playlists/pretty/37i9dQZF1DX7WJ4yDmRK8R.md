@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,035 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,146 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
 | 100 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 
-Snapshot ID: `MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2`
+Snapshot ID: `MCxjNTY2Y2IyODA2Y2RjN2M3ZDE3ZDI3MzU0NmViMGUxMGViMGZiZWQ0`

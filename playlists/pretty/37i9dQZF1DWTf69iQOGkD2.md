@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  WIU, Cesar Mc, Derxan, Djonga, Gloria Groove, KayBlack, Lourena, Major RD, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,087 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,272 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 62 | [Mina Certa](https://open.spotify.com/track/3s79hPBCuxzyPvcK5d6o1E) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Mina Certa](https://open.spotify.com/album/3Al7y3hOWzKCel3VJdXqT1) | 2:26 |
 | 63 | [Amante \- Acústico](https://open.spotify.com/track/0EyHV5Vv9WiwqgtPJLq4al) | [Maquiny](https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Maquiny Acústico](https://open.spotify.com/album/4IDwf0uZakCgJBzysxAElj) | 3:56 |
 | 64 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
-| 65 | [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 |
+| 65 | [Pra Praia](https://open.spotify.com/track/1rYmLgeOQNtSCnCHb9IPnz) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/08PeUm4CsNrJpVd7hlWFQa) | 3:06 |
 | 66 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 |
 | 67 | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0) | 4:42 |
 | 68 | [Marginais Acústico \#1](https://open.spotify.com/track/4atuUpMdGfq9JeRI6OQxM7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Adamovich](https://open.spotify.com/artist/56IwPlbm9iFIaRnNOsMIQI), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Marginais Acústico \#1](https://open.spotify.com/album/6yskpQ4wqZZWAx648cB6Ml) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Algumas frases](https://open.spotify.com/track/08zbjBLRtTe5cSEJKDxiO5) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Algumas frases](https://open.spotify.com/album/3VZcWuRtvlvQeWjcwyChSm) | 3:21 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MCw0NDQwZThlOWVkNWMxNjllNjQ2ZDY0MzgxMWM4NTNiMDI3NTlkOWQ3`
+Snapshot ID: `MCw3NjhhMGFlMTFjMzVlNWU1ZGQ5Njg1YzEwY2E3Nzc0NWIxMzIwNDUw`

@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "FELT SENSE",
+        "url": "https://open.spotify.com/album/5MFXYkQqLCe3EPZAx6nxHQ"
+      },
+      "artists": [
+        {
+          "name": "moumoon",
+          "url": "https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242653,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/04Y1toJrL4LDUEnMrD9An5"
+    },
+    {
+      "album": {
         "name": "Blue light",
         "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
       },
@@ -7639,6 +7657,24 @@
     },
     {
       "album": {
+        "name": "Koi no Iro",
+        "url": "https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282060,
+      "name": "Koi no Iro",
+      "url": "https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa"
+    },
+    {
+      "album": {
         "name": "Kokoni Aru Kyou",
         "url": "https://open.spotify.com/album/025HIJH29ql3q2hbUSVluf"
       },
@@ -12164,6 +12200,24 @@
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
+    },
+    {
+      "album": {
+        "name": "Sabishii no Iro",
+        "url": "https://open.spotify.com/album/6OQMBijqwcgC2vBcDcuKUE"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238394,
+      "name": "Sabishii no Iro",
+      "url": "https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le"
     },
     {
       "album": {
@@ -21518,7 +21572,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 242653,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4GqBrHYUhllOurthHGOQme"
@@ -24958,7 +25012,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 238394,
       "name": "\u5bc2\u3057\u3044\u306e\u8272",
       "url": "https://open.spotify.com/track/3eXGdp6Pg473ms7T2JOrhh"
@@ -25352,7 +25406,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 282060,
       "name": "\u604b\u306e\u8272",
       "url": "https://open.spotify.com/track/0L2Ljt0LnXg4RyUiLuF7sD"
@@ -25790,8 +25844,8 @@
       },
       "artists": [
         {
-          "name": "\u4f36",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/4dqrHZDznBifUYWzj0Ylx1"
         }
       ],
       "date_added": "2022-05-29",

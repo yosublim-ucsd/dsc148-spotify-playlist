@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,837 likes - 98 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,836 likes - 98 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 7 | [Cooking in the Kitchen](https://open.spotify.com/track/2CJH3oNhDEBPTxjtpGZOLn) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:38 |
 | 8 | [Lunch](https://open.spotify.com/track/2Y8khnYHrjO4RRXpIc87B5) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:20 |
 | 9 | [Hot Potato](https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:21 |
-| 10 | [Pineapple](https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:42 |
+| 10 | [Pineapple](https://open.spotify.com/track/6uTZBOLjGcq1YfhrQqx9Uk) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \- It's Fleabite 5](https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT) | 2:42 |
 | 11 | [The Sushi Song](https://open.spotify.com/track/73JULBVnVxfA0BEhpFgyI0) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 2:43 |
 | 12 | [Do You Like Waffles?](https://open.spotify.com/track/0jwrcvzJQacwH9mPVrigPh) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [For Kids About To Rock](https://open.spotify.com/album/1Y9WmnzSZAJiCBboZ92z8R) | 0:30 |
 | 13 | [Ketchup\(I like it, I love it\)](https://open.spotify.com/track/7GhPe9v9lvnNdug8aLYCLO) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:51 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 45 | [I Like Rice \(feat\. Flor Bromley\)](https://open.spotify.com/track/4YH6S50iLEJHeDerIVUy5M) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Flor Bromley](https://open.spotify.com/artist/2XPVWwERufmF4IX9a4Dtd1) | [Welcome Spring](https://open.spotify.com/album/1gQzsrdjYnlTO1snfJ8FTN) | 3:46 |
 | 46 | [Sushi Roll](https://open.spotify.com/track/35kJF3E3yurBUizPJE310X) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Sushi Roll](https://open.spotify.com/album/5L5Y7ngh1DNrgg7lYFF7HN) | 3:02 |
 | 47 | [The Pomelo Song](https://open.spotify.com/track/4DK1US7CPOkAa3uNiUPHEv) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd), [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [The Pomelo Song](https://open.spotify.com/album/7xPNHLCIel8X9XKm1RCmpN) | 2:33 |
-| 48 | [Make Myself a Sandwich](https://open.spotify.com/track/0t9UE0H8cOcrGPaevrJVMu) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Make Myself a Sandwich](https://open.spotify.com/album/2wcUoqPjlN114GYgbsAyTS) | 1:30 |
+| 48 | [Make Myself a Sandwich](https://open.spotify.com/track/531PgCduOcdsUG50I1cnBw) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Something for Everyone](https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr) | 1:30 |
 | 49 | [Pickles and Olives](https://open.spotify.com/track/34l6oJ7decqSfWF1cXss9C) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:36 |
 | 50 | [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 |
 | 51 | [A Healthy Meal](https://open.spotify.com/track/3Qy8BN2lRFY61MLVGlCTlc) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Healthy Habits \(Pt\. 1\-3\)](https://open.spotify.com/album/57aoBY63rXYvnherisZpdh) | 1:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 97 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/5W3cEk3UQTFeq9Tl4hrpAX) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [Kids Songs! Fun Children's Music from Sesame Street, Phineas and Ferb and More!](https://open.spotify.com/album/30CMD4AQlK6F83q96ntZA7) | 2:22 |
 | 98 | [Sour Pickle Face](https://open.spotify.com/track/4TGEiXt5kJ0zUUJNpzuShL) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Barney Rocks!](https://open.spotify.com/album/2smtpdsWQdu87DNcNC1xCw) | 1:34 |
 
-Snapshot ID: `MCw5MjA2MGU2NTg5ZDBkNjViZmUzMTNkODJjNTEwYzRjMGQyNjVjMmE4`
+Snapshot ID: `MCxkMTc5YTdjYjYyYzAwMWQ1ZmZkMjlhMjE4NDRjNjg5NWEyM2UyZWU4`

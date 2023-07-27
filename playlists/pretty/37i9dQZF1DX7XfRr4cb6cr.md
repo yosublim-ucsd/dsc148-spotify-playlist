@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,313 likes - 120 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,586 likes - 120 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 |
 | 120 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 |
 
-Snapshot ID: `MCw5NDNkZGM2MDM5M2ViZTI3MzBjYmFjYjE5MjhjYWMzNTVkNjM2Y2I4`
+Snapshot ID: `MCw2ZTUyZTdkZDQ2MmJkOTI1NzE4NzJlNTJlOTUzM2I1MDM5N2FkMGM5`

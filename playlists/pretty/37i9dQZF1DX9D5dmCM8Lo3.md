@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,719 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,996 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
-| 2 | [paranoia](https://open.spotify.com/track/5Ee2dAQGDJz6GSdoF7kKa3) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/5mY9EXIydkNHstiX0ALpWK) | 1:57 |
+| 2 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 |
 | 3 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
 | 4 | [BLOOD X](https://open.spotify.com/track/1sSGij1lJnIFyCKrTmys32) | [SAGEISKAMI](https://open.spotify.com/artist/6SGVSqPxYUYa885J3dtXQu) | [ASHES OF GHOST$](https://open.spotify.com/album/3mkXnT18yDAq3eEVzhazC8) | 1:13 |
 | 5 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 49 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 50 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 
-Snapshot ID: `MCw4ZTZjNDc1YzkyOGQwNjFlNjVkMWI0YjViMmE4MDQzZjhjODczNzNj`
+Snapshot ID: `MCxjNzg0YmFlNTk3MTg4NTUyY2UyODIyY2E1NTBlYzNlYjdjOWNjN2Qw`

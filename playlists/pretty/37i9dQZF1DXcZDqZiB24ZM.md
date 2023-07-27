@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,801 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,806 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Fais ton shift](https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [David Lee](https://open.spotify.com/artist/1e3fh39USNb6tlHc9UMuwf), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 4:22 |
 | 100 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
 
-Snapshot ID: `MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx`
+Snapshot ID: `MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz`

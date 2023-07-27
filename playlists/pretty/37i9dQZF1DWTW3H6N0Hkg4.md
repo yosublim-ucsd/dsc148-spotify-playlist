@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,811 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,070 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 124 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
 | 125 | [La Ventanita](https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [20 Grandes Exitos](https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt) | 4:07 |
 
-Snapshot ID: `MCxjYjhlNzc1OWIzNDAwNDI2OTNjNGY5MzYxNjkyZjUyZWVkMzJiMDM3`
+Snapshot ID: `MCw2YzZhMTE2N2RlODYxYzQwOTk5NTU0YzAzOWIyYzdiNjNjYzJmZGEz`

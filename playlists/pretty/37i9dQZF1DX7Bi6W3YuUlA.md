@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,231 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,314 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
 | 100 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 |
 
-Snapshot ID: `MCxmZjQ1NjlhYzRjYTM3YTBmNzI1M2U3M2FiZTFlZGM3ZTJkNWEwYzA5`
+Snapshot ID: `MCxiMjM3MWE4MDdiZjBhYjRmMzgwMmFlOTc4MjA2YzMwZWVmZDVhNDg3`

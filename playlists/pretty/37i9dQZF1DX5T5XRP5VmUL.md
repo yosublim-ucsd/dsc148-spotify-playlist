@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,592 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,584 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Silver Bells](https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Silver Bells](https://open.spotify.com/album/5BgeQ2ztcrexpTaEZGpqYf) | 3:46 |
 | 100 | [Feeling the Christmas Night](https://open.spotify.com/track/5zkBUklFcnVFkzC0u1GScD) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Feeling the Christmas Night](https://open.spotify.com/album/5xAif77nEOGdndx27jhJdz) | 2:57 |
 
-Snapshot ID: `MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5`
+Snapshot ID: `MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk`

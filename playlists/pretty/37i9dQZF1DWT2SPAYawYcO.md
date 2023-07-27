@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,842 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,849 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 | 2 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 |
 | 3 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
-| 4 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 4 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 5 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 |
 | 6 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
 | 7 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [If That's What You Want](https://open.spotify.com/track/0L1Tt5ynX4SpezkmZEV1Vg) | [Andy Bull](https://open.spotify.com/artist/5O83Dn8cY3RNwhQKADA175) | [If That's What You Want](https://open.spotify.com/album/5Da9HWWYJV23IroLzcUOre) | 3:40 |
 | 99 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 |
 
-Snapshot ID: `MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2`
+Snapshot ID: `MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx`

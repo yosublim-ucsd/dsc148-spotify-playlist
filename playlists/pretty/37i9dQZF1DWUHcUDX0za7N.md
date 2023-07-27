@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA"> Psycho YP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,032 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,092 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 |
 | 70 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 |
 
-Snapshot ID: `MCwyMTQ4OTFhMDE0YThhNjQwMjEyZTZjY2ViOWFmMjFlMThiNDk4YTJm`
+Snapshot ID: `MCw3ZDI3NjAxZDQyNzllODY4NzE3MWNkN2I4MWRjMDI4MTNkMmY0Mjdk`

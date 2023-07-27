@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-247 songs - 18 hr 46 min
+248 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 | 2020-10-29\* |  |
 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 | 2020-10-29\* | 2022-07-29 |
 | [Autre temps](https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl) | 5:50 | 2021-06-03 |  |
-| [babysbreath](https://open.spotify.com/track/48YfnWuAbgGk1ZrBMSmsBy) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/22DG3nc75VmXwsRRuazJcQ) | 3:51 | 2020-10-29\* |  |
+| [babysbreath](https://open.spotify.com/track/37I8y5acJyPT7BRtoiVH3S) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 3:51 | 2021-06-03 |  |
+| [babysbreath](https://open.spotify.com/track/48YfnWuAbgGk1ZrBMSmsBy) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/22DG3nc75VmXwsRRuazJcQ) | 3:51 | 2020-10-29\* | 2023-07-27 |
 | [babysbreath](https://open.spotify.com/track/7Cwt68khwNZg4yc9enbjsY) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 3:51 | 2021-06-03 | 2023-07-13 |
 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 | 2020-10-29\* |  |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2020-10-29\* |  |

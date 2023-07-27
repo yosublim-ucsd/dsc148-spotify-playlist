@@ -40408,10 +40408,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 656786,
       "name": "Malediction",
       "url": "https://open.spotify.com/track/3fMDpql7vPSfez1LjUMAOT"
+    },
+    {
+      "album": {
+        "name": "Preta",
+        "url": "https://open.spotify.com/album/7x2XSoavmWKAXpG3HorsFM"
+      },
+      "artists": [
+        {
+          "name": "Ursular",
+          "url": "https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656786,
+      "name": "Malediction",
+      "url": "https://open.spotify.com/track/6AoGo54IeTINHsyS3vAsje"
     },
     {
       "album": {

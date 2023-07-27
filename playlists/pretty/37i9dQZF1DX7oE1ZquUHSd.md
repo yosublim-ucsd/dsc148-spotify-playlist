@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,175 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,487 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
 | 100 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 
-Snapshot ID: `MCxkMTY3MjE1NDAwNTM3YTQ3ZGEzZGMwZTMwMWUxMWZmMTQwMGViMDk3`
+Snapshot ID: `MCwzMzFkMGE0YmI5MzYwNTQwN2IxNjM2NTBiMTMyZDAwZjhmZjA3MWY3`

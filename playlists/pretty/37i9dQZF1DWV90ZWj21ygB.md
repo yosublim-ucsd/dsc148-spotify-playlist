@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,230 likes - 200 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,519 likes - 200 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,10 +203,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 193 | [Underwater Symphony](https://open.spotify.com/track/38gVD9RmSNjZG8TvIszftv) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Underwater Symphony](https://open.spotify.com/album/2IRHovngovEhMeN2HapRuB) | 1:49 |
 | 194 | [Waves of Mallorca](https://open.spotify.com/track/5JOcmV3Vss8NB0ohtaIfgc) | [Tight Chill Creator](https://open.spotify.com/artist/6fenwnC12GiSNfN2Aar8Aj) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:59 |
 | 195 | [Mediterranean Ocean Waves](https://open.spotify.com/track/6prKls8xG1jFIv6S8i9qxq) | [Tropical Bliss](https://open.spotify.com/artist/0P9soVwRkzTSE7zN8se9CM) | [Mediterranean Ocean Waves](https://open.spotify.com/album/2YYzNDf8AW6xpFIsUzy45i) | 2:59 |
-| 196 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 |
-| 197 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
-| 198 | [Inlet Sounds](https://open.spotify.com/track/1itzz7FVImAN5qBr1Qw4HX) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [California State Beach](https://open.spotify.com/album/4s0H6DDLfNwpuAS1wFO3CY) | 3:07 |
-| 199 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 |
-| 200 | [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 |
+| 196 | [Stormy Sea](https://open.spotify.com/track/6b1OG21ffrJMI7yITNivSl) | [Ocean HD](https://open.spotify.com/artist/5o3yuYZ9aXhcARXy2SeCrL) | [Ocean Hd](https://open.spotify.com/album/49cagZyC7CpLn1zFMOrzLb) | 2:47 |
+| 197 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 |
+| 198 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
+| 199 | [Inlet Sounds](https://open.spotify.com/track/1itzz7FVImAN5qBr1Qw4HX) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [California State Beach](https://open.spotify.com/album/4s0H6DDLfNwpuAS1wFO3CY) | 3:07 |
+| 200 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 |
 
-Snapshot ID: `MCwxMzAyYTcyNGY1NzY5YjFhY2E2NzVmMjlmNWE5NzJlZTEyZjZhN2I1`
+Snapshot ID: `MCwwNjExZjUzMWI0ODBjZDcxMGYyNjI5YWNjNTY1MDRmZWRjMjJjY2E0`

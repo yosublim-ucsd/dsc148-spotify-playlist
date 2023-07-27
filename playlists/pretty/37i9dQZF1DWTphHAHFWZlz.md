@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,071 likes - 36 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,089 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 35 | [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 |
 | 36 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 
-Snapshot ID: `MCxhZDkxMzVmYTg4YzNiODc1ODE0NDdjM2E1NTIzZWM1MDE3NzQzZTIz`
+Snapshot ID: `MCwzMjlmNWY3YzM2M2Q0ZmZmMjZhOTdmOTE3NTA2MjZjZGNlZTQwNTUx`

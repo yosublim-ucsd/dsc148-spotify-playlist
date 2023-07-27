@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,739 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,795 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/3tcExFTnLwXcKEUw2cWNum) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:56 |
 | 75 | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/5IUjnIZr3LH26AhkKBPCS2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/1pPMfmXLCEtPWOdcBVmeB0) | 3:07 |
 
-Snapshot ID: `MCw2MjE3M2VmMjc5OGNkNzBiMzliNTBiY2QyOTE1NjA4YmQ1MjVkNThj`
+Snapshot ID: `MCxiMWU5NTVhN2ZlN2YwMWRmMjFjZDgyN2E1ZjJkNGE4YTZmMmY2Zjlm`

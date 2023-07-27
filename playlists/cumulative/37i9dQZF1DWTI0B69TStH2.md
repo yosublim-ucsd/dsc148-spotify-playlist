@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Gabi \| Playlista odświeżana w każdą środę.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: IGA \| Playlista odświeżana w każdą środę.
 
 1,339 songs - 3 day 4 hr 29 min
 

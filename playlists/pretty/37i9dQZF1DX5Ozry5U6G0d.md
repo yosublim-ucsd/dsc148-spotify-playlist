@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ozry5U6G0d.md) - [plain]
 
 > That summer sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,724,692 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,724,890 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ozry5U6G0d.md) - [plain]
 | 99 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 100 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
 
-Snapshot ID: `MCwwNzM3ZTViM2E0NzJhMjA5NWQzM2I1YWUzNWUyZmViZDhmN2M3Mzhk`
+Snapshot ID: `MCw0OWUyNzgyZjI1MTNiMmUzYTg3NTM5ZjBiNTY5MzNiNzAwYzhlOTc3`

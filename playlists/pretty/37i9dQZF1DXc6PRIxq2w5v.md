@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,169 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,341 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 |
 | 80 | [Te Encontrar](https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV) | 2:47 |
 
-Snapshot ID: `MCw2ZWY5NDFhMDIyMTFlYzgxMzliNzVhMmEwZmFiNmZhMTAyZjE5OTc5`
+Snapshot ID: `MCw2ZmY1MmI0ZWQ5NTllMmI5MjlhNjhkMjNlZmUwNWZlODhiODc4MTY1`

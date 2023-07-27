@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,205 songs - 2 day 15 hr 41 min
+1,206 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [o să fim bine](https://open.spotify.com/track/3gnn4Lkn5yznBSVJc5qFyJ) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [într\-o bună zi o să fim bine](https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg) | 4:28 | 2022-11-26 | 2022-11-28 |
 | [O vreau pe mama fericita](https://open.spotify.com/track/3lJOwdQ4BGQbsT8mvitzGM) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Kira](https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4) | 2:43 | 2022-03-26 | 2022-05-10 |
 | [Oare](https://open.spotify.com/track/2dAmNhVPH2jaM6pnGCc1Kt) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:57 | 2022-02-21 | 2022-10-23 |
-| [Obsesia](https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK) | [Bogdan De La Ploiesti](https://open.spotify.com/artist/1uRZ4uQbQbzWAHozLnUxIj), [Zanni](https://open.spotify.com/artist/2VX1DNIZw9X5yH8RSCFgj2) | [Obsesia](https://open.spotify.com/album/5Yg5Gxcy3xnoTafvBdif6G) | 2:13 | 2023-03-19 |  |
+| [Obsesia](https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK) | [Bogdan De La Ploiesti](https://open.spotify.com/artist/1uRZ4uQbQbzWAHozLnUxIj), [Zanni](https://open.spotify.com/artist/2VX1DNIZw9X5yH8RSCFgj2) | [Obsesia](https://open.spotify.com/album/5Yg5Gxcy3xnoTafvBdif6G) | 2:13 | 2023-03-19 | 2023-07-27 |
 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 | 2023-04-30 | 2023-05-02 |
 | [ochii ei](https://open.spotify.com/track/0rXsndkhogmsTLP7Ji5Yju) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [ultima noapte de dragoste](https://open.spotify.com/album/5sJ2mae4ntm9IQejfepkPO) | 3:28 | 2023-04-22 | 2023-04-24 |
 | [Ochii pe mine](https://open.spotify.com/track/0o5biJQF2A1qtQbNXBcrSX) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Partypackz](https://open.spotify.com/album/33GMnFtWbaPEn1B9XETevo) | 2:45 | 2022-07-08 | 2022-07-11 |
@@ -1171,6 +1171,7 @@
 | [Wella, Wella](https://open.spotify.com/track/0rYu4nHgFeTmeDizGs7CtI) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj) | [Manele](https://open.spotify.com/album/59JWFfKhTL1N3Gv24rXd9p) | 3:50 | 2022-07-06 | 2022-08-10 |
 | [Wella, Wella](https://open.spotify.com/track/2ImUhKIUGCekDQ8FbFIR7e) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj) | [Wella, Wella](https://open.spotify.com/album/1U2jgcAjEaAFJ7KmxZCUAm) | 3:50 | 2023-01-01 | 2023-01-04 |
 | [Wella, Wella](https://open.spotify.com/track/2XuMVWN6blH6sEiM0SjaFR) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj) | [Wella, Wella](https://open.spotify.com/album/4gBduG9PSNnvfDEF1ctfN8) | 3:50 | 2022-08-09 | 2022-08-24 |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-26 |  |
 | [What’s Crackin \(feat\. Takeoff\)](https://open.spotify.com/track/1jbXYNuBFgN0BiNRO2cGov) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:57 | 2021-07-18 | 2021-07-19 |
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-04-04 |

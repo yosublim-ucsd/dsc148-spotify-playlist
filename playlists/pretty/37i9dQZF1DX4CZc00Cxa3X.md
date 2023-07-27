@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,987 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,075 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 |
 | 100 | [This Comfort](https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF) | [Grant Chapman](https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML) | [Indentations](https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf) | 2:22 |
 
-Snapshot ID: `MCw4MGY1ZDAxYTQ4NGE5OTdiMDEwYTY3NDdkMTg2ZjNjNGUzNzZhZmZk`
+Snapshot ID: `MCxlYzE4NzBkNDQ1ZGQyYzNjMzMzYzZjZDI3NmE0ZjgzNjRlYmY1MGZi`

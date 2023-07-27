@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Hello (I Want U Back With Ur Love)",
+        "url": "https://open.spotify.com/album/1TrBc9fI1tjgqyzXYZr8vG"
+      },
+      "artists": [
+        {
+          "name": "Lady Aqua",
+          "url": "https://open.spotify.com/artist/4O8sJqNaLIO1bYybBEX9K4"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Barbie Girl - I'm a Barbie Girl",
+      "url": "https://open.spotify.com/track/6tdFrIad4TtvsPV4bguvC8"
+    },
+    {
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -10402,6 +10420,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161765,
+      "name": "Fluxxwave (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
       "album": {
@@ -22188,7 +22224,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 118800,
       "name": "One Margarita (Margarita Song)",
       "url": "https://open.spotify.com/track/17Um25RxAOpc2NgtDiYKl9"
@@ -30884,7 +30920,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 209415,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"

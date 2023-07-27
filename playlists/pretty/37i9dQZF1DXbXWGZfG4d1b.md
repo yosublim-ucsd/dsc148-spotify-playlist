@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,597 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,614 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 |
 | 100 | [Fuera de Lugar](https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh) | 3:23 |
 
-Snapshot ID: `MCxhZDVkNTYxODk1NjhmYzg2MTY3MzQ0ZDNhMTA3OWVkZTI0MWQ3M2Ez`
+Snapshot ID: `MCwwYWQ4MzZjZDFjMGQwNTc5YjdkNzI4NjFjYjcxYjQwOTc4NmU1Mjc3`

@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312497,
+      "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
+    },
+    {
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -822,7 +844,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 312946,
       "name": "Teu Esp\u00edrito",
       "url": "https://open.spotify.com/track/55zblk2lc63AQNhlPganW1"

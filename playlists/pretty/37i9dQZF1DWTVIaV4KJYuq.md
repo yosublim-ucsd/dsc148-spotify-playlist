@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,859 likes - 110 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,996 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
 | 110 | [The Times They Are A\-Changin’ \- Performance Version](https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [The Times They Are A\-Changin’ \(Performance Version\)](https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6) | 3:00 |
 
-Snapshot ID: `MCxiZmZkMGExMzFkMDM5ZjAzMDBmOWNjN2QzNDY4YzJiOGEyYWI0Njc2`
+Snapshot ID: `MCxkOGZjNDM5NWJiNGE5MjY1YTNkOTkwZGFkOTdjNmQ2ZmQxZDZjNjFi`

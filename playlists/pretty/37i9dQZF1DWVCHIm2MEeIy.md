@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,389 likes - 70 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,555 likes - 70 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 | 70 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 |
 
-Snapshot ID: `MCw0OWEzYzI3NWZlMmRiN2QwZDdhYTdiMjE0YTc2MTE4ODE3NmFmYjg5`
+Snapshot ID: `MCwyZWQ5NDE0NjFkYzgyOWNiZGJlMTI5NjQxOTJlYzZjOTk1MjZlZDMy`

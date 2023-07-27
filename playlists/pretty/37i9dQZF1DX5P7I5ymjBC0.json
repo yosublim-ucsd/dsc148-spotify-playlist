@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 62844,
+  "num_followers": 62886,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWY2Y2UwNTQ1NDAxNjk0MzgxZmU2NGIwY2I1ZTAwNTM2NTFhYjdh",
+  "snapshot_id": "MCwxMWFhNGZlOTY5ZjgyYTdlMzJlZThmMWZhODAxODQ2Y2E4MmVkMTNl",
   "tracks": [
     {
       "added_at": "2023-07-21 05:25:33",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     },
     {
+      "added_at": "2023-07-26 09:54:32",
+      "album": {
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "duration_ms": 410026,
+      "name": "Paniya",
+      "url": "https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX"
+    },
+    {
       "added_at": "2023-07-21 05:25:33",
       "album": {
         "name": "Pasoori",
@@ -163,6 +183,22 @@
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "added_at": "2023-07-26 09:54:32",
+      "album": {
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -307,6 +343,30 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
         "name": "Naina Morey (Redefined)",
         "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
       },
@@ -355,30 +415,6 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -399,30 +435,6 @@
       "duration_ms": 359960,
       "name": "Mohanam",
       "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -491,6 +503,30 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -507,6 +543,22 @@
       "duration_ms": 135000,
       "name": "Albela",
       "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -587,22 +639,6 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
         "name": "Chhap Tilak",
         "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
       },
@@ -647,6 +683,26 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
+        "name": "Rangderi",
+        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Asha Sapera",
+          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
+        }
+      ],
+      "duration_ms": 364796,
+      "name": "Rangderi",
+      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -751,26 +807,6 @@
       "duration_ms": 348000,
       "name": "Padharo Mhare Des - Folk Fusion",
       "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Rangderi",
-        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Asha Sapera",
-          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
-        }
-      ],
-      "duration_ms": 364796,
-      "name": "Rangderi",
-      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -967,46 +1003,6 @@
       "duration_ms": 225353,
       "name": "Krishna Murari",
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Mohan Bin Radha",
-        "url": "https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1"
-      },
-      "artists": [
-        {
-          "name": "Priyani Vani Panditt",
-          "url": "https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8"
-        }
-      ],
-      "duration_ms": 199658,
-      "name": "Mohan Bin Radha",
-      "url": "https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Rang",
-        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Kala Ramnath",
-          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
-        },
-        {
-          "name": "Barry Phillips",
-          "url": "https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI"
-        }
-      ],
-      "duration_ms": 382666,
-      "name": "Yatra",
-      "url": "https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP"
     }
   ],
   "unique_name": "Fusion Finds",

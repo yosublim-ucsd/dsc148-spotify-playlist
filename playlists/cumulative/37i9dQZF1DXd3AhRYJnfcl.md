@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=2X7kVrJMRAa4KbFirvfv6g"> أمير عيد </a>
 
-209 songs - 12 hr 11 min
+210 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-04-13 | 2022-09-27 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-10-03 | 2023-05-31 |
 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 | 2023-05-05 | 2023-06-07 |
-| [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-04 |  |
+| [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-04 | 2023-07-27 |
 | [Bent El Nas](https://open.spotify.com/track/61JQ7hNgNjIBdfjOAmrtZC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bent El Nas](https://open.spotify.com/album/7Mw6RzdygHFoN2Kd9fzSy8) | 3:00 | 2023-05-30 | 2023-06-21 |
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-09 |  |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-04-20 |  |
@@ -200,6 +200,7 @@
 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-05-18 | 2023-06-24 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-04 |  |
 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 | 2023-02-23 | 2023-03-10 |
+| [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-26 |  |
 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-08-03 |  |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-25 | 2022-09-24 |
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-03 |  |

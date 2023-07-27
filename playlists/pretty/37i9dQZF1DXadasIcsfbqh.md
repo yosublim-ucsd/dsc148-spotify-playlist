@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Ashley Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,484 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,726 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
 | 100 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 
-Snapshot ID: `MCw0NTg0YjY0MmM5Mjg5NjRhODBhYTc4MTdmY2VjYTE0YWQ0ZjFiNzEw`
+Snapshot ID: `MCw0YjZkODIzNTUxOGE2MTRlOTVjY2VlZDM2OGUxZjdhZmMwODNhZmRi`

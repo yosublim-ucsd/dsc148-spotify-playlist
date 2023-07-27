@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,583 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,747 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 100 | [Unlimited](https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:54 |
 
-Snapshot ID: `MCxmN2NhYjVhNGRkMzg0NjkxNGJjNjgwOGFkMjlmOGNkZTJjOWZkYmEx`
+Snapshot ID: `MCxlZGMzMDBjMmQ1OGM2MjIzNTZkMDZlODhmMmIxNzNhNDQyMTgzZWMx`

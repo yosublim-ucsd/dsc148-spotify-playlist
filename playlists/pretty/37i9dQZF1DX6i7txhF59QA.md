@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,217 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,225 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 |
 | 100 | [Love Signal](https://open.spotify.com/track/3rnvLgteBQWTALKwhRt0p9) | [JANG SONG HO](https://open.spotify.com/artist/61f28y2zvYJyjTqfCB5b4p) | [Love Signal](https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN) | 3:33 |
 
-Snapshot ID: `MCw4YWQwNDcyZWM5MjQ4ZDM2M2Y3ZDJlZWY2NWY2ODE5NTllMTUyZjY2`
+Snapshot ID: `MCwzZDI0YmQ3MzA0MTY0NzM5OTgxNDJiMjdmNzE5MGJmZTZhZGY0YWY2`

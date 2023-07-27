@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,772 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,815 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 | 50 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 
-Snapshot ID: `MCwyMDJmMWI1OGI2NzdhMmFhNjVhNjljMmQ1OTRjZDZjYTEyOTIxZjBm`
+Snapshot ID: `MCxiMmM4MDg5NjQ0N2YyNjA2YjVmMjk4ZTFiN2U0OWQ2ZjI2Y2FmZGIw`

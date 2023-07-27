@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,093 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,322 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 |
 | 100 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 |
 
-Snapshot ID: `MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk`
+Snapshot ID: `MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,139 songs - 2 day 14 hr 41 min
+1,140 songs - 2 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,7 @@
 | [MCHRDOUL](https://open.spotify.com/track/2DGvHWVrCNUtpjTKO4OCM6) | [Taoufik Ighzer](https://open.spotify.com/artist/4ci66nizDoA40yxKYGai5S) | [MCHRDOUL](https://open.spotify.com/album/4EkPLXQ8Uu9l42aoDjApBF) | 3:04 | 2021-11-27 | 2021-12-11 |
 | [Megalomania](https://open.spotify.com/track/0XMV5uwx5WjZkqxrk87vJ3) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Megalomania](https://open.spotify.com/album/4frrtbVbvsdzV7k5HsifNe) | 5:26 | 2021-03-27\* | 2021-06-11 |
 | [MenoPause](https://open.spotify.com/track/2p5NedIYtONSoxTaId4ffd) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MenoPause](https://open.spotify.com/album/6FvGJaDhq4FEXSnbjbq6Tc) | 6:34 | 2021-04-18 | 2021-04-19 |
-| [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-10-16 |  |
+| [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-10-16 | 2023-07-27 |
 | [Mghayer](https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:34 | 2021-03-27\* | 2023-05-30 |
 | [Mgwani](https://open.spotify.com/track/6dvS18w5nASjcxIHrfSOGW) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:19 | 2021-03-27\* | 2021-05-07 |
 | [Mi Barrio](https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:19 | 2023-05-13 | 2023-05-15 |
@@ -920,6 +920,7 @@
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-21 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-15 | 2023-02-07 |
 | [Sharapova](https://open.spotify.com/track/485lHlH8WYEhBB5S3CWcT2) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Sharapova](https://open.spotify.com/album/2kIBniB2oWyBk7I0ZqIrSE) | 3:48 | 2022-03-05 | 2022-03-14 |
+| [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-26 |  |
 | [show me](https://open.spotify.com/track/5JjD1kyv7GW3AYXyBHJ846) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 3:05 | 2022-10-09 | 2022-10-11 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-28 |
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2023-01-28 | 2023-06-25 |

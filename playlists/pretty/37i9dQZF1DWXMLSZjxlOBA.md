@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 
 > Dance hits to soundtrack your life
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,564 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,563 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 | 79 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
 | 80 | [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 |
 
-Snapshot ID: `MCw3OGEzNDVhN2YzYjJhZDVkNzFhMzI1NjkxNjZkOWI5OTYyMzQ4M2Jh`
+Snapshot ID: `MCwzZTExZmU3NTNhNTY2Y2U1NWYyYjliYzliNGY3ZGVmNDBkZDIwOTRl`

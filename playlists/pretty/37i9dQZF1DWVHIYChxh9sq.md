@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,061 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,101 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 |
 | 150 | [Flor Hermosa \- En Vivo](https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Flor Hermosa \(En Vivo\)](https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00) | 2:52 |
 
-Snapshot ID: `MCxhYmIwMmI2OTkzOWEyZTY4ODgyZjRkNzQzM2JjZWEzMjAwZmVkNTE2`
+Snapshot ID: `MCxlNTAwNGRiMTkyOTAxZDhlZDg1MTcyMGZiYzk0MTA2Mjk4NjFjYWU2`

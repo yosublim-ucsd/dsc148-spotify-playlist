@@ -27406,10 +27406,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 182086,
       "name": "your place",
       "url": "https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi"
+    },
+    {
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "your place",
+      "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,454 likes - 150 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,518 likes - 150 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Where Have You Been?](https://open.spotify.com/track/5oq7aSx9jQCpUZkv5zWHXE) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 8:19 |
 | 150 | [Radio bo](https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ) | [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Koreni](https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B) | 5:44 |
 
-Snapshot ID: `MCw2MGY1ODAxOTRhOTE4MjA2MzZmNTI4MzVkM2IxYzUyNTRkMDc1Njc5`
+Snapshot ID: `MCxmZjkzMWY1NDQ4YzAwM2RlZThhYjAxNzc1Y2ExNTNkMzIwMzgzODQ5`

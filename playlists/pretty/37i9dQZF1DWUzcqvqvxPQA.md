@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,815 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,816 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Stand Firm](https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 3:28 |
 | 100 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 
-Snapshot ID: `MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1`
+Snapshot ID: `MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5`

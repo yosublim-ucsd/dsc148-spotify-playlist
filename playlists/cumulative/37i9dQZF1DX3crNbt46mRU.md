@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Pronto
 
-7,773 songs - 16 day 7 hr 51 min
+7,774 songs - 16 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,7 +1066,7 @@
 | [Brighter Day](https://open.spotify.com/track/5DjBfiWgOWNWxiLyOejxsE) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Brighter Day](https://open.spotify.com/album/1kNDauZg4vVInYtJQf82Zj) | 2:21 | 2023-07-20 |  |
 | [Brightsider](https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Brightsider](https://open.spotify.com/album/025bhDcJFx2CWiYVXOUZvA) | 3:16 | 2022-06-02 | 2022-06-10 |
 | [Brille auf / Kate Moss](https://open.spotify.com/track/2ocy6RRR5WolJH5kuVtMyV) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Brille auf / Kate Moss](https://open.spotify.com/album/560nIKSFhDj9PeI8ZMiTon) | 2:43 | 2022-11-17 | 2022-11-25 |
-| [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 | 2023-07-20 |  |
+| [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 | 2023-07-20 |  |
 | [Bring mich nach Hause](https://open.spotify.com/track/3bjeODQc0Tj0bZ5Rl1G7oB) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Bring mich nach Hause](https://open.spotify.com/album/1f0dvC99sV7Z3bAPw0Rkof) | 3:49 | 2022-02-24 | 2022-03-04 |
 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 | 2023-03-09 | 2023-03-18 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-28 | 2022-05-06 |
@@ -1178,7 +1178,8 @@
 | [Can't Get This Right](https://open.spotify.com/track/2u38tTBCk0OBbjLBM9GoBU) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Can't Get This Right](https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN) | 2:25 | 2023-02-02 | 2023-02-10 |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-24 | 2022-03-04 |
 | [Can't Lock The Dance \(feat\. Stonebwoy\)](https://open.spotify.com/track/6NPNmeAXspYja6Y0RplVKd) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can't Lock The Dance \(feat\. Stonebwoy\)](https://open.spotify.com/album/4vo28tWtIVj9zjsyydyGgy) | 2:39 | 2022-08-25 | 2022-08-27 |
-| [Can't Say No](https://open.spotify.com/track/1vvl2D49baaYpDy7Qopi6n) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Can't Say No](https://open.spotify.com/album/4wK7MTfzP5Nxa6ocA99ndM) | 2:54 | 2023-07-20 |  |
+| [Can't Say No](https://open.spotify.com/track/1vvl2D49baaYpDy7Qopi6n) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Can't Say No](https://open.spotify.com/album/4wK7MTfzP5Nxa6ocA99ndM) | 2:54 | 2023-07-20 | 2023-07-27 |
+| [Can't Say No](https://open.spotify.com/track/4sL7WiAbjQ5leq5jz93K3r) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Can't Say No](https://open.spotify.com/album/1MUiSyd4AP13TUPpRvb2qV) | 2:54 | 2023-07-21 |  |
 | [Can't Sleep](https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Can't Sleep](https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj) | 3:01 | 2022-09-22 | 2022-09-30 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-28 | 2022-05-06 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-26 | 2023-02-03 |

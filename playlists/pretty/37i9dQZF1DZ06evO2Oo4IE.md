@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,009 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,070 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 32 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
 | 33 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 |
 | 34 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/2QpLoCvw8nDgw9sDaz2IlO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9) | 3:20 |
-| 35 | [Combination of the Two](https://open.spotify.com/track/6xxR2WCzYgE9ri0PXX5pV3) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 5:47 |
-| 36 | [Raise Your Hand \(Live Tom Jones TV Show 4th December 1969\)](https://open.spotify.com/track/2ml5UVCSXDi7sxDrO0tXKG) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:28 |
+| 35 | [Raise Your Hand \(Live Tom Jones TV Show 4th December 1969\)](https://open.spotify.com/track/2ml5UVCSXDi7sxDrO0tXKG) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:28 |
+| 36 | [Combination of the Two](https://open.spotify.com/track/6xxR2WCzYgE9ri0PXX5pV3) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 5:47 |
 | 37 | [Flower In the Sun \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin Live At Winterland '68](https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT) | 3:12 |
 | 38 | [Long Black Train](https://open.spotify.com/track/4LKfxjikyLTSaSVuOKM7yG) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9) | 3:54 |
 | 39 | [Tuning & Talk, Pt.2 \- Live](https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:17 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 47 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 | 48 | [Instrumental \- Live 1969](https://open.spotify.com/track/6lTVCKo2uvXxzH8GLXnda3) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [One From The Heart \(Live 1969\)](https://open.spotify.com/album/6xJfgr3GTYls4N3ZDzQepN) | 5:09 |
 | 49 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
+| 50 | [Take Another Piece of my Heart \(Live SWR TV Frankfurt Germany 12th April 1969\)](https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:54 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA4MjUxMDU3ZjA1ODg2MzQ0ZGQwZjhmZmY0YTljN2M0OQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBiODYwODFiNzc2OTEzZGE2YWRlODNjODI1MDlmYjQyNQ==`

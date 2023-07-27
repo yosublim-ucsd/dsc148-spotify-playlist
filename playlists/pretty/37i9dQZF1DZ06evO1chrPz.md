@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,973 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,006 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 42 | [Do It Again](https://open.spotify.com/track/33VLrOZbnbz5pGSY2neHyO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 5:38 |
 | 43 | [I Belong To Jesus \- Live](https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:39 |
 | 44 | [The Light in You](https://open.spotify.com/track/4dx1Mf0Cl6luHghe58xKAV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:23 |
-| 45 | [God I Look to You](https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC) | 7:32 |
-| 46 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
+| 45 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
+| 46 | [God I Look to You](https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC) | 7:32 |
 | 47 | [Inheritance](https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 3:56 |
 | 48 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
 | 49 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 |
 | 50 | [This Is Amazing Grace](https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86) | 7:32 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBlMjlhZTkwZTQzYjczMWRhOTQ2NDU4Yjc3NWViZDRjNA==`
+Snapshot ID: `MjgxNzI5ODIsMDAwMDAwMDA3ZWVjNzkxOWU3MjhlZDM3NGY5MjU5NGU5MmU1ZmRlMQ==`

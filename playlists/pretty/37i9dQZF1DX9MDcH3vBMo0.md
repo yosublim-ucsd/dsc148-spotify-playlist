@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,536 likes - 250 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,763 likes - 250 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 |
 | 250 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 |
 
-Snapshot ID: `MCw0NmE0OTI5ZDU4MjQ1ZTc1MTZhYzQ3ZGFhNDlhODZkYjY4NjMwMzIz`
+Snapshot ID: `MCxlMjhmMmE4ZDNiYTg4YjZiZmViMzEwYjYyMzg2Mjc4MTlmM2VlY2Vm`

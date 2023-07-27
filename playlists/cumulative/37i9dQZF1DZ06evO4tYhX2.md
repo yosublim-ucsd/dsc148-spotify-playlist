@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 47 min
+79 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Exaltado Estas \(En Vivo\) \[feat\. Marco Barrientos\]](https://open.spotify.com/track/2o2alg3IL3k2qWyo8dDIOF) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:10 | 2022-09-14 |  |
 | [Fiesta \(En Vivo\)](https://open.spotify.com/track/7lBkUdbFVA1qXHP0hpVrIu) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 4:16 | 2022-09-14 |  |
 | [Glorificate](https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 2:05 | 2022-09-14 |  |
-| [Glorioso Día](https://open.spotify.com/track/4ySbI6S4pEd3ipwasuVjec) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:13 | 2022-09-14 |  |
+| [Glorioso Día](https://open.spotify.com/track/4ySbI6S4pEd3ipwasuVjec) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:13 | 2022-09-14 | 2023-07-27 |
 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 | 2022-09-14 |  |
 | [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 | 2022-10-15 |
 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 | 2022-12-04 |
@@ -68,6 +68,7 @@
 | [Recibo Mi Milagro feat\. Josh Morales "Miel San Marcos" \(En Vivo\)](https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [El Abrazo De Mi Padre \(En Vivo\)](https://open.spotify.com/album/1n5VT7UWkZe2LuNZYSrEZB) | 5:44 | 2022-09-16 | 2022-10-12 |
 | [Regocíjate Oh Moradora De Sión](https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 2:53 | 2022-09-14 |  |
 | [Remolineando \(feat\. Fernel Monroy\)](https://open.spotify.com/track/1NmECxDikubj4Hhu1dbrhl) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Fernel Monroy](https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:35 | 2022-09-14 |  |
+| [Shekina \(En Vivo\)](https://open.spotify.com/track/08xvwy9R89yO8WS0P6DaT2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 4:41 | 2023-07-26 |  |
 | [Shekinah \- Live](https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP) | 8:30 | 2022-09-14 |  |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 |  |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-09-14 |  |

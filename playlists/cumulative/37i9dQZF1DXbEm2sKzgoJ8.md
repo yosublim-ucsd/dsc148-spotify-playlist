@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-321 songs - 17 hr 47 min
+322 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-17 |  |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-12-28 |  |
 | [Shaggy Dynamite](https://open.spotify.com/track/60cgAlsz2BbdJF2pWEStlg) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Shaggy Dynamite](https://open.spotify.com/album/04t1CRjivMRFCu7h1cNyvk) | 2:39 | 2021-12-24 | 2022-07-06 |
+| [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2023-07-26 |  |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2022-06-17 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-30 |  |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 |  |
@@ -320,7 +321,7 @@
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-05-20 | 2022-07-11 |
 | [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 | 2022-06-17 | 2023-01-18 |
 | [Worth It](https://open.spotify.com/track/1bWBqEOlBwHnsYWViiBOFC) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [November Love Notes](https://open.spotify.com/album/4fQ1Dn0bHqfqKD9R6TRws5) | 2:49 | 2021-12-24 | 2022-06-30 |
-| [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-03 |  |
+| [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-03 | 2023-07-27 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-03 |  |
 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 | 2021-12-10 | 2022-12-14 |
 | [You Belong To Somebody Else](https://open.spotify.com/track/7izlgARoZsidRx23DOBhad) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Fuck A Friend Zone](https://open.spotify.com/album/51OWMVKHXRYaXdizydeRSd) | 3:38 | 2022-07-13 | 2022-09-10 |

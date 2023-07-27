@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,111 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,135 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Mi Complejo](https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Mi Complejo](https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC) | 3:23 |
 | 100 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
 
-Snapshot ID: `MCwwMDYzNzc0NzNhZjBlOTAyNzUwZWQxYWU0OWE4MWE1MGU2ZjZjZGEw`
+Snapshot ID: `MCxlMmMzZDE5N2Q0YjI0YmE5ZDI4ZDljYWNmZTliODYxMTBlMzNiYTA3`

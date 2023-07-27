@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,525 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,587 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Top Down](https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:18 |
 | 100 | [Young at Heart](https://open.spotify.com/track/2SL5zG9aPwXVLN97YQl3pH) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Young at Heart](https://open.spotify.com/album/2owx5fxhJfK0ObNtz6sCpa) | 3:46 |
 
-Snapshot ID: `MCw0ODc0ZDBlNjEwOTIwMzBjMWRlNDY3MWFjZWJmMTE1ODNkNzU2Zjc3`
+Snapshot ID: `MCxmMWZmZDU1ZmZkOTlmNTRhNzBmYWVlNDhlNjc2NTc4MThiMDdkNzI5`

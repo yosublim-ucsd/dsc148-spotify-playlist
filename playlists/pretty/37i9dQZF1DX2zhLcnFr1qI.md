@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,575 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,568 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 37 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
 
-Snapshot ID: `MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw`
+Snapshot ID: `MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi`

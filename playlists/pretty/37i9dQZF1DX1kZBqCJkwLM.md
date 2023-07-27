@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,243 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,295 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 |
 | 90 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 |
 
-Snapshot ID: `MCwyN2IzZjZhODIyYmM5YjM0MTlhNmQ4MGQ4MDBiYzRiOGZiMWQwZjA0`
+Snapshot ID: `MCxlMDA5ZjM2M2NmYTVkM2JhMDgyZjBiNjM0ZmRmNTI2MjZhYjZkNmRl`

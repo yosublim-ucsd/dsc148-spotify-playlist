@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-521 songs - 1 day 4 hr 30 min
+522 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-13 | 2022-10-21 |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-28 | 2022-07-29 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-03-25 | 2022-10-13 |
-| [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 | 2023-07-22 |
+| [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 |  |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-11 | 2023-05-31 |
 | [5 Years Time](https://open.spotify.com/track/5VaPx8jYNENRGmOOhScbW1) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/5AuoAfjnUUnH6b6kkpyk6F) | 3:34 | 2022-03-28 | 2022-04-20 |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 | 2022-07-04 |
@@ -394,8 +394,9 @@
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-25 |  |
 | [Rock It](https://open.spotify.com/track/3gkUWlXM4gDUZbKn5WO3N9) | [Little Red](https://open.spotify.com/artist/74WcfqC2hmUFHEJs0PDqYi) | [Midnight Remember](https://open.spotify.com/album/1ali3G594gMxV4Bl92NTdw) | 3:30 | 2022-03-25 | 2022-04-12 |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-12-29 | 2022-06-30 |
-| [Rosie](https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Rosie](https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C) | 3:20 | 2023-07-14 |  |
+| [Rosie](https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Rosie](https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C) | 3:20 | 2023-07-14 | 2023-07-27 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-02-04 |  |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-26 |  |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2022-04-01 |  |
 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 | 2022-03-25 | 2022-04-16 |
 | [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 | 2023-05-31 |
@@ -458,7 +459,7 @@
 | [Sunshower \- Remastered](https://open.spotify.com/track/34ZFX5zDheyGVZW1vP9aeW) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:08 | 2022-03-28 | 2022-04-17 |
 | [Surrender To Me](https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ) | [FireCityFunk](https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF) | [Surrender To Me](https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ) | 3:34 | 2022-02-04 | 2022-04-17 |
 | [Sweet Talk](https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:12 | 2021-12-29 | 2022-07-29 |
-| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-14 |  |
+| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-14 | 2023-07-27 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2022-03-25 | 2022-04-18 |
 | [Tainted Love](https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Tainted Love](https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T) | 3:21 | 2022-04-01 | 2022-07-25 |
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-04-20 |

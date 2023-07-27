@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,049 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,141 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
 | 75 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 |
 
-Snapshot ID: `MCw4YjU1YTQ0MWVhYjIxNjI0MjQwODJhOTA1ZjgxYjYzYjhkM2I0YmQw`
+Snapshot ID: `MCxiOTg0NzY5YWYzNmQ2MTIyNDRiNDc0MGRjZmRjYTBmNTYxZjI4YWQ3`

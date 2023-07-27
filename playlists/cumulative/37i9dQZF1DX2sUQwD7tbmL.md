@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-574 songs - 1 day 8 hr 29 min
+575 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Afternoon](https://open.spotify.com/track/7LgW5lfcYQTUpLx8GpU4eB) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 4:10 | 2022-04-13 | 2022-04-21 |
 | [Alameda](https://open.spotify.com/track/7h5VAXxxAm8lYi7vrTHRo6) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Alameda](https://open.spotify.com/album/7LgkvNyeL12xJmTVW6rfTX) | 2:41 | 2021-05-01 | 2022-04-13 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-05-01 | 2022-04-13 |
-| [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 | 2023-06-16 |  |
+| [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 | 2023-06-16 | 2023-07-27 |
 | [All Day All Night](https://open.spotify.com/track/2gzKrevrRv9ihRiDItYPBJ) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [All Day All Night](https://open.spotify.com/album/1xZeArCxOOHs2UHWu9Gnzm) | 3:51 | 2022-04-13 | 2022-04-20 |
 | [All I Think About Now](https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe) | 3:07 | 2022-10-14 | 2023-06-17 |
 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 | 2022-04-13 | 2022-10-13 |
@@ -97,6 +97,7 @@
 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 | 2023-07-11 |  |
 | [Buttons](https://open.spotify.com/track/1TBpRrzF1dhn99zX2pXYXn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Buttons](https://open.spotify.com/album/4Vxnl8R9moFhMp2GHDb65a) | 3:36 | 2021-05-01 | 2022-07-29 |
 | [Buttons](https://open.spotify.com/track/76ARcI2WtTwLKC3zz9Duug) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/1tdlHv6L6EvEV3ZbLeZMlL) | 3:36 | 2023-05-26 |  |
+| [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-26 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2021-05-01 | 2022-04-14 |
 | [Calm Down](https://open.spotify.com/track/1MXb1CAZF9Rrvpp6pGcwsJ) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Caretakers](https://open.spotify.com/album/6lnJQzI8DHzZ30IPRdBhcY) | 2:55 | 2021-05-01 | 2022-02-06 |

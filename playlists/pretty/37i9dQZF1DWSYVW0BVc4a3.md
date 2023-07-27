@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,158 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,277 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 |
 | 100 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 |
 
-Snapshot ID: `MCw0ZjlkZWE1ZjI1YTFlZjQyN2ViZGUxODE3YzA4MTJiZmY0NWMwMzRm`
+Snapshot ID: `MCw2NzllOTdiMzU3MDllZWY0NGQ0ZmJhZjQzZWMxN2Y4YTRlMmRlYWEy`

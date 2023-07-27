@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,600 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,627 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [Orange Sapphire \- GAME VERSION](https://open.spotify.com/track/5dpeobghiDp2rgNavnt3RI) | [城ヶ崎莉嘉 \(CV: 山本希望\)](https://open.spotify.com/artist/5CcQd1LKQ7qNs8dOGzqw8X), [諸星きらり \(CV: 松嵜 麗\)](https://open.spotify.com/artist/0M1k2X1yK6cO3WvdHKQ56Y), [城ヶ崎美嘉 \(CV: 佳村はるか\)](https://open.spotify.com/artist/58B9VjzwsrMdm3fVM3oHNs), [本田未央 \(CV: 原 紗友里\)](https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3), [赤城みりあ \(CV: 黒沢ともよ\)](https://open.spotify.com/artist/3qkXtE3XETewbseP4v4n6g) | [THE IDOLM@STER CINDERELLA MASTER jewelries! SERIES GAME VERSION SONG COLLECTION](https://open.spotify.com/album/54QoPt4hJMvubStFiGzUt3) | 2:06 |
 | 75 | [2nd SIDE \- GAME VERSION](https://open.spotify.com/track/704SO2asM3hYJ8FjT839g1) | [神谷奈緒 \(CV: 松井恵理子\)](https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC) | [THE IDOLM@STER CINDERELLA MASTER 021〜030 GAME VERSION](https://open.spotify.com/album/76dSSs80SvnPMlavxm7k44) | 1:58 |
 
-Snapshot ID: `MCxmZjM2Njc0NDBiN2RiZWFlYTViYzU1YTk5NzNmNzRjZWU2NjBjOTk1`
+Snapshot ID: `MCxhMDBlYjE2MmRhMDIyNjljZTY4ZjJhZDY0OWNhOGI0NGE2NjA3MjAy`

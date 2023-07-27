@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,844 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,875 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 5 | [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 |
 | 6 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
 | 7 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 |
-| 8 | [ANIME](https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/153c91yGLUSNj6yefDIIoL) | 2:42 |
+| 8 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 |
 | 9 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 |
 | 10 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 |
-| 11 | [ほのめかし](https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [ほのめかし](https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE) | 3:41 |
+| 11 | [honomekashi](https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [honomekashi](https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV) | 3:41 |
 | 12 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 13 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 | 14 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 99 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 100 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 
-Snapshot ID: `MCwzZDE0NzliYWFiM2MyNzRlZmY3M2RlYTYyMDc3MzRkMGI3MzFkMzM3`
+Snapshot ID: `MCw2ZmMxOWRkNDUxOWU0MWFlOGRhMGZhNmY3YjAzNWMxNjg3ODYzOTYy`

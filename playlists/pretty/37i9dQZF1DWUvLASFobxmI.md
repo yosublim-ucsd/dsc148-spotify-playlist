@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Pesado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,748 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,848 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 |
 | 125 | [No Me Faltes Tú](https://open.spotify.com/track/2Ps92OxgYoOY012JX2Anfv) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [No Me Faltes Tú](https://open.spotify.com/album/45kO6SXe0acdEFYZ8TJpUg) | 3:50 |
 
-Snapshot ID: `MCw2NTY1ODFmNzgyZjkzNDQ4NGE5OWEwYTMwMjZkOGFkZGE3MGY4NDE3`
+Snapshot ID: `MCw1ZTk0ODFhMGZjYWM2MWIxYmFlZjQxNTRiZWEzYjBmNzFjMzQyZjdk`

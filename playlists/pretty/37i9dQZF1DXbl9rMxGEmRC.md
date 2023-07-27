@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,050 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,268 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
 | 100 | [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 |
 
-Snapshot ID: `MCxkY2YxYTY3OGNmYjU4NTdiYjRjOWUzNzgyNWNkNzA0ZWE5MjJlMjEz`
+Snapshot ID: `MCwyYTRkOGExNzE2MmJhMTFiMTQxNTdmMWRkNDBjZmJlZTdkNDk0YWFh`

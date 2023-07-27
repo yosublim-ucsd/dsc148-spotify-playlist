@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,872 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,974 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 |
 | 100 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 
-Snapshot ID: `MCxkNGJmZWZkY2E4ZTE4MjNhNDdkYmY5YmJjNjhiNThlY2E3MjY1NDU4`
+Snapshot ID: `MCw2MTcwMDg3MDM1ZDNkYWY2NDYwNTQ1YTE4ZWMzMDBiZmRmMDY4NjQw`

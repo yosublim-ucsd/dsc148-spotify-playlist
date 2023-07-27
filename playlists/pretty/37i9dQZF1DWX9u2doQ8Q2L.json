@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 373584,
+  "num_followers": 373603,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzk0OGU4ZWJhMzNlMGE1OGVhNmI0MmI3ZjZlNWJlMjIwNWUyZWM2",
+  "snapshot_id": "MCw3NDBjZjA1Y2IwZjI4MGRhM2ZhMzNlNGYwNjFjZTVlMWQxNjg4YjRl",
   "tracks": [
     {
       "added_at": "2023-07-26 00:20:44",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-07-26 00:20:44",
       "album": {
-        "name": "\u5f8c\u5149",
-        "url": "https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg"
+        "name": "Mouth Flash (Kuchinohanabi)",
+        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
         }
       ],
-      "duration_ms": 204340,
-      "name": "\u5f8c\u5149",
-      "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
+      "duration_ms": 230266,
+      "name": "Mouth Flash (Kuchinohanabi)",
+      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -143,28 +143,24 @@
     {
       "added_at": "2023-07-26 00:20:44",
       "album": {
-        "name": "Paris feat. YELLOW Huang Hsuan",
-        "url": "https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj"
+        "name": "\u5f8c\u5149",
+        "url": "https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg"
       },
       "artists": [
         {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "YELLOW\u9ec3\u5ba3",
-          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 171923,
-      "name": "Paris feat. YELLOW Huang Hsuan",
-      "url": "https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ"
+      "duration_ms": 204340,
+      "name": "\u5f8c\u5149",
+      "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
     },
     {
       "added_at": "2023-07-26 00:20:44",
       "album": {
-        "name": "\u307b\u306e\u3081\u304b\u3057",
-        "url": "https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE"
+        "name": "honomekashi",
+        "url": "https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV"
       },
       "artists": [
         {
@@ -177,8 +173,8 @@
         }
       ],
       "duration_ms": 221728,
-      "name": "\u307b\u306e\u3081\u304b\u3057",
-      "url": "https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92"
+      "name": "honomekashi",
+      "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -244,7 +240,7 @@
       "added_at": "2023-07-26 00:20:44",
       "album": {
         "name": "Supremacy",
-        "url": "https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi"
+        "url": "https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze"
       },
       "artists": [
         {
@@ -254,7 +250,7 @@
       ],
       "duration_ms": 194999,
       "name": "Supremacy",
-      "url": "https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw"
+      "url": "https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -271,6 +267,22 @@
       "duration_ms": 192036,
       "name": "TOMATO",
       "url": "https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt"
+    },
+    {
+      "added_at": "2023-07-26 00:20:44",
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -471,18 +483,22 @@
     {
       "added_at": "2023-07-26 00:20:44",
       "album": {
-        "name": "Mouth Flash (Kuchinohanabi)",
-        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
+        "name": "Paris feat. YELLOW Huang Hsuan",
+        "url": "https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj"
       },
       "artists": [
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Mouth Flash (Kuchinohanabi)",
-      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
+      "duration_ms": 171923,
+      "name": "Paris feat. YELLOW Huang Hsuan",
+      "url": "https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -972,7 +988,7 @@
       "added_at": "2023-07-26 00:20:44",
       "album": {
         "name": "A Crystal Night",
-        "url": "https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf"
+        "url": "https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5"
       },
       "artists": [
         {
@@ -990,7 +1006,7 @@
       ],
       "duration_ms": 170000,
       "name": "A Crystal Night",
-      "url": "https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c"
+      "url": "https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC"
     },
     {
       "added_at": "2023-07-26 00:20:44",
@@ -1012,7 +1028,7 @@
       "added_at": "2023-07-26 00:20:44",
       "album": {
         "name": "Windmills",
-        "url": "https://open.spotify.com/album/5lvjELLjKZi7YaIsnQgbWu"
+        "url": "https://open.spotify.com/album/4DzOrai5gfKhWBEazJUP5W"
       },
       "artists": [
         {
@@ -1022,7 +1038,7 @@
       ],
       "duration_ms": 210874,
       "name": "Windmills",
-      "url": "https://open.spotify.com/track/7EOtFyHjdSrnUdYlydmxNM"
+      "url": "https://open.spotify.com/track/1aha4I89HovVYkb2O4udUM"
     },
     {
       "added_at": "2023-07-26 00:20:44",

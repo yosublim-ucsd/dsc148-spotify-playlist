@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,529 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,562 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 49 | [ASMR Take a Bath with Me, Pt\. 2](https://open.spotify.com/track/3LMKY3gm8ODiAp58ZVM7Ro) | [Mad ASMR Triggers](https://open.spotify.com/artist/5PZXh446gcT8Gv0zr6nIGe) | [ASMR Take a Bath with Me \[Washing, Soap, Foam & Water Sounds\]](https://open.spotify.com/album/0zY8SI0d2ebscEgboVjCjt) | 3:16 |
 | 50 | [Drying Ears Off](https://open.spotify.com/track/08jSo3MBeMb8Txo43DsPJh) | [Jellybean Green ASMR](https://open.spotify.com/artist/5MzEMEzPVEI2U5dY4sd0Zm) | [3 Clones Ear Exam, Cleaning, & Face Massage](https://open.spotify.com/album/2irbKcATd9eeVZW1jaJwfS) | 2:15 |
 
-Snapshot ID: `MCxiZjg0YzMzNzBkYzQ3MDQxYmJjOGY0MjhmOGI1MWFmN2I0MjYwZmQ0`
+Snapshot ID: `MCwwMTUxNzM3MDlhYzE4MmQyZWQxMmJlNjcxNzBlNGZhMzVjOGE4MjNi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: Lekan. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: Gemaine. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "am i stupid?",
+        "url": "https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7"
+      },
+      "artists": [
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123621,
+      "name": "am i stupid?",
+      "url": "https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg"
+    },
+    {
+      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5"
       },
@@ -2070,6 +2088,24 @@
       "duration_ms": 162873,
       "name": "BAD GIRLS CLUB",
       "url": "https://open.spotify.com/track/2SXMw2SDiQNsquOgQOlNhC"
+    },
+    {
+      "album": {
+        "name": "Bad Gurl",
+        "url": "https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195405,
+      "name": "Bad Gurl",
+      "url": "https://open.spotify.com/track/0mlJb5Qes5bQcshDA9FXmX"
     },
     {
       "album": {
@@ -9519,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Litany",
+        "url": "https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc"
+    },
+    {
+      "album": {
         "name": "Give In",
         "url": "https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL"
       },
@@ -13695,6 +13749,32 @@
     },
     {
       "album": {
+        "name": "Klei",
+        "url": "https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT"
+      },
+      "artists": [
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113447,
+      "name": "Klei",
+      "url": "https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU"
+    },
+    {
+      "album": {
         "name": "KLM",
         "url": "https://open.spotify.com/album/7M8t6y4yEeARY88jrW1uEY"
       },
@@ -14838,6 +14918,24 @@
       "duration_ms": 181220,
       "name": "LOSE YOU",
       "url": "https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp"
+    },
+    {
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "album": {
@@ -19244,6 +19342,28 @@
       "duration_ms": 196832,
       "name": "PATT",
       "url": "https://open.spotify.com/track/0AcNh6pvhqGCm9EKpCAKEG"
+    },
+    {
+      "album": {
+        "name": "god is my witness",
+        "url": "https://open.spotify.com/album/0hXeIYGHB55vabgbKs42bw"
+      },
+      "artists": [
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        },
+        {
+          "name": "Snoozegod",
+          "url": "https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/4NnIHzJPBXDlOEUwf1C7DJ"
     },
     {
       "album": {
@@ -24427,6 +24547,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U"
+      },
+      "artists": [
+        {
+          "name": "Sidibe",
+          "url": "https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185937,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO"
+    },
+    {
+      "album": {
         "name": "sunshine of your love",
         "url": "https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo"
       },
@@ -25122,6 +25260,24 @@
       "duration_ms": 256308,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH"
+    },
+    {
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
     },
     {
       "album": {

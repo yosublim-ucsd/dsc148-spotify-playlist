@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Sasha\(사샤\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,426 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,571 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
 | 100 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 |
 
-Snapshot ID: `MCxiMThkN2Q0ZGU3YmM4NDE4NmRhOGRkZmYzNDNkNTJmNTUzYWI3Yzk4`
+Snapshot ID: `MCw1YzA3MDE5MzYzOTBlMTYzOGNhYWZkMTY4MzIzNDU3N2UxNDJkMTQ1`

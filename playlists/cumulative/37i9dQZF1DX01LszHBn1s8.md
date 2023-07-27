@@ -4,7 +4,7 @@
 
 > zayn is back 🖤❤️‍🔥
 
-1,157 songs - 2 day 12 hr 39 min
+1,158 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,8 @@
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-05-19 |  |
 | [idfc](https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 3:27 | 2022-05-19 |  |
 | [If By Chance \- slowed + reverb](https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [If By Chance \(slowed + reverb\)](https://open.spotify.com/album/35myBC3ak9OPMye976nuI4) | 6:24 | 2022-05-19 |  |
-| [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-19 |  |
+| [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 | 2023-07-21 |  |
+| [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-19 | 2023-07-27 |
 | [IF I KNEW YOU IN A PAST LIFE](https://open.spotify.com/track/1cb5DwlrURMljmqfoLF0oC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:26 | 2022-05-19 | 2022-09-16 |
 | [IF I KNEW YOU IN A PAST LIFE](https://open.spotify.com/track/7s7b4wfoPDClPrt284Srgu) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:26 | 2022-09-15 |  |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-20 |  |

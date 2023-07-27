@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,272 likes - 53 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,384 likes - 53 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 39 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
 | 40 | [Big Booty \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Woptober II](https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU) | 2:08 |
 | 41 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
-| 42 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
+| 42 | [Stalli \(Freestyle\)](https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Stalli \(Freestyle\)](https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7) | 1:56 |
 | 43 | [Freak Nasty](https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:53 |
-| 44 | [Stalli \(Freestyle\)](https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Stalli \(Freestyle\)](https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7) | 1:56 |
+| 44 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
 | 45 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 |
 | 46 | [FREAK](https://open.spotify.com/track/0HIj0uo7zaFIpkzUIkDlmL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [FREAK](https://open.spotify.com/album/4FeCh8gOiKw8syCtXysELk) | 2:54 |
 | 47 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 |
-| 48 | [B.I.T.C.H.](https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.I.T.C.H.](https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4) | 3:03 |
-| 49 | [Running Up Freestyle](https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:04 |
+| 48 | [Running Up Freestyle](https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:04 |
+| 49 | [B.I.T.C.H.](https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.I.T.C.H.](https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4) | 3:03 |
 | 50 | [Rich](https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 1:35 |
 | 51 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 |
 | 52 | [Freaky Girls \(feat\. SZA\)](https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:46 |
 | 53 | [Realer](https://open.spotify.com/track/3qVNNJ7f9RQeNR4iPIeS0c) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:29 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA4MzZjOTA4MjdlNGZmNjdlNzU0NGNhYjA4ZmIyNzIxNQ==`
+Snapshot ID: `MjgxNzI5ODIsMDAwMDAwMDAwZmU3OWQ1MjlkNmZhNWM1NjVjMTgyZDZkMmVlMzVmNw==`

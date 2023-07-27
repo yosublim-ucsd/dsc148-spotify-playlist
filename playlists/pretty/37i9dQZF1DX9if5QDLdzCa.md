@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,629 likes - 194 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,683 likes - 194 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,19 +188,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 178 | [Surf's Up](https://open.spotify.com/track/3AOB0WngRiLACLYjhyyRkM) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Mystical Oceanic Voyage](https://open.spotify.com/album/4b62ECFggvhJFLiVvcOzDm) | 2:04 |
 | 179 | [Good Dunes](https://open.spotify.com/track/3NYkZCy3NQlEdnkSbn0DgZ) | [Make A Splash](https://open.spotify.com/artist/3yGFBebePMRL5zeUWzINhU) | [Good Dunes](https://open.spotify.com/album/7eHpBBR1WafI8Fd9A2vBxC) | 3:20 |
 | 180 | [Gentle Lullaby of the Crashing Waves](https://open.spotify.com/track/7hEfZWrX17DMShVPg9J66a) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Mystic Depths and Endless Waves](https://open.spotify.com/album/7J550HoWlrJjeoTGvJ9ejQ) | 2:03 |
-| 181 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
-| 182 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 |
-| 183 | [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 |
-| 184 | [Gliding on Waves](https://open.spotify.com/track/1YxjejV7l4hXl45XU2Lr7D) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Relaxing Ocean Sounds](https://open.spotify.com/album/6owEJloLFWg3RPgwBkKf2w) | 3:04 |
-| 185 | [Ocean Foam](https://open.spotify.com/track/5CzdfvJBSwRG5s56RuXVTG) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 |
-| 186 | [Three Minutes By The Ocean](https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 |
-| 187 | [Pacific Blue Sounds](https://open.spotify.com/track/0A0x0FqKVh1q0y8ueg9eSx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 4:56 |
-| 188 | [Peaceful Lapping Waves](https://open.spotify.com/track/0gUu51zyHEZIWGITqwRtYv) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Calming Coastal Waves](https://open.spotify.com/album/6SFtY6F2Pci0KBqek6Nebq) | 2:48 |
-| 189 | [High Tide](https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [High Tide](https://open.spotify.com/album/5GSSHqPvOVkmMILwAQFuhS) | 4:58 |
-| 190 | [Ocean Sunset Tide](https://open.spotify.com/track/6XBqAyN43UglCHM0sWZLS3) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 |
-| 191 | [Surf Season](https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Meditative Ocean Sounds](https://open.spotify.com/album/1Ns7SBGJ7qNaUihRF7iTa1) | 3:05 |
-| 192 | [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 |
-| 193 | [Stormy Sea](https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:47 |
+| 181 | [Stormy Sea](https://open.spotify.com/track/6b1OG21ffrJMI7yITNivSl) | [Ocean HD](https://open.spotify.com/artist/5o3yuYZ9aXhcARXy2SeCrL) | [Ocean Hd](https://open.spotify.com/album/49cagZyC7CpLn1zFMOrzLb) | 2:47 |
+| 182 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
+| 183 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 |
+| 184 | [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 |
+| 185 | [Gliding on Waves](https://open.spotify.com/track/1YxjejV7l4hXl45XU2Lr7D) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Relaxing Ocean Sounds](https://open.spotify.com/album/6owEJloLFWg3RPgwBkKf2w) | 3:04 |
+| 186 | [Ocean Foam](https://open.spotify.com/track/5CzdfvJBSwRG5s56RuXVTG) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 |
+| 187 | [Three Minutes By The Ocean](https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 |
+| 188 | [Pacific Blue Sounds](https://open.spotify.com/track/0A0x0FqKVh1q0y8ueg9eSx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 4:56 |
+| 189 | [Peaceful Lapping Waves](https://open.spotify.com/track/0gUu51zyHEZIWGITqwRtYv) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Calming Coastal Waves](https://open.spotify.com/album/6SFtY6F2Pci0KBqek6Nebq) | 2:48 |
+| 190 | [High Tide](https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [High Tide](https://open.spotify.com/album/5GSSHqPvOVkmMILwAQFuhS) | 4:58 |
+| 191 | [Ocean Sunset Tide](https://open.spotify.com/track/6XBqAyN43UglCHM0sWZLS3) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 |
+| 192 | [Surf Season](https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Meditative Ocean Sounds](https://open.spotify.com/album/1Ns7SBGJ7qNaUihRF7iTa1) | 3:05 |
+| 193 | [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 |
 | 194 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 |
 
-Snapshot ID: `MCxlNWFlMjZjMWNiNmEyY2E5ODk1MjUzMzM1NWU5MGE4M2U4NDg0YTg1`
+Snapshot ID: `MCwzMWU3NjA5OTlkMGRhYmNmYzk2MzFlZTliMmM0NWU3ZjlmNzM0NDFk`

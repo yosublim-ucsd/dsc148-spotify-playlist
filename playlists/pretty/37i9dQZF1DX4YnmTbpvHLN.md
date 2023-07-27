@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,676 likes - 300 songs - 18 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,670 likes - 300 songs - 18 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 299 | [The Very Thought Of You](https://open.spotify.com/track/6kFK16v4TcZK6KFfca5aMw) | [Best Jazz Quartet](https://open.spotify.com/artist/4GdQHzIr5TLdjSBeLvSJNz) | [The More I See You](https://open.spotify.com/album/5p4G6qfKL7b5m5dCGbTe7g) | 6:24 |
 | 300 | [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 |
 
-Snapshot ID: `MCwyZTc3ZDg5ZmEyODRhMTdhY2JlZjdmNTc1MGUzMGVjYTE1Y2NjNzE2`
+Snapshot ID: `MCwxYzlhMTdmZGNjZDhlZjQ5YzdkM2RiMTY0MjkyYjdmODNiMTA5MDkw`

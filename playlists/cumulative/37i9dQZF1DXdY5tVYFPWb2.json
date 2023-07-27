@@ -6830,10 +6830,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 237499,
       "name": "SUPER LOVER",
       "url": "https://open.spotify.com/track/2u0Eih7W9yf7dXGGP5WLZG"
+    },
+    {
+      "album": {
+        "name": "BARBER IN THE LIVINGROOM",
+        "url": "https://open.spotify.com/album/5TqaKQw5L4iDB107PBeQSH"
+      },
+      "artists": [
+        {
+          "name": "BARBER IN THE LIVINGROOM",
+          "url": "https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237499,
+      "name": "SUPER LOVER",
+      "url": "https://open.spotify.com/track/5smnzo6LhIx0NMC1ErBMG4"
     },
     {
       "album": {
@@ -10512,8 +10530,8 @@
       },
       "artists": [
         {
-          "name": "\u4f36",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/4dqrHZDznBifUYWzj0Ylx1"
         },
         {
           "name": "Tokimeki Records",

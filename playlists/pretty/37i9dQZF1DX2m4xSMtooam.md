@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,934 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,081 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Estágio](https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estágio](https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk) | 4:19 |
 | 150 | [I Wished on the Moon](https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [I Wished on the Moon](https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2) | 4:44 |
 
-Snapshot ID: `MCxlODJmNTY1MDk0MGFhMzA2MmYyYTNhNTY5MmFlODczYTZlMjliMzc5`
+Snapshot ID: `MCxjZGRkZjNjYWI3MzVhNzgyZGQ1ZTAxZjY2Yjk5NzU1YzM5YjIyNTFj`

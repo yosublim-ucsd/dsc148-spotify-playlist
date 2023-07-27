@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Eme MalaFe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,106 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,202 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [VIDA LOK4](https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [VIDA LOK4](https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78) | 3:13 |
 | 75 | [TRANQUILEÓN](https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn), [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [TRANQUILEÓN](https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ) | 3:39 |
 
-Snapshot ID: `MCwzMmVlNmQ5YjYwMDYxODE1NWJkN2Q3ODJjNGVhYTA2MzZkNTYxZWM2`
+Snapshot ID: `MCwzNGQ0Y2VkYmEzM2M0OWQxZGI3NmVjOWRkNzgzYjAwN2Y5OTBhMmRl`

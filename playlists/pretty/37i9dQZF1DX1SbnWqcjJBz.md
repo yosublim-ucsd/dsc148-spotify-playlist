@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,795 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,950 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Love You Like That](https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Love You Like That](https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW) | 2:57 |
 | 100 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 |
 
-Snapshot ID: `MCxjNTZjODIzZjg3NGMyMmI4ZTIwNzU1ZmFlODBhNmEzMWEzNzVjZjk2`
+Snapshot ID: `MCxlMjRjYTEyMjE0YzNjM2NmMDRmOWUwNzMyYjVlNDYyNmE5YjA4OGZm`

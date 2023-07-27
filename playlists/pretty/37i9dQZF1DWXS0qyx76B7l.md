@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,519 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,620 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 49 | [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 |
 | 50 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt) | 3:44 |
 
-Snapshot ID: `MCxmODI5YTdhN2RiNmE1ZjM3NWEzMmNlMjA3ZWYzZWY3MGE2MzkzMWU4`
+Snapshot ID: `MCw5ZDVjZmY5ZjBhMmVlZWRlOWMyN2UwNWU2ODk5OWEwZDI0YmFkYTRi`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,403 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,694 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
-| 2 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 |
+| 2 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
 | 3 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
 | 4 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 |
 | 5 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
-| 6 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
+| 6 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 |
 | 7 | [MORAK](https://open.spotify.com/track/28zAI7MMJSlo7WUZWQtoSv) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MORAK](https://open.spotify.com/album/0hdrQYCR5YuUmXELMqLyyg) | 2:49 |
 | 8 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 |
 | 9 | [Chouwafat](https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 | 50 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
 
-Snapshot ID: `MCw0MWZmN2U2YTUzZmM1MWVlMDhjMjM3ODdkM2I1NDRhZmZjN2U4NDRk`
+Snapshot ID: `MCw3Yzk0YzQ0NGY2NmRjZjlhOWM2ZGRmOTFiNDA4NDBkNzAyY2M4MGUw`

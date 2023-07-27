@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,944 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,327 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 31 | [Señora de Tal](https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:09 |
 | 32 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 |
 | 33 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 |
-| 34 | [La Misma](https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Si No Te Quisiera](https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT) | 3:09 |
-| 35 | [Nos Estorbo la Ropa](https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Estatua De Marfil](https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu) | 3:04 |
+| 34 | [Nos Estorbo la Ropa](https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Estatua De Marfil](https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu) | 3:04 |
+| 35 | [La Misma](https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Si No Te Quisiera](https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT) | 3:09 |
 | 36 | [La Ruleta](https://open.spotify.com/track/1mUKGq3IMIhAIB1LZTaZt0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:01 |
 | 37 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 |
 | 38 | [No Me Hagas Menos](https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:56 |
 | 39 | [Urge](https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mientras Ustedes No Dejen De Aplaudir...](https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY) | 2:57 |
 | 40 | [A Pesar de Todo](https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:06 |
-| 41 | [Perdón \(with Alejandro Fernández\) \- Remasterizado 2005](https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:34 |
+| 41 | [El Cantador](https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 2:47 |
 | 42 | [Escuché las Golondrinas](https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:13 |
-| 43 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 |
-| 44 | [El Cantador](https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 2:47 |
+| 43 | [Perdón \(with Alejandro Fernández\) \- Remasterizado 2005](https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:34 |
+| 44 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 |
 | 45 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO) | 3:16 |
 | 46 | [Le Pese a Quien Le Pese](https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:11 |
 | 47 | [Ni En Defensa Propia](https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ni En Defensa Propia](https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [Si Te Vas No Hay Lio](https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 2:12 |
 | 50 | [La Primera Caricia](https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:43 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA3ZDM0ZjEyY2I5YzcwNzA3M2RiNzExYmM2YmRiNDI1Mw==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBjMDg1YTcxOGUxNmU0ODU1OTU0YmU4NDY0MDU2ZDYxZQ==`

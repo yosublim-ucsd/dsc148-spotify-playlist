@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,515 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,513 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 88 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MCxmODljYmE2MjBlYmU4MzE2ZjUyNTRlYThmZDJlMThiZWUxZmJkMGU1`
+Snapshot ID: `MCxlZDhhMzJjOGE3YzYyODI0MmQ5Yjk1OTkxN2E3ZmM1ZWJmOWU5NzI2`

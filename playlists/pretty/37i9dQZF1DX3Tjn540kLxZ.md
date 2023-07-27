@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > all\-day bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,427 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,497 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 149 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
 | 150 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 |
 
-Snapshot ID: `MCw4MzAzOTNmZjQwNTE5YjIzZmU1YTEyYjU1OGViZDk2MWQxMDE4MTYy`
+Snapshot ID: `MCxlOTg0NjljNjkwZTBiNmQwNGQxNTMwNmRjNmZmZGFmMzI2NTU1ZWZh`

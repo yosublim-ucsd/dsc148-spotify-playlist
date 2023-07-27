@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,040 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,102 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
 | 100 | [Los Pizzas](https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Los Pizzas](https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0) | 2:16 |
 
-Snapshot ID: `MCw4MjUwMmE3MzM5MzQ3NGI2NmU1YjZhMzg2NTlkNTI3ODI1NWI4ODA0`
+Snapshot ID: `MCxhZmJhZGQwNWIwYjgyYWI2M2NmNzYxYTk1YTU0NTE0MDdmYTM5YmQ2`

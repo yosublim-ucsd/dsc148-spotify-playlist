@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,891 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,911 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 | 99 | [Lullaby](https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a) | 2:40 |
 | 100 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
 
-Snapshot ID: `MCxlYjhlYTljMGUyNGYwZDI4YmMyNTZmYTcxZmM0NDdkZWZkZjdlMmMw`
+Snapshot ID: `MCw5YzEwYjM4NGVkNzc2N2VmOWI4NDkxODVkNDRjZjRhZjcyMWJmNjBh`

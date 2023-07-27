@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,720 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,776 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
 | 60 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 
-Snapshot ID: `MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi`
+Snapshot ID: `MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz`

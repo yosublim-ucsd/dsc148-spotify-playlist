@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,675 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,709 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
 | 100 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 |
 
-Snapshot ID: `MCxiODMxMTQ2ZWUyNjIyY2FkMTI1YWM5OTM5MTk3MzZmMGExNzA2MzIy`
+Snapshot ID: `MCw1ZDI2ZDFiYjk4Y2RmY2I5OWMxNDlkNjU4MzQ4MWQxOTljZTU4OTk1`

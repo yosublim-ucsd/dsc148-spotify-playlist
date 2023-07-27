@@ -4,7 +4,7 @@
 
 > it's just one of those days with Home Is Where.
 
-123 songs - 6 hr 47 min
+126 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 | 2023-02-11 |  |
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-11-25 | 2023-01-26 |
 | [Drink Milk and Run](https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Drink Milk and Run](https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG) | 2:50 | 2022-11-25 | 2023-03-18 |
-| [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 |  |
+| [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 | 2023-07-27 |
 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-04-14 |  |
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2022-11-25 | 2023-05-05 |
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-11-25 | 2023-05-20 |
+| [Fading](https://open.spotify.com/track/4A47nHEgN6z3BXpOdwX0Bd) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Dog Bless](https://open.spotify.com/album/6Vt0JBlyS72DFXoU0RFAud) | 2:35 | 2023-07-26 |  |
 | [Ferrari](https://open.spotify.com/track/1MpPv7wnIzfqJMdnSAnV6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Ferrari](https://open.spotify.com/album/5NAncxqbc4XMu0AOpIHYcM) | 2:25 | 2023-04-14 |  |
 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 | 2023-02-11 |  |
 | [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 | 2023-04-30 |
@@ -76,17 +77,18 @@
 | [Make It Happen](https://open.spotify.com/track/2PtUBYpj5WHsmlzLxTQslG) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Denent](https://open.spotify.com/album/0rIM5fJXyZXGL27qoaqeuu) | 3:07 | 2022-11-25 |  |
 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 | 2022-11-25 |  |
 | [Meeting In the Middle](https://open.spotify.com/track/1vxzfaU2E9ohOVQVvCKenF) | [Double Gainer](https://open.spotify.com/artist/0hHsbAgpJ0aBndZX3oVrCh) | [Such is Life](https://open.spotify.com/album/2BHVEv8oWTNCMTAwfp8Lm9) | 2:44 | 2022-11-25 |  |
-| [Million Times](https://open.spotify.com/track/6UoLnwakyaivbENQWHU7rW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:45 | 2023-02-11 |  |
+| [Million Times](https://open.spotify.com/track/6UoLnwakyaivbENQWHU7rW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:45 | 2023-02-11 | 2023-07-27 |
 | [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 | 2022-11-25 |  |
 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 | 2022-11-25 |  |
 | [Nobody Said](https://open.spotify.com/track/1TV2LRINKshQDOJnDIR2Sa) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Nobody Said](https://open.spotify.com/album/1LEtw9ajPrpReLEEao1KqP) | 3:43 | 2022-11-25 |  |
 | [not a christmas carol](https://open.spotify.com/track/4PhwBqyQ825gi1qfQKY3yN) | [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [not a christmas carol](https://open.spotify.com/album/39FakGbdymf5l7cOg9639P) | 1:12 | 2022-12-20 | 2023-04-15 |
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-11 |  |
-| [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 | 2023-05-19 |  |
+| [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 | 2023-05-19 | 2023-07-27 |
 | [October Valentine](https://open.spotify.com/track/5dzsXgBuueQO0VB5eeBbWJ) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [October Valentine](https://open.spotify.com/album/27nkQoAzmV91yIaQg3Uz5h) | 3:29 | 2022-11-25 | 2023-02-12 |
 | [one taste](https://open.spotify.com/track/3bLmCnBjjVxvpin9Pfp6G6) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [no worries](https://open.spotify.com/album/1CXDZI3XQimDSKqSqvr1h9) | 4:32 | 2022-11-25 | 2023-03-18 |
 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 | 2023-04-03 |  |
 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 | 2022-11-25 |  |
+| [Pomegranate](https://open.spotify.com/track/2WGNtRebR51HiBhW2fNIni) | [Gwuak!](https://open.spotify.com/artist/6x2H0yh7QKr6lYeFb8ieyE) | [Summertime Concrete](https://open.spotify.com/album/6CaZXFPkzaKVOkpyuLpqPD) | 3:40 | 2023-07-26 |  |
 | [Pursuit](https://open.spotify.com/track/0fvw7sVHFeK4KJ2sVtnhkM) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [Pursuit](https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd) | 2:48 | 2022-11-25 |  |
 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 | 2023-02-11 |  |
 | [Quick to Change](https://open.spotify.com/track/0giMELEPXXuYjt8zNEfeHS) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Retirement Party](https://open.spotify.com/album/2RkRj6eJxTf9DTUf2VdIBL) | 3:46 | 2022-11-25 |  |
@@ -107,6 +109,7 @@
 | [Spinning Wheel](https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN) | 3:35 | 2022-11-25 | 2023-04-30 |
 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 | 2022-11-25 |  |
 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 | 2022-11-25 |  |
+| [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-07-26 |  |
 | [Summer Clothes](https://open.spotify.com/track/3OzG6P1FoHRzbt9b6Q8nvK) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 4:00 | 2022-11-25 | 2023-04-04 |
 | [Sumter](https://open.spotify.com/track/1Kq8INivQrqF8brZgwL3J8) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [Kodak](https://open.spotify.com/album/3NyudK6fP44msAyDMlvSwk) | 3:23 | 2022-12-20 | 2023-06-17 |
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-11-25 |  |

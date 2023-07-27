@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,933 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,223 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Moonlit Ocean](https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:58 |
 | 100 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 |
 
-Snapshot ID: `MCw4NDIzNmQzNWIxOWEzOWVlZmJlNWE1ZjgxNDVjYmI3M2EyNDU5OTk2`
+Snapshot ID: `MCxiNGU0Njk4YTRjZmZlOGQ5ZTMwNWU5MzA2YjU5ZDMyYzYyN2EwZThj`

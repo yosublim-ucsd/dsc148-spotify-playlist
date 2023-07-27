@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,700 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,708 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 49 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 | 50 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 
-Snapshot ID: `MCwxOTFkZTRkZTFhZDY0OTI0NTc2NDE2ZTZjODkxZmEwMWFhMGNjNzky`
+Snapshot ID: `MCwzYjZhOWI0NjhhYzIyMzQwOWJkZmJiNzFiM2E0M2VhN2M3YzU5Yjhh`

@@ -15026,7 +15026,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 133875,
       "name": "Obsesia",
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
@@ -23616,6 +23616,24 @@
       "duration_ms": 230769,
       "name": "Wella, Wella",
       "url": "https://open.spotify.com/track/2XuMVWN6blH6sEiM0SjaFR"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,863 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,871 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Margaritena \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 13:28 |
 | 100 | [Guaracha: Convidando está la noche](https://open.spotify.com/track/7yWtDrGRJIoOhiwlo8hwyG) | [Juan Garcia de Zespedes](https://open.spotify.com/artist/3OASqyuT3uKhAehy3Ei0j7), [Andrew Lawrence\-King](https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu), [The Harp Consort](https://open.spotify.com/artist/3CEB3ot8CDIWKFzBRJvJ4n) | [Missa Mexicana](https://open.spotify.com/album/2zfgohmz9SjQkUP2aUtKL7) | 4:25 |
 
-Snapshot ID: `MCxhOGE4OWYwY2EzOGUzMGYyM2VjYjlhZWNjNTFiZGM4Yzc1MzdmZGQ1`
+Snapshot ID: `MCxkZTIwNDQxMzliNjNiNDNkMjc5YzI1Yzc3Mzg2YTAwYWNjYjEzNTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,850 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,274 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
 | 100 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
 
-Snapshot ID: `MCw3NGZhMDlhZTY3OWI3MmY0MjdmYzZkYjE3ZTcwZjY4MTEwN2MzNzIx`
+Snapshot ID: `MCw0NjQ4NzJjMzczMmZjZDEyMjAyNWFkOWJiZjJkMGJlYmI3NDAyNzgz`

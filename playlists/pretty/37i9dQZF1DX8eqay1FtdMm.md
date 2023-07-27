@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:Sunwoojunga\(선우정아\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,450 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,461 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 100 | [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 |
 
-Snapshot ID: `MCw4ZDU5OGFmM2Q1ZWU1YjBiYzFiYWNlZTQ4ODFhNzcwYTUwOTFkZGYx`
+Snapshot ID: `MCwwMzcxYWMxNTNlMTcxYTY0MjUzMzhkNmEyNjcyYmQ0NTNmNWNhNzA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,961 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,440 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 |
 | 150 | [Stupid Love](https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:13 |
 
-Snapshot ID: `MCw1YmEwZjQzODcyODI5ZTIwN2I0YmY3NWQzNTI1YTg3MjU1Zjk5NTNi`
+Snapshot ID: `MCw1Njc0N2EwYTc5YzU1ZjZiODYwOWUzODFmYTU4MzMxNzU3M2U4OGVm`

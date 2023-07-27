@@ -4,7 +4,7 @@
 
 > 
 
-126 songs - 7 hr 20 min
+128 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-27 | 2023-05-18 |
 | [Blanko](https://open.spotify.com/track/7y9ps21wLaKtpDbEPruqIc) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Blanko](https://open.spotify.com/album/148oTpJ8CmN0o0Rxl0aYAq) | 3:30 | 2022-04-04 | 2022-07-29 |
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 |  |
-| [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-06-28 |  |
+| [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-06-28 | 2023-07-27 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-04-04 |  |
 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 | 2022-04-04 | 2022-07-29 |
 | [Could I Love You Any More \(feat\. Jason Mraz\)](https://open.spotify.com/track/6TbDpqKCksZNJjriFhPum8) | [Reneé Dominique](https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Could I Love You Any More \(feat\. Jason Mraz\)](https://open.spotify.com/album/1LYpuMBu82KpTYr6fALY3G) | 3:09 | 2022-04-04 | 2022-07-29 |
@@ -102,10 +102,12 @@
 | [Once in a Lifetime](https://open.spotify.com/track/49ExR0iSivJlXcMhwXlleb) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Once In A Lifetime](https://open.spotify.com/album/5LmJO14NtbCxNlGs6iXDjv) | 4:15 | 2022-04-04 | 2022-07-29 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-04-04 | 2022-07-24 |
 | [Pagtingin](https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Pagtingin](https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz) | 3:47 | 2022-04-04 | 2022-07-29 |
+| [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-07-26 |  |
 | [Perfectly Imperfect](https://open.spotify.com/track/6UrfCXDyGaLbDVkAvuOTFS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Perfectly Imperfect](https://open.spotify.com/album/2iDrdt40iEFpT2BsjlyRSh) | 4:19 | 2022-04-04 | 2022-07-28 |
 | [Plot Twist](https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/2JYYakgDf5R0Ych28NvYkS) | 3:27 | 2022-04-04 | 2022-06-21 |
 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 | 2022-04-04 |  |
 | [Sabik](https://open.spotify.com/track/1GIYbHnooC5s66QG7lmXo7) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Sabik](https://open.spotify.com/album/0Ki5YXioifJhmtooSJ8flK) | 4:00 | 2022-04-04 | 2022-06-22 |
+| [Sandig](https://open.spotify.com/track/7I9I0ImS8CKwuUKtlpuRLM) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Sandig](https://open.spotify.com/album/7xrmiIlcsru3uWGRNeMZZn) | 3:37 | 2023-07-26 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-06-27 |  |
 | [Sigurado](https://open.spotify.com/track/4wnY5k0diSG5naOgbtCOqK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Sigurado](https://open.spotify.com/album/3acG1SpY8w8Od6dBqaHEWl) | 3:25 | 2022-04-04 | 2022-07-29 |
 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 | 2022-04-04 | 2022-07-29 |
@@ -125,7 +127,7 @@
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-11-11 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2022-06-27 |  |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2022-06-27 | 2022-11-13 |
-| [Yakap](https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Yakap](https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW) | 2:58 | 2022-09-05 |  |
+| [Yakap](https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Yakap](https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW) | 2:58 | 2022-09-05 | 2023-07-27 |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-04-04 | 2022-07-14 |
 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-06-27 |  |
 | [You Are](https://open.spotify.com/track/37JChM82iueRqLoDoNEZx7) | [Pixie Labrador](https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud), [Erin Lee](https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W) | [You Are](https://open.spotify.com/album/1Elc9QAU9OUrpl0nZSNhGc) | 5:17 | 2022-04-04 | 2022-07-29 |

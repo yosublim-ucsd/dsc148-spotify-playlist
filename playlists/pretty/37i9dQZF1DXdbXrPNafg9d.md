@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,153 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,316 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
 | 150 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 |
 
-Snapshot ID: `MCw4YmQyZmM1NmM4MGFkMjdkNDA3YzA1OTA5ZWQ5NGIxZjE0OTNjM2Ji`
+Snapshot ID: `MCxhZGRiMWE0NTA0ZmRiMWEzNDU2ZmJmMzhiZjYyYjQzMzgwNmFiN2M1`

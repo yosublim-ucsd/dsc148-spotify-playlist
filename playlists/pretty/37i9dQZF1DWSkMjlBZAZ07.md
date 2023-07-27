@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968,113 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,968,204 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 |
 | 100 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
 
-Snapshot ID: `MCw1M2EyMWVmNjZmMzdjNjBmMzFkZDMxYmQ2YjkzMDQ2MzU1NzE1YTNi`
+Snapshot ID: `MCw4NmY3M2ZlYjUzNjJlYWUxMjUwNzRlNDA3NGFkMGI2OWVmODVhNjBh`

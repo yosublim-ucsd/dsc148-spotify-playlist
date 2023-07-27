@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Fantasma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,591 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,686 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 |
 | 125 | [Somos O No Somos](https://open.spotify.com/track/5NQbEl9mL00xD2uN5T0qsx) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Somos O No Somos](https://open.spotify.com/album/5qZ5iEC25heBt5NQpDHHQM) | 3:29 |
 
-Snapshot ID: `MCxlNDZlN2IzZDY0N2EyNjdmMGZjY2VkODliZWY0MWIwMzA3ZTgxNjBi`
+Snapshot ID: `MCwyY2YzMWFiMWU4MzAzMWY3ODhlOTg3MTVjNWRlNzg5M2QwNGRhNTIz`

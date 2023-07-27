@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Alan Jackson's classic hit "Chattahoochee" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,641,752 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642,716 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 149 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 | 150 | [455 Rocket](https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Love Travels](https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m) | 4:09 |
 
-Snapshot ID: `MCw2OWE4Yzc4OWExYzNiOTg3NDNjMzM3NTM5ZmE4NGUwZDU1YzBjODY1`
+Snapshot ID: `MCxiZTk5OTI5NWEyN2YzZTZkNjlhNTEwMzMxOTdhNWYwMGU0ZDQ3ZGM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,899 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,943 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
 | 100 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
 
-Snapshot ID: `MCxkNjc5ZGY3MzQ3NDQ2YTU0YjVlYjM5NmFjMGFiZmU3NTUwN2M4YzUy`
+Snapshot ID: `MCwxZTk4YjE2MzgxYWI0OWQxZDhkMDg2M2Q0ZTA2ZWMyYjRkNDgxNTkz`

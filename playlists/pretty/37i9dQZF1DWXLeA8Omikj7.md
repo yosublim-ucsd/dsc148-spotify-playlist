@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,658,920 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,659,242 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 |
 | 100 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 |
 
-Snapshot ID: `MCw5ZDc5YzVmODE3MGI4MDA2MDIxYjEyOWViNTQ2NjQxMDBhODJhM2Zk`
+Snapshot ID: `MCxlMmJjYWZhZjcyYjUzYjdkYzVkMTM5ODUwZGUxNzA5ZjA1Y2ZhMWRj`

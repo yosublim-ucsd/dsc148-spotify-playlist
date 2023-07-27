@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-109 songs - 4 hr 58 min
+111 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Land of Nod](https://open.spotify.com/track/2JPHEhGQapKdUcLh80Pjvl) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:12 | 2022-03-11 |  |
 | [Landslide](https://open.spotify.com/track/7LZkMzyslPJIhDMGnBFPty) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:41 | 2022-03-11 |  |
 | [Lavender's Blue](https://open.spotify.com/track/20sVIRIKo0vWNLpBuT614r) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:34 | 2022-03-11 |  |
-| [Little Wolf](https://open.spotify.com/track/734CJLcXhKp8jYtH9iiZJS) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Wolf](https://open.spotify.com/album/3YxqL2SOtXUZul9xFUJ5jr) | 2:28 | 2022-03-11 |  |
+| [Little Wolf](https://open.spotify.com/track/0kAiYfl3K5BwOkSkIzmagz) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Beets](https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET) | 2:28 | 2023-05-05 |  |
+| [Little Wolf](https://open.spotify.com/track/734CJLcXhKp8jYtH9iiZJS) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Wolf](https://open.spotify.com/album/3YxqL2SOtXUZul9xFUJ5jr) | 2:28 | 2022-03-11 | 2023-07-27 |
 | [Lullaby](https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 5:50 | 2022-03-11 |  |
 | [Lullaby Time](https://open.spotify.com/track/20ygFVMqTk7iMTz6DfkcuC) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/3P0s8jrqf4TSH4A3i9BRcw) | 3:41 | 2022-03-11 | 2022-07-29 |
 | [Lullaby Time](https://open.spotify.com/track/3qzI1bsZGTumdSD52IHadr) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/1OCNGLYFe7hRnkprYd3wtS) | 3:41 | 2023-03-17 |  |
@@ -111,7 +112,8 @@
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/4SSSrOH03iDsZHuexC1VIK) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [11 Nursery Rhymes and Songs](https://open.spotify.com/album/7w3Zc13sMNpB8LNEv8Km39) | 1:06 | 2022-03-11 |  |
 | [Watch the Stars](https://open.spotify.com/track/2N4u8eLwpAhTvJvmoQmG2Z) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Relaxing Music for Children](https://open.spotify.com/album/4iZ1n5HfNcRgzgbKqrroso) | 2:20 | 2022-03-11 |  |
 | [What a Wonderful World](https://open.spotify.com/track/4JlWuaAEZss5M4nEGkSJXJ) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 3:16 | 2022-03-11 |  |
-| [Who Is Sleepy Now?](https://open.spotify.com/track/1pMK2po6HUUw9qSCBkizso) | [Kiri and Lou](https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm), [Rima Te Wiata](https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b) | [Kiri and Lou Singalongsongs](https://open.spotify.com/album/0d6wsRrnj100hjkM1LsBhI) | 2:16 | 2022-03-11 |  |
+| [Who Is Sleepy Now?](https://open.spotify.com/track/1pMK2po6HUUw9qSCBkizso) | [Kiri and Lou](https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm), [Rima Te Wiata](https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b) | [Kiri and Lou Singalongsongs](https://open.spotify.com/album/0d6wsRrnj100hjkM1LsBhI) | 2:16 | 2022-03-11 | 2023-07-27 |
+| [Who Is Sleepy Now?](https://open.spotify.com/track/7L7bTMEXxXxgOzX8nJmLbk) | [Kiri and Lou](https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm), [Rima Te Wiata](https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b) | [Kiri and Lou Singalongsongs](https://open.spotify.com/album/7t3ycH3UhcWwVgtEdnQn5P) | 2:16 | 2023-05-05 |  |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2022-03-11 |  |
 | [you are my sunshine](https://open.spotify.com/track/4cNpO3kF8rqcH8G3huFCJp) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for carmella: lullabies & sing\-a\-longs](https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3) | 1:22 | 2022-03-11 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/0tIwgdXaGSp9rYvjVNAoP7) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M) | 2:16 | 2022-03-11 |  |

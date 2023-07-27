@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,987 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,076 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 | 50 | [Chhote Chhote Peg](https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Navraj Hans](https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:23 |
 
-Snapshot ID: `MCwwYmY0ZTZlN2E0MjQ1YjU2MTA3Mzk0N2ZlMTA1MGFhYmM4NzRjMWU3`
+Snapshot ID: `MCxiM2Q4ZTQwYjYyMjhlYjQwMmM0ZTU0Yzk2MTk1MjAzZDhmNDA1YzNh`

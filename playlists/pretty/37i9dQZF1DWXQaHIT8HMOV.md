@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 50 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
 
-Snapshot ID: `MCxmNjEwY2IyZWZkMTU2NzZkOWQ0NWE5ZmM0YTNiMTBhMzAwOGVlZTll`
+Snapshot ID: `MCw3ZGM5ZWUwMzc1YzE3NzI1YjA3ZGEwMzYwNzI0NzlhYzk5NDdjMGI0`

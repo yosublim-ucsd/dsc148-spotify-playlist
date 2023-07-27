@@ -3776,10 +3776,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 178500,
       "name": "Disco Hadas",
       "url": "https://open.spotify.com/track/3k535qr8YnvxStuuHGb9CX"
+    },
+    {
+      "album": {
+        "name": "Disco Hadas",
+        "url": "https://open.spotify.com/album/5FjbAicZSNPQJDSAqtimy8"
+      },
+      "artists": [
+        {
+          "name": "Lunastasia",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Disco Hadas",
+      "url": "https://open.spotify.com/track/6CgPa2pjPnG6tKSprkPOhJ"
     },
     {
       "album": {

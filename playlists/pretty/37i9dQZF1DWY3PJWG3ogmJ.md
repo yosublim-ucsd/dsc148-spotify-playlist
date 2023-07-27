@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,740 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,064 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 120 | [Protector](https://open.spotify.com/track/6upsBSeTbXQqJzN67uG5Ie) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth and Sacrifice](https://open.spotify.com/album/4L3BnmC12YtCM7B4WrCM6M) | 5:21 |
 
-Snapshot ID: `MCxlMDQwZjM5NDA3YTZjOGFmMGI2ODVhZTY3MDFlZDUxOWFhM2YxYjZm`
+Snapshot ID: `MCwzM2ViNTQ1MmFjMGJiOTljMDY3YmQ4NjQwNGQ3NzM1YmMwNmY4NDdh`

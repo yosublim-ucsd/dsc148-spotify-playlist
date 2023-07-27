@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,791 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,784 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/69XQyaA4a4cL5iXUtc41V3) | [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Stand By Me](https://open.spotify.com/album/4YvHeV5DGFgxp5sACJ56Kg) | 4:08 |
 | 80 | [In the Bleak Midwinter](https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In the Bleak Midwinter](https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK) | 3:23 |
 
-Snapshot ID: `MCxlZjJjYmVlYjJjMTM0NWYzNWQ1YTgxZmI4MTY5MTQ2N2U1ODJkYzg0`
+Snapshot ID: `MCxjNTgwMDdlMWZiODA3OWZhYTYyYzYxNWU5NzQzNTY0NGIyMjM2ZTgy`

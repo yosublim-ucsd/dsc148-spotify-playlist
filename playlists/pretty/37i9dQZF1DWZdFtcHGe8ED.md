@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,316 likes - 120 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,412 likes - 120 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 |
 | 120 | [The Last Rager](https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Last Rager](https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU) | 3:15 |
 
-Snapshot ID: `MCw1OWU0N2NlOTExNzVlNjg4ZGQwNmQxZGNjYzU2OTRlY2VjNzQ3YmU5`
+Snapshot ID: `MCwzMWRiYTBiMzc1NDc5NWNjNDMzODEwODBkNTA0OWMxZTNiMzM1ZjM5`

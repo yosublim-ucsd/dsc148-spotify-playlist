@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Sebastián Yatra, Manuel Turizo y Beéle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,509 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,016 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 99 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
 | 100 | [La Playa](https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Playa](https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz) | 3:27 |
 
-Snapshot ID: `MCxkYjgyODAwMDM0ZWEyNWZmMDlmMWZhMThjOTIyMmJjZjM1MDdhN2Nm`
+Snapshot ID: `MCxmMjgyZDJiYTVjMDNiNDQ2NDQ1ZmZiYWQ5YzYyNjc3ZjZkNTg3OWVj`

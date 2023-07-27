@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,042 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,030 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 |
 | 150 | [Jesus Is Alive](https://open.spotify.com/track/2yn5jZqkkHu7lQ7YE14N32) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Noel](https://open.spotify.com/album/0fOV4DUZwtScuGK8Y2AOm4) | 3:42 |
 
-Snapshot ID: `MCxlYjU5MTUzZDJiMzQyYWQyMTE0ZDY1YzFiNmMzZDI0YWZiMTI4MWIx`
+Snapshot ID: `MCwxMWFmMjhkYjc5OGU3Y2Q5YzUwYjg0OGQ5NGVmMDAwNzVkNzE2NGY2`

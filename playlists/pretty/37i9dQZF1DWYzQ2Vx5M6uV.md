@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Kizz Daniel & Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,709 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,754 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 |
 | 70 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 
-Snapshot ID: `MCw5MTc5OTE0MTY1MzQyMGM5ZDFiNGY1NzU4ZGM2ZDQ5ZDQyOTE0OWQ5`
+Snapshot ID: `MCw0YjllMmI1NmJhMWI2OTU0OGJlOWM4MTU1NzIzODY0YmQ2MzgzMzdl`

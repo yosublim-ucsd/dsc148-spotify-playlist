@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,547 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,603 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 38 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
 | 39 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 |
 | 40 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
-| 41 | [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 |
+| 41 | [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 |
 | 42 | [Paar Laaye](https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Paar Laaye](https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp) | 3:00 |
 | 43 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 |
 | 44 | [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 65 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
 | 66 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
 | 67 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 68 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 |
+| 68 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 |
 | 69 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
 | 70 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
 | 71 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
 | 75 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 
-Snapshot ID: `MCw2Yjk3NTE5MTZlYzMyZGE5MDUyMmQ1YmYxODhjODRkZTM1ZGRlZDNl`
+Snapshot ID: `MCw3NWQwNGQyYTVmYzAwZmUzMDFkYmZiZWI4OGJiZDU0NGExYWEyMGNi`

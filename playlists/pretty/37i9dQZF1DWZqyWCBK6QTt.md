@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,949 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,061 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 |
 | 150 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 
-Snapshot ID: `MCw5OGQ2ODkxOTlkMDE4OWVlNjk0NDljN2YzOWQ3Nzk4NWZmYjQ0YWRj`
+Snapshot ID: `MCw1Zjc5YWZiNGVkZDZjYzkzMzNlZDEwNzJjMGFjNjcwYzk1YjRkOGFl`

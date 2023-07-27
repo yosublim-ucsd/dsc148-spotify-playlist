@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=oEXGZ\_\-qTYKMlpPOtq4KwQ">Travis Scott</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 52 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,798 likes - 52 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 51 | [Khuleka \(feat\. Basetsana\)](https://open.spotify.com/track/79RDaYRDCywyMiO0oHG2Qz) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [Basetsana](https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe) | [Khuleka \(feat\. Basetsana\)](https://open.spotify.com/album/06Oe3930ELCPxOPDB04dwK) | 6:03 |
 | 52 | [Nzimeni](https://open.spotify.com/track/454QUpNwhWUMDL8zOtb5iB) | [Iyane Jamdong](https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o), [B33Kay SA](https://open.spotify.com/artist/3JnGUDpLOhd0VXPUSv6j1R) | [Nzimeni](https://open.spotify.com/album/6mkMActIwzIj60BZ1Rr13J) | 6:49 |
 
-Snapshot ID: `MCwwYTg0OTlhYzIzNzcyZjgzZjcwMjlkM2FiYzcyOWM3NzczNDk0NTRj`
+Snapshot ID: `MCw1NGMwNTFkN2VhZTQzZTYxNjA2YWIzOGExZjRjMGFmYmZiZjJhMWQ5`

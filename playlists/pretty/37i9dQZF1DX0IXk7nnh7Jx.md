@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,803 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,875 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Jesus can Save them All](https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R) | [Make a Joyful Noisee](https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM) | [Jesus can Save them All](https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu) | 4:33 |
 | 150 | [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 |
 
-Snapshot ID: `MCwzNTQxNWM0M2Y2Y2MzMmNlMWJhM2U0MGZiZDcyYWE0NjU2MTJjMjFm`
+Snapshot ID: `MCw4NTM4ODM3YzJmN2UxMWMxOTdiNjIxZmY4ZTk2ZTU1MTcyZWUzNTc5`

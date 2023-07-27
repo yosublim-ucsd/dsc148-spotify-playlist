@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 14 songs - 21 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 14 songs - 21 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You're Gloating](https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:06 |
-| 2 | [La Cajita de Música](https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:10 |
-| 3 | [Godless Main Theme](https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:02 |
+| 2 | [Godless Main Theme](https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:02 |
+| 3 | [La Cajita de Música](https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:10 |
 | 4 | [Arrival to School](https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Just Beyond \(Original Soundtrack\)](https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1) | 1:18 |
 | 5 | [Methuen Home For Children 1957](https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:14 |
 | 6 | [Thirty Horses](https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:46 |
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 13 | [First Day At School](https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 14 | [Blackdom](https://open.spotify.com/track/2IK8rm1hS9aR3d1WGYUaGQ) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:12 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBlMjEwM2RjYTExYzlmNjc3OGY1YjljZDIxMDIxOGExMQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBiMTBmZjdmMTVjNDdlYjIwY2QzMGFlNTFmN2FjZDU3YQ==`

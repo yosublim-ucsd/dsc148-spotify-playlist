@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,428 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,430 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 66 | [永遠ループ](https://open.spotify.com/track/0PJarEtcj3Y1bXIfXuNPhV) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [永遠ループ](https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9) | 3:49 |
 | 67 | [モノクロテリトリー](https://open.spotify.com/track/674HuEkHdVdCPkO17gKm7v) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [I AM](https://open.spotify.com/album/2eXUKFA6g3j2iOu6Vqobof) | 3:41 |
 | 68 | [名探偵キミに告ぐ](https://open.spotify.com/track/5n0H5LeVakrCSPBBPHY3kW) | [えなこ](https://open.spotify.com/artist/2jHLZmPoAmnlCswCMc8WCj) | [ドレス・レ・コード](https://open.spotify.com/album/3NBghE3iWLQfRZG4f8HkVN) | 4:02 |
-| 69 | [BOYA'S DREAM](https://open.spotify.com/track/18c1fBSVo077DkZMBJJv8v) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD” CHRACTER SONG ALBUM](https://open.spotify.com/album/4NVxZh19NZn5YvC7DhLh9w) | 3:29 |
+| 69 | [ぼうやの夢よ](https://open.spotify.com/track/3jX2OAfBOxRybA7t0GcdBQ) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」](https://open.spotify.com/album/7BVqQT1IFgaSMxfDk4YFMu) | 3:30 |
 | 70 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 |
 | 71 | [ベイビーミュージックライダー](https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/0ipn4KbD0P64UOX7FfG97T) | 3:48 |
 | 72 | [ボーダーライン](https://open.spotify.com/track/23tAqSb0rt35fs2afloqwH) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [ボーダーライン](https://open.spotify.com/album/0Dgj7OW90dReXbfCDFW3Cq) | 4:48 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 77 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 78 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCxiYTAxMzk1MGRmOTlkMmE1Yzc3OWU3OGM4MjMzZmZjMTAzZGVlMDY1`
+Snapshot ID: `MCw0YTJmZGQ2NWQxM2QyZmU4YTZhYjBkYzIyN2RlODgzM2M4MGE2NThi`

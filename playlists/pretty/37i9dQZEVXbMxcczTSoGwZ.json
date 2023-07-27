@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 142462,
+  "num_followers": 142529,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQzNjUwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQzNzM2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "BLONDINA",
         "url": "https://open.spotify.com/album/24IjEbb9JyuBNHDYdjJ8KM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Allstar (feat. ibe)",
         "url": "https://open.spotify.com/album/6wyZ9WblNTfN4LGHcsg7cf"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6NSjIm8OZLsjcJQgUdsGNr"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "T\u00c4YDELLINEN AJOITUS",
         "url": "https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "J\u00e4lkeek\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Ennen vanhaan",
         "url": "https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Viimeinen tanssi",
         "url": "https://open.spotify.com/album/4in73tSouBxV3pESwjLT5M"
@@ -133,27 +149,23 @@
       "url": "https://open.spotify.com/track/39yHmPnviyu4dxSqMU9SQ7"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "Taiteilijael\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6D1XhJr47eKtF0og4rv380"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        },
-        {
-          "name": "VilleGalle",
-          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 192192,
-      "name": "Taiteilijael\u00e4m\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/3lEjNgLQHxbHxqjtSzTgZQ"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Missaat Mut",
         "url": "https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y"
@@ -173,7 +185,27 @@
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Taiteilijael\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6D1XhJr47eKtF0og4rv380"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "VilleGalle",
+          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+        }
+      ],
+      "duration_ms": 192192,
+      "name": "Taiteilijael\u00e4m\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/3lEjNgLQHxbHxqjtSzTgZQ"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Maailman ymp\u00e4ri",
         "url": "https://open.spotify.com/album/67M8Jo4mQLi5T79mDCgdOO"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -209,7 +241,55 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Meit ei oo",
+        "url": "https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "Meit ei oo",
+      "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/3dt9Fr71O9wDXqCmkJcyj7"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "VYYHTI (ettiny aitoo rakkaut)",
+      "url": "https://open.spotify.com/track/40uSGkDj9YubrDIihc28Ar"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Stadin puistot (feat. AHTI)",
         "url": "https://open.spotify.com/album/2UG0q8ZsvuUp8xTgF92LlF"
@@ -229,39 +309,7 @@
       "url": "https://open.spotify.com/track/5Om2bI3bo28V7XKvDHYy7d"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "W",
-        "url": "https://open.spotify.com/album/3dt9Fr71O9wDXqCmkJcyj7"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "VYYHTI (ettiny aitoo rakkaut)",
-      "url": "https://open.spotify.com/track/40uSGkDj9YubrDIihc28Ar"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Meit ei oo",
-        "url": "https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "Meit ei oo",
-      "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -277,7 +325,7 @@
       "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Oisko t\u00e4\u00e4 t\u00e4s / Popinpelko",
         "url": "https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3"
@@ -293,63 +341,7 @@
       "url": "https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 183806,
-      "name": "Tulipalo",
-      "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "CITYBOY",
-        "url": "https://open.spotify.com/album/1YFMx0DEEElb3LVQZW38Sn"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 181741,
-      "name": "CITYBOY",
-      "url": "https://open.spotify.com/track/6ie36ZZnVBzZgkdfghyRQ7"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
-        "url": "https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw"
-      },
-      "artists": [
-        {
-          "name": "Aste",
-          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
-        },
-        {
-          "name": "Diandra",
-          "url": "https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg"
-        }
-      ],
-      "duration_ms": 163818,
-      "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
-      "url": "https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -373,7 +365,99 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Hyvikset ja pahikset",
+        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 183806,
+      "name": "Tulipalo",
+      "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
+        "url": "https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "Diandra",
+          "url": "https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg"
+        }
+      ],
+      "duration_ms": 163818,
+      "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
+      "url": "https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "CITYBOY",
+        "url": "https://open.spotify.com/album/1YFMx0DEEElb3LVQZW38Sn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 181741,
+      "name": "CITYBOY",
+      "url": "https://open.spotify.com/track/6ie36ZZnVBzZgkdfghyRQ7"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 209677,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Mun vuoro safkaa",
         "url": "https://open.spotify.com/album/4KBCSMJLiQ9ludgYLnM3c8"
@@ -393,23 +477,23 @@
       "url": "https://open.spotify.com/track/6zhLlmtn6i50OrcAwg1bNN"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
+        "name": "Missio",
+        "url": "https://open.spotify.com/album/6pB7OMHEokYJd58ZndnYxZ"
       },
       "artists": [
         {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
         }
       ],
-      "duration_ms": 209677,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
+      "duration_ms": 159545,
+      "name": "Missio",
+      "url": "https://open.spotify.com/track/1mhmASpuZz5ideIXmL3cvC"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Onnellinen",
         "url": "https://open.spotify.com/album/69WNFlAX1YidDaMfZcAYUh"
@@ -429,7 +513,23 @@
       "url": "https://open.spotify.com/track/6ijRGBGzjwl5pyBVUIfXWL"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -449,39 +549,27 @@
       "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
           "name": "Coldplay",
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Missio",
-        "url": "https://open.spotify.com/album/6pB7OMHEokYJd58ZndnYxZ"
-      },
-      "artists": [
+        },
         {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 159545,
-      "name": "Missio",
-      "url": "https://open.spotify.com/track/1mhmASpuZz5ideIXmL3cvC"
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Missi",
         "url": "https://open.spotify.com/album/2628OwDoTqFostXfTK7qMy"
@@ -501,27 +589,23 @@
       "url": "https://open.spotify.com/track/428rSbzZ0AnBMpzyQRW4uE"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Phimi",
-          "url": "https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk"
-        },
-        {
-          "name": "Jokrates",
-          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 143739,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Vastustaa",
         "url": "https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq"
@@ -537,23 +621,7 @@
       "url": "https://open.spotify.com/track/2lvCRioElAZPAgqWCV9a1S"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "REDFLAG",
-        "url": "https://open.spotify.com/album/5uXfQMfUzpz43I33ErQV9L"
-      },
-      "artists": [
-        {
-          "name": "TUULI",
-          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
-        }
-      ],
-      "duration_ms": 147162,
-      "name": "REDFLAG",
-      "url": "https://open.spotify.com/track/2vRXnE2BH566tbMfH6ODgn"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Kolmistaan",
         "url": "https://open.spotify.com/album/26uQK54WF0ytWCxArs8s4u"
@@ -573,7 +641,23 @@
       "url": "https://open.spotify.com/track/3hzDqJj72N3vdBNhIWUidZ"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/5A08KO5fJwvmoO4PJqTNVa"
@@ -593,23 +677,59 @@
       "url": "https://open.spotify.com/track/40eyckMRTkS5t6lIsNVJIi"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Phimi",
+          "url": "https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk"
+        },
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 143739,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "REDFLAG",
+        "url": "https://open.spotify.com/album/5uXfQMfUzpz43I33ErQV9L"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "duration_ms": 147162,
+      "name": "REDFLAG",
+      "url": "https://open.spotify.com/track/2vRXnE2BH566tbMfH6ODgn"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Mit\u00e4 n\u00e4il korteil saa?",
         "url": "https://open.spotify.com/album/0XYmeUpDHYmWBz0SGXEKPE"
@@ -629,23 +749,23 @@
       "url": "https://open.spotify.com/track/00HzPyMHUN8aafKYCia7VQ"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Hyvikset ja pahikset",
+        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 147811,
+      "name": "Anna mulle mit\u00e4 vaan",
+      "url": "https://open.spotify.com/track/2hCsRJpmsetg49AXeyhuAN"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "K\u00e4vi Miten K\u00e4vi",
         "url": "https://open.spotify.com/album/7Fz2E3SM0ikOMkzKCbeZO0"
@@ -665,55 +785,7 @@
       "url": "https://open.spotify.com/track/0y0FKZsyh3vtqVGpDKr8oJ"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Melodia",
-        "url": "https://open.spotify.com/album/7lYFSt38dTxG8HnJuiYBNj"
-      },
-      "artists": [
-        {
-          "name": "Fabe",
-          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/5HNCbOWhhPNHzZIPyNx1GN"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 147811,
-      "name": "Anna mulle mit\u00e4 vaan",
-      "url": "https://open.spotify.com/track/2hCsRJpmsetg49AXeyhuAN"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 218473,
-      "name": "Vastustamaton",
-      "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d"
@@ -729,7 +801,23 @@
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/7lYFSt38dTxG8HnJuiYBNj"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/5HNCbOWhhPNHzZIPyNx1GN"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Viimeisi\u00e4 sanoja",
         "url": "https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0"
@@ -745,7 +833,39 @@
       "url": "https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "Vastustamaton",
+        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 218473,
+      "name": "Vastustamaton",
+      "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "Puhu pahaa",
         "url": "https://open.spotify.com/album/3g7uT2PjCsbLGKMRkPSqpS"
@@ -761,7 +881,7 @@
       "url": "https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq"
     },
     {
-      "added_at": "2023-07-25 09:36:13",
+      "added_at": "2023-07-26 08:59:14",
       "album": {
         "name": "PARTYBOY",
         "url": "https://open.spotify.com/album/0IFu8OkgmQOVWM0yXu2X0h"
@@ -779,134 +899,6 @@
       "duration_ms": 161476,
       "name": "PARTYBOY",
       "url": "https://open.spotify.com/track/2ZJ50ZqUlqFnva0hCvmWkh"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "K\u00e4vi Miten K\u00e4vi",
-        "url": "https://open.spotify.com/album/7Fz2E3SM0ikOMkzKCbeZO0"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 168105,
-      "name": "Vielki Hereill\u00e4",
-      "url": "https://open.spotify.com/track/1rHtC8primXdUUxASuRqxJ"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "K-POP (Chopped & Screwed)",
-        "url": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Anteeks",
-        "url": "https://open.spotify.com/album/5NsOArM94dVoYQzE62hluU"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Anteeks",
-      "url": "https://open.spotify.com/track/5nawVr53Lj9JMQ2OcvrCSS"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Kauemmas",
-        "url": "https://open.spotify.com/album/1RwarNgICtwirnl65jNkyG"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        },
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 192030,
-      "name": "Kauemmas",
-      "url": "https://open.spotify.com/track/6KE32hoeVholHEoGeSoWQ5"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-07-25 09:36:13",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     }
   ],
   "unique_name": "Top 50 - Finland",

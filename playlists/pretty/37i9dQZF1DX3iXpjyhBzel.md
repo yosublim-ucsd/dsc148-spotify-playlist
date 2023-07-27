@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Isaias Saad, Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,200 likes - 100 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,731 likes - 100 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Eu Amo a Tua Glória \- Ao Vivo](https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Eu Amo a Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca) | 8:58 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCxiNDEyYWRmODY1MTVjZTBjM2ZiOTJmODY5M2Q2NzcxZTdiZWE3YmYy`
+Snapshot ID: `MCwxMmZiNTQ1MDU3M2QyZGJhNTJlNWRlZjljZGNjMTg2NmY5YjZmYzUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,983 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,154 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 |
 | 80 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 
-Snapshot ID: `MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm`
+Snapshot ID: `MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0`

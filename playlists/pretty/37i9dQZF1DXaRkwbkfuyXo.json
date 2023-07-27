@@ -1,12 +1,12 @@
 {
   "description": "Seguimos arremangados, pariente. Voz de Mando en portada.",
-  "num_followers": 209741,
+  "num_followers": 209920,
   "original_name": "Corridos Alterados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2JlOWNlZjFkNjFhYzY3OTA1ODkzNjAxYTAwYzBmNjdmZTdmZGUw",
+  "snapshot_id": "MCwwMjAzNDI5OWIwODQ0Y2MyMGY2OTliNTY5MmY1OWJhYTFjMjY3Mjc2",
   "tracks": [
     {
       "added_at": "2023-02-23 23:02:04",
@@ -155,10 +155,14 @@
     {
       "added_at": "2023-02-23 23:02:04",
       "album": {
-        "name": "El Abogado del Diablo",
+        "name": "El Abogado Del Diablo",
         "url": "https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3"
       },
       "artists": [
+        {
+          "name": "Los Mayitos De Sinaloa",
+          "url": "https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R"
+        },
         {
           "name": "El Movimiento Alterado",
           "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
@@ -239,18 +243,18 @@
     {
       "added_at": "2023-02-23 23:02:04",
       "album": {
-        "name": "Los Reyes del Movimiento Alterado",
-        "url": "https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU"
+        "name": "Carteles Unidos",
+        "url": "https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr"
       },
       "artists": [
         {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 190694,
+      "duration_ms": 188653,
       "name": "El Mini 6",
-      "url": "https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR"
+      "url": "https://open.spotify.com/track/7zb0RmTywqI6Y4ErGctRIw"
     },
     {
       "added_at": "2023-02-23 23:02:04",

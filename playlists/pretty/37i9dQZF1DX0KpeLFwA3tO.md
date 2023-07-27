@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,836 likes - 125 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,974 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 |
 | 125 | [Spunky!](https://open.spotify.com/track/5grysZI4yqvJC0cpahuMsw) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:10 |
 
-Snapshot ID: `MCxkNTJlM2I3MzIxMzMxMWY4ZGMzMjE4NTc1MjQ1MmIwMzRiMTRkODk2`
+Snapshot ID: `MCw0NmIwZDI4ZTRmOTU1YTM3NTIyMGE3NWNkNzcyYmI3NDNiMGJlMmIw`

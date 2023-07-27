@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,257 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,437 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 100 | [Leave While I Love You](https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:35 |
 
-Snapshot ID: `MCwyMGU0NTM3Yjk3ZTlkNTlmZGMzMWNmYWE2YWE1NTJjNjdmOGY1NmI3`
+Snapshot ID: `MCxkNGZmMzBkYjE3MTMwY2ZjN2JlNTdlYTUyYTc4ZjA0MDg2MjU0NGZi`

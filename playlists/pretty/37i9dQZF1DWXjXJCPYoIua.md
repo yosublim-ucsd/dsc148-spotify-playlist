@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,097 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,218 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 100 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 
-Snapshot ID: `MCw4N2YzMzBhM2I5Y2QwODk3YWRjMDhlZjYzYjAyMjY4Y2FjOTgwZGUw`
+Snapshot ID: `MCwyNDY4ZWQ1Zjg5NjM2ODg4YzI2OTI5NmI3NGI4ZDQ3YmQzYjQ4ZTFl`

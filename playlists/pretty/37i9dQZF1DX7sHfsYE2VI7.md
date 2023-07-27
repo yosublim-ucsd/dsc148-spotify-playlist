@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,738 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,778 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [Hearts On Fire](https://open.spotify.com/track/0pAisVoZ7Gybjvm0q7AoVu) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:52 |
 | 70 | [Dance](https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 4:34 |
 
-Snapshot ID: `MCw2YWU5Y2EyMzI1ZWE1YTZjMjI3YTA5ZDMxMTgyYzhhMzdhYjgyMjBh`
+Snapshot ID: `MCwxYjFkMTAyOGIwMzQ0OGIzOTk4NTdhODk0NTA3NGIzNDQ3OTIxMTEx`

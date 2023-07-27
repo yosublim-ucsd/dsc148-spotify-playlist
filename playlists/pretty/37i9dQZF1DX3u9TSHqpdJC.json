@@ -1,13 +1,61 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Liza",
-  "num_followers": 190282,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Becca Means",
+  "num_followers": 190511,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGEzODczMWVkZjAzZmI1ZTI5ODVkYzBiZTJiMzE4ZDQ4YWRlYTA0",
+  "snapshot_id": "MCw1NThkMTZmMDJjY2U0MWY1YTMzY2FkY2IxZmRjYzYwODdkMGNhOWM4",
   "tracks": [
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7H32JaaOOh8at7JHAa3Zop"
+      },
+      "artists": [
+        {
+          "name": "Becca Means",
+          "url": "https://open.spotify.com/artist/0FaN4MDBVEPsd96Z7Tx6il"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1CXmvVb4ksUFjOTHf13kZE"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 237442,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/1w1P5YCsV41XnFSXdI3cR7"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/7fBaNlnSHF2pBGC0fRiODc"
+    },
     {
       "added_at": "2023-07-12 13:07:57",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 127963,
       "name": "BF",
       "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "When The Lights Are Low",
+        "url": "https://open.spotify.com/album/6FwghZNwWMnTcKRLNOsz3T"
+      },
+      "artists": [
+        {
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "When The Lights Are Low",
+      "url": "https://open.spotify.com/track/0nqYSy8jZOARJs42mbQwI1"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "Pick up",
+        "url": "https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "duration_ms": 123192,
+      "name": "Pick up",
+      "url": "https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -41,20 +121,68 @@
       "url": "https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd"
     },
     {
-      "added_at": "2023-07-19 04:00:00",
+      "added_at": "2023-07-26 04:20:33",
       "album": {
-        "name": "Hungover",
-        "url": "https://open.spotify.com/album/3YP0m6tUpmP9Gtlf9TpUSr"
+        "name": "05 BABY",
+        "url": "https://open.spotify.com/album/6Pd9tM4Nr1rkcLN5MVnhMo"
       },
       "artists": [
         {
-          "name": "Wiley Beckett",
-          "url": "https://open.spotify.com/artist/6LEn9GuuJittj0IYppAYrr"
+          "name": "Zia Victoria",
+          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
         }
       ],
-      "duration_ms": 164532,
-      "name": "Hungover",
-      "url": "https://open.spotify.com/track/6InUsU3gQ6TF30X36vYSYa"
+      "duration_ms": 162000,
+      "name": "'05 Baby",
+      "url": "https://open.spotify.com/track/1x8MWKaB3xsGeHEGZiEYRo"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "love me again",
+        "url": "https://open.spotify.com/album/3b1HdOiqWie6IbB1cBP6Rm"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "love me again",
+      "url": "https://open.spotify.com/track/6FoMH5sC7aihUaIgqs6RDf"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/3EEBiBdTon8zRDcWI30LPo"
+      },
+      "artists": [
+        {
+          "name": "Nicolina",
+          "url": "https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/7DpgZ3lHeulnpPPoSSLkqt"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "I Lose Myself",
+        "url": "https://open.spotify.com/album/39jsDl0ICM5hHxEcsAnIKz"
+      },
+      "artists": [
+        {
+          "name": "Lapel",
+          "url": "https://open.spotify.com/artist/1dozDkgbdE5Gfmbp9pc6on"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "I Lose Myself",
+      "url": "https://open.spotify.com/track/2qxFXCI882tcXWlE9SsoNS"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -71,6 +199,38 @@
       "duration_ms": 172031,
       "name": "Sage",
       "url": "https://open.spotify.com/track/538NTj2XofLaddz3jCm6Vh"
+    },
+    {
+      "added_at": "2023-07-26 04:20:33",
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/73YcUgrtq6cTJCpzKX2j8M"
+      },
+      "artists": [
+        {
+          "name": "Ill-Advised Poetry",
+          "url": "https://open.spotify.com/artist/5em4SmOHAGPa7WSdW2Cw7H"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/4FiePLBzqvTQax2B8qz4M2"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Hungover",
+        "url": "https://open.spotify.com/album/3YP0m6tUpmP9Gtlf9TpUSr"
+      },
+      "artists": [
+        {
+          "name": "Wiley Beckett",
+          "url": "https://open.spotify.com/artist/6LEn9GuuJittj0IYppAYrr"
+        }
+      ],
+      "duration_ms": 164532,
+      "name": "Hungover",
+      "url": "https://open.spotify.com/track/6InUsU3gQ6TF30X36vYSYa"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -119,22 +279,6 @@
       "duration_ms": 204895,
       "name": "HOPE U CRY",
       "url": "https://open.spotify.com/track/7aAdENPSgCLi9QBldQoep6"
-    },
-    {
-      "added_at": "2023-07-12 13:07:57",
-      "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/3EEBiBdTon8zRDcWI30LPo"
-      },
-      "artists": [
-        {
-          "name": "Nicolina",
-          "url": "https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/7DpgZ3lHeulnpPPoSSLkqt"
     },
     {
       "added_at": "2023-07-12 13:07:57",
@@ -1513,22 +1657,6 @@
       "url": "https://open.spotify.com/track/5hrmGj3Tk3OS1TdJKwgXQo"
     },
     {
-      "added_at": "2023-04-26 04:00:00",
-      "album": {
-        "name": "Present",
-        "url": "https://open.spotify.com/album/0ifVRWvV5sy3kWTW3I1FwH"
-      },
-      "artists": [
-        {
-          "name": "Zia Victoria",
-          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/6OJy2SJwkjlanI8tXMiRed"
-    },
-    {
       "added_at": "2023-04-19 04:00:00",
       "album": {
         "name": "I Don't Love You",
@@ -1591,22 +1719,6 @@
       "duration_ms": 227341,
       "name": "different but exactly like you",
       "url": "https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO"
-      },
-      "artists": [
-        {
-          "name": "Ghita",
-          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
-        }
-      ],
-      "duration_ms": 168434,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50"
     },
     {
       "added_at": "2023-04-05 04:00:00",

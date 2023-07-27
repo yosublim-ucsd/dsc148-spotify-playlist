@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,566 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,668 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 100 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 |
 
-Snapshot ID: `MCxjYzM2ODQ2N2YzOGU1ZWVjYjM1MjUyZTVjM2Q4M2I1YzJlZjM4OTkz`
+Snapshot ID: `MCwxNzNmNDY4YTRiOTllYWFlY2VkMWU1ZTBjZWVlOTViMzc5NTFmNmQ2`

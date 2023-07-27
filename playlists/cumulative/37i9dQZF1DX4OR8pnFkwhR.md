@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー
 
-984 songs - 2 day 12 hr 41 min
+986 songs - 2 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-28 | 2022-08-03 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-26 | 2022-07-29 |
 | [Kimi to Rendezvous \(feat\. razu\)](https://open.spotify.com/track/1dBY8Q0MbYFT8b5Bw9ZLMd) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [razu](https://open.spotify.com/artist/6JNpg1OGnCJygBo7UMwtWq) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 5:33 | 2023-07-18 |  |
+| [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 | 2023-07-25 |  |
 | [kireinamono](https://open.spotify.com/track/68eGqsBmUIkXbx12RWiVvg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Kireinamono](https://open.spotify.com/album/2yKala7HScc3T8M2xyodDj) | 3:54 | 2022-07-28 | 2022-08-19 |
 | [Kiss the Filament](https://open.spotify.com/track/4RfDyTCyztjpoK63Ue1VGR) | [nono](https://open.spotify.com/artist/48xUoFTEMEyAR1pRSOQQWq) | [Act Tough](https://open.spotify.com/album/0yod2zDDrC55p0qzPnCiqn) | 4:33 | 2022-11-15 | 2022-12-14 |
 | [KODOU](https://open.spotify.com/track/6HdxrzXayb7JD6vWuGAnT8) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [Scramble](https://open.spotify.com/album/1gJYR7z3PjV3w5yCzLdhSF) | 3:03 | 2023-04-18 | 2023-05-10 |
@@ -488,7 +489,8 @@
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-02-22 | 2022-03-09 |
 | [Super Junky Monkey](https://open.spotify.com/track/0Us823Ur65e4Jc0u3UdhD0) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [Super Junky Monkey](https://open.spotify.com/album/0QVCNT2eQF1GTLcj5bFOVy) | 3:35 | 2022-07-26 | 2022-08-03 |
 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 | 2023-05-09 |  |
-| [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 |  |
+| [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 | 2023-07-27 |
+| [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 |  |
 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 | 2022-09-29 | 2022-11-16 |
 | [Sweet Child](https://open.spotify.com/track/2yqsyoYqdrfHTSY9kYlLhp) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [QUIET FRIENDS](https://open.spotify.com/album/6y5k01dl3b8is0X7NwwFfL) | 4:32 | 2022-11-22 | 2022-12-21 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-05-31 |
@@ -799,7 +801,7 @@
 | [君とランデヴー \(feat\. らず\)](https://open.spotify.com/track/1nHME5u0ZHBrG8qgmipWVS) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [らず](https://open.spotify.com/artist/1e9vsBdRg1R5X1HOgF4Gb0) | [Supply/Demand](https://open.spotify.com/album/6TB0X9L7GGcB4GcPYHcHwS) | 5:33 | 2023-07-18 | 2023-07-20 |
 | [君の歯ブラシ](https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [君の歯ブラシ](https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5) | 3:21 | 2022-06-16 | 2022-06-29 |
 | [君の目を見てると](https://open.spotify.com/track/3pXHJZDZ9ajO66zmtk4J4k) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [君の目を見てると](https://open.spotify.com/album/1ODKpvi3WkN8xd0zN0XKzP) | 5:16 | 2022-04-12 | 2022-05-13 |
-| [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2023-07-25 |  |
+| [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2023-07-25 | 2023-07-27 |
 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 | 2023-06-14 |
 | [咆哮を定め](https://open.spotify.com/track/2HJp2R4i2kpIuTJs2hvSMb) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [遥か鳥は大空を征く](https://open.spotify.com/album/1LEzPz2Sc5De5BsORfz7bV) | 2:55 | 2022-05-17 | 2022-06-22 |
 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 | 2023-06-06 |  |

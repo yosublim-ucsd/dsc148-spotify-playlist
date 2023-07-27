@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,788 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,850 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 99 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
 | 100 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 |
 
-Snapshot ID: `MCxiYzJkZDk3YTY0N2RiMDdmN2YwM2JkMDBjNTljNTNiYjY1MjhlNzY3`
+Snapshot ID: `MCwxOTU2ZmVjNzI1ZDExMWQwNDFjYWQxOTIyMTI0NTIyYmJjYjQ1MjQw`

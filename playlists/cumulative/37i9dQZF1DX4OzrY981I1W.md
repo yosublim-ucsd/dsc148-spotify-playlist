@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-377 songs - 23 hr 2 min
+378 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-03-26 | 2022-07-29 |
 | [29](https://open.spotify.com/track/7AIe2twHZwBsYe76lJtUee) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Drinking from a Salt Pond](https://open.spotify.com/album/4w4xXUAHgIfXfCXD8oKOnA) | 3:27 | 2021-03-26 | 2022-07-27 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-03-17 | 2023-04-17 |
+| [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-07-26 |  |
 | [A Teenager In Love](https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:38 | 2022-02-20 | 2022-04-21 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-14 | 2023-04-01 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-17 |  |
@@ -306,7 +307,7 @@
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2021-08-06 | 2022-04-17 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-12-10 |  |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2021-09-18 |  |
-| [Spirals](https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Spirals](https://open.spotify.com/album/3jatKNCm41BJlB7y27emjF) | 4:55 | 2022-05-20 |  |
+| [Spirals](https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Spirals](https://open.spotify.com/album/3jatKNCm41BJlB7y27emjF) | 4:55 | 2022-05-20 | 2023-07-27 |
 | [Stolen Dance](https://open.spotify.com/track/2jiPHbFX5XM8TjaTfYJ0eo) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1CEBG1qVlHZr6v7eHAVF4W) | 5:13 | 2021-03-26 | 2022-04-20 |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2021-03-26 | 2023-01-07 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/6oAa31g091sMNe1TKo5LBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/3AW9TKUw5fnzn0MnddEnHI) | 4:26 | 2021-07-23 | 2022-07-29 |

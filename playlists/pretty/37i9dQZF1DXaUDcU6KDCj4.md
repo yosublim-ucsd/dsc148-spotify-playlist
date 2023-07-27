@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: John Vincent III
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,106 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,232 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Hey Honey](https://open.spotify.com/track/3b6wfWCEwHRRhtop1sWcci) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Hey Honey](https://open.spotify.com/album/4lXLBLgRaNcTKr62Zt67UZ) | 3:41 |
 | 150 | [Drown](https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Drown](https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo) | 2:44 |
 
-Snapshot ID: `MCxhY2ZkOTI3MzAyZjUwOWY3ZTA3YTg3NzJkMjMwYzMyYTZlN2M0MDZk`
+Snapshot ID: `MCw3YzdiNTAxOTMzYWJkZTMzNjJmNTUxZDFlYWM4MjMxY2U3NGQ1ZTdj`

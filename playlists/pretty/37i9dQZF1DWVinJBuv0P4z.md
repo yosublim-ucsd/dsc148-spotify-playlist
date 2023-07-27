@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,497 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,679 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 |
 | 150 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
 
-Snapshot ID: `MCw2ZDNlMDcyNzM3NDlmNmQ2ZTAwNTMzMmJlMzAyNzViN2RhZjAzOWUz`
+Snapshot ID: `MCxmZjMxY2NlNjIyZWMwYTRlNDZhNmRiNzBjNzVhMTgzZWQ3NzE1Nzli`

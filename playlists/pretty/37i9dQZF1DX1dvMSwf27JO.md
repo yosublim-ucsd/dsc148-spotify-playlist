@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,090 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,161 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 |
 | 100 | [BULLET PUT DOWN](https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [BULLET PUT DOWN](https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH) | 2:34 |
 
-Snapshot ID: `MCw0M2EzMzM5OTJlZDQ3NDgzMWJjYWE0ZDA4YjM1MzZhYmYwMjJjNmI5`
+Snapshot ID: `MCxiYjc2ZGZlZTE5ZjgzNmM2MmM2ZDViYzVhZDFjMjliOWI4NjcxMGI0`

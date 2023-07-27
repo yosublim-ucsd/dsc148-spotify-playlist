@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Kip Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,027 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,148 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
 | 100 | [Make You Mine](https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:31 |
 
-Snapshot ID: `MCwzZjQ0NDg5YmQyNjhkZTY3NThkZmE2MjZmM2Y1NDU2MzYwNmZiOWZi`
+Snapshot ID: `MCwyZmI0NjI5ZTZlMTNmMzRiOTVlOTBhNzkxYTM3NzJhMTgwNWZmYzc0`

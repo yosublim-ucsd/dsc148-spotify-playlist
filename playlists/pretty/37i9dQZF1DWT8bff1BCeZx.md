@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,548 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,575 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
 | 50 | [Iwo Nikan L'ogo Ye / Too Much for Me](https://open.spotify.com/track/6DSnwdMQOB62cFCG3EOySO) | [Wale Adenuga](https://open.spotify.com/artist/0s7YJetebaV73NYYtMx1E2) | [Songs for Generations](https://open.spotify.com/album/3OD5WwFzklKlShbCRfVJYD) | 7:09 |
 
-Snapshot ID: `MCxkZWIxM2E5OTg5ZTc5MDQ1ZDQ0MzQ4MDQ4OTk2YmU5OTg1ZjFjNjE2`
+Snapshot ID: `MCxiNmQ1YzQxYmZhYWRiZjQ0MzgzOTFkNzM2ZWJiYzYwNzU0YzNjZGRj`

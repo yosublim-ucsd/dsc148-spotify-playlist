@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,617 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,688 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 |
 | 70 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 |
 
-Snapshot ID: `MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj`
+Snapshot ID: `MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk`

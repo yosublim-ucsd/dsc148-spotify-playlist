@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,199 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,368 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 |
 | 80 | [Out Of The Shadows](https://open.spotify.com/track/0wM5xMaTddQjAXkNcFBcrR) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Legends Of The Elite](https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3) | 3:42 |
 
-Snapshot ID: `MCxhZTNiNzlkNjkyMjQzNjFiM2E2ODBhZWJiNTQ0MzkzMWVjODRjZDUx`
+Snapshot ID: `MCxkZmJlZWI5MDVmMjU3MGM5NzgxY2ZjNTk2MDY0NzNiODU4M2ZlMjI3`

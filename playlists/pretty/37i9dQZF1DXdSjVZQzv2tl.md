@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Wesley Safadão
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,397,592 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,399,751 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 |
 | 50 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 |
 
-Snapshot ID: `MCw4NTBlYmNmYTEyZTA2MGU3YzY3NmE1MmY1NTQ2NGY2MWY2M2ExYWQ1`
+Snapshot ID: `MCwyMjJlNDVkNDc2MTRjM2U5ZTYzNjhkYmM5MDZlMzBiMjQxODgxMWZi`

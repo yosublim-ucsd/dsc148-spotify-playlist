@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
-  "num_followers": 90837,
+  "num_followers": 91327,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjliYTU2NDM1MGRhM2I5NzZkZjI0OWQ0MWViMThlMDQzMjBlYzk1",
+  "snapshot_id": "MCw3YmVjMTA0YzFmM2ZmNWZiMzllOWZiZjRhMGQ4NTE2N2NhMWFjYWVl",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
+    },
+    {
+      "added_at": "2023-07-26 17:08:40",
+      "album": {
+        "name": "In Your Wake",
+        "url": "https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE"
+      },
+      "artists": [
+        {
+          "name": "Bathe Alone",
+          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "In Your Wake",
+      "url": "https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w"
     },
     {
       "added_at": "2023-05-09 01:15:11",
@@ -311,6 +327,22 @@
       "duration_ms": 285622,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq"
+    },
+    {
+      "added_at": "2023-07-26 16:09:21",
+      "album": {
+        "name": "daze",
+        "url": "https://open.spotify.com/album/0knbxdlY8bc21f6U1E9Zdk"
+      },
+      "artists": [
+        {
+          "name": "cherry pick",
+          "url": "https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "daze",
+      "url": "https://open.spotify.com/track/66TIegJdKMYXuYSxaPIR4A"
     },
     {
       "added_at": "2023-06-02 01:50:10",
@@ -1425,22 +1457,6 @@
       "url": "https://open.spotify.com/track/6MxpGNjoKliUlyW9HbKBrH"
     },
     {
-      "added_at": "2023-01-06 21:47:55",
-      "album": {
-        "name": "Are You",
-        "url": "https://open.spotify.com/album/1ykUiLjEj3T9Cmv4xDKpRC"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 236012,
-      "name": "Are You",
-      "url": "https://open.spotify.com/track/0hkahhoWCNDUhqOteNEDZw"
-    },
-    {
       "added_at": "2023-02-17 03:32:14",
       "album": {
         "name": "means to an end (not enough)",
@@ -1619,22 +1635,6 @@
       "duration_ms": 320768,
       "name": "Lambspring",
       "url": "https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Omit",
-        "url": "https://open.spotify.com/album/3DglweTTqaGzB198Ex36vF"
-      },
-      "artists": [
-        {
-          "name": "Grivo",
-          "url": "https://open.spotify.com/artist/0NsL0iHM7x5iahPLXXGf9C"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "Fatal Blue",
-      "url": "https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw"
     }
   ],
   "unique_name": "Shoegaze Now",

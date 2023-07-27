@@ -1036,6 +1036,24 @@
     {
       "album": {
         "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
+      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+    },
+    {
+      "album": {
+        "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/2DTHcZK8xkXi8zg2sFK2io"
       },
       "artists": [
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 199866,
       "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
       "url": "https://open.spotify.com/track/3Co7rxpt17f78kj4WSa1FZ"

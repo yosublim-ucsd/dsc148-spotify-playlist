@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
@@ -962,6 +962,24 @@
       "duration_ms": 208539,
       "name": "Kahani (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS"
+    },
+    {
+      "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234722,
+      "name": "Kaise Hua",
+      "url": "https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7"
     },
     {
       "album": {
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 272532,
       "name": "Pehla Pyaar",
       "url": "https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7"
@@ -2554,6 +2572,44 @@
       "duration_ms": 223999,
       "name": "Ve Maahi",
       "url": "https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr"
+    },
+    {
+      "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
     },
     {
       "album": {

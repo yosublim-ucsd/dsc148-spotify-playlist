@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=tX1La8ADQ6yFh\-HLH7Qb9g">Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,181 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 |
 | 50 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 
-Snapshot ID: `MCw5MmQ2NzgyYjZjZTMwMDE1MmU3YzExOGViMmNlMTFkYmFkOTRiNDEw`
+Snapshot ID: `MCwxMDc5ZTM0MDU4MWZmNGE0MjIxY2QyODQ5NDMxODY0Y2ZkZDU3MGEy`

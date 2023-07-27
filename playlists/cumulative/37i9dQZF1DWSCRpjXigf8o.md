@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-343 songs - 20 hr 48 min
+344 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [You're Everything](https://open.spotify.com/track/676yPpKx9leVQWf5vFSvS7) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Love Will Find A Way](https://open.spotify.com/album/58ZQBOe0sMe9ZpPKgjDR9p) | 4:50 | 2022-12-06 | 2023-02-10 |
 | [Your Arms](https://open.spotify.com/track/4SuziSr3et9LjC6Iyls63s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Your Arms](https://open.spotify.com/album/4R3wx6MiEomTXdy6gkskQN) | 3:51 | 2023-06-08 |  |
 | [Your Loving Soul](https://open.spotify.com/track/2LPExdbabatcLkOzJj3H24) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Meet Me On the Beach](https://open.spotify.com/album/0CU1h7qbcpXxLpJjUvIIWI) | 3:50 | 2023-04-20 | 2023-04-26 |
-| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-06 |  |
+| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-06 | 2023-07-27 |
+| [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-07-25 |  |
 | [あの場所へ](https://open.spotify.com/track/3mAUwCblGM1iXVEk7CDmeE) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [あの場所へ](https://open.spotify.com/album/6TTakltB6NsatZHEcFm5WM) | 4:59 | 2023-02-28 | 2023-04-21 |
 | [さいごは頬張ろう](https://open.spotify.com/track/0kr9VZT0MtuIfa38PF35ph) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [さいごは頬張ろう](https://open.spotify.com/album/19I4cceUhfRCFu67xiGpfl) | 4:09 | 2022-11-22 | 2022-12-07 |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-20 | 2022-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,225 likes - 125 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,458 likes - 125 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 8 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 |
 | 9 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0Hf3UN7p1AVi3bQBish6YX) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 |
 | 10 | [Osaya](https://open.spotify.com/track/5Hmc0lNbOukoKNToiDtMai) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg) | [Osaya](https://open.spotify.com/album/7eowi1M8nTwOXigGzn90J9) | 6:15 |
-| 11 | [The Night is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 |
+| 11 | [The Night Is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 |
 | 12 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 |
 | 13 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 |
 | 14 | [Nevada](https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/4HZ1rAyZ7KwvfnsVq5hNKD) | 6:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 |
 | 125 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 |
 
-Snapshot ID: `MCxjZTE2ZGFhMzNkMWFjNDg0ODUwMGRlOGUwMWMwZWZmNWJmNTRlNjM2`
+Snapshot ID: `MCw1ODdlNjA0ZWZhNmNkODE2NmVjMDE1ZTE0MGMzMWE3ZWFkZWFhN2Fm`

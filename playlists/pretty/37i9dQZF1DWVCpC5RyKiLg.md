@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,926 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,103 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 |
 | 75 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 
-Snapshot ID: `MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy`
+Snapshot ID: `MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy`

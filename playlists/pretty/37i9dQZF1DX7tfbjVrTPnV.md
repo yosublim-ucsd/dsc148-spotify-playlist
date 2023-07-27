@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,424 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,479 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [What It Takes](https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [Tambourine](https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn) | 3:57 |
 | 150 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 
-Snapshot ID: `MCwxMzgxNmU5YTg5MDI0OGRkYmMxMjc0YzQzYTg5YThkOTU4NmVlZDg1`
+Snapshot ID: `MCxiMTA4OWJjZjFhYjRjMTE4YjdkNmQ1Nzk1NTRiNmJlZjk1YmQzM2Vl`

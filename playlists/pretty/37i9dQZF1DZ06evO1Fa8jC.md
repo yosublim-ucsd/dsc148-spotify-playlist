@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,122 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,188 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 26 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
 | 27 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 |
 | 28 | [Loco](https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:32 |
-| 29 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
-| 30 | [Si Te Vas](https://open.spotify.com/track/0NbdZ9fS7saRQAyyTqBWBE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:16 |
+| 29 | [Si Te Vas](https://open.spotify.com/track/0NbdZ9fS7saRQAyyTqBWBE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:16 |
+| 30 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
 | 31 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
 | 32 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
 | 33 | [El ángel](https://open.spotify.com/track/0g5Fx2wKdyyF3DZIJXSUG4) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:53 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 35 | [El Silencio](https://open.spotify.com/track/490zFllTSVutzmCeB12226) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 3:43 |
 | 36 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 |
 | 37 | [Muia](https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 5:00 |
-| 38 | [Objeto Sexual](https://open.spotify.com/track/3slMnI3iN08GhusgtK8O93) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:29 |
-| 39 | [Escritorio](https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:51 |
+| 38 | [Escritorio](https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:51 |
+| 39 | [Objeto Sexual](https://open.spotify.com/track/3slMnI3iN08GhusgtK8O93) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:29 |
 | 40 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
 | 41 | [Misterio](https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 6:16 |
 | 42 | [Al Menos Hoy](https://open.spotify.com/track/6PknRxiThPZZxfuyP3Upvy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 50 | [See You Comin'](https://open.spotify.com/track/09VF5b8Sy9tdnkSbQWOhBV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:09 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBlOTgwNGI1YjI5Y2E3NTQ0MzViYWY0Zjg3OTNlMWYzZg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA2ODI3Mjk3OWViZTAyYTRjNjQzNDg1ZjAxYjRhNjBkNw==`

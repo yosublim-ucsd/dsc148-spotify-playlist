@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> 🍪 🍪 🍪 met je moeder
+> Ik wil een chick als Jade Anna\. Blond haar goeie akka dat is nice\. Zie je staan in de savannah\. Valt die 🐯 🐯🐯ook op mannen als mij?
 
-206 songs - 10 hr 22 min
+208 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Offline Beschikbaar](https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Offline Beschikbaar](https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8) | 2:27 | 2023-07-06 |  |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-02-23 | 2023-03-04 |
 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-04-11 |  |
+| [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-26 |  |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-16 | 2023-04-19 |
 | [Onderweg](https://open.spotify.com/track/0gekZRV95IfIVeJTtJHa2v) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Onderweg](https://open.spotify.com/album/44KUJqwC7TJcUcQNqhMRAX) | 2:37 | 2023-02-23 | 2023-04-12 |
 | [One Margarita \(Margarita Song\)](https://open.spotify.com/track/17Um25RxAOpc2NgtDiYKl9) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\)](https://open.spotify.com/album/60Prz6L3vopKOjd1RXLV1K) | 1:58 | 2023-07-18 |  |
@@ -187,6 +188,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-05-24 | 2023-06-01 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-05-09 | 2023-07-11 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-06-26 |  |
+| [Speed Drive](https://open.spotify.com/track/7GRv55NwkjxU2ysJLwzC9c) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 1:57 | 2023-07-26 |  |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-04-21 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-05-01 | 2023-06-13 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-04-12 |

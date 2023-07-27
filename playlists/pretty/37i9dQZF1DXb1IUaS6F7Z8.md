@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,196 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,372 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Fearless and Brave](https://open.spotify.com/track/17GshEAJNdAnoXKqtF3Qpm) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [The Perfect Match](https://open.spotify.com/album/03SaEIWMLWXZp3Rd1fkQRa) | 2:57 |
 | 50 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 |
 
-Snapshot ID: `MCxmMzM4MTEyZjJlOTE1YzYzNjA4NGY4MDhjZTY4NjFiMDAzNjgzODI0`
+Snapshot ID: `MCxjN2U1YzdiZmY1NjAxNjdmNWFkODY4MDQ1MjRiMDQ0YzlmMGI1MjI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,954 likes - 80 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,044 likes - 80 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 |
 | 80 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 |
 
-Snapshot ID: `MCw3MDcyM2VkNWUyMDdiZDMwNDZhN2E0NTk2MzVjMWNiOTRkNDI3MzBi`
+Snapshot ID: `MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5`

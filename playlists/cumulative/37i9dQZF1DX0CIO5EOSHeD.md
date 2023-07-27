@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-355 songs - 19 hr 3 min
+356 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Splash!](https://open.spotify.com/track/7dOKxv5GoKsp4D5nJ0TKwI) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Homesick](https://open.spotify.com/album/33wDctNQFE0CHgCZfJH4L7) | 3:07 | 2021-12-09 | 2022-07-25 |
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2021-07-30 | 2022-07-14 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-26 | 2022-07-28 |
+| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-07-26 |  |
 | [Stray Fantasies](https://open.spotify.com/track/7oxl6743zINo2goOSRBnrM) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:13 | 2022-03-30 | 2022-04-20 |
 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 | 2023-05-19 |
 | [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 | 2022-09-13 | 2023-05-09 |
@@ -331,7 +332,7 @@
 | [Under The Sea](https://open.spotify.com/track/7nUGcGf4JiQ1e8Xbsx8DTn) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Under The Sea](https://open.spotify.com/album/7FM6V8sCl1tH7nKyPOo1TR) | 3:59 | 2021-09-17 | 2022-07-29 |
 | [underground pleasure](https://open.spotify.com/track/3qcth5GYMyx9DhMEGKN98f) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [underground pleasure](https://open.spotify.com/album/5IoGXR8bkNSvbYnLsT6iqp) | 4:04 | 2022-03-30 | 2022-07-29 |
 | [Up in the Air](https://open.spotify.com/track/2rZ1YtyTsdZ5gQbJeOEsa1) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Up in the Air](https://open.spotify.com/album/4Z57NxZ40kf21wK1rgradb) | 2:18 | 2020-10-27\* | 2022-07-25 |
-| [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 | 2020-11-12 |  |
+| [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 | 2020-11-12 | 2023-07-27 |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2022-03-30 |  |
 | [Vegetable](https://open.spotify.com/track/5D2Wh182IjiwIFQeRp1mek) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Vegetable](https://open.spotify.com/album/618orW9i4jPGocCw6UwquZ) | 3:45 | 2020-10-27\* | 2021-02-26 |
 | [Velvet Tears](https://open.spotify.com/track/4IAFUCNXBdf4Ft3Ud81aLb) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [The Halo Effect](https://open.spotify.com/album/6hHVag0noqfPsmv1Tg3a8I) | 3:27 | 2020-12-11 | 2022-06-17 |

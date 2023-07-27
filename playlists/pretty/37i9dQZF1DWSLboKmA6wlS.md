@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: WATAN\-U\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,189 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,192 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 59 | [มีเท่านี้ \(My best\)](https://open.spotify.com/track/2NiI8cNjRklFOhV8aizY2r) | [Mr\. Heed](https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t) | [มีเท่านี้ \(My best\)](https://open.spotify.com/album/0YQYij6OnhaKjKRyioWsEM) | 3:31 |
 | 60 | [boomerang](https://open.spotify.com/track/6QdGMzOn3cfkmiQlCDHLdI) | [NOAR](https://open.spotify.com/artist/2nCF28MrJSI6xmoNeGnVV6) | [boomerang](https://open.spotify.com/album/4Hk2rm6T1k2Vm2771EgTBZ) | 2:26 |
 
-Snapshot ID: `MCxkODgzOWJlMTlmZjFhYTUwZGI3NTFkMWE1YjBlZDhiMzA2MGFjMTAy`
+Snapshot ID: `MCwxMDc0ODRlYjk3ZDcxM2UwZjA4NGEwZmY3MzA3M2Q4OTA1MDRmNmVm`

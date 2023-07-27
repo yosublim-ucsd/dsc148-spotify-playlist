@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,727 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,767 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 |
 | 50 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 |
 
-Snapshot ID: `MCxjNDc1NGE4ZDg4M2JkYzQyYjcxYTc3MDgxYWZlNjY2YTIzOTQzYjgx`
+Snapshot ID: `MCxmYTdkMDlmNThjYjliNjdkM2FjNzQ2MzQ3M2VmYTQ4OTc5NTYzZDYy`

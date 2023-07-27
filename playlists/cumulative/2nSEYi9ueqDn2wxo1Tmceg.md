@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-562 songs - 1 day 14 hr 25 min
+563 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 | 2022-07-20 | 2022-08-25 |
 | [Sometimes Memory Fails Me Sometimes](https://open.spotify.com/track/1mGSG4Ad05O2MUIdgnSQ8V) | [Everyone Asked About You](https://open.spotify.com/artist/64ATDQsFeDvIJokVA2YVke) | [Sometimes Memory Fails Me Sometimes](https://open.spotify.com/album/6H5Kj4DQ5EVQwlkSz0Twpl) | 4:44 | 2023-07-19 |  |
 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-01-25 | 2023-02-23 |
+| [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 | 2023-07-26 |  |
 | [Space Song](https://open.spotify.com/track/7sB9BkfzR1SsuHqjU3jtt1) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Space Song](https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE) | 3:58 | 2022-06-08 | 2022-07-07 |
 | [Spalarkling](https://open.spotify.com/track/0aUCqmtpFYCLmGsgdVZiJu) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX) | [Spalarkle \(Alys\)](https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT) | 2:45 | 2023-04-12 | 2023-05-18 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-05 |  |

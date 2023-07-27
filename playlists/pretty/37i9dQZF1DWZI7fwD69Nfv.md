@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI7fwD69Nfv.md) - [plain]
 
 > ¡Ya huele a sopita! Buen provecho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,301 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,361 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI7fwD69Nfv.md) - [plain]
 | 124 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 |
 | 125 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 |
 
-Snapshot ID: `MCwzMjQzOGFkZGE1OTA4MDRkNGNhM2NjMmM5NWIwOGIwYWQ0MmUyMmFj`
+Snapshot ID: `MCwxMDg5MGFiYjc4Y2RlOWQ1OWM2ZGU0NDRjNTdlYzM4MGNjOGY4NWVk`

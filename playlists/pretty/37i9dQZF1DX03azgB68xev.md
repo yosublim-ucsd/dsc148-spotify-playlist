@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,450 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,473 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 | 80 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
 
-Snapshot ID: `MCxkNmMwMWJmNTBmMmUwYzNiMmUyODQ0Y2NjMWVkMGY0Y2MyNTI0M2Yy`
+Snapshot ID: `MCw0MGY5ZDA3OTU4MzYyNzA3ZTVkZWMwZWMyOWQ4N2FiMTY4ODMyZTlh`

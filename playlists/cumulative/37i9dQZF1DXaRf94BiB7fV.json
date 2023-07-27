@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shivam Grover , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Joell , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -360,6 +360,32 @@
       "duration_ms": 280000,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/0buVHsFxdatJeBfQWsibFg"
+    },
+    {
+      "album": {
+        "name": "Aao Zara",
+        "url": "https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222890,
+      "name": "Aao Zara",
+      "url": "https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4"
     },
     {
       "album": {
@@ -1366,7 +1392,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 183204,
       "name": "Banjaara",
       "url": "https://open.spotify.com/track/4wUmd5JBTtGMVEQfhasqER"
@@ -2229,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/33CtJnuv0iU1wnWmrVRbJn"
+      },
+      "artists": [
+        {
+          "name": "MISSHTY",
+          "url": "https://open.spotify.com/artist/3H0tH0Fu0SH40a2MgYh9EM"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/3IctWeaZl67pwnfR6QnD9d"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/7Ktv4SEjRI2Qzz9dvjogIq"
       },
@@ -2294,7 +2338,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 199523,
       "name": "Can't Help It",
       "url": "https://open.spotify.com/track/194CEU4SxcHuVUr7HMtY3e"
@@ -2388,7 +2432,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 243690,
       "name": "Chal Na Udte Hain",
       "url": "https://open.spotify.com/track/6Qau62g1qAwL3CNv2GtGJM"
@@ -3154,7 +3198,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 241054,
       "name": "Dhun",
       "url": "https://open.spotify.com/track/1PYV3TA7E1elt9AFcQmOIZ"
@@ -4824,7 +4868,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 129289,
       "name": "Gulmohar",
       "url": "https://open.spotify.com/track/0ijqrMfgYv1ZczeEHi8JnM"
@@ -5064,6 +5108,24 @@
       "duration_ms": 222857,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5H9jcABAODkLsWcE3JTDWc"
+    },
+    {
+      "album": {
+        "name": "Heeriye",
+        "url": "https://open.spotify.com/album/53eXJcwAZAQ50p5CDl6BY1"
+      },
+      "artists": [
+        {
+          "name": "Tirth Thakkar",
+          "url": "https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181031,
+      "name": "Heeriye",
+      "url": "https://open.spotify.com/track/5kGsDg4DwHvDxsFsR7a7cJ"
     },
     {
       "album": {
@@ -5361,6 +5423,46 @@
     },
     {
       "album": {
+        "name": "Hum Chalein",
+        "url": "https://open.spotify.com/album/0eyDI5savOEtDFxSha8akI"
+      },
+      "artists": [
+        {
+          "name": "Suraj Bhartti",
+          "url": "https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Hum Chalein",
+      "url": "https://open.spotify.com/track/1t6Y3WoCpSHkkV6XlBzuJZ"
+    },
+    {
+      "album": {
+        "name": "Hum Dum Tera",
+        "url": "https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara"
+      },
+      "artists": [
+        {
+          "name": "Rachit Shrivastava",
+          "url": "https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn"
+        },
+        {
+          "name": "Swapnil Tare",
+          "url": "https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Hum Dum Tera",
+      "url": "https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM"
+    },
+    {
+      "album": {
         "name": "Hum Kya Karein",
         "url": "https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt"
       },
@@ -5408,7 +5510,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 242242,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/0576MAgEyAJMQpviMUNfvZ"
@@ -6092,7 +6194,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 265896,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/3Ie3WaIFZ9iz4NGFUwfglW"
@@ -6490,7 +6592,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 225205,
       "name": "Jahan Bhi Ho",
       "url": "https://open.spotify.com/track/2JBtmxNroYCUwI3JnP4PzT"
@@ -7978,7 +8080,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 174285,
       "name": "Koi Tumsa Nahi",
       "url": "https://open.spotify.com/track/3eggOTb2ZE0UvLl0U3KFq3"
@@ -9189,6 +9291,28 @@
     },
     {
       "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/2oiL68ahLD5QFW7WS27okT"
+      },
+      "artists": [
+        {
+          "name": "Shayaan",
+          "url": "https://open.spotify.com/artist/5uZ1uWP2Dyu8AvKmmNQjOT"
+        },
+        {
+          "name": "NEel",
+          "url": "https://open.spotify.com/artist/18KBIfP6G38tm8XuNHVchh"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173211,
+      "name": "Mausam",
+      "url": "https://open.spotify.com/track/0a1dfhDsY0yVKpbc41Jafr"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5tToU1wFfMLG4MV5SfZ4Qb"
       },
@@ -9544,6 +9668,28 @@
       "duration_ms": 221086,
       "name": "Midnight Disco",
       "url": "https://open.spotify.com/track/2kMCDXew7ONxhkFUTot07Z"
+    },
+    {
+      "album": {
+        "name": "Midnight Stories",
+        "url": "https://open.spotify.com/album/2WtUrKjxctvXSCcXipQLZ0"
+      },
+      "artists": [
+        {
+          "name": "Benry Moses",
+          "url": "https://open.spotify.com/artist/71H9uPcrp7ZRNLPBIVOds8"
+        },
+        {
+          "name": "Koko",
+          "url": "https://open.spotify.com/artist/3OhGY94d6OPsClrmccg0GT"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293809,
+      "name": "Midnight Stories",
+      "url": "https://open.spotify.com/track/6b7z4doubf8s2y22VzKoRV"
     },
     {
       "album": {
@@ -11420,10 +11566,36 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 177371,
       "name": "Raah",
       "url": "https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN"
+    },
+    {
+      "album": {
+        "name": "Raahein (feat. Shrishti & Sushant Sudhakaran)",
+        "url": "https://open.spotify.com/album/0zB03tYArVvY2gtaZbnwZe"
+      },
+      "artists": [
+        {
+          "name": "Parvatish Pradeep",
+          "url": "https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu"
+        },
+        {
+          "name": "Shrishti",
+          "url": "https://open.spotify.com/artist/1TJvvTiPcNP01AbkNEM0CR"
+        },
+        {
+          "name": "Sushant Sudhakaran",
+          "url": "https://open.spotify.com/artist/459Gk3hSTwkbo4LYgU1tg6"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292171,
+      "name": "Raahein (feat. Shrishti & Sushant Sudhakaran)",
+      "url": "https://open.spotify.com/track/5Ggp8fMRHqF7S3si6QsVBa"
     },
     {
       "album": {
@@ -12801,6 +12973,28 @@
     },
     {
       "album": {
+        "name": "Saza Suna Rahe Ho",
+        "url": "https://open.spotify.com/album/2eN2tjfFRq9CWj0vYLvpm7"
+      },
+      "artists": [
+        {
+          "name": "Priyankaa Bhattacharya",
+          "url": "https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5"
+        },
+        {
+          "name": "Shekharr Srivastav",
+          "url": "https://open.spotify.com/artist/78LqjayiWNBLzuXPvmpzWz"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332857,
+      "name": "Saza Suna Rahe Ho",
+      "url": "https://open.spotify.com/track/1vvJ3an5AhcZdtAGam7ZVe"
+    },
+    {
+      "album": {
         "name": "Scarlet Skies",
         "url": "https://open.spotify.com/album/0rZ3ecLj2GVFLQwmzfDuu9"
       },
@@ -13200,7 +13394,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 208912,
       "name": "Soch",
       "url": "https://open.spotify.com/track/1eyBWtHnBBODuxSGEoIy6r"
@@ -13686,7 +13880,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 258285,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/13FUNNMVMiLyJseKQFciN1"
@@ -13776,7 +13970,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 172000,
       "name": "Sun Zara",
       "url": "https://open.spotify.com/track/4WDazhZrsTXf86ewixNsrt"
@@ -14046,7 +14240,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 214991,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0deY8vl7k401kaWDfpMDYw"
@@ -14494,7 +14688,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 174000,
       "name": "Thinking Ahead Of Time",
       "url": "https://open.spotify.com/track/5tJ56Upt4nwRIcydaUVZaj"
@@ -14802,6 +14996,24 @@
       "duration_ms": 161777,
       "name": "Toota Tara",
       "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
+    },
+    {
+      "album": {
+        "name": "Touchscreen Lover",
+        "url": "https://open.spotify.com/album/0E2qlCws65sBG19tSFTUhH"
+      },
+      "artists": [
+        {
+          "name": "Bliss Samsa",
+          "url": "https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145969,
+      "name": "Touchscreen Lover",
+      "url": "https://open.spotify.com/track/02qMvz8Xl8DhvA1JJXpVl3"
     },
     {
       "album": {
@@ -15946,6 +16158,28 @@
     {
       "album": {
         "name": "When I See You",
+        "url": "https://open.spotify.com/album/3nXIkHKhaohiypbPvdf2Kp"
+      },
+      "artists": [
+        {
+          "name": "Arindam Gohain",
+          "url": "https://open.spotify.com/artist/3wAkH4S8hqwMg3i6x0kPbS"
+        },
+        {
+          "name": "Shyamal Jyoti",
+          "url": "https://open.spotify.com/artist/3s0ojVZFW0zyrBJaY4bzit"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/3EyL7ADyidvof73EFjJO57"
+    },
+    {
+      "album": {
+        "name": "When I See You",
         "url": "https://open.spotify.com/album/0Yn4ntPh8mSOoILbZ97ViO"
       },
       "artists": [
@@ -16257,6 +16491,32 @@
     },
     {
       "album": {
+        "name": "Yaadein",
+        "url": "https://open.spotify.com/album/4mgTgyu8g3jOObEb5g6QG3"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Mishra",
+          "url": "https://open.spotify.com/artist/62hjYogKtbkhd6EGwr6W5J"
+        },
+        {
+          "name": "Ritika Parmeshwar",
+          "url": "https://open.spotify.com/artist/5rWStJVm2HSCUzr6LKAeP9"
+        },
+        {
+          "name": "Aaditya Mehta",
+          "url": "https://open.spotify.com/artist/5Tjip7F6A9nCH4Jz6q7Mns"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238581,
+      "name": "Yaadein",
+      "url": "https://open.spotify.com/track/5Cqpd71Xbk64x7u1dDoafK"
+    },
+    {
+      "album": {
         "name": "Yaadein Banate Hai",
         "url": "https://open.spotify.com/album/36p3T8WOvQ1Pc4S9mGEugS"
       },
@@ -16543,6 +16803,24 @@
     },
     {
       "album": {
+        "name": "EASY LOVE (Side B)",
+        "url": "https://open.spotify.com/album/5TTvYRlq9CzOe7pmemqNwM"
+      },
+      "artists": [
+        {
+          "name": "TARRA",
+          "url": "https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "You Didn't Have To Go",
+      "url": "https://open.spotify.com/track/35zEyVTKGiO5JtMwyA6oAk"
+    },
+    {
+      "album": {
         "name": "You Don't Have To",
         "url": "https://open.spotify.com/album/1ew1uKZJPV3CxVD8A7bT4O"
       },
@@ -16674,6 +16952,42 @@
       "duration_ms": 195769,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/07xgxwSbFyyYcTkxzNFDL5"
+    },
+    {
+      "album": {
+        "name": "Zindagi",
+        "url": "https://open.spotify.com/album/4eeME2G3nfmjYLvgHRoUCU"
+      },
+      "artists": [
+        {
+          "name": "Seerat Ain Alam",
+          "url": "https://open.spotify.com/artist/5LCz4RWPuDoFys0vddNiXJ"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU"
+    },
+    {
+      "album": {
+        "name": "Zindagi Kya Hai Tu",
+        "url": "https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq"
+      },
+      "artists": [
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295083,
+      "name": "Zindagi Kya Hai Tu",
+      "url": "https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy"
     },
     {
       "album": {

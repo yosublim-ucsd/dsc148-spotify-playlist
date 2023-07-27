@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,100 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,110 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 |
 | 59 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 
-Snapshot ID: `MCxiYzIyZDBhZTk3MWIzNWZkZjdhNjRhYmM2ZjMyMjA4N2Q3MGI3ZTk5`
+Snapshot ID: `MCwyZmFhMWQ1YWQyOTYwOTM1NDhlZTc2Y2Q1NjY3MmNlMjRmMDQ1YTc0`

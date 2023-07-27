@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 
 > Back when we had Kelly Clarkson, Usher, Lady Gaga and Justin Timberlake on repeat! Cover: Katy Perry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,252 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,574 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 | 149 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 150 | [Lucky](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:26 |
 
-Snapshot ID: `MCxhNGJjNzEzYzNhZWE5YTA4YzNhZGIzYzZlZjQ0YzQ4ZTU2NGVkYzJh`
+Snapshot ID: `MCxlZTBhODAxNjcyMWQyM2E3ZTg2MGJkNDBjZjU5Y2E1MWMxMmJkNjY4`

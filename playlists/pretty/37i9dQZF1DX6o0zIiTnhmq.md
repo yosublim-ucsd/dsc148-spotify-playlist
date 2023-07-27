@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,525 likes - 50 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,750 likes - 50 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 | 50 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 |
 
-Snapshot ID: `MCw4Mzc0ZTUzOGJhMDQ2N2Y3YTM0NDcwMDQ2MWRkNDljODJjNjQ4Y2Y1`
+Snapshot ID: `MCwxODUwZTFmN2JmNjJjOTkxNWI2ZDMwNjc5NDJhNzRkMDQ3Njg4MGM4`

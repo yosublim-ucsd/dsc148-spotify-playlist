@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Sobrino",
-  "num_followers": 282326,
+  "num_followers": 282394,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTlmM2E3ZTZmNzk3MjgyNmUzZTMzNmNjODg3NDA3YWQzNzgwY2Fj",
+  "snapshot_id": "MCw2ZDNhYzMyM2E3Y2JlN2Y0NGVhYjA0NzA2MjNkZmVlMzJmOTdmODEw",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "MEZCALITO",
-        "url": "https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "S\u00daBEME EL VOLUMEN",
-      "url": "https://open.spotify.com/track/2W7ddrYsk4HvFeKiY5wPZM"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
@@ -843,6 +823,22 @@
       "duration_ms": 206400,
       "name": "TURISMO",
       "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "mi man\u00e1",
+        "url": "https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 172077,
+      "name": "mi man\u00e1",
+      "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
     },
     {
       "added_at": "2023-07-21 04:00:00",

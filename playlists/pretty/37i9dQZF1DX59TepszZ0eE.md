@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=0XmLSTPMRw28DgCCiBeQkw">Kingdmusic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,975 likes - 85 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,055 likes - 85 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 9 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 |
 | 10 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
 | 11 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
-| 12 | [Makabongwe \- Live](https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Makabongwe: The Sound Of Revival \(Live\)](https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4) | 5:01 |
+| 12 | [Makabongwe \- Live](https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Makabongwe: The Sound of Revival \(Live\)](https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4) | 5:01 |
 | 13 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 14 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 15 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 84 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 |
 | 85 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 
-Snapshot ID: `MCwzY2E2ODRiZDFiYTYzY2Y5YjgwNjNkYWFhOGM4OTNjZWQ0OTUxNTg0`
+Snapshot ID: `MCw3MTA1ZGEzY2Y5MzVkNjVlNzNhYjI2NzRjZGYxNzk0ZWZiNTI3Nzc0`

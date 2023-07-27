@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,372 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,141,329 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Old Soul \(acoustic\)](https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Loving Everywhere I Go](https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c) | 4:42 |
 | 160 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
 
-Snapshot ID: `MCwyMTU4MDY5NjFhM2JjMDRiZTEzYmRjNGQ4ZWM4YTZlZTA3OTA2YTU3`
+Snapshot ID: `MCwzZTEyNGZmOGRiOTQ3OGViMGVhYjA0Y2ExZjMzYWZhZTQ3NWY3NjUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,226 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,303 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
 | 100 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
 
-Snapshot ID: `MCwzNjU5NTc2ODZjNDQwYzgzMjQ1M2RlMWZjMTU2OWU4M2M5YTY5MmNj`
+Snapshot ID: `MCw1OTUxYzIyNDBlOTczOTllNmFjNmU3NzYyZDdlOTY3MzQxMThjMDYw`

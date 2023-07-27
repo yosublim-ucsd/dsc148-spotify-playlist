@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,550 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,593 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Rumbleseat](https://open.spotify.com/track/1Xi2xGXEDGvliLRCM8eWyV) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 2:58 |
 | 200 | [Twilight](https://open.spotify.com/track/03ZVEpSeeJfROJW65OHgsf) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Time](https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2) | 3:41 |
 
-Snapshot ID: `MCw5N2EwY2ZhZjY0MGNmMzI3NzQwOTA5MjBiMWE2NGQ3NzVjZjY0MDI3`
+Snapshot ID: `MCwzYmRjNTg4OWMzMmJlNmE1YjUyYzJmYzQ1NWRmODQzZjc0MDJhY2Ex`

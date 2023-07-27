@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,911 likes - 150 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,162 likes - 150 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 |
 | 150 | [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 |
 
-Snapshot ID: `MCxkM2Y2NmU4NmYyNDU4ZmMxYmEyZjZiM2Q0ZWMwNTc0YWVmY2Q2ZGQy`
+Snapshot ID: `MCwwZjdmNzU3MzM1MWNlYjU5ZmY2OGVhNTNjNGRjZWFjYjNiNzY2ODE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,883 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,919 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 79 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
 | 80 | [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 |
 
-Snapshot ID: `MCw0YmI0NmMwYTdiOGY4MDQ2NWIyYmVhMDdmMWMzMTY5ODg4MGYzMWU3`
+Snapshot ID: `MCwxNDNlMTE3ZDc5MjViZWFkNmRiZTRmZjZiOGU3NDAxNTE1NGU3YmU4`

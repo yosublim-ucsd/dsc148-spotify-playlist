@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 32 songs - 46 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 32 songs - 46 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 25 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 |
 | 26 | [Buscando Trabajo](https://open.spotify.com/track/0MjgwZTsMxJ79gsD10Fll2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:28 |
 | 27 | [Big City Train](https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
-| 28 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 |
+| 28 | [Toughen Up Jordan](https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:04 |
 | 29 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
-| 30 | [Toughen Up Jordan](https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:04 |
+| 30 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 |
 | 31 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
 | 32 | [The Landscape Medley](https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:59 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA5NWE4OWMwZDRkYzM1ZDhhODRjY2FmY2MzNWNhMDExNQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBmMTEwYWJiZDQxOWU1NzQ3YmE2NjIxNTAwYTUxODI3Mg==`

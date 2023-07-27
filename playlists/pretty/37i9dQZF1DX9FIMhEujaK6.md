@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,160 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,298 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
 | 50 | [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 |
 
-Snapshot ID: `MCw2ZjkwMDNlYmM3MzQyMjQ1OTI1NmRmYTUyYjIwOTIwZDg5ODkwZThi`
+Snapshot ID: `MCw4NjJlMDM0NzQxODg0NGU2YTRiNmFlZDJiNjIyNjE0Mzc3NDI3M2Jm`

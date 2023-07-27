@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,823 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,999 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
 | 100 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 |
 
-Snapshot ID: `MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk`
+Snapshot ID: `MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2`

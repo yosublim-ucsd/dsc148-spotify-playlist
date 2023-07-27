@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256 likes - 576 songs - 1 day 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 576 songs - 1 day 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 173 | [2 Fingers of Whiskey \- Music from The American Epic Sessions](https://open.spotify.com/track/5Yn8WCB4Dqm8snemB5Mu4K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [2 Fingers of Whiskey \(Music from The American Epic Sessions\)](https://open.spotify.com/album/1vWwGmDI0xHYUuGGOxMZka) | 2:52 |
 | 174 | [Have Mercy On The Criminal](https://open.spotify.com/track/1PHBBJNH4WFuDBlAuVKWMA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:57 |
 | 175 | [Joseph, Better You Than Me](https://open.spotify.com/track/3sP7Degi5k17ymz7yLvC2w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Neil Tennant](https://open.spotify.com/artist/1dfUmPiIel95MFXvQMUAED) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:51 |
-| 176 | [Take This Dirty Water](https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:24 |
-| 177 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
+| 176 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
+| 177 | [Take This Dirty Water](https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:24 |
 | 178 | [Voyeur](https://open.spotify.com/track/2RdAw1XJ6wfz26XqLgwuWE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:16 |
 | 179 | [I've Got 2 Wings](https://open.spotify.com/track/4FWVE1N9ikA1dTcUwT9T8q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:35 |
 | 180 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 |
@@ -585,4 +585,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 575 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 576 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `MjgxNzIyODAsMDAwMDAwMDAxMmVjN2M0MmFhOTliNDRlOTJjYzg2OGQ5Y2JlOGZmMw==`
+Snapshot ID: `MjgxNzM3MjAsMDAwMDAwMDA3OGRlZTA1ZGFlZDQ0ZThkNWRiOTI1NmNkNzIwNGMwMQ==`

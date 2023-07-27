@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 290479,
       "name": "The Voyage of the James Caird",
       "url": "https://open.spotify.com/track/0SYC9Cmjty5bKDQ6mqj3nw"
@@ -1640,6 +1640,24 @@
       "duration_ms": 290479,
       "name": "The Voyage of the James Caird",
       "url": "https://open.spotify.com/track/5wVeEIDipWe8qH8uPkAAEv"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3LHThPCPCGGwLu0ghEAYtC"
+      },
+      "artists": [
+        {
+          "name": "Graeme James",
+          "url": "https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290479,
+      "name": "The Voyage of the James Caird",
+      "url": "https://open.spotify.com/track/6ITIy2hnY7xx9wCLycIlzq"
     },
     {
       "album": {

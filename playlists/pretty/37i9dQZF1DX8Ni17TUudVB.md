@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,209 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,235 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 |
 | 90 | [Back to the Oldskool](https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Back to the Oldskool](https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz) | 2:24 |
 
-Snapshot ID: `MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz`
+Snapshot ID: `MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My`

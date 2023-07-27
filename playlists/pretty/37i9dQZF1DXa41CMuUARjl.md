@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Gorgon City.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,157 likes - 108 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,258 likes - 108 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 71 | [Voices In My Head](https://open.spotify.com/track/6RS6BovE6tnIOvUt53igjm) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Voices In My Head](https://open.spotify.com/album/6h0pbokTs0VugzBF8OrutQ) | 3:00 |
 | 72 | [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 |
 | 73 | [Atmosphere](https://open.spotify.com/track/1jz0xzCf8SXUY8hLg8oCdY) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Atmosphere](https://open.spotify.com/album/1Kb2RNaDVyqmx5PhV9ghBQ) | 3:35 |
-| 74 | [The Night is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 |
+| 74 | [The Night Is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 |
 | 75 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
 | 76 | [Sweet](https://open.spotify.com/track/6QqY1z3Jz84WXcb8dLxXeL) | [LIMONADE](https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sweet](https://open.spotify.com/album/2G1gtzY6fzPNs3LXZ6LHks) | 3:42 |
 | 77 | [Theory of Everything](https://open.spotify.com/track/1fM2fEvOf7Jt2AApLE1fNJ) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Theory of Everything](https://open.spotify.com/album/1dOYf62WhMSRsO5KuNahrc) | 7:34 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 107 | [Endlessly](https://open.spotify.com/track/0tVKWIj6W7BzKxb7lrhV4E) | [Edward White](https://open.spotify.com/artist/5hS9c3HfGey4nXQxjcrCS1) | [Endlessly](https://open.spotify.com/album/1asBV1bOFRkKThZpK4Meuy) | 3:55 |
 | 108 | [Moeh](https://open.spotify.com/track/6qGPTcyQVTbSxmuGpXx1qF) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Moeh](https://open.spotify.com/album/2hhvk6Oepcv3j2VuwFrCMw) | 5:59 |
 
-Snapshot ID: `MCw4MGRhYTg4NWU5OWNkNTI2YWUzOGI2ZWFiMGEzNjRjNTQzY2U0MWRk`
+Snapshot ID: `MCxjMzUwZTc3ZTFmOTQwYzY3NDEyNDY4ZmVhMjMxNGI5YzE0NDgyZDM5`

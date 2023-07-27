@@ -244,6 +244,24 @@
     {
       "album": {
         "name": "Brillo en Soledad",
+        "url": "https://open.spotify.com/album/4TyWJZlbnKjneVFZnSqUOe"
+      },
+      "artists": [
+        {
+          "name": "Lunastasia",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262852,
+      "name": "Brillo en Soledad",
+      "url": "https://open.spotify.com/track/489o2zIJx0S6I5HusgbBLK"
+    },
+    {
+      "album": {
+        "name": "Brillo en Soledad",
         "url": "https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr"
       },
       "artists": [
@@ -254,7 +272,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 262852,
       "name": "Brillo en Soledad",
       "url": "https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn"

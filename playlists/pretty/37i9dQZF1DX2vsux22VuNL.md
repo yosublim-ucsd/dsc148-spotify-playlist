@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hodari, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,291 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,290 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 69 | [Baby](https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Baby](https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM) | 2:58 |
 | 70 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 
-Snapshot ID: `MCw0M2YxYjIzMGQxZTYyNTllNTYxZWY4MThkYWE2OWRmOTY1YmY0NGY4`
+Snapshot ID: `MCwyMmQ4ZTk1MGIzZjExMmU0ZDEyZWQ0ODQwNzNiYmNiZTMwN2Y1NThk`

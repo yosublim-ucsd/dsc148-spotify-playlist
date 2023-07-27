@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,851 likes - 75 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,543 likes - 75 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 |
 | 75 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
 
-Snapshot ID: `MCw5ZGU3MzcyY2YyOTI0YzEyOWY3OWEyYTQzZDQzZGQ5OWJlOGY4YWUx`
+Snapshot ID: `MCxhMDg2Y2VjODJmMjllMGYwMTcyZWI3OTRmOWY4Zjg0MTVhNTQ1NTk5`

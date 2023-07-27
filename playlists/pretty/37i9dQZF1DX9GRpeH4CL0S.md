@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,660 likes - 225 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,877 likes - 225 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
 | 225 | [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 |
 
-Snapshot ID: `MCxmNWQzYmYyZDA2MTA2NGFlNDZlNDlhYmIxMmY5OTcyOWZiZjRmOWE3`
+Snapshot ID: `MCwxZmIwMWExZWNmNDQyZDBlNzg4NWYyODNjYTBjMWYyZTcxYzVkMmNk`

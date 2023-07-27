@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,835 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,022 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
 | 50 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
 
-Snapshot ID: `MCw5ZDNiMWQzN2Y5OTU4YzljZGJjMzY1ZTllMjU2MDdkZjY0MjVmZjBk`
+Snapshot ID: `MCwxOGZjYTdjYThjNTYxNzBjYTk0NWZmYTI0YTI3NDkxMmY5N2E2YjAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,822 likes - 120 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,217 likes - 120 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Além do Impossível \- Ao Vivo](https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Além do Impossível \(Ao Vivo\)](https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu) | 4:26 |
 | 120 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 
-Snapshot ID: `MCwyNzVkMDgyN2E1NDlmMjc5N2U5ZjMxMjVmYTdjY2NmNGM1MGQyODU0`
+Snapshot ID: `MCwxOTE0NWViODRjNWMyM2I3NmQ5Njg3M2U2YTA5OWFmZDdmZDQxNmEw`

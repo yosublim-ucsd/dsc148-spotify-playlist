@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites Cover: Molly Tuttle & Golden Highway
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,648 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,688 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 |
 | 100 | [When I Called Your Name](https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq) | [Twisted Pine](https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps) | [Twisted Pine](https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i) | 4:12 |
 
-Snapshot ID: `MCxhNGIzMDJiYjk1NzEzNzE4MmUxYmViOWNlMTgxNDA4N2FlYTFkODI2`
+Snapshot ID: `MCxiZGVmYWVmNDdhMGMxZTY5MjFkZmZmMDdmZDIyZjU5OGJhNTg5NDcz`

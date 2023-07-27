@@ -1,15 +1,35 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Ice Spice ...like?",
-  "num_followers": 3666,
+  "num_followers": 3707,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTNlYjBjNmYzY2M4NWExN2I5NTg2YWY5MWU4YTczMzFmZTQwODY0",
+  "snapshot_id": "MCxjMjkxNzFmOWY1ZTY0ZjdiMzBlYzBjNjc0NzY3NWJkODdmOGYxMTFh",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "RIOT (Rowdy Pipe'n)",
         "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Passport Bros (with J. Cole)",
         "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "K Toven",
         "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Married with Millions",
         "url": "https://open.spotify.com/album/1axgP2oTkXQDzQkwxx6dQ1"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "I Did What I Did",
         "url": "https://open.spotify.com/album/5KqCDDQsxLCHcgwlZ6UR1p"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/6dczv2wlXwCeUkRPjzHUGL"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Main One (feat. Tyga)",
         "url": "https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/0VXiRXHcZVNbC6iQqN3z3B"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/5iBHDlBnHNXVZU7NPKnyIi"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Everybody Good?",
         "url": "https://open.spotify.com/album/4IGmfmJv1wys4O024rfyR4"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/4XghGOKbaaXArMGfHPMM3V"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Roc-A-Fella Y'all",
         "url": "https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "KILL BILL",
         "url": "https://open.spotify.com/album/3Qhb91LDVBpD4NrUrRmzWV"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/3CRi18HCxwTCG2mbILvAAM"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "wiggy",
         "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "RESILIENCE",
         "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "500lbs",
         "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Drug Trade (feat. Black Thought)",
         "url": "https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2Sl0XaBXOfw6xGivwcwoba"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/45SON3lVRz2QMyRXOqIN8v"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "CMFTZN",
         "url": "https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "haunted",
         "url": "https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Imposter Syndrome",
         "url": "https://open.spotify.com/album/5uilQFYc81tbH2xzbzuo4d"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/3MpA8QeT11P2e6aklQbtou"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "WDYM",
         "url": "https://open.spotify.com/album/2HVIZGP4NsRUIH08JwVoon"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/5yUBDuIUCq1goFwlFLYqNG"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4HVIhSLVZl7cUHKIoYQFY3"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/4cBrNBNJvLsW5xT4nEHacz"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
         "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Don't Like Me",
         "url": "https://open.spotify.com/album/2k7lOOiEmerUPSuIftNvk4"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/6ULzrOfL5CveQ6U6duTPNm"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "TINGS",
         "url": "https://open.spotify.com/album/7B4je7XP6oUlnaDeV6HHVS"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/7zVKsKGvYJ6RHbUrOJ9K1e"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "1997 Odyssey",
         "url": "https://open.spotify.com/album/09aonWrbRUpGGtXu9ADvgO"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/3ezaC3cvESxvMQebVhHA0U"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "L.E.S.",
         "url": "https://open.spotify.com/album/0vCpPth9Y4tSA4DMPEV5Bn"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/1kpMg0BSNqeCU9jCX2fcy3"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Passion!",
         "url": "https://open.spotify.com/album/3lRWHlop8CPMMwVbgVBswK"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/45dfu5Lascxaykw2rSuW9w"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "TIKI TAKA",
         "url": "https://open.spotify.com/album/6bIYFuAoPgqTyMUoWLSd7d"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/2RMALBOw1E6ZDJJEPGrKif"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Spitta Man",
         "url": "https://open.spotify.com/album/0x67l2OQucmHaeNnpjO729"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6iU3Nybh60EuvjjL2rSY0h"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Drill Fr 6 (S.M.B)",
         "url": "https://open.spotify.com/album/19TPBKSQ0wdhNNaIT2cMyP"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/0UjjRIuiLhAiDXPtIu0tIo"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "The Tape",
         "url": "https://open.spotify.com/album/0X8A4v8t3JtwMjKPRX0sFB"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/4K59InY9uTtcWRM42DjPBr"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "STRETCH IT OUT",
         "url": "https://open.spotify.com/album/0GSLEMM6DhPQudEhpabyEh"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/5kxdTks1eSUwR4mc7OXZ6H"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "MOB TIES",
         "url": "https://open.spotify.com/album/7j7jeFadvlXU1T8TGADrhp"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/07AUrZJt218IV4ZJ6OHsFL"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "BAD DAY",
         "url": "https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Walls Down",
         "url": "https://open.spotify.com/album/20U5TysDKPLk2tx50xx9bI"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/5uZ7tj1INvIEGpCRmzNK37"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Posts",
         "url": "https://open.spotify.com/album/5siEfiKTiUgxd4hpmAJcbM"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/3j4p2KmpdzqrvcISyN8lJQ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Money & Bodies",
         "url": "https://open.spotify.com/album/4Q2bpS8YGciBfHSPClyCBW"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/1vXHaIzWeYCRcrG1neqIba"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Bet I Whip It",
         "url": "https://open.spotify.com/album/3C40JiY1U2hnuD9rJuwWeG"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/2P3cViFbB2oNYZiupcNYYt"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/5C5ppCQzmnD3FR5YoQAdo9"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/1OnbAnxKWfoaN6PUKnAb4k"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0i8wnFw9Lgx0TmrYs9jjyv"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/6ZthZRYUyDl869j7GbWlP8"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Bet On Me",
         "url": "https://open.spotify.com/album/0JGqi6deAkpzBRLu058ZE6"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/2S0vohOnepscSGwcyCpRjS"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/3JPfGv2Ae1D3WZ7XxhhH38"
@@ -881,7 +901,7 @@
       "url": "https://open.spotify.com/track/7uhLeIX7N7uHwndnOOd7ef"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Wrong Time",
         "url": "https://open.spotify.com/album/2lAdM6wIy4HU1csoTZyLyH"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/2f2kSJWmm90VJjdjjeRhwM"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 04:00:00",
       "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/5C5bkukBuGHZFAh2JYmXAy"

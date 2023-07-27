@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,201 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,207 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
-| 2 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
+| 1 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
+| 2 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
 | 3 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 |
 | 4 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
 | 5 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 20 | [Bang! \(feat\. Hayley Kiyoko\) \- AhhHaa Remix](https://open.spotify.com/track/4Fi00h3wo3P8gmhAHT1qX4) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/7v5X3cQDhUuU6pO5rnALw8) | 2:47 |
 | 21 | [luna](https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:47 |
 | 22 | [Wanna Be Missed](https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:15 |
-| 23 | [Mr\. Brightside](https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Mr\. Brightside](https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex) | 3:48 |
-| 24 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
+| 23 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
+| 24 | [Mr\. Brightside](https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Mr\. Brightside](https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex) | 3:48 |
 | 25 | [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 |
 | 26 | [He'll Never Love You \(HNLY\)](https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:51 |
 | 27 | [Palace](https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 4:00 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 41 | [Hit & Run](https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:33 |
 | 42 | [A Belle to Remember](https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:26 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA3MzAwNWFiYjA5NDRhMTNlOTg2ZDQ3ZmM3MTBkYTQ5NA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBhNjk5ZTMzMzA0Y2UzZDRiZjI0Mzc5ZWQyZWFhM2Y3Yw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,421 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,480 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 |
 | 100 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 |
 
-Snapshot ID: `MCw5NzE2MGU3MzQzZDlhYzRkMWEwOTgwMTM4MTY1M2UwMGE1ZTQ0ZWQ4`
+Snapshot ID: `MCw3MGRhMDMyMTAwZjNmYjg1NmM1YTIyMDFmNjE0ZjIxOWEwMTQyMDUy`

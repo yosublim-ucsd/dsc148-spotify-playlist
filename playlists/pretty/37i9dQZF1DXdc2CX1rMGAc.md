@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,585 likes - 150 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,675 likes - 150 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 149 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 150 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
 
-Snapshot ID: `MCwwNmYzOTFkZGM4ZjJmNTNkNjU5MTM2YjQyMjM2YmU5NTczOGEwMWQx`
+Snapshot ID: `MCw1OGRhY2UyYzgyZTEyNWViN2MzMmRlYWU2MzU5YjM0NTdmYjU2ZDE5`

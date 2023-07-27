@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,022 likes - 194 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,092 likes - 194 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 193 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
 | 194 | [Never Really Over](https://open.spotify.com/track/1IIV8jglA0klVZy17q665k) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:43 |
 
-Snapshot ID: `MCw1MTE4MjkzMzE0NTFjMjgzMTE4YTBiOWMxMDBjM2JmMTRkOGVlNTIy`
+Snapshot ID: `MCxhN2JjZjMzYWY1Mjc1MGE3OTQxZWQ4MzVmOTIxNzFhZDNlODZjYTVl`

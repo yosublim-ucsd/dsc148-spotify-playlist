@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-202 songs - 23 hr 47 min
+203 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Clipper](https://open.spotify.com/track/0tH7mxb2ML1VlOinHRcelQ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:34 | 2022-05-29 | 2023-02-17 |
 | [Clipper](https://open.spotify.com/track/1ArhkZYHmJGXZOMV6NwxjJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 8:34 | 2023-02-16 |  |
 | [cloudline](https://open.spotify.com/track/3Q0IL8QISH9jsChlpj81Yp) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 10:12 | 2022-06-26 | 2022-09-20 |
+| [cloudline](https://open.spotify.com/track/3eoe9y3n53Nedjt8feuvPs) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 10:12 | 2023-07-26 |  |
 | [Corc](https://open.spotify.com/track/6AyBDeZwVK9K0aX4tB9Tjw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 5:50 | 2023-02-15 |  |
 | [Corc](https://open.spotify.com/track/770zYtbMuU5grFPUIzxmfQ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 5:50 | 2022-05-29 | 2023-02-16 |
 | [Crystel](https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 4:37 | 2023-02-19 |  |
@@ -102,7 +103,7 @@
 | [jatevee C](https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 4:14 | 2023-02-18 |  |
 | [Kalpol Introl](https://open.spotify.com/track/0kqwVecxuFaADjChcSnDiI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 3:18 | 2023-02-14 |  |
 | [Kalpol Introl](https://open.spotify.com/track/0vcxzlGMHaOSTx00tslGmT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 3:18 | 2022-05-29 | 2023-02-15 |
-| [known\(1\)](https://open.spotify.com/track/1aNXY1y64m1XKAaNTuUdcm) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:42 | 2023-02-14 | 2023-07-25 |
+| [known\(1\)](https://open.spotify.com/track/1aNXY1y64m1XKAaNTuUdcm) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:42 | 2023-02-14 |  |
 | [known\(1\)](https://open.spotify.com/track/3D4MFqv1yjHj2YTZ8ViktH) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:42 | 2022-06-01 | 2023-02-12 |
 | [Krib](https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EPs 1991 \- 2002 \(Part 2\)](https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz) | 3:11 | 2023-04-22 | 2023-06-18 |
 | [Krib](https://open.spotify.com/track/1PwOmBEUiHKWcCo1MdBbsx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Cichli Suite](https://open.spotify.com/album/6IiREOa72J2Pv4UJ6yafKV) | 3:11 | 2022-10-12 | 2022-10-25 |
@@ -167,7 +168,7 @@
 | [Second Bad Vilbel](https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 9:47 | 2022-05-29 | 2022-12-21 |
 | [Second Peng](https://open.spotify.com/track/45OEbsXYGYgCcymMK5tI1s) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 10:53 | 2022-07-21 | 2022-07-23 |
 | [Second Scout](https://open.spotify.com/track/7kGpCKuJUUkNLGJ8uIKXHG) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 7:45 | 2022-05-29 | 2022-10-13 |
-| [see on see](https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:37 | 2023-02-14 |  |
+| [see on see](https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:37 | 2023-02-14 | 2023-07-27 |
 | [see on see](https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:37 | 2022-06-03 | 2023-02-15 |
 | [si00](https://open.spotify.com/track/49Ux8dnMRPMDSiNrewL4II) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:51 | 2022-05-29 | 2023-02-15 |
 | [si00](https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 5:51 | 2023-02-14 |  |
@@ -188,7 +189,7 @@
 | [Tankakern](https://open.spotify.com/track/3ZD4sI2uQ1ZMUgU2PlGdYx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 3:39 | 2022-07-21 | 2023-02-17 |
 | [Tankakern](https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 3:39 | 2023-02-17 |  |
 | [Teartear](https://open.spotify.com/track/66VeMBcGiUYsXUr5Jqc2QV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:45 | 2022-05-29 | 2022-08-24 |
-| [Tewe](https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 6:56 | 2023-06-17 |  |
+| [Tewe](https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 6:56 | 2023-06-17 | 2023-07-27 |
 | [Tewe](https://open.spotify.com/track/1bP6HZj0zgug1YdY1fQxZO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 6:56 | 2023-01-22 | 2023-02-13 |
 | [th red a](https://open.spotify.com/track/65RIjM8g7PjlNmamEDbbeW) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 6:35 | 2022-06-22 | 2022-11-07 |
 | [The Egg](https://open.spotify.com/track/07TquTYZrmDazkHp8hFLWS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 7:33 | 2022-05-31 | 2023-02-23 |

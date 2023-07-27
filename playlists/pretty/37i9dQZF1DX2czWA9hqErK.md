@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,316 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,318 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 100 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 
-Snapshot ID: `MCxkMGUzZjYxZDBkNjYwZTAyNDY3OTM2YzBmMjczMTkxOTUzNWVhMzQz`
+Snapshot ID: `MCw4YzA5ZDgwNTUzZGY5MTE4YjlkZDYzNTQxNGNiZGRhOTQwNzVjOGY4`

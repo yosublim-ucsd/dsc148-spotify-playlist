@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,605 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,223 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 104 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 |
 | 105 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 |
 
-Snapshot ID: `MCw2NDUwMTFkYjFiYjQ5MDMwNTc3OTY2ZDEyNmJlMTFhYjJjMjM1NTIw`
+Snapshot ID: `MCxjYWZkYTM1YmU4MDc2MzliODYwOGRkNGNlMGE3MGJmMjBmOTQxZmZj`

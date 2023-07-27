@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,457 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,488 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
 | 50 | [Pagdandi](https://open.spotify.com/track/4sVsPVWeoALxXeJ8rof2bN) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP) | [Pagdandi](https://open.spotify.com/album/1d4SyBc282ylobPcMQBPvD) | 3:10 |
 
-Snapshot ID: `MCxhZTc5NTEzOTk3MzYxOWMyYTA2MGYwOTk3Y2I4MTI4ZGQ3MTVjNjE1`
+Snapshot ID: `MCwyM2Y4MzhmY2M0MTJhMzlhZmRmM2M5OWViM2ZlMjJkNDM0MWQ0YzQz`

@@ -1,12 +1,12 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. poppy",
-  "num_followers": 506619,
+  "num_followers": 506743,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDkwZDY1NTQ2MDBiZTE1NzFlNTI5MjA1ODgwMmMwYzEyZDE5YmI2",
+  "snapshot_id": "MCw4ZDU3ZTM5Y2ZiNWNjZmVhNGIxODVjMjgxMzllZTJiNDVlZWQ3NzEy",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -775,6 +775,22 @@
       "duration_ms": 122360,
       "name": "Death Before Designer (feat. SosMula)",
       "url": "https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "cursed angel",
+        "url": "https://open.spotify.com/album/5gmokIT1CReABvOdt1YGpI"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "duration_ms": 225858,
+      "name": "cursed angel",
+      "url": "https://open.spotify.com/track/4pydYArxjKWJlEiv0XEo8K"
     },
     {
       "added_at": "2023-07-20 23:00:00",

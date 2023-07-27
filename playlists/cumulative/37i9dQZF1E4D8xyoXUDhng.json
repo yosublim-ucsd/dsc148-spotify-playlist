@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Black Denim",
+        "url": "https://open.spotify.com/album/2KQ5mRyS8qRGdD33SrujDJ"
+      },
+      "artists": [
+        {
+          "name": "DeAndre",
+          "url": "https://open.spotify.com/artist/69fdR7XndbNaUviSjnbYBD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Black Denim",
+      "url": "https://open.spotify.com/track/5AVKrFRTKs27BYbUyxHBDo"
+    },
+    {
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3PNPrTwb1ErrwBnfFhirGc"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 295706,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/1Xsx9rx4CpkMCyn1mqHw5H"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 220773,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
@@ -3462,6 +3480,24 @@
       "duration_ms": 309506,
       "name": "God",
       "url": "https://open.spotify.com/track/1GayF9WJ8to7HxrLCy9vvr"
+    },
+    {
+      "album": {
+        "name": "A Wing and a Prayer",
+        "url": "https://open.spotify.com/album/5hP7VNXVAG4Y0g3D0L9kGv"
+      },
+      "artists": [
+        {
+          "name": "Bishop T.D. Jakes and the Potter's House Mass Choir",
+          "url": "https://open.spotify.com/artist/2AKr4YLPb1ICeF7CqJXoxk"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "God Be Praised",
+      "url": "https://open.spotify.com/track/3XKjvJdVjaFy5upJRp3lAo"
     },
     {
       "album": {
@@ -7622,7 +7658,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 88793,
       "name": "King Jesus",
       "url": "https://open.spotify.com/track/5BRfvyr00qWB3xdgqUmKUH"
@@ -7694,7 +7730,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 226808,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/41rF5ni0FCYZvKmYAPe3Lu"
@@ -10962,7 +10998,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 333075,
       "name": "Revelations 19:1",
       "url": "https://open.spotify.com/track/4pSUxkUKeWFyFNkzl7XoBU"
@@ -11132,7 +11168,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 295160,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/6LfQnWVGxmKbha6XclRrLD"
@@ -11878,7 +11914,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 390773,
       "name": "Soon As I Get Home",
       "url": "https://open.spotify.com/track/2N3FVKiEcIZU8Aejl3BPOg"
@@ -12736,7 +12772,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 134691,
       "name": "The Healing Song",
       "url": "https://open.spotify.com/track/2ChdqlOe0gYMpigxsfC9kq"
@@ -13667,6 +13703,24 @@
     },
     {
       "album": {
+        "name": "Uncloudy Day",
+        "url": "https://open.spotify.com/album/0aNboFiRPSVQHjUq5JkMHQ"
+      },
+      "artists": [
+        {
+          "name": "Myrna Summers and the Refreshing Springs C.O.G.I.C. Choir",
+          "url": "https://open.spotify.com/artist/1eJJXyuTuI1DErdBFpHmzT"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483800,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/7magd024RebQxBGHvNcOWk"
+    },
+    {
+      "album": {
         "name": "Beloved SoS 6.3",
         "url": "https://open.spotify.com/album/2sf7UTALuVrgYIhRTnIQ2B"
       },
@@ -13906,7 +13960,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 441986,
       "name": "We Need You",
       "url": "https://open.spotify.com/track/68yUHwnNiuhltk2HQoIu9l"

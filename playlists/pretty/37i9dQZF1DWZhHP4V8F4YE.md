@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits here
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,065 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,220 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 44 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 |
 | 45 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 46 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 |
-| 47 | [Ka Valungu \- African Vibe PT 2](https://open.spotify.com/track/343cAtGBlqslMQAgYUAbI3) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d) | [King Of Shangaan Disco](https://open.spotify.com/album/7viT1YuB5SUkpPGR8wGODb) | 5:13 |
+| 47 | [African Vibe PT 2](https://open.spotify.com/track/343cAtGBlqslMQAgYUAbI3) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d) | [King Of Shangaan Disco](https://open.spotify.com/album/7viT1YuB5SUkpPGR8wGODb) | 5:13 |
 | 48 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 |
 | 49 | [Ka Gaza](https://open.spotify.com/track/2uhBXGRMFAoKQWdv4hEvdw) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Gaza](https://open.spotify.com/album/3Wumaf93hSByt3uEp2FvgJ) | 4:40 |
 | 50 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 
-Snapshot ID: `MCw0ZjE4OWE4ZWYzNWM2NDIzZmUxYWUyMThlN2ZiODMxNjY5YzUxNDgz`
+Snapshot ID: `MCw4NTViMzRlN2RlNGVjMjIzMjA1ZTAwOWNjMGQ1MTA3M2Y2N2Y1ZTdk`

@@ -4,12 +4,13 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-115 songs - 6 hr 29 min
+116 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [722](https://open.spotify.com/track/2ib0FnnI0zXtaEl97Ne4KL) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [722](https://open.spotify.com/album/5yjY5yfVnICnlK7xc5m0MF) | 3:39 | 2023-04-14 | 2023-07-17 |
 | [Abstinencia](https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Abstinencia](https://open.spotify.com/album/4qACZqHGBIQvjcB5OLnzDJ) | 4:44 | 2023-03-28 | 2023-06-24 |
+| [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 | 2023-07-26 |  |
 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 | 2023-03-19 | 2023-05-27 |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-19 | 2023-05-12 |
 | [Alma Sola \- Versión Acústica](https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Alma Sola \(Versión Acústica\)](https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2) | 4:42 | 2023-07-14 |  |
@@ -90,7 +91,7 @@
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-04-02 | 2023-07-12 |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-04-11 | 2023-07-19 |
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-07-13 |  |
-| [Olas Negras](https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Rojo](https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu) | 3:16 | 2023-04-23 |  |
+| [Olas Negras](https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Rojo](https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu) | 3:16 | 2023-04-23 | 2023-07-27 |
 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 | 2023-03-19 | 2023-04-14 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-23 |  |
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,796,178 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796,703 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
 | 100 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
 
-Snapshot ID: `MCw0ODEwMDY3ODBhZDQ2ZDhlYzg2YTlmNDRkNTI1MTYyOThkOWM4ZjNm`
+Snapshot ID: `MCw2OTgxNmY4ZGY5ZDBlYjI1OTU0NmY0ZWZhYjIwMjQzMzBiNTE0Zjc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe\-v3w8sQ">Alice Phoebe Lou</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,567 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 |
 | 50 | [jupiter.](https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [jupiter.](https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ) | 3:46 |
 
-Snapshot ID: `MCw4MmJkNjMxMzFlZWMxNjU5MjVlZTU1MWI1YjY2Mzc3NjI5Y2M4NDE3`
+Snapshot ID: `MCwwN2E4ZjM3YTQzNTg2MjYyZjc3NWEzZjMwMGZkZTY0N2Q0MTJhMDM1`

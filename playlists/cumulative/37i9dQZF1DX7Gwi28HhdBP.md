@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=Ncl82xqKTzucexrYZ\-aeyQ"> رضا البحراوي </a>
 
-221 songs - 16 hr 33 min
+222 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Daq El Hawa Daqa](https://open.spotify.com/track/0616KTViZeKjYJx1fM4Wzv) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Daq El Hawa Daqa](https://open.spotify.com/album/2FmJLnDFQL0hMsytTGP4bk) | 4:38 | 2023-01-12 |  |
 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2021-12-16 | 2022-07-29 |
 | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Amr Yousef](https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ), [Hassan Elraddad](https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW), [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/album/39myupeh2lms0htXCRYpgv) | 3:18 | 2022-02-23 | 2022-10-18 |
-| [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 | 2021-12-16 |  |
+| [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 | 2021-12-16 | 2023-07-27 |
 | [Efrah](https://open.spotify.com/track/4rQSgu2iUS6lLutbTytuM6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [Efrah](https://open.spotify.com/album/65TrnR56Wv5be0H9z1NQ5l) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Egrah](https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Egrah](https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf) | 5:18 | 2021-12-16 | 2023-05-12 |
 | [Eih da Baka](https://open.spotify.com/track/2puBiI4f3CDatawv4n62rd) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Youmein Doul](https://open.spotify.com/album/6FaIiqKHiAH1oL3wSN1Hdu) | 4:44 | 2021-12-16 | 2022-07-29 |
@@ -155,6 +155,7 @@
 | [الدنيا زى المرجيحة](https://open.spotify.com/track/3hpTzud70Ev2P0DRrwq5ei) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/0fjBBiAujhUV5XN0ufBxeP) | 4:56 | 2022-07-14 |  |
 | [الرزق](https://open.spotify.com/track/2ZyuJBbX3EfbYbnQcRHgdy) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq), [Eman Al Hakamy](https://open.spotify.com/artist/72UE9fxM1TrbjIFN82vlXW) | [الرزق](https://open.spotify.com/album/0UM5M3uVlr3jrIZ7BP5U1f) | 5:28 | 2021-12-16 | 2022-07-29 |
 | [الرزق](https://open.spotify.com/track/6KcPpxoGf9sHrW0s44agGM) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq), [Eman Al Hakamy](https://open.spotify.com/artist/72UE9fxM1TrbjIFN82vlXW) | [الرزق](https://open.spotify.com/album/2fxJY4BM9ias683sm0fuWz) | 5:28 | 2022-07-14 | 2023-05-12 |
+| [السخان](https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [السخان](https://open.spotify.com/album/5dYVZRHfYxMnpizVoXyane) | 3:06 | 2023-07-26 |  |
 | [السم جوه العسل](https://open.spotify.com/track/7i2pvvHw2DbOxQQqdErN2H) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [السم جوه العسل](https://open.spotify.com/album/5oeVGgDGQOn7N0TcV4cjSi) | 4:20 | 2021-12-16 |  |
 | [الغل مني هاريكو](https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الغل مني هاريكو](https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g) | 4:02 | 2023-07-11 |  |
 | [القلوب طرحت حجارة](https://open.spotify.com/track/6ZrC8g6j9V0e0dBGpUKD0E) | [Tarek El Sheikh](https://open.spotify.com/artist/1yi5rDKyrkV1zdDXOzOMkk) | [القلوب طرحت حجارة](https://open.spotify.com/album/5DigNXSH1AyfVXElOKsKy6) | 5:11 | 2021-12-16 | 2022-04-22 |

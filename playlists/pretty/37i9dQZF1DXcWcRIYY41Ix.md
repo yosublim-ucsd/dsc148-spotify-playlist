@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,304 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,339 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 |
 | 100 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 |
 
-Snapshot ID: `MCwwM2Y1YzUxMGY5YzU2OTZiZmYxMTIwMjIyMTEyZDIwMjQwNjA5MzBk`
+Snapshot ID: `MCwyOTg2YzZjNjQ0ZTRmYWY4MWNhYjM3NjYzOTg1ZWI0ZDIwMTI3YWQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Pronto
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,549 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,553 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 70 | [Ich komme wieder](https://open.spotify.com/track/2pR3emIP4P5xMPXgsVk9Aw) | [Duke102](https://open.spotify.com/artist/0xsJ8Ai6YxQyu67QZhSQhz), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Do Fury](https://open.spotify.com/album/74WjmEBQ9bIhfORAQDTjuP) | 2:59 |
 | 71 | [WAS HAST DU DAVON](https://open.spotify.com/track/4i1z1S6VORVQp8p6l5PKgc) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [WAS HAST DU DAVON](https://open.spotify.com/album/16PPyfXBsMdPovgXw7Ck3I) | 2:48 |
 | 72 | [Hope](https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg) | 3:02 |
-| 73 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 73 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 74 | [Crush](https://open.spotify.com/track/6rP3JtsrgWtcZ2jgebjO9M) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Crush](https://open.spotify.com/album/1FUsUNx84QqKg0fzyWfX4g) | 2:32 |
 | 75 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 |
 | 76 | [All Night Long](https://open.spotify.com/track/5FIMtIpUwx8BhTs51DxOM7) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [All Night Long](https://open.spotify.com/album/2ZoS444UXqjKrbffmJi4VU) | 2:42 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 86 | [Miss Belladonna](https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Miss Belladonna](https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC) | 3:04 |
 | 87 | [Kurz vor Mitternacht](https://open.spotify.com/track/1VlweHpugA3HVSVSdklfWE) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Kurz vor Mitternacht](https://open.spotify.com/album/7snqlkdNQbrjlFpixzg1vw) | 4:25 |
 | 88 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 |
-| 89 | [Can't Say No](https://open.spotify.com/track/1vvl2D49baaYpDy7Qopi6n) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Can't Say No](https://open.spotify.com/album/4wK7MTfzP5Nxa6ocA99ndM) | 2:54 |
+| 89 | [Can't Say No](https://open.spotify.com/track/4sL7WiAbjQ5leq5jz93K3r) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Can't Say No](https://open.spotify.com/album/1MUiSyd4AP13TUPpRvb2qV) | 2:54 |
 | 90 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 |
 | 91 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 | 92 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Oddly Romantic](https://open.spotify.com/track/4hjyFKinATTmR5f2qgjInh) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Oddly Romantic](https://open.spotify.com/album/6DjhS8JwpjsXHIVjqidazW) | 3:35 |
 | 100 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 |
 
-Snapshot ID: `MCxlZjBkZWFmYmFhMDAwOGFhZTE4Y2UwOWI2NjVkM2FhZjA1ZDEzZmQ1`
+Snapshot ID: `MCw0N2RmMTUxNTkwNDVkNGMyMDg1NTBhY2ZhYjVmNGMxMGM4ZjIzZGNl`

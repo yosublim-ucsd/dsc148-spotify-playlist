@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,116 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,126 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 14 | [nothing matters \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 |
 | 15 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 16 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
-| 17 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 |
+| 17 | [Sonny](https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:27 |
 | 18 | [The Promise](https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
 | 19 | [Cups](https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 1:50 |
 | 20 | [Sincerely Me](https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:47 |
-| 21 | [Sonny](https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:27 |
+| 21 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 |
 | 22 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 |
 | 23 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
 | 24 | [The Glory Of Love](https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Get Me Home](https://open.spotify.com/track/1xatXm1qIuJ611sUj554pi) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:30 |
 | 50 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBlMDUwMTE2OTM0MWZhMjJmODUxNDZmZmM1N2M5MzlhZg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBkMDAzNTE4MWExMGMwMmVjODhlYzA0YjUyNDU2MzUwNw==`

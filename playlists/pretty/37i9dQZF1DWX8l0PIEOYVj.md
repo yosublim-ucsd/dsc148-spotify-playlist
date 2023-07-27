@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Dabin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,714 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,770 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Lonely](https://open.spotify.com/track/0i9XzZElo5bpCCblQ3UpCS) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Leila Pari](https://open.spotify.com/artist/74psZWrKKzR4f9mplHXqJb) | [Lonely](https://open.spotify.com/album/5dXu6XuogLgDJJkb390Xnb) | 3:51 |
 | 150 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 |
 
-Snapshot ID: `MCxjMTJjZDFjNmQyY2U3N2IyMmVjOGM2NzU3MzYyMTc5MmNhZDVhMTA2`
+Snapshot ID: `MCwzOGQ5ODFjYjJiZjY2M2Q3ZDM3OThiODRlMDg5M2M2N2ZiYWUzNWVm`

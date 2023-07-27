@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,271 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,627 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 |
 | 50 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 
-Snapshot ID: `MCxhNzI3MjNhM2RkNjY1NTc1OWM1MzNjM2UwNGRkYjU0NTI1ZDlmYTVj`
+Snapshot ID: `MCxjZDhiNzM4MzJhZjQ3YTQzOWI5NTU5ZmE3OTVmNjBmMDM2N2EwZmQz`

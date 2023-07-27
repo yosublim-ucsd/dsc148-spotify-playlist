@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,314 likes - 500 songs - 1 day 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,375 likes - 500 songs - 1 day 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 499 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
 | 500 | [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 |
 
-Snapshot ID: `MCw4NDFkMjAxYzUyMzc4MzAxYmY2MjlkYmIxYmU4NWViYjJiM2ZmNGE5`
+Snapshot ID: `MCxjN2NhYTQ5NDRlNWYzNmEzZWFhM2U1ZDBmYzlmZTYxZWE4ZjQzODFm`

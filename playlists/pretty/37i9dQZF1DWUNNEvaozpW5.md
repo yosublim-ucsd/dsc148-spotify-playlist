@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como La Fuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,583 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,700 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 | 75 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
 
-Snapshot ID: `MCwxYjE4MzRjNjA0ZjI0ZjE3OTIzOGQyZWE2ZDZhNDc5ZjUxNDg1Zjg2`
+Snapshot ID: `MCw4YzY2NTY0ODA2MTJkZjE3ZDU3MGM2YWRkNTJlODA5OTUwZGU4MTA2`

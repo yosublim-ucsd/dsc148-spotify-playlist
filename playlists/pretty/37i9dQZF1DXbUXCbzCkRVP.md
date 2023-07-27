@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,108 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,157 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 |
 | 80 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 |
 
-Snapshot ID: `MCw3NTYyNjIxNjJmNTNmNTVjNGNmY2RmMDNiZWQ4ZjRkNzM1ZWQzOGNj`
+Snapshot ID: `MCw1YzIyYzE5ODllY2IxOTc3OTFiMTQ2OWE2OGY2ZTQ4NzNlZWRjZDRi`

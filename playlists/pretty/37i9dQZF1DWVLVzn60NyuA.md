@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,028 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,258 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 |
 | 150 | [C'est Cuit \(feat\. Aya Nakamura & Swae Lee\)](https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:36 |
 
-Snapshot ID: `MCwzMzhmZmUzNjMzODdhNjhhYWMwZTJkZDdmNjVjMGQ2NDkxNjRhZjFm`
+Snapshot ID: `MCxkN2I4M2ZlYzY0YjY3NDQ0YWQ0MzAzMTcwOWJmYjJjY2NmNWY3M2Rj`

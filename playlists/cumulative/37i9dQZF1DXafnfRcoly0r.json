@@ -160,10 +160,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 154428,
       "name": "Chihuahua",
       "url": "https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w"
+    },
+    {
+      "album": {
+        "name": "Snakes Alive - It's Fleabite 5",
+        "url": "https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154428,
+      "name": "Chihuahua",
+      "url": "https://open.spotify.com/track/3pRN7RUvtcNGLxBUUq8zf3"
     },
     {
       "album": {
@@ -358,10 +376,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 124013,
       "name": "Goldfish Swimming",
       "url": "https://open.spotify.com/track/6MbEEcCYiDRr91SIxT9qKD"
+    },
+    {
+      "album": {
+        "name": "Sing a Song, Vol. 4",
+        "url": "https://open.spotify.com/album/1CQ7EhKypvStEcKx4zHGgQ"
+      },
+      "artists": [
+        {
+          "name": "Tessarose",
+          "url": "https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124013,
+      "name": "Goldfish Swimming",
+      "url": "https://open.spotify.com/track/7o02v5TglBBQQ7Y5Aqobth"
     },
     {
       "album": {
@@ -1216,10 +1252,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 61626,
       "name": "Rabbit Hop",
       "url": "https://open.spotify.com/track/4uuEQv29ndZgc8uVlqt864"
+    },
+    {
+      "album": {
+        "name": "Sing a Song About Animals",
+        "url": "https://open.spotify.com/album/7jrnOkygJj11ak2ui02RXe"
+      },
+      "artists": [
+        {
+          "name": "Tessarose",
+          "url": "https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61626,
+      "name": "Rabbit Hop",
+      "url": "https://open.spotify.com/track/5iTb1LImL6ts8VMWVkfbol"
     },
     {
       "album": {

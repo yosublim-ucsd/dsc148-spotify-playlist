@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,482 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,519 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Nothing is Wasted \- Live](https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Bobby Walker](https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Nothing is Wasted \(Live\)](https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l) | 5:48 |
 | 100 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 
-Snapshot ID: `MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj`
+Snapshot ID: `MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw`

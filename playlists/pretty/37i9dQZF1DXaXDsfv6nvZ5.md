@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,900 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,933 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 99 | [How Deep Is Your Love \- Acoustic Version](https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 4:04 |
 | 100 | [On My Mind](https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:54 |
 
-Snapshot ID: `MCxjN2YwZTMzNjQwYWU5MTliNzY0NGNhMjQ2ZjI2YTZjNjExMTk1NTg3`
+Snapshot ID: `MCwwZjBlN2JkZGE0YWZiNmQ4OGEzYTAwOGQxMDExNmY4YjQ4ZThmYTY0`

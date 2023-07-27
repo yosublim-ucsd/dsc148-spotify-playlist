@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,026 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,115 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 2 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 |
 | 3 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
 | 4 | [Jungle](https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:28 |
-| 5 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
+| 5 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 6 | [Castles Made of Sand](https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:48 |
 | 7 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
 | 8 | [Freedom](https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:26 |
-| 9 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
+| 9 | [Mercy, Mercy \- Single/LP Version](https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 2:25 |
 | 10 | [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 |
 | 11 | [The Wind Cries Mary](https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:20 |
-| 12 | [Mercy, Mercy \- Single/LP Version](https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 2:25 |
+| 12 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 |
 | 13 | [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 |
 | 14 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
 | 15 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 45 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
 | 46 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
 | 47 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
-| 48 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
-| 49 | [Day Tripper \- BBC Sessions](https://open.spotify.com/track/3UweOS7TngjWWQsdh9uKfb) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [BBC Sessions](https://open.spotify.com/album/3DnRgUY7EP00cklj0vGiVv) | 3:24 |
+| 48 | [Day Tripper \- BBC Sessions](https://open.spotify.com/track/3UweOS7TngjWWQsdh9uKfb) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [BBC Sessions](https://open.spotify.com/album/3DnRgUY7EP00cklj0vGiVv) | 3:24 |
+| 49 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
 | 50 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA3ZWQxYmRkOWU5NWY2MGZhYzc1MGQ1YWVjYjVkOGExMg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA2Y2I3NGQ2Nzc3NGIyZDQzODc0Y2ZkNDU5ZTI2NDdiNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,067 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,081 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 |
 | 100 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
 
-Snapshot ID: `MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj`
+Snapshot ID: `MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm`

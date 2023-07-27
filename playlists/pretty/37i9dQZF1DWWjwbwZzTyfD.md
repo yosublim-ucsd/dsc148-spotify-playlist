@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,335 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [The Race \- Remix](https://open.spotify.com/track/7d19457woBxmPRCq255YqM) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 3:31 |
 | 100 | [Never Imagined \(feat\. Future\)](https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:12 |
 
-Snapshot ID: `MCw3NzYxOTQzYjNhNGFhZDMyNWM5MGJiNWFmMjE4ZTBkNjgyMzYwNGVj`
+Snapshot ID: `MCwzNzA4OTdlMmVjZDgyNzNiZjA4OTQ5NWFjNGViYjhiYTNkZmMzZTFh`

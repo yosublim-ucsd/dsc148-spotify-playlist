@@ -16670,7 +16670,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 88605,
       "name": "listen!",
       "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
@@ -16880,7 +16880,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -21532,6 +21532,28 @@
       "duration_ms": 122740,
       "name": "Painting Pictures",
       "url": "https://open.spotify.com/track/6MGsx3Usu6IJbbYFoAOEtv"
+    },
+    {
+      "album": {
+        "name": "DBE World",
+        "url": "https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Pakistan",
+      "url": "https://open.spotify.com/track/4iZTNyPJuxpWmfjUQRDwBY"
     },
     {
       "album": {
@@ -29236,6 +29258,24 @@
       "duration_ms": 265346,
       "name": "The Way of the Tears",
       "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
+    },
+    {
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "album": {

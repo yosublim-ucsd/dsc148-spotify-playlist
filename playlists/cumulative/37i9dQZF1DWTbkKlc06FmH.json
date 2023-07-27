@@ -434,10 +434,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 162287,
       "name": "ANIME",
       "url": "https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0"
+    },
+    {
+      "album": {
+        "name": "ANIME",
+        "url": "https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162287,
+      "name": "ANIME",
+      "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
     },
     {
       "album": {
@@ -2922,6 +2940,28 @@
       "duration_ms": 192973,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/5y6BaL3VQ2hQt5sMN1Qmzj"
+    },
+    {
+      "album": {
+        "name": "honomekashi",
+        "url": "https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        },
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221728,
+      "name": "honomekashi",
+      "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
     },
     {
       "album": {
@@ -8244,7 +8284,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 221728,
       "name": "\u307b\u306e\u3081\u304b\u3057",
       "url": "https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92"

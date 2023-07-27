@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,899 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,037 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 44 | [Dialectic Chaos](https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0G5qC48D3MI8YBKTVwIiz1) | 2:25 |
 | 45 | [Public Enemy No\. 1](https://open.spotify.com/track/0bpeXTCwvkZad3GRtFSIOT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/7CnEVIOvZSfTF2srdqjxay) | 4:15 |
 | 46 | [Back In the Day](https://open.spotify.com/track/0rqCsgBpf8mojW1bMy6DQU) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/21JgJ2sQBLsGtthdGet15B) | 3:27 |
-| 47 | [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 |
-| 48 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 47 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 48 | [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 |
 | 49 | [Sudden Death](https://open.spotify.com/track/2DbEz7cLYTUu48o5D6iCP4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/7CnEVIOvZSfTF2srdqjxay) | 5:09 |
 | 50 | [Fatal Illusion](https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:15 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA0MDkwY2QxMjljMTZhZjRiOWMxZTlmNWZhNDc0MmFjNA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBkZDEyOWQyODc3ODUwMGZiOTRhYzkxMGU0NDk2OGY3Nw==`

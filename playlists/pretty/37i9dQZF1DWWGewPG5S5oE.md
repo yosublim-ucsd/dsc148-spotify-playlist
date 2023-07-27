@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 松井 秀太郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,512 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,555 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 6 | [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 |
 | 7 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 |
 | 8 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
-| 9 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 |
+| 9 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 |
 | 10 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 |
 | 11 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
 | 12 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 | 50 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 |
 
-Snapshot ID: `MCw2ZTljNGY1YzRiMjFjNjFkZWRkZmFmZTNlY2VjMjZlY2U0MGNhYzhk`
+Snapshot ID: `MCw5ZmY1N2JiMzZiMWI4ODMxNzRiOWEyMjEzYzNjODA2ZDU2NzY0MzAx`

@@ -4,7 +4,7 @@
 
 > Mujeres mexicanas a todo volumen\. Co\-curada por Samantha Barrón.
 
-732 songs - 1 day 16 hr 36 min
+733 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [DINAMITA\(bye\)](https://open.spotify.com/track/0I9uZ1ZBFeiu2fhf3gSjsS) | [Za111](https://open.spotify.com/artist/039p6t3gBN0Igimy0DzFuk) | [DINAMITA\(bye\)](https://open.spotify.com/album/31StRbEdasJF21hRzx7BI7) | 2:06 | 2023-02-01 | 2023-03-02 |
 | [Dinero](https://open.spotify.com/track/1LPYZDxFTebhvqwX2gTu0j) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dinero](https://open.spotify.com/album/7oo7MqceHqBozYOfjWPx3r) | 2:31 | 2022-01-05 | 2022-02-03 |
 | [Directo al Corazón](https://open.spotify.com/track/76JLXxsjWnKWrSjZXf2M9w) | [Amaya](https://open.spotify.com/artist/6mUUTwq2XEAJFBhIWQNisL) | [Directo al Corazón](https://open.spotify.com/album/3l9uzRp8dwt9dguBhGFYcY) | 2:57 | 2022-06-01 | 2022-07-07 |
-| [Disco Hadas](https://open.spotify.com/track/3k535qr8YnvxStuuHGb9CX) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/55BBK1R42EIwRKI97HIEdY) | 2:58 | 2023-07-05 |  |
+| [Disco Hadas](https://open.spotify.com/track/3k535qr8YnvxStuuHGb9CX) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/55BBK1R42EIwRKI97HIEdY) | 2:58 | 2023-07-05 | 2023-07-27 |
+| [Disco Hadas](https://open.spotify.com/track/6CgPa2pjPnG6tKSprkPOhJ) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/5FjbAicZSNPQJDSAqtimy8) | 2:58 | 2023-07-05 |  |
 | [Disco Sex](https://open.spotify.com/track/4uaj3mrr984XSCYMH0LjN2) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Disco Sex](https://open.spotify.com/album/0E62ANHggdc0xtJlaIVGlS) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-04 | 2023-02-02 |
 | [Diva](https://open.spotify.com/track/3F5noAzNQwxdJbUyKg3koP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 2:52 | 2022-02-02 | 2023-02-02 |

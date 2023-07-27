@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Turnpike Troubadours
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,068 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,170 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 100 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 |
 
-Snapshot ID: `MCw1NTljNzExMjFiY2QwZDY5YzQzNTQzZTAxYzkwOTI3YTRjZDExZmFj`
+Snapshot ID: `MCwyY2ViOTM0MzdhMTIzYzgwMjJmMmNlNDllNTcxMzE5YWVhZDk3NjM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Arroba Nat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,936 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,959 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Cortaste Toda La Luz](https://open.spotify.com/track/6sEkyi71nwR0Z7UC9OLWTg) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Cortaste Toda La Luz](https://open.spotify.com/album/5lbpiRYTFik8UBu7UKRI9E) | 2:58 |
 | 50 | [La Noche Eterna](https://open.spotify.com/track/2HubXiu4yRdqaVOnjDShmG) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/2Aupy8s3h48wDNAh4eJww8) | 3:56 |
 
-Snapshot ID: `MCxiYzcwYmM2ZGNmNmM2YzM4OTk1ZDJlZTEyMDZhNDNhZTk4YWE1NThm`
+Snapshot ID: `MCw4NWZlOWJkY2VmOGY1MDFmYjVjZDQ5ZjVjMWQ5OGFjYTA4YTA3NWJm`

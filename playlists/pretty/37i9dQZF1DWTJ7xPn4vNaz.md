@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,145,105 likes - 150 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,146,013 likes - 150 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
 | 150 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 
-Snapshot ID: `MCw0NmY4NzhjZjkyYTU3YjYxM2U2OWZhYzIwMmIyNWI4YmI2NDA2MjJi`
+Snapshot ID: `MCw0MTk5NzAwYWJkYmI4Nzg2ZTdmZjMzMzEwYTFmOTQ0Y2YwMWU4YjVl`

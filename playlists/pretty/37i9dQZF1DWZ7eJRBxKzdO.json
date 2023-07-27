@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 245541,
+  "num_followers": 247153,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTIzYTg5NzFjNTc0ZmUxZDIyYTU2OTRkYTUyNzI3MTgzMTI5ZTk1",
+  "snapshot_id": "MCw5MWY1OTNjYzA1NGE3ZTNlYjFhNDBmNjk0ZmQyNGIxMmE0MjhjZDE3",
   "tracks": [
     {
       "added_at": "2023-07-25 09:34:16",
@@ -2303,38 +2303,6 @@
     {
       "added_at": "2023-07-25 09:34:16",
       "album": {
-        "name": "Dance Fruits Music",
-        "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-      "url": "https://open.spotify.com/track/6MKuYvesr8p8csU9jt5Roa"
-    },
-    {
-      "added_at": "2023-07-25 09:34:16",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -2455,6 +2423,30 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+    },
+    {
+      "added_at": "2023-07-25 09:34:16",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV"
+      },
+      "artists": [
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp"
     }
   ],
   "unique_name": "Summer Dance Hits 2023",

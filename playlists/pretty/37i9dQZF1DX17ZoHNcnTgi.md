@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,852 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,875 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [Los Chiles Verdes](https://open.spotify.com/track/7k3Jl6Rxv66MgtdSP17y7k) | [Abacúm Fernández](https://open.spotify.com/artist/2HFpEwEMENcRWdaXPOBmTf), [Reveriano Soto](https://open.spotify.com/artist/2Opvl9omNVa8ZCOk9RkzkV) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:39 |
 | 150 | [La Malagueña](https://open.spotify.com/track/1bAly1V5h0kfQmW4Gkjpg5) | [Los Marineros de Apatzingán](https://open.spotify.com/artist/6Fq4ZjgntUiJkLrJSgHBEE) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 2:38 |
 
-Snapshot ID: `MCxlNTM1NWQwZjA3NTA5MDc1MzExNDBhODNhZGVjODFmYzBiNjc5ZmQx`
+Snapshot ID: `MCwwM2M2MzdlODg4OTQ1NTFkMTliNjYxNmYyYzdhMWJlMmFjODlmMGFj`

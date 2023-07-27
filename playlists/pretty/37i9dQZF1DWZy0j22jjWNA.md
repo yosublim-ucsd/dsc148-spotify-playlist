@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,125 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,176 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Suffering Servant](https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X) | [Deeper Well](https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l), [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Volume II](https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH) | 5:08 |
 | 65 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
 
-Snapshot ID: `MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi`
+Snapshot ID: `MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi`

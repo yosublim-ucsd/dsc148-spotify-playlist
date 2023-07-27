@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-138 songs - 9 hr 7 min
+139 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 | 2022-07-26 |  |
 | [BLOOM OF YOUTH](https://open.spotify.com/track/49TxIwkNXmuWcAL0jM4zG1) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [BLOOM OF YOUTH](https://open.spotify.com/album/0jkBha31CnbIjWKQidhzlH) | 4:19 | 2022-04-26 | 2022-07-29 |
 | [Bloom of Youth](https://open.spotify.com/track/3wOFa4aCmZ1eijDOf3ETJv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T Complete Songs TV Anime "Ace of Diamond"](https://open.spotify.com/album/31MVKQ2l23p7ffFgLuWKao) | 4:19 | 2022-07-26 |  |
-| [BOYA'S DREAM](https://open.spotify.com/track/18c1fBSVo077DkZMBJJv8v) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD” CHRACTER SONG ALBUM](https://open.spotify.com/album/4NVxZh19NZn5YvC7DhLh9w) | 3:29 | 2022-07-26 |  |
+| [BOYA'S DREAM](https://open.spotify.com/track/18c1fBSVo077DkZMBJJv8v) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD” CHRACTER SONG ALBUM](https://open.spotify.com/album/4NVxZh19NZn5YvC7DhLh9w) | 3:29 | 2022-07-26 | 2023-07-27 |
 | [BRAND NEW BLUE \(feat.オーイシマサヨシ\)](https://open.spotify.com/track/3WFmQpUgqoG9fKJQvyTIS2) | [沢村栄純\(CV:逢坂良太\)](https://open.spotify.com/artist/3B9T7Svm2a76E6NpvQPyKx), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [BRAND NEW BLUE](https://open.spotify.com/album/2b3sq1TGI2I6xOFTBdmPN1) | 3:59 | 2022-04-26 |  |
 | [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 | 2023-04-06 |  |
 | [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 | 2022-07-26 | 2023-04-09 |
@@ -86,6 +86,7 @@
 | [さらばピニャコラーダ](https://open.spotify.com/track/6JJBDRvPAOmYehgUcB5CD9) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 4:42 | 2022-04-26 | 2022-07-29 |
 | [たとえ世界がそっぽ向いても](https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:27 | 2022-04-26 |  |
 | [ぼうやの夢よ](https://open.spotify.com/track/35SZLYobV2wFGbTSLo5vnP) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TVアニメ「Re:ゼロから始める異世界生活」キャラクターソングアルバム](https://open.spotify.com/album/0Lnp26fE0jLwD5vEG2PgEB) | 3:29 | 2022-04-26 | 2022-07-29 |
+| [ぼうやの夢よ](https://open.spotify.com/track/3jX2OAfBOxRybA7t0GcdBQ) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」](https://open.spotify.com/album/7BVqQT1IFgaSMxfDk4YFMu) | 3:30 | 2023-05-07 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [ようこそジャパリパークへ](https://open.spotify.com/album/2ySoProatKQk7URAGuMuQf) | 3:24 | 2022-04-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/0RZiBrdTiCVCCnFCyr68Nr) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0302LeRxu3lj5CMsuyNv7o) | 3:23 | 2022-07-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/3vk351NLllggTIW4oPUQhA) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0bj4Hweje0nBU1b8Abnc1H) | 3:23 | 2022-04-26 | 2022-07-29 |

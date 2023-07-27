@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,258 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,405 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 150 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 
-Snapshot ID: `MCxkN2E3OWQ1YThmMWIxOTdiNTRlYTFjY2QyZjhlYjhkMjhmYmNjOTY2`
+Snapshot ID: `MCw3ZjJjY2FiNDY2MjE0YWI3YjUyNjgwMWRhOWE0YTg0ZjVlYmIyYzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,708 likes - 76 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,716 likes - 76 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Doña Cha Cha](https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ), [Carlos Michelini](https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [Marcelo Mayor](https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV), [Ezequiel "Chino" Piazza](https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6), [Beto Merino](https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT) | [Afropuertas](https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp) | 6:02 |
 | 76 | [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 |
 
-Snapshot ID: `MCw2YzA5NDI4ZGQxNDQ3OWY4ZDU3ZTg2ZWFjODNmZGM0NGNkM2FhNTAz`
+Snapshot ID: `MCwwYzQwNDQ0ZGFkZjU5Yjk0OTkyZDlmOGE5NDkyNWFiMDFjYmVhYjQz`

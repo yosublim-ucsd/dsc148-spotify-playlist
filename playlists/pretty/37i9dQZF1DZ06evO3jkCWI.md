@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,666 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,760 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Porque No Le Calas \- En Vivo](https://open.spotify.com/track/00nl5adFlB8bVbR3UM5BmZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [30 Aniversario \(En Vivo\)](https://open.spotify.com/album/6Ex3dDo3WP0dVOOPKWWvXd) | 3:08 |
 | 50 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDAzYzZkZDc0ZmVmMDFkN2ZmYzJiYWVmOWM3MWE5YzEzYw==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBhYWRjYTE5ZWQxNzU1NzIwNWI2NDEzYjQxNTY4ZTg0Mw==`

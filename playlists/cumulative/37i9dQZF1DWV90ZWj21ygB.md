@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-223 songs - 10 hr 41 min
+224 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Cold Ocean](https://open.spotify.com/track/6p4Jynd3RBfFCbPrIIdYAh) | [HD Nature Sound Library](https://open.spotify.com/artist/2JdsJhCSbNc4C9CR56k1ju) | [In The Ocean](https://open.spotify.com/album/5gVzOi3v7kg9PMQ3FVMThl) | 3:12 | 2022-08-03 |  |
 | [Comforting Ocean Waves 2](https://open.spotify.com/track/6KYhFSDw4ioZB0sKnlnOB5) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Comforting Ocean Waves](https://open.spotify.com/album/6Pb30ZB9zy8J8eIMbDitsq) | 2:46 | 2022-08-03 |  |
 | [Crashing Ocean Waves For Sleeping](https://open.spotify.com/track/7k8qqfazhpxA9usBYGLVEv) | [Wave Sounds For Babies \(Sleep\)](https://open.spotify.com/artist/6EpIxFCF1KaWrjrQ7rVzRK) | [Babies Relax Wave Sounds](https://open.spotify.com/album/3vylheFisHA8ppsnm8hZ3G) | 2:34 | 2022-08-03 |  |
-| [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 | 2022-08-03 |  |
+| [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 | 2022-08-03 | 2023-07-27 |
 | [Dans L'eau](https://open.spotify.com/track/3qFcOIM8GAz1XDuMvNKXyj) | [Verser L'océan](https://open.spotify.com/artist/4nutD76Lc9y2SnhnvCKwpv) | [Qu'il y Ait Des Vagues](https://open.spotify.com/album/0OttF9JysaBodtfNJ5fG9i) | 2:25 | 2022-08-03 |  |
 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 | 2022-08-03 | 2023-06-20 |
 | [Distan Winds And Wave Sounds](https://open.spotify.com/track/2gGxWhcOJ40DncuogOXdmh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 2:43 | 2022-08-03 |  |
@@ -168,6 +168,7 @@
 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 | 2022-08-03 |  |
 | [Stormy Ocean](https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 1:50 | 2022-08-03 | 2023-06-20 |
 | [Stormy Ocean Sounds](https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:17 | 2022-08-03 |  |
+| [Stormy Sea](https://open.spotify.com/track/6b1OG21ffrJMI7yITNivSl) | [Ocean HD](https://open.spotify.com/artist/5o3yuYZ9aXhcARXy2SeCrL) | [Ocean Hd](https://open.spotify.com/album/49cagZyC7CpLn1zFMOrzLb) | 2:47 | 2023-07-03 |  |
 | [Stormy Sea](https://open.spotify.com/track/056HAdAfs0Xh7HDEpP41UB) | [Rainframe](https://open.spotify.com/artist/75LnSU5XRGI4oD4g9LXoRL) | [Ocean Hd](https://open.spotify.com/album/5L8JRoz2nPLViWAJL9zwDf) | 2:47 | 2022-08-03 | 2023-04-28 |
 | [Stormy Sea](https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:47 | 2022-11-23 | 2023-06-20 |
 | [Stormy Waves](https://open.spotify.com/track/4v72wZUSK1njS9GD6grIpw) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:25 | 2022-08-03 |  |

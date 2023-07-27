@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Code Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,596 likes - 74 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,842 likes - 74 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 71 | [MERCILESS KILL](https://open.spotify.com/track/3s44nXKnAtiIlOoxMVDYr8) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr), [No Matter What](https://open.spotify.com/artist/4qdeA1cXcnd8emLMJClTSs) | [MERCILESS KILL](https://open.spotify.com/album/0dtHnhhJT9ljecQgWAYYuF) | 3:52 |
 | 72 | [Respawned in Heavy Metal \- Blood God Version](https://open.spotify.com/track/5weMZVqAb0J4e58PXtkUzr) | [BLUTGOTT](https://open.spotify.com/artist/1CPE1pRPZA4RXwff90nbnr), [Blood God](https://open.spotify.com/artist/5ZUjLrcjhALbD3rB0Xjhvm) | [Respawned In Heavy Metal](https://open.spotify.com/album/0MPtZkDIm7ovIjebD8e8sN) | 3:44 |
 | 73 | [Dreamdead](https://open.spotify.com/track/1gbZY761NDYHi9YximW58B) | [Damnation Plan](https://open.spotify.com/artist/3LhVTmnVEbbCqdpXOB16uX) | [Dreamdead](https://open.spotify.com/album/3pa0gcZNkMpx4GZFS77t6r) | 4:37 |
-| 74 | [Malediction](https://open.spotify.com/track/3fMDpql7vPSfez1LjUMAOT) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/2LewaGThuUlnoZfSO3y809) | 10:56 |
+| 74 | [Malediction](https://open.spotify.com/track/6AoGo54IeTINHsyS3vAsje) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/7x2XSoavmWKAXpG3HorsFM) | 10:56 |
 
-Snapshot ID: `MCw5Yjk5ZjJlNDg2YTcyNDI4NGQ5YzY1ZTdkOTJlNWQxMmViY2Y0ZWQw`
+Snapshot ID: `MCw2MTZmZTNjMmZhNzVlY2UyZjRiNDVmN2ZiYzQ2NWM0MjcxMjdlNzNm`

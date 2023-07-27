@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,850 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,060 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
 | 150 | [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 |
 
-Snapshot ID: `MCxiZjMyNWQ2ZmUzNjJiMzJlZGMwZjEzOTEyNDMzMGYzNDUwNWNhNjQ3`
+Snapshot ID: `MCw4OGM4NzI5ODAwOWEzMjk5MWE0MTMyMzhhNDcyZjViODdhMThiN2M2`

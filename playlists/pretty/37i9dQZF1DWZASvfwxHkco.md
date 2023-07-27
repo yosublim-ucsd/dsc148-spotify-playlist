@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトリニック・ダンスミュージックを一つのプレイリストに！Cover: Dimitri Vegas & Like Mike, David Guetta, Afro Bros, Akon
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,875 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,880 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 | 79 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 |
 | 80 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
 
-Snapshot ID: `MCwwZWRmZGIyOWU3MjRjYmIyZjBmNDA2YThmZGQyNDQ1MjczZmQ3ZDRh`
+Snapshot ID: `MCxkYWFlN2U3ODFhMGNmZmU0ZjdhZGVkZTMzNTUxZDYzZTBhMjgzMGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,241 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,354 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Sooha Saaha](https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt) | [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:59 |
 | 75 | [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 |
 
-Snapshot ID: `MCw4MGRkMWJmYjM1MTNlMzVmMzlkODAzZmQyYzFmZThmMmNlOTNiYjI3`
+Snapshot ID: `MCwzMWJhZDU1Y2E2YmY4ZDk1M2U3MTBiZWJiZDM0MGZlMDIwMTc4Mjhh`

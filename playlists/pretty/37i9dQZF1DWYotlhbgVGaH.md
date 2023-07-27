@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,379 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,417 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 50 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 
-Snapshot ID: `MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi`
+Snapshot ID: `MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm`

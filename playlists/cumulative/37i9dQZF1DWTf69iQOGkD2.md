@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  WIU, Cesar Mc, Derxan, Djonga, Gloria Groove, KayBlack, Lourena, Major RD, MC Ryan SP
 
-176 songs - 11 hr 12 min
+177 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Posso Voar](https://open.spotify.com/track/3G6VBIdliMr8Kk1TB5XSVJ) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Posso Voar](https://open.spotify.com/album/2eO8bCZIkQyeFsctEQKZQ7) | 3:58 | 2022-10-21 | 2022-10-29 |
 | [Posturadin](https://open.spotify.com/track/1iQ5pBXothXSvjP6JdSli2) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Posturadin](https://open.spotify.com/album/0b5ZXyXDNpqKzSQb7UDKRC) | 3:46 | 2022-05-16 | 2022-10-01 |
 | [Pq o amor ficou clichê? :/](https://open.spotify.com/track/3YpesUaedZznJ0aUXKt7CV) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pq o amor ficou clichê? :/](https://open.spotify.com/album/6MAA0e8WpVIEzDNXAxLRSz) | 2:01 | 2023-05-19 |  |
-| [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 | 2022-07-15 |  |
+| [Pra Praia](https://open.spotify.com/track/1rYmLgeOQNtSCnCHb9IPnz) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/08PeUm4CsNrJpVd7hlWFQa) | 3:06 | 2023-07-20 |  |
+| [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 | 2022-07-15 | 2023-07-27 |
 | [Pra Praia](https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY) | 3:06 | 2022-03-18 | 2022-07-29 |
 | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8) | 4:05 | 2022-03-18 |  |
 | [Problemático](https://open.spotify.com/track/1wKX8tZRsnI4QPOSkjDIkr) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Problemático](https://open.spotify.com/album/057zWGa01U5v8gIhdSA1Gh) | 2:51 | 2022-04-22 | 2022-07-29 |

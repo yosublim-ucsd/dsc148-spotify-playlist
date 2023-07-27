@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,557 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,591 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 |
 | 50 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 
-Snapshot ID: `MCw3OTU4ZmZmZWJkMjEyZTA1MTFjMzRkOTU3ZWRjN2M4ZGZlZTJjODQ0`
+Snapshot ID: `MCxlNTk4NWJmYjhjMDhkYzg1ZDMwNGI4YzFkMjNhYWFkZTE1NmM4YWM0`

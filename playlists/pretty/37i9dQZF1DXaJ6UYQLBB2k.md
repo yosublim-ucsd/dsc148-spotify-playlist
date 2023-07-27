@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,046 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,118 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 49 | [Infinite Shore](https://open.spotify.com/track/090bRxSmHfZK0HO0ZjYHfO) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [The Magnificent Void](https://open.spotify.com/album/3EmLfZQr45Hl2KS72NqDdF) | 7:47 |
 | 50 | [Manunkind](https://open.spotify.com/track/1utLWIbiDLl3qzg4qPpEAM) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [ELpH vs Coil : Worship The Glitch](https://open.spotify.com/album/7KsfHl2XsX2IRLSi7FF5Pg) | 1:23 |
 | 51 | [Opening](https://open.spotify.com/track/7zlQOoectwIdD96oPLDveN) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 2:30 |
-| 52 | [babysbreath](https://open.spotify.com/track/7Cwt68khwNZg4yc9enbjsY) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 3:51 |
+| 52 | [babysbreath](https://open.spotify.com/track/37I8y5acJyPT7BRtoiVH3S) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 3:51 |
 | 53 | [Laika](https://open.spotify.com/track/7zFv2VmCMIQR2S9bTJ5KEY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 14:34 |
 | 54 | [Garden Recalled](https://open.spotify.com/track/0gpKR0EMqUvz9IHe2coSwj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:21 |
 | 55 | [9:25](https://open.spotify.com/track/1bOOE6hznd9IhYTJYpcOHs) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 9:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 69 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 | 70 | [Phaze](https://open.spotify.com/track/6BA4U2AJ2So49LRolXPuLI) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 1:30 |
 
-Snapshot ID: `MCwwN2UzZTI2NGNkZWVlZmIzYjk1ZWY0Zjg1YzUxNDA0NTAyYjliYTQ2`
+Snapshot ID: `MCwyYjVhYTMzNWI3ZjJmNTZlMGIzZDdhNDYwZmVlYjdjMDNkNTJlNDRl`

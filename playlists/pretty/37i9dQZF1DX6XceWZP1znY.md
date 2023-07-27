@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,781 likes - 200 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,083 likes - 200 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 200 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 |
 
-Snapshot ID: `MCw4ZGFkMjRlNzQ2Y2RhYmQ0ZTllMGMxMGEzZWMyZjZmM2Y0NTQ1ZDhk`
+Snapshot ID: `MCw4MmNlNTVjOGYxMjZjMDRlY2IwMTEzMDRiMTMxZDNkNTEwM2NjZjA0`

@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Tiera Kennedy
 
-1,751 songs - 3 day 22 hr 47 min
+1,752 songs - 3 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,9 +949,10 @@
 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-08 | 2023-02-04 |
 | [Me on You](https://open.spotify.com/track/3JUV8AQjr5fH5tEc3uuZFv) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Me on You](https://open.spotify.com/album/09IYdO3ovcDdjtvsGHNf7O) | 3:37 | 2020-03-22 | 2020-06-14 |
 | [Me Pt\. 2](https://open.spotify.com/track/6C4dL9m6mVWPNyIst3o9HU) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Me Pt\. 2](https://open.spotify.com/album/73L4E257h0FFOUu4HflhPm) | 3:40 | 2023-01-13 | 2023-05-06 |
-| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/19GUqtVjLU3u6WKDYpOw5i) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:25 | 2023-07-21 |  |
+| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/19GUqtVjLU3u6WKDYpOw5i) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:25 | 2023-07-21 | 2023-07-27 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/3VGDNX6apk3Mb7ieRgpMkV) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Sampler](https://open.spotify.com/album/2HubZtBcz9xEfWWaLRqHXi) | 3:25 | 2023-06-30 | 2023-07-24 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/4BQxMO6PoNJzY410N8YjsT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/album/3rw1zkeAmrZvDd60WwAJgj) | 3:25 | 2023-06-23 | 2023-07-01 |
+| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:25 | 2023-07-21 |  |
 | [Mean Something](https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:14 | 2020-08-16 | 2020-09-19 |
 | [Mean Something](https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Mean Something](https://open.spotify.com/album/5u7Aa2EgdoshTix08lz5Dx) | 3:20 | 2022-05-13 | 2022-10-29 |
 | [Meet Me in the City](https://open.spotify.com/track/0swbLEe8Z5CKqvglG9zzmZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Meet Me in the City](https://open.spotify.com/album/1NFk1LIH24WS3jQZqDuYL2) | 2:56 | 2020-09-19 | 2020-10-24 |

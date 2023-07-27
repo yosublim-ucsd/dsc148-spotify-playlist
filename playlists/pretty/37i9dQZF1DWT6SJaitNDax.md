@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\.  Cover: Asake &
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,658 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,770 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 |
 | 100 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 
-Snapshot ID: `MCwzMDY2YTRmNTFjMzRjYmE5MjBmYjk0ZDVhNTIwZjc5MGZhMGQ4ZmEz`
+Snapshot ID: `MCw5MDQxZDU3NDVjYTgxODg2MTM5YjFlYjExNjg5YmU5OGM4NDhlOWE2`

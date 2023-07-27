@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,073 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,111 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Dejame Asi](https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z) | [Luis Mendoza](https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2) | [Calaveras Serranas](https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2) | 2:51 |
 | 60 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 
-Snapshot ID: `MCwxOTRmYmVhMjA2NDNhY2M2NTRiM2Y5MjJhOTBmOTRkZDcyMWZkNTY1`
+Snapshot ID: `MCw0MmQ0MjE2ODUzMTA0MjAwYWRiNjNkYzYwOTM0NTFhY2ZjMzY5YThk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,121 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,204 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
 | 50 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 
-Snapshot ID: `MCxiNWQ5NzA0ZThmMWQyOWMwODc1YTk4NWNiNzUxODBjYmNiNWRmZjIx`
+Snapshot ID: `MCxiMzBjZmNiM2VlNjMyYWVlMTg3YTE3NmY4Yzk5OWMwNDc5ZDAwYjUx`

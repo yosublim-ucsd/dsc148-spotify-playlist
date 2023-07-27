@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,230 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,362 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
 | 100 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
 
-Snapshot ID: `MCw2NWM2NzdiOTJkOTIyNjNjNDQ5NjA5Y2RmNzFhZWU2MDdlNmYyYzA3`
+Snapshot ID: `MCwzNTRmMWEwY2NkODM0ZjI5ZDJjMWI1Yzg3YjM1ODUwNjM2MDgxZjVh`

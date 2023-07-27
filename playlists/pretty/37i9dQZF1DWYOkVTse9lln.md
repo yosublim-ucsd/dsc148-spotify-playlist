@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 
 > Saca la estrella que llevas dentro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,033 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,226 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 | 149 | [Kilómetros](https://open.spotify.com/track/2MhvuVw1suKyGjLR7vGI6v) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:42 |
 | 150 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 
-Snapshot ID: `MCwyOTQ4MGFhODlmMDE2M2VhNDBiMDQ1YWY5MTk2MzA5MTczMDUyYzI2`
+Snapshot ID: `MCxmNzkyNjRmZmNmMjJjZmJmZmFlZGMxYTExMTYyZThiZWQwYmUzYzNl`

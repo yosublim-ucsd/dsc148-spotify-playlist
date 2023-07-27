@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,978 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,002 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MCw1OWFkYjE2ZDI3YWYwZjcyMTIxNjg3ODdjZDUyYWM2NDlkODY1MTQ1`
+Snapshot ID: `MCxmMzFiYmU5OWNmOGI5ZDRhMjczM2U2YzQ0M2IzOWE1MjNhYjIwZGQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,035 likes - 400 songs - 1 day 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,091 likes - 400 songs - 1 day 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 |
 | 400 | [Some Other Time](https://open.spotify.com/track/4Zm2moFHHUK4mEfO2LxZeO) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Some Other Time](https://open.spotify.com/album/2Ke3ZLOAHYTPDbk8i1Id0B) | 5:14 |
 
-Snapshot ID: `MCwyMmEzOTNlZmJlZjI5NmE0NDY2ZmE3MjI5ZDM4ZWRhN2U1NmUxNWRm`
+Snapshot ID: `MCxmYzI3ZWNhZTgzZDljYWZmZjE5MTUxZjk4OTRmMDIyNGUwN2M4OWU4`

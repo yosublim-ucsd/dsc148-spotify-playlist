@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,805 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,904 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 49 | [Antonia](https://open.spotify.com/track/5n40SAKMk89wdWyhTfWzx4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:08 |
 | 50 | [Quisiera ser](https://open.spotify.com/track/2sC8ZDPXm0jZTPG84hQ80S) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:28 |
 
-Snapshot ID: `MCwwODE4NmFhNTQ3MzY5ZmYwOTFiMDVkYjM5ZDlhNGNlZGQ4ZGRjMGMw`
+Snapshot ID: `MCw1NjdlYjYxZWZlM2E4ODlmMzQzMjBjYmY2Yzc0MmEwMWY3OTZiNmQ2`

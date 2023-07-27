@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,492 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,508 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 |
 | 100 | [Good Time](https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Good Time](https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW) | 5:33 |
 
-Snapshot ID: `MCw4OTZlMDRhZDljOGNkYWRiYWU4MmI3ZTliMjQwMWI1NTRmZjllNGU0`
+Snapshot ID: `MCwzOWY5NmY2NDhiMjQ2YjI5ODFlYmIxZDExZGQ1Mzg5ZWQ4Y2JmNDZi`

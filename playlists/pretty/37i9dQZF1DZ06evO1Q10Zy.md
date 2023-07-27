@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,293 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,305 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 46 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
 | 47 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
 | 48 | [I'll Make Love to You \- Live On MTV Unplugged](https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 2:02 |
-| 49 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
-| 50 | [Sometimes \(with Jenevieve\)](https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Girls Night Out \(Extended\)](https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb) | 3:15 |
+| 49 | [Sometimes \(with Jenevieve\)](https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Girls Night Out \(Extended\)](https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb) | 3:15 |
+| 50 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA2OTM2NDQ5MGY1NzQyMGQyMzU3YWQ0MTJjNDBlYTgzNw==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA1MDMzMDNkNDIzNTQ1MmQ0YzA4ZmQ3ZGU2M2RmNTllMQ==`

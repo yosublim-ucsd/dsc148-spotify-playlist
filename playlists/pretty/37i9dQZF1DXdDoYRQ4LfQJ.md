@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,166 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,320 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Jalo y Exhalo](https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [Jalo y Exhalo](https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ) | 2:33 |
 | 100 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 
-Snapshot ID: `MCxiM2Y1ZmM1YjhmMTZmN2IwN2Y0YTNiNGU1MDlhOTUzYTQwODNmMjMw`
+Snapshot ID: `MCw3ZTcyMDIzZjBhMjUyOTU0YjMwNGU1OWNhNTFkYTlmZmM0M2UzMGFk`

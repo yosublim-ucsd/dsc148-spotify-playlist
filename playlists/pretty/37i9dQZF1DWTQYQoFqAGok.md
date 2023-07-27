@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,740 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,754 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
 | 50 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 
-Snapshot ID: `MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx`
+Snapshot ID: `MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,814 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,830 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 60 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 |
 
-Snapshot ID: `MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2`
+Snapshot ID: `MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1`

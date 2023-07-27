@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Aline Brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,224 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,375 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Nosso General](https://open.spotify.com/track/68TNC5h0T9ykt0zIqKVrsG) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Nosso General](https://open.spotify.com/album/4oTvhv5yHSHK3Kjqsab01T) | 3:23 |
 
-Snapshot ID: `MCxkNGYzZDdmOTAxNDM0ZjE0NTNhYmRiMzA3MjE5NzMxYWRkMzljNzhm`
+Snapshot ID: `MCw1ZGVjNjNkMjJjN2UwN2UzOGIxZTdiOWQzOGMzZDc2YTM4YzI2Mjk0`

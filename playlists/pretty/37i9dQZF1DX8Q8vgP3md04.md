@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,566 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,572 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 53 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 |
 | 54 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 |
 | 55 | [Eshi Kezias](https://open.spotify.com/track/0Y9G7e3yCzIaNEjDW6i83A) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Eshi Kezias](https://open.spotify.com/album/6hpPy3EejdGmw28IgZdCE9) | 4:22 |
-| 56 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
+| 56 | [Weni](https://open.spotify.com/track/7C4rnmQ8aLURc4FLz14Tfe) | [Timnit Welday](https://open.spotify.com/artist/1EJTyBtShYv9uyv6BmPSdl) | [Weni](https://open.spotify.com/album/2nogpd8iqZOtNICZO0KOpq) | 4:23 |
 | 57 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 |
 | 58 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 |
 | 59 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 |
 | 60 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 
-Snapshot ID: `MCw5MWM2MWNlYjkxMjQ3ZjZkODNlYzUxYTEzZWE5ODhiY2U3ZWEyM2Ri`
+Snapshot ID: `MCwxODAyYjk3YTJmYTBkOWI1YjRiN2M1NGE4YWE2OGQwNjg5ODMzNzA2`

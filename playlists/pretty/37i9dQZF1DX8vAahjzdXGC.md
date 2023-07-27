@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,553 likes - 111 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,572 likes - 111 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 42 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
 | 43 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 44 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
-| 45 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 45 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 46 | [Chalawan Funk](https://open.spotify.com/track/7FrYrukvlwCc3zRo0dI87T) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Chalawan Funk](https://open.spotify.com/album/4HIaHqYtldG0Gb90aSprX0) | 5:38 |
 | 47 | [Born July](https://open.spotify.com/track/3nHdE04SAk7sdKs5Dd1FDY) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Born July](https://open.spotify.com/album/0TrCn9STtGgcqfYnUHK9X7) | 2:35 |
 | 48 | [r u mine](https://open.spotify.com/track/0LiLk6aYQZOy1uA63pMqQo) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [r u mine](https://open.spotify.com/album/5g8A7xkBtel2aTFgcjNYXN) | 2:08 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Where's My Fourleaf Clover Gone?](https://open.spotify.com/track/2rALrQTKbTLG0Mic7f4Gkn) | [Jh4y](https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o), [JAKS](https://open.spotify.com/artist/1sNWjZHgC7t467cyPzoDgG) | [Where's My Fourleaf Clover Gone?](https://open.spotify.com/album/4e5jCbx69ziZsT2uXi8FWF) | 3:50 |
 | 111 | [Lullaby](https://open.spotify.com/track/3e3dNF0OkAyfQ5pV2Tfwm8) | [Matilde G](https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH) | [Lullaby](https://open.spotify.com/album/3G1zM28u6OefzrrIUowAu0) | 3:03 |
 
-Snapshot ID: `MCw4ZDAxOWUwNDdiNmJkMWJmZTEyMzY0MTRiOWNhOTE1ZmNmMjYzMjk2`
+Snapshot ID: `MCw3ZjgxNDYyMjMwZDk2YjY2Y2M3Y2Y4NmY5NmRjNWVhOTZhNmU1N2Qy`

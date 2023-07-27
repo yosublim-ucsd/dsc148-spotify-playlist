@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,480 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 42 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 2 | [Steal Away \- Remastered 2004](https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Eugene Bowen](https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 1:29 |
-| 3 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
-| 4 | [It's Steeper Near the Roses \(For David Sylvian\)](https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:02 |
+| 3 | [It's Steeper Near the Roses \(For David Sylvian\)](https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:02 |
+| 4 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
 | 5 | [Jane 8](https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 5:18 |
 | 6 | [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 |
 | 7 | [The Plateaux Of Mirror \- Remastered 2004](https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:13 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 41 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
 | 42 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBhNmU5ZmIwMjAwMTZlODg0OGQyMjcwNjBjYTkxMzY5ZQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA3YjBhM2JlNTUzYzkyNjRhZjViZWFiNDkyNmNkMzNkYg==`

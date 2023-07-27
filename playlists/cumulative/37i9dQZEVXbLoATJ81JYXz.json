@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 220520,
       "name": "17 \u00e5r",
       "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
@@ -8472,7 +8472,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
@@ -13050,6 +13050,24 @@
       "duration_ms": 189912,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2oq8GLMRtNOjXOGebxY7oa"
+    },
+    {
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "album": {
@@ -19013,6 +19031,28 @@
     },
     {
       "album": {
+        "name": "POLLEN",
+        "url": "https://open.spotify.com/album/21PJSOuXESN1VkaEmNL3ea"
+      },
+      "artists": [
+        {
+          "name": "Papi Santana",
+          "url": "https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ"
+        },
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150243,
+      "name": "POLLEN",
+      "url": "https://open.spotify.com/track/7AfpaQEypz50V2r3IlwqVT"
+    },
+    {
+      "album": {
         "name": "Unge Med Extra Energi",
         "url": "https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T"
       },
@@ -19094,7 +19134,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -22534,7 +22574,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "SOUTHSIDE",
       "url": "https://open.spotify.com/track/08ojhcaCZwhHHg3BogkLp5"
@@ -23880,7 +23920,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 141333,
       "name": "TAGGTR\u00c5D",
       "url": "https://open.spotify.com/track/3mDph8bq491gZz5VnhSf3f"
@@ -25978,6 +26018,24 @@
       "duration_ms": 179803,
       "name": "Varsomhelst/N\u00e4rsomhelst - Spotify Studio It's Hits Recording",
       "url": "https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9"
+    },
+    {
+      "album": {
+        "name": "Vart Du \u00c4n G\u00e5r",
+        "url": "https://open.spotify.com/album/4WwHyFvo0TfH72AhrFumSi"
+      },
+      "artists": [
+        {
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160541,
+      "name": "Vart Du \u00c4n G\u00e5r",
+      "url": "https://open.spotify.com/track/6m7kCRnpgOtCMT3HEeX8g8"
     },
     {
       "album": {

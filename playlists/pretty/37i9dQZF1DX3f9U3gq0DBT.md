@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,484 likes - 130 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,535 likes - 130 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 129 | [Ao Wong Duean Waves](https://open.spotify.com/track/7L8eQHTaQgVHwy9KVIu1bE) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Flowing Ocean Tides](https://open.spotify.com/album/0urrlzeBe63px0DNyqzGgD) | 3:01 |
 | 130 | [Sea, Sand and Seashells](https://open.spotify.com/track/1jzIE1bZcx6s4aMxVDDtNO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Tropical Ocean Wave Dreams](https://open.spotify.com/album/4aW0CgnkvlMpfukTxLDb3u) | 3:06 |
 
-Snapshot ID: `MCxiNTk5N2IxZGVmZGI3OTBjNzdmZmMwNzZkZTA5ZWJjMzRmZjQ1OThj`
+Snapshot ID: `MCwxZWZmZjhlMmI3NWQxYzM2ZmMwYWY3NjI2NDZjZGYzZWNlNjVlY2Q5`

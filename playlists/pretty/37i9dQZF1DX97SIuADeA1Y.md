@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,904 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,029 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 |
 | 60 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 
-Snapshot ID: `MCw2MjhhMDM5MzkyMWU2NmYyZjMxNDE0OGVkMDQzMDI4MzEzYzhmYzYw`
+Snapshot ID: `MCxlZWFmYjYzNTU2NGVhMTEzYzkxNDE4OTA2OGIxODZjZmY5MGZhNDJm`

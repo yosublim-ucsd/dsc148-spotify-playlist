@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,324 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,342 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
 | 100 | [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 |
 
-Snapshot ID: `MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk`
+Snapshot ID: `MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,855 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,953 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Return of the Arsonist](https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb) | 3:01 |
 | 100 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
 
-Snapshot ID: `MCwwNDlhZGRiZDcxYjIxNDhhMzJhMDhjYWViYWE3OWE4ZjBmNzQwZGRk`
+Snapshot ID: `MCxjMjM0MDY0Y2IyMWE4ZWY2ZWI5ZDYzOGMzNTg1ODYxMWVhMjA3NDk3`

@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Big Thief finally release Vampire Empire.
 
-1,704 songs - 4 day 6 hr 17 min
+1,705 songs - 4 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Boy](https://open.spotify.com/track/2yD8Af6ptCYPEf3tIfZEee) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Like New](https://open.spotify.com/album/7rF5B4CoDcdrEtXy7eLFLv) | 2:56 | 2020-02-28 | 2020-10-13 |
 | [Boy Friday](https://open.spotify.com/track/62sxl0QtvpRNGLK32QwwGS) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Boy Friday](https://open.spotify.com/album/1DDXb9xrdDFeLmZgCizypO) | 3:03 | 2022-06-30 | 2022-07-03 |
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-19 | 2022-04-20 |
-| [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-31 |  |
+| [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-31 | 2023-07-27 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-11-10 | 2022-07-29 |
 | [Break The Rhythm](https://open.spotify.com/track/3aKk3RAc8lXQUum6JfZEfx) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Break The Rhythm](https://open.spotify.com/album/3qML5ZBNZDJr2XSf5yWrgY) | 3:50 | 2022-05-13 | 2022-07-29 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-16 | 2022-10-01 |
@@ -220,6 +220,7 @@
 | [Bruise](https://open.spotify.com/track/6vJFWet1sMnWrKE8dDmfGG) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bruise](https://open.spotify.com/album/0HR7LLku7QMhusktFwyQx6) | 3:52 | 2019-06-07 | 2019-08-13 |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2020-09-25 | 2021-10-16 |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-23 | 2023-01-14 |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-26 |  |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-12-10 | 2022-01-22 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2021-07-19 | 2022-04-24 |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2019-05-26\* | 2019-06-21 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -140,10 +140,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+    },
+    {
+      "album": {
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
     },
     {
       "album": {
@@ -198,7 +216,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
@@ -274,7 +292,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 146854,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
@@ -292,7 +310,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 199179,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
@@ -310,7 +328,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 208463,
       "name": "Cpr",
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 207959,
       "name": "Cut To The Feeling",
       "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
@@ -404,6 +422,42 @@
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS (lady wood phase II)",
+        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223794,
+      "name": "disco tits",
+      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
     },
     {
       "album": {
@@ -574,7 +628,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 229655,
       "name": "Girls Like Girls",
       "url": "https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf"
@@ -614,6 +668,24 @@
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+    },
+    {
+      "album": {
+        "name": "Hot Girl (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157078,
+      "name": "Hot Girl (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
     },
     {
       "album": {
@@ -748,7 +820,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 219773,
       "name": "Lip Gloss",
       "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
@@ -788,7 +860,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
@@ -846,7 +918,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 159013,
       "name": "Mine",
       "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
@@ -925,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -994,10 +1084,32 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
+    },
+    {
+      "album": {
+        "name": "S&M Remix",
+        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257293,
+      "name": "S&M Remix",
+      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
     },
     {
       "album": {
@@ -1034,7 +1146,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
@@ -1088,7 +1200,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 236600,
       "name": "Stars Are Blind",
       "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
@@ -1182,7 +1294,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 184634,
       "name": "Thot Shit",
       "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
@@ -1229,6 +1341,32 @@
     },
     {
       "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+      "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
+    },
+    {
+      "album": {
         "name": "vacation bible school",
         "url": "https://open.spotify.com/album/03igopTXPEXmapaX3PvqyY"
       },
@@ -1258,7 +1396,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
@@ -1283,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
+    },
+    {
+      "album": {
         "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
       },
@@ -1302,6 +1458,24 @@
       "duration_ms": 166882,
       "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
+    },
+    {
+      "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
       "album": {

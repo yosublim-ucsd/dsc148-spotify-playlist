@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,252 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,297 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [ANTIRIVER](https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [ANTIRIVER](https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj) | 4:27 |
 | 50 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
 
-Snapshot ID: `MCw3M2JjZWJhYTZhYmIzMDRiNDA1MTk5NGFkMjMwM2JjZjMyNmUxZDIw`
+Snapshot ID: `MCxjMGIzOTExMGU1NGVjNDkwYzZmYWFlOGU4ZTZmMWQyNDMwMzU3Zjhk`

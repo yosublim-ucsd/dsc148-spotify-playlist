@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,623 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,760 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Blue Because Of You](https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:28 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCwwMGViNjlkZWUzNTZjMzMyY2Y0NzE1ZDM0MGMwN2YwN2VkODI5YzM3`
+Snapshot ID: `MCw5MWM0ZjQ0OGY3NWQ0MTRhN2I5NzdhOWFjMTIyOWU5ZjMzNTgzZDdh`

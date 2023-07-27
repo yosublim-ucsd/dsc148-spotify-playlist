@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,633 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,690 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 |
 | 50 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 |
 
-Snapshot ID: `MCw4MmFmN2ZjMWM4NDUzMGQxMmZmMmYxYzI5NjE0NzNjMzUxZWVjYjc4`
+Snapshot ID: `MCwyMWNjYjg0YzUwOTU5Y2FmODgyYTBkNGRkYWZiZWU5MDYwYzQ5ZTkw`

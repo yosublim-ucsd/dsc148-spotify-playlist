@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,238 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,228,104 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 |
 | 150 | [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 |
 
-Snapshot ID: `MCxlYWNmYjA0MjhjNzhmNWE2YTBjYTM2MGVhNjU3MTBmNTAwMWM0MDk5`
+Snapshot ID: `MCwxNTg0NmZlOTAyNjVhNTY0MmFlYjgzODQ2ZTJlMWJmZjE4Y2RhMGEx`

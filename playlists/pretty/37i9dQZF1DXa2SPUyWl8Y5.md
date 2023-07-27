@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,482 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,758 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 |
 | 80 | [Klunkerkranich](https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Sonderling Berlin 50](https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk) | 8:08 |
 
-Snapshot ID: `MCw0ZGE2ZTEzOGQ5ZjBlMWJlMDIzZjBiMWYxN2Y5NTNlMTc2M2ViNzA5`
+Snapshot ID: `MCwyNmMwNmZhNTllZjkzM2M4NmFlNmQ3ZjEzYTlhZmY0OTgwYWZjNGZi`

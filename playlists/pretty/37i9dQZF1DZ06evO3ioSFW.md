@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,279 likes - 48 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,419 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 28 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 |
 | 29 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
 | 30 | [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 |
-| 31 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 |
-| 32 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 |
+| 31 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 |
+| 32 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 |
 | 33 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 |
 | 34 | [Ahora Entendi](https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
 | 35 | [Déjame Volver Contigo](https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:56 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 38 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
 | 39 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
 | 40 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
-| 41 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 |
-| 42 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
+| 41 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
+| 42 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 |
 | 43 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 |
 | 44 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
 | 45 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 47 | [Llévame \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:31 |
 | 48 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDAzMzc4YzBmMzcwY2YxNThjNTFhNGE2MTAwZWUxMDNjNg==`
+Snapshot ID: `MjgxNzI5ODIsMDAwMDAwMDAzZTc0NTU0ZjQwODE0OWE3ZjhkNTU2NDczNjZiNDBkZQ==`

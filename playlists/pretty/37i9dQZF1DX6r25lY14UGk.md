@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,149 likes - 122 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,184 likes - 122 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 87 | [B\-E\-L\-I\-E\-V\-E](https://open.spotify.com/track/0L0OEEtf9fK15cFAsH2JYo) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:15 |
 | 88 | [Make New Friends](https://open.spotify.com/track/023TXy52tzrzfR1JRXx4PL) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Carlitta Durand](https://open.spotify.com/artist/16VW2tIJ6vyhe06xfI3T7t) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 4:43 |
 | 89 | [Fam Jam](https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:54 |
-| 90 | [Cool to be Kind](https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R) | 2:01 |
+| 90 | [Cool to be Kind](https://open.spotify.com/track/6kRgdvCQsERuUwDI4CA0gZ) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/1hIpNLkTHI7GCux3aFILlo) | 2:01 |
 | 91 | [Let It Out](https://open.spotify.com/track/2TLcsdp1QqMam3mwP281L3) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Let It Out](https://open.spotify.com/album/3H3eATaQZJTSu0saChsrDv) | 2:56 |
 | 92 | [Give It A Go](https://open.spotify.com/track/0CG2r1WDiKLavxhlZ9LExa) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Give It A Go](https://open.spotify.com/album/2IRd6LarlRvkwcigpP0PXr) | 1:33 |
 | 93 | [Breathe \- Radio Mix](https://open.spotify.com/track/3reSYEncpM0SorYfQVJypk) | [Captain Festus McBoyle](https://open.spotify.com/artist/6EX0vGvZClOwredyU8O2BD) | [Breathe \(Radio Mix\)](https://open.spotify.com/album/66hXajZcZPfoASZkQPuxje) | 2:50 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 121 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 122 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MCwwNWYxMTk0NzFjZTBlMGIzMDBhODQ4ODZiY2IyNDkxN2NlN2NlNGI4`
+Snapshot ID: `MCxhOGI4OWRlNDBhY2Q3NzQ2OTBiYmZlNGFiMzM2OGQyM2UxMDNiZDM1`

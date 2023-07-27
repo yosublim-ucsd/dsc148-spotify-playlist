@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 35 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 19 | [The Great Test](https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 1:59 |
 | 20 | [Broken Hands](https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:37 |
 | 21 | [What Thought Did](https://open.spotify.com/track/3nIwbl2XMTXisw5y5nu6Iq) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 2:38 |
-| 22 | [Right There With You](https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:40 |
+| 22 | [The Old School Way](https://open.spotify.com/track/5F4VAqLivojMqr9mn9ORBk) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:31 |
 | 23 | [Harmony](https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:34 |
-| 24 | [Feed The Fire](https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:49 |
-| 25 | [I'll Never Know](https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:03 |
+| 24 | [I'll Never Know](https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:03 |
+| 25 | [Feed The Fire](https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:49 |
 | 26 | [Cerebra](https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 4:32 |
 | 27 | [Savanna](https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 |
-| 28 | [Live Fast, Die Ugly](https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 2:32 |
-| 29 | [Boy](https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:58 |
+| 28 | [Boy](https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:58 |
+| 29 | [Live Fast, Die Ugly](https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 2:32 |
 | 30 | [Remmus \(Live\)](https://open.spotify.com/track/2RT9TJVahSuoOsYBnmsyuB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 3:22 |
 | 31 | [Don't Forget](https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [What You Get](https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr) | 3:08 |
 | 32 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 34 | [Break The Glass](https://open.spotify.com/track/1MCsQjTwwzDPVLrOsAlp0b) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:26 |
 | 35 | [Out Of Time](https://open.spotify.com/track/4Uz4uphfFwQqXVgnnYbXRR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:32 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA4YjFjOThjZDQzZGIwMDgwZjA3ZDEyMDY5NTNhMWFmNg==`
+Snapshot ID: `MjgxNzI5ODIsMDAwMDAwMDA3ODc0NmQyMjBlMWI1YmQxZmYyNmRkNzUzMjk4YmNhZQ==`

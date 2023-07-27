@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,141 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,150 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 44 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 |
 | 45 | [Jij Weet](https://open.spotify.com/track/0hlZkaLviwVGcc2QXLn8wS) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Jij Weet](https://open.spotify.com/album/6eJNmkYfAQJc20E4efS3mN) | 2:14 |
 | 46 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 |
-| 47 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 47 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 48 | [Hindsight](https://open.spotify.com/track/6ihOBxXpkUihQesu05P4B3) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Hindsight](https://open.spotify.com/album/5i1eKXk8OrFanmzwnl7Muq) | 2:56 |
 | 49 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 50 | [The One \(feat\. Blair\)](https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [The One \(feat\. Blair\)](https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 84 | [More Vibes More Money](https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [More Vibes More Money](https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7) | 3:08 |
 | 85 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 |
 
-Snapshot ID: `MCw5MDQwYzE0OWYyMDUzNzIxOWEyODg1OGIwYzg4Y2E2NGI5YTc1M2Vk`
+Snapshot ID: `MCxhM2Q1YjE4OGQ0NzM4MTZkYjFjYTcyNWM1OGY5ZWZiNmNjYjU3ZDM4`

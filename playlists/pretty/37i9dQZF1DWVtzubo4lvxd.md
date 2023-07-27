@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,392 likes - 75 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,410 likes - 75 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Mindfulness](https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [BODY N SOUL](https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW) | 2:48 |
 | 75 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
 
-Snapshot ID: `MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj`
+Snapshot ID: `MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3`

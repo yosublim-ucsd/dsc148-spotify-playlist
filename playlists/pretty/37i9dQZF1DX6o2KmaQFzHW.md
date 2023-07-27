@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,057 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,153 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
 | 90 | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D) | 12:50 |
 
-Snapshot ID: `MCxkMWU2Y2M0YWRiMGJiM2Q2OGJmZDk0NzFkM2EwZmY3YzE2MmI5ZTU1`
+Snapshot ID: `MCw3MjQ3Y2Q2Y2E5MTBiMjMwODIzZDJjNDlhZjdiOTZjZmU3M2NlNDE2`

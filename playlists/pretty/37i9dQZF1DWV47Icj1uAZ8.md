@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,748 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,790 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 49 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 |
 | 50 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
 
-Snapshot ID: `MCw1NDRmYTk3MGNmYzE0OTFhN2YyZmY4OWVjZmQ4NDQwNzZkYjJhMjk3`
+Snapshot ID: `MCwzZWI4ZGM4ZWQyM2E5YTM2MWZiOGQzYWMzYTlkNTJjMTMwZDViNGE3`

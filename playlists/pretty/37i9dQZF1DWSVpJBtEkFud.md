@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVpJBtEkFud.md) - [plain]
 
 > Pop favorites from today and yesterday
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,111 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,515 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVpJBtEkFud.md) - [plain]
 | 99 | [OMG \(feat\. will.i.am\)](https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:29 |
 | 100 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 |
 
-Snapshot ID: `MCwxNGY0ZjljNWM5NDBmMzRjMWU0MThiMGM5MDY4YzUxM2ExNGJiMGQy`
+Snapshot ID: `MCxkZTI5ZTllYjFjZDg0N2I4ZWM4ZTViM2YyOTc0ZDYxYjQ4MTg5YWQ4`

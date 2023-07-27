@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-293 songs - 16 hr 7 min
+294 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 | 2022-09-02 | 2022-10-01 |
 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-14 |  |
 | [El Papel Cambio](https://open.spotify.com/track/0qd52rGwvXWGK2qyqhuoXl) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Papel Cambio](https://open.spotify.com/album/14Ybe9bRCmwzWGg6JUtRXU) | 3:07 | 2022-01-07 | 2023-04-19 |
+| [El Papel Cambio \(Bonus Track\)](https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde El Nokia](https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK) | 3:07 | 2023-05-05 |  |
 | [El Peor De Tus Antojos](https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian](https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA) | 3:29 | 2022-05-23 | 2022-07-28 |
 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 | 2022-05-23 |  |
 | [El Precio De La Soledad](https://open.spotify.com/track/45ThrnuLlK3gvk8bAHOiAa) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asi Es Esto](https://open.spotify.com/album/4lHHw27lVO65tENDGJgxrr) | 3:06 | 2022-05-23 | 2022-07-29 |
@@ -162,7 +163,7 @@
 | [Me La Avente](https://open.spotify.com/track/16TbKoGzX5erRUW3L5J0kI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me La Avente](https://open.spotify.com/album/2FkDOCRhHBmmuRvVdUlRLh) | 2:35 | 2022-11-07 | 2022-11-13 |
 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 | 2022-01-07 | 2022-07-29 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-05-23 |  |
-| [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 | 2022-09-30 |  |
+| [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 | 2022-09-30 | 2023-07-27 |
 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 | 2022-01-07 | 2022-09-03 |
 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 | 2022-05-23 | 2022-10-01 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 | 2022-01-07 |  |

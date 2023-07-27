@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,061 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,087 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 |
 | 100 | [Matemática](https://open.spotify.com/track/0YUFXbHYoRMYBVSq2jaVcZ) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Músico](https://open.spotify.com/album/2V67eSPc4jTfG1aT5DAYk7) | 3:59 |
 
-Snapshot ID: `MCxmNjYzNWRlOTgzMzc0MDFhZThlMzdlMTMxMWUxNTkxYTk3NTZiNzFk`
+Snapshot ID: `MCw5ZjgxYzhiZGFlNzdiOGMwYTFmODEzNzY5YTE0M2ZiMGM1YzUxOGNh`

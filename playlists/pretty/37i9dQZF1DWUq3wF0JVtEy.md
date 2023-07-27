@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,293 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,471 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 |
 | 100 | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 |
 
-Snapshot ID: `MCxlODNjZDVjODc4NjhhMWRiYzQxN2QyNTI1MGRkMmUwNzkzZjU2Nzk1`
+Snapshot ID: `MCw2NjU2ZTdjYjJhYzkzNTMzYjgyZWI5Y2MwMTU1NDRiODhhZmZhMjM0`

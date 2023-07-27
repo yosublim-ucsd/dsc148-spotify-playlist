@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,950 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,951 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [Mott St](https://open.spotify.com/track/4bi4qAirJz1NPjw9nKYvsq) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/1K1bKLpQoWvqtyojY4hxHO) | 2:55 |
 
-Snapshot ID: `MCxmMjUwMTMyZTJhZDI2YWM1ZTgxNTRiZGNjNWY0YTUxOWM3NWU0MGYx`
+Snapshot ID: `MCw3NTZhMmQyY2JmMGNjNDYwMDk3Njk0M2E4Nzc0N2M0NjEwNDA3ZjQ4`

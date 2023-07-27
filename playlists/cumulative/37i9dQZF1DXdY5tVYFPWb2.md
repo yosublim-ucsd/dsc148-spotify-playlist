@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-606 songs - 1 day 16 hr 9 min
+607 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [Sunny](https://open.spotify.com/track/2IyEK9FhWzs3zYqHDPtuYW) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Sunny](https://open.spotify.com/album/31XiYM9tE4DklMPthDKrAq) | 4:17 | 2022-06-07 | 2022-07-25 |
 | [Sunrise](https://open.spotify.com/track/09449DPrk7pUeshYrRsezL) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [SHINE](https://open.spotify.com/album/17gaRRlQCFWPltnBSsl5v7) | 4:18 | 2022-07-05 | 2022-07-13 |
 | [Sunshine Bay](https://open.spotify.com/track/4xVzY84aS6Yw4DMSHXRDl3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Frequency in blue](https://open.spotify.com/album/2OGC6VdVST13zmjdek6Rkz) | 3:16 | 2022-07-27 | 2022-08-10 |
-| [SUPER LOVER](https://open.spotify.com/track/2u0Eih7W9yf7dXGGP5WLZG) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/album/51lkAfmkwSCh3ETD4Vsexp) | 3:57 | 2023-07-25 |  |
+| [SUPER LOVER](https://open.spotify.com/track/2u0Eih7W9yf7dXGGP5WLZG) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/album/51lkAfmkwSCh3ETD4Vsexp) | 3:57 | 2023-07-25 | 2023-07-27 |
+| [SUPER LOVER](https://open.spotify.com/track/5smnzo6LhIx0NMC1ErBMG4) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/album/5TqaKQw5L4iDB107PBeQSH) | 3:57 | 2023-07-25 |  |
 | [SUPER SHINING](https://open.spotify.com/track/7wshhBA3bfHSnSHELxoWBD) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [1997](https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb) | 4:38 | 2022-11-30 | 2022-12-07 |
 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 | 2022-07-27 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2023-02-01 |
@@ -551,7 +552,7 @@
 | [小麦色のマーメイド](https://open.spotify.com/track/0ya4KBGKjtOas5XqGt97HU) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Velvet Motel](https://open.spotify.com/album/4d6pw6jvrA6PboPbzwdu90) | 3:50 | 2023-01-10 | 2023-02-01 |
 | [少し泣く](https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [少し泣く](https://open.spotify.com/album/5ybAA6CJFxuDRZLmJEoB5D) | 5:11 | 2022-06-21 | 2022-11-22 |
 | [年の瀬に](https://open.spotify.com/track/2EYuPrYNZTlr3qz1NNUq58) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [年の瀬に](https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2) | 2:55 | 2022-12-06 |  |
-| [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 |  |
+| [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [鷲尾伶菜](https://open.spotify.com/artist/4dqrHZDznBifUYWzj0Ylx1), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 |  |
 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 | 2022-05-28 |  |
 | [恋の後味](https://open.spotify.com/track/5Ps6N8EagDyCIASsX4E8nW) | [Yufu Terashima](https://open.spotify.com/artist/1EprrjlHDT5PD1w2NrHDPJ) | [恋の後味](https://open.spotify.com/album/0n04mNWmzUUWZnfGNyC3oB) | 4:56 | 2022-12-13 | 2023-01-11 |
 | [恋はこれから](https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [恋はこれから / 君の笑顔につられて](https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1) | 4:19 | 2023-03-28 | 2023-06-25 |

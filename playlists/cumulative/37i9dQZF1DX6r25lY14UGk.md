@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-137 songs - 6 hr 26 min
+138 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Brothers & Sisters](https://open.spotify.com/track/6wNMg5q7l9hBML29D45Yq1) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Brothers & Sisters](https://open.spotify.com/album/2yfEN46713k8LsXlXXyycS) | 2:51 | 2022-04-15 |  |
 | [Bubbles](https://open.spotify.com/track/6FtKyvGQxN3KqSLGU51MD0) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS), [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 2:52 | 2022-04-15 |  |
 | [Burpin' Bob the Surfin' Frog](https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 1:22 | 2022-05-25 |  |
-| [Cool to be Kind](https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R) | 2:01 | 2022-04-15 |  |
+| [Cool to be Kind](https://open.spotify.com/track/6kRgdvCQsERuUwDI4CA0gZ) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/1hIpNLkTHI7GCux3aFILlo) | 2:01 | 2023-06-21 |  |
+| [Cool to be Kind](https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R) | 2:01 | 2022-04-15 | 2023-07-27 |
 | [Crayon Kids](https://open.spotify.com/track/4M3nufr1L2tt1U1ISbOIiO) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 4:31 | 2022-04-15 |  |
 | [Dance with Me](https://open.spotify.com/track/4MKQfMCmqgJDKfON4yvIfT) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:49 | 2022-04-15 |  |
 | [Dandelion](https://open.spotify.com/track/1kuDlVx8egmivA6oRFEdVs) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 1:30 | 2022-04-15 |  |

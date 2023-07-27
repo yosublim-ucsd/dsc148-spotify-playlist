@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "cursed angel",
+        "url": "https://open.spotify.com/album/5gmokIT1CReABvOdt1YGpI"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225858,
+      "name": "cursed angel",
+      "url": "https://open.spotify.com/track/4pydYArxjKWJlEiv0XEo8K"
+    },
+    {
+      "album": {
         "name": "CUT",
         "url": "https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O"
       },

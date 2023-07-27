@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,828 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,128 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 |
 | 100 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 
-Snapshot ID: `MCw2YWEzNjVkYWRiYzc0ZTQ2YzEzNTcwNDRmYzMwMTc4MjQwNGIyNDM0`
+Snapshot ID: `MCxhNTY3N2RiMjQ3NzEzOGRkZTI2ZGNhMDE0NDUyZTU3MDdmOGY4M2Yz`

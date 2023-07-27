@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,805 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,892 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 100 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 
-Snapshot ID: `MCxiYzNjZThiMWNkMWRlYTM0NmNkZmNhMWYxMGY3MDEyZTFkMWVmNWFl`
+Snapshot ID: `MCwxOGVkMGFmNzJjM2QyNjNmMGU3MzRmODQ4NjA5NTgyYTliNDdjMDY2`

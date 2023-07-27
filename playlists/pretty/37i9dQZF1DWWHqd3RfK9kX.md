@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,935 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,942 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Quando você chegar](https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 3:18 |
 | 80 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 
-Snapshot ID: `MCxiYjNiYmFkNWQxNjIxNGNlZjhkZjFmOTRjMTlmZTM5NTFhM2FlZWUw`
+Snapshot ID: `MCxhMzg2ZTU1ZjM1OTMzM2Q3MWYxYjIwZjkyZjA0MmFhZWQ3ZDYyNWUz`

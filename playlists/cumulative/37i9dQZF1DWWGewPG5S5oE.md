@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 松井 秀太郎
 
-180 songs - 14 hr 56 min
+181 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 | 2023-01-25 |
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 |  |
+| [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 | 2023-07-25 |  |
 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 | 2022-09-20 | 2022-10-03 |
 | [JAPAN THREE](https://open.spotify.com/track/23O1af2u7yEmUjlJRcGP8C) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [JAPAN THREE](https://open.spotify.com/album/4rWMwDiCeLEmohFIEoCfLE) | 2:26 | 2022-11-15 | 2022-11-17 |
 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 | 2022-11-15 |  |
@@ -180,7 +181,7 @@
 | [夜空からの来訪者](https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夜空からの来訪者](https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm) | 4:13 | 2022-12-06 | 2023-02-08 |
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 | 2023-06-06 |  |
-| [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 |  |
+| [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 |  |
 | [本日は晴天](https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [本日は晴天](https://open.spotify.com/album/1TsDnMjGiFpnOBa6h9ectt) | 4:18 | 2023-03-07 | 2023-03-29 |
 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 | 2023-04-18 | 2023-06-09 |

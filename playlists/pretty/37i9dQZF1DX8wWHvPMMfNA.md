@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,264 likes - 400 songs - 23 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,366 likes - 400 songs - 23 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 399 | [Clover runs](https://open.spotify.com/track/106pfUb5fASv3yk2o4ft5g) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Clover runs](https://open.spotify.com/album/3a2deDvRsmV4PzpR6vqOpi) | 3:11 |
 | 400 | [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 |
 
-Snapshot ID: `MCwzNjczMjJjMjAyYTlmYzI2MWIwZjliMjEwYjFiYTNiYTJiNDcwZmNm`
+Snapshot ID: `MCxiZGY5NGM3NGMxZWVmNzU1MDVjYWU3NjYyNTAyNjc4NDhjNDk0YTY5`

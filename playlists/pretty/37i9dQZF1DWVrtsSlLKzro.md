@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,401 likes - 146 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,562 likes - 146 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 145 | [Save Yourself](https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Save Yourself](https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi) | 3:31 |
 | 146 | [Lonely Dulcimer](https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lonely Dulcimer / In Effect](https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM) | 3:13 |
 
-Snapshot ID: `MCwwNzc4MDYwYWVmZGQwY2RkN2YyODVjYzI2MDBkMDY0ODZhNDY0NDQ3`
+Snapshot ID: `MCxlNDg4ZjRkZjM5MTI0Y2U4ODQ1OWZmOGQxMmEzZDI1MWU0YTU1ZTMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Sobrino
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,326 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,394 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 36 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 37 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 |
 | 38 | [LICÁNTROPO](https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LICÁNTROPO](https://open.spotify.com/album/1ya3tWZT4yE8OfEuIzSKdE) | 2:46 |
-| 39 | [SÚBEME EL VOLUMEN](https://open.spotify.com/track/2W7ddrYsk4HvFeKiY5wPZM) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:52 |
-| 40 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
-| 41 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
-| 42 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 |
-| 43 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 |
-| 44 | [I Try For You](https://open.spotify.com/track/5rVbqzznJzjD8VnlwBdbsC) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:16 |
-| 45 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
-| 46 | [Besos y Pendientes](https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Besos y Pendientes](https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF) | 2:51 |
-| 47 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
+| 39 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
+| 40 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
+| 41 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 |
+| 42 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 |
+| 43 | [I Try For You](https://open.spotify.com/track/5rVbqzznJzjD8VnlwBdbsC) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:16 |
+| 44 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
+| 45 | [Besos y Pendientes](https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Besos y Pendientes](https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF) | 2:51 |
+| 46 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
+| 47 | [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 |
 | 48 | [Me Escapé](https://open.spotify.com/track/3jK3NH3y3uYjIMVyYdJtoF) | [Leal](https://open.spotify.com/artist/48swEQPOGdY8zNvE2ksqkc), [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Me Escapé](https://open.spotify.com/album/1ESdLYsLFLLG2Vuc67BbEm) | 2:36 |
 | 49 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
 | 50 | [Hasta El Alma](https://open.spotify.com/track/0zFCX9V9s8lszA5Ppli9Fq) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Hasta El Alma](https://open.spotify.com/album/5Vx1rrlSJiEiASuZ5c7dAw) | 3:09 |
 
-Snapshot ID: `MCw3MTlmM2E3ZTZmNzk3MjgyNmUzZTMzNmNjODg3NDA3YWQzNzgwY2Fj`
+Snapshot ID: `MCw2ZDNhYzMyM2E3Y2JlN2Y0NGVhYjA0NzA2MjNkZmVlMzJmOTdmODEw`

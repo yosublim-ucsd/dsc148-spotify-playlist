@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,180 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,320 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Just Gets Better \- Extended Dub](https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA) | [TJR](https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP), [Xavier](https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB) | [Just Gets Better](https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR) | 7:19 |
 | 75 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 
-Snapshot ID: `MCw1NzUzOTMyZDViNDhiNDQ0MDJlOGRlNWM5MDFhMDgyNmZhNWFjNGZh`
+Snapshot ID: `MCw2MmM3ZjIyOGYwZGQ5MDhlNTRkNDllNmI5OWQ0ZWExMmU0ODA4ZTcz`

@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kylie Morgan
 
-332 songs - 18 hr 10 min
+333 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,9 +185,10 @@
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2021-12-01 |  |
 | [Maybe I'm Still Drunk](https://open.spotify.com/track/6pjaAhEIehFGEr2cQOrTkR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Maybe I'm Still Drunk](https://open.spotify.com/album/0jvK7EcGlTq0ziRSMoC3Qw) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Me About Me](https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown EP](https://open.spotify.com/album/11QgrQnSwv0EKBEBjL244C) | 2:46 | 2021-12-01 | 2022-06-21 |
-| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/19GUqtVjLU3u6WKDYpOw5i) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:25 | 2023-07-14 |  |
+| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/19GUqtVjLU3u6WKDYpOw5i) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:25 | 2023-07-14 | 2023-07-27 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/3VGDNX6apk3Mb7ieRgpMkV) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Sampler](https://open.spotify.com/album/2HubZtBcz9xEfWWaLRqHXi) | 3:25 | 2023-06-30 | 2023-07-24 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/4BQxMO6PoNJzY410N8YjsT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/album/3rw1zkeAmrZvDd60WwAJgj) | 3:25 | 2023-06-23 | 2023-07-01 |
+| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:25 | 2023-07-14 |  |
 | [Mean Something](https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:14 | 2021-12-01 | 2022-06-30 |
 | [Miss Me More](https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Miss Me More](https://open.spotify.com/album/39wJJPpL0ukNLWsU2Z3XIv) | 3:12 | 2021-12-01 | 2022-07-28 |
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2022-07-22 |  |

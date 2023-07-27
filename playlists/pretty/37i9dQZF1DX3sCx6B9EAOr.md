@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,088 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,145 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 149 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 150 | [Happy Death Day](https://open.spotify.com/track/5tFkeXbut9UEYCRO6ngFb6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3EWs6Dzq1O019JKq9A72KC) | 3:40 |
 
-Snapshot ID: `MCw2YmMwYjA0ZGQyOWFlMzY0YWU3MDIyYjJlMTUyMTVhMTgyN2MzNzIy`
+Snapshot ID: `MCw0YzM4Y2U4M2NhZDU5YTk5YWM5YzBlOTcwZDczNzdiMjRkYzkxZTJi`

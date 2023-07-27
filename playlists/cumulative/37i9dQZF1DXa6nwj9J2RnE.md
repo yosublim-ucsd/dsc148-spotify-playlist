@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-87 songs - 4 hr 53 min
+88 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
-| [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 |  |
+| [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 | 2023-07-27 |
+| [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 | 2023-06-23 |  |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 |  |
 | [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |

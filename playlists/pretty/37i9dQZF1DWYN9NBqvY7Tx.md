@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,626 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,524 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Ghost Light](https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light](https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM) | 3:11 |
 | 100 | [Detonate](https://open.spotify.com/track/49wRXpkVW8Adz5UA7XnFqt) | [G2](https://open.spotify.com/artist/4cqZIrEYvnBJEaqBWhKS9w), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Detonate](https://open.spotify.com/album/1GUdfoaRs4EapBVtclSDN7) | 2:47 |
 
-Snapshot ID: `MCwwYmFjYjEwOTU0NDJhM2QzMzhlMjdjN2Q3NmM5MDM3MTdmNzhjZDk1`
+Snapshot ID: `MCw5YWQ5Y2I4ODBjYjIyZjU3MDNjMDgzYTk1YjM3OGM1MDgxMjRmNDhh`

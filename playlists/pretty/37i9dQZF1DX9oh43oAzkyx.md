@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,411,119 likes - 76 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411,990 likes - 76 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 76 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
 
-Snapshot ID: `MCxmNDg4ZWE5YWU3YjI0MjFiMzU0YjQ5N2ZkYzllMGI1M2Y4ZjAzMzE4`
+Snapshot ID: `MCxmYWM2NDI3MjczYTVhY2FkNzVlMjY3NjNhZTU1OWI0MGQ1ZGZmNWQ1`

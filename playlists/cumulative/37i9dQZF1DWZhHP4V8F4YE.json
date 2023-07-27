@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "King Of Shangaan Disco",
+        "url": "https://open.spotify.com/album/7viT1YuB5SUkpPGR8wGODb"
+      },
+      "artists": [
+        {
+          "name": "Peta Teanet",
+          "url": "https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313146,
+      "name": "African Vibe PT 2",
+      "url": "https://open.spotify.com/track/343cAtGBlqslMQAgYUAbI3"
+    },
+    {
+      "album": {
         "name": "Afro the influence",
         "url": "https://open.spotify.com/album/2cmodJuDCMugQhLh2e8XzQ"
       },
@@ -3904,24 +3922,6 @@
       "duration_ms": 280607,
       "name": "Ka Gaza",
       "url": "https://open.spotify.com/track/2uhBXGRMFAoKQWdv4hEvdw"
-    },
-    {
-      "album": {
-        "name": "King Of Shangaan Disco",
-        "url": "https://open.spotify.com/album/7viT1YuB5SUkpPGR8wGODb"
-      },
-      "artists": [
-        {
-          "name": "Peta Teanet",
-          "url": "https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d"
-        }
-      ],
-      "date_added": "2023-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 313146,
-      "name": "Ka Valungu - African Vibe PT 2",
-      "url": "https://open.spotify.com/track/343cAtGBlqslMQAgYUAbI3"
     },
     {
       "album": {

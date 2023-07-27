@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,300 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,438 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Don't You Like It?](https://open.spotify.com/track/7ztjUaIJRxoAGfIMqn6ijO) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/333qTz81Y5I5u2wO7qZgOA) | 3:46 |
 | 50 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 |
 
-Snapshot ID: `MCxmODNlMmI5NDJlZjM2MmI3OTY4NzE2NDhhM2QxZTFlZjA1OWQ0YTFh`
+Snapshot ID: `MCxiYTExZWQwYTllMzgyNDQyMWNkMDU5YjIzNTNjODM5ZWMyYTZmYjY1`

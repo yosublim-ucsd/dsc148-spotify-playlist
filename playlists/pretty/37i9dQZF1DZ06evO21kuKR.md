@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,105 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,165 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 31 | [Least Ian Lie](https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:46 |
 | 32 | [Out Of The Streets \(feat\. Moneybagg Yo & Hotboii\)](https://open.spotify.com/track/1insg7g7zxg7KORXUGwExw) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:46 |
 | 33 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
-| 34 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
+| 34 | [Tampering With Evidence](https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 2:14 |
 | 35 | [Shottas \(Lala\)](https://open.spotify.com/track/2Ox2c1WEJDeQCHTXPE3YKM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:02 |
-| 36 | [Tampering With Evidence](https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 2:14 |
+| 36 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
 | 37 | [SRT \(feat\. BIG30 & Pooh Shiesty\)](https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:37 |
 | 38 | [Kut Like Dat \(feat\. Big Homiie G\)](https://open.spotify.com/track/0y2KEjIeEWPK0UUEwkdUJ7) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Big Homiie G](https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 2:50 |
 | 39 | [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
 | 51 | [Dior \(feat\. Gunna\)](https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:53 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA0ZDc0YzdhZTAxOWMxM2VjYjczMTlkMGY4MTU1NzczZg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA4OGI4NTU4NzZmYjA0M2UxYjlmOTMwMWVmNzZhZTM1OQ==`

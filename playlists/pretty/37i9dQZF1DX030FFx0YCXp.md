@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowdpleasing classics for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,712 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,797 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 79 | [Dust in the Wind](https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Best Of Kansas](https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO) | 3:25 |
 | 80 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 |
 
-Snapshot ID: `MCw0MjYxNzEwOWJjZDNlNGMyMTEwMjEyYmI2YWQxOTExNjUwZGMwMTAy`
+Snapshot ID: `MCw4NGIxMDcxYmFkOWNlYWM5YTJlZjAyOGNjMjhhNTE3OGEyNGU1OTcx`

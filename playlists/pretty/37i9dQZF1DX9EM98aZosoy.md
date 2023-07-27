@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264,856 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,859 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 50 | [Powerade](https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 2:22 |
 
-Snapshot ID: `MCw4MzI2Y2JhMDZlODNmYzgzMjk5MDUxYjBhNTBmOThkZGY2MTJiMTU0`
+Snapshot ID: `MCxiYTUxZDBhMmFjMWI0ZTk5NjQ4MjZkNjhlNmRjZTBiODI0MDA4Y2Ri`

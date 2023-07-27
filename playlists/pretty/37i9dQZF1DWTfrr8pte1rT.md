@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,119 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,201 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 |
 | 125 | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 |
 
-Snapshot ID: `MCxiNmJjOTM3M2FmMDZiYTJlNGJjNjFkMDRmZGJhNWM3ODQ1YWI2YjZi`
+Snapshot ID: `MCwwMWNlOGEyNzQxNzdlNmZhOGQyYjE2YjRhOTM1MmZlM2I2YjFlNGU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Lil Kesh & Young Jonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,884 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 |
 | 60 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 
-Snapshot ID: `MCw0ZjFiZGQyYWJkODY4MTk3NGNkYjMxOWIwNTA5ODkyMTUyZDdlZGM0`
+Snapshot ID: `MCw1ZGZjNzI1ZTE5NjA2OGU5NzU5MDU5M2UxZmQ4ZDdjZTJhZDQzYTcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,946 likes - 144 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,187 likes - 144 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 129 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 130 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 131 | [I Just Want To See Your Face](https://open.spotify.com/track/3F24QvIwDIpYWNN3V7TfEN) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/2qCJQYcEt0GgAv9dWMDGzx) | 2:18 |
-| 132 | [babysbreath](https://open.spotify.com/track/48YfnWuAbgGk1ZrBMSmsBy) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/22DG3nc75VmXwsRRuazJcQ) | 3:51 |
+| 132 | [babysbreath](https://open.spotify.com/track/37I8y5acJyPT7BRtoiVH3S) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 3:51 |
 | 133 | [Drain Cosmetics](https://open.spotify.com/track/2dIXaDSmad5KrAX4DEXYny) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/5Op3sgXfa2wPGDzySdXKyH) | 3:41 |
 | 134 | [Everyone Knows](https://open.spotify.com/track/6wPeyFOPttrFZ5cWr77wRg) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:22 |
 | 135 | [40 Days](https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 3:15 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 143 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
 | 144 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 
-Snapshot ID: `MCw2YzZhYWFhZDJhZWY2ZmMxMzk5NmFlMWMxMGUxNGQ1OTYxOWZjYTEz`
+Snapshot ID: `MCw1MThiZWYzNGE1YTM2ZDE1NjAwYmVkOTEyOGY2MGRhYjdlYWU4ZjEz`

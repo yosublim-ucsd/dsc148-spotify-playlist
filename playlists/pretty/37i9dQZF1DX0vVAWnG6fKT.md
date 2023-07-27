@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,902 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,977 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
 | 70 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 
-Snapshot ID: `MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm`
+Snapshot ID: `MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm`

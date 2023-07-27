@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Dierks Bentley
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,867 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,001 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Long Hot Summer](https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:33 |
 | 150 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 |
 
-Snapshot ID: `MCxjYTU0MTBhODNjMzkwNWU4NzQ3ZWFhZjI0ZmNhYTJkYzkzZTE2NDll`
+Snapshot ID: `MCxjMzhiZGZjMTZkMjNjNzkwMmRjOGFhZTM3MWU0OWY5OWZhZjY1OGMy`

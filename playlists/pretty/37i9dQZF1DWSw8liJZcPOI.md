@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,201 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,345 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 |
 | 100 | [hundred00](https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [hundred00](https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C) | 4:49 |
 
-Snapshot ID: `MCw4NDFhZWJmODczYmZkOTA3NjRhOGVlZDAwOGFlZjc5NjM4MTBhNzdm`
+Snapshot ID: `MCw3NmQ4NjA2ZDZiZmMwNmY4NTBhOTE2ZmVhMDhiNDE3ZmFiOTA3ZGI4`

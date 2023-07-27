@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -7272,6 +7272,24 @@
       "duration_ms": 176000,
       "name": "Ens\u00e9\u00f1ame a Bailar",
       "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
+    },
+    {
+      "album": {
+        "name": "EnterRauw",
+        "url": "https://open.spotify.com/album/6OmuYiZo2TOn3xia5pzkOV"
+      },
+      "artists": [
+        {
+          "name": "ndaikuai",
+          "url": "https://open.spotify.com/artist/0ZERHzh9BIPcqwFPJ5v02S"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429290,
+      "name": "EnterRauw",
+      "url": "https://open.spotify.com/track/2hlQyWfyn9KdzJtGFjlQAs"
     },
     {
       "album": {
@@ -12734,7 +12752,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 175192,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
@@ -18464,7 +18482,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 212000,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
@@ -22568,7 +22586,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
@@ -23720,7 +23738,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
@@ -24620,6 +24638,24 @@
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
+        "name": "Romance Latino vol.1 -Los Boleros Al Estilo De Bossanova-",
+        "url": "https://open.spotify.com/album/4bt7W8FMuRNEtumAVPhJU3"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ono",
+          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "\u30c6\u30fb\u30ad\u30a8\u30ed\u30fb\u30c7\u30a3\u30d2\u30b9\u30c6",
+      "url": "https://open.spotify.com/track/1xjGMWxSfbo7Eyjeb3mzNs"
     },
     {
       "album": {

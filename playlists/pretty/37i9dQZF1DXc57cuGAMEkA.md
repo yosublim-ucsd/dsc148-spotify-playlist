@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Travis Scott, Sam Smith, The Kid LAROI, ZAYN, \[Alexandros\] & WurtS and more! cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,520 likes - 87 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,530 likes - 87 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 19 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 |
 | 20 | [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/track/3LgyWMhXMMcMKxH56hdkxz) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/album/3sTt9m5B1zftc7BUVCZSVF) | 2:39 |
 | 21 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
-| 22 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 22 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 23 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 24 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 |
 | 25 | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u) | 2:27 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 86 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 |
 | 87 | [Sando](https://open.spotify.com/track/7gTZW1WEZcp7spllnVb2s6) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [KOM\_I](https://open.spotify.com/artist/6sOK1O5rpqEad0ZCzk5FnM), [Fumiya Otonashi](https://open.spotify.com/artist/6SA1xl7yWAdoyqHn5qQs3w) | [Sando](https://open.spotify.com/album/5Rcuks9u9QBW641KXpTGd3) | 3:17 |
 
-Snapshot ID: `MCwzMWU1Y2I0ZTk4MWZiMzU3ZjY5YWUzMjg4OTJlYWJmMzdjNWY1ZWZl`
+Snapshot ID: `MCxkYzZlZWFlMTk4ZDZlYzFlYzA2NDE2Yjc1YTcyNGQ2ZTUzOGZhMDBm`

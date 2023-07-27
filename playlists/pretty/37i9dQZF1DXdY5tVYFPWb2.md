@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,808 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,063 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 43 | [またね](https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [またね](https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv) | 3:36 |
 | 44 | [渚のバニーガール](https://open.spotify.com/track/3AV2WIFov6tLhaMkXmMso4) | [GET BILL MONKEYS](https://open.spotify.com/artist/1KneYlgLeiDl3ql3ThK1Fl) | [渚のバニーガール](https://open.spotify.com/album/3aLmyrDILTuLvOkxVC9ZVk) | 3:39 |
 | 45 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
-| 46 | [SUPER LOVER](https://open.spotify.com/track/2u0Eih7W9yf7dXGGP5WLZG) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/album/51lkAfmkwSCh3ETD4Vsexp) | 3:57 |
+| 46 | [SUPER LOVER](https://open.spotify.com/track/5smnzo6LhIx0NMC1ErBMG4) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN) | [BARBER IN THE LIVINGROOM](https://open.spotify.com/album/5TqaKQw5L4iDB107PBeQSH) | 3:57 |
 | 47 | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ) | 4:15 |
 | 48 | [round and round](https://open.spotify.com/track/79Glv2oOljXTYJkAKsddNL) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Such is life](https://open.spotify.com/album/3SppLYDvuBYIn30ISyEZlm) | 2:59 |
 | 49 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 91 | [NO TIME](https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [NO TIME](https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N) | 2:40 |
 | 92 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 |
 | 93 | [Signpost](https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 3:31 |
-| 94 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 |
+| 94 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [鷲尾伶菜](https://open.spotify.com/artist/4dqrHZDznBifUYWzj0Ylx1), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 |
 | 95 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 |
 | 96 | [BAY](https://open.spotify.com/track/22LvmPeDK2OR7L8NKhtRPk) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JCT](https://open.spotify.com/album/2fVEKsHOAfozCSTHYtq1d8) | 4:17 |
 | 97 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [Falling](https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Falling](https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf) | 5:13 |
 | 100 | [After Hours](https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life II](https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4) | 4:28 |
 
-Snapshot ID: `MCwzODBlMzM2NjRjY2Q1MmE5NThkZDA3MGJkZDIzOGYxY2JjNmY3ZTIw`
+Snapshot ID: `MCw5Yzg1NDU4NDhmZWRjZjRmZjE3NTEwYTM5MTY1N2JhNDUyOGFkOTI0`

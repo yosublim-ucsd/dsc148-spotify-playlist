@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,049 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,155 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 |
 | 100 | [Lonely Game \(feat\. Andrew Combs & Jessie Baylin\)](https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:49 |
 
-Snapshot ID: `MCxiZmMzZjYwM2I0YmU3NDI5MDQ2MTI0NTQ3MDU5YmUxMWFhOTg0Yzhm`
+Snapshot ID: `MCwxNTQ2ZjAzMzkwZTI2YTZkYmFhM2U0MmU4MTIyODk1MmMzNGM5MDZk`

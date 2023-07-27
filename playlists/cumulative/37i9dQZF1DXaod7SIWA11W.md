@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-245 songs - 15 hr 1 min
+246 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Believe For It](https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 3:48 | 2022-02-18 | 2022-06-01 |
 | [Black As Heaven](https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Black As Heaven](https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp) | 3:37 | 2022-07-17 | 2022-12-17 |
 | [Black Reconstruction](https://open.spotify.com/track/0lbpGauOZfYxbRk3Y0onnY) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Juneteenth: Faith & Freedom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NI0e8jehopq2DfA3KTZeZ) | 4:00 | 2022-07-17 | 2022-10-01 |
-| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2022-06-01 |  |
+| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2022-06-01 | 2023-07-27 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-06-01 | 2022-07-18 |
 | [Bounty](https://open.spotify.com/track/69pC0FHQlUTuYSxAkKxvGb) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Bounty](https://open.spotify.com/album/5d5dXAc2WAwAzLEWEYrJ7h) | 3:30 | 2022-07-17 | 2022-12-17 |
 | [Bridgeland Road](https://open.spotify.com/track/0YkEXWwHEY68CqdxYkuXUU) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Michaela Coel](https://open.spotify.com/artist/0nVdOXyYCXDv8UNIkAprmw) | [Bridgeland Road](https://open.spotify.com/album/2CPzlQDT5fSfThE6PAl4wx) | 5:20 | 2023-02-02 | 2023-06-11 |
@@ -248,6 +248,7 @@
 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 |  |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-09-03 |  |
 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 | 2022-12-16 |  |
+| [You've Been Good To Me \- Live](https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 9:30 | 2023-07-13 |  |
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-06-10 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-12-16 |  |
 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 | 2022-12-16 | 2023-02-03 |

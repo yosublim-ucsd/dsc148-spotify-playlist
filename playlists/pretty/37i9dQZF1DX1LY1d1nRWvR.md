@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,808 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,822 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Umama \- A COLORS SHOW](https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umama \- A COLORS SHOW](https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw) | 4:04 |
 | 50 | [Rent Day](https://open.spotify.com/track/3maPgzbsXLCQhvM69xZih5) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9) | 5:12 |
 
-Snapshot ID: `MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj`
+Snapshot ID: `MCxmZmZmNDIyMDY0ZmViYWY0NGY1N2UzZGRkNTc5MzViOWUwMDU4NTQ1`

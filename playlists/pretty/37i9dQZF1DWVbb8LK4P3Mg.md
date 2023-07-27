@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,826 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,844 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
 | 100 | [Special Christmas](https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ), [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw), [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [2016 United Cube Project Part 1](https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla) | 3:48 |
 
-Snapshot ID: `MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4`
+Snapshot ID: `MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,647 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,688 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 |
 | 100 | [Never Let Me Go](https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Never Let Me Go](https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn) | 4:26 |
 
-Snapshot ID: `MCw4Y2FlNTJmZjU2ZDM4YWMxZjkyNzRkZTVhNDhlMDYwMTAyNzcyOTBj`
+Snapshot ID: `MCxiOTk3MjFjODc2NGVhMTRjZDFmN2NjMDM5NmNiMDc2MzAzNzQxOTY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,042 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,574 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 |
 | 50 | [Moi Aussi](https://open.spotify.com/track/6DAgaiDktAm2A54mViMkKs) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [DREAMS II](https://open.spotify.com/album/5ei0sgRSVLxqkglc8aIcoi) | 1:42 |
 
-Snapshot ID: `MCw1N2M5M2U0OWVhZWVmNDgxOTJkYTE1ZjdlZDM0Yjg4MTQwNDM0MzU0`
+Snapshot ID: `MCxlMjlhOWY5ZjE4ZjZiZWFmYjI4NDk3OGU3M2E3ZmUzZjNhNWFkZTU4`

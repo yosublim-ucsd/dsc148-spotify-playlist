@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,710 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,762 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 |
 | 80 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 |
 
-Snapshot ID: `MCw4YWNiZDdiZmE0ZmY3YTVhMzA3MmI2MWMwMTMzYjkyOTEwYjU3NTNj`
+Snapshot ID: `MCxhMDZiZTNjMzllZTZhYWQwYTdlYWNlNjFjMTU5NmJjMDIzNGVhNmJh`

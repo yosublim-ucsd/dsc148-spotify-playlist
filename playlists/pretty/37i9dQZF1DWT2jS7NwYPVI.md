@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,687 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,786 likes - 104 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 103 | [Huh](https://open.spotify.com/track/2Dy7ZKdu40oGTkv8FwVyew) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Huh](https://open.spotify.com/album/79rY7sqFQLxLGePOOkaUXR) | 2:26 |
 | 104 | [Rorschach](https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Rorschach](https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N) | 3:55 |
 
-Snapshot ID: `MCw4ZjNmY2JkOWJjYWFkZDAzMWUyNjQ2YTY1NWU5OGRjNmRjODhkOTg5`
+Snapshot ID: `MCxlOGVmZWU2MmVjM2MxZWY2NjdiY2ZhMjJkZjU0Yzc2OTc4NTgwMWVh`

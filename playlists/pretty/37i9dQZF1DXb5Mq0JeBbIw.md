@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,574 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,815 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Best Of You \- Acoustic Version](https://open.spotify.com/track/73MHuCErSYZW2Q55lL08cA) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Best Of You \(Acoustic Version\)](https://open.spotify.com/album/5e0vB4IDPvySuTFp2Dxjpr) | 3:08 |
 | 100 | [I'm On Fire](https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm On Fire](https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f) | 2:20 |
 
-Snapshot ID: `MCxlZDI1NDhkMjJkOGRiYWU4MGNhNGI0YTNmNDZlMWFkYjQxNDI3Zjhi`
+Snapshot ID: `MCxiZTBjNmI5ODI5ZmIxM2FhODJiM2JkYmY4ZWU4MDFkYzFiZGJiNDNk`

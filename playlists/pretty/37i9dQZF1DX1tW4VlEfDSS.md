@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,478 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,530 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 | 60 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 |
 
-Snapshot ID: `MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3`
+Snapshot ID: `MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx`

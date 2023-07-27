@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,058 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,093 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 |
 | 80 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
 
-Snapshot ID: `MCxkNTUyYWMxYmNmNGJhNTE2ZGI0MGNiYWUxOGE1YzRkYTRmZmFhMTRk`
+Snapshot ID: `MCwyYmVmMGY1YWZlOGU4Zjc0YmFmMWVmZGZiMTA3ZDcyOTg2ZTM5ODdi`

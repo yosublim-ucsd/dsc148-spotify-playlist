@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,704 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,747 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [Foge de Casa](https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Foge de Casa](https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T) | 3:39 |
 | 70 | [My Loco](https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [My Loco](https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI) | 2:30 |
 
-Snapshot ID: `MCxiMWQ4YzY5MDA5NjkzOTE2YWJiM2VlY2VhMzg2NDI2MWI1YzkyNDll`
+Snapshot ID: `MCw5NGRjNjUxOTIxMzIyOGZjMTE1ODkxOWY0NGNlMzBkZmQzM2VlNmY3`

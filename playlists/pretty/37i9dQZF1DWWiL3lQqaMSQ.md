@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the 2023 nominees in one playlist! More info on this year's event can be found at <a href="https://www.thestellarawards.com/index.html">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,723 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 7 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 |
 | 8 | [Positive](https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Positive](https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC) | 3:31 |
 | 9 | [When I Pray](https://open.spotify.com/track/3Qqeh1ZLOJ1jjB43R2blpZ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:41 |
-| 10 | [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 |
+| 10 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 |
 | 11 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 12 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 |
 | 13 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 69 | [I Will Rejoice](https://open.spotify.com/track/0dbeFxQu8T7h3sgxZihKMl) | [Dulaneyland Music](https://open.spotify.com/artist/4lPHaqNFHpsvmZqggig0dq), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Morning Songs](https://open.spotify.com/album/0RDeruMTKlnOL1BoUwWTem) | 4:10 |
 | 70 | [Confidence \- Live](https://open.spotify.com/track/2VfZzYhwL2OwmPlXPNrkvJ) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:55 |
 
-Snapshot ID: `MCw1ZjI5N2RkY2ZhNzk5NzQ2ZjFiOGJmMTQyYWIyOTdmZTQ3MTk1YzYw`
+Snapshot ID: `MCxhNmU1NzI0YjBmMTUzNGNmZTMwNzQ2ODZiOWUwYjExNDhlNTVlYWRl`

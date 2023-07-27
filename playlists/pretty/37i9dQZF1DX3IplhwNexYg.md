@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,534 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,539 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 |
 | 80 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 
-Snapshot ID: `MCw1YjFhYzk5MzdhNDFmMDc0ZDE0MTcwODQ3MDhkZWIxNDgxOGE1NjA0`
+Snapshot ID: `MCw4OTQwNjViMTE3OTE0MjM4Y2Y5NGM0OWY3M2U5ZTA2Y2M5NzM5Nzk4`

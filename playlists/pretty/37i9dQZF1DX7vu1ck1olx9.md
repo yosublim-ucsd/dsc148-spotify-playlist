@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,142 likes - 82 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,191 likes - 82 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
 | 82 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 |
 
-Snapshot ID: `MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz`
+Snapshot ID: `MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh`

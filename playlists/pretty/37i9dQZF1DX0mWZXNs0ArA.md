@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,645,438 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,473 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 30 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
 | 31 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 32 | [Maria Maria \(feat\. The Product G&B\) \- sped up](https://open.spotify.com/track/68R32667rUVTo8ldDkOXyR) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Maria Maria \(feat\. The Product G&B\) \[sped up\]](https://open.spotify.com/album/14ZA6Zeh3TCxv4GIcCV6f7) | 3:56 |
-| 33 | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 |
+| 33 | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 |
 | 34 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
 | 35 | [af1 \(sped up\)](https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(sped up\)](https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B) | 1:58 |
 | 36 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Infinity \- Sped Up Version](https://open.spotify.com/track/5s0dNKonnbNTOYiTkSuNbR) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Infinity \(Sped Up Version\)](https://open.spotify.com/album/2esUhLkQgcPXVy8hH0qpGx) | 2:49 |
 | 100 | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/track/4PwGpbqCyhmRdF8PjD4w79) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/album/2I2owsGfmBSq0bZPxD6dN9) | 3:09 |
 
-Snapshot ID: `MCw0OWRmYjRhMDczYmRmOWJmOTQwOTQ3NjI4NTg4OGZmN2JmZGYyZWNi`
+Snapshot ID: `MCw3MmM2NTc3YWEzYTFkNzdjZmU0NTk0YTQ3N2Q5MTg2MmM5MDAxNjU3`

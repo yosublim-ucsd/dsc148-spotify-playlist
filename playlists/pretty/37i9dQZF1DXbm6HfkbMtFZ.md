@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,898 likes - 115 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,064 likes - 115 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [My Stove's on Fire](https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO) | 2:48 |
 | 115 | [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 |
 
-Snapshot ID: `MCxjZWM4Y2E2M2M4MTdkOTQwYTIyOGNlNGIxOWJmMTJhZmE3MTZiNzA5`
+Snapshot ID: `MCw4YWFmYjIwMTM2YmY2ZGU5MTA1NmY3MTk1NDcwM2U4YTZhMTlmYzYw`

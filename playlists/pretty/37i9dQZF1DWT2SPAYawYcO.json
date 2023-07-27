@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: NewJeans",
-  "num_followers": 362842,
+  "num_followers": 362849,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2",
+  "snapshot_id": "MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -82,6 +82,10 @@
         {
           "name": "Diarra Sylla",
           "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
       "duration_ms": 214838,

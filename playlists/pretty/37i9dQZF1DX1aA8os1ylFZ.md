@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,069 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,095 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
 | 100 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 |
 
-Snapshot ID: `MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz`
+Snapshot ID: `MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj`

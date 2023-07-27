@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,558,559 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,559,108 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 |
 | 75 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 |
 
-Snapshot ID: `MCw5M2FlNmE0MDdlNjY1Y2NmOTkwMmViMjJmZjlhYzcwNDI0YzViNzA2`
+Snapshot ID: `MCw3ODY2NjA3ODk0ZWI4MzRkNDcwMTQ1ZGY1NjliMzg0YWEyNjlmYjc1`

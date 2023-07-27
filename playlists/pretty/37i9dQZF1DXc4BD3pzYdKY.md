@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,212 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,299 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 |
 | 100 | [OH YHWH](https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [OH YHWH](https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7) | 3:03 |
 
-Snapshot ID: `MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh`
+Snapshot ID: `MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk`

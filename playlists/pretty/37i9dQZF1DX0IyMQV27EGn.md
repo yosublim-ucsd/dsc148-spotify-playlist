@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,933 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,022 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 | 70 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 
-Snapshot ID: `MCxmNTI2M2YyYWRhN2RjY2JhZWM1MTI3MmJiYTg0MmMwMmY1MWQzZmZi`
+Snapshot ID: `MCwwYjg3NTg3OWRmMGRjNTkzNzU1MWE1MmE1ZmIzZDI2MzE1NmIxNDRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,491 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,624 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
 | 100 | [Join In The Chant](https://open.spotify.com/track/34vs8Nv1UbY63eWgMR1Tb2) | [Nitzer Ebb](https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f) | [That Total Age](https://open.spotify.com/album/7wm0bknBmCO7Ienh7plPz4) | 6:05 |
 
-Snapshot ID: `MCwwNzVlMTQ2OGFjMjU3NmM5YTQwNTI4Yjk3MjQxMmI4NGQxOWQyY2Rl`
+Snapshot ID: `MCxjODI1YTkyYmFkZGIxOTU0MzJhMTg5ZTVhNWNlOWRkZTllYjYyMzI5`

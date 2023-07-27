@@ -4,7 +4,7 @@
 
 > 150%
 
-244 songs - 10 hr 48 min
+245 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/track/0Ntea3SB1jJ0SxRNt5MvjM) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/album/6ZrzrK6Fn0AIQtuV9CqXzs) | 3:37 | 2023-04-03 | 2023-06-10 |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 | 2023-03-22 |
 | [psilocybin \(sped up\)](https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [psilocybin \(sped up\)](https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti) | 1:52 | 2022-11-25 | 2023-02-25 |
-| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 | 2023-07-17 |  |
+| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 | 2023-07-17 | 2023-07-27 |
+| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 | 2023-07-17 |  |
 | [reaLitie biTes \- \(Nightcore Mix\)](https://open.spotify.com/track/3RjKonSan0ZzkbwjgL4nO8) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [reaLitie biTes \(Nightcore Mix\)](https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp) | 2:01 | 2022-10-28 | 2022-11-05 |
 | [Red Ruby Da Sleeze \- Sped Up](https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Red Ruby Da Sleeze \(Sped Up\)](https://open.spotify.com/album/5HCvLKZPNfrztoLv2fPs48) | 2:59 | 2023-04-13 | 2023-07-18 |
 | [Remember \- Acoustic / Sped Up](https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:34 | 2022-10-24 | 2023-07-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House and Deep House\. Photo: SPECT3R
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,028 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,037 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 33 | [Power Of Love \- Analu Andrade Remix](https://open.spotify.com/track/1j1FHxy8rSd2Z27oHM26XO) | [Analu Andrade](https://open.spotify.com/artist/6kbz0Cjs3FsX841XRgNVfW), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Power Of Love \(Analu Andrade Remix\)](https://open.spotify.com/album/0vDKN37Cz0PWGz5NwBVbQD) | 5:27 |
 | 34 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 |
 | 35 | [Nosso Espaço](https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Nossa Gangue](https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6) | 6:16 |
-| 36 | [Take It Slow](https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [Take It Slow](https://open.spotify.com/album/2ZKbcXIhwxCnhT7hianBpf) | 2:45 |
+| 36 | [Take It Slow](https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND) | [Prophecy](https://open.spotify.com/artist/20p5YCG101lJcLPtPnOqAH), [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [New Era, Vol\. 3](https://open.spotify.com/album/2ZC5O12mhaLFmg9x5u5jaQ) | 2:45 |
 | 37 | [Overload](https://open.spotify.com/track/7eK8NnAGrCjNA76waOYENT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A) | [Overload](https://open.spotify.com/album/2pMfkhLuAHNl2arl69LiGp) | 3:06 |
 | 38 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 |
 | 39 | [São Paulo](https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [São Paulo](https://open.spotify.com/album/2YwIr0IYdP5XpSG62W05gK) | 2:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 64 | [Movin'](https://open.spotify.com/track/5f4gHNBT19570jIhNDA03X) | [Leo Lauretti](https://open.spotify.com/artist/1bbFXkOz79Z1VY9CpA0c0Z) | [Movin'](https://open.spotify.com/album/5G3wO6Kx7DxN7LollgKS3l) | 3:19 |
 | 65 | [Steven Hawking \- Luca Lush Remix](https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Steven Hawking \(Luca Lush Remix\)](https://open.spotify.com/album/18nohNOHWVWvsiUaFrTSGx) | 4:01 |
 
-Snapshot ID: `MCwxZWE2MmQwNWI5NzQzOTYwMzM0YjExOGRmY2I4MGE0M2NkZGRhNmZk`
+Snapshot ID: `MCwzOTY4NDZmMDA4NDJlNDg2NjMxNzViMjc1NjQ4NmRiNzAwZGMxMDM0`

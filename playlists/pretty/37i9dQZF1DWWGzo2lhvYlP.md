@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,572 likes - 200 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,605 likes - 200 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 |
 | 200 | [All Of It All](https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [All Of It All](https://open.spotify.com/album/7xpldh6E2eQyxS6UWN9xEA) | 2:58 |
 
-Snapshot ID: `MCwzZTFiZjVlYTIwNmU4NzBmMmQ3MTIwNWQyZDZmNzMzYWI1YTMwODli`
+Snapshot ID: `MCwwNjAwZTQwMTQyZmJjZGQwNzJjY2NjNjgxOGQ3Mzk1Yzg5NDRhNzI4`

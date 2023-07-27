@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,236 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,231 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
 | 100 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 
-Snapshot ID: `MCxiYjY5ZTk2MmNjNWYxNzI0YzZkM2MyM2NmMjY1Zjg1YTNjM2M1NDAy`
+Snapshot ID: `MCxjOGQ2M2YyMTU5MmRkMjlmOTk1Nzc2ZTBjNTc1NzQwY2U4ZWQ3M2Ex`

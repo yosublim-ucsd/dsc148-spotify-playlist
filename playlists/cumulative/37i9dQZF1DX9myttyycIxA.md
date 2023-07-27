@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Geese
 
-1,008 songs - 2 day 9 hr 25 min
+1,010 songs - 2 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 | 2022-05-19 | 2022-08-27 |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-03-31 | 2023-06-16 |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-03-31 | 2023-04-29 |
+| [Cheetah](https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF) | 3:02 | 2023-07-26 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6CrknTtSyM7xv9mOIhVoB6) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Ow](https://open.spotify.com/album/2SS3XY9hgkYRASjq80s2xV) | 2:47 | 2021-03-05 | 2022-03-27 |
 | [Cherry Jerry Citrus](https://open.spotify.com/track/4NH4uwPks7iwmmylbgAE25) | [Hey Cowboy!](https://open.spotify.com/artist/1m2tY2Q32cp51czUo7SxyZ) | [Get in My Fanny Pack and Let's Go](https://open.spotify.com/album/6ZEYAnIq5z89j5TTczUPH7) | 3:09 | 2021-06-02 | 2022-04-29 |
 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 | 2021-03-05 | 2022-04-29 |
@@ -381,6 +382,7 @@
 | [Give It Away](https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2) | [Blue Dahlia](https://open.spotify.com/artist/2Ls6NaK9OMltk9EYI3UPcw) | [Give It Away](https://open.spotify.com/album/2GoYefIW9m1a2yFRmaBYdv) | 5:00 | 2022-06-24 | 2022-08-06 |
 | [Give Me A Reason](https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Give Me A Reason](https://open.spotify.com/album/2Q3nPnB0WjJoWkJ25XB3SS) | 5:53 | 2022-09-30 | 2023-01-21 |
 | [glad ur gone](https://open.spotify.com/track/2BhYza30OCp9NUF5Yavo9w) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [glad ur gone](https://open.spotify.com/album/4AaIk7kmUbdOl97epNOoSI) | 4:05 | 2021-07-02 | 2021-12-27 |
+| [Glass Jaw](https://open.spotify.com/track/76koZv1MMQG2p9rypLMMl9) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Glass Jaw](https://open.spotify.com/album/3Ai2ERZzzE472fbQHlJ2S9) | 5:14 | 2023-07-26 |  |
 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2021-03-19 | 2022-04-29 |
 | [Go Slow](https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Go Slow](https://open.spotify.com/album/26FMqBnzWjXHsgogCXRGKb) | 3:20 | 2022-05-20 | 2022-10-08 |
 | [González](https://open.spotify.com/track/71BD7jwEW0JSE44U6e6yfz) | [LOKI](https://open.spotify.com/artist/71EJ8oMfR3a20cqp3VrhRe) | [González](https://open.spotify.com/album/7F5buTSZIQjentoHALV9pa) | 3:58 | 2021-06-25 | 2022-04-19 |
@@ -777,7 +779,7 @@
 | [Sink In](https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Hello Mary](https://open.spotify.com/album/0Dhff2G19pJvrdOSPLgp4f) | 3:55 | 2023-06-15 |  |
 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 | 2023-03-31 | 2023-06-16 |
 | [Sinkin'](https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:09 | 2021-04-30 | 2022-04-22 |
-| [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/track/77DCX4rrfn4nHCudFcfSLg) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Miracle\-Level](https://open.spotify.com/album/2ue49EW32PZ8ytPDOtZHcw) | 2:05 | 2023-06-15 |  |
+| [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/track/77DCX4rrfn4nHCudFcfSLg) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Miracle\-Level](https://open.spotify.com/album/2ue49EW32PZ8ytPDOtZHcw) | 2:05 | 2023-06-15 | 2023-07-27 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-03-05 | 2021-12-31 |
 | [Sleep In](https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Sleep In](https://open.spotify.com/album/22TydprUERlmijzweFcqpb) | 3:28 | 2022-07-22 | 2022-09-29 |
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |
@@ -841,7 +843,7 @@
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-29 | 2022-10-01 |
 | [Strokes](https://open.spotify.com/track/6u3sTOr6NtcXIvf2SBWgFy) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 2:11 | 2022-04-29 | 2022-10-01 |
 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 | 2022-04-29 | 2022-10-01 |
-| [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 | 2023-06-15 |  |
+| [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 | 2023-06-15 | 2023-07-27 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-03-05 | 2022-04-29 |
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-11 | 2022-04-18 |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-16 | 2022-03-22 |

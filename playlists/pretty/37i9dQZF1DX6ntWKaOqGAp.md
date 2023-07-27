@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,011 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,103 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 7 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 | 8 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
 | 9 | [BLUE SUMMERTIME BLUES](https://open.spotify.com/track/3q7ZMjN5YmRlpXFEMWtXeA) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [BLUE SUMMERTIME BLUES](https://open.spotify.com/album/5LOEXezau5aKQhGP8OW7Ry) | 3:50 |
-| 10 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 |
+| 10 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 |
 | 11 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
 | 12 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 |
-| 13 | [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 |
+| 13 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 |
 | 14 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 15 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
 | 16 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 86 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 87 | [地獄でスキップ](https://open.spotify.com/track/3J4aASakUQi3c1A4H6sWNo) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [地獄でスキップ](https://open.spotify.com/album/0l8B8Vm7xo07KvuEyxuyxU) | 2:39 |
 | 88 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 |
-| 89 | [ページワン](https://open.spotify.com/track/0F3Yweyi7xXqRFKQH8UKzv) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [ページワン](https://open.spotify.com/album/3wCUYcVf2e4p3km2TdZUss) | 2:58 |
+| 89 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 |
 | 90 | [Darling Rolling](https://open.spotify.com/track/79P425nwcAHHcNGFq9IQ7B) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Darling Rolling](https://open.spotify.com/album/2RCMRB5wH0pootUUgZacrg) | 2:26 |
 | 91 | [Rollin'](https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Rollin'](https://open.spotify.com/album/1CuGJcwvmYfj7yFWTurt13) | 3:54 |
 | 92 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 93 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 94 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 |
-| 95 | [ANIME](https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/153c91yGLUSNj6yefDIIoL) | 2:42 |
+| 95 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 |
 | 96 | [Kyusekkin](https://open.spotify.com/track/1ipRUJa972ttvdHrlEbctv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kyusekkin](https://open.spotify.com/album/4OSckx4fTTXI18vBwcZlGr) | 2:55 |
-| 97 | [雀の子](https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [雀の子](https://open.spotify.com/album/1MzgYIiGByI7YdHKGCr4xG) | 3:11 |
-| 98 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 |
+| 97 | [Little Sparrow](https://open.spotify.com/track/3E8afOCrmBwpaWJa088oiK) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Little Sparrow](https://open.spotify.com/album/5GxWPcPEess2AWA8YswjHE) | 3:11 |
+| 98 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 |
 | 99 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 |
 | 100 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
 
-Snapshot ID: `MCwzYTI4YjE1N2ZhNGUxY2FhYTg4NTQzZWFjODkyYjA3NTRmNmY1Mzky`
+Snapshot ID: `MCwxYzZiYWFmNGRlZjM0YzU0ZjQ1Yjg1OTAwMzdiMDk5ZjcyNzdmZDVl`

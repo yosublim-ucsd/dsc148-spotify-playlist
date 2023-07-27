@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,390 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,491 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 | 4 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 |
 | 5 | [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 |
 | 6 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 |
-| 7 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/3Co7rxpt17f78kj4WSa1FZ) | [Los Buchones de Culiacan](https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa) | [Y Seguimos La Borrachera](https://open.spotify.com/album/2DTHcZK8xkXi8zg2sFK2io) | 3:19 |
+| 7 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
 | 8 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
 | 9 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
 | 10 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 | 49 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 | 50 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 2:58 |
 
-Snapshot ID: `MCxmZTg5Y2YyZDdlMTE0Nzg3MTUwMWNkYWU4MmMxOGE3MGFjOGRhOGRk`
+Snapshot ID: `MCwzYjY2Nzk5NGQ5ZWMxM2RhYmUwNjE4NmZiZjIwY2NkMzM3Y2RjOWRh`

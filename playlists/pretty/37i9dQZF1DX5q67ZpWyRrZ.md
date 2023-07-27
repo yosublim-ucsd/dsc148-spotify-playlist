@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,992 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,653 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 67 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 |
 | 68 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 69 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
-| 70 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 |
+| 70 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 |
 | 71 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 |
 | 72 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 | 73 | [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 |
 | 74 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 |
 | 75 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MCw3NzQ2NTAzOTZmYTRkYjA1N2YwNGYxNzVjMDZjOGZlNjEzODgxMzM5`
+Snapshot ID: `MCxhMmViYjVhNzFiY2MwNjBjZTMwYmI5ZjIwZGU3NTY5MDMyNTllNGE3`

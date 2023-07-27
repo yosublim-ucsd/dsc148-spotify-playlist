@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,704 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,746 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 60 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 |
 
-Snapshot ID: `MCxhNDZiNDgxMTUyOTQyMTkzNzRmZGVlYzRkZWE2MjAxOGI5OWFkNzI2`
+Snapshot ID: `MCwzYzdlN2QxMDA4MjM3ZGNhNmVkNTRiNjIwNGRkZTk1ZmE3OGEwYzhk`

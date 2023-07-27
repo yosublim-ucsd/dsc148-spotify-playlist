@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ \(Haruka Mirai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,493 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,615 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 |
 | 100 | [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 |
 
-Snapshot ID: `MCxmN2UxZDI5YzAxZWZlM2JmZDZhY2FmNGM1OGEzMWY2NGNjZmVlNDcz`
+Snapshot ID: `MCw5NGQ0ZDg2Y2MxZGE1NzE4ZDYzN2Y3NDA0ODNhYmU1ZjM0M2IyODQz`

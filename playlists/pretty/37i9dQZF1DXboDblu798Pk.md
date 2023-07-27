@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Diplo, Jessie Murph & Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,259 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,267 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 79 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 |
 | 80 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 
-Snapshot ID: `MCxiODIxZGFiY2I5OGIzNzBkZjA0MzY5NThlNTYyOGQ1MTc2NTMxNjI1`
+Snapshot ID: `MCw4MzI0ODYzMTU4MWRjY2VhMDlkMmUwN2I1YTJiZDI0MjIzNzg0YjVk`

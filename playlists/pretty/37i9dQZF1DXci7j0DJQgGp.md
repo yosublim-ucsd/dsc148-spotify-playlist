@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809,864 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,809,885 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 |
 | 100 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
 
-Snapshot ID: `MCxlMmQ2NWEyM2M1YjU3NDA2ODRiNGNkMjdlNjgyMmVkODRjZGE5YjRi`
+Snapshot ID: `MCwwNTc4YzhlNDBkYzg5YmYzZWI1MThiNzg3YTU2MDljNmRiMTEzNjBh`

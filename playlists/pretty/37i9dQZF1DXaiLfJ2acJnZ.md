@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,024 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,040 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Hold On Me](https://open.spotify.com/track/5oNHxV8Ls8wlnQbi5BGOk0) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Hold On Me](https://open.spotify.com/album/5t5kFdsaVmAoDsM8fOFqmQ) | 2:45 |
 | 80 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
 
-Snapshot ID: `MCxkM2ZjZWMxOWZiOTJlYWM0OWQzOTNmZTE1YzQ1N2U3OTFkYzZlZWEw`
+Snapshot ID: `MCwwMzI0ZWZkMTk3NTAxNWMzOWNhODcxMGE2OTg4OGRiZjMyZjkxYzhl`

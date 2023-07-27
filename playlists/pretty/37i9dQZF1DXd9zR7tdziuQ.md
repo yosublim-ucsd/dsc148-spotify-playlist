@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,078 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,323 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 | 150 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 
-Snapshot ID: `MCw2MmYyODc1YzBkZjUzYWVlYTk2OTFjNTIxOTQ5OTc4NzA1ZWQyMjM0`
+Snapshot ID: `MCwzYWM4NGJkYmY1MmQwOWMxNTZjNTg2YzhjMTUwYzkxM2ZlYmExN2Jj`

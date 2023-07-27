@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,103 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,108 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Tu Demente](https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Tu Demente](https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0) | 3:03 |
 | 100 | [Obsesión \- Remix](https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Obsesión \(Remix\)](https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9) | 3:30 |
 
-Snapshot ID: `MCw5YzA3NmJmY2QyYmYwNDM3NjMxMDM0OTJjZjhjYzExNGQwNWVkMTg3`
+Snapshot ID: `MCxjY2VmNzNhZjg0M2Q5YjM1N2MxNmUwZDBkODg2M2FkMTgzMzYwMWE1`

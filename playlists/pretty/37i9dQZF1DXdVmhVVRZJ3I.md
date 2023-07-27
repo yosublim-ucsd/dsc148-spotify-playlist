@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,131 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,222 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Party Never Ends](https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Party Never Ends](https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM) | 2:28 |
 | 50 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 
-Snapshot ID: `MCw4YWE1NDA5ZjIyMjQzNmJmOTVmZjVlNzNlYmZkOTdlMDUzMjgxODE0`
+Snapshot ID: `MCxjMTk5ODBkZTFlNzQwMGQxYzA0Njg4NDdiNWJhZTdhNGFiOTdiZmFi`

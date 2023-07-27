@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: 落日飛車 Sunset Rollercoaster
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,202 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 |
 | 100 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 
-Snapshot ID: `MCxiYmNhODExMTY4MjI2ODdkZWVjNmM2OWRhY2Q3Nzk0MzNhYTJlZjRj`
+Snapshot ID: `MCw1MGQ5MzYzODFhMWI2NGYyZWViMTdkODg4NDI3MTM0YjllYTUyODFh`

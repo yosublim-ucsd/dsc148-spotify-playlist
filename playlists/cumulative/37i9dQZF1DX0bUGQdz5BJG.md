@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Frank Ray
 
-1,484 songs - 3 day 7 hr 26 min
+1,485 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1491,6 +1491,7 @@
 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 | 2022-05-20 | 2022-07-30 |
 | [Young Buck](https://open.spotify.com/track/2CMuWqynEd056gVgf0uyC8) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Young Buck](https://open.spotify.com/album/2sGqv9lL8C2kViaVCxvc64) | 4:50 | 2023-05-05 | 2023-06-03 |
 | [Your Love](https://open.spotify.com/track/0awCJOtVfgPndrQdNZdRP0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Love](https://open.spotify.com/album/5tkwa1YtkGzf6bRYCELUz9) | 3:09 | 2023-06-16 | 2023-07-15 |
-| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-07 |  |
+| [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-07 | 2023-07-27 |
+| [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

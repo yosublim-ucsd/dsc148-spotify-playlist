@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,725 likes - 99 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,748 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 98 | [Ukiyo](https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Ukiyo](https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk) | 2:04 |
 | 99 | [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 |
 
-Snapshot ID: `MCwxNzBkMTViNGQ3ZDc1ODc5ZWFiM2EwMGI3MmI0ODkxZDZmYjhkNzJm`
+Snapshot ID: `MCxlNmRlMWJjZDJhNWEyYjIyYjYzZmQ3ZDdiNmY2M2NjNjUyZGM2Njkz`

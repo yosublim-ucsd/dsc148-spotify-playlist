@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,364 likes - 35 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,426 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 28 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 |
 | 29 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 |
 | 30 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
-| 31 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 31 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 32 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
 | 33 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 |
 | 34 | [Jessica \(with SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(with SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/album/1DLEZ4s6lIu88XGfU3qXuF) | 3:01 |
 | 35 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 |
 
-Snapshot ID: `MCw5OTkxZDZhZWJkNGNjYmIwMzYwYzFlZWFmNmJiYjZmNGVjNzI2N2Iw`
+Snapshot ID: `MCxlY2FhMjA2Y2NlNDJiMDQ4NGIwM2ExMzFhYjA5ZWQ0YjljOTIwOTM1`

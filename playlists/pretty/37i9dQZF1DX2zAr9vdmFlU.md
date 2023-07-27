@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,023 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,167 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
 | 100 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
 
-Snapshot ID: `MCxjZjA3NDkzNjEyNGI0NjgyYWEyNGY5OTM0ZmYwODYyMmVhNTZhODcw`
+Snapshot ID: `MCw3Y2FlODE3OTZiNjkxNjExOTZkZjEwYTc4MzhiZmU2NGJjMzExNGM3`

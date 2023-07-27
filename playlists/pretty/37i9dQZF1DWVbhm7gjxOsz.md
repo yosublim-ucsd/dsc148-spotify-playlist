@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,857 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,090 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 |
 | 150 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/5rsL7vz0rU31i1Ugd5lyQY) | [Hector Rivera](https://open.spotify.com/artist/5QBCiKjgFTznZwKUiiDTXA) | [The Sweeter Side Of Latin Soul](https://open.spotify.com/album/3K4UkNHO8AGTI1mVSbMr0w) | 4:15 |
 
-Snapshot ID: `MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj`
+Snapshot ID: `MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk`

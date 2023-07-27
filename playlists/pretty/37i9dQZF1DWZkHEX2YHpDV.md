@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,392 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,477 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 124 | [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 |
 | 125 | [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 |
 
-Snapshot ID: `MCxmMGI2YjdkNmE2Y2RlYTA0ZTI3MmQ1NDg5ZDZmMWM4MzRmYWU3MWI0`
+Snapshot ID: `MCwyZGI0Y2M0OTVlMTFkNTBkYmVlOTJiYTQ3NTEyMDk0MWI0MmIzZjZm`

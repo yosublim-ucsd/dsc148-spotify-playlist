@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,104 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,221 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
 | 50 | [Los Vampiros](https://open.spotify.com/track/5VB2MeRshgRRsW7S1KgF9I) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Sangre Cita](https://open.spotify.com/album/4E9LzQNoHtvUo6LpEsWjVN) | 4:25 |
 
-Snapshot ID: `MCxkOTI5OTRhMTcxOTI3YzM1ZGY2ZTUwM2U3MTNhMjkyMzQzNTFmNWU1`
+Snapshot ID: `MCxkMjI3ZjhkYTdlZGY3ZjU4NTM1OWZmNTNhMTEzZWU4MmI0OTU5ZTI5`

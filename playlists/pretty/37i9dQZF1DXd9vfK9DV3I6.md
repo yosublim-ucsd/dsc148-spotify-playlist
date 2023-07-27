@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,608 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,829 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Mosaic](https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Mosaic](https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE) | 3:16 |
 | 100 | [Mandala](https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi) | 3:57 |
 
-Snapshot ID: `MCxkNGNjYzU5YzllZjcxODhiOTBkZTk4ZmRjN2JmMzJiM2E1ZjNkMjIy`
+Snapshot ID: `MCw1MzQ4NTMxMmJmYjRkNTc0NTMxNDkzNTA0ZDJlMTRlMGI2NDA3YTBk`

@@ -172,10 +172,36 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 170000,
       "name": "A Crystal Night",
       "url": "https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c"
+    },
+    {
+      "album": {
+        "name": "A Crystal Night",
+        "url": "https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5"
+      },
+      "artists": [
+        {
+          "name": "Nobuki",
+          "url": "https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM"
+        },
+        {
+          "name": "Ido Kyo",
+          "url": "https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD"
+        },
+        {
+          "name": "Hiroto",
+          "url": "https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "A Crystal Night",
+      "url": "https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC"
     },
     {
       "album": {
@@ -6752,10 +6778,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 194999,
       "name": "Supremacy",
       "url": "https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw"
+    },
+    {
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze"
+      },
+      "artists": [
+        {
+          "name": "S.A.R.",
+          "url": "https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Supremacy",
+      "url": "https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of Brazilian House and Deep House\. Photo: SPECT3R
 
-65 songs - 4 hr 8 min
+66 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Spearwoman](https://open.spotify.com/track/2xK2J3vvigUdV92OVc3Atz) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Spearwoman](https://open.spotify.com/album/1YOFhohbSLmnUnSYfkYucb) | 4:15 | 2023-07-21 |  |
 | [Steven Hawking \- Luca Lush Remix](https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Steven Hawking \(Luca Lush Remix\)](https://open.spotify.com/album/18nohNOHWVWvsiUaFrTSGx) | 4:01 | 2023-07-21 |  |
 | [São Paulo](https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [São Paulo](https://open.spotify.com/album/2YwIr0IYdP5XpSG62W05gK) | 2:44 | 2023-07-21 |  |
-| [Take It Slow](https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [Take It Slow](https://open.spotify.com/album/2ZKbcXIhwxCnhT7hianBpf) | 2:45 | 2023-07-21 |  |
+| [Take It Slow](https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [Take It Slow](https://open.spotify.com/album/2ZKbcXIhwxCnhT7hianBpf) | 2:45 | 2023-07-21 | 2023-07-27 |
+| [Take It Slow](https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND) | [Prophecy](https://open.spotify.com/artist/20p5YCG101lJcLPtPnOqAH), [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [New Era, Vol\. 3](https://open.spotify.com/album/2ZC5O12mhaLFmg9x5u5jaQ) | 2:45 | 2023-07-21 |  |
 | [That Beat](https://open.spotify.com/track/09LtKPYSJWlyBO4ajbkAfb) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [Diogo da Silva](https://open.spotify.com/artist/2MGeOJOsHLvtXyiyK2vOUX) | [That Beat](https://open.spotify.com/album/0UOM3eiX3cdqMDDw34j2mi) | 3:01 | 2023-07-21 |  |
 | [The Best](https://open.spotify.com/track/1yNo5QZMvMVsdYjDoDzZZj) | [Dakar](https://open.spotify.com/artist/1AFLSmQHDeR1no58sHKLg9) | [The Best](https://open.spotify.com/album/4o5vNDJVEch9hDKNa6BmtY) | 3:37 | 2023-07-21 |  |
 | [The Invisibles](https://open.spotify.com/track/2SylThwYhtMPGr1OIFy976) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [The Invisibles](https://open.spotify.com/album/4Mo9Zpdxx3RRpDVOOlPXTe) | 8:30 | 2023-07-21 |  |

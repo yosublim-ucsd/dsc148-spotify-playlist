@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,168 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,263 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
 | 100 | [hablé con ella ayer](https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:44 |
 
-Snapshot ID: `MCxmMmNhYTgyMDRiODk3ZGRiMWY4YmRkODI2N2NiMTgyMDg0OWQ5MjNk`
+Snapshot ID: `MCw0ZTljODRkNDlkOTczYzExZGNjYTVhYjVhZDg3ZmZlZTIzYmVkNWZl`

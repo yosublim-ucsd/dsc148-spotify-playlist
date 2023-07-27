@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,779 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,857 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [The Middle](https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 2:36 |
 | 100 | [Du Hast \(8\-Bit Rammstien Emulation\)](https://open.spotify.com/track/0HCFSx4iOx7cJLScHlys9j) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [Rock & Metal Anthems](https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf) | 1:54 |
 
-Snapshot ID: `MCwyNGRjYTIwZDk1YTg1NjRjNzcwOWUzMzFiZjgzMTIwMzliMjEyYzg3`
+Snapshot ID: `MCw5ZTJjODRhMjIwNDJmMmM1ZGRjY2EyNTI1ZmNmZmE1ODNhYTBkZWQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,552 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,588 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 | 99 | [Chablis](https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Somethin' Jazzy](https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m) | 1:58 |
 | 100 | [Deus É Amor Pra Tudo Que É Fé](https://open.spotify.com/track/4u9aQn8xLCcLlbJsOAspoO) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 5:48 |
 
-Snapshot ID: `MCwzMjg3ZmIxNTIxZjZkN2UyNTJhM2JmOWQ4MTQxNmYxOWE1MTJiMTQ2`
+Snapshot ID: `MCw0OGEwOWM5NjZlNDZjMThiMzVlNzMyNTFlNjYwNjEwYjYxMWUxZTVm`

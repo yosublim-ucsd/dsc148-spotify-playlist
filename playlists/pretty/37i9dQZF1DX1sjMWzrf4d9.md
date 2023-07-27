@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 49 | [Rich Sex \(feat\. Lil Wayne\)](https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:12 |
 | 50 | [honda \(feat\. pa salieu\)](https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:21 |
 
-Snapshot ID: `MCw2ODk0M2ZkODgyNjM2NWRlMjQwZWNlMmJhNWYzNDk5NzcwYmRmODU1`
+Snapshot ID: `MCwxYjA1YjA3YWYzOWMzM2FmYjY4YzIyNWQ1ZGViNzMwMmRjODYzYTYz`

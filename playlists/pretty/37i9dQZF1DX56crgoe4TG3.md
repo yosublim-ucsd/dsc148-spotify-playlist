@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,369 likes - 132 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,401 likes - 132 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 34 | [The Devil Went Down to Utah](https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv) | [Pixie and The Partygrass Boys](https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [The Devil Went Down to Utah](https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw) | 4:53 |
 | 35 | [Suspicious Minds](https://open.spotify.com/track/0ks96Oeyp8o04EiFTVoVEU) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Suspicious Minds](https://open.spotify.com/album/55kX8kOCW1nE7Cs1ofkgNb) | 3:26 |
 | 36 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
-| 37 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 |
+| 37 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [The Sidekicks](https://open.spotify.com/artist/4ZJVFT8xiw3SgQ8dydvWey) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 |
 | 38 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 |
 | 39 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
 | 40 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 131 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 132 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 
-Snapshot ID: `MCxlZjljMGQ1YzRiYmY4NGI5NDAxYWQ0NWFhNTI3NThlNWQxN2ZjNGE0`
+Snapshot ID: `MCwxOTkxZjM1Njk1MDg5MjkwNmJhZDBmYmUyMDNmMmE3OTU3MTZkZWRi`

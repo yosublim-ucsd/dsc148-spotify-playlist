@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,038 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,086 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 64 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
 | 65 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 
-Snapshot ID: `MCw1ODE5OWZhZDgyNGFkNjY5NDJhYzY2MGNjYWY4OTNiOTMwNDU1Mzg3`
+Snapshot ID: `MCxlMTE0ODliODljMDEyYzYzMDI1ZjI4Zjg2YTczZDU2NmEwMDE5MzUz`

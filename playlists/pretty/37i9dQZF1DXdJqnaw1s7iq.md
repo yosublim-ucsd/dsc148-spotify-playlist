@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,909 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,059 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 99 | [Intro](https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Weval](https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci) | 2:20 |
 | 100 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |
 
-Snapshot ID: `MCxlNmIzYWYxZGZlMDUxNjliNGRjMjU2NWZiNGNiZjQ1MjFkZTY4MTU3`
+Snapshot ID: `MCwzZmMwZGRlNzA3NDVjMDk2NjE4MzkwNzgxMDU5M2ZmNGJjMjg3MWI1`

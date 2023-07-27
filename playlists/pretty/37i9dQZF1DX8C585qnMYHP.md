@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with JJUUJJUU on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,819 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,883 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Franklin, King of the Beers](https://open.spotify.com/track/73APPzBAJ1we3C7XZCMVvb) | [Austin Cash](https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i) | [Franklin, King of the Beers](https://open.spotify.com/album/4FLr6OVtfK1J455n7gSoN4) | 6:24 |
 | 100 | [Inverted](https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [fabric SELECTS II](https://open.spotify.com/album/3hX7qAayJqtgrkVf8Rz00I) | 4:30 |
 
-Snapshot ID: `MCw5NzQxYzg3OTA1ZmRhMTcxMWRjOGE0ZWE3NjU4ZjAwMDBiMmNiMjQy`
+Snapshot ID: `MCw5MzFkZTIyMGUxM2Q4OGJkYWU1YmEwZGM4ZjM0MmZlMzFjOGI2ZGUz`

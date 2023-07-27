@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,453 songs - 2 day 22 hr 3 min
+1,454 songs - 2 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,7 @@
 | [No Hope Generation](https://open.spotify.com/track/7H6iMweEZoMlpdNiuZf9Gi) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [No Hope Generation](https://open.spotify.com/album/3Qu99adbteKVC9spNdP29z) | 3:54 | 2020-10-13\* | 2020-11-03 |
 | [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 | 2023-01-20 | 2023-03-18 |
 | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/track/0SBnx2rzXbh1Gt2WmmMX0g) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/album/3U17Clob2dMUevoYU0t39b) | 3:22 | 2022-01-14 | 2022-03-01 |
-| [No Place Here \(feat\. annonXL\)](https://open.spotify.com/track/5gAPeHJRjeTirQxYQT2qeE) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [annonXL](https://open.spotify.com/artist/7G3FmxYGrHlmOMqoG2lHdA) | [Control Freak](https://open.spotify.com/album/1CdGXtmDl8sakZOlOOAwXl) | 1:56 | 2023-06-07 |  |
+| [No Place Here \(feat\. annonXL\)](https://open.spotify.com/track/5gAPeHJRjeTirQxYQT2qeE) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [annonXL](https://open.spotify.com/artist/7G3FmxYGrHlmOMqoG2lHdA) | [Control Freak](https://open.spotify.com/album/1CdGXtmDl8sakZOlOOAwXl) | 1:56 | 2023-06-07 | 2023-07-27 |
 | [No Promises](https://open.spotify.com/track/25yiZqFz2ox66A5C48MXO7) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [No Promises](https://open.spotify.com/album/1nm0wWBFGabBJvK9cRAlfj) | 2:29 | 2021-09-29 | 2021-10-12 |
 | [No Quiero Na'](https://open.spotify.com/track/6lKahGl8Y5KEoyvyTmWHvc) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [No Quiero Na'](https://open.spotify.com/album/25W10UbWA1ytpETSA4BlpE) | 2:25 | 2021-06-05 | 2021-06-19 |
 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 | 2021-03-06 | 2021-06-16 |
@@ -968,6 +968,7 @@
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-06 | 2021-10-13 |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2022-05-27 | 2022-07-19 |
 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 | 2022-10-25 | 2022-11-05 |
+| [plansfor2](https://open.spotify.com/track/5xYWO5bpqxOUZ7VMpSmy4W) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [plansfor2](https://open.spotify.com/album/5j1fwt4WbOoV8pVj0M7UZz) | 2:38 | 2023-07-26 |  |
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-13 | 2022-03-19 |
 | [plastic door//](https://open.spotify.com/track/0J6rNKi7ge3SMsuMuHfMw4) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [plastic door//](https://open.spotify.com/album/4FfoJ8P0LTi9w7gchTCimW) | 3:30 | 2020-10-13\* | 2020-11-03 |
 | [Play Ball](https://open.spotify.com/track/4AnzLupCec8JbTO8SoHGOQ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Play Ball](https://open.spotify.com/album/0Hxv0nRUqLTCZBKmFm9sqx) | 2:40 | 2021-03-26 | 2021-05-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Cantamores en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,161 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,213 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Donde Nadie](https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Donde Nadie](https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT) | 2:32 |
 | 75 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 |
 
-Snapshot ID: `MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm`
+Snapshot ID: `MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy`

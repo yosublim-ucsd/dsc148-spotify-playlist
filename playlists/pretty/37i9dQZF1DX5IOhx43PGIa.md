@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,217 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,241 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 150 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 |
 
-Snapshot ID: `MCw4ZmFkMzMyY2M0OWRhZDg3ZTRiMDNmM2U4NThmZTI4MTMyNzhmMTgw`
+Snapshot ID: `MCw0YjhkZTA1ZTcyMzg5Mzk5YjllMjk1Zjk0YTBlZjAxYWY4ZDFiNmI3`

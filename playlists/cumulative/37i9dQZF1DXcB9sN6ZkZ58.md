@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-133 songs - 4 hr 58 min
+135 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Lunch](https://open.spotify.com/track/2Y8khnYHrjO4RRXpIc87B5) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:20 | 2022-04-05 |  |
 | [Lunch](https://open.spotify.com/track/5PG7oWzJJzIN3pvSS5a23n) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Lunch](https://open.spotify.com/album/4rkPHA48e9sUAzCd5JddlH) | 1:20 | 2022-04-05 |  |
 | [Magic in the Kitchen](https://open.spotify.com/track/6v1RtJ5VS8ePyjhSVwOrSB) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie Dream Jobs](https://open.spotify.com/album/185HaDUdT8Sc5Z7lZzfjPR) | 2:44 | 2022-04-05 |  |
-| [Make Myself a Sandwich](https://open.spotify.com/track/0t9UE0H8cOcrGPaevrJVMu) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Make Myself a Sandwich](https://open.spotify.com/album/2wcUoqPjlN114GYgbsAyTS) | 1:30 | 2022-04-05 |  |
+| [Make Myself a Sandwich](https://open.spotify.com/track/0t9UE0H8cOcrGPaevrJVMu) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Make Myself a Sandwich](https://open.spotify.com/album/2wcUoqPjlN114GYgbsAyTS) | 1:30 | 2022-04-05 | 2023-07-27 |
+| [Make Myself a Sandwich](https://open.spotify.com/track/531PgCduOcdsUG50I1cnBw) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Something for Everyone](https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr) | 1:30 | 2022-04-05 |  |
 | [Masala](https://open.spotify.com/track/56FzilJIcpwZlq4cdk5D0C) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [Falu's Bazaar](https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o) | 2:32 | 2022-04-05 |  |
 | [Mosquito Burrito](https://open.spotify.com/track/7qGckqbTTpjwL1GKHkLvma) | [Roger Day](https://open.spotify.com/artist/3BlEAcxGIkLA1pDys9rrDG) | [Rock 'N' Roll Rodeo](https://open.spotify.com/album/5B39MS8rewRPrAflhHMV0Q) | 2:40 | 2022-04-05 |  |
 | [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 | 2022-04-05 |  |
@@ -100,7 +101,8 @@
 | [Pickles and Olives](https://open.spotify.com/track/0wnwuYYSJZeuwjwwfDlQX4) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:36 | 2022-04-05 | 2022-07-29 |
 | [Pickles and Olives](https://open.spotify.com/track/34l6oJ7decqSfWF1cXss9C) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:36 | 2022-04-05 |  |
 | [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 2:41 | 2022-04-05 | 2022-07-29 |
-| [Pineapple](https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:42 | 2022-04-05 |  |
+| [Pineapple](https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:42 | 2022-04-05 | 2023-07-27 |
+| [Pineapple](https://open.spotify.com/track/6uTZBOLjGcq1YfhrQqx9Uk) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \- It's Fleabite 5](https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT) | 2:42 | 2022-04-05 |  |
 | [Plain Plate Of Noodles](https://open.spotify.com/track/14PayGOujnGIj6g4oG7v5i) | [Orson Hong](https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/6voftk1KiRATintCChjvrW) | 2:49 | 2022-04-05 |  |
 | [Plain Plate Of Noodles](https://open.spotify.com/track/5Dylc4N929pK4WPgu0roRL) | [Orson Hong](https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/5as2GZU6iCKTHhMmVjqu4J) | 2:49 | 2022-04-05 | 2022-07-29 |
 | [Pots and Pans](https://open.spotify.com/track/5g5ehzNPVKsnboOu4DJwQ9) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [Falu's Bazaar](https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o) | 3:03 | 2022-04-05 |  |

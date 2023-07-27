@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 
 > A solid mix of favourites for any time, any place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,539 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,571 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 100 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 
-Snapshot ID: `MCxhMzIyN2QyZDAyYmYyYzZiYzIwZGZkOTQwMDY0Y2VmYTRhMTI0MjZj`
+Snapshot ID: `MCw4MmE4NGU2MjJkMDY5MmYyZGVkMzI1ZWYzY2VjZjM2ZTU1NmZiNDFj`

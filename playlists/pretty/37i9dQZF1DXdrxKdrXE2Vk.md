@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href="https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA">Pastor Steven Furtick</a> and <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,263 likes - 100 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,339 likes - 100 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [Victorious \(Live\)](https://open.spotify.com/track/2WevAGXIXkcu96nNoP7S5v) | [Metro Life Worship](https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK), [Mary Alessi](https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2), [Steph Alessi Muiña](https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd) | [Overcome \(Live\)](https://open.spotify.com/album/2OsBS9sG3MzMDpLj9n7m0j) | 4:07 |
 | 100 | [My Help \- Live](https://open.spotify.com/track/5V98PEmkQzEcigKBlamSGs) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [My Help \(Live\)](https://open.spotify.com/album/3z109kjHinxN81XWZKmV9Q) | 4:48 |
 
-Snapshot ID: `MCw5ZTYxN2ZkM2EwZWEwMmY1YmM1ZDI0ZWVjZTJlMDcxYTI1ZDQ5YzQ5`
+Snapshot ID: `MCw2MmMzOTcwMjZhYzdhMjI4OTY2NDFiZmE4ZjY3Yzk2ZTJlM2ZkMDMy`

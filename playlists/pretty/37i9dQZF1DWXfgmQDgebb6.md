@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Wedance\(위댄스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,670 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,667 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 50 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 
-Snapshot ID: `MCw1MTdiMDExYjk2MzY0YzlmZWViMTRhOGJiZjhjYTYyNDY2ZTE5NThl`
+Snapshot ID: `MCwzOWViYTY2YjE4Yjc3NGVjMTkyNjY5MWFjYWUxMmY5ZjExYjcwZjBj`

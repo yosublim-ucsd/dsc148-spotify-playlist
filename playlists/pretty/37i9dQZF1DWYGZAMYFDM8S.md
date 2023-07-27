@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,128 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,200 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
 | 125 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 
-Snapshot ID: `MCwwNGZkZThiZDJkMzk1NGE5ZTQzOWM3NjkwMGJlNGM1MjllZTg0OGUz`
+Snapshot ID: `MCw2MzgxYjc1MWYxMjQ5ZmVhMWI5YzJiMTA2M2ZlYmRiYjQ4ZDBkZWNm`

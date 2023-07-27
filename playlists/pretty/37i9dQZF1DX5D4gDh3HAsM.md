@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,874 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,853 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
 | 50 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
 
-Snapshot ID: `MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4`
+Snapshot ID: `MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Zayn
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,256 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,392 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 89 | [All That I Have](https://open.spotify.com/track/40ukFTH8s3ELTyGF25P1R7) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [All That I Have](https://open.spotify.com/album/5RxnteviK3YPjM7VFmkl51) | 2:48 |
 | 90 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
 | 91 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 |
-| 92 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 92 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 93 | [Wait for Me](https://open.spotify.com/track/2DWSEs2sT3jvlrZMUtHTUY) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Wait for Me](https://open.spotify.com/album/7LAkAB1VZOBGFBxY9knom4) | 2:46 |
 | 94 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 |
 | 95 | [My Darling](https://open.spotify.com/track/1CXmvVb4ksUFjOTHf13kZE) | [Becca Means](https://open.spotify.com/artist/0FaN4MDBVEPsd96Z7Tx6il) | [My Darling](https://open.spotify.com/album/7H32JaaOOh8at7JHAa3Zop) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [FEVER](https://open.spotify.com/track/0PmvAsXoTMs0ugnC7PGnSM) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [FEVER](https://open.spotify.com/album/0khtb7GHIZOHyNfZ4IcKpm) | 3:03 |
 | 100 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
 
-Snapshot ID: `MCw4NWZjNmViZWY5ZmE2MTFiOTEzMDc3NmJlOTYzOTVkYmIyZmJiNzhh`
+Snapshot ID: `MCxmOTllNmNkNjUxYmQ5NjZhMTFiYjczYmRkODRiYTgxYTU4MDcwODUz`

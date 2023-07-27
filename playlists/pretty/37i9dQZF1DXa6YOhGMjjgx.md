@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,961 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,011 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
 | 100 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
 
-Snapshot ID: `MCwyYjZjN2E5MWFhMjJhYzUyNjk5Nzk0NTJmNTIxMDcxYTMyODZkY2Ey`
+Snapshot ID: `MCwyODBmZWJmMTQ0YTAxMWIyMjUxMzQ3Zjg3OTIxM2E5YTk3NWQ0MGY5`

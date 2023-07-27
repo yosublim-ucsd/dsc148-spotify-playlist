@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,857 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,955 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [My Wave](https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [My Wave](https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD) | 3:09 |
 | 125 | [Board Meeting](https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:19 |
 
-Snapshot ID: `MCw4ZDcyZWQ4YTVjYmIzYjQ5MjlhMzE3N2VkM2VhMTUxN2ZhM2NmMDky`
+Snapshot ID: `MCxkOGFiNWE3ODg4MmMyYzJjMmM4ZDBhODUwY2NmZGRiODRjODM4MzBm`

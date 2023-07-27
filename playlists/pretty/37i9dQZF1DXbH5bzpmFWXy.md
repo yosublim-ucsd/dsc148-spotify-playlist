@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Ryan Castro, Peso Pluma & SOG en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,392 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,562 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Ghini](https://open.spotify.com/track/5340yu4c2Ic5XaaeZjrZ8Y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:36 |
 | 100 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 
-Snapshot ID: `MCwxNmQwODMwMGVjZGNiZWUzYmY0YTExMTM0Njk3ZjVmMzc5YzkzNmQy`
+Snapshot ID: `MCwzNWU2NjcxNjc3MTgwZGE1NWNiMjMyMjJkYmM5Y2NkMjAwOWQ4YmFk`

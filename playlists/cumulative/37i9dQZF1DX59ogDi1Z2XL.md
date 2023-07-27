@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Smiley
 
-1,064 songs - 2 day 1 hr 19 min
+1,065 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [ON MY LEVEL](https://open.spotify.com/track/44UhQ3CUjo6W2tRDv0slUZ) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [ON MY LEVEL](https://open.spotify.com/album/1f6EaNTKtT3S9xTqyl4wgm) | 3:22 | 2022-09-16 | 2022-11-19 |
 | [On My Own](https://open.spotify.com/track/1TuQmvQwfbKKYfDScnzXVz) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [On My Own](https://open.spotify.com/album/2QiG8ZQhSxGtJGAxbZwuDn) | 2:05 | 2022-08-12 | 2022-10-29 |
 | [On The Edge](https://open.spotify.com/track/3DfTYnXEX4oBLLpMdjvtfZ) | [TwoTiime](https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p) | [On The Edge](https://open.spotify.com/album/2HMfwBfCULAAQUbciskIAM) | 1:56 | 2022-04-29 | 2022-07-09 |
+| [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-26 |  |
 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 | 2022-10-07 | 2023-02-18 |
 | [One Life](https://open.spotify.com/track/2mFo1Fmzi1Az7iUXf6sRB5) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [One Life](https://open.spotify.com/album/6IencO4xqD8jNuJBtvXk0D) | 3:22 | 2023-06-16 |  |
 | [One More Thing](https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [Hustle Sold Separately](https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM) | 2:48 | 2022-01-28 | 2022-03-26 |
@@ -1027,7 +1028,7 @@
 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 | 2023-03-31 | 2023-07-15 |
 | [Who Can I Trust?](https://open.spotify.com/track/1rWaFV930saHw7WuHdlnDy) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Who Can I Trust?](https://open.spotify.com/album/4W5eTH8GJMMGmMLOsDuoVU) | 2:52 | 2022-10-07 | 2022-10-29 |
 | [Who Gon Supply](https://open.spotify.com/track/0NdFUPUHFAkpQSdNobrJg1) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [Who Gon Supply](https://open.spotify.com/album/7gMS9wroXaC0FpLkro4ZvW) | 2:03 | 2023-01-06 | 2023-02-04 |
-| [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 |  |
+| [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 | 2023-07-27 |
 | [Who Up](https://open.spotify.com/track/7bUm4lRQnRGO68yVU5g196) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Anxiety & Circumstance](https://open.spotify.com/album/2NmSUKeU6FyhdvaljcXEqp) | 2:43 | 2022-09-02 | 2022-11-26 |
 | [Who!? What!?](https://open.spotify.com/track/1YTzKEfWyUaptahtWr7jmQ) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Who!? What!?](https://open.spotify.com/album/7mdrOcnyTtp8jr1DL6U4ja) | 2:46 | 2022-09-30 | 2023-01-21 |
 | [Who's He?](https://open.spotify.com/track/6RK9Yg3bR22OcAmtHopzru) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Who's He?](https://open.spotify.com/album/6L1ihmIsVR5Bfp2WC55Bbg) | 1:54 | 2023-06-02 | 2023-07-15 |

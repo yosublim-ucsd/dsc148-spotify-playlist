@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,101 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,117 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 |
 | 100 | [Ni Una Más](https://open.spotify.com/track/6QtSVQOhHMa2Wr52jW9Apf) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/65B09C2uR02PtVEO8oL8aQ) | 4:41 |
 
-Snapshot ID: `MCwyZjQ3NTU0Njg2YzMyYTNmMTIzNWQ5NTBiYjZjZjQ5YzIyZmEwZDU2`
+Snapshot ID: `MCw0NmIwOGY4ZTFkZjc4NzkxMWYwMGNlMTM0YjM1ZWRlZTY5YWRiOGFk`

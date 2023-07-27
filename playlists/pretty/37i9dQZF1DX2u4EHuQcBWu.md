@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,799 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,860 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 100 | [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 |
 
-Snapshot ID: `MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw`
+Snapshot ID: `MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi`

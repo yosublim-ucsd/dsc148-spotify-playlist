@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,261,815 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262,557 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [Blow](https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow](https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr) | 2:44 |
 | 150 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 
-Snapshot ID: `MCw5MDFlYmQyNmYxZDY2MmVjY2Q3ZjM5ZjIwOGM4NmVhYjhiYjk3NDc5`
+Snapshot ID: `MCxhODIzOGFmMWU1OGEzYjI3NmQyNWZjM2EyYmJmN2NlN2M0MjMzODg5`

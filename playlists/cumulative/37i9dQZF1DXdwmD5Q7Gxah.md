@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. Lil Yachty's psych album >
 
-2,309 songs - 5 day 4 hr 10 min
+2,310 songs - 5 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Charm You](https://open.spotify.com/track/3CTsquv3UBK677BkVnIEkk) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 2:41 | 2023-01-27 | 2023-02-18 |
 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 | 2023-06-23 |  |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/1XzP1wolujnXlgoB2Lbwy7) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Chateau \(Feel Alright\)](https://open.spotify.com/album/0KcGPqyQgkOVdczWnwJYUn) | 4:32 | 2019-08-16 | 2020-01-28 |
+| [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-07-26 |  |
 | [Checkmate](https://open.spotify.com/track/4GjWnMNMN2EO76juYs9iWK) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Checkmate](https://open.spotify.com/album/1whYW4OYxETBT5IWzLzdq6) | 2:28 | 2019-07-30\* | 2019-08-08 |
 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 | 2020-04-23 | 2021-01-12 |
 | [Cheesy Love Song](https://open.spotify.com/track/7lXLdEdTCnPlAcOgarth3R) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Cheesy Love Song](https://open.spotify.com/album/41M629cVuPlnu8dHqTs0iY) | 5:37 | 2020-01-24 | 2020-04-09 |
@@ -954,7 +955,7 @@
 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 | 2020-01-10 | 2020-05-29 |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2021-11-13 |
 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 | 2023-03-06 | 2023-05-06 |
-| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-08 |  |
+| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-08 | 2023-07-27 |
 | [How Are You Feeling?](https://open.spotify.com/track/4J3iVfVZXoop7UrhyhTN85) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 2:04 | 2021-12-03 | 2022-01-08 |
 | [How Does It Feel](https://open.spotify.com/track/7F2aEO8pNlweq3JWJyeyig) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [How Does It Feel](https://open.spotify.com/album/3Gcf5R2r95JU5ZLc369Dgs) | 3:12 | 2020-01-31 | 2020-05-14 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-12-01 | 2022-02-12 |

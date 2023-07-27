@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,822 likes - 108 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,823 likes - 108 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 19 | [Händer upp](https://open.spotify.com/track/5Fa5STrMzA3uY1EahSfUFK) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Händer upp](https://open.spotify.com/album/4PxqmQ9SIQQSTsYmZKnspo) | 3:42 |
 | 20 | [In My Zone](https://open.spotify.com/track/2qbIOwDRoPbuvahK6Fcghj) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [In My Zone](https://open.spotify.com/album/1PBx6uXL22msGAgcTckra6) | 2:41 |
 | 21 | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn) | 2:45 |
-| 22 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 22 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 23 | [AURAN](https://open.spotify.com/track/11Fze9zwzqVywYNJcuyZ3f) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [AURAN](https://open.spotify.com/album/0GkZESv7LpYO5FUBhk598W) | 2:18 |
 | 24 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 |
 | 25 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Du är så \(Yeah Yeah, Wow Wow\)](https://open.spotify.com/track/5r06qiAZOmiFKgnOdmLhlw) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Du är så \(Yeah Yeah, Wow Wow\)](https://open.spotify.com/album/1V5HnuTNGrTBplDFxaGAhK) | 2:48 |
 | 108 | [3:ans spårvagn genom ljuva livet \- Kolingsborg, Stockholm 14 september 1983](https://open.spotify.com/track/1yrvXyNCrT6ZiYXppY0nbT) | [Eldkvarn](https://open.spotify.com/artist/6TLywjDgcz3M1rTrX7ht5k) | [Tillbaks i stan](https://open.spotify.com/album/6JzJCS6lZt6Nso4zj0RYD7) | 3:33 |
 
-Snapshot ID: `MCw0ZmYxMzM1ZDgwYzc5NmM0OTY1NTgxNmM4MjQ1OTY5NzFmNzM4NzNm`
+Snapshot ID: `MCxlNDc2MWJhYjQzNjI1MTJkZjkwYzlhMTFkYjNlMzNjMDljZGJiYThj`

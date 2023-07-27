@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,524 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,539 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 100 | [I’ll Still Have Me \- Aquilo Remix](https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I’ll Still Have Me \(Aquilo Remix\)](https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr) | 4:04 |
 
-Snapshot ID: `MCw4MWEzNDAwMDE1YmJmN2U0NDcyNmMzMWJiNmJiZjcxMTBiMTZkOWY2`
+Snapshot ID: `MCw2MTYyM2FkZjY0NmRjMmUyNGYxNWQ2ZmMyNGUzM2RlNDk0MzkwYjMw`

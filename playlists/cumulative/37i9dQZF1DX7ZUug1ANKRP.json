@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 138888,
       "name": "Drink And Shout",
       "url": "https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa"
@@ -4427,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137595,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+    },
+    {
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 193235,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
@@ -5204,6 +5222,36 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "album": {
+        "name": "Monsoon (feat. Tokio Hotel)",
+        "url": "https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163598,
+      "name": "Monsoon (feat. Tokio Hotel)",
+      "url": "https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF"
     },
     {
       "album": {
@@ -6937,6 +6985,36 @@
     },
     {
       "album": {
+        "name": "She Knows (with Akon)",
+        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "She Knows - with Akon",
+      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
       },
@@ -6952,6 +7030,32 @@
       "duration_ms": 181283,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
+    },
+    {
+      "album": {
+        "name": "Sleepless (feat. GoldFord)",
+        "url": "https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "Sleepless (feat. GoldFord)",
+      "url": "https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC"
     },
     {
       "album": {
@@ -8840,7 +8944,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 140160,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7ar5VLrVTyXPmJpyfzzAa6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,150 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,165 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [Marcus Camby \(feat\. Jim Jones & Tommy Wright III\)](https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Tommy Wright III](https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 2:38 |
 | 49 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 |
 
-Snapshot ID: `MCwyOTZiOGZiY2ZlNTg1YzE3MjQ2NTcwNDliZGNhZTMzMTg5ZDc1M2M3`
+Snapshot ID: `MCw3M2FlM2UxM2EzMzllMmQxNTRlMzllMWYwNGNkYzEzN2RhYzJjYTgy`

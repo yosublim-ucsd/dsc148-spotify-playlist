@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: PRAISE
 
-105 songs - 6 hr 10 min
+106 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [BBB](https://open.spotify.com/track/6nmOIy04qnDqRFXePEjnPs) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [BBB](https://open.spotify.com/album/3Mkz92SxIR2f4ZsQMUVxcD) | 3:20 | 2023-07-20 |  |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2023-07-20 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-07-20 | 2023-07-26 |
-| [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 |  |
+| [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 | 2023-07-25 |  |
+| [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 | 2023-07-27 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-07-20 |  |
 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 | 2023-07-20 |  |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-07-20 |  |

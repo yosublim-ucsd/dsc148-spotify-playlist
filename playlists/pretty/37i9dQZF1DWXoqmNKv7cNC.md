@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. Co\-curada por Samantha Barrón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,961 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,974 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 20 | [Amores de droga](https://open.spotify.com/track/33jkxCQQNrwQrXuHhVdhjh) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:07 |
 | 21 | [Ojos](https://open.spotify.com/track/4Cq8W29DqBn2SENxs0KH2M) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Ojos](https://open.spotify.com/album/54IEroVfHJ6ahZVlWJnQD9) | 2:26 |
 | 22 | [DOS BEBÉS](https://open.spotify.com/track/2bfG5FdzG4waWFkGSDUKZq) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DOS BEBÉS](https://open.spotify.com/album/2X8keVgYI75OVUuREgT8He) | 2:44 |
-| 23 | [Disco Hadas](https://open.spotify.com/track/3k535qr8YnvxStuuHGb9CX) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/55BBK1R42EIwRKI97HIEdY) | 2:58 |
+| 23 | [Disco Hadas](https://open.spotify.com/track/6CgPa2pjPnG6tKSprkPOhJ) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/5FjbAicZSNPQJDSAqtimy8) | 2:58 |
 | 24 | [Ya No \(Duele\)](https://open.spotify.com/track/3IcUKbYaBTWYkhgvm43yF7) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Ya No \(Duele\)](https://open.spotify.com/album/6Gije3xETgfAqPLueH2mEk) | 2:58 |
 | 25 | [Día / Noche](https://open.spotify.com/track/52lKE6U9PlKZEXIlC35ggI) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Día / Noche](https://open.spotify.com/album/7tjTyqdcbekIgCJRojLyvi) | 4:29 |
 | 26 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
 | 50 | [Miamorcito Loco](https://open.spotify.com/track/1EeeyoniBTASbZr6tyZAKv) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 2:43 |
 
-Snapshot ID: `MCxkOTIzNjE3ZjRhMGVmZTdjZTM2MzYyMTkwMDgxZDMwNGJjMTUxMDQy`
+Snapshot ID: `MCxlN2M5MzFhNWYzMzMxYjk2OWVjMWM5YzExNWUzNDZiYzBkMjc0NzU3`

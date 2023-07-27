@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,977 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,984 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Separate Ways \(Worlds Apart\) \- Stripped Down](https://open.spotify.com/track/7vIucU2XRSATEeXjjzzToQ) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[Stripped Down\]](https://open.spotify.com/album/0M2Um59muj9gb80oRlTyDX) | 4:22 |
 | 100 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 |
 
-Snapshot ID: `MCxiNTRkMzBkNWJhZWUxNDg0MzYyZmIxYmJjODZmZGVmMDc2MTY3OWY3`
+Snapshot ID: `MCw5ZTEyZjlhMjBkOWE1ZGQ5NDkxMDI1OGI0NjI0MDdlNGQwZWQ1MGZk`

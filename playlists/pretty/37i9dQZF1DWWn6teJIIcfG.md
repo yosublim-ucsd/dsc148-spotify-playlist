@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,239 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,336 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Le Rossignol\-en\-Amour: 14ème ordre, 3ème livre](https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Iddo Bar\-Shaï](https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW) | [Couperin: Les Ombres Errantes](https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB) | 2:36 |
 | 60 | [Sarabande et rigaudon, Op\. 93: Sarabande](https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Jun Markl](https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd) | [Saint\-Saëns: Symphonic Poems](https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD) | 6:16 |
 
-Snapshot ID: `MCw0ZWFlNGM1MzU5ZTZlNmMyNTdmM2ZkNzRkMDFlNDgwMzNlNTM3MjIz`
+Snapshot ID: `MCwxM2FkM2MyNmIzZjA1MDlkNGVmOWQwZGYyYmJkOGQ2YWFmYmNiYWQ4`

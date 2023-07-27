@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 100100,
+  "num_followers": 100228,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDAyZjUxNTg5OTQ5YjM5OTljNTBlOGFhMDI0YjYwYWFiODA0MmQ2",
+  "snapshot_id": "MCwzNTZkMzllYWFjZmQxZjg2ZThiMmFjNTY3NDMxNDJlZGZjYTlkODNj",
   "tracks": [
     {
       "added_at": "2023-07-21 15:21:27",
@@ -75,6 +75,30 @@
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
       "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"
+    },
+    {
+      "added_at": "2023-07-26 10:33:40",
+      "album": {
+        "name": "Prem Kumar",
+        "url": "https://open.spotify.com/album/4l0keSHITPujswycxN5uYu"
+      },
+      "artists": [
+        {
+          "name": "S. Anant Srikar",
+          "url": "https://open.spotify.com/artist/5KbUgwaQNMhwUJpk5FBttL"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sundari",
+      "url": "https://open.spotify.com/track/33Zy0FUe3RqtX2FiOTwNi8"
     },
     {
       "added_at": "2023-07-03 06:36:52",
@@ -211,30 +235,6 @@
       "duration_ms": 177130,
       "name": "Lalana (From \"LGM (Telugu)\")",
       "url": "https://open.spotify.com/track/5nClSarCW9enQgWpeblJfU"
-    },
-    {
-      "added_at": "2023-07-14 06:02:32",
-      "album": {
-        "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
-        "url": "https://open.spotify.com/album/0VmrK1eNQwO7hHzyZL6wWy"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Menon",
-          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
-        },
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        },
-        {
-          "name": "Nikesh Kumar Dasagrandhi",
-          "url": "https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd"
-        }
-      ],
-      "duration_ms": 257075,
-      "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
-      "url": "https://open.spotify.com/track/3K0XeAkD6chdjEJ51Ap83x"
     },
     {
       "added_at": "2023-05-09 06:55:53",

@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 302866,
       "name": "Cinta Sejati",
       "url": "https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois"
@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Haunting",
+        "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        },
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189158,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ"
+    },
+    {
+      "album": {
         "name": "Hilang Tanpa Bilang",
         "url": "https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6"
       },
@@ -572,7 +594,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 222000,
       "name": "Itu Aku",
       "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
@@ -1059,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Siang",
+        "url": "https://open.spotify.com/album/21OwNyGqAohFkhDe0K1RYY"
+      },
+      "artists": [
+        {
+          "name": "Jikustik",
+          "url": "https://open.spotify.com/artist/7CSVCLVcIfpaNCQh7BxqKN"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302666,
+      "name": "Puisi",
+      "url": "https://open.spotify.com/track/4XmNQ2LLbVq8MDn8MG8HUS"
+    },
+    {
+      "album": {
         "name": "Resah Jadi Luka",
         "url": "https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL"
       },
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
@@ -1414,7 +1454,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 249100,
       "name": "Tak Ingin Kau Terluka",
       "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"

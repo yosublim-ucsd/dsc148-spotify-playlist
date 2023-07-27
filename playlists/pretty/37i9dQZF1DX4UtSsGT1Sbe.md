@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,348,109 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,349,579 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 150 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 
-Snapshot ID: `MCxmYzYzNTk4OGE2ZjEzYTk3MzI5ODQ0YTY2Y2UyMWY5Y2U3ZDNkMmUw`
+Snapshot ID: `MCxmMWI1MjdhNzE4YjRjODA4YTAzNWFhNTlhMzNiMDlkNmI5NDlhYTZl`

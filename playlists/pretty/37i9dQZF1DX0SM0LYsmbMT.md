@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,158,381 likes - 300 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,158,675 likes - 300 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Unter Löwen und Banditen](https://open.spotify.com/track/75HUZv6xss2ADArgzuCsYL) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Unter Löwen und Banditen](https://open.spotify.com/album/4G68i2WgP4gFgWHxlkzUOb) | 2:08 |
 | 300 | [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 |
 
-Snapshot ID: `MCw2YTU3YWJmNjYwZWQ0ZTIzZmM5ZDdjNTRiNTQwZDNkYzQ4ZDY2OWYz`
+Snapshot ID: `MCw2M2NiYmM5MzY5ZWFmNWVlYmUyYjYxNTYwY2RiOTM3ZjRkNjVhMTcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Bishop Briggs
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,323 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,378 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 99 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 |
 | 100 | [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 |
 
-Snapshot ID: `MCxmYWNiYTBhYzBiNzFkZGEyM2EzZjQ1MjVmODMxODc5ZDRiNGZjN2M3`
+Snapshot ID: `MCwxNWU3ZjE3YTBlMGQ1NDYzOTIzZjVjOWUyMWI4YmY2MjYyNGRkYjQ0`

@@ -1,29 +1,13 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 442191,
+  "num_followers": 442868,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2U3NDI4YWNiY2VkNDc4MWI4Yjg3MTMzYTE1OGU0MTU1YzM1ZDBk",
+  "snapshot_id": "MCxkMTQ1YWM0Yzk5ODVhZGY1NjQ5ZmEzYjhjZGZlNTFmZDVmMGViOWQ3",
   "tracks": [
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
-    },
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
@@ -75,22 +59,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -107,18 +75,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 183440,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -139,18 +107,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Touching Yourself",
-      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -167,6 +135,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Howlin' At The New Moon (feat. Mayer Hawthorne)",
         "url": "https://open.spotify.com/album/6KaaEX144VYrAUJNU5RrtJ"
       },
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/6FXqJmgSKka0NRlrxfhSrv"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
+      "added_at": "2023-07-24 22:20:42",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-24 22:20:42",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -291,22 +275,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -319,6 +287,22 @@
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -373,22 +357,6 @@
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
-      "added_at": "2023-07-25 17:56:30",
-      "album": {
-        "name": "Slugs",
-        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Slugs",
-      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "Fuzzybrain",
@@ -403,6 +371,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2023-07-25 17:56:30",
+      "album": {
+        "name": "Slugs",
+        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Slugs",
+      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1327,22 +1311,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "blkswn",
         "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
       },
@@ -1371,6 +1339,22 @@
       "duration_ms": 158536,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1675,6 +1659,22 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/1hzh9Hz7urXIxfH0WztWI2"
     }
   ],
   "unique_name": "Summer Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Alfonsina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,077 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,080 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 |
 | 100 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 |
 
-Snapshot ID: `MCw3NTUyMGJmYzhlNzlhNTI0YmY3OGEwMWZhMzI1MDY2ZjM0NGI5ZTg2`
+Snapshot ID: `MCw3ODUwZDE3MjQ1MzczMjBlNmY0NTQ3MGM2NzYyYmVjZGFhOGQ5MjIy`

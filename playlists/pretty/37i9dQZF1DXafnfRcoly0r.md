@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 73 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147 likes - 73 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 14 | [Puppy Dog](https://open.spotify.com/track/5RJZ6fC62weu50vLNUv4KU) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Peggy's Pie Parlor](https://open.spotify.com/album/1e77tQJvtgPCVi7oLnTnCH) | 2:11 |
 | 15 | [We All Love Our Pets](https://open.spotify.com/track/3f1ezzBWeIAm9jrEDLuo7a) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:41 |
 | 16 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 |
-| 17 | [Chihuahua](https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:34 |
+| 17 | [Chihuahua](https://open.spotify.com/track/3pRN7RUvtcNGLxBUUq8zf3) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \- It's Fleabite 5](https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT) | 2:34 |
 | 18 | [Bad Kitty](https://open.spotify.com/track/1fp4rbxkUTDX9rOYFyXeuL) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 3:01 |
 | 19 | [My Dog Romeo](https://open.spotify.com/track/1YFiEGqSyori19beEHxAfZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 2:48 |
 | 20 | [Dog Song](https://open.spotify.com/track/2KfOb48mPByQ64NbHkvtNy) | [Hullabaloo](https://open.spotify.com/artist/4ruDLmgWVqEhEP8WWZyOXr) | [Best of Hullabaloo, Vol\. 2](https://open.spotify.com/album/6ApJasfGCF0wfY7Ka6fHnu) | 3:15 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 39 | [Puppy Love](https://open.spotify.com/track/6CVJOoUjm3TUQgGaymBpdZ) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Full of Beans](https://open.spotify.com/album/5MvRprUOnJKcgpoDMNdJHI) | 2:37 |
 | 40 | [Dogs Like These](https://open.spotify.com/track/44DW42gkSXW2i5CFzNz8oR) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 2:08 |
 | 41 | [Pets Are Family](https://open.spotify.com/track/6VV6fiZbb9YZZ2VEjGfzOn) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:31 |
-| 42 | [Goldfish Swimming](https://open.spotify.com/track/6MbEEcCYiDRr91SIxT9qKD) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song, Vol\. 4](https://open.spotify.com/album/3itJrAQRLknr4N50Prg6LM) | 2:04 |
+| 42 | [Goldfish Swimming](https://open.spotify.com/track/7o02v5TglBBQQ7Y5Aqobth) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song, Vol\. 4](https://open.spotify.com/album/1CQ7EhKypvStEcKx4zHGgQ) | 2:04 |
 | 43 | [Let's Get a Dog](https://open.spotify.com/track/2ZFpV9jF2rISyhuet57NDz) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Let's Get a Dog](https://open.spotify.com/album/0N6mgffw51aY5ObIlWCHWL) | 3:17 |
 | 44 | [Pets](https://open.spotify.com/track/2Expl4MKRoA1yWlMpDgV5t) | [The Oot n' oots](https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK) | [Ponderosa Bunchgrass and the Golden Rule](https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9) | 4:11 |
 | 45 | [Pet Song \(We Thank You\)](https://open.spotify.com/track/7918gb29EzxyKseLwDn3w2) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Just Say Hi!](https://open.spotify.com/album/0SfbATwRJDYuEnjSLqQU7f) | 4:09 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 59 | [Wet Dog](https://open.spotify.com/track/0vDoqo7zqfI89m99C6gsq1) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Silly Songs for Super Kids](https://open.spotify.com/album/1elwfdr5nw6npeI4IOEyxC) | 1:56 |
 | 60 | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/track/2xBwNMd66kDSptmoi6BhCz) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/album/2jyDSVGHnH3K1QYN5QXHxS) | 2:06 |
 | 61 | [My Puppy Dog](https://open.spotify.com/track/2udqWrTNGAxRlzgw6A8HK0) | [John Field](https://open.spotify.com/artist/5c5mns5KPNnQj1QBHJmQIw) | [Animal Songs and Sounds](https://open.spotify.com/album/1NsVmZhtWkUiOmcXxe02VI) | 2:18 |
-| 62 | [Rabbit Hop](https://open.spotify.com/track/4uuEQv29ndZgc8uVlqt864) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/2YP8tqXTba9GISBrPixjha) | 1:01 |
+| 62 | [Rabbit Hop](https://open.spotify.com/track/5iTb1LImL6ts8VMWVkfbol) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/7jrnOkygJj11ak2ui02RXe) | 1:01 |
 | 63 | [Louie the Dog](https://open.spotify.com/track/1VB0NAjXv24fVwyh4VxG9D) | [Nay Nay](https://open.spotify.com/artist/71a3J9zMxFclkoV020pkHT) | [Hey Hey, Let's Play](https://open.spotify.com/album/4pYtiJ2oO4Vf8QmlsqdYia) | 1:59 |
 | 64 | [I Love My Puppy](https://open.spotify.com/track/1tsw9GOI5VhnDDuf8SczUz) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [The Gummy Bear Show: Season One Soundtrack](https://open.spotify.com/album/6v3jdPQy3Xl7SZNVCcl00x) | 1:03 |
 | 65 | [Run Like The Kitty](https://open.spotify.com/track/0njL7tKenSQRxmBXdGouGs) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 0:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 72 | [10 Little Kittens](https://open.spotify.com/track/6cM8FRo0LMRpkvajjfFsIJ) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/1Fx7A6waMMc2svhctLeqCK) | 2:23 |
 | 73 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 |
 
-Snapshot ID: `MCxmZjEzYTg1ZjMxMDZhMWE1NzI3NDJkNDVkYWE1YTY0ZWFjMjhkNzlm`
+Snapshot ID: `MCw3YWQ3MjRlYjI4M2UxZWY2N2E5OTExNGY0ZWI2ZWE4YmNlOWYzZDBm`

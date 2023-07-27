@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: Zay Johnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,162 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,180 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
 | 100 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 |
 
-Snapshot ID: `MCxlYzQ4MzBiOWNkOTlkMmVkYzc4MTM4MGFiMWU4MzhhMzFmYWFmZWFm`
+Snapshot ID: `MCxlNzU1NzRjMWI2MjEzYjUyMTBkMjMwNWI0NWM3MjRhMDhhYWJlYWM3`

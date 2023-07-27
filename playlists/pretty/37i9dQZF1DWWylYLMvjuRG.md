@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,290 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,139 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 150 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
 
-Snapshot ID: `MCxhNTNlYWY0N2Y2YzE4Yzg2MTJmNDAzNzRlYjYyODY2YzE0NTM4ZjRi`
+Snapshot ID: `MCwyN2FlYTg0MjFkODRiODdlYWNkMTM1YzlhN2VkZjE0YzFlODVmZDdj`

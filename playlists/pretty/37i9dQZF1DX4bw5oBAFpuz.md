@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,706 likes - 238 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,724 likes - 238 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 237 | [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 |
 | 238 | [Lose Ourselves](https://open.spotify.com/track/1hQRJ2zAJ5q29jfi9eEeE4) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/7DRjeejtMRgpRLwGyZdC1y) | 2:50 |
 
-Snapshot ID: `MCw5YzUxY2FmNjAzZTdjY2U1YjU2ODFkZjk3MmNmN2MwNTliZWUxZWMz`
+Snapshot ID: `MCxkNDRlNzAxN2QxZDc2MjJmMDI2ZTFkM2I0YjA1ZTc0NjM4Njg0NWQ1`

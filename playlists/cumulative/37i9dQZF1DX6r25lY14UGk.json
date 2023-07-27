@@ -328,6 +328,24 @@
     {
       "album": {
         "name": "Songs from Moe & Friends",
+        "url": "https://open.spotify.com/album/1hIpNLkTHI7GCux3aFILlo"
+      },
+      "artists": [
+        {
+          "name": "Moe & Friends",
+          "url": "https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121400,
+      "name": "Cool to be Kind",
+      "url": "https://open.spotify.com/track/6kRgdvCQsERuUwDI4CA0gZ"
+    },
+    {
+      "album": {
+        "name": "Songs from Moe & Friends",
         "url": "https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R"
       },
       "artists": [
@@ -338,7 +356,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 121400,
       "name": "Cool to be Kind",
       "url": "https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN"

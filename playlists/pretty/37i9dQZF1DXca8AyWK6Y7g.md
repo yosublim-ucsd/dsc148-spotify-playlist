@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,480,623 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,099 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 |
 | 150 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 
-Snapshot ID: `MCwyYmQ5ODQwYTM4MzE3MGFkZTU3OTkxYWNmMTY2ZTcxY2Y3NmViZjNi`
+Snapshot ID: `MCxlZTRhYzI4NDFlYTlhNWQ2MGI2NmEzM2RjMGFkNDIzNTk3YmFiZGVk`

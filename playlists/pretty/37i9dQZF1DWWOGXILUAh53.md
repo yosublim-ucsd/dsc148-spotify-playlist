@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,916 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,982 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 2 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
 | 3 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
 | 4 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 |
-| 5 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
+| 5 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 6 | [Anything 4 U](https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Anything 4 U](https://open.spotify.com/album/7gjErqquS2uyJy0rGbYcOC) | 3:08 |
 | 7 | [The Magic Key](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The Magic Key](https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY) | 2:51 |
 | 8 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 68 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 |
 | 69 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 
-Snapshot ID: `MCxiMDE3NTJhMDliOThiZTlkNWU2ZWNmMTc5YzQwMjdhN2VjZWY0OTBm`
+Snapshot ID: `MCxhMmM4NTY3ZTAxNjZiNTUwZDJiN2VkYjhlNzhhNTUzYzc4YzAxMTYx`

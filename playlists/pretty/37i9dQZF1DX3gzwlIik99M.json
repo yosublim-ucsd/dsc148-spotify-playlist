@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212475,
+  "num_followers": 212480,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI1NzEzODdiOTZkNjk3MmRjNmRiMGRmMTBlNWRkYTNkNDViZjMz",
+  "snapshot_id": "MCw1Y2VmMDRhODVlNWM2NzRlOTZiMDIzMzFlOGFkY2FiM2Y1MDk2MjNh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Kollong",
+        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "duration_ms": 237062,
+      "name": "Mawiza \u00d1i Piwke",
+      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "No Money No Fiesta",
         "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "No Anesthesia",
-        "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
-      },
-      "artists": [
-        {
-          "name": "Witchtrap",
-          "url": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Heavy Drinker",
-      "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
     }
   ],
   "unique_name": "Metal del Nuestro",

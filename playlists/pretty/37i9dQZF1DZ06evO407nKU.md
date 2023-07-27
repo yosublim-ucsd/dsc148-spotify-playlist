@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,776 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,798 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 6 | [Mujer Hermosa](https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:42 |
 | 7 | [Tu Forma De Ser](https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 3:03 |
 | 8 | [Como Cielo Sin Estrellas](https://open.spotify.com/track/6qRlxvzAvYJ4zJdkfyGkcS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:31 |
-| 9 | [Daria Todo Por Ti](https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:04 |
-| 10 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 |
+| 9 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 |
+| 10 | [Daria Todo Por Ti](https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:04 |
 | 11 | [La Llamada \- En Vivo](https://open.spotify.com/track/04nZUWy7gHtVCvNS3wxXnZ) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [YakiFest, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z) | 4:40 |
 | 12 | [Medias Negras](https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Medias Negras](https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d) | 3:07 |
 | 13 | [Tres Botes](https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:37 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 44 | [Me Hubieras Cobrado](https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Hubieras Cobrado](https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW) | 4:16 |
 | 45 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
 | 46 | [Mundo De Amor \(En Vivo\)](https://open.spotify.com/track/6RwMdLaMNnY0q3D6YbvLOK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mundo De Amor \(En Vivo\)](https://open.spotify.com/album/1fSwfzY2vnT784StdTTtaO) | 3:16 |
-| 47 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 |
-| 48 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 |
+| 47 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 |
+| 48 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 |
 | 49 | [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 |
 | 50 | [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBmNGE2MzlmOGFkZjAwODhiMTQyZGUzODczODFhM2Y5MQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDAzOWYxOWRiYmQyZjFhYTJjOGNmMTI1Y2MyNWU3ZDc0Mw==`

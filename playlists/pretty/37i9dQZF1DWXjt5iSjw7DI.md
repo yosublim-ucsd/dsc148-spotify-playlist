@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,590 likes - 150 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,633 likes - 150 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Workin' Man Blues \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 2:35 |
 | 150 | [You Ain't Woman Enough](https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Queens Of Country Music Volume 1](https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg) | 2:12 |
 
-Snapshot ID: `MCw2ZDBjMGZmOTQ0Y2NjMmMwMWZiZDc3NGY2YmE3MTdlNjgzOGU1Zjcy`
+Snapshot ID: `MCxkYTk1ZWI2YTRjZDlhMTNiZGYxNDE3ZmU1OGZlZTM0NWM3MmY2Yzlh`

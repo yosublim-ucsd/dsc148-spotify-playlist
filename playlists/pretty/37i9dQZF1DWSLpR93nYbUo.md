@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Santti
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,138 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,161 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 68 | [Calling \(Tim van Werd Remix\)](https://open.spotify.com/track/53ZRuhUxCd5c7UPeG0bfoO) | [Audax](https://open.spotify.com/artist/1rO63jwF9XN02UDK5hvdIL), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Calling \(Tim van Werd Remix\)](https://open.spotify.com/album/0MxJR9yLoOTN0nTwWVYOAw) | 4:00 |
 | 69 | [Please Don't Cry](https://open.spotify.com/track/6QILtoOyoqxfqWqLzoJvBK) | [Archelli Findz](https://open.spotify.com/artist/6eawBW6CjPiWzIFkPj3MFW) | [Please Don't Cry](https://open.spotify.com/album/3FHcG6Z6U3cU9yE0v1Af10) | 2:34 |
 
-Snapshot ID: `MCw4OGZmMTQ5NDdkN2UzMTIxZWRiZmQzNzVmMGVlM2ZiMDBjOGYxZGZi`
+Snapshot ID: `MCw5ZmVmZWI4Mzc3MDA2ZjM0MjIyMTlhNTcwZTQ3OGFlNTZhNzk2M2M4`

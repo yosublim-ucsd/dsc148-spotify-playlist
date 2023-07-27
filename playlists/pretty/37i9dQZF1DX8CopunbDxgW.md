@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: ODESZA & Yellow House
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,239 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,414 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 |
 | 100 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
 
-Snapshot ID: `MCxjNmRlMTBkZTdhZmE5ZGRmNWI1N2I0YWY2YmQ2NTkyMDBjZTZjNTVi`
+Snapshot ID: `MCxhZjVmNDE4MWFkNDc0MWZhYTY1ZmIyM2FmYjJiMjkyZGZkNGFiNmU4`

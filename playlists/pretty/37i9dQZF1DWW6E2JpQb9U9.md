@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,462 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,478 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Sacrificio y Rock and Roll](https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:31 |
 | 100 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 |
 
-Snapshot ID: `MCxmYzZmMTc5YjU0MzcyNmRkN2EwMzlhN2VjMjVjNTBiOTk2YzZlM2Jm`
+Snapshot ID: `MCw2NDRjMzRlMGViMmRmMjQ4Yjk5ZGFlOTliNDNkYTdmMGVhZTNkYTQy`

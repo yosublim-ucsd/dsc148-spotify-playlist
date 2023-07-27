@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,815 likes - 150 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,203 likes - 150 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
 | 150 | [Reward](https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm) | [The Teardrop Explodes](https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M) | [Kilimanjaro](https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5) | 2:42 |
 
-Snapshot ID: `MCw1MzY4OTA2NTcxMTM3MTUxNGI5YzE5ODA1NWZiYWQxZTEyNjJjMzg3`
+Snapshot ID: `MCxmMTczOTI0YjQ3ZjE1ZDVhMmM0M2ZiNTNhZjQxMGE1MGE4NDc4MmEx`

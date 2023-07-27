@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Fujii Kaze \(藤井 風\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,724 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,358 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 |
 | 75 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 
-Snapshot ID: `MCwyN2FiNzhmMjExZTdkZWYwZjMzMjc1NWI4YjYwYjQ3NzI1ZWI5NjI0`
+Snapshot ID: `MCw2NmFhZThiZWNkZDMxM2Q5M2MzYjc4YzdiZTNkZDkyMWUxMDgzMTgw`

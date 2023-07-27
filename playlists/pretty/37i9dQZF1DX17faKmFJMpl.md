@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,612 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,611 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [아에이오우 어 ?! Pt.2](https://open.spotify.com/track/0Xp0DHasuTlxYUntHoJJ2r) | [Soul Company](https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ) | [The Best](https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa) | 4:38 |
 | 100 | [B.L.K\. \(feat\. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco\) \[Bonus Track\]](https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x), [Wutan](https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn), [Carry Diamond](https://open.spotify.com/artist/668WLxdywDsMAFUBhA1qNU), [Aggy](https://open.spotify.com/artist/5hbb9WTByfALU419TtemEE), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [Rocky L](https://open.spotify.com/artist/2PfohzKLBaecNEJfvSCPA6), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:57 |
 
-Snapshot ID: `MCwxMzU1YWE1YzFkNmZkYmIyOWE3OTQ3MTQwNDRiMTNhN2NhNDg0NTFl`
+Snapshot ID: `MCw5YjAzNDg0YWU2ZDQzNzFmYTljMWZmODViMGI0ODZmMDZmNzM0OWU5`

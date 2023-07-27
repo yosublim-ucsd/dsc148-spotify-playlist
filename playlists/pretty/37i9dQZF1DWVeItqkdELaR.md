@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,959 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,284 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 | 100 | [Agarra Em Mim](https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7), [Pedro Mafama](https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk) | [Agarra Em Mim](https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ) | 3:27 |
 
-Snapshot ID: `MCwxNDU1ZTBiYTM2NDkyM2E2ZDc3OTZjY2EzN2Q2ZmQzYWNjN2FkMThl`
+Snapshot ID: `MCw1ZGNmZTZlOWFmNTcyMTkxYmEyODRjN2Q0Yzk2N2QyMGMzNGY5ZjM2`

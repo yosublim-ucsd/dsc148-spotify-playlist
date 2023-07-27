@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,160 songs - 2 day 5 hr 40 min
+1,161 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,8 @@
 | [Possessed](https://open.spotify.com/track/6kF37GVL1qGdDGL3vf6OPT) | [Iamdjrd](https://open.spotify.com/artist/556MNV55Gu0KkEiDbZ2mwc), [Larynx](https://open.spotify.com/artist/63OfL4OpyfSCeG3yzetxlL) | [Possessed](https://open.spotify.com/album/6pAGuo32V7EPwm2vnHRJfi) | 2:41 | 2021-04-13 | 2021-04-16 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-03 |
 | [psiblades](https://open.spotify.com/track/3auzaPW4fXa8oI4KbTalAU) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [babyswishh1](https://open.spotify.com/artist/7tKvlpqru29X8gAwQ4aP0F) | [psiblades](https://open.spotify.com/album/2NUSLnsIWcBYyDy7POwCYR) | 2:11 | 2021-11-02 | 2022-05-17 |
-| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 | 2023-03-29 |  |
+| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 | 2023-03-29 | 2023-07-27 |
+| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 | 2023-07-26 |  |
 | [PUFF \(feat\. MAYOT\)](https://open.spotify.com/track/56oCqAlqxfRNMBDDtq395J) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:06 | 2021-07-18 | 2021-10-22 |
 | [PULL UP](https://open.spotify.com/track/4Ft9USn7HYIEpBXi7tSUIA) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:12 | 2021-05-30 | 2021-06-13 |
 | [PUSSY BOY](https://open.spotify.com/track/2CyGcy1HPxcFfmeUxKnAoe) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:14 | 2021-07-18 | 2021-09-12 |
@@ -865,7 +866,7 @@
 | [МАЛИНОВАЯ ЛАДА](https://open.spotify.com/track/77B4S4jkrAkL3Ng5hEHoUU) | [GAYAZOV$ BROTHER$](https://open.spotify.com/artist/0xTdDjeCoM89b7n9fLcZvR) | [МАЛИНОВАЯ ЛАДА](https://open.spotify.com/album/6U8jV8xU3eysZU4EJO7gkI) | 3:33 | 2022-01-19 | 2022-04-05 |
 | [Мальчик на девятке](https://open.spotify.com/track/1tzTlRMcw9xDqrNRzj3H2g) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [ПРОПАГАНДА](https://open.spotify.com/album/5sdvzhYvXZFTyCG6TaRljJ) | 3:35 | 2021-04-21 | 2021-09-22 |
 | [МАНИЯ](https://open.spotify.com/track/3Eb1hUNG5e1gF7OkftH9Hg) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:00 | 2021-05-30 | 2021-06-06 |
-| [Маніфест](https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW) | [Маніфест](https://open.spotify.com/album/735VsIME5VK3hrbDLkUUFz) | 2:00 | 2023-01-18 | 2023-07-25 |
+| [Маніфест](https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW) | [Маніфест](https://open.spotify.com/album/735VsIME5VK3hrbDLkUUFz) | 2:00 | 2023-01-18 |  |
 | [Матильда](https://open.spotify.com/track/48DqTa5F3e21LdVhTlNL8Q) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Матильда](https://open.spotify.com/album/6qNMXsKNHHNnrCbuKcLxsS) | 1:31 | 2021-12-12 | 2021-12-19 |
 | [маша](https://open.spotify.com/track/64epifHS5CvRUVgKEDbRJm) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [маша](https://open.spotify.com/album/0wcEoN1N8t2IpmeFIRa3Fy) | 1:55 | 2023-01-03 | 2023-01-18 |
 | [Маяк](https://open.spotify.com/track/73yFhVfJGEuFbLcJlXvysO) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Маяк](https://open.spotify.com/album/6PSB8QBCTsz961PJ0KMLoq) | 3:26 | 2023-05-13 | 2023-06-03 |
@@ -1156,7 +1157,7 @@
 | [Я НЕ ЗНАЮ](https://open.spotify.com/track/76uQsHqCk7tPQPlxdhYpyL) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Я НЕ ЗНАЮ](https://open.spotify.com/album/33ckKhbxSr5Y5teCgjZUh7) | 2:44 | 2021-09-19 | 2021-10-06 |
 | [Я пиздатый](https://open.spotify.com/track/1MiUVjoHt4jiskDrt2ZHrq) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Я пиздатый](https://open.spotify.com/album/36s0UearNIp4CfSPDj7y6C) | 2:28 | 2021-09-25 | 2022-03-10 |
 | [я понял \- skit](https://open.spotify.com/track/46T22qAGkE8pDG8KBHsr29) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 1:20 | 2022-10-22 | 2022-10-24 |
-| [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2023-02-06 |  |
+| [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2023-02-06 | 2023-07-27 |
 | [Я уёбываю в джаз](https://open.spotify.com/track/3VeWIV9WTXUl8PcOusFjYv) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/00lCeyD5dYeohpChwbpueT) | 2:24 | 2022-01-05 | 2022-01-07 |
 | [Я хочу тебя трахать](https://open.spotify.com/track/12GNcuMwxsLQQG4A9flx9r) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Пропаганда денег](https://open.spotify.com/album/5LfOhXW4R8BAtuE1rGkK54) | 2:24 | 2022-04-16 | 2022-05-06 |
 | [Я хочу тебя трахать](https://open.spotify.com/track/5TK74MJYRmwU5NIAjGRvRq) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Пропаганда денег](https://open.spotify.com/album/73saqAR9QSfyGtdbZCUkMX) | 2:24 | 2022-05-07 | 2022-09-18 |

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-500 songs - 1 day 3 hr 59 min
+502 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-27 | 2022-07-29 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-14 | 2023-07-08 |
 | [Dynamite](https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:51 | 2019-08-02 | 2019-10-11 |
-| [Edinburgh](https://open.spotify.com/track/6n9ElX7ujp5KjPCssiwY5a) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Edinburgh](https://open.spotify.com/album/7kl8CGHUsKphVGQ1IsBp8G) | 3:59 | 2022-12-15 |  |
+| [Edinburgh](https://open.spotify.com/track/5Nn9YX5YAFPvVDW4EFqm8e) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Edinburgh](https://open.spotify.com/album/53QhPabAcg1T9dOxUxTMAQ) | 3:59 | 2023-07-07 |  |
+| [Edinburgh](https://open.spotify.com/track/6n9ElX7ujp5KjPCssiwY5a) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Edinburgh](https://open.spotify.com/album/7kl8CGHUsKphVGQ1IsBp8G) | 3:59 | 2022-12-15 | 2023-07-27 |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-06-18 | 2022-04-29 |
 | [Everybody Rise \- Acoustic](https://open.spotify.com/track/5LwEwnX2DqZWjqXrCevJMs) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Everybody Rise \(Acoustic\)](https://open.spotify.com/album/7pF4W2oTDhpfM8kW94X4WH) | 3:46 | 2020-08-07 | 2020-10-09 |
 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 | 2019-11-08 | 2020-01-10 |
@@ -465,7 +466,8 @@
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-28 | 2022-07-08 |
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-09-27 | 2020-04-14 |
 | [truth](https://open.spotify.com/track/7tbwFRAijfsJab4RB0RiWG) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [truth](https://open.spotify.com/album/0cytQ3yMVtGQWgl6ASjdb7) | 4:12 | 2022-01-27 | 2023-06-16 |
-| [Tunnel Vision](https://open.spotify.com/track/3RhZ2Yp8usBRc1FtN55Xcx) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Tunnel Vision](https://open.spotify.com/album/2SuvX1g88NmY35gQZRhami) | 3:40 | 2022-07-07 |  |
+| [Tunnel Vision](https://open.spotify.com/track/3RhZ2Yp8usBRc1FtN55Xcx) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Tunnel Vision](https://open.spotify.com/album/2SuvX1g88NmY35gQZRhami) | 3:40 | 2022-07-07 | 2023-07-27 |
+| [Tunnel Vision](https://open.spotify.com/track/4yvcI6pOLBcIcnxSsDTWSR) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 3:40 | 2023-07-07 |  |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-04-07 | 2022-02-11 |
 | [Unsolvable](https://open.spotify.com/track/2zGWcIfpboJX37hwEunjms) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Unsolvable](https://open.spotify.com/album/1NvJITnemUiIzDPCzeZTEK) | 4:09 | 2020-07-31 | 2021-09-24 |
 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 | 2019-08-02 | 2019-11-22 |

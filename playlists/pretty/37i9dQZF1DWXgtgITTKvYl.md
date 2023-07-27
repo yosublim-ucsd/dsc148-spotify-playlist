@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,331 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,376 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 5 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 |
 | 6 | [The Way Out](https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3) | [Vinicius Cavalieri](https://open.spotify.com/artist/2GFH65OfEiNfR6TgZ8b3eL), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [The Way Out](https://open.spotify.com/album/3LG6v76h4WjsbtvgOVjb1g) | 3:53 |
 | 7 | [New Obsession](https://open.spotify.com/track/2m5ITPG4RR9A6fdxGw9sau) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [Eupnea](https://open.spotify.com/album/4ZLPuhDGLqmycq9zSc8XKv) | 5:07 |
-| 8 | [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 |
+| 8 | [Seed II](https://open.spotify.com/track/2AWtYbUSh7L41MyAuz8B5a) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/0P703q8UCvSzqECNm6zXqJ) | 3:20 |
 | 9 | [Machines and Men](https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [Machines and Men](https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v) | 9:54 |
 | 10 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 |
 | 11 | [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 6:05 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MCxjZDQ4NjhhNmMwZDAzYzFhYzUxZjI2MmQ3MmNjNWJjZDUxOTkxNTQ5`
+Snapshot ID: `MCxmMzY2YzZlNjhjYmQ4MDAzMmFiMDJlZDQyZTAwMGFhOGJhMWFkMTU5`

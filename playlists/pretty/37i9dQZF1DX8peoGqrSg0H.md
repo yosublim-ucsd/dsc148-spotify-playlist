@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,605 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,694 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 57 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 |
 | 58 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 |
 | 59 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
-| 60 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
+| 60 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 61 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 62 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 |
 | 63 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 |
 | 64 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 | 65 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 
-Snapshot ID: `MCxmNWU0NjU3NzdlYWI5ZWIxZjBkNjIxZTVmNDE2YWUyNTlhZDc0NjVi`
+Snapshot ID: `MCw0OWQwZjBiOTlmZDgyOWIwYmNjZmNhZDg4NDMzZjQyNThhNzJiYjNj`

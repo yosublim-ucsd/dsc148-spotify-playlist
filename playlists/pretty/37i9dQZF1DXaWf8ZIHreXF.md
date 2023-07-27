@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,981 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,097 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:59 |
 | 100 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
 
-Snapshot ID: `MCxjZTBhOWMwNWVkZTQ4ZDk0OTYzYmU4ZTJhZTk4Y2MyMmZmY2Q0ZTk2`
+Snapshot ID: `MCxmOWM4MmI2NTU3NGU2MDQ2MzlhOWYyODVkZGVhZTkzMzk4YTk2ZWY3`

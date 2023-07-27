@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [O Primeiro Natal](https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [O Primeiro Natal](https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH) | 4:38 |
 | 50 | [Vinde Celebremos](https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:22 |
 
-Snapshot ID: `MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy`
+Snapshot ID: `MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5`

@@ -8102,10 +8102,32 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 123333,
       "name": "Psycho Dreams (Sped Up)",
       "url": "https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ"
+    },
+    {
+      "album": {
+        "name": "Psycho Dreams (Sped Up)",
+        "url": "https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Psycho Dreams (Sped Up)",
+      "url": "https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6"
     },
     {
       "album": {
@@ -16794,7 +16816,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 120427,
       "name": "\u041c\u0430\u043d\u0456\u0444\u0435\u0441\u0442",
       "url": "https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S"
@@ -22472,7 +22494,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

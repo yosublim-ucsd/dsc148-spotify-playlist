@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,523 likes - 500 songs - 1 day 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,668 likes - 500 songs - 1 day 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 |
 | 500 | [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 |
 
-Snapshot ID: `MCxjN2U5ZDhiNWZiZWQ0ODZmYTIyOWQxNWYwY2U1NjEzZTU4YjhhN2Zi`
+Snapshot ID: `MCw0OGY1MTAyNGIwYjMzZDdiYjk5YzQyYmE5ZTViY2RkYmE5YzNjODVj`

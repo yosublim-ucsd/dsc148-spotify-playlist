@@ -2,13 +2,13 @@
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Fazilpuria
+> Yo Hai Haryanvi Hip\-Hop! Cover: Badal
 
 93 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 |  |
+| [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 | 2023-07-27 |
 | [3 Albaadi](https://open.spotify.com/track/6xR3gC3ncGU63cKzRE0Oss) | [Kartik Soni](https://open.spotify.com/artist/6xyTftSKst8LZR4bwQQpMh), [Anmol Mehla](https://open.spotify.com/artist/1yNuefE65i7lK0oPkrFUwS), [Chaman Parjapati](https://open.spotify.com/artist/0KkiXJoxTos8y7Ptpn8ttj) | [3 Albaadi \(feat\. Anmol Mehla, Chaman Parjapati\)](https://open.spotify.com/album/4zVQq2uzsyaeBMHYjaRtDR) | 2:38 | 2023-03-28 | 2023-04-04 |
 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 | 2023-06-29 |  |
 | [3B2](https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [3B2](https://open.spotify.com/album/6HWe0u8z4qbiuatajJ7n6N) | 2:44 | 2023-07-11 |  |
@@ -100,6 +100,6 @@
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 |  |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 |  |
 | [Yaar Haryane Te](https://open.spotify.com/track/7M5rtXfBW7FZ9gEWkw2uDR) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Yaar Haryane Te](https://open.spotify.com/album/2T5gjowpYgITFECRvQcFOE) | 4:03 | 2023-03-28 |  |
-| [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 | 2023-03-28 |  |
+| [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 | 2023-03-28 | 2023-07-27 |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

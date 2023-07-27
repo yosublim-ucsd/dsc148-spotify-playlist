@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,030 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,096 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Hunger of the Pine](https://open.spotify.com/track/2mkv1b3dRFyiJ4Ybq31owf) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 4:59 |
 | 100 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/3JBB92odunFru2gOvI91x9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Wet](https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx) | 2:54 |
 
-Snapshot ID: `MCxhMjc1NTAwOTEzZTM5OTM0MzU4Yzg3MTY0MzY4M2NjZmYxNzdlNzZi`
+Snapshot ID: `MCwyYmUyYzIyNzIwNGE4NDY5ZmRhMTczMzIwNGEwMDYzNTEwN2YxZmY4`

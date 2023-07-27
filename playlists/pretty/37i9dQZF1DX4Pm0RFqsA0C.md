@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,012 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,020 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 149 | [You'll Never Know](https://open.spotify.com/track/06usPBPClkSkpEn51nOUbg) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Memories & Melodies](https://open.spotify.com/album/5VTB3nLLkSgljrwuwKmuve) | 3:26 |
 | 150 | [Git it up!](https://open.spotify.com/track/5Dg2iJomKtU2MxHK8BUkzn) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [I Yah! \- The 4th Album](https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3) | 4:16 |
 
-Snapshot ID: `MCw0MmI2MmZmMzhhNzBlMDU0YjllNDcxYjExZjU1YTFlZjBiMzk3MjU1`
+Snapshot ID: `MCxiNjFlMTU1MjFiOGUxY2UxODI2MzY1OWEwMjEwZGFmODU3YjRlM2Q3`

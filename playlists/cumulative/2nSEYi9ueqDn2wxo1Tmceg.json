@@ -8627,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "Soul Capturer",
+        "url": "https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344318,
+      "name": "Soul Capturer - Single Version",
+      "url": "https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3"
+    },
+    {
+      "album": {
         "name": "Space Song",
         "url": "https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE"
       },

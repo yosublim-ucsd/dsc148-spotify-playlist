@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,636 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,682 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Sweet Sublime](https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Almost Naked](https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm) | 3:20 |
 | 75 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
 
-Snapshot ID: `MCxjYThkNTQ3ODZkZWI4MDY4MTRiMTg0MzNkMWM0MDZiMmQxOTljNWMw`
+Snapshot ID: `MCw1NjZmNjliZTA1ODIyZjMzNGMyMDEyZGY0NDNjMWRlMTgzNzI5NDFj`

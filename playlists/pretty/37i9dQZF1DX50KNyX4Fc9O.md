@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Liam Ferrarri
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,813 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,818 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 |
 | 99 | [Gone by March](https://open.spotify.com/track/4jKNEOEL5PXoO6EhMDYf2A) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Gone by March](https://open.spotify.com/album/4V9yH476Bj7X9uYTDyxhji) | 2:26 |
 
-Snapshot ID: `MCwxYjQxNGU0MWYxMTFlNmM5ZDI4ZTkyZTYyMGFkYjBhODBmMjIwZTYw`
+Snapshot ID: `MCxhNTg2MGM0YTI5OTRiOWQ5MjlmMDJhNDZlODNmZmYyNTdiNmY4ZWI1`

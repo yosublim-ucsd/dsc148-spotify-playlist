@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,447 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,526 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 39 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 |
 | 40 | [Almost Human \- from the Original Motion Picture Soundtrack Blade Runner 2049](https://open.spotify.com/track/1dVWjFxNtwdWf3IftD4fCH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Almost Human \(from the Original Motion Picture Soundtrack Blade Runner 2049\)](https://open.spotify.com/album/1X5V3BzjJZ2tge9pWwNe5z) | 3:22 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDA5YTg2MWZkYzkzY2ZkMGNhMTRiN2E2ZTE0ZTcwY2Y1NA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBjZjgyOGJkZGRhYzQ2MjAwNjNjZDc4NDgyMzNlYzIzNA==`

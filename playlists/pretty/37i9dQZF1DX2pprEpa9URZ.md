@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,490 likes - 75 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,524 likes - 75 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
 | 75 | [Dilmano Dilbero \- Sariel Orenda Remix](https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [Sariel Orenda](https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp) | [Dilmano Dilbero \(Sariel Orenda Remix\)](https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe) | 6:48 |
 
-Snapshot ID: `MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh`
+Snapshot ID: `MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5`

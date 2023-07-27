@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-89 songs - 7 hr 4 min
+90 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [Tiritaye](https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Tiritaye](https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v) | 3:47 | 2023-06-23 |  |
 | [Tizita](https://open.spotify.com/track/784q54gDzR98Mfd56z56OF) | [Buzuayew Demissie](https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq) | [Nahiom Favorites, Vol\. 19](https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg) | 5:56 | 2018-10-04 |  |
 | [Twek](https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:10 | 2018-10-04 |  |
-| [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 | 2020-06-05 |  |
+| [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 | 2020-06-05 | 2023-07-27 |
 | [Weni](https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS) | [Timnit Welday](https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm) | [Weni](https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c) | 4:21 | 2020-06-05 | 2022-09-04 |
+| [Weni](https://open.spotify.com/track/7C4rnmQ8aLURc4FLz14Tfe) | [Timnit Welday](https://open.spotify.com/artist/1EJTyBtShYv9uyv6BmPSdl) | [Weni](https://open.spotify.com/album/2nogpd8iqZOtNICZO0KOpq) | 4:23 | 2023-06-23 |  |
 | [Wetat](https://open.spotify.com/track/4bmybzAerSejzAKr5KTJCj) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol ፫](https://open.spotify.com/album/7yRKIIpvDsYHAseBHnon8z) | 3:57 | 2023-03-17 |  |
 | [Yebet Sira](https://open.spotify.com/track/7uhafRBxioI4l74qEluOo6) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 4:35 | 2018-10-04 | 2023-03-18 |
 | [Yebleniloo](https://open.spotify.com/track/0XVsDOG0VLpkCrsM57yWdv) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Maraki Favorite Best Ethiopian Music Collection](https://open.spotify.com/album/4UpLNcaPJ2ZPb3LASfaGUl) | 4:51 | 2020-06-05 | 2022-09-25 |

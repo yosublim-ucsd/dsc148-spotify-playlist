@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,050 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,086 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
 | 100 | [El Pescador de Barú](https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ) | [Cumbias, Cumbias](https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA) | 2:54 |
 
-Snapshot ID: `MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw`
+Snapshot ID: `MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5`

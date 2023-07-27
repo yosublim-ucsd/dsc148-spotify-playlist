@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Australia.
 
-971 songs - 2 day 7 hr 44 min
+972 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-26 |  |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-21 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-05-23 | 2021-06-26 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-28 | 2022-07-23 |
@@ -852,7 +853,7 @@
 | [The Boys Light Up \- Remastered 2013](https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [The Boys Light Up \(Remastered\)](https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV) | 4:41 | 2022-01-27 | 2022-01-29 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-05 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-24 | 2022-12-28 |
-| [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2023-01-03 |  |
+| [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2023-01-03 | 2023-07-27 |
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2022-01-19 | 2022-03-02 |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-14 | 2022-05-16 |
 | [The Great War](https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:00 | 2022-10-22 | 2022-10-24 |

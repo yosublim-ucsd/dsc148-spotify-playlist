@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,360 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,546 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 37 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 38 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 |
 | 39 | [Last Line](https://open.spotify.com/track/531Ja3DY2r2Auhk10OseCM) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 4:52 |
-| 40 | [I Don't Need Anything But My Love](https://open.spotify.com/track/0CHud82a2uwfmsBAitedCZ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [I Don't Need Anything But My Love](https://open.spotify.com/album/4HiwMkcHk1XTyio65cqotK) | 2:54 |
+| 40 | [I Don't Need Anything But My Love](https://open.spotify.com/track/4pK17ywBg6aqOInBD1SHoQ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/79Hhr67f0hxR22LLjrSTxH) | 2:54 |
 | 41 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 |
 | 42 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 43 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 79 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 |
 | 80 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MCxmNDhkMmJjOGYzMDYzZDNkM2VmYzhjOWQxOWM4N2M5YWZkNmIzZjZi`
+Snapshot ID: `MCwxNDgxNDE4YzM3YTY3YTk4ZTZkNDc1MTgxZjEzNGE1NGZmYjUzOGNi`

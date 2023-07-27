@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Artie 5ive e Sacky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,922 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,993 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TOP G \(feat\. Sacky\)](https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:40 |
-| 2 | [BLA](https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [BLA](https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n) | 2:17 |
-| 3 | [Chakachà](https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Chakachà](https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9) | 2:47 |
-| 4 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 2 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 3 | [BLA](https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [BLA](https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n) | 2:17 |
+| 4 | [Chakachà](https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Chakachà](https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9) | 2:47 |
 | 5 | [Business \(feat\. Kid Yugi\)](https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 3:07 |
 | 6 | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ) | 2:40 |
 | 7 | [HAHA](https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [HAHA](https://open.spotify.com/album/0tjYg0AfX7eplMuykznGGV) | 2:57 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 37 | [Mon Papa](https://open.spotify.com/track/04xS99ysaLVID7GRAmo1bp) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Mon Papa](https://open.spotify.com/album/6O4dj0wb0pjJirm5hd6Xbu) | 2:13 |
 | 38 | [Io con Te](https://open.spotify.com/track/0Fw7HhX3q77ffJN6dNXNVO) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Io con Te](https://open.spotify.com/album/7EmW6qZOjGz2xyoiZhY4Un) | 2:23 |
 | 39 | [4LOCOS](https://open.spotify.com/track/2ikdZFKR2sEKlvbjwSs1ya) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [4LOCOS](https://open.spotify.com/album/6fg87EmMuDXPDvYvM8BxJz) | 2:29 |
-| 40 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 |
-| 41 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
-| 42 | [In 2 Sulla Moto](https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [In 2 Sulla Moto](https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb) | 2:30 |
-| 43 | [NUMERO 10](https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [NUMERO 10](https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF) | 2:05 |
-| 44 | [L'Anziano](https://open.spotify.com/track/3NCRqWAMQf4WCOExuTlcCq) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [FDM](https://open.spotify.com/album/0qHddNYOjjjhbwMdSCj95m) | 3:12 |
-| 45 | [LOGIN](https://open.spotify.com/track/6D4VFNUPmR79KOoZ7lm4Vi) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [LOGIN](https://open.spotify.com/album/7CSUEnbclK7M6Jxtg3y8mo) | 2:46 |
-| 46 | [SLAP](https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [SLAP](https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0) | 2:03 |
-| 47 | [EKL \#1](https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [EKL \#1](https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja) | 1:29 |
-| 48 | [Nme](https://open.spotify.com/track/6VrAWtlbVpcbDTfvnqDDE2) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Ngaaka Blinde](https://open.spotify.com/artist/6JBweZ5NTBmZ8rJhDrb902) | [Nme](https://open.spotify.com/album/1zciW0jZ81O6sslkqDkkNb) | 3:32 |
+| 40 | [Lacoste 2](https://open.spotify.com/track/6DOMY2WrG5iz41tGvYE3U9) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE) | [Lacoste 2](https://open.spotify.com/album/1SZAVFA9FPdZNKEc2dA468) | 1:57 |
+| 41 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 |
+| 42 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
+| 43 | [In 2 Sulla Moto](https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [In 2 Sulla Moto](https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb) | 2:30 |
+| 44 | [NUMERO 10](https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [NUMERO 10](https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF) | 2:05 |
+| 45 | [Ma Bella](https://open.spotify.com/track/5eeMVrbremAMXoU0NuiXgz) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Ma Bella](https://open.spotify.com/album/3flMPRFAjylmTcNq9sfcMT) | 2:28 |
+| 46 | [LOGIN](https://open.spotify.com/track/6D4VFNUPmR79KOoZ7lm4Vi) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [LOGIN](https://open.spotify.com/album/7CSUEnbclK7M6Jxtg3y8mo) | 2:46 |
+| 47 | [SLAP](https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [SLAP](https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0) | 2:03 |
+| 48 | [EKL \#1](https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [EKL \#1](https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja) | 1:29 |
 | 49 | [Finta di niente](https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Finta di niente](https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA) | 2:36 |
 | 50 | [Festa delle Streghe](https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Love Storii](https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V) | 2:40 |
 
-Snapshot ID: `MCxiMGFjNjk4MjAzZDExYTdlMDRhYjBiMmQ2ZjVlMWMzNjMzNWE2ZmU5`
+Snapshot ID: `MCwwMmVjMzBlNDAyZGNiN2U5ZjNjODlhOTZiODc5YjJmNDBkNzI2YmI4`

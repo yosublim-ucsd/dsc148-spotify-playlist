@@ -4,7 +4,7 @@
 
 > Get in touch with nature with these songs about our environment.
 
-44 songs - 2 hr 11 min
+45 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/track/0O3qbIK90CIBAV3Vsme58y) | [The Future Brigade](https://open.spotify.com/artist/49iKOaoc47iFNhWp6i5l4A) | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/album/6GUN6oAsdU3dDZnCEKziK4) | 1:27 | 2022-04-15 |  |
 | [Rainbow Connection \- From "The Muppet Movie"/Soundtrack Version](https://open.spotify.com/track/4Fx3LVYQXplhz70cfoqbgq) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux) | 3:15 | 2022-04-15 |  |
 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2022-04-15 |  |
-| [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 | 2022-04-15 |  |
+| [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 | 2022-04-15 | 2023-07-27 |
+| [Rule of thumb](https://open.spotify.com/track/36LUWAi5LYSwV57XPYPkOh) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/6zrqHnPVu66QV7tjNrbQsb) | 2:44 | 2022-04-15 |  |
 | [Sally the Camel](https://open.spotify.com/track/4PKJ1ZfkvYGQ6zbsEFktRI) | [Tinsel Town Kids](https://open.spotify.com/artist/7ofMbMyqQ9qMUVoFjY7mYi) | [30 Pre\-School Kid Songs \- Fun and Silly](https://open.spotify.com/album/4w9fHZXXLJKoBO55vhTLg8) | 1:53 | 2022-04-15 |  |
 | [Salt Water Spin](https://open.spotify.com/track/1hIbTLOhycYxqwfKfWGImp) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Blink of an Eye](https://open.spotify.com/album/6nbSPIkCiKpbIdirJF1Ry9) | 3:23 | 2022-04-15 |  |
 | [Save the Earth Song](https://open.spotify.com/track/4Ny59bRByRrLNLs4Xn3xzb) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Save the Earth Song](https://open.spotify.com/album/2FukeFqL73bZyR82uOTCSN) | 1:35 | 2022-04-15 |  |

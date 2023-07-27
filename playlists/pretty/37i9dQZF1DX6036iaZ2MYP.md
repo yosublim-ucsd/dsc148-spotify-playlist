@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,252 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,291 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Injabulo](https://open.spotify.com/track/6yqUbRQXmeCtpBBookikSB) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Injabulo](https://open.spotify.com/album/2dL3uqWC31vpb9RwvMSJD1) | 5:07 |
 | 50 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
 
-Snapshot ID: `MCxlNjNjMDAzZTJkMDVlYWQyMjlhMGRmYzkzM2EzY2Q0NDdhZWFiZTg5`
+Snapshot ID: `MCxlNjkwMmYyMzUwZGQ3ODgyMzBkOTJjMjZjMzQyZjMzZTM5ZjJlMjZj`

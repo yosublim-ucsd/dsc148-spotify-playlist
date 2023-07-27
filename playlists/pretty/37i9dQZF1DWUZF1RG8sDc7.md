@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,716 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,835 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [No He Podido Ser Feliz](https://open.spotify.com/track/1mgGhYqSQSuBdgnI3xSIWk) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Exitos de Siempre](https://open.spotify.com/album/6LNXyCL7febw4qJyGrfqq7) | 5:04 |
 | 60 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
 
-Snapshot ID: `MCw4NjBiOWZkYzg3ZmI4Zjg3YzRjMzU0NTE3MGQxZjIzNmI4MGU5ZjA5`
+Snapshot ID: `MCwzMjYyNjU2MWQyMjA3ZjU5ZjM5OWJlODE4OTdmYmIyMjUzOGU2YjU1`

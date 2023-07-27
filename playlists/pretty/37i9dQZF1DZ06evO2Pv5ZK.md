@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,656 likes - 47 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,685 likes - 47 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 41 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:26 |
 | 42 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 | 43 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 |
-| 44 | [Young Alexander](https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 1:35 |
-| 45 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 44 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 45 | [Young Alexander](https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 1:35 |
 | 46 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 |
 | 47 | [Across the Mountains](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBjMzBmYWZiZWI4YTAxNDU2OTU1MjE4MmRmYzFiYzI1Mg==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDBhMTI4MzUwM2FjNGIwMTg0ODc2MDUyOGY4MjNkNWVhYg==`

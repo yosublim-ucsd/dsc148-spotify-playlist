@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,971 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,975 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
 | 75 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 |
 
-Snapshot ID: `MCwzMmVjNzM3NWViOTVhMzFjNTI4MTc4OTlkYTNhMDk3YmY0NWZkZGVl`
+Snapshot ID: `MCw5MDQ0YTc0MmY0ZTVkNjlkNTgyYWNhYTk4MTRmNDg0MzRkYWY3Nzk4`

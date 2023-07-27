@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,642 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,662 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 100 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
 
-Snapshot ID: `MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl`
+Snapshot ID: `MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh`

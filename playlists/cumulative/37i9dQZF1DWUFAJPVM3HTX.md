@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: Lekan\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-1,533 songs - 3 day 7 hr 1 min
+1,541 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2022-03-11 | 2022-04-28 |
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-04-27 | 2022-07-10 |
 | [Always Be Watching](https://open.spotify.com/track/5fBUjUMi2lOn5dTJATQMQa) | [Jword](https://open.spotify.com/artist/6Dp6OYo93kad6QAcXezQRq) | [Always Be Watching](https://open.spotify.com/album/1QuzG9U2zBvd8eChYUCiwU) | 3:26 | 2022-02-02 | 2022-03-12 |
+| [am i stupid?](https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [am i stupid?](https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7) | 2:03 | 2023-07-26 |  |
 | [Amazing](https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Amazing](https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5) | 2:27 | 2023-02-03 | 2023-04-06 |
 | [American Dirt](https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl) | [Flores](https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z) | [American Dirt / Sangre](https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3) | 2:35 | 2022-02-02 | 2022-07-02 |
 | [Amnesia](https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Amnesia](https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp) | 2:50 | 2023-05-19 |  |
@@ -118,6 +119,7 @@
 | [Bad Dreamz](https://open.spotify.com/track/6QBzmMX3pWav8GV1GED5RP) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Bad Dreamz](https://open.spotify.com/album/6Q9TToSQ2JCjxBgKPlMS6w) | 3:41 | 2021-12-01 | 2022-01-13 |
 | [Bad Girl](https://open.spotify.com/track/1p4PzL7LJ0Lbpz21eTYKwl) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [Bad Girl](https://open.spotify.com/album/2NtrTuHEv3jjZrWgl6QpnV) | 3:24 | 2022-01-12 | 2022-03-12 |
 | [BAD GIRLS CLUB](https://open.spotify.com/track/2SXMw2SDiQNsquOgQOlNhC) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [BAD GIRLS CLUB](https://open.spotify.com/album/7KISGFo4I4d04JaMft1xRG) | 2:42 | 2022-09-01 | 2022-10-15 |
+| [Bad Gurl](https://open.spotify.com/track/0mlJb5Qes5bQcshDA9FXmX) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Bad Gurl](https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp) | 3:15 | 2023-07-26 |  |
 | [Bag](https://open.spotify.com/track/4oxqZP2uWGdY5DQLeOQkgg) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Bag](https://open.spotify.com/album/47AI0YmHRrymGBlMkrFQzj) | 2:58 | 2022-01-26 | 2022-03-03 |
 | [Baggage](https://open.spotify.com/track/4i4lAh5pW9DE4sgWMAfT3A) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Baggage](https://open.spotify.com/album/4apemMXegKNctKfGSXt18Q) | 2:36 | 2022-08-10 | 2023-01-19 |
 | [Bags](https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7) | [Bags](https://open.spotify.com/album/2QQM5pI8KDCvDO1eazhoFk) | 3:30 | 2023-04-12 | 2023-05-06 |
@@ -509,6 +511,7 @@
 | [Girlfriend](https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Girlfriend](https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy) | 2:47 | 2022-06-09 | 2022-08-20 |
 | [Girls From Atlanta](https://open.spotify.com/track/0LWCy7p5LkUtmMyl6FMyel) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs) | [Girls From Atlanta](https://open.spotify.com/album/0MNZ9dWCgygx9ky9OssBp8) | 2:20 | 2023-03-10 | 2023-05-06 |
 | [Girls Like Me](https://open.spotify.com/track/5qbqlsjMvv7FI6XNA9L48B) | [Anjoli](https://open.spotify.com/artist/2HIo2lcofrHHGCTQNFlGca) | [Girls Like Me](https://open.spotify.com/album/3j3JDycSn9pzze6gDVknqY) | 3:27 | 2022-08-19 | 2022-09-15 |
+| [Girls Like Us](https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Litany](https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz) | 2:23 | 2023-07-26 |  |
 | [Give In](https://open.spotify.com/track/25QnFnHnzY8xr61IQxVuw9) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Give In](https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL) | 2:38 | 2023-07-14 |  |
 | [Give Me](https://open.spotify.com/track/4GTHQUI8z2EXUJEWLnBPme) | [RCSE](https://open.spotify.com/artist/2JfaT4Q3Tf0PasGbUgBuRT), [Samon Kawamura](https://open.spotify.com/artist/4rq4prsgvKLOfOU0MIWycc) | [Give Me](https://open.spotify.com/album/3ACgjQmdPKnYpYWeF1YdyH) | 3:12 | 2023-07-14 |  |
 | [Give Me A Sign](https://open.spotify.com/track/1XGWCD73Z5yCH4iDDUe89d) | [Seanii](https://open.spotify.com/artist/3m4VTmoMKMK9x6hTsJeJEZ) | [Give Me A Sign](https://open.spotify.com/album/3XuzTyECT3hWfNVc93GJDP) | 2:41 | 2022-10-14 | 2022-10-29 |
@@ -729,6 +732,7 @@
 | [Kinda Love](https://open.spotify.com/track/548cTdHVWvO8YTcqW7FzS9) | [Ashleyn](https://open.spotify.com/artist/3Xkj2AWTceLmIkrP8RC96c) | [Kinda Love](https://open.spotify.com/album/443uct6tMBcxhXK2bLOO80) | 2:54 | 2022-02-02 | 2022-03-31 |
 | [Kissin' My Tattoos](https://open.spotify.com/track/09xQ2YpARX6KfVKKbiDaoY) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Kissin' My Tattoos](https://open.spotify.com/album/7ueCXrWwTa6Fe209cZuSYP) | 2:28 | 2023-06-21 |  |
 | [Kitty & I](https://open.spotify.com/track/1CEvoEip9uA8w5Or4Pf7G3) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [Kitty & I](https://open.spotify.com/album/0yAkS28Cl4QtLaxRKVc9VZ) | 3:03 | 2022-08-19 | 2022-09-23 |
+| [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-26 |  |
 | [KLM](https://open.spotify.com/track/61kUJ5SyDid5ujv4ZyrIjU) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [KLM](https://open.spotify.com/album/7M8t6y4yEeARY88jrW1uEY) | 2:29 | 2022-08-10 | 2022-09-15 |
 | [Know Better](https://open.spotify.com/track/5BCjVArkgJDYnLet6eECgl) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Know Better](https://open.spotify.com/album/21Hp9TDtn1M6j90vUAoDz1) | 3:47 | 2023-03-31 | 2023-04-22 |
 | [Know It's Wrong](https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Know It's Wrong](https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8) | 3:23 | 2022-06-02 | 2022-08-20 |
@@ -790,6 +794,7 @@
 | [LOSE](https://open.spotify.com/track/6QjZTo7JhSBq43nznPSsbb) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [LOSE](https://open.spotify.com/album/2hzx3oVMyk7ZOhqrogE6cP) | 3:08 | 2023-05-12 |  |
 | [Lose My Mind](https://open.spotify.com/track/5huEBOAOhIhzl7sIQH8BPS) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Lose My Mind](https://open.spotify.com/album/0xaHy9uyABRwAfLfJYpTXI) | 3:43 | 2023-02-03 | 2023-03-18 |
 | [LOSE YOU](https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [LOSE YOU](https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4) | 3:01 | 2022-06-09 | 2022-07-29 |
+| [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 | 2023-07-26 |  |
 | [Losing You](https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Losing You](https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO) | 2:14 | 2022-04-06 | 2022-06-17 |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-05 |  |
 | [Lost In You](https://open.spotify.com/track/4FIV2F2tHRskVGyd7FogoM) | [Nate Curry](https://open.spotify.com/artist/6nQU2fgCIK8xSFT8weMxP4) | [Lost In You](https://open.spotify.com/album/6S1TKL5u1C8ywztBlppGe7) | 1:51 | 2023-05-26 |  |
@@ -1021,6 +1026,7 @@
 | [Patience](https://open.spotify.com/track/25nKH6GqJzyrdFnKnJYZcJ) | [Jawan x Tiffany](https://open.spotify.com/artist/7FhN2piwL7x4je3G5JyeEW) | [Patience](https://open.spotify.com/album/5Fn7jOm4tFDBpKL9KeRnO8) | 3:18 | 2022-10-05 | 2022-12-01 |
 | [Patience](https://open.spotify.com/track/04jHnmn1pYe9Pj8DzC0A7z) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Patience](https://open.spotify.com/album/7hTxXBAtN2wlAqcd844IC0) | 2:46 | 2022-09-28 | 2022-12-01 |
 | [PATT](https://open.spotify.com/track/0AcNh6pvhqGCm9EKpCAKEG) | [DION IV](https://open.spotify.com/artist/2MNprX16TszQOuCL8s5F38) | [PATT](https://open.spotify.com/album/0wTbVFoRaSEqgIm9iCFOO5) | 3:16 | 2022-01-19 | 2022-02-17 |
+| [Payback](https://open.spotify.com/track/4NnIHzJPBXDlOEUwf1C7DJ) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [god is my witness](https://open.spotify.com/album/0hXeIYGHB55vabgbKs42bw) | 2:10 | 2023-07-26 |  |
 | [Peaches](https://open.spotify.com/track/30pR7miBcH6YiOzmTZDLQ4) | [Denaisha](https://open.spotify.com/artist/5PStKTtmNm8px3JMtMGajn) | [Aquarius Season](https://open.spotify.com/album/0zdvnbE92nwzDKtopVqiTr) | 3:58 | 2022-02-09 | 2022-03-24 |
 | [pendulum](https://open.spotify.com/track/5nElZ3cKIdVolDx0YoHJUl) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [memento](https://open.spotify.com/album/54LzVgzLACc6oe6Uv6lbV2) | 3:57 | 2023-05-05 |  |
 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 | 2022-05-20 | 2022-07-10 |
@@ -1295,6 +1301,7 @@
 | [Sundress](https://open.spotify.com/track/2PVIOPgiTf6w6RlEJxQdkg) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal](https://open.spotify.com/album/6V836oeuXh62MWgiAHZPLz) | 3:19 | 2021-12-01 | 2022-01-13 |
 | [Sunny Days](https://open.spotify.com/track/3gXnOahT4VaUb6JyEjYEvz) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH) | [Sunny Days](https://open.spotify.com/album/7fQrvuCGqLccjHRrRSKYHe) | 4:22 | 2023-05-19 |  |
 | [SUNRISE](https://open.spotify.com/track/5bvsXgDtVaFSg2JFhxL1lH) | [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [SUNRISE](https://open.spotify.com/album/1DI9bwQfWVGOAYkF18mFo7) | 2:55 | 2022-06-10 | 2023-01-12 |
+| [Sunshine](https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U) | 3:05 | 2023-07-26 |  |
 | [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 | 2023-03-31 |  |
 | [Sunshine State](https://open.spotify.com/track/2TpKV2CZKaGtibEVxMgvOd) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Sunshine State](https://open.spotify.com/album/6XZFgfqK3lbhLTBBwh8nRx) | 3:16 | 2023-07-14 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-17 | 2023-02-23 |
@@ -1332,6 +1339,7 @@
 | [Teleport](https://open.spotify.com/track/3TB0WBeZxBeiMRI8KRLUUj) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/3cLpcQmxLPSwkcJxQtTKlu) | 3:45 | 2022-09-17 | 2022-12-01 |
 | [Tell Him](https://open.spotify.com/track/43hH54oEoLOl35Z6s88k4a) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/539D13Gt9WGYWmcNpIZHPt) | 3:54 | 2022-01-19 | 2022-03-03 |
 | [Tell Me](https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Tell Me](https://open.spotify.com/album/6cMt0oDOEOmr5Th6atET25) | 4:16 | 2022-07-01 | 2022-08-20 |
+| [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 | 2023-07-26 |  |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 |  |
 | [Ten](https://open.spotify.com/track/6HdVM6BGkSxZbmAkC28DnC) | [Satya](https://open.spotify.com/artist/5GITUEMmJSSaCT3rr4pQXq) | [Ten](https://open.spotify.com/album/3p1Q8xPzjL81hobhpVFoP4) | 4:02 | 2022-06-16 | 2022-08-20 |
 | [TGI Fridays](https://open.spotify.com/track/1CBooBTu5CJivl68dssu0h) | [Dave James](https://open.spotify.com/artist/4bDYAucgAfUgpAPTvJBuGG), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [TGI Fridays](https://open.spotify.com/album/0NsDLYjbhtpF3yDwPHlWDq) | 4:18 | 2023-02-03 | 2023-03-18 |

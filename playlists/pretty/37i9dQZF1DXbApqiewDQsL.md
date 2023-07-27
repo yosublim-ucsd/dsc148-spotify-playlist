@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,153 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,180 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [DEL Barrio a la Ciudad](https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [DEL Barrio a la Ciudad](https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx) | 3:37 |
 | 79 | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/track/5tH8Te1w2FwlmImxxqwC3k) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/album/5uTECABgpbG1BPXcUqDcwa) | 3:00 |
 
-Snapshot ID: `MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4`
+Snapshot ID: `MCw5M2I0NDgxNzEyZWViYmFlNjhjN2U3YjAwNTc0NDhjZGM0MWY3ODlh`

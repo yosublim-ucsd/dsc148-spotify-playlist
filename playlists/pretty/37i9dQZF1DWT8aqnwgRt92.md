@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,552 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,215 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 37 | [ユリイカ](https://open.spotify.com/track/4uB9A6eZj9ZU5rBT6SNStD) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [ユリイカ](https://open.spotify.com/album/2qiU4QUOOJ1shIsurGPehp) | 4:04 |
 | 38 | [reversal](https://open.spotify.com/track/27ViqDyuEQlG1u1Gn5cm0p) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [reversal](https://open.spotify.com/album/5IGCCikDv7sUqWbU1zVjsO) | 3:42 |
 | 39 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
-| 40 | [door](https://open.spotify.com/track/0TF4op8eQkheQdlWQM9Bgl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールエンディングテーマ door（Special Edition）](https://open.spotify.com/album/1FgvZygYK6UfpleMuwyQ4r) | 4:12 |
-| 41 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 |
+| 40 | [door](https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Ending Theme Song "door" \(Special Edition\)](https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J) | 4:12 |
+| 41 | [Alter Echo](https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p) | 3:34 |
 | 42 | [Cyan Innocence](https://open.spotify.com/track/73gBEMU6UOgFw38HRGtVHj) | [FRAM](https://open.spotify.com/artist/0TLeLdnZij6KfCNwzzcfOS) | [Cyan Innocence](https://open.spotify.com/album/0IlrhjdCwl97eFuztYrI2p) | 3:24 |
 | 43 | [Bravery? Naturally?](https://open.spotify.com/track/1KQ0MlAitZufHAJdy5bRKb) | [樋口楓](https://open.spotify.com/artist/0qQFPfQRMPx8YuS5ReAsLz) | [Bravery? Naturally?](https://open.spotify.com/album/1BHqRDONenHWdglRnzHzsH) | 3:53 |
 | 44 | [Love Infinity](https://open.spotify.com/track/6l520BpwLoIAYMqLKIf7hk) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [Love Infinity](https://open.spotify.com/album/2VmhOTvolttD8BdOQOfWDh) | 3:46 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 61 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 |
 | 62 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 |
 | 63 | [壱雫空](https://open.spotify.com/track/4Ov105HP2yCcWhgP6DsaDO) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [壱雫空](https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf) | 3:09 |
-| 64 | [ヰタ・フィロソフィカ](https://open.spotify.com/track/2269kMzEYnMBbmLEkttAHf) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「わたしの幸せな結婚」エンディングテーマ「ヰタ・フィロソフィカ」](https://open.spotify.com/album/6Ac6IkgxkHbdlPBk1ZNXXu) | 4:41 |
+| 64 | [VITA PHILOSOPHICA](https://open.spotify.com/track/3y0kirXzZb5aXu5ccAbWU5) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TV SERIES ”MY HAPPY MARRIAGE” ENDING SONG](https://open.spotify.com/album/4MM3p5NVlZKRTlwkbPWTvK) | 4:41 |
 | 65 | [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 |
 | 66 | [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 |
 | 67 | [RAYTRACER](https://open.spotify.com/track/2UchNlw5klrKWrenq8nFAd) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [RAYTRACER](https://open.spotify.com/album/4PGV7wPMjgiv4j5GK7Gm8c) | 3:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 | 85 | [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 |
 
-Snapshot ID: `MCwwZGI2NTVhMDYzMDI5MzI5NGQ0MzM4NTNiOWE5MmJlNDUyYzhjYzJh`
+Snapshot ID: `MCw5ZmJlZGNiNjZlZDMxZDIyNDQ1NzBkNWFhYmJmNjE4Y2JjNTcwMGZl`

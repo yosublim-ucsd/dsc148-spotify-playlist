@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,821 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,828 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 |
 | 100 | [Orpheus](https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF) | 3:37 |
 
-Snapshot ID: `MCxjN2RhYWI3ZmI5ZWIxZWY1ODkwMmY0OWVmMmY2MGZkY2MyNjhmODQ1`
+Snapshot ID: `MCxlMjMxOTBhOTBlZmJlNDUzNDhkYTlmYzE5ZTZhODkwZTE5NGM3MmFl`

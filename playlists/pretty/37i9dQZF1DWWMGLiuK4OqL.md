@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,333 likes - 200 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,392 likes - 200 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Careless Whisper](https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7) | [Julio Iglesias Jr](https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Under the Covers](https://open.spotify.com/album/2n1QUTdi2StG378HUORudq) | 4:56 |
 | 200 | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2) | [Jazzy Sky](https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3) | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz) | 2:50 |
 
-Snapshot ID: `MCxkOGI3YTc4NmJmMjE3Y2Y0OTdkMjY5OTI1YmRiMjRlNzQ3YzhlYzBh`
+Snapshot ID: `MCwzYTRkOWI0YjJjNDFjMWM3ZjI0ZWU5OTg2ZjQ0MWI5Zjk0NTQ0MWY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,263 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,957 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 50 | [Action](https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Action](https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb) | 6:09 |
 
-Snapshot ID: `MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0`
+Snapshot ID: `MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Billy Currington
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,163,637 likes - 95 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163,809 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [What If I Never Get Over You](https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:26 |
 | 95 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 |
 
-Snapshot ID: `MCxkYWE2ZmQ3ZjllOTM5ZTg3YmZmYjdhYzY0NGU2MTdlZTgzMTRjOGMy`
+Snapshot ID: `MCwxZjE4NGM4MmZjMzg1N2I3NmE3YzQ4MjhjODk2NWQ0OTFmZjc2N2Nj`

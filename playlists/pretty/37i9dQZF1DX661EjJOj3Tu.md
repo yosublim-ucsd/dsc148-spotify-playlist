@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,579 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,682 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 92 | [Milonga gris](https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL) | [Carlos Aguirre](https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN) | [Caminos](https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI) | 3:58 |
 | 93 | [Brazilian Love Affair](https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:27 |
 | 94 | [El Grito](https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI) | [Jorge López Ruiz](https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf) | [El Grito \- Suite para Orquesta de Jazz](https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA) | 6:16 |
-| 95 | [Condiciones Que Existen](https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 4:05 |
-| 96 | [Sweet Cherry Pie](https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 6:46 |
-| 97 | [Don't Like Goodbyes \- Bonus Track](https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 6:47 |
-| 98 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:36 |
-| 99 | [Cuadra 11](https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU) | [Afro\-Peruvian Jazz Orchestra](https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL), [Lorenzo Ferrero](https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG), [Anibal Seminario](https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p) | [Tradiciones](https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm) | 4:51 |
-| 100 | [Guarachi Guaro \- Live](https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [Dizzy Con Clave: Live from Dizzy's Club Coca Cola](https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm) | 9:28 |
+| 95 | [Sweet Cherry Pie](https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 6:46 |
+| 96 | [Don't Like Goodbyes \- Bonus Track](https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 6:47 |
+| 97 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:36 |
+| 98 | [Cuadra 11](https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU) | [Afro\-Peruvian Jazz Orchestra](https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL), [Lorenzo Ferrero](https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG), [Anibal Seminario](https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p) | [Tradiciones](https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm) | 4:51 |
+| 99 | [Guarachi Guaro \- Live](https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [Dizzy Con Clave: Live from Dizzy's Club Coca Cola](https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm) | 9:28 |
+| 100 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 
-Snapshot ID: `MCw1ZjFkZWY5ZWZhNzcyNDRkNDY2NTk0ZTlmYjhmYTIwOTVkNDA4MmI2`
+Snapshot ID: `MCw1ZTc1OTk1ZTYzZjNkNjVmNjIyOGMyYjI5MzY3ZmUyMmMxNWJmMTM3`

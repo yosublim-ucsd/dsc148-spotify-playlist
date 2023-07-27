@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,472 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,542 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 22 | [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 |
 | 23 | [That's What I Like \- PARTYNEXTDOOR Remix](https://open.spotify.com/track/64TkpV7m7f09JY7K436pju) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [That's What I Like \(PARTYNEXTDOOR Remix\)](https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5) | 3:26 |
 | 24 | [FREAK IN YOU](https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:32 |
-| 25 | [Ballin'](https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:12 |
-| 26 | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G) | 3:08 |
+| 25 | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G) | 3:08 |
+| 26 | [Ballin'](https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:12 |
 | 27 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 28 | [Wouldn't Leave](https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:25 |
 | 29 | [Sex on the Beach](https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:49 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 47 | [Grown Woman](https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
 | 48 | [Don't Run](https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:03 |
 | 49 | [Friends \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/48yghmFphEYBqEUReolP8J) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:07 |
-| 50 | [TALK TO ME NICE \(feat\. PARTYNEXTDOOR & G\. Ry\)](https://open.spotify.com/track/61Vyop57eG1IhsKsBki7MT) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [G\. Ry](https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29) | [before.](https://open.spotify.com/album/3tWWzZK7i0lK6v0R6y6G7e) | 4:42 |
-| 51 | [Damage](https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:33 |
+| 50 | [Damage](https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:33 |
+| 51 | [TALK TO ME NICE \(feat\. PARTYNEXTDOOR & G\. Ry\)](https://open.spotify.com/track/61Vyop57eG1IhsKsBki7MT) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [G\. Ry](https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29) | [before.](https://open.spotify.com/album/3tWWzZK7i0lK6v0R6y6G7e) | 4:42 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBkYzNlMDNjNGVkMTIxOGNmZTJiOGIwZGU1Y2I5YjA0Ng==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA0MmViZmI5YTI5MWI2NDcwOTlhZDIxNjMzNjVhMTZkZg==`

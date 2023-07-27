@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,420 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,598 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 19 | [Youth](https://open.spotify.com/track/2G4l5sBOXBYY4EmnBBoG0H) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [・archive:EIEN19](https://open.spotify.com/album/4byUZtHuvqbeemGJEhKkuW) | 3:53 |
 | 20 | [Change](https://open.spotify.com/track/3zTk7svtTSSKQ3Zm5dlqNn) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Change](https://open.spotify.com/album/5NyrfCDB91UXG5kVREmVha) | 4:49 |
 | 21 | [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 |
-| 22 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 |
+| 22 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 |
 | 23 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
 | 24 | [Starlight](https://open.spotify.com/track/1z39usGi4dXhcBoGGJz97c) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Starlight / yoakemae](https://open.spotify.com/album/0UiMGbnQYzC9kQYTpoaG6r) | 5:17 |
-| 25 | [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 |
+| 25 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 |
 | 26 | [Reef Chorus](https://open.spotify.com/track/1NKE5EXQ6gucJtyl4WuLGJ) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Reef Chorus](https://open.spotify.com/album/5mX6krPHBq8N2NQP3LtXjK) | 5:59 |
 | 27 | [outside of the house](https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [outside of the house](https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX) | 5:22 |
 | 28 | [パンデミック](https://open.spotify.com/track/2yKphSroLPQ2vPZO5lcHqy) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 |
 | 100 | [さよならクレール](https://open.spotify.com/track/0vtywjF2euyyRUUJLMvirz) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:50 |
 
-Snapshot ID: `MCxhMzE2YzBlOTNkZTJlNGZjNWUzZGI3MzZlYzJmY2U4OWNmNGRjNjM4`
+Snapshot ID: `MCw2MDY5Yjc0MjhiZDM4OTlmZTE4OWY0ZWNmMzgzYjYyZjE0ZGI0ZDgx`

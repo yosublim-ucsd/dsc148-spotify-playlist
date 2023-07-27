@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: CLUBZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,116 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,148 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Un lazo rojo, un agujero \(feat\. Kase O\)](https://open.spotify.com/track/4tHXURNyAQZewk2LQI0YCE) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [¿Revolución?](https://open.spotify.com/album/2P3uyYjwyMjoVborBCWxEi) | 5:29 |
 | 100 | [Aunque nunca te lo diga](https://open.spotify.com/track/3bknyaIwxNamskujz37Gom) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Aunque nunca te lo diga](https://open.spotify.com/album/0csvMcIGbbqVdB3DHCw8X4) | 2:47 |
 
-Snapshot ID: `MCw5OTIxOTE1ZGVmZWJlZTYzNDZhOGI3NjEzMjk1ZmI4OWE4MjQyNjYy`
+Snapshot ID: `MCxjOTBhYzljZTRlMjExMzczOTFhY2I5MjgwOGEzZGRmMTk1YTc0NzVj`

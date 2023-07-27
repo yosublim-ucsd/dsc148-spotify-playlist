@@ -4,7 +4,7 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-106 songs - 7 hr 48 min
+107 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 | 2022-07-08 |  |
 | [Ships on the Ocean](https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr) | [Junior Wells' Chicago Blues Band](https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP) | [Hoodoo Man Blues](https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt) | 4:07 | 2022-05-27 | 2022-07-24 |
 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 | 2023-04-21 |  |
-| [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 | 2022-05-13 |  |
+| [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 | 2022-05-13 | 2023-07-27 |
+| [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 | 2023-06-30 |  |
 | [Someone Broke This Heart of Mine](https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Pretty Baby](https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ) | 2:15 | 2022-05-13 | 2022-07-28 |
 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 | 2022-08-19 |  |
 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 | 2023-04-21 |  |

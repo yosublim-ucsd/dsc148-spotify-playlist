@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,351 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,369 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Sweet Sweet Soul](https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti) | [大神 環 \(CV.稲川英里\)](https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U), [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7) | [THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody](https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH) | 4:52 |
 | 75 | [ラビットファー](https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [萩原雪歩 \(CV.浅倉杏美\)](https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh), [Makoto Kikuchi \(CV: Hiromi Hirata\)](https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv), [Iori Minase \(CV: Rie Kugimiya\)](https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd) | [THE IDOLM@STER MILLION THE@TER WAVE 03 Xs](https://open.spotify.com/album/6bRm5kHYUxrQIsLhVUn5oX) | 4:13 |
 
-Snapshot ID: `MCwyMGU2YWI2MDBmNjQ5NzAwZDE0ZGMzZjQ5NGYxNzE1YTdiZmM3Yzgy`
+Snapshot ID: `MCxlYTdhNGNhNDNlOWFmNzRkN2E5YjA2NjVmOTlhYjNlNjg1ODE3MTgy`

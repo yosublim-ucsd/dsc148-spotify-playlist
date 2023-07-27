@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 150151,
       "name": "aerobika",
       "url": "https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C"
@@ -16132,6 +16132,24 @@
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
     },
     {
       "album": {

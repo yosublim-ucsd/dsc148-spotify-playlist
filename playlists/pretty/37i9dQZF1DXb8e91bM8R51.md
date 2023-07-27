@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,602 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,638 likes - 120 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 |
 | 120 | [Free Promotion](https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Free Promotion](https://open.spotify.com/album/6grvETmkBJ7Q2GtVqqCHJw) | 1:52 |
 
-Snapshot ID: `MCxjMzJlMDNiYTZkMjYwYWQ4MzNlZTM4NzVmMDQ1ODdmNTRmZDQxZTlm`
+Snapshot ID: `MCwyYmYwYjRhYjY4YWJiNTlmYjNlMDNjYWVhOTJiOGEyYzZhY2Y1Yzll`

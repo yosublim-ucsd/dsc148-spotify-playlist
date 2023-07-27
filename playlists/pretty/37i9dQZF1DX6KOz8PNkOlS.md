@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,618 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,993 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Ocean](https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 4:21 |
 | 100 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 |
 
-Snapshot ID: `MCxmZTIyYzk5M2M4ZjdkNTVjMGJjNjRjZjlhNjZlYWZiMzM5MTgyNTA1`
+Snapshot ID: `MCwyMDM0MGI5YzMyMWMyY2I4YmFjNzg2ZTliYzlmYmQzODhhNTI3ZGZm`

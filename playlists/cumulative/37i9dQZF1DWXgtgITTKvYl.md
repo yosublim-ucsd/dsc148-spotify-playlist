@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-113 songs - 10 hr 6 min
+114 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 | 2022-05-20 |  |
 | [Sand Castles](https://open.spotify.com/track/61b16dlE40IM8FM6Gu9hH1) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Sand Castles](https://open.spotify.com/album/0oeoxRoLlixMZXxM6G60es) | 5:15 | 2022-05-20 | 2022-07-29 |
 | [Sand Castles](https://open.spotify.com/track/6OnldEmtrkeWxgPrkPhxwQ) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/5t4yOG7cuIj1yQdMxgpuQa) | 5:15 | 2022-05-20 | 2022-10-13 |
-| [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 | 2022-05-20 |  |
+| [Seed II](https://open.spotify.com/track/2AWtYbUSh7L41MyAuz8B5a) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/0P703q8UCvSzqECNm6zXqJ) | 3:20 | 2022-11-17 |  |
+| [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 | 2022-05-20 | 2023-07-27 |
 | [Shaping Mirrors Like Smoke](https://open.spotify.com/track/59NxjcwDh1fIZdmJx4NGus) | [Himmellegeme](https://open.spotify.com/artist/2zZSkbRgQir9MXLYmV3Aar) | [Variola Vera](https://open.spotify.com/album/1e7obwZMhNKs1uPrC4RTmq) | 5:47 | 2022-05-20 |  |
 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 | 2022-05-20 |  |
 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 | 2022-05-20 |  |

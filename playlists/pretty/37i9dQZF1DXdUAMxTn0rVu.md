@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,521 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,847 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Fortfied Live](https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mr Man](https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 5:11 |
 | 50 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 
-Snapshot ID: `MCwyMWM1NzNkZDhhMTU4MTZkZTNiN2FkZTk5ZmY2ZTk2ZmVjMGEzNWYx`
+Snapshot ID: `MCwyNWI5NWU4Mzg1YmE3NTI0ZWMwMDQzZWE4OWQ4NGQ5YmQ5NDc1NDVl`

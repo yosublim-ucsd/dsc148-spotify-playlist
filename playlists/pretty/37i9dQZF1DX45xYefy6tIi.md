@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,996 likes - 33 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,986 likes - 33 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 32 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 33 | [Homecoming](https://open.spotify.com/track/2BcbpKOj2vvG7GHXv6vKqN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 3:24 |
 
-Snapshot ID: `MCxkZTAyNjA5OTExNmUxNjdmZTE3YzcxZmY1ZTZlZTk1Y2NlOTc2NmFh`
+Snapshot ID: `MCxiMDA2NWJlNGZlMGJmZjI4ZjJiZTM4NDhjNzc5NzI1NzZmNDM4ZmJi`

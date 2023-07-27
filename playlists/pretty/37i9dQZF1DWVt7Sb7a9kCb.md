@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,693 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,720 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
 | 100 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 |
 
-Snapshot ID: `MCw2ZTM0MTY0ZDRhNzI3OGU1NThkZTY3ZTdlNDA2YTA4YWRjNWVmMmFi`
+Snapshot ID: `MCwyZDBiYTE2MzhiZmJkZWU0Mzk1ODRkYTJhYWE5ODhiNTYwYjVhNDE3`

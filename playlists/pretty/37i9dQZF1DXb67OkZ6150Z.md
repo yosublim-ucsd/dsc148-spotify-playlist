@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Discover indie covers\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,991 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,057 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
 | 100 | [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 |
 
-Snapshot ID: `MCxiMTNmZDE4NGEzMDBiYjAzZDg5MmIzZTcwMGJhYzc1MDc5ZjRkNmRl`
+Snapshot ID: `MCw5NjMxODE1OTJiYTM3ZTU0OTlhYTA3ZWFiMDhkYjVmMDk3ZDA4M2Rh`

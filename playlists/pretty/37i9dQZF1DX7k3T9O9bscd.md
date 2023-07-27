@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,576 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,774 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 99 | [Almost Everything](https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 4:24 |
 | 100 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 |
 
-Snapshot ID: `MCwyZmIyYjIxMThhYmZiMTVhMDY5MWNkZmM5NmZjOWUxZmFhZjc2OGZi`
+Snapshot ID: `MCwyMDkwY2U4MDBiYzQ0NWI3MTVlNjNmYjc3ODkwOTExZTI2NmQ2M2Qx`

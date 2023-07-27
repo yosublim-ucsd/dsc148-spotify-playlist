@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,178 likes - 150 songs - 16 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,213 likes - 150 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Shakar Wandaan Re](https://open.spotify.com/track/6nodKUGJaIO0fBtKZOuc93) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:53 |
 | 150 | [Khabaram Raseeda](https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 16:04 |
 
-Snapshot ID: `MCwyMDEzMzBhNGMyMDVjNjEyYmNiZjYwNDA2MDk1NDEwMmRhNDExMzQx`
+Snapshot ID: `MCw2M2Y0NmNhZmMyZjFlYjRiZGY5MDQ1ZDY4YmNhOWRmN2JmMzI4Mzhj`

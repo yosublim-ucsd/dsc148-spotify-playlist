@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,295 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,678 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [If You Were Mine](https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [So Warm](https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0) | 2:42 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MCwxZmFhNTI2OWVhZmRmODBkODNmNzg1ZDkwMTE2YzM2MzcwNDdiODNl`
+Snapshot ID: `MCxhMDk1OTFjNjBmZGExYzE3NDVjYmZmNWE2ZGIyYmFkM2JmNDY5Yzli`

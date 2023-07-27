@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,069 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,158 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Nothing But The Blood](https://open.spotify.com/track/5TpY5xqQ6YI00qx3LvbusQ) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Nothing But The Blood](https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH) | 2:33 |
 | 75 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 
-Snapshot ID: `MCw5MTk1YzI1ZWM2Yjc0Mjk4YTRmMTE5MmExNzMwYjcwMjZkNmJhZmI4`
+Snapshot ID: `MCxkNTY5Nzg4MGJjOTUzMDVhYmRjNGY5OGJiMmFlYzVkYjZkZjFkM2Fj`

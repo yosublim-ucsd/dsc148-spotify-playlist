@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,458,497 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,459,311 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i) | 2:18 |
 | 100 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 
-Snapshot ID: `MCwyOGMwYzkzMWY5ZWE2NGI2NjYyZDExMDc5NGU0NmIxNzMzMjM0MzJj`
+Snapshot ID: `MCxjNzk3MWUwYzY4NDJmZTY3ZDBlYWM3Njk0NjdlNWU2YTE0NTE0MjU2`

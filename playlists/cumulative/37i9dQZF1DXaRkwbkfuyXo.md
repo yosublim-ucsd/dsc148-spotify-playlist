@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-117 songs - 5 hr 43 min
+118 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ajustes Inzunza](https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:09 | 2022-03-07 |  |
 | [Al Estilo Mafia](https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Mi Estilo De Vida](https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW) | 2:27 | 2022-11-08 |  |
 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 | 2022-03-07 |  |
-| [Asociacion Antrax](https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [El Abogado del Diablo](https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3) | 3:32 | 2023-02-23 |  |
+| [Asociacion Antrax](https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [El Abogado Del Diablo](https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3) | 3:32 | 2023-02-23 |  |
 | [Así es Mi Cartel](https://open.spotify.com/track/3KpqNzebxPqY1YHQaGg9SN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Así es Mi Cartel](https://open.spotify.com/album/0LHwdWd68tpucRwMT2C27a) | 2:50 | 2023-02-23 |  |
 | [Barba Negra](https://open.spotify.com/track/2Ga6t9IYgpfzM9exjeTo8S) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 2:34 | 2022-03-17 |  |
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2022-03-17 |  |
@@ -61,8 +61,9 @@
 | [El Fp](https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6) | [Oscar Garcia](https://open.spotify.com/artist/1uy0dqC43A0d7K6yXTH7eP) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:24 | 2022-11-08 | 2022-12-03 |
 | [El Invalido](https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 2:44 | 2022-03-07 | 2022-07-29 |
 | [El Mensaje](https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 3:01 | 2022-11-08 | 2023-02-24 |
-| [El Mini 6](https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado](https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU) | 3:10 | 2022-03-07 |  |
+| [El Mini 6](https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado](https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU) | 3:10 | 2022-03-07 | 2023-07-27 |
 | [El Mini 6](https://open.spotify.com/track/09Js78HEZtObjYURe3tO58) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 3:08 | 2022-03-07 | 2022-07-29 |
+| [El Mini 6](https://open.spotify.com/track/7zb0RmTywqI6Y4ErGctRIw) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 3:08 | 2023-02-23 |  |
 | [El Mini 6 \[Explicit\]](https://open.spotify.com/track/5pL17O8VxcpmsKrEuCySER) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado \[Explicit\]](https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct) | 3:10 | 2022-03-07 | 2022-11-13 |
 | [El Mochomo](https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:32 | 2022-03-07 |  |
 | [El Mochomo](https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Más Impactantes](https://open.spotify.com/album/6n5t0vh961jJmlY8jivjw9) | 2:34 | 2022-03-07 | 2022-09-11 |

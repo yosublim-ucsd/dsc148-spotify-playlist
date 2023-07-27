@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,289 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,611 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 43 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 |
 | 44 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDBmMDlmMWU2NWQ1MzhiMjE3NDBhODc2YjEyMjFlYTg1NA==`
+Snapshot ID: `MjgxNzI5ODIsMDAwMDAwMDA5YjFjYjMzY2JkMWY1ZDA0ZTkwMjAzZDk4ZjU0Y2Q1OQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,881 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,905 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 |
 | 125 | [sex money feelings die \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 2:39 |
 
-Snapshot ID: `MCw4MWQ4ZmIzMjEwZWIyZWM0MzQ4MmZkYzY2NWNiMmZhYzJlMThmOWJj`
+Snapshot ID: `MCxjNmM0Y2FjMTA3NTg4MDFmODc0YTU4ZWZiZTdjYjBhNGUwZjNhMDVl`

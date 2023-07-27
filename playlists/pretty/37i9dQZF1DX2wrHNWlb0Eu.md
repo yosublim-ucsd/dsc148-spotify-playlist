@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,090 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,141 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 70 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 |
 | 71 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 72 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 |
-| 73 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
+| 73 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 74 | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/track/6d5a3i4bA9uGrmgZt1WR0d) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/album/6NzUzhfx9gpoPXhrABoWml) | 3:06 |
 | 75 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 |
 | 76 | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
 | 100 | [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 |
 
-Snapshot ID: `MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj`
+Snapshot ID: `MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3`

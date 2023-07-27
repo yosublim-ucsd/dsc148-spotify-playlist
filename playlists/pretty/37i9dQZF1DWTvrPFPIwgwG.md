@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Lauriete
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,833 likes - 85 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,968 likes - 85 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MCwwNjAwZDVhZTM3MDU1NTQ2ZWIwMzcyOGI3NmZkZTYwZTBlNDcwYzBi`
+Snapshot ID: `MCwxZDhiYmVlZmI5MmM5MTU2OTNmYzU0ZDU3ZDU1ZjRjYmZjMWNjY2Zm`

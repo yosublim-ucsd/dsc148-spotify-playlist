@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Travis Scott\)
 
-1,430 songs - 3 day 0 hr 46 min
+1,431 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Omarion](https://open.spotify.com/track/3o1sXTPmwxrsHUXgnbsdug) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Deltacron](https://open.spotify.com/album/3MWoKiMDYyehSuMn0spibu) | 2:43 | 2022-05-05 | 2022-06-03 |
 | [On My Way](https://open.spotify.com/track/1N52PJn3aAJUAafET6LnDD) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [On My Way](https://open.spotify.com/album/5fuxLL2VKGqdOv0qP9jD4u) | 1:59 | 2022-07-14 | 2022-08-26 |
 | [ON TEN](https://open.spotify.com/track/1Hdh6lJUR1WZCiNPVWxLTA) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ON TEN](https://open.spotify.com/album/7dsfBzyi25OojkxXIBbk9q) | 2:17 | 2022-06-23 | 2022-07-29 |
+| [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-26 |  |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-07-14 |
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-12 | 2023-03-03 |
 | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/album/4rs3oxnLGxXGFmDVdootNr) | 2:17 | 2022-02-24 | 2022-03-18 |

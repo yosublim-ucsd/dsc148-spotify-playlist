@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=LffdCU\-nReObp\_8lBgHXpA">Kingdmusic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,537 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,627 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 9 | [I Believe Yakata](https://open.spotify.com/track/2o6Kl2zJpuR6Bi3fjCm3RO) | [Cipeey](https://open.spotify.com/artist/0LbWza96JU2RDtaufGfBzX), [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Heaven's playlist](https://open.spotify.com/album/6qWJBnwBUULd3bXie95VOw) | 2:15 |
 | 10 | [My Devotion \- Live](https://open.spotify.com/track/1yxGk5nkQ6RgXRF5cJEatw) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [My Devotion \(Live\)](https://open.spotify.com/album/3Scf49ewy5dqnck7iFYVzT) | 9:01 |
 | 11 | [Testify](https://open.spotify.com/track/5Oep4LpOhQm0338vTTUhBt) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Testify](https://open.spotify.com/album/5AdjxSTcgCQffFltZmKlMM) | 2:37 |
-| 12 | [Makabongwe \- Live](https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Makabongwe: The Sound Of Revival \(Live\)](https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4) | 5:01 |
+| 12 | [Makabongwe \- Live](https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Makabongwe: The Sound of Revival \(Live\)](https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4) | 5:01 |
 | 13 | [FARAWAY](https://open.spotify.com/track/4sa4MQlHfm2n8EcFGCobcI) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [FARAWAY](https://open.spotify.com/album/7vzh1Y5yRLSXYyCBntsarr) | 3:15 |
 | 14 | [Sugar Daddy](https://open.spotify.com/track/55X5z1kyh1NZOz5zWdFCcn) | [DAVOMIKE](https://open.spotify.com/artist/2oVOSfJV3FyBDUER0O3rPq) | [Sugar Daddy](https://open.spotify.com/album/2LvthklclGZDuGBtwtpkYH) | 3:38 |
 | 15 | [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 21 | [Glad](https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glad](https://open.spotify.com/album/7mITioX67rSM0jokGL3XSI) | 2:01 |
 | 22 | [Free](https://open.spotify.com/track/41HYH4xwi9lv6ZiVsxTL3S) | [Lapel J Datpastorboi](https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6), [G ben](https://open.spotify.com/artist/7gxmVlZ8xqNzB9Sup3rh21) | [Free](https://open.spotify.com/album/6oeNMAEIvOiiPc4dRpwlkI) | 4:13 |
 | 23 | [Call Me](https://open.spotify.com/track/1kma02PdjAa0TkE68cgXAY) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Call Me](https://open.spotify.com/album/3msAxDfVBItlhhmAc3N9Jv) | 2:43 |
-| 24 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/0SJYU4h9zdAhdJb3vwp43U) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 |
+| 24 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 |
 | 25 | [Grey Is The New White](https://open.spotify.com/track/1y33Tdlnd5TT7p7Y5SvuKo) | [T\-Danso](https://open.spotify.com/artist/4uIplVsgSm9UaKgsboAPPg) | [Grey Is The New White](https://open.spotify.com/album/5EuA4H1keh9f8xCFUWmT0G) | 3:30 |
 | 26 | [Tudo o Que Sou](https://open.spotify.com/track/1dqywAyR0E5xasRAq9BWdA) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2), [Naielly](https://open.spotify.com/artist/0fNnCnzmzMDAmxUgPygioi) | [Tudo o Que Sou](https://open.spotify.com/album/3Dq6FiMfBjEgodbEsOWBBs) | 3:29 |
 | 27 | [Bijoux](https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Why Not](https://open.spotify.com/album/2Al5aGkwsloF2jOfRnnTnM) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [We Give You Glory](https://open.spotify.com/track/6Iw88a7ORvZWfRmphg627e) | [Minister Ogense](https://open.spotify.com/artist/2KRSmba65eENhcKye3LAsh) | [We Give You Glory](https://open.spotify.com/album/3DctwplBKCmJfJANyaxQxs) | 5:23 |
 | 100 | [Hallelujah anyhow](https://open.spotify.com/track/0Avf2VL3oZpbMHSy5idioX) | [Prophet Festus Akhidenor](https://open.spotify.com/artist/7lcPb5GGIGiv0haN07HFek) | [Hallelujah anyhow](https://open.spotify.com/album/394J2wiYWl6jNn8KzHYRD0) | 3:22 |
 
-Snapshot ID: `MCxmMmZkYWM5MmQyOGZmZWM2NzVlZTFmMWVkZTFlMjEzZjM3OWE5MGZi`
+Snapshot ID: `MCwwYzE0NGFmMjNmYTQ1NTAwYzZmYTkxNDMzNzQ3NDE3ZDgzNjA2OGU5`

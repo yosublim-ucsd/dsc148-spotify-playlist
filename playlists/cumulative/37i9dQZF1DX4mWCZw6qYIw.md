@@ -4,7 +4,7 @@
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-342 songs - 19 hr 20 min
+343 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2022-04-01 | 2022-04-10 |
 | [blind spot](https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [blind spot](https://open.spotify.com/album/3ZphzQmhpHU9LY4TrNcgbW) | 3:21 | 2022-04-01 | 2022-04-14 |
 | [Body on My Shoulders](https://open.spotify.com/track/0SfE3iGk2CVjpc2rjhOwDh) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Body on My Shoulders](https://open.spotify.com/album/7InJp897ynQkKsMpml1PRJ) | 3:44 | 2022-04-01 | 2022-04-12 |
-| [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-12-17 |  |
+| [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-12-17 | 2023-07-27 |
 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 | 2022-02-02 | 2022-04-20 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-04-01 |  |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-08-03 |  |
@@ -128,7 +128,7 @@
 | [Good Thing](https://open.spotify.com/track/6UNC7rT7DO5fjiVO4v7X3t) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Good Thing](https://open.spotify.com/album/6m84eHN3zYregRK2GY2JDX) | 2:39 | 2022-04-01 | 2022-04-20 |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2022-01-07 | 2022-07-26 |
 | [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:07 | 2022-04-08 | 2022-04-12 |
-| [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-12-17 |  |
+| [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-12-17 | 2023-07-27 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-12-17 | 2022-11-14 |
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2021-12-17 | 2022-07-09 |
 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 | 2022-02-11 | 2022-07-28 |
@@ -264,7 +264,7 @@
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-04-01 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-09-10 |
 | [Sign of the Times](https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sign of the Times](https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR) | 5:40 | 2022-04-01 | 2022-04-20 |
-| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-04-01 | 2023-07-25 |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-04-01 |  |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-22 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-17 |  |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-09 | 2022-04-21 |
@@ -321,6 +321,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-04-28 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2022-04-01 | 2022-04-19 |
 | [Upgrade](https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Upgrade](https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e) | 2:37 | 2022-04-08 | 2022-04-12 |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-26 |  |
 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 | 2023-02-25 | 2023-03-14 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-04-08 | 2022-04-20 |
 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 | 2022-04-01 | 2022-04-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,846 likes - 114 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,869 likes - 114 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
 | 114 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 |
 
-Snapshot ID: `MCxlNDZjMjMwOGQyZTQ0MmY1MmU2OTk3Njc1NjlhZWM2YzNlM2NkOGE5`
+Snapshot ID: `MCw5MmM2ODIxMWI0MDZiNWM5NDZlNmRkZjU3MjkxNDFkZjgxODQxNGE5`

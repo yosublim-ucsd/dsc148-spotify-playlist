@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,274 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,277 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 17 | [Lay Me to Rest](https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Lay Me to Rest](https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO) | 3:39 |
 | 18 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
 | 19 | [Wake Me Up](https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:49 |
-| 20 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 |
-| 21 | [Licking on a Knife for Fun](https://open.spotify.com/track/7dva5TF6de5kEEO6E63s8c) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Licking on a Knife for Fun](https://open.spotify.com/album/6YLu3SPZRdXbxfW4VP5NUk) | 3:01 |
+| 20 | [Licking on a Knife for Fun](https://open.spotify.com/track/7dva5TF6de5kEEO6E63s8c) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Licking on a Knife for Fun](https://open.spotify.com/album/6YLu3SPZRdXbxfW4VP5NUk) | 3:01 |
+| 21 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 |
 | 22 | [If Your Looking for Your Knife...I Think My Back Found It](https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:20 |
 | 23 | [Evil Anonymous](https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Evil Anonymous](https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS) | 2:56 |
 | 24 | [Middle Seat Blues](https://open.spotify.com/track/4HJJyFnQKbGwPYpWCuhGqv) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Middle Seat Blues](https://open.spotify.com/album/1CyQE3ghzFgt9RBF1Ga6R4) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 49 | [Broadcast To The World](https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:16 |
 | 50 | [Out of Time](https://open.spotify.com/track/70fXq5ZlK9MYEuoHLuD6Na) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Out of Time](https://open.spotify.com/album/7IWrIlIVDc6wDioyrU3lN7) | 2:47 |
 
-Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDA3MTI0Y2FmYzU5MjA1NmVkODZkMWEyZDRkYjc5MjYyNQ==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDAyZTNmMmYxNWMxODlhYzAxMDIzYmFjZTY3ODZjMTE2NQ==`

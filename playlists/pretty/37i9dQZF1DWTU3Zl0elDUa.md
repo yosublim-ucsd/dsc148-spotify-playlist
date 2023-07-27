@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,509 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,838 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
 | 60 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 
-Snapshot ID: `MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0`
+Snapshot ID: `MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw`

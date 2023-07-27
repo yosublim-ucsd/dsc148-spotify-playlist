@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,100 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,164 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [Ven Conmigo](https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:26 |
 | 120 | [¿A Dónde Se Marchó El Amor?](https://open.spotify.com/track/6viyWSlzi7mHlxUfF6H9rR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:17 |
 
-Snapshot ID: `MCw0ODliOTk3MjQ1NmQ5ZDExMTg0MGVlYjU0ZGExODI1M2Q3M2EwYTc5`
+Snapshot ID: `MCwyNzQyZWMzZWVkMjBiMWM4Yzc0NGY3YzNkN2I2NTY3NWVkNTFiMGZm`

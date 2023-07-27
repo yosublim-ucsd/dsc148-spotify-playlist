@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,069 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,126 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
 | 94 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
 
-Snapshot ID: `MCwzMTczNzRhOGY1YjMxMjk0YTNjY2EyMGI1NDY4NGI1OTEyMTAwOTVm`
+Snapshot ID: `MCwwZTBmNjliMzIxYzg0ZDBiZWZlYjEyMDI3ZjlkNGEwOTE3YzUyNzcx`

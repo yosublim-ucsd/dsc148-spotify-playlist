@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto:
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,230 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,611 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Todo Me Recuerda a Ti / Después de Ti / Dale Mami](https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [El 22](https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF) | 8:00 |
 | 100 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 
-Snapshot ID: `MCxhZWYyMmRhNzQ0YmYyZmNhNWNhOTY1M2U0NWMxYjNmMWE5ZjNkNTdm`
+Snapshot ID: `MCwyODBhNWZhNWY5MmViODUxZjA4Y2JjMTlhNGVjNGE1OTNhNDgxODA0`

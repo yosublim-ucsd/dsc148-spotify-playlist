@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: クレナズム
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,524 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [8月31日](https://open.spotify.com/track/3h5BPNLT07GCAt2wcBZH7p) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8月31日](https://open.spotify.com/album/58nBmScZd40hZJ7T9N3Rdo) | 3:08 |
+| 1 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 |
 | 2 | [カナヅチ](https://open.spotify.com/track/4LaEWDdKrmU2x3BXMvjSDB) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [カナヅチ](https://open.spotify.com/album/5OVzZm40lG4u43p0XBcYfm) | 3:33 |
 | 3 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 | 4 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 70 | [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 |
 
-Snapshot ID: `MCw1YTY2NmYzMjliNWMwMjY3YzYyMjJiMTMxM2U0OGI4YzMxMTc0MGQy`
+Snapshot ID: `MCxiZGRmYjJkYzgyY2JhZmMwZmVhYTE0MmY0YmU0ZDg4MTRmZDcwZTZk`

@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. poppy
 
-591 songs - 1 day 3 hr 52 min
+592 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 | 2023-07-07 |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |
+| [cursed angel](https://open.spotify.com/track/4pydYArxjKWJlEiv0XEo8K) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [cursed angel](https://open.spotify.com/album/5gmokIT1CReABvOdt1YGpI) | 3:45 | 2023-07-20 |  |
 | [CUT](https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CUT](https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O) | 2:58 | 2022-01-19 | 2022-07-08 |
 | [Cut It](https://open.spotify.com/track/380qafcE09hZXE5g5ubju9) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Cut It](https://open.spotify.com/album/6VNsH5eNH0HYI6UHJNiGl9) | 2:58 | 2023-01-27 | 2023-03-10 |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-09-01 | 2022-10-14 |

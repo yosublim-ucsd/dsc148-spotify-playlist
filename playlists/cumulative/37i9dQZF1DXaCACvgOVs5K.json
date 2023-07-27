@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 228216,
       "name": "D\u00d3NDE EST\u00c1",
       "url": "https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj"
@@ -1400,6 +1400,24 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
+        "name": "Glow / Void",
+        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
     },
     {
       "album": {
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
@@ -1873,6 +1891,32 @@
     },
     {
       "album": {
+        "name": "Let It Go (with Marc E. Bassy)",
+        "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Let It Go (with Marc E. Bassy)",
+      "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
+    },
+    {
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1944,6 +1988,32 @@
       "duration_ms": 225494,
       "name": "LET\u2019S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6"
     },
     {
       "album": {
@@ -2268,7 +2338,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 153547,
       "name": "Memories (Burning in Time)",
       "url": "https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo"

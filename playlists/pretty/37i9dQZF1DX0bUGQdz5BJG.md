@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,669 likes - 207 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,707 likes - 207 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 119 | [Hold On To Me](https://open.spotify.com/track/3dALeQZ6Uwp9vuVaCMB51b) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Hold On To Me](https://open.spotify.com/album/4aDGgNHOR5Fyb11UhQEJ5t) | 3:19 |
 | 120 | [Come a Long Way](https://open.spotify.com/track/4ZVB3sYAsN7F94o27iBzkZ) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Come a Long Way](https://open.spotify.com/album/20Jmyhiyx7CuhCOa0FxzDp) | 3:07 |
 | 121 | [Throw You Back](https://open.spotify.com/track/4SEqC1sPuPob2qB9huDhhd) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 2:35 |
-| 122 | [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 |
+| 122 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 |
 | 123 | [For The Streets](https://open.spotify.com/track/5tROWQU6vABrC3acyyV7vS) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [For The Streets](https://open.spotify.com/album/6VMVB69fgbERk8zYGN55f2) | 2:45 |
 | 124 | [Anybody But You](https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:05 |
 | 125 | [Grew Up Country](https://open.spotify.com/track/4rLuT5hLEA3rAvHAFLglze) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Grew Up Country](https://open.spotify.com/album/5IoCgdWyeILZRHF6r2lYHH) | 3:16 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 206 | [Stranger](https://open.spotify.com/track/10RtSGZV9YgUICMOKdynY0) | [Cassie Cenzano](https://open.spotify.com/artist/6Gtm8eyXjLSXaTo9YGU98D) | [Stranger](https://open.spotify.com/album/118ixOSc2tdqJufYiZpgrs) | 3:17 |
 | 207 | [Adam's Song](https://open.spotify.com/track/5J5YyGh055rlYQMq298bz9) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Angst](https://open.spotify.com/album/1VoaFBLj3xWmGXzARjTpQT) | 2:26 |
 
-Snapshot ID: `MCwxYWE2Y2ZiZmQ0YzczMzJhOTU4OTY2NGM4MzJlN2I2ZjA2ZGVmMmY3`
+Snapshot ID: `MCwxZDQ1MGIzNzM2ZTdiNjgzNTk3NzZjNmRiNWJmYjE4NWUzYTIxNDQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,544 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,579 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MCxlYTljODk1YmY1ZDJhYWMwNThjOGViZWFhM2RiM2ViMDVhMTA5NGM2`
+Snapshot ID: `MCwxYjcxN2Q5NTkyY2IzN2NiMTdhODQ0NzFhOWE3NWYyMWI4YTczODJj`

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Shawty lo que necesitas es darle flow\. Tainy y Bad Bunny en Portada.
+> Shawty lo que necesitas es darle flow\. Quevedo en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,714 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,824 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
-| 2 | [Baja Sube Sube](https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Baja Sube Sube](https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM) | 3:31 |
-| 3 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
-| 4 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
-| 5 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
-| 6 | [UY \(feat\. Milo Mae\)](https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [UY \(feat\. Milo Mae\)](https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg) | 2:35 |
-| 7 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
+| 1 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
+| 2 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
+| 3 | [Baja Sube Sube](https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Baja Sube Sube](https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM) | 3:31 |
+| 4 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
+| 5 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
+| 6 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
+| 7 | [UY \(feat\. Milo Mae\)](https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [UY \(feat\. Milo Mae\)](https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg) | 2:35 |
 | 8 | [EL VIBE](https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [EL VIBE](https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8) | 2:51 |
 | 9 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
 | 10 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 99 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 |
 | 100 | [Anoche llamé](https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Legarda](https://open.spotify.com/artist/3XC7vn6odSKiwiRDloI9Vs) | [Anoche llamé](https://open.spotify.com/album/3BuaUFvRBxVEeRoHvYsG1i) | 2:22 |
 
-Snapshot ID: `MCxjMWZlMzAwMzVhNTIzMDYzOGJhMGEwNTU5NjNhMmFhODg2YzUzOWNh`
+Snapshot ID: `MCxmMGNmYmJiZWQ1MGVhNzFjMDE4NmZhMWE2ZGQ5YmVkOTI1YTE0ODYx`

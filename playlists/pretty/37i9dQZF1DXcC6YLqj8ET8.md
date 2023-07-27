@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,904 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,995 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 54 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 |
 | 55 | [Iridescent](https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Iridescent](https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig) | 2:56 |
 
-Snapshot ID: `MCwzNjg2NDRlYTZhZTM0YjRhYjgzZTI1NDcxMjc5ZWFhNmFlNzQ5Yjky`
+Snapshot ID: `MCw2ZjJmNjRlYzUxZDM4MGY1Nzc0NWRhNDkzM2NmODkwMjhmYWExZTQw`

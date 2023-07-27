@@ -1,12 +1,12 @@
 {
   "description": "All the indescribable feelings that music gives you. Lil Yachty's psych album >",
-  "num_followers": 1097374,
+  "num_followers": 1097467,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTYwYzE2OWZkNjIwZjViMDJmNDFhOTQ0YTFlY2Q3MWMwMWUyNjc3",
+  "snapshot_id": "MCxjOWI3Y2Q4ZTFhZWE4MTJjZGQxNDVmNDM3NTI4NDVmYmMzNDg4YTVm",
   "tracks": [
     {
       "added_at": "2023-01-27 20:16:55",
@@ -119,6 +119,22 @@
       "duration_ms": 189882,
       "name": "Sweet Bonita",
       "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
+    },
+    {
+      "added_at": "2023-07-26 16:49:48",
+      "album": {
+        "name": "Cheapshot",
+        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "duration_ms": 100593,
+      "name": "Cheapshot",
+      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
     },
     {
       "added_at": "2023-06-30 04:05:22",
@@ -1323,22 +1339,6 @@
       "duration_ms": 256689,
       "name": "Margo",
       "url": "https://open.spotify.com/track/05DNJG679u0mGj81fcBXFA"
-    },
-    {
-      "added_at": "2023-02-08 17:16:44",
-      "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
     },
     {
       "added_at": "2023-05-12 04:00:00",

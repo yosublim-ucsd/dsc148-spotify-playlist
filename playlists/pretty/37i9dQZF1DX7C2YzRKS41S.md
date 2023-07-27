@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,186 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,289 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
 | 60 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 |
 
-Snapshot ID: `MCxjOTg1NTI3ZTg4OGEzMTVhZDU5NTQ2OGM0ZTUwNGE0YzQyZTJjYWY1`
+Snapshot ID: `MCxiNWJkNDRlNWJlMzAxOGM3OWYxM2Q0NjNiZTU1MDEwZjVkZTZhOWQ3`

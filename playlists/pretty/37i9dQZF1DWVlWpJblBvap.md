@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,739 likes - 80 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,972 likes - 80 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
 | 80 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
 
-Snapshot ID: `MCw2YzQ1NGFjMzMwYzRlMTU1MmFjNjQ5MmFjOGJiZWI0NDkxN2ZlNmE0`
+Snapshot ID: `MCxiMDJlZGE3MmMxYWE4NmU5YzVjMzgyMzI1M2QwMjlhNGY0NDI1ZjM4`

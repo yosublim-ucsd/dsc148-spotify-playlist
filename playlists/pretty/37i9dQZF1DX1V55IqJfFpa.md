@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Dua Lipa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,180 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,706 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 100 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 
-Snapshot ID: `MCw4NjhhY2RmMWU4OWJmMGEwNDNiYjFjYzQ3NzkwNjk4MWFmMTU2M2Y0`
+Snapshot ID: `MCw0YTJlY2Y0NDkzNmM5NWZjNTdmMzIwYWFlYjgyZjNhZmI1YzA3NDk1`

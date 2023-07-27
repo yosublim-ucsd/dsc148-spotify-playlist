@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,494 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,526 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 |
 | 100 | [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 |
 
-Snapshot ID: `MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj`
+Snapshot ID: `MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj`

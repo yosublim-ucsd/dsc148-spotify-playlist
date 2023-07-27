@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Davi Sacer, Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,730 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,014 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 |
 | 70 | [Descansarei \- Ao Vivo](https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6) | [Ronaldo Medeiros](https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe) | [Promessas](https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2) | 6:27 |
 
-Snapshot ID: `MCw2NTFhYmVhNzM1MGY2MjI3MzRiZWVjNTU1ZTdiMzFlZWQ4ZDQ1NGY4`
+Snapshot ID: `MCw0NGMxNzYyZTg1N2NmMWUzOWRkNjQ5NWZhY2Y2NzYyZWNhZGViMTQ4`

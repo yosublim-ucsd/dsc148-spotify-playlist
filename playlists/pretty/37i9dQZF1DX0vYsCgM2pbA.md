@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,644 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,653 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 |
 | 60 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
 
-Snapshot ID: `MCxkOGUyOGQ0OGNmMTNiYzU2N2ZiMWU1Yzk0ODUyMTkwNzcxMmRiMGYw`
+Snapshot ID: `MCxjMTkzNjViMGFjMDE5MGJjNDYwMzY5MDM2NDlmMTMwMmQ2ZWU1MGQ1`

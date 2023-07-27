@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,359 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,407 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
 | 50 | [Insegurança](https://open.spotify.com/track/1a3RCKohK84mXO8GmlcfXb) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Insegurança](https://open.spotify.com/album/1IbDGV9gKwVftBV6JXCA6t) | 3:12 |
 
-Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`
+Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`

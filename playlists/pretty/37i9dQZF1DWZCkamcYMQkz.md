@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,302 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,602 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 100 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 
-Snapshot ID: `MCwyMjA5NDcxNWU3ZjA4MGVkMmZlZDM3NDMzMjJlZjJjZTVhYmVlZWI4`
+Snapshot ID: `MCwxN2YwOTc3MWZmNDk1ZGJkMjI4MjljNGY5YmU0YzA4MzVhNDc0Yjk4`

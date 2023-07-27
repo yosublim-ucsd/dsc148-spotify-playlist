@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,469 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,576 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 |
 | 100 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 
-Snapshot ID: `MCwwYWRiMmU5ZjA2MGViMTU3Y2Y4NWQzMTdhYmMwMjQyZjA3OWFhZTkx`
+Snapshot ID: `MCxmOWIxY2JiMjgyMWUwZjhhZGYwZTEyYTVmMDFiN2EwNmNjZGJiY2Zk`

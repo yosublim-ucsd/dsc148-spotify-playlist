@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,625 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,618 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
 | 55 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 
-Snapshot ID: `MCxkYzk3ZjgzMDkwMjAwNGNjZDA2MTVhNzIxODgyNjIzZmI0YjFkMDIx`
+Snapshot ID: `MCw1MTE5ZDBhOGJhOWU5ZTU1NjQzZWFmNTFjOThkYTdiMWQ4YWY4MDAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,298 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,490 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 | 99 | [Only Girl \(In The World\)](https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 3:55 |
 | 100 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 
-Snapshot ID: `MCw3ZGU4YTk2MzU2MzI3OGRkMGVhYjQ4MDMxNTlhZmU2NjViYzdiMzcx`
+Snapshot ID: `MCxmMzgwMmQzMTA0MDY3MWY0MGU5YTNiMTNkNDA0ZjVlZWVhNGQ2YjI4`

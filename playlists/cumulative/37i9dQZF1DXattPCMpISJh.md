@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-214 songs - 13 hr 32 min
+215 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-14 |  |
 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2023-04-30 |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 | 2023-04-09 |
-| [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 |  |
+| [Lost & Found](https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/4ASxmYeXQfUMcaDAxAgx2a) | 3:59 | 2022-11-25 |  |
+| [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 | 2023-07-27 |
 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 | 2022-05-20 |  |
 | [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 |  |
 | [Love Like That](https://open.spotify.com/track/4SeRgGadREC8IIbRuhs6Rd) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Love Like That](https://open.spotify.com/album/4mYaGC7BV3dTYtS6c34ftw) | 3:18 | 2023-03-10 | 2023-04-01 |

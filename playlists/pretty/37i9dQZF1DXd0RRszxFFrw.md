@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,925 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,949 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Dos Gardenias](https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Sol Naciente](https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ) | 3:33 |
 | 75 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 
-Snapshot ID: `MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4`
+Snapshot ID: `MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5`

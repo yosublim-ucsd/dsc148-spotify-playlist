@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,294 likes - 33 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 3 | [Oh My Goodness, Look At This Mess!](https://open.spotify.com/track/0f9SOXX5YZr7NEMIjlIrWl) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [Still The Same Me](https://open.spotify.com/album/1i33KQ49Ns9MCvkLHpGOvP) | 3:19 |
 | 4 | [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 1:33 |
 | 5 | [Put Them Away](https://open.spotify.com/track/76KL8ox8hfLZiNQ8QW6fNh) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Useful Songs for Little People](https://open.spotify.com/album/44nDe0SKcKPjGCwY7qSJ7G) | 3:02 |
-| 6 | [Clean Up](https://open.spotify.com/track/75gisOvXlUiZPB75G6ppWP) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids \(Junior\)](https://open.spotify.com/album/4BrZmS5VWV1QaGfKhQQdSO) | 2:20 |
+| 6 | [Clean Up](https://open.spotify.com/track/37dK47kxSPuKX7x7KAVhgq) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids](https://open.spotify.com/album/4bkiDGpX8AfK7foUCqNG2G) | 2:21 |
 | 7 | [Clean Up](https://open.spotify.com/track/0t1rkqsHhGf4JsZycaeNSs) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:51 |
 | 8 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 |
 | 9 | [Tidy Up](https://open.spotify.com/track/7rTG4TBax6vBcpbjSdAsLK) | [nick cope](https://open.spotify.com/artist/6RR9MIMTusJiW4XvJRjWRa) | [Why Is the Sky Blue?](https://open.spotify.com/album/2dgAAfKWHxHVuLHRB0NT26) | 3:58 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 11 | [My Work Song](https://open.spotify.com/track/4bWwoFYZUgIuzUe3KKG1y8) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [My Work Song](https://open.spotify.com/album/5m0w3zluNs5EnMWpDV2lKJ) | 1:55 |
 | 12 | [Pack It Up](https://open.spotify.com/track/5vW3Hf45hQb6x2dkez2G6v) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:59 |
 | 13 | [Clean It Up](https://open.spotify.com/track/240jwZegpLXJzrxrYMCBuz) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 1:23 |
-| 14 | [Tidy up Song](https://open.spotify.com/track/2AwKs2JAHuDBBvpvARB1J1) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That! \(Kiwi Songs for Kids Under 7\)](https://open.spotify.com/album/5oCjNXxxxWFRHySLIgTkBg) | 2:32 |
+| 14 | [Tidy up Song](https://open.spotify.com/track/0cSjY0qsgy6Ti90Gjc442f) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That!: Kiwi Songs for Kids Under 7](https://open.spotify.com/album/3FwcrMH4eVhspum2Ib6jPv) | 2:32 |
 | 15 | [Cleanup Time](https://open.spotify.com/track/3VrfXKrVMQZ77LDWMtF0qH) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask the StoryBots: Season 1 \(Music from the Original Series\)](https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv) | 1:09 |
 | 16 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 |
 | 17 | [Clean up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 32 | [Cleaning Up Is Fun](https://open.spotify.com/track/3FvjTQN8pgwcXRHlywrSET) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 2:17 |
 | 33 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 |
 
-Snapshot ID: `MCxjNTI0NWNhZjVjNjZiNDZmYTA5ZGU1NTY2NWY4MDNkZjc4Y2QyY2Fk`
+Snapshot ID: `MCxkMzc2MDUxNTgwZWZmNDBkZjdkMGM1YWVjNTkxMzIxNmE5ODhlMzg4`

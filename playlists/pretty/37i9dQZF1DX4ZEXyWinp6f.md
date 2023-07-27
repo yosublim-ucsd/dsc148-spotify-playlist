@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,903 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,007 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [Floe \(Remix\) \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/track/4dcXDL3703XHNYdqbOxY1U) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1) | [Glassworks \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/album/0AyAlM9IKZuvgADNBS3JJD) | 6:00 |
 | 75 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 |
 
-Snapshot ID: `MCwzZTRiY2UxMWI4NGU4ZDVjYTVkYzIxYWM4M2E5Y2QwMzcwMjJhYWJk`
+Snapshot ID: `MCw2OThkMmUyYzQ3OTJiZjhiOTAzZmQ4NzIzNGVmNDA4ZGViOWZmOGUz`

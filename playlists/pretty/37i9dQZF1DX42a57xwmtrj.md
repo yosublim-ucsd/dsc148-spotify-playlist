@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,972 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,029 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Me Gusta Tu Chava](https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0) | [Mara](https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA) | [Para Coleccionistas, Vol\. 1](https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf) | 3:22 |
 | 75 | [La Maquina Del Tiempo](https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 4:42 |
 
-Snapshot ID: `MCwwZmRlNTg5ZTE4YTQwYmYxZGU4NjlkYTg5MDc1MTc1N2NiNjFjYTU5`
+Snapshot ID: `MCw4YWVmODI2OGQ0NDc4ZTkyMTNmODNhYmU1NTBiMjg5NmU3ZTgyOWYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,627 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,722 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 29 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 30 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 |
 | 31 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
-| 32 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 |
+| 32 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 |
 | 33 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
 | 34 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 |
 | 35 | [Palm Beach](https://open.spotify.com/track/2ltjgZUx2DgxdYGxuyhNAd) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 |
 | 150 | [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 |
 
-Snapshot ID: `MCw5NzUxNWQ5MDU4MDRjNmYzMmYzZDNiYmQ4YmU4NGI5YjQ4ZTk2YmE3`
+Snapshot ID: `MCwxYjY0MjM4OTM5ZTYzYmUzNzk5YzgwNTU0OTM3MjUyOTI3ZjNjOWQ4`

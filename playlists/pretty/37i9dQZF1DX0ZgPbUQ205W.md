@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,097 likes - 200 songs - 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,128 likes - 200 songs - 13 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Thatpujai](https://open.spotify.com/track/78lT7snYf0taubeiQPOe6B) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [Sooner And Later](https://open.spotify.com/album/4fcI5BnN3OHsmH5YsFJUey) | 4:56 |
 | 200 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 |
 
-Snapshot ID: `MCxkYjMxNjhmMGZkMjY4NGY5NWI2ZTdiYzhhMWI3NDQ3NmMxNWQ5MzNl`
+Snapshot ID: `MCwyMDI1Y2RmYWY5OTZjMGIyMDgwZmVmNmE2NzJlZDc3OTUwYjJlMjk1`

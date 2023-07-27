@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Flavia K
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,820 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,823 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [se você quiser](https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [se você quiser](https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE) | 3:44 |
 | 75 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 |
 
-Snapshot ID: `MCxlNTM3ZTEzNjI3MGM1OGZlNjU2NzEwOTQyNjVkNWQ5YmZjMWIzZmRh`
+Snapshot ID: `MCwzZjM4MDc1ZGE4YWViMTdiM2MxNWVlODc5NDQ3ODMzMjFhOTQ1Yzhl`

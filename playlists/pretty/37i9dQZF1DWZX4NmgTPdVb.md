@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,893 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,234 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 74 | [Hooked On A Feeling](https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling \- 40th Anniversary Collection](https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ) | 2:52 |
 | 75 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
 
-Snapshot ID: `MCw2OGM2YjRlMDYwY2FkZDBjZWVkZjgzMTI4ODM1NzQwYzhjZmNmOGY4`
+Snapshot ID: `MCw0NDVlMjAwMzE4MmI1ZjBhNTYzZDQyYjA5ZWMzNmRkNTY2NDc4Nzgw`

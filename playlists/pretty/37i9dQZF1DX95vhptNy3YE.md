@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,359 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,612 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 |
 | 50 | [Carta para mim mesma](https://open.spotify.com/track/6zCdC1Pr0eQADvSOPKUMR6) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Carta para mim mesma](https://open.spotify.com/album/3xCLWp2w1Lo921szlsz5cc) | 3:20 |
 
-Snapshot ID: `MCw4OWEzNTk5MjdhOWJjZjQwNzMzZWQ1ZTgzODI1MmY4NzIyOTBkZGIy`
+Snapshot ID: `MCw2MWE1YTFiODhlODdiNDg4MTRlYTUyM2ZmNGVhYzg1MjlhYTA2MjI1`

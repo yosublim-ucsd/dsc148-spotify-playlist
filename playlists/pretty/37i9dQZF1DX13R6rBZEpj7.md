@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,493 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,543 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 7 | [Murderation \(4 The Bristol Crew Mix\)](https://open.spotify.com/track/6ml84UdI1d9SWS9e9wwxXW) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Murderation \(4 The Bristol Crew Mix\)](https://open.spotify.com/album/1uZoCkofZrFt0bh1Y7ia0S) | 7:49 |
 | 8 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 |
 | 9 | [Tune](https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Pressure Drop](https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB) | 3:08 |
-| 10 | [Rush](https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Rush](https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp) | 3:52 |
+| 10 | [Rush](https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:52 |
 | 11 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 |
 | 12 | [Who's Got The Bag](https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Who's Got The Bag](https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ) | 2:45 |
 | 13 | [Boozy](https://open.spotify.com/track/4wjU886A1G17FUBXmbADAC) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Boozy](https://open.spotify.com/album/7zF09xOsSQOlonOY2OFW0S) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 |
 | 70 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 |
 
-Snapshot ID: `MCwyMThmZDhiNDUxMDk1NGEzNDMzNWQ1NmY0NjgyNzdjZDk1ZThhM2U4`
+Snapshot ID: `MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl`

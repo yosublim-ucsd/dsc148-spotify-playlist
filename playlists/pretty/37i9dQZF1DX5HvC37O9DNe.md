@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > Semplicemente noi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,579 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,605 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 74 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 |
 | 75 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
 
-Snapshot ID: `MCw2MDAzOWVkOTY1YmM4M2FiZTRjMzFmZGRmMGEwOTU1ZTJhMTMyM2Rh`
+Snapshot ID: `MCw4MDExMTY2OTdiNjk1OThmZGMzMTM4NGI5ZTUxOGM3YjQxMzU2ZGZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles, Margem Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,451 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,510 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Todo Meu Viver \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Cristiano Halabi](https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M) | [Todo Meu Viver \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw) | 3:17 |
 | 80 | [Te Encontrar](https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV) | 2:47 |
 
-Snapshot ID: `MCw2YTNhMmRjODQwNDQyODFhMGFjODA4MTYxYzg3ZTkwNjg1OGYwOTI5`
+Snapshot ID: `MCxlYTVlZDg5YTNlNWFjYWEwYWZmZGU4OTFmY2FiNDBmODFmMDEzMzQ2`

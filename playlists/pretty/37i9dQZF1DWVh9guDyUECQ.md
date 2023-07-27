@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,661 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,715 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 | 100 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
 
-Snapshot ID: `MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy`
+Snapshot ID: `MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm`

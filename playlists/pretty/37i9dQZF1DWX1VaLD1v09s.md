@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,727 likes - 150 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,721 likes - 150 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [He's Not Here](https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:02 |
 | 150 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
 
-Snapshot ID: `MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0`
+Snapshot ID: `MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,811 likes - 250 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,866 likes - 250 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 |
 | 250 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 |
 
-Snapshot ID: `MCxjYzY1OWI5ZTM0NjQyNmJlZTNmYWM3YzIxOGQ2MzdkNTEyNDJkMDY0`
+Snapshot ID: `MCxiY2EwY2M0ZDVjYTdhZWRkOWEwZjE2MzA2ZjQ2YTk3MjQzNjEzYWQy`

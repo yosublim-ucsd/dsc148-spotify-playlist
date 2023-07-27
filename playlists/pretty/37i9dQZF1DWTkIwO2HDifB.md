@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Novidade Na Área e os funks mais 🔑 do Brasil\. Foto: MC Livinho, DJ Matt D
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,802,105 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,805,755 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 19 | [Pocotó](https://open.spotify.com/track/1i2a45FtiXmX0unBj3CXB4) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Pocotó](https://open.spotify.com/album/4qNYDA6tQionidSDxgsNpL) | 2:44 |
 | 20 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8) | 3:17 |
 | 21 | [Terror da Cidade](https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Terror da Cidade](https://open.spotify.com/album/3Y5GTDoyf5CiaDIwlYOYWF) | 3:06 |
-| 22 | [Halls na Língua](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
+| 22 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
 | 23 | [Quebra Cabeça \- Spotify Singles](https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Quebra Cabeça \- Spotify Singles](https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT) | 2:16 |
 | 24 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
 | 25 | [A Semana Inteira](https://open.spotify.com/track/0wSFsliBwxevwTEXXag2ro) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [A Semana Inteira](https://open.spotify.com/album/0mcOvuCggLZ4TC32eXi68x) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCwyN2EzMjk4Y2JiMGNlZmY2YzFhYjlhMzgyZjZiMTA5MTY2ZmI5N2Fm`
+Snapshot ID: `MCw0YTExZmM0MTE3MzVlOWMzMDdkY2MyZWZmNmI1MGNmYjM0NWVjZGVi`

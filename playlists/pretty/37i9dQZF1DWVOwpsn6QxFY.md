@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,754 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,792 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 | 80 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 |
 
-Snapshot ID: `MCxlZDEyNzEwM2ViMDYzZDVkMGEwNzhkZmVlMWI0MzgwYzBiMTMwZThm`
+Snapshot ID: `MCwzNjJmN2NkMTNkM2ZkMjEwY2Q0ZTIwZWIzMTVlYjEwZDM4OTZhMjAw`

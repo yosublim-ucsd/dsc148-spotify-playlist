@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,119 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,249 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 100 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 |
 
-Snapshot ID: `MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz`
+Snapshot ID: `MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5`

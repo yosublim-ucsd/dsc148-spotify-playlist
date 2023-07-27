@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Filipe Ret e Ludmilla, Gustavo Mioto, Poesia Acústica 14, Felipe Amorim, Xamã e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897,326 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897,602 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Bandida Má](https://open.spotify.com/track/1ChbtX3f0ASWlcrXVkybz2) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Bandida Má](https://open.spotify.com/album/2ZJCv9Rb4LTRINkjuGuXlu) | 2:13 |
 | 97 | [Só Pauladão](https://open.spotify.com/track/5ZW1WKHCAxA6KqVqpSwSpD) | [Mc Brunyn](https://open.spotify.com/artist/4wwEIIZHZG4WFy0PfZnKTn), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Só Pauladão](https://open.spotify.com/album/5M8mX7kRhfJqZgOOYs08CZ) | 2:10 |
 
-Snapshot ID: `MCw1NGQ0YWNjNzYyZDZiMTczZWRjNzkxZWVkOGE1NDdkZDVkZTk2NTVm`
+Snapshot ID: `MCxkZmU5NjczOGU5NWM1OTg1NWE0ZGE5YWNiZWUzZDhjZjhiMmNlYzA2`

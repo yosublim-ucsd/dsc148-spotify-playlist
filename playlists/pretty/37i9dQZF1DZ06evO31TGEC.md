@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,621 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,648 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 8 | [A Ti Sí Puedo Decirte](https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:12 |
 | 9 | [Detrás De La Puerta](https://open.spotify.com/track/68WPRlpdGLyUHv9H4fF5hG) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:00 |
 | 10 | [Recostada En La Cama](https://open.spotify.com/track/50tmOF513elS7K3HrwYq29) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:02 |
-| 11 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
+| 11 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
 | 12 | [Si Te Agarran Las Ganas](https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 2:47 |
 | 13 | [Terrenal](https://open.spotify.com/track/4TKdXQObopcHQ0mUIH3PsT) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:12 |
-| 14 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
+| 14 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 15 | [Tú, Yo Y La Luna](https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:32 |
 | 16 | [Embrujado](https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Embrujado \- Single](https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo) | 2:53 |
 | 17 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [Las Dos Hectareas](https://open.spotify.com/track/1UIdAIVIQMJGmfobHPxnkg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Entre la Mafia](https://open.spotify.com/album/2QjXU5AHNFqdmJoPiF9YkR) | 2:24 |
 | 50 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 
-Snapshot ID: `MjgxNzE1MTMsMDAwMDAwMDAxMTVlNjIyZDQxZjMxM2QzNjJmNTA5ZTI1N2RiMTdkZA==`
+Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA1ZTA4YzU4ODFkZGYzZmIxOTZmMTJkN2Y2ZDUwNjliMA==`

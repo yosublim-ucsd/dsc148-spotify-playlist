@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV?si=d08d5af9b6524c44">Tiffany Hudson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,803 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,101 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 |
 | 100 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
 
-Snapshot ID: `MCxhODM2NDZjM2QzNzU0OWE2ZWZiNDkyNDhhNzE1NTYzMjMwMWRlNjQ4`
+Snapshot ID: `MCw2MDljMjU2MWFlODk5NTc2NDE3MmViYjZhN2M4ZDkxZDc1Mzc3YTA3`

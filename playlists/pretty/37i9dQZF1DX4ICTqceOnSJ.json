@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422237,
+  "num_followers": 422234,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTViNjU2ODliZDY5MDQ5NTdlNGFmNmRmNjllZGMwMGZkMmYzMWM1",
+  "snapshot_id": "MCw2OTQ1NTJmMDU3MWNlMzgxNjk1ODQ2MTMwM2Y0MzUxNzVlMTdlZDZi",
   "tracks": [
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Acic\u00e1lame",
+        "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
+      },
+      "artists": [
+        {
+          "name": "Flac\u00f8",
+          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 235596,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+    },
     {
       "added_at": "2023-07-25 06:00:00",
       "album": {
@@ -875,22 +895,6 @@
       "duration_ms": 153000,
       "name": "Rayos, Besos, Fallos",
       "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Olas Negras",
-      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

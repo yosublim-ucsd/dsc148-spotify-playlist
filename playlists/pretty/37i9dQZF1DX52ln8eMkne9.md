@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,537 likes - 200 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,576 likes - 200 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 199 | ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 |
 | 200 | [Discord](https://open.spotify.com/track/05fIVYuCo163zqAl55l61i) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg](https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J), [Kyle Athayde](https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph), [Shelly Berg](https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP) | [Freedom](https://open.spotify.com/album/4qvVMTkK11z1NzJuB1f2IL) | 7:05 |
 
-Snapshot ID: `MCw1ZjcwM2NiN2QyNDJlNTNmMzRlNDllYmExYmFiZWRmN2FlZDM5Yzgz`
+Snapshot ID: `MCw4NTVkYmRhNGRhMTVmYWRjNGRiNjZlMTE1NzBhMzI4M2M1YTczZGY4`

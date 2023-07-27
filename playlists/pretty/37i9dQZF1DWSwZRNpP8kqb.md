@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,974 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,985 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
 | 75 | [Cuando vuelva a encontrarte](https://open.spotify.com/track/1dudfUw1cw2ou1J7O5OZqZ) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp) | 2:31 |
 
-Snapshot ID: `MCwxNDNmMGY5MmViODBmNTliOGE4MGJmNzQyNTNlYzUxM2UzOWEzOGFj`
+Snapshot ID: `MCw4MmU4Mzc3YjM0ZWFjYTEwODU1MDY2N2E0NmUzNWMzM2YyOWYzZWJm`

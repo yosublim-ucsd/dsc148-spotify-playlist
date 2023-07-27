@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,061 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,139 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [Rise](https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:37 |
 | 65 | [Hallelujah Here Below](https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:03 |
 
-Snapshot ID: `MCw2OTU3N2Q4OTQ3ZDg4NzlmYTNhOThmNTY1NzFlNjdiZjk4YTYyNjRi`
+Snapshot ID: `MCxkZDdlYTIyNTUyMzA3NWQxNjhkM2NiYTM2ZTMxMGZiMjFiNjczMTA0`

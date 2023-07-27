@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Chike
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,277 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,417 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [PICASSO \(feat\. Logos Olori\)](https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:35 |
 | 80 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 |
 
-Snapshot ID: `MCw1YzY4YzJhOWM2NGI5MGQ0NWI0NDI2OGFjMWQ1NzVjNWFiZjgxZjBl`
+Snapshot ID: `MCw3MGFjMThiNzdjYjU4ZjJkMjBmNjYzZmUyY2Y3M2ViMGUwZWNlZTRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Chico César
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,283 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,400 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Regra Três](https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR) | 2:45 |
 | 100 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MCxhOGM0ZDhiNTI0YjVlM2JhMTdmN2U4MDg5MTRkMjkzYzJiMmU5ODYz`
+Snapshot ID: `MCwzYmU4N2RhNmQ4YWZkZDcxYmU2NzVmMWE5Zjk5OTg0NGUxMmNiYWI4`

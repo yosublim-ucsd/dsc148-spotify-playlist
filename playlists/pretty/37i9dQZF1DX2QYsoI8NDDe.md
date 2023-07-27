@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,679 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,664 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 65 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
 
-Snapshot ID: `MCxiYjQzOGM4NzVlZTYzYTdjMDljNDdhZTNjMTc2OWM0ZmIwN2Y4M2Qz`
+Snapshot ID: `MCxlZTBiMzc1YzNlMDA5ZDU0NDIyN2FhNGQ5ZmU3Mjc4NWRiMWFmYjRj`

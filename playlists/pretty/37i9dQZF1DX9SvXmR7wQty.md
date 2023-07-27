@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,291 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,295 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 |
 | 50 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 
-Snapshot ID: `MCw2ODI3NzExYjBhNWMyZTk4MDEzNjg3OWZmNjA5OWE4MGE4NjVjMmVl`
+Snapshot ID: `MCw5OGE1NjQ2OTZhYzVkYzA2NmI1ODQ4NTJkN2QxNzk3MGUyNTZmYjcw`

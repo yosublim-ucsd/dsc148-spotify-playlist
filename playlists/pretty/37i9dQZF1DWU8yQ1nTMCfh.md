@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: El Mató a un Policía Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,674 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,706 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 74 | [Mayo](https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:35 |
 | 75 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
 
-Snapshot ID: `MCxhZmRlM2NlZjk1NmY5ZTdkOWNjODc3ZDRlN2IyMzhlMzdmYWUwM2Vi`
+Snapshot ID: `MCw1MWRhNmE5MDgzODYxM2FmYjg4YTY4Y2RlNWI0Yzc1YWM4YWViMDgz`

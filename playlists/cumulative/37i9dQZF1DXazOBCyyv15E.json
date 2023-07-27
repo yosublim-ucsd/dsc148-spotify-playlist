@@ -24977,6 +24977,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362973,
+      "name": "Stop Waiting",
+      "url": "https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT"
+    },
+    {
+      "album": {
         "name": "stop, wait a sec.",
         "url": "https://open.spotify.com/album/2kdKoBgfnaO7tMAxWlBG1M"
       },

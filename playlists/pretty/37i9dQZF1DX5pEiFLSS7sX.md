@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,264 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,334 likes - 100 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 100 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 
-Snapshot ID: `MCwyZTEzNzI2ZTVlOTE4N2VlYTJjYjhmNmU1NTI2NjY4YzcwYmJiMGNk`
+Snapshot ID: `MCwyNTZiOTQ4MzhmZTNlMGQzZWI3OGE3ZDU1MDZiM2U3MTRmNTMzYTE0`

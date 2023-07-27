@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,951 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,024 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 |
 | 100 | [Ruthless For Life](https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Ruthless For Life](https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i) | 2:48 |
 
-Snapshot ID: `MCwxZTgyZWZmNTA0ZDdmNmZhNjgwNzY0YjQwOWMyZjJiYzBiNTE5OTEy`
+Snapshot ID: `MCwwZDMzYTRjNTE3NjViZGNmNjg0ZDkyNjQ4MjY5YzVhNDU1MTU0ZjI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,351 likes - 64 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,393 likes - 64 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 64 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 
-Snapshot ID: `MCw0NWI0NmYyM2Q2YmY4ZDE2YWQyOTdmNjY1MjNkYWVmNDgzMDg1YjJk`
+Snapshot ID: `MCwzZDQxZTU4YzNmODE1OWM2MmQyMTg4M2FkOTZmNzFlZDEwZGUxZDli`

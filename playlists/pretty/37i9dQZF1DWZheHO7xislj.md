@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,508 likes - 200 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,541 likes - 200 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [W.E.L.F.A.R.E](https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF) | [Antonio Castro](https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y) | [W.E.L.F.A.R.E](https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw) | 2:48 |
 | 200 | [When a Man Loves a Woman](https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Atlantic Top 60: Sweat\-Soaked Soul Classics](https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA) | 2:50 |
 
-Snapshot ID: `MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj`
+Snapshot ID: `MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2`

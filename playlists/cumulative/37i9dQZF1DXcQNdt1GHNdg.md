@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-50 songs - 2 hr 37 min
+51 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 |  |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-07-18 |  |
 | [Most Wanted](https://open.spotify.com/track/6UeMjHhzYnidHi7I4isoGg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Most Wanted](https://open.spotify.com/album/1t9DkDGq1ZHWt2jggPPUVm) | 3:04 | 2023-07-18 |  |
+| [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-26 |  |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-07-18 |  |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-07-18 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-07-18 |  |

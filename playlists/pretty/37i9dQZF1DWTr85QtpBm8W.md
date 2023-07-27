@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,744 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,794 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 | 100 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
 
-Snapshot ID: `MCwyOWY3MTMxZTkzNmU1YmEzMDNjN2ZmMTFiNjY1Y2E5MmI1YWE1ODYw`
+Snapshot ID: `MCxkNjc4ZjlkMGRhNDFkNmU1Y2VkMGRlM2I4NGM4ZTFjMmZlMWMyNjQw`

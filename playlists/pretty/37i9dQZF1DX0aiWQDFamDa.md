@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,679 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,714 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 |
 | 100 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 |
 
-Snapshot ID: `MCwyNGUyMTk4NDY3NjYyMzdiNzA5OWUyZmEwYjFhZDQxYTdiMmI4MjY4`
+Snapshot ID: `MCxhYmEyMmI1N2Y4NTZmYmJlMDI4YmFhYmQ0ZDE3NjAwMmU4MmJkYzBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,735 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,784 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Jaded](https://open.spotify.com/track/1UlzV1f5t8mFKMG2JwGBKZ) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/42lN1I6cvcBIo9h4VxyTHE) | 2:49 |
 | 100 | [Dead Horse](https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 3:19 |
 
-Snapshot ID: `MCxiMjQ2NjYzMTY5NzE3ZjA4Zjc3ZTU3NzBhZjE3NzUzNTA3ODI5Mjcz`
+Snapshot ID: `MCwzODBkYjY1NzJmODZhZWJjYmQzNjA4MjMyZTFkYzBlZTA2ZTE2MGUz`

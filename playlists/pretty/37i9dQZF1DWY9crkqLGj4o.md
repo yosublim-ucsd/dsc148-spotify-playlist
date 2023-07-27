@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,109 likes - 70 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,350 likes - 70 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
 | 70 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 
-Snapshot ID: `MCxjMjMwMThlZmJiNjc4YWQyNWYyNmI0YTM5NDBiNTg1YjZiOTA3NTYy`
+Snapshot ID: `MCxhMGFhODI5OTc2YzM4NjliMThmNTg5NzdlNGM3NGY0NzE4ZGYxNTAx`

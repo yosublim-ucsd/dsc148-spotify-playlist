@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,797 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,933 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 39 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 |
 | 40 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 |
 | 41 | [Love & Reggae](https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:33 |
-| 42 | [The Road](https://open.spotify.com/track/6VvCnZsQtRWf32g5kLgtqt) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/701laqNcQfUCDvGB9ayy30) | 3:35 |
+| 42 | [The Road](https://open.spotify.com/track/7FjDqh7l9067MGkQOzJXul) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/2Qms1V12aKLwfC3Nb6ffHm) | 3:35 |
 | 43 | [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 |
 | 44 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
 | 45 | [Souljah Feeling \(with Chad Chambers\)](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 49 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 |
 | 50 | [Oh My Goodness Ft\. Big Steve](https://open.spotify.com/track/0ySxHGWdbENkqGdthmBxps) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [Dear Billy](https://open.spotify.com/album/0DOQvfdera8Np9cZ7ppSC2) | 4:03 |
 | 51 | [Smokin' Love \(with Collie Buddz\)](https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 3:34 |
-| 52 | [Homebound](https://open.spotify.com/track/70iZhm23HpNcFXGg3UMMSB) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/4bTVw0yJcmqbH0Sg9fsJCQ) | 3:46 |
+| 52 | [Homebound](https://open.spotify.com/track/7MteePJlHvmj0XZmGuIokA) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/2GN1dUFmDULuoCMNveEVcr) | 3:46 |
 | 53 | [Island Girl](https://open.spotify.com/track/6Mkftw4IhDly1y4temAjAJ) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [JAHBOY](https://open.spotify.com/artist/1Y2oDvzU0n9fALfGLYx6Mt) | [Island Girl](https://open.spotify.com/album/23ka5UY59ulYRPxhdey8Im) | 3:21 |
 | 54 | [Do Anything](https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt) | 2:57 |
 | 55 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 60 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
 | 61 | [My Everything](https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P) | 4:13 |
 | 62 | [Show Me](https://open.spotify.com/track/0ERGzuyTquZmQwOmeZLZpr) | [Nesian N.I.N.E.](https://open.spotify.com/artist/7DUqqw1aXnOYoiB7ebj4ra) | [Press Play](https://open.spotify.com/album/2EOopSh7XEMhVLrUlwHv6I) | 4:22 |
-| 63 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 |
+| 63 | [Girl Let Me Love You](https://open.spotify.com/track/4Y9zKEV6KQPtzXR4QhK8ra) | [Hiiata](https://open.spotify.com/artist/1njbZwHly0BAjymors85Nv) | [Girl Let Me Love You](https://open.spotify.com/album/1tLbrpwrPP2etSdewPhyZ7) | 3:17 |
 | 64 | [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 |
 | 65 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 |
 | 66 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 |
 | 67 | [Lonely Days \(with J Boog\)](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 |
-| 68 | [Good Time](https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Good Time](https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx) | 3:24 |
-| 69 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 |
+| 68 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
+| 69 | [Holiday](https://open.spotify.com/track/5a4eC0DnfGg0sDUbSFXOr7) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/1B8Hkj3q7xaPgbHQe1Ndse) | 3:15 |
 | 70 | [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 |
 | 71 | [One More Try](https://open.spotify.com/track/7MHme1xL7GpZYNsRf69CFG) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf), [Stanley T](https://open.spotify.com/artist/2jNmaMmdk0tMMY0jxuqXQN) | [One More Try](https://open.spotify.com/album/3283HXjZnm2knf0KhUcVaD) | 3:09 |
 | 72 | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/track/1FyKp56vQSgm98NBdvs1fA) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/album/66oMqt96CJRCKQl3RpyTO1) | 3:19 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCw5YjdiMDBkMzEyOTU5Y2Y3NDYxNWFhNmE0MjA0YjVjMjhhZDYzNzAw`
+Snapshot ID: `MCw1Njk3NWQxZjcyMTNmNmJlNTQ0YzNhYWM2NTczZDY2NjdlOTgxOWY3`

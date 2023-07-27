@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,542 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,893 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 99 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 100 | [Unforgettable](https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:28 |
 
-Snapshot ID: `MCxiYzNiMWI5YmNmNTE2MzU5MGJkZGEyNTIyZTJhMTA3MjM5NzZlOTMz`
+Snapshot ID: `MCxkZDJiYmE4NjM0MGNkZTFjZTE5Y2U5NTM3MDZkZWM1YjdkZTMxZDVj`

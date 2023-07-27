@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Zino Vinci
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,622 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,743 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Predicate](https://open.spotify.com/track/6aIjb1aiKJd1YHjR3apCpM) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Predicate](https://open.spotify.com/album/4EO6YGsWgMwC25qt0aZP4K) | 3:08 |
 | 60 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 |
 
-Snapshot ID: `MCxlODFlM2ZhZjNlMDlmODMzZmUzM2ViZGYzMjEwYWYzY2NjMTFmYzE2`
+Snapshot ID: `MCxiMjAzNzlmYzI4ZTE4ZDVhY2U5ZmY0MzBiYTVjZDI5ZTgwOGE0NzFh`

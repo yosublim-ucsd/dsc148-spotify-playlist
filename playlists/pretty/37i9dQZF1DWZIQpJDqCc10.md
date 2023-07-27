@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,520 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,724 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 74 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
 | 75 | [So Alright, Cool, Whatever](https://open.spotify.com/track/47rOmlKHPYyMDM3h6L74Sn) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Concentrate](https://open.spotify.com/album/1mgzsmNo3XcdjonlRIwvFk) | 3:11 |
 
-Snapshot ID: `MCxkMzM2YjA1ZDRiMjRlNDNkNTIwNjJmNDEzZGU2MzMzMzFmYzZkMGJi`
+Snapshot ID: `MCwzZmIzOTZhZGIxMjlkYzdjYzFlYmJlODZmMGU1NjcyOWZkOGRkYTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,977 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,009 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 74 | [Good In Goodbye](https://open.spotify.com/track/1GVF9369j7InydwGztCDIZ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Good In Goodbye](https://open.spotify.com/album/1VJJaEzHs2SHX4ZobSFAVh) | 2:21 |
 | 75 | [queen of broken hearts](https://open.spotify.com/track/1xyUCr7dIJYaUaaiDf4Q1L) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 2:51 |
 
-Snapshot ID: `MCxhMzM3OGEzZWQxMDFkNjBhN2VhZWIxNmY5NGU0YjYzYzc0NzRkYmFi`
+Snapshot ID: `MCw0ZjYzMzJmZDQ3NTFkMDM3MjczYzBmOTEzMDY3NmJiNDIxNDQ5ZWE3`

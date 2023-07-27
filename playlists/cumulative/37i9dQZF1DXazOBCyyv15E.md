@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Lauren Auder
 
-1,642 songs - 4 day 1 hr 41 min
+1,643 songs - 4 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,6 +1336,7 @@
 | [Stone Meadows](https://open.spotify.com/track/05aob0aHCbxGjzWi5H2PKC) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Live Forever](https://open.spotify.com/album/4Lu520UvMf7lJccCnKw3hJ) | 3:50 | 2020-10-02 | 2021-01-23 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-23 | 2021-08-27 |
 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 3:19 | 2021-05-21 | 2021-06-11 |
+| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-07-26 |  |
 | [stop, wait a sec.](https://open.spotify.com/track/3atBnWSZt6gTWcJhKvnAr9) | [L.A\. Sunday](https://open.spotify.com/artist/67vleotEEIwW5ymCQZFsOm) | [stop, wait a sec.](https://open.spotify.com/album/2kdKoBgfnaO7tMAxWlBG1M) | 3:22 | 2021-03-26 | 2021-05-21 |
 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 | 2022-02-25 | 2022-04-29 |
 | [Strange Timez \(feat\. Robert Smith\)](https://open.spotify.com/track/0cDp7kqFs2E5BNaL3DrFBq) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [Song Machine: Strange Timez \(feat\. Robert Smith\)](https://open.spotify.com/album/6YNljPhLvGsg3U9WtT7qje) | 3:47 | 2020-09-29\* | 2020-10-23 |

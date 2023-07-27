@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-103 songs - 6 hr 22 min
+104 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 | 2023-06-01 |  |
 | [Not You Too \(feat\. Chris Brown\)](https://open.spotify.com/track/6GVZ7A3IWkPNuG5FdcRE7O) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Dark Lane Demo Tapes](https://open.spotify.com/album/45c1tgTktunRMmfh3WVh8U) | 4:29 | 2023-06-01 |  |
 | [Numbers Don't Lie](https://open.spotify.com/track/5YDW0Mm6OLzze4d97aoyuK) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vanquish](https://open.spotify.com/album/05h84nlrmNAjh083dnULzt) | 2:41 | 2023-06-01 |  |
-| [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2023-06-01 |  |
+| [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-26 |  |
+| [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2023-06-01 | 2023-07-27 |
 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:32 | 2023-06-01 |  |
 | [Over](https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:53 | 2023-06-01 |  |
 | [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 | 2023-06-01 | 2023-07-26 |

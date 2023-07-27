@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: にしな
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,311 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,470 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 4 | [kaibutsu](https://open.spotify.com/track/0zBaLbvJbcZjErOL8OqdX8) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [kaibutsu](https://open.spotify.com/album/4SwTst06JhUkdd8KtOO6Rj) | 2:35 |
 | 5 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 |
 | 6 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 |
-| 7 | [恋の色](https://open.spotify.com/track/0L2Ljt0LnXg4RyUiLuF7sD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [恋の色](https://open.spotify.com/album/017MwPq6jUuJ3lkZaD1frM) | 4:42 |
-| 8 | [散る散る満ちる](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [散る散る満ちる](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 |
+| 7 | [Koi no Iro](https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Koi no Iro](https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV) | 4:42 |
+| 8 | [散る散る満ちる](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [鷲尾伶菜](https://open.spotify.com/artist/4dqrHZDznBifUYWzj0Ylx1) | [散る散る満ちる](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 |
 | 9 | [群青色の空](https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 2:43 |
 | 10 | [明日晴れるかな](https://open.spotify.com/track/39vwAWSRjy6YrG38a32Hoq) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [THE COVERS EP \(vol.2\)](https://open.spotify.com/album/5TkmleREO95qshHJFSOoe9) | 4:51 |
 | 11 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 49 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
 | 50 | [Desert](https://open.spotify.com/track/6Q5OvhytfP017jLr5bLKGJ) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Desert](https://open.spotify.com/album/0FzdOWEYTuZjP8WFFVIzaN) | 2:38 |
 | 51 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
-| 52 | [寂しいの色](https://open.spotify.com/track/3eXGdp6Pg473ms7T2JOrhh) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [寂しいの色](https://open.spotify.com/album/0hvlFcxw9ACCbRjzHu9FB8) | 3:58 |
+| 52 | [Sabishii no Iro](https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sabishii no Iro](https://open.spotify.com/album/6OQMBijqwcgC2vBcDcuKUE) | 3:58 |
 | 53 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 |
-| 54 | [ブルーアワー](https://open.spotify.com/track/4GqBrHYUhllOurthHGOQme) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [FELT SENSE](https://open.spotify.com/album/5hJNtMxujDKLRfdPF8YEyn) | 4:02 |
+| 54 | [Blue Hour](https://open.spotify.com/track/04Y1toJrL4LDUEnMrD9An5) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [FELT SENSE](https://open.spotify.com/album/5MFXYkQqLCe3EPZAx6nxHQ) | 4:02 |
 | 55 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 |
 | 56 | [せかいいち](https://open.spotify.com/track/6WdpH8jeFyS8wzN4OqkALN) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [URL](https://open.spotify.com/album/4Z3L9cwcj2znLM7bXYDHaM) | 3:26 |
 | 57 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [STAR](https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [STAR](https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL) | 5:12 |
 | 100 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 |
 
-Snapshot ID: `MCwxMDFhYzFhMzQ5YzQ4Yzc2N2Q5ODNlZWMxM2Y0NDg0MGFhZGQzNzNl`
+Snapshot ID: `MCxkNjAxZWZkMDI0ODQxYzkyNTU2ZDBlYTI1NTIwNmE4YmFiZTMyZDQ2`

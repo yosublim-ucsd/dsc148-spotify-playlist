@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,398 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,577 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
 | 100 | [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 |
 
-Snapshot ID: `MCwzMjhkNTU4ZTNhMjhjMWRlMmViMTk1ZDQ3YzY1N2ExYjliZTMxZDQw`
+Snapshot ID: `MCxiYmMwOWMyMjdlZDNiNWQ1ZDUxNTAxNTY2ZjRiOTVkNzZiMDY1ZWJm`

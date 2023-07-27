@@ -4,7 +4,7 @@
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: The hosts of this year's <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> , <a href="https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7">Tasha Cobbs Leonard</a>  and <a href="https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a">Jonathan McReynolds</a>
 
-128 songs - 10 hr 53 min
+129 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 | 2021-06-25 |  |
 | [Black Lives Matter](https://open.spotify.com/track/5ZXZWHmI69IAhiseyYWF2D) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Black Lives Matter](https://open.spotify.com/album/6Y5VoweQfvHReQl4KTGFNd) | 5:49 | 2021-06-25 | 2022-07-23 |
 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 | 2023-07-13 |  |
-| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2023-07-13 |  |
+| [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 | 2023-07-13 |  |
+| [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2023-07-13 | 2023-07-27 |
 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 | 2021-06-25 |  |
 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2021-06-25 |  |
 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 | 2021-06-25 |  |

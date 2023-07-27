@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,748 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,754 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
 | 50 | [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 |
 
-Snapshot ID: `MCwyOTQ2ZjgxOWY0Y2YxNjczODY5MTY4MjhmMDg1MDEyY2U0MjhmOTNk`
+Snapshot ID: `MCw4MzlmZjQ1NGVhZmJhYWY2NzRjNmU4MjM1MmFhZjg0MWRiMjYxN2Q1`

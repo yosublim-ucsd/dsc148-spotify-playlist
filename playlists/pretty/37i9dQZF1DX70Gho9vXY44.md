@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,241 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,254 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 8 | [Tu Traición](https://open.spotify.com/track/2GxUyF5r1pvjVihKfFoNSH) | [Zona Infame](https://open.spotify.com/artist/32FmPGPkEM3IifxSPWEstr) | [Llegamos](https://open.spotify.com/album/7Abvxuj7EQVesUvTXbv6P4) | 4:38 |
 | 9 | [Que Esperas De Mi](https://open.spotify.com/track/2PUtigNLIDllpP0RBcsbS3) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Yezzy Wallace](https://open.spotify.com/artist/4ne3MCOxiaIATbGCFQbyNk) | [Que Esperas De Mi](https://open.spotify.com/album/28AZGoAknURB9KTtyBMEto) | 3:33 |
 | 10 | [Mala Mía](https://open.spotify.com/track/2Gu0CtVoCufgmXHhNkWVt7) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dre\. Smoke](https://open.spotify.com/artist/4lpxG5zR6wrdXdpbNnkuEq) | [Mala Mía](https://open.spotify.com/album/6n9yOfASezS1sJmjK0EYin) | 2:28 |
-| 11 | [Odiándome](https://open.spotify.com/track/43GEvvO9x01V6c4eOuy8Xg) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Anghel](https://open.spotify.com/artist/7MH17YwU0jzqw1D3R8cAEz), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Odiándome](https://open.spotify.com/album/3DDR4ZRoSHuw06O2XP0yZh) | 2:51 |
+| 11 | [Odiándome](https://open.spotify.com/track/43GEvvO9x01V6c4eOuy8Xg) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Anghell](https://open.spotify.com/artist/72jQJCoJsDjwxYCLUCHYwI), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Odiándome](https://open.spotify.com/album/3DDR4ZRoSHuw06O2XP0yZh) | 2:51 |
 | 12 | [Vacío](https://open.spotify.com/track/6hMnv8UhUffI60ShG1wnYV) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5) | [Vacío](https://open.spotify.com/album/5w1KvvBBUol3jKBtRpVdrz) | 3:01 |
 | 13 | [Vámonos](https://open.spotify.com/track/2gWyIzA4yuaEye1kzHvGiT) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Vámonos](https://open.spotify.com/album/6Dj1uA0WuEkrx0MzgZ1gI0) | 3:18 |
 | 14 | [Olvidémonos](https://open.spotify.com/track/139v1V3FmBtRl6JzZXThoX) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Olvidémonos](https://open.spotify.com/album/2Z3Sr04hEC4GhH7QiogJV1) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 79 | [Kaykunapi](https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9) | [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Kaykunapi](https://open.spotify.com/album/29GroZcRkoieMr2OUnjjWX) | 2:44 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCxmNTcwMTA1OTQ5MzA1MDhmMTQ0YmQyMjEzZDQ5ODFkOGNkZmVjNTVi`
+Snapshot ID: `MCw4MmZhNTZhNDg1YWY4MGU4NjQ3NGEzZWM4MjE4NTU3MzdhYjcyMzZh`

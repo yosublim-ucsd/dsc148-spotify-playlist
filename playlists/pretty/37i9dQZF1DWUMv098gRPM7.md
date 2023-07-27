@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,473 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,504 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 |
 | 75 | [Voodoo](https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l) | 3:16 |
 
-Snapshot ID: `MCwyNzYxMzNlYWU3MThhZmU3NDgwZTc0OWI4ODNjYTU2NmUwYTUxYjY5`
+Snapshot ID: `MCwwOTNlZjg4OWE3OWU2YzA1MzRhOTljNDg3MGViMzU2NTA2ZTlhZmU0`

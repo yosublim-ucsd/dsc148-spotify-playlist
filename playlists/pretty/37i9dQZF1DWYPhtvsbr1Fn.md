@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Fast Car era Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,986 likes - 89 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,133 likes - 89 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 | 88 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
 | 89 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 
-Snapshot ID: `MCw2YWNkNDk0Y2FjYTBjMDc5NjVmZTk1Yjk1NTYyMGU5Y2Y5MzgxYjYx`
+Snapshot ID: `MCw2YjRjNGU1OTUyMDc1MWIxM2Q1YTFiZDZjNTJkYjc2NzkzY2FjNGU1`

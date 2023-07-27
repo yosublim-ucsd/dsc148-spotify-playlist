@@ -536,10 +536,32 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 162248,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS"
+    },
+    {
+      "album": {
+        "name": "Snakes Alive - It's Fleabite 5",
+        "url": "https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        },
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162248,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/6uTZBOLjGcq1YfhrQqx9Uk"
     },
     {
       "album": {

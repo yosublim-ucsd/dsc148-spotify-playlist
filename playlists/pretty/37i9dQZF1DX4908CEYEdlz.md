@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,545 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,544 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 |
 | 75 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 
-Snapshot ID: `MCw2OGMxNDIyOGExZGRmOTJkMDA5YTY4ZGVhMDU1ZDZjYzM3NmFhYzM0`
+Snapshot ID: `MCwxODJmMzY5MzQ2YWNiMzYwOTEyZDRlZDM1NDQxMGVhYjkxOTY4YWU0`

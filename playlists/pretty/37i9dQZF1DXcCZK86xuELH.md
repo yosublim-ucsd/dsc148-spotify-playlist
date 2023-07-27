@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,594 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,623 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 49 | [Down 4](https://open.spotify.com/track/4wdqjXxcM5sis1fv4ureKR) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Down 4](https://open.spotify.com/album/2FTh5EtCIuyrXX3pjzCOcd) | 2:18 |
 | 50 | [I Don't Care Wot U Say](https://open.spotify.com/track/2UrS8i3MWFFRcxVoTX835R) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:36 |
 
-Snapshot ID: `MCxlZWU5MmI1YTk0ZDI1MzNjZTY5ODYzOGNjMzFmNTdmNGJhODNkYmZm`
+Snapshot ID: `MCxhMTJmZjEyZjhlNDI0ZjUxNTFmZWU4ODg3NGM5ZjM2YzQyZDNmYjRm`

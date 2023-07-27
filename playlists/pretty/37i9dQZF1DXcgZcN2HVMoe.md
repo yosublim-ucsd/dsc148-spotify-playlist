@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,825 likes - 200 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,951 likes - 200 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
 | 200 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
 
-Snapshot ID: `MCxjZTk5NzFkMWU3ZjBmNDE4MDExNTFiN2FjNjE4ZjM1OWUwOTE4NGM5`
+Snapshot ID: `MCwyNTQ2YmQ2NjQ3MWY1ZWEwZDQyZTEwMDU0YWExYmM3MGQ2YTk1YWIw`

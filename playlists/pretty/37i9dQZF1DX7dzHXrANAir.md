@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,383 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,441 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 |
 | 80 | [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 |
 
-Snapshot ID: `MCxhOTNhZWU2MjVmMzM3NjI2ODJjYmI3NWNiNGEyZmRiODg1MjBjNGE0`
+Snapshot ID: `MCwxYzg4ZWY4MTQ3OGE1MDYwMWVjZGRjZDJkY2FiZmMzNGJhYzU1YmVh`

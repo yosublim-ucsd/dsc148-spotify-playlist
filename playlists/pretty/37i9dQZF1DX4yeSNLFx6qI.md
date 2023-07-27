@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,754,048 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,182 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
 | 100 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 |
 
-Snapshot ID: `MCxjOWI1ZmQ0ZGEwODgwYWIyNTI3ZjEzNDVjNWVkYzVhOGI2YWZhMjFk`
+Snapshot ID: `MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3`

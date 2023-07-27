@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,382 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,440 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 6 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 |
 | 7 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 |
 | 8 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Trending](https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Trending\]](https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh) | 2:56 |
-| 9 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/2f8uBrO8Mb5D0TOwEgiD19) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 |
+| 9 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 |
 | 10 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 |
 | 11 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 |
 | 12 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 |
 | 75 | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 |
 
-Snapshot ID: `MCw1YjJmOTNlZDdjMzg1N2E2OGQyMTkxM2FmN2Q2OGNlOGVjYjVjMDEy`
+Snapshot ID: `MCxjNDYxODE3NGNiOTRhYzI5MDVkMjQ3MWJlN2YxNzIwZTExMTZhNWY2`

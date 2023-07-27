@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,270 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,776 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 100 | [Back to the Start](https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/7cZsw4SlFBI5SzgaagTQe1) | 3:23 |
 
-Snapshot ID: `MCxkODViODIzZTNiYWM0Y2Q5NzM4NDExOTAwYmRkZjIyNWVhMWYxYmEz`
+Snapshot ID: `MCw4OWZiYjE0M2RhZjcxMzhlYmFkZTljNjljM2Y5ZGNhNzQ4Y2FkY2Fi`

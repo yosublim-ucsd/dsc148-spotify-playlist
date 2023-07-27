@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=\_UAG5PFPQz2o1RwIB\-EBKQ"> Crayon </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,420 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,842 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 |
 | 70 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 |
 
-Snapshot ID: `MCw0ZjQ2MjkzY2VlNGRhNWVkZmQ3YzRhMzRjNzRlM2JkNjliZWZiMGVk`
+Snapshot ID: `MCxhYzc1Y2JhODdjMmFmOWQ3ZTA1M2I0YTE5ZjkzNWI4YTEyMjU0NDkx`

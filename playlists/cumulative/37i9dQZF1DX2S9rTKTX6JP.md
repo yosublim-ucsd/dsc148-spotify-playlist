@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
 
-301 songs - 19 hr 21 min
+302 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Somebody Told Me](https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Somebody Told Me](https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS) | 3:19 | 2020-12-16 |  |
 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 | 2020-12-16 |  |
 | [Someone You Loved](https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Ashland](https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw) | [Someone You Loved](https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7) | 3:01 | 2022-03-25 |  |
-| [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 | 2020-12-16 |  |
+| [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 | 2020-12-16 | 2023-07-27 |
 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 | 2020-12-16 |  |
 | [Steppin' Out](https://open.spotify.com/track/1Bff9RtUVaeoADbqBluahM) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Steppin' Out](https://open.spotify.com/album/7vDsyjnfUwYLuQqFhvKKlf) | 4:17 | 2020-12-16 | 2022-05-24 |
 | [Sugar We’re Goin Down](https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Sugar We’re Goin Down](https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR) | 3:41 | 2022-11-25 | 2023-01-29 |
@@ -286,6 +286,7 @@
 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 | 2020-12-16 |  |
 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 | 2020-12-16 | 2023-06-17 |
 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 | 2023-05-08 |
+| [We Are The Champions/We Will Rock You](https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [We Are The Champions/We Will Rock You](https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX) | 3:51 | 2023-07-26 |  |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-06-30 |  |
 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 | 2022-06-17 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UvspVN88FScdaUjfcIfhD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/3yYqXOqczAfP6mDoMkbiga) | 2:23 | 2020-12-16 | 2022-07-29 |

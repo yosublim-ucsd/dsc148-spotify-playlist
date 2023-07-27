@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,435 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,527 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Ironheart \- Polar Youth Remix](https://open.spotify.com/track/4rBYV0MKhwAag98L13goF0) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ) | [Ironheart \(Polar Youth Remix\)](https://open.spotify.com/album/19cjBBZTh2IX7yBnhRDcqB) | 2:39 |
 | 125 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 |
 
-Snapshot ID: `MCw3ZTYyZTE5N2EyNDg1ZWI0OWFjNWQzY2I0NjI4MTZkMjI1ZTRiMWRk`
+Snapshot ID: `MCw3ZjJhNTUxNTM0ZDk3ZGNkOTNkNjViZGUzOGZjZWE4MTAzNDZkZjIw`

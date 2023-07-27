@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ae4U8culea.md) - [plain]
 
 > Suor, ritmo e música com energia
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,255 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,350 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ae4U8culea.md) - [plain]
 | 99 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 100 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 
-Snapshot ID: `MCwyYTZmZDlkZjk1YWJlYjU3NjgwNzQ2OWQ0NGUzMzczYjg4YTRkZGQw`
+Snapshot ID: `MCw5NTY5MTY3NWJjYmI1MGE2OTc2ZjgxZDIxNDhkZDY2NjViZjRhOTcx`

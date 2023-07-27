@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 196138,
       "name": "5% TINT",
       "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
@@ -1733,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Call On Me (with Tove Lo)",
+        "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196314,
+      "name": "Call On Me (with Tove Lo)",
+      "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
+    },
+    {
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Dancin - Krono Remix",
       "url": "https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS"
@@ -2674,7 +2696,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
@@ -3030,7 +3052,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
@@ -4572,7 +4594,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 117961,
       "name": "FUNCTIONING ALCOHOLIC",
       "url": "https://open.spotify.com/track/6vB0VGQhnd1Qvkmrt8kNmr"
@@ -6434,7 +6456,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -8762,7 +8784,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
@@ -10862,7 +10884,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
@@ -11178,6 +11200,24 @@
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "album": {
@@ -12161,6 +12201,28 @@
     },
     {
       "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -12180,7 +12242,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -12876,7 +12938,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"

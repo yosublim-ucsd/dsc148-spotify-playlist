@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice ...like?
 
-948 songs - 1 day 21 hr 49 min
+949 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [On God \(Freestyle\)](https://open.spotify.com/track/4zKDp8cjwWaLNO3V7Sk6b8) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [On God \(Freestyle\)](https://open.spotify.com/album/5TRYPTIIBEKM1iFp4Pcsyp) | 2:41 | 2023-03-10 | 2023-03-18 |
 | [ON MY HIP](https://open.spotify.com/track/3I6TMODbR8DyawrBcPs2wF) | [Nuez](https://open.spotify.com/artist/2ALpGndOUdBkweskodNRK1), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [ON MY HIP](https://open.spotify.com/album/4IUpjh0s07j9X64knwDVCU) | 2:28 | 2023-07-14 | 2023-07-22 |
 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 | 2023-05-19 | 2023-05-27 |
+| [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-26 |  |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-03-18 |
 | [One Life](https://open.spotify.com/track/2mFo1Fmzi1Az7iUXf6sRB5) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [One Life](https://open.spotify.com/album/6IencO4xqD8jNuJBtvXk0D) | 3:22 | 2023-06-16 | 2023-06-24 |
 | [One Life](https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [One Life](https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8) | 3:29 | 2023-03-17 | 2023-03-25 |

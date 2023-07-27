@@ -399,6 +399,32 @@
     },
     {
       "album": {
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/3arOEXxFWEflKKj6uJOjR1"
+      },
+      "artists": [
+        {
+          "name": "Beatricee",
+          "url": "https://open.spotify.com/artist/5J8U9jOTrNuvYUZs0PY2Vz"
+        },
+        {
+          "name": "yusha571",
+          "url": "https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa"
+        },
+        {
+          "name": "xSyborg",
+          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171625,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/0tRXnh2PD2zwGF8YKx61Od"
+    },
+    {
+      "album": {
         "name": "Helldrift 2",
         "url": "https://open.spotify.com/album/4l3lvU8NrRG8gtzPUGeliK"
       },
@@ -492,7 +518,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"

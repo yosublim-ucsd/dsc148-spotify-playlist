@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 714506,
       "name": "\"Blow Winds\"",
       "url": "https://open.spotify.com/track/6SnA1NoyrtxZrqHxqYWnmE"
@@ -1803,6 +1803,36 @@
     },
     {
       "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446573,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/6LyfLFkhrf64Rh4ekLzAmE"
+    },
+    {
+      "album": {
         "name": "Alvin Curran: Maritime Rites",
         "url": "https://open.spotify.com/album/5LUR7Z5B0YicEPg74f5WPD"
       },
@@ -2738,7 +2768,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 156986,
       "name": "River of Folk Dance",
       "url": "https://open.spotify.com/track/24fiipMerltXpOy7M51hDF"
@@ -2764,7 +2794,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -3652,7 +3682,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 777266,
       "name": "The Well / The Gentle",
       "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
@@ -4542,7 +4572,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-27",
       "duration_ms": 306040,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/35IB6jqgvQyjWst1ot9lDd"

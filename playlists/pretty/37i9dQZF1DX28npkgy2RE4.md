@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,854 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,905 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Forever Half Mast](https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u) | 4:02 |
 | 150 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 
-Snapshot ID: `MCw0ODFlNTNiZWM3MGVlNTdiMGM3OGJlMDFiZWM5MjA2NDMyZjY2YjVl`
+Snapshot ID: `MCwxNTYwM2EzZDJjOWE2YzI2ZDMzNmUzODcxOWUzYWJmMTM5NTU0ZmJi`

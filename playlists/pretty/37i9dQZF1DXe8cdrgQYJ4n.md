@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,759 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [STUPID \(feat\. 2SO\)](https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY) | [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C), [2SO](https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8) | [future island](https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN) | 3:00 |
 | 60 | [Cheers!](https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Work Later Drink Now S2, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B) | 3:03 |
 
-Snapshot ID: `MCw1ODEzZDMzMDQwODllM2I4Y2Q2MzY3YWYxYWZhZmIxYjg4NTU0ODhi`
+Snapshot ID: `MCxkNTI4MDYwMjdhN2IyZDViZDM0MWQ0MzNlNmQ1NzQxMjgzMzdiOTA0`
