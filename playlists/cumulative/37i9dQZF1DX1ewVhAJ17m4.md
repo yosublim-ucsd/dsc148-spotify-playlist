@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: KennyHoopla
 
-314 songs - 15 hr 23 min
+316 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Cavalier](https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Cavalier](https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL) | 2:55 | 2022-10-13 | 2023-05-16 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-20 |  |
 | [Chicago is so Two Years Ago](https://open.spotify.com/track/6OhI4xi41UofnuT3kZzgLn) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Chicago is so Two Years Ago](https://open.spotify.com/album/4awAqzwnXYpcEYneoN35Ic) | 3:17 | 2021-12-20 | 2022-06-15 |
-| [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-20 |  |
+| [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-20 | 2023-07-28 |
+| [Childhood Eyes](https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo) | 3:13 | 2023-07-06 |  |
 | [CITY OF ANGELS](https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:51 | 2022-08-18 | 2023-07-07 |
 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 | 2021-12-20 | 2022-08-19 |
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2022-10-21 | 2023-06-21 |
@@ -138,7 +139,8 @@
 | [Hard to Explain](https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 3:30 | 2021-12-22 | 2022-03-01 |
 | [Headstone](https://open.spotify.com/track/5xAx7QIRoW87IOcZuiy1He) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Headstone](https://open.spotify.com/album/2WzbLXv2rPrFcmnxtraFib) | 3:25 | 2021-12-20 | 2022-06-15 |
 | [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-27 | 2023-05-19 |
-| [Heartbreak Feels So Good](https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:37 | 2023-05-18 |  |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:37 | 2023-07-06 |  |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:37 | 2023-05-18 | 2023-07-28 |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-02-17 |  |
 | [HEAVYWEIGHT](https://open.spotify.com/track/5ekvOvSlUxUgDTitlGzWbe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5S8GPfqEGX6wYZ5ElDiOFY) | 2:49 | 2023-03-31 | 2023-05-16 |
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-10 | 2023-04-23 |

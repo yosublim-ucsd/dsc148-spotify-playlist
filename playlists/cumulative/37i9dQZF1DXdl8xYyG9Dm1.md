@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A"> Nasty C</a>
 
-179 songs - 9 hr 27 min
+180 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 |  |
 | [Be Alright](https://open.spotify.com/track/0IHFTzh4RsknfejGkeMeWy) | [Romo](https://open.spotify.com/artist/1gBaZj95aDyGNuHFj20qU0), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Be Alright](https://open.spotify.com/album/6l1QGaPLegfRkzjEoqvVgo) | 4:25 | 2022-02-03 | 2022-09-17 |
 | [Best for You](https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:40 | 2021-11-18 | 2023-02-24 |
-| [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 | 2021-10-14 |  |
+| [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 | 2021-10-14 | 2023-07-28 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 |  |
 | [Bigger \(feat\. Olamide & Nas\)](https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 3:22 | 2022-08-18 |  |
 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 | 2023-02-10 |  |
@@ -45,6 +45,7 @@
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 |  |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 | 2022-07-07 | 2022-07-29 |
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 |  |
+| [Crazy Crazy](https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Crazy Crazy](https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9) | 2:32 | 2023-07-28 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 | 2022-12-25 |
 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 | 2022-03-11 |  |
 | [Culture](https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD) | 3:28 | 2022-03-11 | 2022-12-29 |

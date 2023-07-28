@@ -4,7 +4,7 @@
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-50 songs - 3 hr 19 min
+51 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-06-21 |  |
 | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/track/7uMf1DQzEMqgJOSQgc5K2Y) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/album/5wLGZYZn31hwzP5CI6M8z0) | 3:26 | 2021-06-21 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-06-21 |  |
-| [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 | 2023-05-13 |  |
+| [Varavaa Varavaa](https://open.spotify.com/track/4aiRReJDNa5KBn5InfzaPM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 3:22 | 2023-05-13 |  |
+| [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 | 2023-05-13 | 2023-07-28 |
 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 | 2021-06-21 |  |
 | [Vengamavan](https://open.spotify.com/track/2aH8bZkSxnK1NIFQLEpDiJ) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Natpe Thunai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kVzewcZrjwncy9zO9HxEY) | 3:37 | 2023-05-13 |  |
 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 | 2021-06-21 |  |

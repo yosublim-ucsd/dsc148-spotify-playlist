@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 253436,
       "name": "Be as one!!!",
       "url": "https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 216826,
       "name": "Red:birthmark",
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
@@ -6492,6 +6492,32 @@
       "duration_ms": 246213,
       "name": "Runaway World",
       "url": "https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe"
+    },
+    {
+      "album": {
+        "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e (\u30e9\u30f3\u30c9\u30a6Ver.)",
+        "url": "https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b3(CV:\u9234\u6728\u307f\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s"
+        },
+        {
+          "name": "\u30ed\u30a4(CV:\u5bfa\u5d0e\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi"
+        },
+        {
+          "name": "\u30e9\u30f3\u30c9\u30a6(CV:\u587e\u4e00\u4e45)",
+          "url": "https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e - \u30e9\u30f3\u30c9\u30a6Ver.",
+      "url": "https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU"
     },
     {
       "album": {
@@ -7310,6 +7336,24 @@
       "duration_ms": 185608,
       "name": "Stuck on you",
       "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
+    },
+    {
+      "album": {
+        "name": "sugar",
+        "url": "https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227473,
+      "name": "sugar",
+      "url": "https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj"
     },
     {
       "album": {

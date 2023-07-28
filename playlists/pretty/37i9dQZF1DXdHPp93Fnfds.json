@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Abril Olivera",
-  "num_followers": 147734,
+  "num_followers": 147741,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWNkZGVhMDQyZTkxMTM3NjVhYzg0NmQxZmFiNDU4Nzg4N2E0Y2Jm",
+  "snapshot_id": "MCwzNzI3YjgzYzU3N2M5NGM3Mzk5OWRlZTg5M2VlODdmYzhjZDk4ZGRj",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -267,8 +267,8 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+      "duration_ms": 178255,
+      "name": "Cuarto Creciente",
+      "url": "https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
       },
       "artists": [
         {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -383,8 +379,8 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
       "artists": [
         {
@@ -392,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 178255,
-      "name": "Cuarto Creciente",
-      "url": "https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq"
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Alto Cielo",
         "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 291873,
       "name": "Con Miedo a Ti",
       "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Peque\u00f1as Esperanzas",
         "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "No s\u00e9 qu\u00e9 tienes",
         "url": "https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+        "name": "Lo Que Fue",
+        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         }
       ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+      "duration_ms": 220953,
+      "name": "Luna Blanca",
+      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Lo Que Fue",
-        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
       },
       "artists": [
         {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 220953,
-      "name": "Luna Blanca",
-      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Recordar/ Volver a pasar",
-        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "San Camilo",
-      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 209247,
       "name": "COLAPSO",
       "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Recordar/ Volver a pasar",
+        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "San Camilo",
+      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Onda en el Aire",
+        "url": "https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Onda en el Aire",
+      "url": "https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
@@ -1331,22 +1351,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Alcoh\u00f3lica Funcional",
-        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161953,
-      "name": "Alcoh\u00f3lica Funcional",
-      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
     }
   ],
   "unique_name": "Mujeres del Indie",

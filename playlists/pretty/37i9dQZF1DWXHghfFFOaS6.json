@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 297774,
+  "num_followers": 297919,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
+  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Prince Of Peace",
+      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 265760,
       "name": "Apple Green",
       "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Prince Of Peace",
-      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 272733,
       "name": "We Have Love",
       "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        },
-        {
-          "name": "Fay Simpson",
-          "url": "https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Hard Work",
         "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
       },
       "artists": [
         {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        },
+        {
+          "name": "Fay Simpson",
+          "url": "https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
+      "duration_ms": 281733,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -927,6 +911,22 @@
       "duration_ms": 220000,
       "name": "Wash Your Face In My Sink",
       "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Joyful Noise",
-        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 310214,
-      "name": "Dark Clouds Rain Soul - Dub",
-      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pass It On",
         "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 310214,
+      "name": "Dark Clouds Rain Soul - Dub",
+      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1103,58 +1103,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afro-Funk",
-        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
-      },
-      "artists": [
-        {
-          "name": "T. P. Orchestre Poly-Rythmo",
-          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
-        },
-        {
-          "name": "Gabo Brown",
-          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "It's A Vanity",
-      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Datskat",
-      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1175,6 +1123,42 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Datskat",
+      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
+      },
+      "artists": [
+        {
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Galactica Rush",
         "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Azymuth: Outubro",
         "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 274600,
       "name": "Dear Limmertz",
       "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1295,22 +1311,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Brass Construction",
         "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 494960,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1541,20 +1541,24 @@
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
+      "added_at": "2022-07-18 17:17:22",
       "album": {
-        "name": "Groove Collective",
-        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
       "artists": [
         {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Whatchugot",
-      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
+      "duration_ms": 256133,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
     }
   ],
   "unique_name": "Acid Jazz",

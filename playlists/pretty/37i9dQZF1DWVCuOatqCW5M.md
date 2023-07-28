@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Gurnazar, Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,175 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,257 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 22 | [Dhaage](https://open.spotify.com/track/6hOaxlqCTStpZ7HW5zI6z9) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Dhaage](https://open.spotify.com/album/0uMmAnOul0gvjU6nwCuH1Y) | 3:54 |
 | 23 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 |
 | 24 | [Saawan](https://open.spotify.com/track/7BJBXJ6B3zmFkVOm6Qi8jx) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Gaurav Dagaonkar](https://open.spotify.com/artist/5jW93KBgv7vhPpBqbcLxWy), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54), [Sunset Tribe](https://open.spotify.com/artist/5IDSjfknrsLjPjjEipGMhB) | [Saawan](https://open.spotify.com/album/364RNOGLoX3MDBGD4zdlsM) | 4:00 |
-| 25 | [Danger \(From the album ‘Industry2’\)](https://open.spotify.com/track/4c60wfEXKrxojR0tKEjPpw) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Danger \(From the album ‘Industry2’\)](https://open.spotify.com/album/29xSAVZlJXfesyePdoG5Iw) | 3:00 |
+| 25 | [Danger](https://open.spotify.com/track/4c60wfEXKrxojR0tKEjPpw) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Danger](https://open.spotify.com/album/29xSAVZlJXfesyePdoG5Iw) | 3:00 |
 | 26 | [Raatan Kaaliyan](https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie), [Gautam G Sharma](https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw) | [Raatan Kaaliyan](https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq) | 3:44 |
 | 27 | [BILLO](https://open.spotify.com/track/0AqRLZb3RAsJ50HARMGqAh) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Prashant Satose](https://open.spotify.com/artist/5YaMpCcLENiht5uqMz9iGo), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [BILLO](https://open.spotify.com/album/0o2fQWt3RkDeN5jGU8Ii9U) | 3:00 |
 | 28 | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Nawazuddin Siddiqui](https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1) | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCxhN2JmMTVlYjA2YTEwNzZhNTRiNzUwM2IyMDY0Mzg2YzJlYmIzNGM1`
+Snapshot ID: `MCwzNTQ2ZTNiMTAwMDFkNmNmNTMxYzYwYWQ1ZmYxYmQxMGYwMDgzNWRm`

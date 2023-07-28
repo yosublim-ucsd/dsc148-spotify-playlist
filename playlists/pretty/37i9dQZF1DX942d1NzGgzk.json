@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Kali Claire",
-  "num_followers": 123838,
+  "num_followers": 123936,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2YwNGFmNTVlOTQ2ZmQ4MTBjMzBjZTEzZDE2ZTZkOGRkMzUwMGM2",
+  "snapshot_id": "MCwzYTYzNzY2Y2I4YjZkYWY4OTg1MDFiODFkNTQwNTA3NWQ5OWQ0MDQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 12:54:45",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Terms and Conditions",
-        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 209682,
-      "name": "Terms and Conditions",
-      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "It Only Cost Everything",
-        "url": "https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "It Only Cost Everything",
-      "url": "https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -503,58 +487,6 @@
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Happi",
-          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Cardboard Box - Happi Remix",
-      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -575,6 +507,42 @@
       "duration_ms": 201942,
       "name": "Bussdown (feat. Shaybo)",
       "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Happi",
+          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Cardboard Box - Happi Remix",
+      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -615,6 +583,38 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 209682,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "Strawberry Skies",
         "url": "https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09"
       },
@@ -647,78 +647,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
-      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Immature",
-        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 173105,
-      "name": "Immature",
-      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "November (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "Got To Be Good",
         "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
       },
@@ -739,6 +667,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 173105,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
       },
@@ -755,18 +699,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "Karl Benjamin",
-          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 164856,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
+      "duration_ms": 214026,
+      "name": "November (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -803,18 +751,18 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
       },
       "artists": [
         {
-          "name": "Aida Lae",
-          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
         }
       ],
-      "duration_ms": 175453,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
+      "duration_ms": 164856,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -851,18 +799,18 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Excited",
-        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
       },
       "artists": [
         {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Excited",
-      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
+      "duration_ms": 175453,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -879,6 +827,42 @@
       "duration_ms": 194906,
       "name": "Caught Me Running",
       "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
+      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Excited",
+        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Excited",
+      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "Timeout",
         "url": "https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -1051,6 +1035,26 @@
       "duration_ms": 206875,
       "name": "Genesis (Remix) [feat. Miraa May, Joyce Wrice & Bellah]",
       "url": "https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
+        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
+      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     }
   ],
   "unique_name": "R&B UK",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Kloe
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,353 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,387 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 35 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
 | 36 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
 | 37 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 38 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
-| 39 | [Maldita Jersey Club](https://open.spotify.com/track/1httltr7jBLs4PbFpNYZay) | [Kyrios](https://open.spotify.com/artist/4XViqPQHSXzF78Iy8d9DZS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Maldita Jersey Club](https://open.spotify.com/album/1YxVO4WBkitiMk5SBlXCVT) | 3:22 |
+| 38 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 |
+| 39 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 40 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
-| 41 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
+| 41 | [Maldita Jersey Club](https://open.spotify.com/track/1httltr7jBLs4PbFpNYZay) | [Kyrios](https://open.spotify.com/artist/4XViqPQHSXzF78Iy8d9DZS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Maldita Jersey Club](https://open.spotify.com/album/1YxVO4WBkitiMk5SBlXCVT) | 3:22 |
 | 42 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
 | 43 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
-| 44 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 |
+| 44 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 | 45 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
 | 46 | [TE AMO!](https://open.spotify.com/track/2UZ7xwWTffAbB6nWa9NAfV) | [Duda Spice](https://open.spotify.com/artist/1xPBtxnaXMu5djES3yvlYt), [Goldlab Records](https://open.spotify.com/artist/6ISiV08ogOBFqv2KFVgmFp) | [TE AMO!](https://open.spotify.com/album/6jqmXRHdKBZUwxR9y6TWkc) | 2:13 |
 | 47 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Tava Escrito](https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K) | [Yasmin Limas](https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Nitro Di](https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh) | [Tava Escrito](https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O) | 3:01 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw4YjJiMTQ4ZTlmNDU1MGIwZWY5N2ZjNjI3NjAwNDAyM2I2ZWMxZTg4`
+Snapshot ID: `MCwyNjZmMDM3NWRiM2QzMTE4NDcwYTQwOGMyODQyYjFlMjJhMzBiNjg4`

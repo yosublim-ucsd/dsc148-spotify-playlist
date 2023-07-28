@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,318 likes - 117 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,345 likes - 117 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 53 | [Love Divide](https://open.spotify.com/track/2q1fb1ENmNiJAeosPZqAlC) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 4:29 |
 | 54 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
 | 55 | [In the Dust of This Planet](https://open.spotify.com/track/1kgd7UZ66qP1i18SNubchS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 7:59 |
-| 56 | [Cos\-Ber\-Zam Ne Noya \- Daphni Mix](https://open.spotify.com/track/5wah0uTpYKOSuHax1v4olL) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Jiaolong](https://open.spotify.com/album/4MLv6PbCID5my2Dtya3iUd) | 5:36 |
+| 56 | [Ne Noya \- Daphni Mix](https://open.spotify.com/track/5wah0uTpYKOSuHax1v4olL) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Cos\-Ber\-Zam](https://open.spotify.com/artist/30NndQQgXSx93VvAtlFQw4) | [Jiaolong](https://open.spotify.com/album/4MLv6PbCID5my2Dtya3iUd) | 5:36 |
 | 57 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 |
 | 58 | [Sun Phase \- Human Movement Remix](https://open.spotify.com/track/1NeG33plymBYofVlEftPu7) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Sun Phase](https://open.spotify.com/album/1imDuOv4CXSdHbyt6QA4JT) | 6:27 |
 | 59 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 116 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 117 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCwzNmNlNWJjOTEzMTA4NmMzYzRiMDcyZmQ3Zjg1NjU0NjlkZDA2NzI1`
+Snapshot ID: `MCw0ZDc1ZWE0Y2Y5Yzg5ZjVkNjFiODUwYWJhN2M0Nzg4OTVhNWNkYTk0`

@@ -1,12 +1,12 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 120453,
+  "num_followers": 120485,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQzNDEwY2RiMTZkMjhiMzgxNzNmNDA1Yjc2OTFiM2U4OWExZDAx",
+  "snapshot_id": "MCxhYjEyYTc5NTNiNzJjYTQ2ZDE1Y2U3ZmMzYmZmMjAyMDk4YzFjNmQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 05:40:17",
@@ -279,30 +279,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Zinda Dili 2.0",
-        "url": "https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Anshuman Sharma",
-          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Zinda Dili 2.0",
-      "url": "https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Khwaab",
         "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
       },
@@ -315,22 +291,6 @@
       "duration_ms": 178421,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
-        "name": "Nit Nit",
-        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Nit Nit",
-      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -351,6 +311,22 @@
       "duration_ms": 184370,
       "name": "Chalo Chalein",
       "url": "https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Nit Nit",
+        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "duration_ms": 246136,
+      "name": "Nit Nit",
+      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -423,26 +399,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Baaraat",
-        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        }
-      ],
-      "duration_ms": 222096,
-      "name": "Baaraat",
-      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Aisi Raaton",
         "url": "https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R"
       },
@@ -475,6 +431,26 @@
       "duration_ms": 178197,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -647,22 +623,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Kota Factory: Season 1 (Music from Tvf Original Series)",
-        "url": "https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z"
-      },
-      "artists": [
-        {
-          "name": "Karthik Rao",
-          "url": "https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Main Bola Hey!",
-      "url": "https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Udd Chala",
         "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
       },
@@ -675,6 +635,22 @@
       "duration_ms": 286181,
       "name": "Udd Chala",
       "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Kota Factory: Season 1 (Music from Tvf Original Series)",
+        "url": "https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z"
+      },
+      "artists": [
+        {
+          "name": "Karthik Rao",
+          "url": "https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Main Bola Hey!",
+      "url": "https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -787,22 +763,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Kaari",
-        "url": "https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Kaari",
-      "url": "https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Bombay Dreams",
         "url": "https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU"
       },
@@ -815,6 +775,22 @@
       "duration_ms": 185305,
       "name": "Aao Chalein",
       "url": "https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Kaari",
+        "url": "https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Kaari",
+      "url": "https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -907,6 +883,22 @@
       "duration_ms": 152523,
       "name": "intezaar",
       "url": "https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Shaayad",
+      "url": "https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9"
     }
   ],
   "unique_name": "Indie Shower Tunes",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. poppy",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lynks",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 209598,
       "name": "1x1 (feat. Nova Twins)",
       "url": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168324,
       "name": "atoms",
       "url": "https://open.spotify.com/track/139vV5MsZSsOgzz0CU6Mgk"
@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132818,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
+    },
+    {
+      "album": {
         "name": "Choose Your Fighter",
         "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
       },
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 225858,
       "name": "cursed angel",
       "url": "https://open.spotify.com/track/4pydYArxjKWJlEiv0XEo8K"
@@ -2370,6 +2388,24 @@
       "duration_ms": 301558,
       "name": "DEAD FLOWERS",
       "url": "https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4"
+    },
+    {
+      "album": {
+        "name": "DEAD SPACE",
+        "url": "https://open.spotify.com/album/7pEFnk0NCKnJ5BhtMdaREf"
+      },
+      "artists": [
+        {
+          "name": "YUNG REAPER",
+          "url": "https://open.spotify.com/artist/1eU7zALoDM13x8Rv7vmtPX"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "DEAD SPACE",
+      "url": "https://open.spotify.com/track/3YAgiHn9ESXhCpWgwXzJzH"
     },
     {
       "album": {
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 72887,
       "name": "HAMMER 2 THE FACE",
       "url": "https://open.spotify.com/track/6fxL63j4NI3CSKJbDiaTkg"
@@ -4636,7 +4672,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 179226,
       "name": "Hennessy Brown",
       "url": "https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM"
@@ -5092,6 +5128,28 @@
       "duration_ms": 185463,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/3Na7kN9eIAbKvk92W4kdZ7"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Software",
+        "url": "https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Illangelo",
+          "url": "https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "I Wanna Be Software",
+      "url": "https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706"
     },
     {
       "album": {
@@ -8641,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "sacrifice/surrender",
+        "url": "https://open.spotify.com/album/46wAFzEPEs6AQWWnyV2OO8"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "sacrifice/surrender",
+      "url": "https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco"
+    },
+    {
+      "album": {
         "name": "Sad Girl Summer",
         "url": "https://open.spotify.com/album/6BD3f64782idv4IF2npufe"
       },
@@ -9892,7 +9968,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 161500,
       "name": "the world is big",
       "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
@@ -9989,6 +10065,24 @@
     },
     {
       "album": {
+        "name": "THINGS YOU DO",
+        "url": "https://open.spotify.com/album/1ICuuWv0oVR9aTzHoL0Qg5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "THINGS YOU DO",
+      "url": "https://open.spotify.com/track/4UaPP5MWujLmfqRJmjcroK"
+    },
+    {
+      "album": {
         "name": "Third Class Citizen (Bobby Wolfgang Remix)",
         "url": "https://open.spotify.com/album/2CtqGhCfMwftWVzdWMWvxj"
       },
@@ -10004,7 +10098,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 206206,
       "name": "Third Class Citizen - Bobby Wolfgang Remix",
       "url": "https://open.spotify.com/track/36DExajZ1VSGso5eMGO5Cg"
@@ -10199,6 +10293,24 @@
     },
     {
       "album": {
+        "name": "Trust No One",
+        "url": "https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Trust No One",
+      "url": "https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v"
+    },
+    {
+      "album": {
         "name": "U Love It",
         "url": "https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi"
       },
@@ -10316,6 +10428,24 @@
       "duration_ms": 141219,
       "name": "ur so cool.",
       "url": "https://open.spotify.com/track/2oZKMKHbqWFcn4e3qxhosy"
+    },
+    {
+      "album": {
+        "name": "USE IT OR LOSE IT",
+        "url": "https://open.spotify.com/album/7mGLgoiDGlA7oNv141NljX"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228972,
+      "name": "USE IT OR LOSE IT",
+      "url": "https://open.spotify.com/track/7aGCN41khC4fC0P59l9u9a"
     },
     {
       "album": {

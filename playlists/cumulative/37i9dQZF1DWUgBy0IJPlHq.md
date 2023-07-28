@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Uncle Lucius
 
-467 songs - 1 day 4 hr 51 min
+468 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 |  |
 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2021-12-17 | 2022-12-10 |
 | [In Texas With A Band](https://open.spotify.com/track/6iWhR6e5mBsUPT1Mogqny7) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [In Texas With A Band](https://open.spotify.com/album/1JhJnz9YsQMbQXcfluJb8C) | 2:52 | 2022-04-22 | 2022-05-28 |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-27 |  |
 | [Intertwine](https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD) | [Senora May](https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD), [Chloe Edmonstone](https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [All of My Love](https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR) | 4:00 | 2022-11-25 | 2023-04-09 |
 | [It Feels Alright](https://open.spotify.com/track/0UDe6J6OfgOnHeQToYLRmo) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:28 | 2022-10-28 | 2023-02-11 |
 | [It Feels Alright](https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 3:28 | 2022-05-20 | 2022-11-16 |

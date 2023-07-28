@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 261358,
+  "num_followers": 261435,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWVlNDdkMDE3YzMzMDQ3YWEzMTdkMTM3NzRjNzgwMjg3NDQ1YmM4",
+  "snapshot_id": "MCw4NDhhNThiNjhlYWY2ODg5NTE3Nzc1ZWQ4MjE5NTk1NzUzOWFmNDBl",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+      },
+      "artists": [
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
-      },
-      "artists": [
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "A Pedir Su Mano",
-      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 225866,
       "name": "M\u00edo",
       "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "La Tierra del Olvido",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 265800,
-      "name": "La Tierra del Olvido",
-      "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
+      "duration_ms": 205000,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
       },
       "artists": [
         {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Te Ves Buena",
-      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
+      "duration_ms": 265800,
+      "name": "La Tierra del Olvido",
+      "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 296026,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 269613,
       "name": "Como Te Deseo",
       "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 296026,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Mdo",
-        "url": "https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na"
-      },
-      "artists": [
-        {
-          "name": "MDO",
-          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "No Puedo Olvidarme Ti",
-      "url": "https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Originales",
         "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 244773,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Mdo",
+        "url": "https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na"
+      },
+      "artists": [
+        {
+          "name": "MDO",
+          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "No Puedo Olvidarme Ti",
+      "url": "https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Llegar A Ti",
         "url": "https://open.spotify.com/album/3t3IgcB1FoWX2X4Jca5eCw"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 272826,
       "name": "Llegar A Ti",
       "url": "https://open.spotify.com/track/6FuFhivTRqTtK5RYQavPTa"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
     },
     {
       "added_at": "2023-02-17 21:06:33",

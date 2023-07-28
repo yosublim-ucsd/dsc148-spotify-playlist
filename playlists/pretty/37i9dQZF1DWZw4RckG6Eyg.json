@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 9951,
+  "num_followers": 9953,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTZhMmQyY2JmMGNjNDYwMDk3Njk0M2E4Nzc0N2M0NjEwNDA3ZjQ4",
+  "snapshot_id": "MCxmMjUwMTMyZTJhZDI2YWM1ZTgxNTRiZGNjNWY0YTUxOWM3NWU0MGYx",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Love You By Myself",
-        "url": "https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Love You By Myself",
-      "url": "https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "The Sex EP",
         "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Love You By Myself",
+        "url": "https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Love You By Myself",
+      "url": "https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU"
+      },
+      "artists": [
+        {
+          "name": "Congee",
+          "url": "https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm"
+        }
+      ],
+      "duration_ms": 214691,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "High-Speed Kissing",
         "url": "https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU"
-      },
-      "artists": [
-        {
-          "name": "Congee",
-          "url": "https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm"
-        }
-      ],
-      "duration_ms": 214691,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Metamorphosis: Final Stage",
-        "url": "https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "Back In The Game",
-      "url": "https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sex in Afrikaans",
         "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 186500,
       "name": "Sex in Afrikaans",
       "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Metamorphosis: Final Stage",
+        "url": "https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr"
-      },
-      "artists": [
-        {
-          "name": "Deco",
-          "url": "https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Dame Dearest (Pilot)",
         "url": "https://open.spotify.com/album/4XbrkI4jqtyaUr7cBnwz4L"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 183183,
       "name": "Mirror Dance",
       "url": "https://open.spotify.com/track/6SXfklnxW14O5gKqkBNaMm"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr"
+      },
+      "artists": [
+        {
+          "name": "Deco",
+          "url": "https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Seashell Cassette",
-        "url": "https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Heterotopia",
         "url": "https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 197500,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Seashell Cassette",
+        "url": "https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Complete In Box",
+        "url": "https://open.spotify.com/album/1K1bKLpQoWvqtyojY4hxHO"
+      },
+      "artists": [
+        {
+          "name": "Celia",
+          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
+        }
+      ],
+      "duration_ms": 175945,
+      "name": "Mott St",
+      "url": "https://open.spotify.com/track/4bi4qAirJz1NPjw9nKYvsq"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Mute",
         "url": "https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 193041,
       "name": "Tajiharu Samba",
       "url": "https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Complete In Box",
-        "url": "https://open.spotify.com/album/1K1bKLpQoWvqtyojY4hxHO"
-      },
-      "artists": [
-        {
-          "name": "Celia",
-          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
-        }
-      ],
-      "duration_ms": 175945,
-      "name": "Mott St",
-      "url": "https://open.spotify.com/track/4bi4qAirJz1NPjw9nKYvsq"
     }
   ],
   "unique_name": "Indie songs from 2022 you may have missed",

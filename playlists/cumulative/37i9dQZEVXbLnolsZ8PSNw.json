@@ -16557,6 +16557,24 @@
     },
     {
       "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "album": {
         "name": "Crop Circle 2",
         "url": "https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6"
       },
@@ -17846,6 +17864,24 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
+    },
+    {
+      "album": {
+        "name": "Pink (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7sxJ0kJ1I7cDD3OGIzOtnx"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143833,
+      "name": "Pink (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/6QTGiIuNopQu1iV2aa0fDS"
     },
     {
       "album": {
@@ -19900,7 +19936,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -20724,7 +20760,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"

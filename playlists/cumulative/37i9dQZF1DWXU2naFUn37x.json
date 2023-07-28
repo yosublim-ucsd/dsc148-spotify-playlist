@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Medy",
+  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive, Sacky",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 169361,
       "name": "Intrappolato",
       "url": "https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p"
@@ -3706,6 +3706,32 @@
       "duration_ms": 174693,
       "name": "La frappe",
       "url": "https://open.spotify.com/track/1jWcKHWj89EdYllfpVvops"
+    },
+    {
+      "album": {
+        "name": "LA MULA",
+        "url": "https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Vaporstef",
+          "url": "https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136850,
+      "name": "LA MULA",
+      "url": "https://open.spotify.com/track/5WcctLfufHRiiAJsH946my"
     },
     {
       "album": {
@@ -5641,6 +5667,24 @@
     },
     {
       "album": {
+        "name": "Scappa da Milano",
+        "url": "https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Scappa da Milano",
+      "url": "https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn"
+    },
+    {
+      "album": {
         "name": "Screenshot",
         "url": "https://open.spotify.com/album/2qfz2KOd4sFv9hiMjN7DY1"
       },
@@ -6480,7 +6524,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 157714,
       "name": "Tirana (feat. Finem)",
       "url": "https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl"

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 38361,
+  "num_followers": 38384,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTIxZDZiZmI1MjUyNjJmZjhhNzVkNDdlNDM5ZmQ0YzkyZDc4ODQy",
+  "snapshot_id": "MCxmMTNkOGY0Y2FiNzBkYWZjNGU3MjJhNTQ0NzJhN2FmMzRkZWMyMzU5",
   "tracks": [
     {
       "added_at": "2023-07-13 14:00:00",
@@ -255,6 +255,42 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "When We Were Younger (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 234736,
+      "name": "When We Were Younger (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU"
+      },
+      "artists": [
+        {
+          "name": "Sharin Attamimi",
+          "url": "https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX"
+        }
+      ],
+      "duration_ms": 180841,
+      "name": "Unapologetically",
+      "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
       },
@@ -279,22 +315,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU"
-      },
-      "artists": [
-        {
-          "name": "Sharin Attamimi",
-          "url": "https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX"
-        }
-      ],
-      "duration_ms": 180841,
-      "name": "Unapologetically",
-      "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 183160,
       "name": "Finding Peace",
       "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "When We Were Younger (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "When We Were Younger (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 231448,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
       "artists": [
         {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -743,22 +727,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -807,6 +791,26 @@
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Jaime (Reimagined)",
+        "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -863,22 +867,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
       },
@@ -895,22 +883,34 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Jaime (Reimagined)",
-        "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -931,22 +931,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -1079,6 +1063,30 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "Silver & Gold (Yarni feat. Liv East Remix)",
+        "url": "https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 300522,
+      "name": "Silver & Gold - Yarni feat. Liv East Remix",
+      "url": "https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "CDW",
         "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
       },
@@ -1107,30 +1115,6 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "Silver & Gold (Yarni feat. Liv East Remix)",
-        "url": "https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        },
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 300522,
-      "name": "Silver & Gold - Yarni feat. Liv East Remix",
-      "url": "https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -1211,6 +1195,34 @@
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
+        "url": "https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "Milan Ring",
+          "url": "https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        }
+      ],
+      "duration_ms": 197716,
+      "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
+      "url": "https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9"
     }
   ],
   "unique_name": "Soulful",

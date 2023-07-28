@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Hozier
 
-216 songs - 12 hr 28 min
+218 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Everybody's Got to Learn](https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:53 | 2023-07-14 |  |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 |  |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-04-06 | 2023-04-14 |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-07-27 |  |
 | [Feeling Alright](https://open.spotify.com/track/1O4jnAcK94eYtd9z7GOUnN) | [Ruud Houweling](https://open.spotify.com/artist/2IONeTGcpMPwB3v6CCyLQ8) | [Feeling Alright](https://open.spotify.com/album/2seQvDlWDr2cc5E8y5FX8c) | 4:18 | 2023-07-06 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 | 2023-06-30 |
 | [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 | 2023-03-10 |  |
@@ -161,13 +162,14 @@
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-25 |  |
 | [Runaway](https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:42 | 2023-06-29 |  |
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-09 | 2023-06-05 |
-| [Running Backwards Into The Future](https://open.spotify.com/track/7dvwk1q1jCt8lYY3S7Duog) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Red / Yellow / Blue](https://open.spotify.com/album/4jsaaN4FCIJRNHkikQulD2) | 3:54 | 2023-06-01 |  |
+| [Running Backwards Into The Future](https://open.spotify.com/track/7dvwk1q1jCt8lYY3S7Duog) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Red / Yellow / Blue](https://open.spotify.com/album/4jsaaN4FCIJRNHkikQulD2) | 3:54 | 2023-06-01 | 2023-07-28 |
 | [Running From](https://open.spotify.com/track/5catELDuNmRvDLm1e6CUx6) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:30 | 2023-04-06 |  |
 | [Saturday Night](https://open.spotify.com/track/3MHmpTBt7AXB3ywiSMa0wd) | [La Belle Époque](https://open.spotify.com/artist/3glSXGL2GZHUg7VwUK2ec5), [Bent Van Looy](https://open.spotify.com/artist/6QJ7t02MnhVXdlDn1lmdTY) | [Saturday Night](https://open.spotify.com/album/7v394nAChDh9ub1GyjgFpe) | 3:07 | 2023-06-26 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-25 |  |
 | [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-02-23 | 2023-05-12 |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-14 |
 | [Simple Step](https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:45 | 2023-02-23 | 2023-05-10 |
+| [Since You’ve Been Gone](https://open.spotify.com/track/2qSre9JelYw09vYxjXanrF) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Since You’ve Been Gone](https://open.spotify.com/album/0QuL1PDgFIS8vUUS5zQ6Yz) | 3:10 | 2023-07-27 |  |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-09 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |
@@ -220,7 +222,7 @@
 | [Wiser](https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S) | [PYRO](https://open.spotify.com/artist/1lgKBSJSuiEvyoiDwpRBFb) | [Wiser](https://open.spotify.com/album/1a7cqum0P2qEedF3Z1kwkL) | 3:35 | 2023-02-23 | 2023-03-10 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-20 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-18 |  |
-| [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 | 2023-04-06 |  |
+| [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 | 2023-04-06 | 2023-07-28 |
 | [You Are You](https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are You](https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf) | 2:58 | 2023-03-24 | 2023-04-02 |
 | [You Are You](https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 2:58 | 2023-03-30 | 2023-04-09 |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-02-23 | 2023-04-14 |

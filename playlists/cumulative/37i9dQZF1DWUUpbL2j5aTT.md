@@ -4,11 +4,12 @@
 
 > The best of Brazilian House and Deep House\. Photo: SPECT3R
 
-66 songs - 4 hr 10 min
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [350°F \- VIP Mix](https://open.spotify.com/track/0Jrlcpc9Eeulbtn0BOmJuG) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F \(VIP Mix\)](https://open.spotify.com/album/0hBsWryPVKOQZ3u6UDGdf4) | 3:29 | 2023-07-21 |  |
+| [350°F \- VIP Mix](https://open.spotify.com/track/0Jrlcpc9Eeulbtn0BOmJuG) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F \(VIP Mix\)](https://open.spotify.com/album/0hBsWryPVKOQZ3u6UDGdf4) | 3:29 | 2023-07-21 | 2023-07-28 |
+| [350°F \- VIP Mix](https://open.spotify.com/track/6FAs2FDoLH3SazWNLfpqMi) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F](https://open.spotify.com/album/3SqC2hYji3YNIHGPMdxQsX) | 3:29 | 2023-07-21 |  |
 | [About Love](https://open.spotify.com/track/5pbB8cnLWb0vzMtI88Zeci) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [About Love](https://open.spotify.com/album/3aV1WLbnBt3ixeoIi27RE4) | 4:04 | 2023-07-21 |  |
 | [Addictive](https://open.spotify.com/track/1h99HGj5wwNX1DqoJRpPDv) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Addictive](https://open.spotify.com/album/6sZycycWxSmPtRRrarYJSU) | 2:45 | 2023-07-21 |  |
 | [Anyway](https://open.spotify.com/track/1D2k8w6a7pGgm01Q3xLiae) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Anyway](https://open.spotify.com/album/4eTG5fu0MGHN1DjgqoxQaB) | 3:16 | 2023-07-21 |  |

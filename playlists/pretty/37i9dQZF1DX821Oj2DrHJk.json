@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 27533,
+  "num_followers": 27568,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTA4NmUxOTUzZjk3NGQwMWIxYmZmNmRhNmYzY2I2YTBkYzM4Y2My",
+  "snapshot_id": "MCw5OTc5ZmEwZThjNGQ5ZTUzYmQ4YzEwNmFkYjhmYzJhZTRkMjY5NTIy",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 170800,
       "name": "You're My Best Friend - Remastered 2011",
       "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Double Vision (Expanded)",
         "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "War And Peace",
         "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Love Gun",
-      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Candy-O",
         "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 213173,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Since We've Been Gone",
-        "url": "https://open.spotify.com/album/4EdLgC4Q2QX7MDnkzv6X5o"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "Clout",
-          "url": "https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Substitute",
-      "url": "https://open.spotify.com/track/6Emcew1wV588w2hh8SmLiw"
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Since We've Been Gone",
+        "url": "https://open.spotify.com/album/4EdLgC4Q2QX7MDnkzv6X5o"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Clout",
+          "url": "https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Pretty Vacant",
-      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+      "duration_ms": 209186,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6Emcew1wV588w2hh8SmLiw"
     },
     {
       "added_at": "2022-11-17 16:14:04",

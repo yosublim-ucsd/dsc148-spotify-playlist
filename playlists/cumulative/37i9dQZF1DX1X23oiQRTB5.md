@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français !
+> Gazo x Damso au top de la première playlist de rap français !
 
-179 songs - 9 hr 12 min
+180 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
 | [Akimbo](https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/2JWtcWOPqE9NRXv0O6DCLU) | 2:30 | 2022-01-06 | 2022-04-29 |
-| [Ali](https://open.spotify.com/track/5v32mvTTSUT1jomPWL1qmx) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mac Tyer](https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN) | [Ali](https://open.spotify.com/album/1ce6cwzY7lHuCF6oCp1LId) | 4:08 | 2023-06-01 |  |
+| [Ali](https://open.spotify.com/track/5v32mvTTSUT1jomPWL1qmx) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mac Tyer](https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN) | [Ali](https://open.spotify.com/album/1ce6cwzY7lHuCF6oCp1LId) | 4:08 | 2023-06-01 | 2023-07-28 |
 | [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 | 2022-09-01 | 2023-03-10 |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2022-11-24 |  |
 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 | 2022-01-20 | 2022-05-13 |
@@ -151,6 +151,7 @@
 | [Philly](https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Philly](https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP) | 3:48 | 2023-02-02 |  |
 | [Pistol & Zamal](https://open.spotify.com/track/62N0lcbpZiLKaly4o0DffQ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Pistol & Zamal](https://open.spotify.com/album/5qzjroW1hyHrxILtShmQwR) | 2:25 | 2023-04-06 | 2023-05-26 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
+| [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-27 |  |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-13 | 2023-05-26 |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-02-09 | 2023-06-02 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-25 |  |

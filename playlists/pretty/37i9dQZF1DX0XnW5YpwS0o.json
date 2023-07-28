@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 75906,
+  "num_followers": 76016,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ0ZjAzYTFjMTVkYWVhY2Q4YmU3MWY5Yjk2MDQwNDYzYTk4ODkx",
+  "snapshot_id": "MCxhNTg5YTk2MjQ2ZGJiOTcxNmQ0ZDhlNjQ5NzE5YmIyNjI4ZmRkOGQ5",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 194760,
       "name": "Running with the Wolves",
       "url": "https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "For Elise",
-      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 200987,
       "name": "Send Them Off!",
       "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "For Elise",
+      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
+      "duration_ms": 187893,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "I Had a Dream That You Were Mine",
         "url": "https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 248360,
       "name": "A 1000 Times",
       "url": "https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Gameshow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 230853,
       "name": "Are We Ready? (Wreck)",
       "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+        "name": "Ash & Ice",
+        "url": "https://open.spotify.com/album/7E6UpW4mlPavgOq1YuB2fd"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Half the World Away",
-      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+      "duration_ms": 247793,
+      "name": "Doing It To Death",
+      "url": "https://open.spotify.com/track/2hDtkP0ge2Gckcj7qi2NQ2"
     }
   ],
   "unique_name": "Best of Indie 2016",

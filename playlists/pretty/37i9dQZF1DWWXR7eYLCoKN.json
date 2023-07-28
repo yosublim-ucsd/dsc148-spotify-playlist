@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 122890,
+  "num_followers": 122937,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Q3YTkxMDRlOGNlMTkxNGM4NjQ3YWQ1YmE2M2FkNDY0NmFlNTRm",
+  "snapshot_id": "MCwwN2U5OThmYTI3OWZhZDg3MWY3ZTBjMmQzNmMwNTA5YmIzZWQ5MWY0",
   "tracks": [
     {
       "added_at": "2023-04-28 21:19:13",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -739,22 +739,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "A Enluarada Elizeth",
-        "url": "https://open.spotify.com/album/73tYzmMaMZRaowHFuhk3gm"
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
       },
       "artists": [
         {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
-        },
-        {
-          "name": "Pixinguinha",
-          "url": "https://open.spotify.com/artist/0pMRwfwerzk1N0cUov351R"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 154733,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/5VLsvYg9dlDHXNwlX6r9QO"
+      "duration_ms": 220800,
+      "name": "Espiral de Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+        "name": "A Enluarada Elizeth",
+        "url": "https://open.spotify.com/album/73tYzmMaMZRaowHFuhk3gm"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+        },
+        {
+          "name": "Pixinguinha",
+          "url": "https://open.spotify.com/artist/0pMRwfwerzk1N0cUov351R"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Espiral de Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI"
+      "duration_ms": 154733,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/5VLsvYg9dlDHXNwlX6r9QO"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/1Cu3ppDrGUfRkg8kp2ySVV"
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
       "artists": [
         {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
         }
       ],
-      "duration_ms": 156032,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4wbghS9VbEweFlKsYRFucB"
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Sarav\u00e1, Paz e Bem",
-        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
-      },
-      "artists": [
-        {
-          "name": "Elisa Fernandes",
-          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
-        }
-      ],
-      "duration_ms": 223799,
-      "name": "Aprendi a Ser Feliz",
-      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
         "name": "Gilbertos Samba",
         "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
       },
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
-        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Tristeza P\u00e9 No Ch\u00e3o",
-      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -1099,6 +1067,22 @@
       "duration_ms": 196808,
       "name": "Samba de Amanda e T\u00e9",
       "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
+        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
+        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Tristeza P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -1271,6 +1255,22 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
+        "name": "Voo Longe",
+        "url": "https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Enquanto Voc\u00ea N\u00e3o Chega",
+      "url": "https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC"
     }
   ],
   "unique_name": "Samba & \u00e1gua fresca",

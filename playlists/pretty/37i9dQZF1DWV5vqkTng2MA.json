@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 368589,
+  "num_followers": 368666,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2E4Yjc3M2ZmZWNiZmYzZTc2ZmI2MWQzMWU3NmZmNzVmNWRmMmU4",
+  "snapshot_id": "MCxmNTc5ZmYyMzZlZGU0NWUyOGIwNDZmYmI2YTQ2YWI4YWQxOGM4YmMw",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sound & Color",
         "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 232546,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Go Down River",
-      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 140133,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Bad Self Portraits",
-        "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "Bad Self Portraits",
-      "url": "https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -447,18 +431,34 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Bad Self Portraits",
+        "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 204786,
+      "name": "Bad Self Portraits",
+      "url": "https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Son Little (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 228000,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 293146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 258959,
+      "name": "Black Man In A White World",
+      "url": "https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Plastic Bouquet",
         "url": "https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 258959,
-      "name": "Black Man In A White World",
-      "url": "https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "For the Time Being",
         "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -919,18 +919,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
         }
       ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -951,6 +955,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 202401,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "This Is A Photograph II b/w Five Easy Pieces Revisited",
-        "url": "https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "This Is A Photograph II",
-      "url": "https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -1063,22 +1047,6 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Manic Revelations",
-        "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Riot In The Streets",
-      "url": "https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1099,18 +1067,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Promenade Blue",
-        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+        "name": "Manic Revelations",
+        "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
       },
       "artists": [
         {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 154617,
-      "name": "B. Santa Ana, 1986",
-      "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
+      "duration_ms": 220346,
+      "name": "Riot In The Streets",
+      "url": "https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1127,6 +1095,38 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "This Is A Photograph II b/w Five Easy Pieces Revisited",
+        "url": "https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "This Is A Photograph II",
+      "url": "https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Promenade Blue",
+        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 154617,
+      "name": "B. Santa Ana, 1986",
+      "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Alta Falls",
-        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 281893,
-      "name": "Never Been a Captain",
-      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 227092,
       "name": "To the Boys",
       "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Alta Falls",
+        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Never Been a Captain",
+      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Max Jury",
         "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 179253,
       "name": "Wastin' My Mind",
       "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Stay Right Here",
+        "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Stay Right Here",
+      "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Alexander",
         "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
       },
@@ -1419,34 +1435,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
+        "name": "Hollow Ground",
+        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
+      "duration_ms": 171468,
+      "name": "Don't Want to Say Good-bye",
+      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hollow Ground",
-        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
       "artists": [
         {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 171468,
-      "name": "Don't Want to Say Good-bye",
-      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
+      "duration_ms": 226773,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
     }
   ],
   "unique_name": "the new retro",

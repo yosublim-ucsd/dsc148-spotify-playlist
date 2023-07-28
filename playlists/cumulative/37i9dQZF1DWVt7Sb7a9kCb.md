@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-251 songs - 13 hr 5 min
+252 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Hawaii](https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Hawaii](https://open.spotify.com/album/2s83o7pdVw16oMQD0kelzc) | 2:48 | 2023-04-28 | 2023-05-06 |
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-05-28 | 2022-05-29 |
 | [Horas](https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [AFROCOLOMBIA](https://open.spotify.com/album/2rRxRnkCMNcnctsli9i5aU) | 3:51 | 2023-05-05 | 2023-05-13 |
-| [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 | 2023-05-26 |  |
+| [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 | 2023-05-26 | 2023-07-28 |
 | [Humo](https://open.spotify.com/track/2OqQWWjjzVAehMsneR3zeD) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Humo](https://open.spotify.com/album/4fhp8Sw7bLpL0Q9mFxF2tz) | 2:31 | 2023-03-20 | 2023-04-15 |
 | [Ilógico](https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Ilógico](https://open.spotify.com/album/57sfaJzjp4CP6UcqZc7cm9) | 2:30 | 2023-05-19 | 2023-05-27 |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-05-25 |  |
@@ -233,6 +233,7 @@
 | [Te Confieso](https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Confieso](https://open.spotify.com/album/7xsJj0Y8SGK5PlEhJUyKa5) | 2:49 | 2022-05-25 | 2022-07-29 |
 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 | 2022-05-25 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-05-25 |  |
+| [Te Necesito](https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx) | 3:17 | 2023-07-21 |  |
 | [Te Necesito](https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/6qacH4ed0StQX243TgQITF) | 3:17 | 2022-05-25 | 2023-07-22 |
 | [TEIDE](https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:02 | 2023-07-14 | 2023-07-22 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-05-28 |  |

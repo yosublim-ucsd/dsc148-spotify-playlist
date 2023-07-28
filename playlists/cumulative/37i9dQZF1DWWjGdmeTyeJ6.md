@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Debbii Dawson\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,613 songs - 10 day 11 hr 49 min
+4,618 songs - 10 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Bad Dream](https://open.spotify.com/track/5MHZZzod7EYBBWwarfNdik) | [Casey Bishop](https://open.spotify.com/artist/6LfA72Ad6LWcDYOwUMqpce) | [Bad Dream](https://open.spotify.com/album/0jX5ABWZBRzeCzn1A92BM1) | 2:40 | 2022-05-04 | 2022-05-12 |
 | [bad end](https://open.spotify.com/track/3tdwQmLpw9IVlZtUskqNWX) | [carrot boy](https://open.spotify.com/artist/5NdedfOcfUZa7ywrlzKxaW) | [bad end](https://open.spotify.com/album/1UmhZbNw6K2crYxiHkxN9B) | 3:12 | 2022-04-27 | 2022-05-05 |
 | [Bad Girl](https://open.spotify.com/track/1p4PzL7LJ0Lbpz21eTYKwl) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [Bad Girl](https://open.spotify.com/album/2NtrTuHEv3jjZrWgl6QpnV) | 3:24 | 2022-01-12 | 2022-01-20 |
+| [Bad Gurl](https://open.spotify.com/track/0mlJb5Qes5bQcshDA9FXmX) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Bad Gurl](https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp) | 3:15 | 2023-07-26 |  |
 | [Bad Loving](https://open.spotify.com/track/1a9labX4DUPualxZnrE8Pr) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Bad Loving](https://open.spotify.com/album/2CwTgY71rC3rrSFzM3XH04) | 2:21 | 2021-11-17 | 2022-01-13 |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-04 | 2022-05-12 |
 | [bad news](https://open.spotify.com/track/0XDXLhOaVVzlE3VWaZcKie) | [katya.](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [bad news](https://open.spotify.com/album/3omyQTYldkBSvcmZlleVmq) | 2:59 | 2023-03-15 | 2023-03-23 |
@@ -636,6 +637,7 @@
 | [bullet!](https://open.spotify.com/track/5t2QpybEH5zqkYnMopmR85) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [bullet!](https://open.spotify.com/album/4xk8Ubbe8KMbPJL5jz5NuL) | 2:51 | 2022-02-09 | 2022-02-17 |
 | [Bunny](https://open.spotify.com/track/48aHOWyvTQr5uetRRTbDET) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Bunny](https://open.spotify.com/album/6MKov5n6ZGccqT4XyXPNfj) | 2:44 | 2022-06-15 | 2022-06-30 |
 | [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 | 2022-07-20 | 2022-07-28 |
+| [Burn](https://open.spotify.com/track/3s3Irp135pXr2aZ6c1hfTA) | [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Burn](https://open.spotify.com/album/41qiFTdAtPndg2zUfOwmxf) | 3:15 | 2023-07-27 |  |
 | [burn \(to make you my love\)](https://open.spotify.com/track/0ku6AQ1ORvxyp0XZQ05bKA) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [burn \(to make you my love\)](https://open.spotify.com/album/2gCmSni68i3mA85NlDHGly) | 3:03 | 2022-09-28 | 2022-10-06 |
 | [Burn Again](https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Burn Again](https://open.spotify.com/album/002riN5oRTYuhXmc89gvgp) | 3:25 | 2022-03-23 | 2022-03-31 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-17 | 2022-01-13 |
@@ -1906,6 +1908,7 @@
 | [Hung Up](https://open.spotify.com/track/4OnTf4uffIUWFHAeb2X2Oq) | [Eila](https://open.spotify.com/artist/3QgHVqOGDEvvWFr5fI2DTW) | [Hung Up](https://open.spotify.com/album/1YtOovcY38EYxzrICyUQgy) | 3:11 | 2022-03-16 | 2022-03-24 |
 | [Hungover](https://open.spotify.com/track/1yBtfzR16m5PG57d5Knkkp) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Reflex](https://open.spotify.com/album/6lujTJyvhbQ5fMjUcAJfSL) | 3:13 | 2022-05-04 | 2022-05-12 |
 | [Hungover](https://open.spotify.com/track/6InUsU3gQ6TF30X36vYSYa) | [Wiley Beckett](https://open.spotify.com/artist/6LEn9GuuJittj0IYppAYrr) | [Hungover](https://open.spotify.com/album/3YP0m6tUpmP9Gtlf9TpUSr) | 2:44 | 2023-07-19 | 2023-07-27 |
+| [HUNNIBUN](https://open.spotify.com/track/2xXhtxILUKEeCUVs9Qf6R3) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [HUNNIBUN](https://open.spotify.com/album/5dI9g0Jt0YhqRiQN57w9t9) | 1:44 | 2023-07-27 |  |
 | [Hunter Schafer](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Hunter Schafer](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 | 2022-04-27 | 2022-05-05 |
 | [Hurricane](https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Hurricane](https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN) | 4:14 | 2022-03-16 | 2022-03-24 |
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-15 | 2022-06-30 |
@@ -2131,6 +2134,7 @@
 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 | 2023-04-12 | 2023-04-27 |
 | [ITS STRAIGHT](https://open.spotify.com/track/2qVR8fPHIAcK0lKbF8A950) | [Luh Cheetoh](https://open.spotify.com/artist/560BZJhvtTnwVdzUCxtcN4) | [ITS STRAIGHT](https://open.spotify.com/album/59VX9oPXeUFX9rFQ5g8fVU) | 2:47 | 2022-03-02 | 2022-03-10 |
 | [Itsy Bitsy](https://open.spotify.com/track/7LwZguzLTNzMgN3ffeDzIg) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Itsy Bitsy](https://open.spotify.com/album/16YsDQEJhHrIHXV8SB3zbj) | 2:42 | 2023-03-22 | 2023-03-30 |
+| [iwannaknow](https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh) | [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [ASB2](https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW) | 3:37 | 2023-07-27 |  |
 | [i’ve been thinking](https://open.spotify.com/track/0U5NSAv0aEcW2JSzFk6dKj) | [Ava Della Pietra](https://open.spotify.com/artist/5whBm2Wk9GvITjOclp8nQX) | [i’ve been thinking](https://open.spotify.com/album/0bSJgM583VrwSSGMRKb6QP) | 3:03 | 2022-03-23 | 2022-03-31 |
 | [J Randle](https://open.spotify.com/track/2nhgWdeCCkL1MPY1o8nfjH) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [J Randle](https://open.spotify.com/album/5eitjXa3pw92aeGS17TVVO) | 1:29 | 2022-07-20 | 2022-07-28 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 | 2023-01-12 |
@@ -3473,7 +3477,7 @@
 | [Sanitarium](https://open.spotify.com/track/1fhkSaVGqBMxB0ZwxCqFJM) | [Fencer](https://open.spotify.com/artist/27lqKE6Ddo4SeCKBoVlMSu) | [Sanitarium](https://open.spotify.com/album/26WvMrSVDwZqCwTYf6ABAC) | 3:30 | 2022-10-26 | 2022-11-10 |
 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 | 2022-01-12 | 2022-02-03 |
 | [Save Me](https://open.spotify.com/track/22upypnJH4Qj7Ggz9Mz31U) | [GVN](https://open.spotify.com/artist/1h4mpX9KJXJXoBlpAM6yqN) | [Save Me / Alone](https://open.spotify.com/album/4aG9p8CXo8cj4bJi28m9Xq) | 3:24 | 2022-03-02 | 2022-03-10 |
-| [Save Me](https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U) | [LULU](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Save Me](https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz) | 2:11 | 2023-07-26 |  |
+| [Save Me](https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Save Me](https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz) | 2:11 | 2023-07-26 |  |
 | [Save Our Place](https://open.spotify.com/track/6eHi4xj4dTF813i021XAUu) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City / Save Our Place](https://open.spotify.com/album/65IMtPx7E6RbW5CXfkqhov) | 4:32 | 2022-04-06 | 2022-04-14 |
 | [Save The Bees](https://open.spotify.com/track/1ReXB9kxiDPUpvNYt0dYEp) | [No Frills](https://open.spotify.com/artist/0HMaxwjEtWlFz9g5gtNL4S) | [Downward Dog](https://open.spotify.com/album/62MPUQu2NwxzaWUgJO8Mnn) | 3:31 | 2022-04-13 | 2022-04-28 |
 | [Save the Phenomenon](https://open.spotify.com/track/14Ykc7zF64qrKVj1mMDoGE) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Save the Phenomenon](https://open.spotify.com/album/2TcDBUuP9cpHPsBfVyRNIa) | 1:46 | 2022-10-05 | 2022-10-13 |
@@ -3862,6 +3866,7 @@
 | [stuck in my head](https://open.spotify.com/track/3IAKuqPKp40CrAqvH4wOWW) | [Grace Pelle](https://open.spotify.com/artist/0sBS1xdoktPWXbo6iNOx8p) | [stuck in my head](https://open.spotify.com/album/0j8naGnebSCGYwbt0XPHFc) | 3:01 | 2021-12-08 | 2022-01-13 |
 | [Stuck in the Middle](https://open.spotify.com/track/3FSdVIxZumTuPv5zqQCsdb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle](https://open.spotify.com/album/2GL3TmPmdA91fxYq3UCtrr) | 2:49 | 2022-06-29 | 2022-07-07 |
 | [Stuck on This Feeling](https://open.spotify.com/track/5s5BEpAPFlizcrs7HfA5cK) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Stuck on This Feeling](https://open.spotify.com/album/5n7Asipw0VAjvABxSsoW1T) | 3:39 | 2023-01-25 | 2023-02-02 |
+| [Studio Rat \(I can't always be what you want\)](https://open.spotify.com/track/3lf2oLeSuk8aWBDzQGpYcz) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/1K1bKLpQoWvqtyojY4hxHO) | 3:22 | 2023-07-26 |  |
 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 | 2021-12-08 | 2022-01-13 |
 | [Stupid.](https://open.spotify.com/track/0VPviA6kqKtsmpBKgZBKM8) | [Ni/Co](https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr), [Jonathan & Friends](https://open.spotify.com/artist/7iGyHL0MMwmyScIHOuW7Lo) | [Assignment / Stupid.](https://open.spotify.com/album/003ukg8dLyQEl1xkD6hKxY) | 2:36 | 2022-03-30 | 2022-04-07 |
 | [Suave](https://open.spotify.com/track/618IMJUulw0aN5yptpcxSD) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Suave](https://open.spotify.com/album/1fJII2RTRrKbtxvciiiuLY) | 2:46 | 2023-04-12 | 2023-04-27 |

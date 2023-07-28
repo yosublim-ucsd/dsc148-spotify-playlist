@@ -4,11 +4,12 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-404 songs - 1 day 0 hr 23 min
+405 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2022-02-19 | 2022-06-25 |
+| [A Good Thing](https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [A Good Thing](https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS) | 2:52 | 2023-07-21 |  |
 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 | 2022-04-01 | 2023-01-21 |
 | [Act Right](https://open.spotify.com/track/4kEdfHJnEs0nmOGypj2QqB) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Act Right](https://open.spotify.com/album/6mTy1GzNUXoylgbeJVWPQ5) | 3:12 | 2022-02-19 | 2022-06-26 |
 | [Adulting \- Live](https://open.spotify.com/track/42ilVo7uiw5VjsgmJ58O1c) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Adulting \(Live\)](https://open.spotify.com/album/1xqkxOqfInX0Rzk0jkUuZW) | 3:22 | 2022-02-19 | 2022-06-26 |
@@ -135,7 +136,7 @@
 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 | 2022-04-01 | 2022-04-30 |
 | [God Is Working](https://open.spotify.com/track/0xHo0tA2RYAPSpKGIo5pzy) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [God Is Working](https://open.spotify.com/album/0U7I05VlAZpSX6exVWlaSM) | 5:24 | 2022-02-19 | 2022-02-28 |
 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 | 2022-04-01 | 2023-01-21 |
-| [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 | 2022-07-17 |  |
+| [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 | 2022-07-17 | 2023-07-28 |
 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 | 2022-06-25 | 2022-12-22 |
 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2022-02-19 |  |
 | [Goin' Up \(feat\. Aaron Cole\)](https://open.spotify.com/track/2WGLMKLoN34qT6vTPVo3Xa) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [The N.O.W\. Experience](https://open.spotify.com/album/5alrAEikPq9l3uayhxDFb0) | 4:35 | 2022-02-19 | 2022-06-26 |

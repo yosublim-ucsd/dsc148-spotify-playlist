@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,744 likes - 149 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,875 likes - 149 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [John Prine's Cadillac](https://open.spotify.com/track/7qvoArGqkTh9Fi5P1orTde) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:21 |
 | 149 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
 
-Snapshot ID: `MCwzOGMxZmQzZGQzMTE2YjVkOTA5MDljZjU5NmE1MjY3NTlhYjE0ODAw`
+Snapshot ID: `MCw0ODY2ZjNhMWM5ZDc3ZDg2ZDMyNzQ2MWQ2ZGFmOWZhNjQxN2RiYWM0`

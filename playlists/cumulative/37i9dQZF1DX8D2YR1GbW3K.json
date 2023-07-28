@@ -3566,10 +3566,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 170059,
       "name": "The Veldt - Radio Edit",
       "url": "https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K"
+    },
+    {
+      "album": {
+        "name": "The Veldt",
+        "url": "https://open.spotify.com/album/4CtxUSFc4vrtTxtmQLo8aZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "The Veldt - Radio Edit",
+      "url": "https://open.spotify.com/track/5sGIgGkeYiiWdN0NVYJZ0I"
     },
     {
       "album": {

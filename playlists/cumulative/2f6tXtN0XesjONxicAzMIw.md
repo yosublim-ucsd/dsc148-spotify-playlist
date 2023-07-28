@@ -2,7 +2,7 @@
 
 ### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of 2000s Y2K nostalgia for July 4th, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
 197 songs - 12 hr 50 min
 

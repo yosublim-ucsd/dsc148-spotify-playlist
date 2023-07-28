@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,454 songs - 2 day 22 hr 5 min
+1,455 songs - 2 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 | 2020-10-13\* | 2021-05-29 |
 | [Lessons](https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 2:11 | 2022-03-11 | 2022-04-10 |
 | [Let Me Down](https://open.spotify.com/track/0tzMTTBLP51rw22f2DQXhU) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Bury Me Alive](https://open.spotify.com/album/084kjsOEVkIBMZu3bHFaPr) | 1:51 | 2020-10-13\* | 2021-01-23 |
+| [Let Me Fight](https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Let Me Fight](https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3) | 2:48 | 2023-07-27 |  |
 | [Let You Speak](https://open.spotify.com/track/2eUERhwgs5u0bBcbbcy0Wv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Let You Speak](https://open.spotify.com/album/1xuyzgsUpkHcloPGU3KKcW) | 3:07 | 2021-04-10 | 2021-10-16 |
 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 | 2021-10-22 | 2022-03-01 |
 | [lifeline](https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [lifeline](https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x) | 2:45 | 2022-04-08 | 2022-05-28 |
@@ -1119,7 +1120,7 @@
 | [SICK OF BEING HONEST](https://open.spotify.com/track/37tW6M8HCRM7aJiKErQv80) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [VOID](https://open.spotify.com/album/2EfkRv1L0INMDN8pPeYMTL) | 3:12 | 2021-01-07 | 2021-10-14 |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-30 | 2022-10-11 |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-10-04 | 2022-10-26 |
-| [Sick of Your Sound](https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sick of Your Sound](https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V) | 3:30 | 2023-05-19 |  |
+| [Sick of Your Sound](https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sick of Your Sound](https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V) | 3:30 | 2023-05-19 | 2023-07-28 |
 | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/track/4ZOh05LdZe0vhTozXC0ohJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/album/7oH4zbfnRUUHGs6eORHksY) | 2:06 | 2021-06-26 | 2021-10-16 |
 | [Siddhartha](https://open.spotify.com/track/5XWOBkdPZZT1l8wJMiVAjB) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Siddhartha](https://open.spotify.com/album/2xxZ89dHbIxRy3lu0Vnevy) | 2:48 | 2020-11-28 | 2021-05-03 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2021-04-17 | 2021-05-29 |

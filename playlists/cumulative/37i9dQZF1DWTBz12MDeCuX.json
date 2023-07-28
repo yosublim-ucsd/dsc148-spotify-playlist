@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: CRO\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Dennis Dies Das\n",
   "name": "me right now",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 143202,
       "name": "1, 2 Cent",
       "url": "https://open.spotify.com/track/7G4o8dvZKmfZHzA1ZbgEUA"
+    },
+    {
+      "album": {
+        "name": "1, 2 Step (DJ HEARTSTRING Remix)",
+        "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "1, 2 Step - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
     },
     {
       "album": {
@@ -227,6 +249,58 @@
     },
     {
       "album": {
+        "name": "2 Baun",
+        "url": "https://open.spotify.com/album/1d0SjXKcSFkk17dptg5Ou0"
+      },
+      "artists": [
+        {
+          "name": "Boloboys",
+          "url": "https://open.spotify.com/artist/3NPDXrX2UN8ROaIHaUPrvl"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "Loco Candy",
+          "url": "https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd"
+        },
+        {
+          "name": "Okfella",
+          "url": "https://open.spotify.com/artist/1R958FoJzZOnKsO4PY5aAe"
+        },
+        {
+          "name": "toobrokeforfiji",
+          "url": "https://open.spotify.com/artist/7f9f5zKkxu7tvX5uj7lVwP"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157343,
+      "name": "2 Baun",
+      "url": "https://open.spotify.com/track/7gISDfQIKOQOltrKCSxhrQ"
+    },
+    {
+      "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/1Td9IwZpGTLo0VMAxQsZze"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178491,
+      "name": "200",
+      "url": "https://open.spotify.com/track/0rGqexosn6eTqprZjTDric"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/6KJFDu5yDuZeNTD7OGOWiU"
       },
@@ -322,6 +396,28 @@
       "duration_ms": 166942,
       "name": "3 Sekunden (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+    },
+    {
+      "album": {
+        "name": "300 km/h",
+        "url": "https://open.spotify.com/album/4SKwut5PImmyywL3IqRxJS"
+      },
+      "artists": [
+        {
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+        },
+        {
+          "name": "Whitey",
+          "url": "https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "300 km/h",
+      "url": "https://open.spotify.com/track/4NIwHn0docLQ10awxwIFeb"
     },
     {
       "album": {
@@ -3072,7 +3168,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 170526,
       "name": "Buch mit 100 Titeln",
       "url": "https://open.spotify.com/track/5URPfahs4LBSKyWtRgPtSC"
@@ -5339,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "Endlos",
+        "url": "https://open.spotify.com/album/47en31omzOTqx0D6zicAJr"
+      },
+      "artists": [
+        {
+          "name": "TELESHOP",
+          "url": "https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127352,
+      "name": "Endlos",
+      "url": "https://open.spotify.com/track/6tuDUyZOXRKcf7LsqZZIXi"
+    },
+    {
+      "album": {
         "name": "Endlos_demo",
         "url": "https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj"
       },
@@ -5590,6 +5704,28 @@
       "duration_ms": 138135,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2"
+    },
+    {
+      "album": {
+        "name": "EURODANCE",
+        "url": "https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158013,
+      "name": "EURODANCE",
+      "url": "https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx"
     },
     {
       "album": {
@@ -6214,7 +6350,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 136498,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7vJUbd7bLIc50cA0NJqzNB"
@@ -7314,7 +7450,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 170597,
       "name": "grosse freiheit",
       "url": "https://open.spotify.com/track/6P4HmEGU2LaTMv6o4smUlc"
@@ -7580,6 +7716,24 @@
       "duration_ms": 187194,
       "name": "happy end",
       "url": "https://open.spotify.com/track/6kxfeWb2WDi0XivpkRm6nU"
+    },
+    {
+      "album": {
+        "name": "HARDCORE",
+        "url": "https://open.spotify.com/album/0G8FFBP9WFcCoH7StXwFuj"
+      },
+      "artists": [
+        {
+          "name": "Dennis Dies Das",
+          "url": "https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119621,
+      "name": "HARDCORE",
+      "url": "https://open.spotify.com/track/4MwWDUEPSGLdTKTUdOAXQz"
     },
     {
       "album": {
@@ -8138,7 +8292,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 173000,
       "name": "Hinterhof",
       "url": "https://open.spotify.com/track/02gdP5YJXGFN54NnrzSt7K"
@@ -9562,6 +9716,24 @@
       "duration_ms": 190455,
       "name": "Junkies Mit Cash",
       "url": "https://open.spotify.com/track/1OwzZra7aCm5OkvCZMxaYT"
+    },
+    {
+      "album": {
+        "name": "Just 4 Me",
+        "url": "https://open.spotify.com/album/1sinCUHakJEMtSt4RFPW5W"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182937,
+      "name": "Just 4 Me",
+      "url": "https://open.spotify.com/track/5wuOfyKleXygq3F3IhRnSC"
     },
     {
       "album": {
@@ -11534,7 +11706,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 166330,
       "name": "miami.mp3",
       "url": "https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO"
@@ -14154,7 +14326,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 274320,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
@@ -14346,6 +14518,24 @@
       "duration_ms": 138649,
       "name": "Pirouetten",
       "url": "https://open.spotify.com/track/19oh6bdG1lvSL2loTOGi09"
+    },
+    {
+      "album": {
+        "name": "Playboys weinen auch",
+        "url": "https://open.spotify.com/album/2BJjKajYjCz3RnRoDaUYYC"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172704,
+      "name": "Playboys weinen auch",
+      "url": "https://open.spotify.com/track/0l63sFDKc4r4GLANRmjcBu"
     },
     {
       "album": {
@@ -15085,7 +15275,7 @@
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145428,
+      "duration_ms": 136880,
       "name": "rosa rugosa",
       "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
     },
@@ -15324,7 +15514,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 131589,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/1SquCdH6z5rETaxz40J9Jw"
@@ -16670,7 +16860,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 153600,
       "name": "Sorgen",
       "url": "https://open.spotify.com/track/6QVwP6pLyXoqmZAX9zu1HY"
@@ -17679,6 +17869,24 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/6QbctyjXKTZYdBKU8xj3u6"
+      },
+      "artists": [
+        {
+          "name": "LAYLA",
+          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1Z2hD2Mk0zI3Ky2XhekgXG"
+    },
+    {
+      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/3O9eISvQyM8vRnczqNghk7"
       },
@@ -18564,7 +18772,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 176160,
       "name": "Turn Your Phone Off",
       "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
@@ -18822,7 +19030,7 @@
           "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
         },
         {
-          "name": "JBS BEATS",
+          "name": "JBS",
           "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
         }
       ],
@@ -20482,7 +20690,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 132226,
       "name": "white tee",
       "url": "https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob"

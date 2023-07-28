@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
@@ -600,6 +600,28 @@
       "duration_ms": 115016,
       "name": "Hotel Lounge in Havana",
       "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "album": {
+        "name": "La Belleza de lo Cotidiano",
+        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        },
+        {
+          "name": "Lofi Soul",
+          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "La Belleza de lo Cotidiano",
+      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
     },
     {
       "album": {

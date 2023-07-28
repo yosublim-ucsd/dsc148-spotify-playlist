@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 239341,
       "name": "Entebhlek",
       "url": "https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ"
@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Tmmor Jarhi",
+        "url": "https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263690,
+      "name": "Tmmor Jarhi",
+      "url": "https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi"
+    },
+    {
+      "album": {
         "name": "Wa Melha Wa Zenah",
         "url": "https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk"
       },
@@ -3412,6 +3430,24 @@
       "duration_ms": 244838,
       "name": "Weddi Aeref",
       "url": "https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv"
+    },
+    {
+      "album": {
+        "name": "Wesh Fini",
+        "url": "https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191166,
+      "name": "Wesh Fini",
+      "url": "https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA"
     },
     {
       "album": {
@@ -3606,7 +3642,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 275641,
       "name": "Ya Sokar Eldonia",
       "url": "https://open.spotify.com/track/0NKILlxphoywpUSzHMNKst"
@@ -4454,7 +4490,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 324721,
       "name": "\u0648\u0641\u0631 \u0627\u0644\u0623\u0639\u0630\u0627\u0631",
       "url": "https://open.spotify.com/track/4U0DuUjKUOnRLrY7iBQ3kU"

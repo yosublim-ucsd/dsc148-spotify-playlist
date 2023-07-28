@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl",
+  "snapshot_id": "MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "L\u00e1 De Onde Eu Vim",
-        "url": "https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 187791,
-      "name": "L\u00e1 De Onde Eu Vim",
-      "url": "https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Acorda Amor",
         "url": "https://open.spotify.com/album/5eh6PHaZrwQJ0xG9d7OS8n"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228141,
+      "name": "Amor Perfeito",
+      "url": "https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+        "name": "L\u00e1 De Onde Eu Vim",
+        "url": "https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 228141,
-      "name": "Amor Perfeito",
-      "url": "https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF"
+      "duration_ms": 187791,
+      "name": "L\u00e1 De Onde Eu Vim",
+      "url": "https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Las Brujas",
-        "url": "https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs"
+        "name": "Por Aqui T\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/4I7A1KErUent5Uk1jg7uaj"
       },
       "artists": [
         {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Las Brujas",
-      "url": "https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU"
+      "duration_ms": 180000,
+      "name": "Por Aqui T\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/7G52l43cuNJxyVu5ciMKy1"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Las Brujas",
+        "url": "https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Las Brujas",
+      "url": "https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "BEIJANDO TODOS VOC\u00caS",
         "url": "https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 195836,
       "name": "BEIJANDO TODOS VOC\u00caS",
       "url": "https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Por Aqui T\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/4I7A1KErUent5Uk1jg7uaj"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Por Aqui T\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/7G52l43cuNJxyVu5ciMKy1"
     },
     {
       "added_at": "2023-07-05 03:00:00",

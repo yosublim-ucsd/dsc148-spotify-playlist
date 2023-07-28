@@ -2870,10 +2870,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
     },
     {
       "album": {
@@ -4274,6 +4292,24 @@
       "duration_ms": 224481,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/3C8O9qGmNGLc4yGTOGCc9P"
+    },
+    {
+      "album": {
+        "name": "Disposable Everything",
+        "url": "https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc"
+      },
+      "artists": [
+        {
+          "name": "AJJ",
+          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120659,
+      "name": "Dissonance",
+      "url": "https://open.spotify.com/track/7mOD2D8wpU4X5XgZS0dhTA"
     },
     {
       "album": {
@@ -7482,6 +7518,24 @@
     {
       "album": {
         "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
+    },
+    {
+      "album": {
+        "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
       },
       "artists": [
@@ -7492,7 +7546,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
@@ -16506,7 +16560,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"

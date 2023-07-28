@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-220 songs - 12 hr 26 min
+221 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [How to Be Successful](https://open.spotify.com/track/4U6A6DQmPhQa80d8NdRu48) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 2:45 | 2021-06-22 | 2022-06-02 |
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2021-06-22 |  |
-| [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-06-01 |  |
+| [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-06-01 | 2023-07-28 |
 | [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 | 2021-06-22 | 2022-12-06 |
 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 | 2021-06-22 | 2022-07-29 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-06-01 |  |
@@ -120,6 +120,7 @@
 | [mona lisa](https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:10 | 2023-06-01 | 2023-07-01 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-06-22 |  |
 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 | 2021-06-22 | 2023-06-02 |
+| [My Girl](https://open.spotify.com/track/4mXQ7QWebpojVqwvLUYIMh) | [Annelle Staal](https://open.spotify.com/artist/7BnUWceEyTgiZTxBZniroo) | [My Girl](https://open.spotify.com/album/5xRNMLDrjRb9fxtYYOTvxl) | 3:06 | 2023-06-01 |  |
 | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/track/74YSDKKb2dsI78UbFx3ZeH) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [Unmixtape](https://open.spotify.com/album/6yHSfoEj8yulskJ2Q0lNv7) | 3:05 | 2022-06-01 | 2022-11-13 |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-30 |  |
 | [Not Worth Hiding](https://open.spotify.com/track/32YvcT0MYKlYRdSsWYA0Pd) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [See You Soon](https://open.spotify.com/album/0JSrRh2pX60AzMADzUmlAe) | 2:46 | 2021-06-22 | 2022-06-02 |

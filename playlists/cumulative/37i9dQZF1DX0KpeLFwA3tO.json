@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Magnolia Park",
+  "description": "The best new music from the wide world of punk. Cover: BOYS LIKE GIRLS",
   "name": "All New Punk",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 215180,
       "name": "A Real Thing",
       "url": "https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1"
+    },
+    {
+      "album": {
+        "name": "People R Ugly",
+        "url": "https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172283,
+      "name": "A Sad Sad Song",
+      "url": "https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G"
     },
     {
       "album": {
@@ -3604,10 +3622,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
     },
     {
       "album": {
@@ -5236,7 +5272,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 192525,
       "name": "Dirty Jacks",
       "url": "https://open.spotify.com/track/4jyF5ZkUy018mQYxpMqvX5"
@@ -6460,6 +6496,24 @@
       "duration_ms": 167654,
       "name": "Fel\u00edz",
       "url": "https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73"
+    },
+    {
+      "album": {
+        "name": "Femme Boi",
+        "url": "https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Femme Boi",
+      "url": "https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW"
     },
     {
       "album": {
@@ -8666,7 +8720,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 89093,
       "name": "HEY ASSHOLE",
       "url": "https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ"
@@ -10882,7 +10936,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 165492,
       "name": "Lemon.",
       "url": "https://open.spotify.com/track/4CaGYIrmqCqIJZCw6UzMmR"
@@ -11401,6 +11455,28 @@
     },
     {
       "album": {
+        "name": "Lonely Together",
+        "url": "https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214714,
+      "name": "Lonely Together",
+      "url": "https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4"
       },
@@ -11416,6 +11492,36 @@
       "duration_ms": 171380,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1CzkCBVMW5ZzbwaFbtk4ER"
+    },
+    {
+      "album": {
+        "name": "Los Angeles (with James Murphy)",
+        "url": "https://open.spotify.com/album/0wkq0uUOugMMFdaAAGoUpG"
+      },
+      "artists": [
+        {
+          "name": "Lol Tolhurst",
+          "url": "https://open.spotify.com/artist/0dpt5MouO4U9l189E5CIoN"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/4LEp9FrNKTk9zqAjBdg6ql"
+        },
+        {
+          "name": "Jacknife Lee",
+          "url": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
+        },
+        {
+          "name": "James Murphy",
+          "url": "https://open.spotify.com/artist/03XnX4XEVVtZNUBSdUlzsB"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384186,
+      "name": "Los Angeles (feat. James Murphy)",
+      "url": "https://open.spotify.com/track/0sueSpJiVi3YT5t1KGuEJw"
     },
     {
       "album": {
@@ -13660,7 +13766,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 99727,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/6fX6wkIFdvpFEiKKavImPb"
@@ -17318,7 +17424,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 135857,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X"
@@ -18026,7 +18132,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 130173,
       "name": "Spunky!",
       "url": "https://open.spotify.com/track/5grysZI4yqvJC0cpahuMsw"
@@ -19623,6 +19729,24 @@
     },
     {
       "album": {
+        "name": "THE OUTSIDE",
+        "url": "https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244465,
+      "name": "THE OUTSIDE",
+      "url": "https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi"
+    },
+    {
+      "album": {
         "name": "The Rent",
         "url": "https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL"
       },
@@ -19728,6 +19852,24 @@
       "duration_ms": 250087,
       "name": "The Slump",
       "url": "https://open.spotify.com/track/06bUdWg2lDluwVKgWqnTDG"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "album": {
@@ -20732,7 +20874,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 201727,
       "name": "Undecider",
       "url": "https://open.spotify.com/track/180wtMgE1CrPaNulAFjqD8"
@@ -20937,6 +21079,24 @@
     },
     {
       "album": {
+        "name": "Ur Ex Gf",
+        "url": "https://open.spotify.com/album/2npT9vsQvViYBMMNKh8BPv"
+      },
+      "artists": [
+        {
+          "name": "Bronnie",
+          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Ur Ex Gf",
+      "url": "https://open.spotify.com/track/26EOid1qUGg1uApT705Swf"
+    },
+    {
+      "album": {
         "name": "Vandal",
         "url": "https://open.spotify.com/album/3LLqGis58Xc3bQAhUZu5DP"
       },
@@ -20970,7 +21130,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"

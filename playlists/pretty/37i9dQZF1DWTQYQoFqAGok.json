@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56754,
+  "num_followers": 56795,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
+  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Vinil",
-        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Fijate Que Suave",
-      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Tino Contreras",
         "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+        "name": "Jazz Vinil",
+        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+      "duration_ms": 251586,
+      "name": "Fijate Que Suave",
+      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -271,18 +271,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
       "artists": [
         {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
         }
       ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
       "artists": [
         {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
         }
       ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "\u00a1Oh! Mi Amor",
-        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
-      },
-      "artists": [
-        {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
-        }
-      ],
-      "duration_ms": 318122,
-      "name": "Trato De Asimilar",
-      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Your Voice",
         "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175776,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
+      },
+      "artists": [
+        {
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+        }
+      ],
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -819,42 +819,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
-      },
-      "artists": [
-        {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
-        }
-      ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -871,6 +835,38 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

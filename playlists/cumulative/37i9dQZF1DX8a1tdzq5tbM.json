@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 264374,
       "name": "Disconnected (Radio Edit Dub Mix)",
       "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
@@ -3966,6 +3966,28 @@
       "duration_ms": 202053,
       "name": "Shadows - Inpetto Edit",
       "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
+    },
+    {
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA"
+      },
+      "artists": [
+        {
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6"
+        },
+        {
+          "name": "Inpetto",
+          "url": "https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE"
     },
     {
       "album": {

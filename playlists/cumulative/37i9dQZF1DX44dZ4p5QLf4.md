@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-340 songs - 20 hr 22 min
+341 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2021-12-16 | 2022-05-20 |
 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 | 2023-04-26 |  |
 | [Promises](https://open.spotify.com/track/30e2kRNthNcvB9l9isDMLD) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:08 | 2022-05-19 | 2023-07-11 |
-| [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-16 |  |
+| [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-16 | 2023-07-28 |
+| [Put D'Angelo On](https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/5q2vdfrE0ISHmaP8IsBLAt) | 3:07 | 2023-07-10 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-22 |  |
 | [Rare](https://open.spotify.com/track/1rzoDdjdZw1vAemS0KOvPS) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [Rare](https://open.spotify.com/album/4U4m7pO3EBcUqmeNWthFii) | 2:57 | 2021-12-16 | 2022-01-26 |
 | [Real Good](https://open.spotify.com/track/4ScOLLhNjhOJWobYBgkQqv) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:27 | 2022-12-05 | 2023-07-08 |

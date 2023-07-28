@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,161 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,220 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [I'll Come Running Back To You](https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Established 1972](https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk) | 4:11 |
 | 100 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MCw0ZTY2MGFiYTFhODdkZGRmZDdlM2I5MGQyNzcxYjFiMjc5ZjFkMjYy`
+Snapshot ID: `MCxkMWViMjE0YzE2NjhjYmY2ZmE4MWIzNTViMDhjODNiZTM5NzAzODky`

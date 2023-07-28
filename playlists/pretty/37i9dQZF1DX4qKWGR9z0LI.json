@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1836644,
+  "num_followers": 1836813,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBhMjdjMGFjMTExOTZjN2VlZGExZTQxYzc0YjdmZmFjNTU4MjE3",
+  "snapshot_id": "MCwyOGY1Njc4ODY1Y2I4ZTlkYmIzNzI3NTc2MzJlODU3N2ExN2M0NDg2",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1251,6 +1251,70 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Baila Salsa",
+        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+      },
+      "artists": [
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        }
+      ],
+      "duration_ms": 249160,
+      "name": "Viene Y Se Va",
+      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1275,66 +1339,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Baila Salsa",
-        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
       },
       "artists": [
         {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        }
-      ],
-      "duration_ms": 249160,
-      "name": "Viene Y Se Va",
-      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
         {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
         }
       ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Cosas Bonitas",
-        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260632,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1419,22 +1439,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Yo",
         "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
       },
@@ -1447,6 +1451,22 @@
       "duration_ms": 204500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1483,6 +1503,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1499,22 +1535,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1571,22 +1591,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Afirmando",
         "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
       },
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "El Callej\u00f3n",
-        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+        "name": "Pas\u00e1ndola bien",
+        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
       },
       "artists": [
         {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 256049,
-      "name": "El Callej\u00f3n",
-      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+      "duration_ms": 174411,
+      "name": "Pas\u00e1ndola bien",
+      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
     },
     {
       "added_at": "2023-07-21 04:00:00",

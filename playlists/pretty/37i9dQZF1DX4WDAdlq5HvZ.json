@@ -1,12 +1,12 @@
 {
   "description": "Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.",
-  "num_followers": 43694,
+  "num_followers": 43732,
   "original_name": "Love for Mother's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmM4ODAwN2U5Njg4ZWQzMTdkNzI3ZmExYzZhMWZmZjcwZTI2ZGE0",
+  "snapshot_id": "MCw2YmRhOWFkOTkxNzc2ZDdhNzFiMjc1ODA4M2NmMTY4YTdkYWM2ZTBj",
   "tracks": [
     {
       "added_at": "2023-05-14 21:00:45",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Pieces Of A Real Heart",
-        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Keep Me In The Moment (Radio Version)",
         "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 207432,
       "name": "Keep Me In The Moment - Radio Version",
       "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Fight On, Fighter",
+      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "There Is More (Studio Sessions)",
         "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Fight On, Fighter",
-      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "What Are We Waiting For?",
+        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -611,22 +627,6 @@
       "duration_ms": 266000,
       "name": "Nobody Loves Me Like You",
       "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "What Are We Waiting For?",
-        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Love Me Like I Am",
-      "url": "https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Amen A sus Mam\u00e1s",
-        "url": "https://open.spotify.com/album/0VBFC4sHoaCRQShU1c3YAg"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Amen A sus Mam\u00e1s",
-      "url": "https://open.spotify.com/track/6ndM8lsNfBq7n9b5NcJNo5"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Prayed for This Day",
         "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 157746,
       "name": "When I Talk to God",
       "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Amen A sus Mam\u00e1s",
+        "url": "https://open.spotify.com/album/0VBFC4sHoaCRQShU1c3YAg"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Amen A sus Mam\u00e1s",
+      "url": "https://open.spotify.com/track/6ndM8lsNfBq7n9b5NcJNo5"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "I'm Standing With You (From \"Breakthrough\" Soundtrack)",
-        "url": "https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "I'm Standing With You - From \"Breakthrough\" Soundtrack",
-      "url": "https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Britt Nicole (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "I'm Standing With You (From \"Breakthrough\" Soundtrack)",
+        "url": "https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "I'm Standing With You - From \"Breakthrough\" Soundtrack",
+      "url": "https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "mama's boy",
-        "url": "https://open.spotify.com/album/5wBfGji20yfRgVMRe9LBHV"
+        "name": "O God Our Mother",
+        "url": "https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda"
       },
       "artists": [
         {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+          "name": "Samantha McCabe",
+          "url": "https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL"
         }
       ],
-      "duration_ms": 233087,
-      "name": "mama's boy",
-      "url": "https://open.spotify.com/track/76BMsbr1S4tX3pagMY6zpr"
+      "duration_ms": 221732,
+      "name": "O God Our Mother",
+      "url": "https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm"
     }
   ],
   "unique_name": "Love for Mother's Day",

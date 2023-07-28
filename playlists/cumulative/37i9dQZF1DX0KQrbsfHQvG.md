@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(The First Stone\) Changes \[feat\. Yelawolf\]](https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 3:09 | 2020-08-19 | 2023-06-08 |
+| [\(The First Stone\) Changes \[feat\. Yelawolf\]](https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 3:09 | 2020-08-19 |  |
 | [21st Century Liability](https://open.spotify.com/track/5WAsLiCOLiz2iwJLcuJEgb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/0d0ejKfFWhthOTXwNu42zs) | 3:09 | 2020-08-19 | 2022-07-28 |
 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 | 2022-07-01 |  |
 | [6:00](https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 4:26 | 2020-08-19 | 2022-07-29 |
@@ -153,7 +153,7 @@
 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 | 2022-07-01 | 2023-05-09 |
 | [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 | 2021-04-30 | 2023-05-08 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 |  |
-| [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 | 2020-10-23 |  |
+| [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 | 2020-10-23 | 2023-07-28 |
 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 | 2020-08-19 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

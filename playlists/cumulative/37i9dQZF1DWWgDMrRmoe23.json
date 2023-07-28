@@ -332,10 +332,32 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 113499,
       "name": "Omae Wa Mou",
       "url": "https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa"
+    },
+    {
+      "album": {
+        "name": "Omae Wa Mou",
+        "url": "https://open.spotify.com/album/2tlxiEF7Q9nGc7EIX64Syu"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113446,
+      "name": "Omae Wa Mou",
+      "url": "https://open.spotify.com/track/0NckjJeevRkkomP38oh5Zw"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Riri Chantika
+> Dendang Dangdut teratas\. Cover: Lesti
 
-107 songs - 8 hr 15 min
+108 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 | 2023-07-14 |
 | [Dalan Liyane](https://open.spotify.com/track/3o9aRNDVtfpw4JtramprZx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Dalan Liyane](https://open.spotify.com/album/7oNL1mQRBJyqK5U94WCNAg) | 4:32 | 2021-08-23 |  |
 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 | 2021-08-23 | 2023-07-14 |
+| [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 | 2023-07-27 |  |
 | [Disana Menanti Disini Menunggu](https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Disana Menanti Disini Menunggu](https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66) | 4:53 | 2021-08-23 |  |
 | [Ditinggal Rabi](https://open.spotify.com/track/5q7e84OjA1D5GF4XYoybtb) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/0XkdWnMJXBzQfMT2RwQ7ej) | 4:36 | 2021-08-23 |  |
 | [Ditinggal Rabi](https://open.spotify.com/track/4sYOxiEbp2oz4WCTIxin5O) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/3ktlwW2CVWwqhq17PK4Cl6) | 4:36 | 2021-08-23 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 |  |
 | [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 |  |
-| [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 |  |
+| [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |
 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 | 2021-08-23 |  |
 | [Wegah Kelangan](https://open.spotify.com/track/3FtPcb4xIlwsGkX3PWIhtf) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Wegah Kelangan](https://open.spotify.com/album/75qiVGtr5iSPAr380gShrq) | 5:37 | 2021-08-23 | 2023-07-14 |
 | [Wes Tatas](https://open.spotify.com/track/4BuCCdzxWtVgNQkJxpKhkP) | [Happy Asmara](https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK) | [Wes Tatas](https://open.spotify.com/album/4Ar7OycNonjvKxrlG6Tqbu) | 4:07 | 2022-10-27 | 2022-11-13 |

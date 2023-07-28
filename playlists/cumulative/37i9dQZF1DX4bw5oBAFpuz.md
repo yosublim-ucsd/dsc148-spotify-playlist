@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-310 songs - 18 hr 5 min
+311 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2023-02-23 |  |
 | [Someone New](https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:42 | 2023-02-23 |  |
 | [Something I Need](https://open.spotify.com/track/4KANJH1baadr3U7XsVbM17) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:01 | 2023-02-23 | 2023-04-26 |
-| [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 |  |
+| [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 | 2023-07-28 |
+| [Something in the Water](https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD) | 3:03 | 2023-07-20 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-02-23 | 2023-05-02 |
 | [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2023-02-23 |  |
 | [Starship Fantasy](https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd) | [Christian Kratzsch](https://open.spotify.com/artist/3c8IBhwIzheO7S7AfMfNqt), [Vinny G.](https://open.spotify.com/artist/7vN5IWvscJYNUzlNEBUZDL) | [Starship Fantasy](https://open.spotify.com/album/45ac94aq4QwSvQ0Q5DotFO) | 3:10 | 2023-04-25 |  |

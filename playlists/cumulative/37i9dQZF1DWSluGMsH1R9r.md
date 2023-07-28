@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-558 songs - 1 day 0 hr 7 min
+559 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Calendula](https://open.spotify.com/track/03Nkx8cSVdDlS7FOQ3kQm6) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Calendula](https://open.spotify.com/album/2V3g7LmL3tX3XNsSpUZJOz) | 2:54 | 2021-12-07 |  |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-02-01 | 2022-07-16 |
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2021-12-07 | 2022-07-16 |
+| [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 |  |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2021-12-07 | 2022-09-15 |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 | 2022-12-24 |
@@ -224,7 +225,7 @@
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2021-12-07 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-07 |  |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2021-12-07 | 2023-07-25 |
-| [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 |  |
+| [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 | 2023-07-28 |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-07 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 |  |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 | 2023-01-27 |

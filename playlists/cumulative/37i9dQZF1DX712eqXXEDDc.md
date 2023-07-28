@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-64 songs - 4 hr 8 min
+65 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-07-15 | 2022-09-23 |
 | [Way to the Show](https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-03-25 |  |
 | [We Have Time](https://open.spotify.com/track/7C8VVj1kpwPwyT4aMejIXp) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:19 | 2022-03-25 |  |
-| [You're in My System \- Dennis Quin Club Mix](https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \(Dennis Quin Remixes\)](https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U) | 5:51 | 2022-07-15 |  |
+| [You're in My System \- Dennis Quin Club Mix](https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \(Dennis Quin Remixes\)](https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U) | 5:51 | 2022-07-15 | 2023-07-28 |
+| [You're in My System \- Dennis Quin Club Mix](https://open.spotify.com/track/2H9gxsO0ezkDjK9j61GRIV) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Ibadan 2019 Ade Sampler](https://open.spotify.com/album/33cqQ9duEuQKewCUjYItqg) | 5:51 | 2022-07-15 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

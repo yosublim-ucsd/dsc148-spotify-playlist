@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Sissy Imann. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: ROYAL ESTATE. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -3122,6 +3122,24 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj"
+      },
+      "artists": [
+        {
+          "name": "RADi",
+          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154352,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/3Mhovhy9Mgnp53zjwv83sb"
       },
       "artists": [
@@ -4842,6 +4860,24 @@
       "duration_ms": 192447,
       "name": "Make It Thru",
       "url": "https://open.spotify.com/track/0Sah6Rd6Cw6hsePkGYWW7u"
+    },
+    {
+      "album": {
+        "name": "Man With Feelings",
+        "url": "https://open.spotify.com/album/1i6f04QLQmZae1g0kD8pNy"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247423,
+      "name": "Man With Feelings",
+      "url": "https://open.spotify.com/track/5tROsq1LsWF2BNODzyef3l"
     },
     {
       "album": {
@@ -7521,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Take Me As I Am",
+        "url": "https://open.spotify.com/album/2PdjZqAvASALCWRgqETCGr"
+      },
+      "artists": [
+        {
+          "name": "Joy Alexis",
+          "url": "https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/6zgeNyPGFOqc2TV8WvXKFR"
+    },
+    {
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/3OSro8swuSQVfADsvUaOb9"
       },
@@ -8302,6 +8356,24 @@
       "duration_ms": 309121,
       "name": "Utopia Reimagined: These Corners",
       "url": "https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/5cpB46g92ndv8OtQVoVoFK"
+      },
+      "artists": [
+        {
+          "name": "ROYAL ESTATE",
+          "url": "https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0VJh933Nhkk8VEUzqp74b0"
     },
     {
       "album": {

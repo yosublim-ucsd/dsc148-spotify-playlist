@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Tyler Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,080 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,082 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 100 | [To Whoever Has You Next](https://open.spotify.com/track/5kFyn9ADelkaJ7vO8aTxCU) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [To Whoever Has You Next](https://open.spotify.com/album/2m79RYJzEIhDWiPclcRle7) | 2:32 |
 | 101 | [WHERE YOU BELONG](https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [WHERE YOU BELONG](https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO) | 2:56 |
 
-Snapshot ID: `MCxmNzRiYmMwYjZiYjNmNDUwN2EzZmFiMDAyNDk3YTJiNDNjYjg5NTYx`
+Snapshot ID: `MCwyOWEyZWUzYzkzYTA5NTgzMTJjM2I1MDQ3ZTJlZjk3MzIwMThiYjVi`

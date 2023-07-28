@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-135 songs - 5 hr 3 min
+136 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 | 2022-04-05 |  |
 | [I Like Rice \(feat\. Flor Bromley\)](https://open.spotify.com/track/4YH6S50iLEJHeDerIVUy5M) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Flor Bromley](https://open.spotify.com/artist/2XPVWwERufmF4IX9a4Dtd1) | [Welcome Spring](https://open.spotify.com/album/1gQzsrdjYnlTO1snfJ8FTN) | 3:46 | 2022-04-05 |  |
 | [I Love Food](https://open.spotify.com/track/5oXvX5XuLiVtK3YQbE931Z) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:51 | 2022-04-05 |  |
-| [I Take My Lunch to School](https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [I Take My Lunch to School](https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ) | 2:21 | 2022-04-05 |  |
+| [I Take My Lunch to School](https://open.spotify.com/track/1mCjBXX6VXTFGrVcyZgkm0) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Something for Everyone](https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr) | 2:21 | 2022-04-05 |  |
+| [I Take My Lunch to School](https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [I Take My Lunch to School](https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ) | 2:21 | 2022-04-05 | 2023-07-28 |
 | [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 | 2022-04-05 |  |
 | [I'd Eat It Anyway](https://open.spotify.com/track/0qGjCWPtmI8epcV6aeLALB) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:24 | 2022-04-05 | 2022-10-27 |
 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 | 2022-04-05 |  |

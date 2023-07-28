@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: にしな
 
-1,559 songs - 4 day 5 hr 11 min
+1,561 songs - 4 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-03-29 |
 | [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 | 2022-10-19 |
+| [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 |  |
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-01-12 | 2023-01-18 |
 | [Good luck ga kikoenai](https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Good luck ga kikoenai](https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT) | 2:31 | 2023-04-04 | 2023-04-12 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 | 2022-11-04 |
@@ -715,7 +716,7 @@
 | [squall](https://open.spotify.com/track/0RtN8xsqHQokF21hzCMT4H) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [fountain blue ni somatte](https://open.spotify.com/album/1ApuYreYSimEs5IBDrse22) | 3:25 | 2022-07-28 | 2022-08-03 |
 | [Square One](https://open.spotify.com/track/2oVTlsZ7v779HoRGe83ENx) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Square One](https://open.spotify.com/album/2q4xhsQq7Hv7NSteC6NPiz) | 2:52 | 2022-05-31 | 2022-07-05 |
 | [Stand Out Chameleon](https://open.spotify.com/track/7zHNelbcomEoDCsgvxYjg0) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Stand Out Chameleon](https://open.spotify.com/album/0WG01blQPb4kAib42VQYPg) | 2:21 | 2023-04-04 | 2023-04-12 |
-| [STAR](https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [STAR](https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL) | 5:12 | 2023-05-02 |  |
+| [STAR](https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [STAR](https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL) | 5:12 | 2023-05-02 | 2023-07-28 |
 | [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2022-07-29 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-28 | 2022-10-26 |
 | [Starlight](https://open.spotify.com/track/1tqNarav4DXuN8je7w6GwP) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Starlight / 夜明けまえ](https://open.spotify.com/album/6OtFGO5mjZdIJyTVEERkIz) | 5:17 | 2023-07-18 | 2023-07-20 |
@@ -732,6 +733,7 @@
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-05-17 |
+| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 |  |
 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-08-02 | 2023-05-31 |
 | [suitcase](https://open.spotify.com/track/22Mu9Hru4V2M8o3PqTnDxU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [suitcase](https://open.spotify.com/album/0VTiDNmwC9dKN6JPzvyahk) | 3:48 | 2022-05-29 | 2022-07-19 |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-28 | 2022-09-09 |
@@ -798,7 +800,7 @@
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-01-25 |
 | [To The Moon](https://open.spotify.com/track/0JIM5u2dfsQX9sCq5o29T1) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Funtale](https://open.spotify.com/album/7Bm9pJkJp4uiNGBjgRsshB) | 3:57 | 2023-06-06 | 2023-06-21 |
 | [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-06-16 | 2022-06-22 |
-| [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 | 2022-09-01 |  |
+| [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 | 2022-09-01 | 2023-07-28 |
 | [Tokyo Addiction](https://open.spotify.com/track/1XC8TY0mBH8BiC5jU6ts4e) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Tokyo Addiction](https://open.spotify.com/album/3r7J3qNWiYvmSi13vOi1yo) | 2:47 | 2023-06-20 | 2023-07-05 |
 | [Tokyo Neon](https://open.spotify.com/track/77tBV0ZvVfY5bMQjTCJOqs) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [宏実](https://open.spotify.com/artist/6xG6CoJ4QmGXNCakdnnGio) | [Tokyo Neon](https://open.spotify.com/album/2BkZ8nhcWrn281nU0cJauO) | 3:31 | 2023-04-11 | 2023-04-19 |
 | [Tokyo no sora](https://open.spotify.com/track/3VUYVE9r80197lQ4NPFZLd) | [lily](https://open.spotify.com/artist/74999p5OcCByzjFmi8Eugu) | [Tokyo no sora](https://open.spotify.com/album/0W3JTaYdLhqLIV61C03xWa) | 4:24 | 2022-06-02 | 2022-07-26 |

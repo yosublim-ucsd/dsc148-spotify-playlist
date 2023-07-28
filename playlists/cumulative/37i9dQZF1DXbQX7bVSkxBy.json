@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=tX1La8ADQ6yFh-HLH7Qb9g\">Theresa Phondo</a> ",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh\">Freke Umoh</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -34,10 +34,32 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+    },
+    {
+      "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
     },
     {
       "album": {
@@ -100,7 +122,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 162569,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
@@ -303,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Kingdom Come (Live)",
+        "url": "https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431445,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP"
+    },
+    {
+      "album": {
         "name": "Ekwueme to the World Project",
         "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
       },
@@ -362,6 +402,24 @@
       "duration_ms": 237725,
       "name": "Everything (Amen)",
       "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+    },
+    {
+      "album": {
+        "name": "Verses, Vol. 1",
+        "url": "https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443121,
+      "name": "Exalted",
+      "url": "https://open.spotify.com/track/6qfKGnh9sQfNU7NyfMskKz"
     },
     {
       "album": {
@@ -518,7 +576,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 303174,
       "name": "He Did It Again",
       "url": "https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6"
@@ -879,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Mowanbe (Mo wa\u2019nbe)",
+        "url": "https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150047,
+      "name": "Mowanbe (Mo wa\u2019nbe)",
+      "url": "https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq"
+    },
+    {
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -1214,7 +1294,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"

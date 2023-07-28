@@ -4,7 +4,7 @@
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-59 songs - 2 hr 55 min
+60 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 | 2023-02-21 |  |
 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 | 2023-02-21 |  |
 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 | 2023-02-21 | 2023-05-27 |
-| [Death Machine](https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Death Machine / White Ghosts](https://open.spotify.com/album/3mVxKF8QO4dbGAZK958ZW7) | 1:53 | 2023-03-10 |  |
+| [Death Machine](https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Death Machine / White Ghosts](https://open.spotify.com/album/3mVxKF8QO4dbGAZK958ZW7) | 1:53 | 2023-03-10 | 2023-07-28 |
+| [Death Machine](https://open.spotify.com/track/1MTOmUqUo4RD6fEuQqurS6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 1:53 | 2023-05-26 |  |
 | [Devil's Will](https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL) | [Cousin Boneless](https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg) | [Revel in the Rubble](https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf) | 3:54 | 2023-02-21 |  |
 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 | 2023-02-21 |  |
 | [Forever Yours](https://open.spotify.com/track/0NdkNJhi6xD0REXKIBOmQt) | [Dirty Harry](https://open.spotify.com/artist/59C1eNpE0q9dh7U48KBJUV) | [Get Busy Living or Get Busy Crying](https://open.spotify.com/album/3mJ925Io2NR1Dp4x7oFUyV) | 5:37 | 2023-02-21 | 2023-05-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: JZyNo & Lasmid",
+  "description": "Motion en good vibes! Cover: Frsh",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/5j16VXpniICEem03e7MyGd"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/1K3XVvNhCBRp0AmZZUmCvc"
+    },
+    {
+      "album": {
         "name": "BANDZ (feat. Emms)",
         "url": "https://open.spotify.com/album/1Eg4xGkEqragj73c36aJ9P"
       },
@@ -1446,6 +1464,28 @@
       "duration_ms": 126102,
       "name": "BANDZ (feat. Emms)",
       "url": "https://open.spotify.com/track/42OHLSBaf8MQMOzJf2oBlq"
+    },
+    {
+      "album": {
+        "name": "Bandz Up (feat. BKO)",
+        "url": "https://open.spotify.com/album/7B7BC1U1DrXu3I0sJFYA4c"
+      },
+      "artists": [
+        {
+          "name": "Jamily Jordan",
+          "url": "https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Bandz Up (feat. BKO)",
+      "url": "https://open.spotify.com/track/4Qg9rqLvxFga814H9UfJTT"
     },
     {
       "album": {
@@ -1632,7 +1672,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147138,
       "name": "Berichten",
       "url": "https://open.spotify.com/track/3iAqUe5esogF58FIejBEuu"
@@ -1819,6 +1859,28 @@
     },
     {
       "album": {
+        "name": "Bij Jou",
+        "url": "https://open.spotify.com/album/1KSShe3h6ORfb22SYeyd5e"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Bij Jou",
+      "url": "https://open.spotify.com/track/4uh4iZAe7nFBiUWI55XWib"
+    },
+    {
+      "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI"
       },
@@ -1898,7 +1960,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 142040,
       "name": "Billen Los",
       "url": "https://open.spotify.com/track/1auAdX2QmwjJNtJGuc6GEk"
@@ -2112,7 +2174,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
@@ -2186,6 +2248,28 @@
       "duration_ms": 147891,
       "name": "Bouge ton Corp",
       "url": "https://open.spotify.com/track/7jQmAp95TWM5gFSlR50BHj"
+    },
+    {
+      "album": {
+        "name": "Boulevard",
+        "url": "https://open.spotify.com/album/5tTid2yP3iK6VjX8b5HI3b"
+      },
+      "artists": [
+        {
+          "name": "Pierrii",
+          "url": "https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU"
+        },
+        {
+          "name": "Riffi",
+          "url": "https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180815,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/1bcS3Nwqv3zMiT4VRqrQSY"
     },
     {
       "album": {
@@ -3750,7 +3834,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 154800,
       "name": "Drip Too Hard",
       "url": "https://open.spotify.com/track/4xgOUgmKvclx8XgN4Bczl9"
@@ -3966,7 +4050,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 129504,
       "name": "El Celular",
       "url": "https://open.spotify.com/track/5VFFjNvQ1M3ZzXGSq2LqgJ"
@@ -4270,7 +4354,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
@@ -7372,7 +7456,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 192812,
       "name": "Loyalty (feat. Boat)",
       "url": "https://open.spotify.com/track/5EIEiMOslyLTd0H5Ej6d4i"
@@ -7444,7 +7528,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 138051,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7mrhc9jiOHMuP10wZGKHoA"
@@ -7946,7 +8030,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
@@ -8247,6 +8331,28 @@
     },
     {
       "album": {
+        "name": "Move Ya Body (Remix)",
+        "url": "https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd"
+      },
+      "artists": [
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "CHAMOS",
+          "url": "https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97846,
+      "name": "Move Ya Body - Remix",
+      "url": "https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v"
+    },
+    {
+      "album": {
         "name": "Mozer Is Nijba",
         "url": "https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui"
       },
@@ -8266,7 +8372,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 145208,
       "name": "Mozer Is Nijba",
       "url": "https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O"
@@ -10250,7 +10356,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 127800,
       "name": "PUMPKIN",
       "url": "https://open.spotify.com/track/2Vfbc77eRArZNDmMEKg8jP"
@@ -10843,6 +10949,24 @@
     },
     {
       "album": {
+        "name": "Sende",
+        "url": "https://open.spotify.com/album/4PgUs5VGBAEE5RHFrFJWdJ"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Sende",
+      "url": "https://open.spotify.com/track/0S7WVldHk76spNJDrLTNIE"
+    },
+    {
+      "album": {
         "name": "Set It",
         "url": "https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa"
       },
@@ -11043,6 +11167,28 @@
     },
     {
       "album": {
+        "name": "Slapen Jij",
+        "url": "https://open.spotify.com/album/0Otq6CCBRFx675fOim2Cjp"
+      },
+      "artists": [
+        {
+          "name": "TAVV",
+          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
+        },
+        {
+          "name": "Jerr",
+          "url": "https://open.spotify.com/artist/4TKrOgaFOGULapDoQPBRpW"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97906,
+      "name": "Slapen Jij",
+      "url": "https://open.spotify.com/track/3qOeRiVgIAMQMI8QU1JOfk"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -11126,7 +11272,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163636,
-      "name": "So Many (feat. Quincy Promes)",
+      "name": "So Many",
       "url": "https://open.spotify.com/track/50T8Qf9KSXqQzK3HjIAfrD"
     },
     {
@@ -13341,6 +13487,28 @@
     },
     {
       "album": {
+        "name": "Wejow",
+        "url": "https://open.spotify.com/album/4HOJg0p9my8mmHTZLKJGii"
+      },
+      "artists": [
+        {
+          "name": "Remy",
+          "url": "https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn"
+        },
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Wejow",
+      "url": "https://open.spotify.com/track/5DeZoZydKVTlOHkuDBIMsF"
+    },
+    {
+      "album": {
         "name": "What It Do",
         "url": "https://open.spotify.com/album/6mGvNyQkTHVENlyF7qjRnG"
       },
@@ -13561,6 +13729,28 @@
     },
     {
       "album": {
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+    },
+    {
+      "album": {
         "name": "Yaad Meri",
         "url": "https://open.spotify.com/album/2whSY40DGijkTIXEUeXZ4C"
       },
@@ -13778,6 +13968,28 @@
       "duration_ms": 173538,
       "name": "Zet Je Goed",
       "url": "https://open.spotify.com/track/2KEZIZyGqQPWGwy3Smg4ax"
+    },
+    {
+      "album": {
+        "name": "Zijkant",
+        "url": "https://open.spotify.com/album/1qtgFxrZ2hg0GW6uyXtf32"
+      },
+      "artists": [
+        {
+          "name": "Justice Toch",
+          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
+        },
+        {
+          "name": "Ghetto Flow",
+          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Zijkant",
+      "url": "https://open.spotify.com/track/0OyF6nXazzwqcdPQe613aj"
     },
     {
       "album": {

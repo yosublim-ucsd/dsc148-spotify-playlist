@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,620 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,823 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 86 | [Top Bitch!](https://open.spotify.com/track/6sLbiIlmRhL3alS0P9vJuI) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Top Bitch!](https://open.spotify.com/album/5FUEmDM0jXct34ZmhfTJYA) | 2:56 |
 | 87 | [Holy Smokes!](https://open.spotify.com/track/3k3QTuKUK6qMV9x8Cy5gES) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Holy Smokes!](https://open.spotify.com/album/1MN43LtRSspvDxDocojiA9) | 1:39 |
 | 88 | [Deep Conversations](https://open.spotify.com/track/00Ja20eonXSXD5vB3Qgqmo) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Deep Conversations](https://open.spotify.com/album/4NExICdPBjSJZg8Tx0xyKm) | 2:26 |
-| 89 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 |
+| 89 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 |
 | 90 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 |
 | 91 | [Boba Tea](https://open.spotify.com/track/2RwdRl0lzQz5sHsSgNwdIs) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs\. Kato II: Gold Standard](https://open.spotify.com/album/0ysfcaZlzhgNqeu7UHtBAZ) | 1:54 |
 | 92 | [JD's REVENGE](https://open.spotify.com/track/1cRK9E0MUzxjiVSWhgYCDC) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [JD's REVENGE](https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCxiM2U5NmFlYmQ0ZmUyOGUzNzkyMWViMTUyZTRiZTQ1Mzc1NjBlODVj`
+Snapshot ID: `MCw2MTdlZmEwNzcxNGI1MWUxNmFmNWU3ZDM3Y2NhYTViYTIxNjEwZTRl`

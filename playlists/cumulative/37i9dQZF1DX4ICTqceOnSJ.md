@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-116 songs - 6 hr 33 min
+117 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-13 | 2023-07-17 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-03-19 | 2023-06-03 |
 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 | 2023-04-01 | 2023-07-13 |
-| [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-24 |  |
+| [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-24 | 2023-07-28 |
 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 | 2023-05-31 |  |
 | [Red Velvet](https://open.spotify.com/track/6VPXeQLMC7hpFdJjyeDMvW) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Arketipo Temporada 2](https://open.spotify.com/album/5zcLt8Qw4QCNH48l0CBjyu) | 3:09 | 2023-03-19 | 2023-04-18 |
 | [Ruta 7](https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK) | [Joven Breakfast](https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Ruta 7](https://open.spotify.com/album/19VE49YRECgUsAq0r2HmoT) | 3:28 | 2023-03-19 | 2023-05-23 |
@@ -118,6 +118,7 @@
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 | 2023-05-31 |  |
 | [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-04-22 | 2023-07-26 |
+| [TODO LO QUE SIENTO](https://open.spotify.com/track/69Vd4QzGVEP9r3ayG346cn) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [TODO LO QUE SIENTO](https://open.spotify.com/album/1cj95fbqSnePtysJXnuzBd) | 3:12 | 2023-07-27 |  |
 | [Tormenta](https://open.spotify.com/track/6wVfMfwjfAVlpLCsALHIIb) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [ROTOS](https://open.spotify.com/album/1d68YWhFsOs1jPHDryt8Id) | 2:20 | 2023-07-21 |  |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-20 |  |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 | 2023-04-15 |

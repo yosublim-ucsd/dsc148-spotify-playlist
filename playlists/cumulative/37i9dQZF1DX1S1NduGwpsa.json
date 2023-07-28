@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartman",
+  "description": "The best jazz new releases. Cover: Kareen Guiock-Thuram",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Third Times the Charm",
+        "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E"
+    },
+    {
+      "album": {
         "name": "Midnight Crisp",
         "url": "https://open.spotify.com/album/58TrLsdIgPp57favQCVRmj"
       },
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 650052,
       "name": "The IT Department",
       "url": "https://open.spotify.com/track/4EtkLLlDXFTXN53ZRFxP4s"

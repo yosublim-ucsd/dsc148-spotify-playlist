@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 9591,
+  "num_followers": 9641,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTk4NWJmYjhjMDhkYzg1ZDMwNGI4YzFkMjNhYWFkZTE1NmM4YWM0",
+  "snapshot_id": "MCw3OTU4ZmZmZWJkMjEyZTA1MTFjMzRkOTU3ZWRjN2M4ZGZlZTJjODQ0",
   "tracks": [
     {
       "added_at": "2023-07-17 06:13:02",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
-        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
-    },
-    {
-      "added_at": "2023-07-17 06:13:02",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
+    },
+    {
+      "added_at": "2023-07-17 06:13:02",
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
     },
     {
       "added_at": "2023-07-17 06:13:02",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
-    },
-    {
-      "added_at": "2023-07-17 06:13:02",
-      "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 152963,
       "name": "Kiss The Rain",
       "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
+    },
+    {
+      "added_at": "2023-07-17 06:13:02",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
     },
     {
       "added_at": "2023-07-17 06:13:02",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2023-07-17 06:13:02",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
       "added_at": "2023-07-17 06:13:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
-        "name": "my Imperfections",
-        "url": "https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx"
-      },
-      "artists": [
-        {
-          "name": "yukon",
-          "url": "https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love me like you do",
-      "url": "https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH"
-    },
-    {
-      "added_at": "2023-07-17 06:13:02",
-      "album": {
         "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
         "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 199746,
       "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
       "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
+    },
+    {
+      "added_at": "2023-07-17 06:13:02",
+      "album": {
+        "name": "Rainy Season",
+        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Rainy Season",
+      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

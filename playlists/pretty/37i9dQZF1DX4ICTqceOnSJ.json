@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422234,
+  "num_followers": 422230,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQ1NTJmMDU3MWNlMzgxNjk1ODQ2MTMwM2Y0MzUxNzVlMTdlZDZi",
+  "snapshot_id": "MCw4ZjQzMzBjZDJjYmQ0NzRiZmM0YzgyYmIyYjlkOGIxMjg1NTMyMWZk",
   "tracks": [
+    {
+      "added_at": "2023-07-27 06:00:00",
+      "album": {
+        "name": "TODO LO QUE SIENTO",
+        "url": "https://open.spotify.com/album/1cj95fbqSnePtysJXnuzBd"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "TODO LO QUE SIENTO",
+      "url": "https://open.spotify.com/track/69Vd4QzGVEP9r3ayG346cn"
+    },
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
@@ -879,22 +899,6 @@
       "duration_ms": 231959,
       "name": "Horas",
       "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Rayos, Besos, Fallos",
-        "url": "https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Rayos, Besos, Fallos",
-      "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

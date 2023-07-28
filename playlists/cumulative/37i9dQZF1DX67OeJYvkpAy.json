@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
@@ -522,6 +522,24 @@
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+    },
+    {
+      "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
+      },
+      "artists": [
+        {
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
     },
     {
       "album": {
@@ -2455,7 +2473,7 @@
       "artists": [
         {
           "name": "Fabz",
-          "url": "https://open.spotify.com/artist/40rSqa7gFirbkXi0LwFoQ8"
+          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
         }
       ],
       "date_added": "2022-05-24",

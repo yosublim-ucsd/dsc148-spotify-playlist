@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Brandy",
-  "num_followers": 3320490,
+  "num_followers": 3322056,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzkwNWNjNGVkZjk2NDU4NjMxMzdjNGQ5ZDAzNWNiMDY2YTQwYjAy",
+  "snapshot_id": "MCxlZTQ2YjEyOWI0YWQxNTVmY2NlOGZmM2U2YzNlNzliYmE0NDRkMjE0",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 440466,
-      "name": "No Ordinary Love",
-      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Keep the Faith",
@@ -479,6 +463,22 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 440466,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "This Is How We Do It",
@@ -531,22 +547,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
+      "added_at": "2022-08-23 02:58:10",
+      "album": {
+        "name": "azz izz",
+        "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Brown Sugar",
@@ -1143,22 +1159,6 @@
       "duration_ms": 281880,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
-    },
-    {
-      "added_at": "2022-08-23 02:58:10",
-      "album": {
-        "name": "azz izz",
-        "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
-      },
-      "artists": [
-        {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1261,20 +1261,24 @@
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+        "name": "Blaque",
+        "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Blaque",
+          "url": "https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ"
+        },
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+      "duration_ms": 218186,
+      "name": "Bring It All to Me (feat. *NSYNC)",
+      "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
     }
   ],
   "unique_name": "I Love My '90s R&B",

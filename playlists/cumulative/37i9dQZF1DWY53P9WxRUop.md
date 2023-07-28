@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-92 songs - 3 hr 54 min
+93 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Sidewalk Chalk](https://open.spotify.com/track/66NiIMKlV477Yxy3FySgIl) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 3:27 | 2021-08-30 |  |
 | [Sing a Summer Song](https://open.spotify.com/track/6kG8iOFDk8EpadJWLJElBb) | [Charity and the Jamband](https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT) | [Earth](https://open.spotify.com/album/5HnnZBu35tUIJBwnp9rXdt) | 4:17 | 2021-08-30 |  |
 | [Snowman In The Summer](https://open.spotify.com/track/2paUPL56zqStnGSRpQ0DHR) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [HOT DOG!](https://open.spotify.com/album/0ye96kydrJrnx9mAENEGG2) | 1:57 | 2021-08-30 |  |
-| [So Let's Climb Trees](https://open.spotify.com/track/2f9ETLVvX9VvZiNST2YAk4) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [So Let's Climb Trees](https://open.spotify.com/album/5z126C0V05gthRF9Ty3fZt) | 2:29 | 2021-08-30 |  |
+| [So Let's Climb Trees](https://open.spotify.com/track/2f9ETLVvX9VvZiNST2YAk4) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [So Let's Climb Trees](https://open.spotify.com/album/5z126C0V05gthRF9Ty3fZt) | 2:29 | 2021-08-30 | 2023-07-28 |
+| [So Let's Climb Trees](https://open.spotify.com/track/6FFhwHfYrtWzpbv9nSDEX4) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Beets](https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET) | 2:29 | 2023-07-07 |  |
 | [Summer Baby \(Let It Ride\)](https://open.spotify.com/track/1ZLiWyeWU3jbQ0B1XARmBf) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [HOT DOG!](https://open.spotify.com/album/0ye96kydrJrnx9mAENEGG2) | 2:57 | 2021-08-30 |  |
 | [Summer Belongs to You](https://open.spotify.com/track/37wuSLIK22IxGKffovC6jd) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf), [Phineas](https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h), [Isabella](https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y) | [Phineas and Ferb Summer Belongs to You](https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF) | 3:45 | 2021-08-30 |  |
 | [Summer of Fun](https://open.spotify.com/track/2GymMFv7OEYB1mxbroLYlt) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Summer of Fun](https://open.spotify.com/album/4rDlAFbwFF7pwCeSUpo1vM) | 2:54 | 2021-08-30 |  |

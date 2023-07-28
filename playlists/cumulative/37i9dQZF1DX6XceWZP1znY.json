@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 216653,
       "name": "FROZEN MIDNIGHT",
       "url": "https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K"
@@ -7044,6 +7044,24 @@
       "duration_ms": 236346,
       "name": "TRUE STORY",
       "url": "https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W"
+    },
+    {
+      "album": {
+        "name": "twilight little star",
+        "url": "https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u"
+      },
+      "artists": [
+        {
+          "name": "ChouCho",
+          "url": "https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214905,
+      "name": "twilight little star",
+      "url": "https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG"
     },
     {
       "album": {

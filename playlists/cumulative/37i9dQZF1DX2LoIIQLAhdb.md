@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-169 songs - 8 hr 16 min
+171 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Love Story II](https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story II](https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K) | 1:43 | 2023-02-09 | 2023-03-10 |
 | [Love Story III](https://open.spotify.com/track/40OWsWC7SqFIK5GtqswGsP) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story III](https://open.spotify.com/album/1pRv3dJ8Z46Rl5copApNpj) | 2:06 | 2023-06-08 |  |
 | [Love Therapy](https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM) | 5:09 | 2023-01-05 | 2023-01-27 |
-| [LUNDI](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 | 2023-06-22 |  |
+| [LUNDI](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 | 2023-06-22 | 2023-07-28 |
 | [Luva](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 | 2023-07-20 |  |
 | [M'en Aller](https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [M'en Aller](https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh) | 2:34 | 2023-06-15 |  |
 | [Ma Lova](https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Ma Lova](https://open.spotify.com/album/69VpibECOEtYba9gZTn36O) | 2:26 | 2023-02-09 | 2023-05-19 |
@@ -141,9 +141,10 @@
 | [Plan séquence](https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Plan séquence](https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q) | 2:49 | 2022-11-24 | 2023-01-27 |
 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 | 2023-07-20 |  |
 | [Pourquoi pas](https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 3:21 | 2022-11-24 | 2023-05-26 |
-| [Promesses](https://open.spotify.com/track/7xxid48pIcAmxB60s3YFg0) | [Kidaki](https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M) | [Vnus](https://open.spotify.com/album/0beyPn4CEcx2oWOCDYnrMm) | 3:26 | 2023-06-22 |  |
+| [Promesses](https://open.spotify.com/track/7xxid48pIcAmxB60s3YFg0) | [Kidaki](https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M) | [Vnus](https://open.spotify.com/album/0beyPn4CEcx2oWOCDYnrMm) | 3:26 | 2023-06-22 | 2023-07-28 |
 | [Préface \- Nouveau Départ](https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn) | [Préface \(Nouveau Départ\)](https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3) | 2:21 | 2022-11-24 | 2022-12-09 |
 | [Quart d’heure](https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Quart d’heure](https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR) | 3:08 | 2023-02-02 | 2023-03-18 |
+| [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 |  |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |
 | [Salam](https://open.spotify.com/track/3H1O5X7jL7fJ2DKg9cU8Ox) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 3:12 | 2023-01-05 | 2023-02-03 |
 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 | 2023-07-20 |  |
@@ -172,6 +173,7 @@
 | [Une Femme](https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Une Femme](https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp) | 2:50 | 2023-03-16 | 2023-07-07 |
 | [VIBESTARS \#6](https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [VIBESTARS \#6](https://open.spotify.com/album/3ZRItbt48UvxlbEuIFRFVI) | 3:04 | 2023-04-27 | 2023-06-09 |
 | [WAVYSHAWTY](https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [WAVYSHAWTY](https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c) | 3:02 | 2023-05-18 | 2023-06-23 |
+| [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-27 |  |
 | [Yoyo](https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Yoyo](https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V) | 3:24 | 2022-12-15 | 2023-01-20 |
 | [Zina](https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Zina](https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X) | 2:16 | 2023-05-18 |  |
 | [À qui la faute](https://open.spotify.com/track/6i0KLQD7zlFLyS5zxOHAB0) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [ADN](https://open.spotify.com/album/2LCG3qOGSDCE4sBBIclAS9) | 3:25 | 2022-11-24 | 2023-01-06 |

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-344 songs - 20 hr 51 min
+345 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2022-11-08 | 2023-05-24 |
 | [Quai](https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [Quai](https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm) | 6:50 | 2022-11-15 | 2022-12-07 |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-10-20 | 2022-11-09 |
+| [Reality Mind](https://open.spotify.com/track/553klLGtJCONJztTXktVF6) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [A New Reality Mind](https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy) | 3:41 | 2023-07-27 |  |
 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-07 | 2023-07-07 |
 | [Redwoods \- Abridged](https://open.spotify.com/track/05PXJyerno19ypVqyYBIaO) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Woodgreen Street](https://open.spotify.com/album/3iETcOC29J9zEnZIYnbWWI) | 3:43 | 2023-07-06 |  |
 | [Right Behind](https://open.spotify.com/track/17B8mzCBY8OPzRxUJBpqk2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:12 | 2023-02-28 | 2023-04-21 |
@@ -262,7 +263,7 @@
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-10-20 |  |
 | [The Book Of Love \- Single Version](https://open.spotify.com/track/6COtET46lPGVXefrfHUkHI) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Book Of Love](https://open.spotify.com/album/5mDu3WC3cx1elevWyu4uPl) | 3:13 | 2023-02-28 | 2023-07-05 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-25 |  |
-| [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-18 |  |
+| [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-18 | 2023-07-28 |
 | [The Keeper \(feat\. Alain Johannes\)](https://open.spotify.com/track/1k9Qcmv02DaWr947FRWtv5) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C) | [Other Worlds](https://open.spotify.com/album/4RzdRTzBSgtK2y9BF397Qf) | 4:02 | 2022-11-03 | 2022-11-05 |
 | [The Keeper \[Feat\. Alain Johannes\]](https://open.spotify.com/track/5wvC1JgIX0xdDG7CB95VMh) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C) | [Other Worlds](https://open.spotify.com/album/5vJqJdyvEym5nYPEqQT0fI) | 4:02 | 2022-11-03 | 2022-12-07 |
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-23 | 2023-03-01 |

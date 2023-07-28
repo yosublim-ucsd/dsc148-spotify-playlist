@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 231519,
+  "num_followers": 231550,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
+  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "I Believe It Now",
         "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 228886,
       "name": "I Believe It Now",
       "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+        "name": "TAYA",
+        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
       },
       "artists": [
         {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+      "duration_ms": 213760,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "TAYA",
-        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
       },
       "artists": [
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "Aodhan King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 325333,
-      "name": "Remember What It Cost",
-      "url": "https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "7",
+        "url": "https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 325333,
+      "name": "Remember What It Cost",
+      "url": "https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Every Morning",
         "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Move of Heaven",
-        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Where The Winter Was",
         "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 210586,
       "name": "Not So Sure",
       "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Move of Heaven",
+        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Pulp",
         "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Fall On The Nation",
+        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Corry Robinson",
+          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
+        }
+      ],
+      "duration_ms": 272170,
+      "name": "Fall On The Nation",
+      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 269202,
       "name": "Miracle of the Mind",
       "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Fall On The Nation",
-        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Corry Robinson",
-          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
-        }
-      ],
-      "duration_ms": 272170,
-      "name": "Fall On The Nation",
-      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Against the Wall",
         "url": "https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 205625,
       "name": "Against the Wall",
       "url": "https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 17410,
+  "num_followers": 17476,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
+  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "L'Incredibile Peppino Di Capri",
-        "url": "https://open.spotify.com/album/4NL19dugdmwp27q1oBaFiv"
-      },
-      "artists": [
-        {
-          "name": "Peppino Di Capri",
-          "url": "https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4"
-        }
-      ],
-      "duration_ms": 135720,
-      "name": "Saint-Tropez Twist",
-      "url": "https://open.spotify.com/track/4xtYHxx1Gzb5vxlY3sVICD"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocky Roberts",
         "url": "https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 113853,
       "name": "Stasera mi butto",
       "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "L'Incredibile Peppino Di Capri",
+        "url": "https://open.spotify.com/album/4NL19dugdmwp27q1oBaFiv"
+      },
+      "artists": [
+        {
+          "name": "Peppino Di Capri",
+          "url": "https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4"
+        }
+      ],
+      "duration_ms": 135720,
+      "name": "Saint-Tropez Twist",
+      "url": "https://open.spotify.com/track/4xtYHxx1Gzb5vxlY3sVICD"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "Abbronzatissima",
-      "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "I Grandi Successi: Gianni Pettenati",
         "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 135000,
       "name": "Poco Sole",
       "url": "https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "Abbronzatissima",
+      "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
-        "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celetano",
-          "url": "https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc"
-        }
-      ],
-      "duration_ms": 136080,
-      "name": "24,000 baci",
-      "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 164453,
       "name": "Marina",
       "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
+        "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celetano",
+          "url": "https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc"
+        }
+      ],
+      "duration_ms": 136080,
+      "name": "24,000 baci",
+      "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le Sue Piu' Belle Canzoni",
-        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
-      },
-      "artists": [
-        {
-          "name": "Umberto Rosario Balsamo",
-          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Balla",
-      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245822,
       "name": "Legata a un granello di sabbia - Remastered",
       "url": "https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le Sue Piu' Belle Canzoni",
+        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Balla",
+      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
     },
     {
       "added_at": "2023-06-05 07:42:38",

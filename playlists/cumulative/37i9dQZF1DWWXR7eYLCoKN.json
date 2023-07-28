@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Voo Longe",
+        "url": "https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Enquanto Voc\u00ea N\u00e3o Chega",
+      "url": "https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC"
+    },
+    {
+      "album": {
         "name": "Minha Cara",
         "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 156032,
       "name": "Samba a Dois",
       "url": "https://open.spotify.com/track/4wbghS9VbEweFlKsYRFucB"

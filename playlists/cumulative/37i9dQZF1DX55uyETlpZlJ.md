@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-143 songs - 7 hr 59 min
+144 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 | 2023-07-03 | 2023-07-18 |
 | [Cash Race](https://open.spotify.com/track/0fyj6lCdRmakvild3EyarH) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Cyclone Og](https://open.spotify.com/artist/4yAKQB0twqPFlGwjF69epo) | [Cash Race](https://open.spotify.com/album/0V8riX9jaGWnVtBd9JbnW9) | 2:25 | 2023-07-20 |  |
 | [Chance eh illa](https://open.spotify.com/track/6IrzJUmkdrKSHq7KwHqnEh) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh illa](https://open.spotify.com/album/3thZfo5zYTNdHrQ0NZHt7C) | 3:06 | 2023-01-31 | 2023-07-04 |
+| [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 |  |
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 |  |
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |

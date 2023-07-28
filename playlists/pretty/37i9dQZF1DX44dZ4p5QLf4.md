@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,194 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,243 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 96 | [Being Loved](https://open.spotify.com/track/4EWkR7tGveHyQXHHu1Gfqb) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:22 |
 | 97 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 |
 | 98 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
-| 99 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 |
+| 99 | [Put D'Angelo On](https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/5q2vdfrE0ISHmaP8IsBLAt) | 3:07 |
 | 100 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 |
 
-Snapshot ID: `MCxiNzYyZmFhY2Y0ODI2YzAwNWNjYzdmZmRkNGE2ZWEyNjc3NjY1OTEx`
+Snapshot ID: `MCwwZDU1MWFlYzllMjQwZWFiNmY3YzJlNGJjYmZjZDc3YWYwODk1MzYw`

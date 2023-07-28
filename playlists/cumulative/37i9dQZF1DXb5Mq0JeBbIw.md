@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-218 songs - 12 hr 33 min
+219 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Be As You Are \- Acoustic](https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Island Life Coffee House \(Vol\. 1\)](https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b) | 3:54 | 2022-06-24 |  |
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2022-05-30 |  |
 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2022-06-24 | 2023-05-17 |
-| [Best Of You \- Acoustic Version](https://open.spotify.com/track/73MHuCErSYZW2Q55lL08cA) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Best Of You \(Acoustic Version\)](https://open.spotify.com/album/5e0vB4IDPvySuTFp2Dxjpr) | 3:08 | 2022-05-30 |  |
+| [Best Of You \- Acoustic Version](https://open.spotify.com/track/73MHuCErSYZW2Q55lL08cA) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Best Of You \(Acoustic Version\)](https://open.spotify.com/album/5e0vB4IDPvySuTFp2Dxjpr) | 3:08 | 2022-05-30 | 2023-07-28 |
 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 | 2022-06-24 |  |
 | [Better Than Today](https://open.spotify.com/track/6MLHg35rlksBc5OBcdZvJi) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Better Than Today](https://open.spotify.com/album/0GPUPlsmyjRLwBKlWNPW3T) | 3:50 | 2022-05-30 | 2022-07-29 |
 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 | 2022-05-30 |  |
@@ -226,5 +226,6 @@
 | [Without You](https://open.spotify.com/track/7gQ0Ujx0iQ6yxNTFukpwFx) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/5gJz01RcHXsdy2IDWsnPtP) | 4:32 | 2022-05-30 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 | 2022-11-07 |  |
 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 | 2022-05-30 | 2023-07-13 |
+| [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 | 2023-02-10 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

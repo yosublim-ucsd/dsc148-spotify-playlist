@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: kZm, JUMADIBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,064 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,072 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 75 | [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 |
 | 76 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 |
 | 77 | [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/track/3LgyWMhXMMcMKxH56hdkxz) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/album/3sTt9m5B1zftc7BUVCZSVF) | 2:39 |
-| 78 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 |
+| 78 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 79 | [ダーリン](https://open.spotify.com/track/010Xsoma6PVCxHbCESayQX) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [ダーリン](https://open.spotify.com/album/6hgcwuQOeRXhEj52Zr1CUK) | 3:04 |
 | 80 | [COMPLEX BREAK OUT \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/5gd0lEJcnBFNzR5DjLyjnf) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [早見優 – Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/6Gfcu3hliVeg1BGfdrLOQo) | 2:58 |
 | 81 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Hashirimizu](https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Hashirimizu](https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe) | 6:26 |
 | 100 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 |
 
-Snapshot ID: `MCwyYzUzNTEwZTVmNjIwMjNhMzllYmQxYTRkNTJmZDcyYzhkZjE1NmVk`
+Snapshot ID: `MCwyYWYzNjkxYmE3NzExODM2YzVkYjVjOWEyNDg1ZWVlMTU5ZDIxNjMw`

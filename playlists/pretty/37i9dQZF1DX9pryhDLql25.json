@@ -1,12 +1,12 @@
 {
   "description": "pov: fresh produce is in your reusable tote, the flowers are in bloom, and you\u2019re sipping on an iced coffee perusing through knick knacks ",
-  "num_followers": 207582,
+  "num_followers": 207606,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY4ZDE2ZWNkZjg3OGMzODQxMDJkZDJmZmE5NjMzNjUxNjVmMjNh",
+  "snapshot_id": "MCwwYjkyY2JiOTJmMGExMjFhZjhhNDJmMTVlMWQwMzkwNzJhMjAzZjU0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 422613,
       "name": "Moonlight on the River",
       "url": "https://open.spotify.com/track/2fhOljbX79loRcdl47SFye"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "True That",
         "url": "https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186000,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2023-06-23 04:00:00",

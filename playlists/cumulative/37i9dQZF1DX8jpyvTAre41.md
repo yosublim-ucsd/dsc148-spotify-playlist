@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-657 songs - 1 day 13 hr 14 min
+658 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Head Up](https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Chrysalis](https://open.spotify.com/album/5pXpUs3iFvHtERCkLkrEIi) | 2:49 | 2021-12-31 | 2022-03-19 |
 | [Hellbound](https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Hellbound](https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8) | 2:45 | 2022-01-07 | 2022-03-19 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-19 | 2022-10-01 |
-| [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-07-21 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2023-07-28 |
 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 | 2021-12-31 | 2022-07-20 |
 | [Holes](https://open.spotify.com/track/6jauJgJ1vi8GoSnNm0hIh8) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Holes](https://open.spotify.com/album/5Cxjk0T00saPUUL46tQkSp) | 3:18 | 2021-12-31 | 2022-01-29 |
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-05 |  |

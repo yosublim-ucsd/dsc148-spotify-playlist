@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. El Bogueto en portada
 
-223 songs - 11 hr 7 min
+224 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Rebota](https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA) | 3:24 | 2022-01-04 | 2022-07-29 |
 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 | 2022-07-19 |  |
 | [REBOTA](https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REBOTA](https://open.spotify.com/album/4FGAnci4lOvthTNL7KUSLV) | 2:29 | 2023-04-21 | 2023-06-10 |
-| [Rkt](https://open.spotify.com/track/6kunqLryu0TFabC9x798tW) | [Kid Moonsta](https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy), [Alexis Rostro](https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE), [Easy Mo](https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty) | [Rkt](https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF) | 3:06 | 2023-03-03 |  |
+| [Rkt](https://open.spotify.com/track/6kunqLryu0TFabC9x798tW) | [Kid Moonsta](https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy), [Alexis Rostro](https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE), [Easy Mo](https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty) | [Rkt](https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF) | 3:06 | 2023-03-03 | 2023-07-28 |
 | [Romance y Bellakera](https://open.spotify.com/track/1K5liUyu6GsrP07E3ukGHO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Romance y Bellakera](https://open.spotify.com/album/2HuZtjQmKRHNQy0hd5u8p2) | 4:17 | 2023-04-21 |  |
 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 | 2022-01-04 |  |
 | [ROPA CARA](https://open.spotify.com/track/3xRuYQbEK2CkEre89k5jDY) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ROPA CARA](https://open.spotify.com/album/1iKdUk8CR8ZxA4RGSxrEs4) | 3:45 | 2023-05-26 |  |
@@ -214,6 +214,7 @@
 | [TRKB \(feat\. Lihuel\)](https://open.spotify.com/track/40J9yu4KZ6a1whsKlQbMKF) | [Yasmi](https://open.spotify.com/artist/3SeLlSSVzurvLQGQEZLyKW), [Lihuel](https://open.spotify.com/artist/5YaIwGUmp2ktnlod9kAPuy) | [TRKB \(feat\. Lihuel\)](https://open.spotify.com/album/09YiL8yoJVuR3FTxb7eRSy) | 2:27 | 2023-03-17 | 2023-03-25 |
 | [Tu Gato Bellaco \- Remix](https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Tu Gato Bellaco \(Remix\)](https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy) | 3:02 | 2022-12-07 | 2023-04-29 |
 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa) | 3:47 | 2022-01-04 | 2023-02-27 |
+| [Tu Pones La Hora y Yo le Caigo](https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p), [Nyel](https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q) | 3:47 | 2023-07-21 |  |
 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/2ZD6DyfX8VSF0st6Pu3RV3) | [Nyel](https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5), [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/5MwKUAT1QxdlUalOBVu74w) | 3:47 | 2022-12-16 | 2023-07-16 |
 | [Tu Sicaria](https://open.spotify.com/track/6fatMybX8VmHUpaxVcXzrz) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/4iCyHaLNulNpWU8KzBlySV) | 2:26 | 2022-01-04 | 2022-07-29 |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2022-07-19 |  |

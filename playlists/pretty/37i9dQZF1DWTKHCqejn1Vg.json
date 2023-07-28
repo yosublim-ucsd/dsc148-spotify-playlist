@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 24221,
+  "num_followers": 24263,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjIxMzIyMDQ4YTU4ZjliMTJmMDAwYjhlOWM3NzllYzdhMWZiYzIx",
+  "snapshot_id": "MCw4ZjI1YzAwZGQ1M2UxOTk5N2QxOWZjOWQ3M2JmMTRmODE1YjNmNzRl",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:12",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2023-07-17 06:18:12",

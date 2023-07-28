@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-153 songs - 11 hr 19 min
+154 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Go](https://open.spotify.com/track/57DwpDYNbI1QngVijfBKfP) | [Vocal Few](https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd) | [Go](https://open.spotify.com/album/7nTNJAlRgd2pwg40XnYKIp) | 4:08 | 2020-08-31 | 2022-07-29 |
 | [God Evermore](https://open.spotify.com/track/2SBAqasLdtBchU4wMB61pE) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 5:06 | 2020-08-31 | 2022-07-10 |
 | [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 | 2020-08-31 |  |
-| [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 | 2020-08-31 |  |
+| [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 | 2020-08-31 | 2023-07-28 |
 | [Goodness](https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [Goodness](https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I) | 5:34 | 2020-08-31 | 2022-07-29 |
 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 | 2020-08-31 |  |
 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 | 2020-08-31 | 2023-07-19 |
@@ -79,6 +79,7 @@
 | [Just Give Me Jesus](https://open.spotify.com/track/2TkU9jzogblGW1Dv3G7SIo) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:27 | 2020-08-31 | 2022-07-29 |
 | [Just Give Me Jesus](https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:29 | 2020-08-31 |  |
 | [King](https://open.spotify.com/track/6vBLdyTincxHDJLWBtfj38) | [Heritvge](https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX) | [Heritvge](https://open.spotify.com/album/05alkvDjrhOKRhnUXf3mND) | 4:05 | 2020-08-31 | 2022-07-29 |
+| [King](https://open.spotify.com/track/6LHuz0Dd86O6ECUdMZVOll) | [HERITVGE](https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX) | [HERITVGE](https://open.spotify.com/album/6kWwqBu43Md5dIiKLmstLZ) | 4:07 | 2020-08-31 |  |
 | [King of Eternity](https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde) | [LW Music](https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG), [Garett Serban](https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj), [Nixaide Lopez](https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx) | [King of Eternity](https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq) | 6:48 | 2020-08-31 | 2022-07-01 |
 | [King Of Kings \- Live](https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm) | 4:51 | 2020-08-31 | 2023-07-13 |
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-08-31 |  |

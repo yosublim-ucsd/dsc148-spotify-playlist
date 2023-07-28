@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 233095,
+  "num_followers": 233125,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj",
+  "snapshot_id": "MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -491,26 +507,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "For the Night",
         "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
       },
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Pray It Away",
         "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
       },
@@ -851,38 +867,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Look My Way",
-        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Look My Way",
-      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 151467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
       },
       "artists": [
         {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 161677,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "WHAT'S IT GONNA TAKE",
         "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 196798,
       "name": "WHAT'S IT GONNA TAKE",
       "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Man Makes Plans",
-        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 169311,
-      "name": "Drunk Tank",
-      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Message From My Ex / 3 Words (Message To My Ex)",
-        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+        "name": "Man Makes Plans",
+        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 186083,
-      "name": "3 Words (Message To My Ex)",
-      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
+      "duration_ms": 169311,
+      "name": "Drunk Tank",
+      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1323,6 +1323,22 @@
       "duration_ms": 196641,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Message From My Ex / 3 Words (Message To My Ex)",
+        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "3 Words (Message To My Ex)",
+      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 195976,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "P.G.N.L.",
+        "url": "https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 144064,
+      "name": "P.G.N.L.",
+      "url": "https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "P.G.N.L.",
-        "url": "https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 144064,
-      "name": "P.G.N.L.",
-      "url": "https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 147528,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Not Me",
         "url": "https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 222284,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Drift Away",
-        "url": "https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 147528,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV"
     },
     {
       "added_at": "2023-06-01 22:01:00",

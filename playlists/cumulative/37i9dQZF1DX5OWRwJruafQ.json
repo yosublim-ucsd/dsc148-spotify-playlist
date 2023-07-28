@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: Prem Dhillon",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Nseeb",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Dream Life",
+        "url": "https://open.spotify.com/album/7HccTQt4TFGWhMPlqESSjZ"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188661,
+      "name": "Gabru Brown",
+      "url": "https://open.spotify.com/track/2jlldULbq2etolo9VA76Pj"
+    },
+    {
+      "album": {
         "name": "Gaddi",
         "url": "https://open.spotify.com/album/6k6hDbaEZumhfTd9xplzVN"
       },
@@ -1384,6 +1402,28 @@
       "duration_ms": 211964,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP"
+    },
+    {
+      "album": {
+        "name": "Grit 2 Glory",
+        "url": "https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV"
     },
     {
       "album": {
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 166579,
       "name": "Hustle Evuryday",
       "url": "https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ"
@@ -2670,7 +2710,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 188181,
       "name": "Pind Da Riwaaz",
       "url": "https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO"
@@ -2880,6 +2920,32 @@
       "duration_ms": 219200,
       "name": "Shohrat",
       "url": "https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4"
+    },
+    {
+      "album": {
+        "name": "Grit 2 Glory",
+        "url": "https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        },
+        {
+          "name": "Nakeeta",
+          "url": "https://open.spotify.com/artist/0uSiLWLgqqR7SUL00iz0iZ"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169680,
+      "name": "Shortie",
+      "url": "https://open.spotify.com/track/2cZ2xCQL2Zgp9KMq8zERY1"
     },
     {
       "album": {
@@ -3478,10 +3544,32 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 216827,
       "name": "We Up",
       "url": "https://open.spotify.com/track/7JHizhhBIgetbfoKd4esq9"
+    },
+    {
+      "album": {
+        "name": "Grit 2 Glory",
+        "url": "https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1"
     },
     {
       "album": {

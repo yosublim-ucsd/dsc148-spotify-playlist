@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 286378,
+  "num_followers": 286359,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU4NTNiMDE4N2I4Yjg3YzFhNmQzMjU5ZTQ5NzdiYzFjYmUxZTgy",
+  "snapshot_id": "MCxhNzJiMGRiZmM0ODcyNDYxNjA3ODhkZjFhYWUxN2I3OTBmNWI5ODNk",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Emmanuel Jingle Bell Rocks",
-        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 325397,
-      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
-      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Ven a Mi Casa Esta Navidad",
         "url": "https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 206768,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Emmanuel Jingle Bell Rocks",
+        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 325397,
+      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
+      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
+        "name": "Navidad Navidad",
+        "url": "https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
+      "duration_ms": 142407,
+      "name": "Navidad Navidad",
+      "url": "https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 209688,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 255125,
+      "name": "Human Nature - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
     },
     {
       "added_at": "2022-12-22 18:37:48",

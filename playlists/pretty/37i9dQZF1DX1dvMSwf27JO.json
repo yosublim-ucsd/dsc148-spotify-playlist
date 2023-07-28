@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 517161,
+  "num_followers": 517255,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjc2ZGZlZTE5ZjgzNmM2MmM2ZDViYzVhZDFjMjliOWI4NjcxMGI0",
+  "snapshot_id": "MCw2YzhhNjJkNzM3NzVlMjgxNmVhMTc5MGNhNzFjMTY2YzI4NzM4ZmVi",
   "tracks": [
     {
       "added_at": "2023-04-21 19:48:21",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 230000,
       "name": "Hypnotize - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "DOGTOOTH",
-        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
-      "added_at": "2023-06-15 16:15:46",
-      "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
       "added_at": "2023-04-21 19:48:21",
       "album": {
         "name": "I Can't Wait",
@@ -615,6 +599,22 @@
       "duration_ms": 134322,
       "name": "FreakyT",
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "added_at": "2023-06-15 16:15:46",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "U KNOW ME",
         "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 210004,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1121,6 +1121,26 @@
       "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
+    },
+    {
       "added_at": "2023-04-21 19:48:21",
       "album": {
         "name": "Once Twice Melody",
@@ -1151,26 +1171,6 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Leave It Alone",
-        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "FLOOR",
         "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/04dpn6LsJPUIH2G4E4F83O"
-      },
-      "artists": [
-        {
-          "name": "Kris Yute",
-          "url": "https://open.spotify.com/artist/0Q7gK5T29pJT5TXXRdt2pP"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/1Dt6sLHeMKlUY9BYbnsSmK"
-    },
-    {
       "added_at": "2023-06-15 16:15:46",
       "album": {
         "name": "WHO TF IS 8RAE?",
@@ -1471,6 +1455,22 @@
       "duration_ms": 151384,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/04dpn6LsJPUIH2G4E4F83O"
+      },
+      "artists": [
+        {
+          "name": "Kris Yute",
+          "url": "https://open.spotify.com/artist/0Q7gK5T29pJT5TXXRdt2pP"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1Dt6sLHeMKlUY9BYbnsSmK"
     },
     {
       "added_at": "2023-04-21 19:48:21",

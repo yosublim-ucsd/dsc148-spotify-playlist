@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Roseline Layo
+> African dance party music from Paris to Abidjan\. Photo : Mike Alabi
 
-141 songs - 8 hr 16 min
+142 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
+| [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 | 2023-07-27 |  |
 | [Cabri Mort \- Remix](https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Cabri Mort \(Remix\)](https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC) | 2:59 | 2022-05-26 | 2023-04-14 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
@@ -48,7 +49,7 @@
 | [DJAKOTO](https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz), [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [DJAKOTO](https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5) | 2:48 | 2022-12-08 | 2023-05-19 |
 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 | 2023-03-23 |  |
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
-| [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 |  |
+| [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 | 2023-07-28 |
 | [Dora Dance](https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Dora Dance](https://open.spotify.com/album/74wMcfUmeLcddiJZcvV2xy) | 3:00 | 2022-09-01 | 2023-01-06 |
 | [Dosabado](https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Rhythms of Zamunda \(Music Inspired by the Amazon Original Movie: Coming 2 America\)](https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn) | 2:30 | 2021-12-20 |  |
 | [Dosez \(feat\. Elow'n & Didi B\)](https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 3:55 | 2022-02-18 | 2022-09-30 |

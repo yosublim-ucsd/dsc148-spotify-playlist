@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 65925,
+  "num_followers": 66013,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjcyNjdmMzViYTBjY2ZkNTM1ZWU3MzAwY2NjMzkxNDZiYjViZGE5",
+  "snapshot_id": "MCwzNWY1OWFlNmU4MTIyZWIzZTVhYmQ0M2M5ZTQxNDZiNTg0MWE5M2Vj",
   "tracks": [
     {
       "added_at": "2023-06-21 12:07:12",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Dancing In Wonderland (Remastered)",
-        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "Film Festival",
         "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 141000,
       "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
       "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Dancing In Wonderland (Remastered)",
+        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "The Romantic Moods Of Jackie Gleason",
         "url": "https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 210266,
       "name": "I'm In The Mood For Love - Remastered/1996",
       "url": "https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -335,38 +335,6 @@
       "duration_ms": 188240,
       "name": "Fools Rush In (Where Angels Fear to Tread)",
       "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Market Day",
-      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -387,18 +355,18 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 171520,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -415,6 +383,22 @@
       "duration_ms": 244826,
       "name": "Moon over Miami",
       "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Market Day",
+      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -451,106 +451,6 @@
       "duration_ms": 224800,
       "name": "Moonglow and Theme from Picnic",
       "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "You and the Night and the Music",
-        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
-      },
-      "artists": [
-        {
-          "name": "The Melachrino Strings and Orchestra",
-          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
-        }
-      ],
-      "duration_ms": 169493,
-      "name": "Violins in the Night",
-      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Let's Go Bowling (Remastered)",
-        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Music, Martinis And Memories",
-        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "The Essential Henry Mancini",
-        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 160693,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -587,8 +487,92 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "You and the Night and the Music",
+        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
+      },
+      "artists": [
+        {
+          "name": "The Melachrino Strings and Orchestra",
+          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
+        }
+      ],
+      "duration_ms": 169493,
+      "name": "Violins in the Night",
+      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "The Essential Henry Mancini",
+        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Let's Go Bowling (Remastered)",
+        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Lonely Nightingale",
-      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+      "duration_ms": 162186,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -615,6 +599,22 @@
       "duration_ms": 202026,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Strings Latino",
-        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 192666,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -683,34 +683,34 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 177560,
+      "name": "Lonely Nightingale",
+      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
     },
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+        "name": "Strings Latino",
+        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
         }
       ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+      "duration_ms": 192666,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -727,6 +727,22 @@
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -763,6 +779,22 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
         "name": "And Awaaay We Go! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 203493,
       "name": "Night Side",
       "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -863,18 +879,18 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -927,22 +943,6 @@
       "duration_ms": 127986,
       "name": "Buttons and Bows",
       "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Big Band Bash!",
-        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "My Last Affair",
-      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "West of Sunset",
         "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 190480,
       "name": "Capri Serenade",
       "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Big Band Bash!",
+        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "All-American Showcase",
         "url": "https://open.spotify.com/album/4H7ItBRkwoMNc3n7XBp75Q"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197880,
       "name": "Lover Come Back to Me",
       "url": "https://open.spotify.com/track/0DeL2IndLfKP2JSb33ZBgc"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
     },
     {
       "added_at": "2023-06-21 12:07:12",

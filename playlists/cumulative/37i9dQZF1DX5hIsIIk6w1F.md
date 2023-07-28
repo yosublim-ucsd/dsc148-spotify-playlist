@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: El Jordan 23.
 
-427 songs - 1 day 0 hr 25 min
+428 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,8 +339,9 @@
 | [Reggaetón](https://open.spotify.com/track/0MEUoxYlDHOSnNvtPL5MKN) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [11/11](https://open.spotify.com/album/0fTlLpdntkd3vdeCRmGNbg) | 2:49 | 2022-11-11 | 2023-03-08 |
 | [REÑACA](https://open.spotify.com/track/3MioiUQSZ9rUWHhIxypQQH) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [REÑACA](https://open.spotify.com/album/5iIWwuo2KhzxryAKUuCaOR) | 2:53 | 2023-03-03 |  |
 | [RICKY RICON](https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [RICKY RICON](https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5) | 2:07 | 2023-06-30 |  |
-| [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 | 2023-02-03 |  |
+| [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 | 2023-02-03 | 2023-07-28 |
 | [RIKA](https://open.spotify.com/track/5VmIeEHBvuZ4DjhtbYELwP) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [RIKA](https://open.spotify.com/album/6tsftgTqhSyOe6DZ4UJTVb) | 3:08 | 2022-05-31 | 2022-08-13 |
+| [Rika](https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG) | 3:08 | 2023-07-21 |  |
 | [Rockstar](https://open.spotify.com/track/3rM83BGOnHJEzPZivEwmVL) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Rockstar](https://open.spotify.com/album/2zwMwKlVHSgdNZuENtSNYc) | 3:07 | 2022-11-25 | 2023-02-11 |
 | [Roll Royce](https://open.spotify.com/track/24iXuKsb2nPPZR6uj50hRu) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Roll Royce](https://open.spotify.com/album/3rfMFHlLFlwqnNkrSg6PWl) | 2:54 | 2023-06-02 |  |
 | [ROPA CARA](https://open.spotify.com/track/3xRuYQbEK2CkEre89k5jDY) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ROPA CARA](https://open.spotify.com/album/1iKdUk8CR8ZxA4RGSxrEs4) | 3:45 | 2023-05-26 |  |

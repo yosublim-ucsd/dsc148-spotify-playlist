@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Flavia K",
-  "num_followers": 161823,
+  "num_followers": 161861,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjM4MDc1ZGE4YWViMTdiM2MxNWVlODc5NDQ3ODMzMjFhOTQ1Yzhl",
+  "snapshot_id": "MCxlNTM3ZTEzNjI3MGM1OGZlNjU2NzEwOTQyNjVkNWQ5YmZjMWIzZmRh",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Sem T\u00e9dio",
-        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 180454,
-      "name": "Sem T\u00e9dio",
-      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -575,22 +591,6 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 235135,
       "name": "Censura e Prazer",
       "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Vers\u00e3o Beta",
+        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "PNDA",
+          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Vers\u00e3o Beta",
+      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -923,42 +943,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
-      },
-      "artists": [
-        {
-          "name": "Coimbra",
-          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
-        },
-        {
-          "name": "Cibelle Aguiar",
-          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -983,6 +967,42 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
+      },
+      "artists": [
+        {
+          "name": "Coimbra",
+          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
+        },
+        {
+          "name": "Cibelle Aguiar",
+          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1115,26 +1135,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Vers\u00e3o Beta",
-        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "PNDA",
-          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
-        }
-      ],
-      "duration_ms": 133825,
-      "name": "Vers\u00e3o Beta",
-      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
     },
     {
       "added_at": "2023-07-21 03:01:00",

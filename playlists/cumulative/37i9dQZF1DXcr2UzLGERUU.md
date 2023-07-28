@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-147 songs - 8 hr 2 min
+148 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-04-01 | 2023-07-13 |
 | [Free](https://open.spotify.com/track/1OO4WRqPN9XlkcnjQzIYKr) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/5AnKO6sCuaEqkOtFesYiBQ) | 3:11 | 2022-04-01 |  |
 | [Free](https://open.spotify.com/track/3M7xHMsoIeNKLkrJ2wY4i6) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/6wPLbn1Zht0zxBAmqmoOtv) | 3:11 | 2022-04-01 | 2022-07-29 |
-| [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-04-01 |  |
+| [Full Moon](https://open.spotify.com/track/13N082Nr0OZMqjKXo3PXR7) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/44ykdYOrHhItqDovusBYwg) | 3:02 | 2023-07-12 |  |
+| [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-04-01 | 2023-07-28 |
 | [Get up and Try](https://open.spotify.com/track/6oGuW5SBGbQBDyb0cZ1fru) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:54 | 2022-04-01 | 2023-04-09 |
 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 | 2023-04-13 | 2023-07-13 |
 | [Goodbye Sun, Hello Moon](https://open.spotify.com/track/6btBus1HKjmT0JhXY0Qo3Y) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Goodbye Sun, Hello Moon](https://open.spotify.com/album/3aoYs8itExQbGs4y2vnizg) | 3:34 | 2023-01-20 | 2023-04-09 |

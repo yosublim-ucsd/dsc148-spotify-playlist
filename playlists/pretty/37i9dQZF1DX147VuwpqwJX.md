@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,855 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,890 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 | 110 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MCxlODk4NmFlYjhiZTE1OGVjYmQ5NTcyN2Y3NmNmMDRjNjNjOWE2Yzlm`
+Snapshot ID: `MCw4MWVmNzgxY2ZhNjk5YWIxODZkNTE5ZGY3ODY1NjM5OTc5MzVjYjYx`

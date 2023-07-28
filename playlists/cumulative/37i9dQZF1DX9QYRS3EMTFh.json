@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Sean Paul",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 160000,
       "name": "Reach My Heart",
       "url": "https://open.spotify.com/track/1Lcxs10UaWSyWsUNzExxNI"
@@ -5060,6 +5060,24 @@
       "duration_ms": 135600,
       "name": "Suffering Days",
       "url": "https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog"
+    },
+    {
+      "album": {
+        "name": "Summa Hot",
+        "url": "https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136736,
+      "name": "Summa Hot",
+      "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
     },
     {
       "album": {

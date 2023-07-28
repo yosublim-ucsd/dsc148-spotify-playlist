@@ -4,7 +4,7 @@
 
 > 150%
 
-245 songs - 10 hr 50 min
+246 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Normalize \- Sped Up](https://open.spotify.com/track/6OPMHp5KfL6U13nM02f1oa) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize \(Sped Up\)](https://open.spotify.com/album/1JV5hnHBXauEcbCIMYIyua) | 3:51 | 2023-07-17 |  |
 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 | 2023-01-13 | 2023-03-18 |
 | [numb \(feat\. blackbear\) \[nitecore\]](https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\) \[slow + reverb / nitecore\]](https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I) | 2:39 | 2022-11-04 | 2022-12-14 |
-| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 |  |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 | 2023-07-28 |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-07-21 |  |
 | [One Kiss \- Sped Up](https://open.spotify.com/track/7zjeayoF3ziY3Hu3xdKQKr) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \(Sped Up\)](https://open.spotify.com/album/0RJnMCSv4HmIE42Xieb8RR) | 2:43 | 2023-01-27 | 2023-04-14 |
 | [One Kiss \- Sped Up](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \- Sped Up](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 | 2023-01-27 | 2023-03-27 |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 460953,
+  "num_followers": 461054,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjM0MDY0Y2IyMWE4ZWY2ZWI5ZDYzOGMzNTg1ODYxMWVhMjA3NDk3",
+  "snapshot_id": "MCwwNDlhZGRiZDcxYjIxNDhhMzJhMDhjYWViYWE3OWE4ZjBmNzQwZGRk",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "I'm Hard To Love, But So Are You, Vol. 4",
-        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "I'm Hard To Love, But So Are You, Vol. 4",
+        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 260826,
       "name": "Before I Cave In",
       "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "DEATH (Ever Colder)",
-        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "DEATH (Ever Colder)",
-      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "New Age Filth",
         "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
       "artists": [
         {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1395,6 +1379,22 @@
       "duration_ms": 191000,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 213934,
       "name": "Red",
       "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "We\u2019ll Always Have Paris",
-      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "We\u2019ll Always Have Paris",
+      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
     },
     {
       "added_at": "2023-06-20 21:21:38",

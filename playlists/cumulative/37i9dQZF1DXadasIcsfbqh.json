@@ -3350,10 +3350,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 173386,
       "name": "shot in the dark",
       "url": "https://open.spotify.com/track/2tN8xQmQWDongN4JeVTYTt"
+    },
+    {
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "shot in the dark",
+      "url": "https://open.spotify.com/track/3UfPXWIrPs9rZkRAwxRtmN"
     },
     {
       "album": {

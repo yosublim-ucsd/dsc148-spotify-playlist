@@ -4,11 +4,12 @@
 
 > Fresh Punjabi Rap\. Cover:  Wazir Patar
 
-61 songs - 3 hr 2 min
+64 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 | 2023-03-18 |  |
+| [24K](https://open.spotify.com/track/6xY43nXOaQezJsdE88019U) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:14 | 2023-07-27 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 |  |
 | [94 Flow](https://open.spotify.com/track/7nfLjhLhQJHiauslrpXgnr) | [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [94 Flow](https://open.spotify.com/album/3wLyMJcP3IKdOJCm3C97n5) | 2:36 | 2023-03-18 |  |
 | [After Death](https://open.spotify.com/track/08K8yeCpIivZJyN6DcuKfr) | [King Dhillon](https://open.spotify.com/artist/5tJyWsClOFLf52T8BPgYNb), [Masand Music](https://open.spotify.com/artist/1uMUSHIymhjS3TLvI5fMo1) | [After Death](https://open.spotify.com/album/0RirvxfQFNY5HIgI3aNTp3) | 2:48 | 2023-03-18 | 2023-04-27 |
@@ -28,10 +29,11 @@
 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 | 2023-03-18 |  |
 | [Gabru](https://open.spotify.com/track/6s46FX8X6lwaDz82AYQc38) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Gabru](https://open.spotify.com/album/5WIYmQjxd3GOHBmKq2QWB1) | 2:20 | 2023-03-18 | 2023-04-27 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-05-26 |  |
+| [Gucci](https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:58 | 2023-07-27 |  |
 | [Hail](https://open.spotify.com/track/1UG1pIgd5f1NU0byyGfm6w) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Nothing to Prove](https://open.spotify.com/album/2F4jmLN6kAFzWzlabRMm0J) | 2:10 | 2023-03-18 | 2023-04-27 |
 | [HELLCAT](https://open.spotify.com/track/6UhcId8Fy6YByPYziOja5W) | [SOHAL](https://open.spotify.com/artist/4btWEiFCBW3yM80dXqq3p8), [Joban Dhillon](https://open.spotify.com/artist/7CDkAERLEgW9vI1g6RV764) | [HELLCAT](https://open.spotify.com/album/4VacXInq7MmyeZUmgzlDYd) | 3:25 | 2023-03-18 |  |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-18 | 2023-04-27 |
-| [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 |  |
+| [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 | 2023-03-18 |  |
 | [Jatt Di Pasand](https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Champion](https://open.spotify.com/album/2irCI007oISxePEdTPmxmS) | 2:30 | 2023-04-26 |  |
 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 | 2023-03-18 |  |
@@ -69,5 +71,6 @@
 | [Untouchable](https://open.spotify.com/track/4I9wK83Gy9uxiHGZ7gvOhI) | [Arsh Sandhu](https://open.spotify.com/artist/5hMRZnYzYhkXvdcEdJMfD2), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Untouchable](https://open.spotify.com/album/7DZlyrBQdJeuR3hEDBm1mb) | 2:21 | 2023-03-18 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 |  |
+| [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

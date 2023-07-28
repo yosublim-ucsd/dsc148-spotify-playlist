@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Bishop Briggs
 
-624 songs - 1 day 8 hr 31 min
+625 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-03-24 | 2022-04-20 |
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-03 | 2022-06-17 |
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-03-24 | 2022-05-05 |
-| [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-06-23 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2023-07-28 |
 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 | 2022-03-24 | 2022-04-17 |
 | [Home](https://open.spotify.com/track/08IlNH2lwTCUTROvlZdoPJ) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.1](https://open.spotify.com/album/1Uo3jSUXpBeApSIZU7T1M4) | 2:56 | 2022-03-24 | 2022-04-11 |
 | [Hometown Heroes](https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hometown Heroes](https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp) | 3:06 | 2022-03-24 | 2022-04-18 |

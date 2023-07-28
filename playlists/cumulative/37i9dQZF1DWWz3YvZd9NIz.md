@@ -4,10 +4,11 @@
 
 > The best remixes of popular tracks!
 
-137 songs - 6 hr 54 min
+138 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Hardstyle Remix](https://open.spotify.com/track/4Yh354viev0eUojgz2E5Oj) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [\(It Goes Like\) Nanana \[Hardstyle Remix\]](https://open.spotify.com/album/1QUuM0XVmHp0YEW1tVahPF) | 2:35 | 2023-07-27 |  |
 | [99 Luftballons](https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 2:06 | 2022-12-05 | 2023-04-24 |
 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 | 2022-12-05 | 2023-02-10 |
 | [AFTER DARK X SWEATER WEATHER](https://open.spotify.com/track/3BLAJ7W49633yDa28QlRr6) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [AFTER DARK X SWEATER WEATHER](https://open.spotify.com/album/44ADITvo59qPuz4yxA9b6M) | 3:13 | 2023-03-23 | 2023-04-12 |
@@ -103,7 +104,7 @@
 | [One Kiss \- Hardstyle Remix](https://open.spotify.com/track/0Z2adSk6KmnD22xsUuBKLP) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [One Kiss \(Hardstyle Remix\)](https://open.spotify.com/album/2wkkPYISfaTdPhOuZxeAfh) | 2:22 | 2023-04-27 | 2023-05-19 |
 | [Only Girl \- Hardstyle Remix](https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Only Girl \(Hardstyle Remix\)](https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9) | 2:07 | 2022-12-05 | 2023-04-12 |
 | [Outside \(Hardstyle Remix\)](https://open.spotify.com/track/5idLCQX198buvDTviDEPP2) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [ATHYN](https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1), [Elise Lieberth](https://open.spotify.com/artist/42hdUVfhzUs7dZWafzvJ7e) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt) | 2:49 | 2023-01-26 | 2023-02-03 |
-| [Outside \- Hardstyle Remix](https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7) | 2:37 | 2023-03-09 |  |
+| [Outside \- Hardstyle Remix](https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7) | 2:37 | 2023-03-09 | 2023-07-28 |
 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 | 2022-12-05 |  |
 | [PART OF ME HARDSTYLE](https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76) | [SICK LEGEND](https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl) | [PART OF ME HARDSTYLE](https://open.spotify.com/album/6KS8tHskcAf9btEHwGlFhg) | 2:11 | 2023-01-31 | 2023-04-12 |
 | [Pianoman \(Hardstyle Remix\)](https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [De Sfeermakers](https://open.spotify.com/artist/4ziSTKIdIX5tP8y0EZ4LLA) | [Pianoman \(Hardstyle Remix\)](https://open.spotify.com/album/7IAIcE7jVRC1enFK7f6Um4) | 3:18 | 2022-12-22 | 2023-02-10 |

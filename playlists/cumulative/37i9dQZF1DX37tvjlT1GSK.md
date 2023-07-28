@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Fantasma en portada.
 
-271 songs - 14 hr 30 min
+272 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Sobran Motivos](https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Sobran Motivos](https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ) | 3:55 | 2023-05-24 |  |
 | [Solo Por Preguntar](https://open.spotify.com/track/6qyU3iqMTvr4FpSO2i6Xu3) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Solo Por Preguntar](https://open.spotify.com/album/5ZditFs5OPmmeogH5e2Xi4) | 3:16 | 2023-02-17 | 2023-03-19 |
 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 3:05 | 2023-01-20 |  |
-| [Somos O No Somos](https://open.spotify.com/track/5NQbEl9mL00xD2uN5T0qsx) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Somos O No Somos](https://open.spotify.com/album/5qZ5iEC25heBt5NQpDHHQM) | 3:29 | 2023-06-30 |  |
+| [Somos O No Somos](https://open.spotify.com/track/5NQbEl9mL00xD2uN5T0qsx) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Somos O No Somos](https://open.spotify.com/album/5qZ5iEC25heBt5NQpDHHQM) | 3:29 | 2023-06-30 | 2023-07-28 |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-07-12 |  |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-03-29 | 2022-07-29 |
 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 | 2023-02-17 | 2023-03-18 |
@@ -245,6 +245,7 @@
 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 | 2021-12-27 |  |
 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 | 2022-12-02 | 2023-01-10 |
 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 | 2023-01-20 |  |
+| [Todo Es Diferente](https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Todo Es Diferente](https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a) | 3:34 | 2023-07-14 |  |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-05-24 |  |
 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 | 2022-03-18 | 2023-01-21 |
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-07-01 |  |

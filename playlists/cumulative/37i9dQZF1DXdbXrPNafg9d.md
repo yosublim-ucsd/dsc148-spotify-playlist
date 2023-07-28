@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Beabadoobee
 
-5,584 songs - 13 day 14 hr 53 min
+5,586 songs - 13 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,7 +934,8 @@
 | [Cleo at Abbey Road](https://open.spotify.com/track/3b2Cti7tr0bZGmOI8pZsuk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo at Abbey Road](https://open.spotify.com/album/3kZ3L3D6paw2abdWW88LGn) | 3:54 | 2021-12-17 | 2022-02-19 |
 | [Climber](https://open.spotify.com/track/2MP3ACOzrWXQiOLQKdezey) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Climber](https://open.spotify.com/album/3AoFeS4nX03eCyQ0zKIiZ1) | 3:49 | 2022-07-22 | 2022-09-10 |
 | [Clinging to the Ground](https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2), [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Clinging to the Ground](https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO) | 3:59 | 2023-01-27 | 2023-03-04 |
-| [Close One](https://open.spotify.com/track/1fjy0KUEjw9yMWHk4Gto8F) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/0vmGHMVens3mb4VoPiVcyn) | 3:55 | 2023-07-21 |  |
+| [Close One](https://open.spotify.com/track/1fjy0KUEjw9yMWHk4Gto8F) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/0vmGHMVens3mb4VoPiVcyn) | 3:55 | 2023-07-21 | 2023-07-28 |
+| [Close One](https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc) | 3:55 | 2023-07-21 |  |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-15 | 2021-03-14 |
 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-07 | 2022-11-26 |
 | [closethedoor](https://open.spotify.com/track/57y03wqJ92k9mUe0OqMYxg) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34), [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [all we are/all i need](https://open.spotify.com/album/0htiaJAJkB7oZnV3b1tBdX) | 2:11 | 2021-07-31 | 2021-09-04 |
@@ -3483,7 +3484,8 @@
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 | 2022-12-03 |
 | [Ode To Artifice](https://open.spotify.com/track/2BxOokKVzYicxc7AX9Vb21) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Ode To Artifice](https://open.spotify.com/album/0saWiqbGml5cKt496mOh8s) | 2:45 | 2019-06-07 | 2019-08-13 |
 | [Ode to Boy](https://open.spotify.com/track/26nzK385U3DfWSlRQHolAv) | [Decisive Pink](https://open.spotify.com/artist/2gimLFOH1mSmd8EAjmyQEC), [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx), [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Ode to Boy](https://open.spotify.com/album/7gbIDdkLSpqquO6dtUpFkf) | 5:24 | 2023-04-14 | 2023-05-20 |
-| [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 |  |
+| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-06-23 |  |
+| [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 | 2023-07-28 |
 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 | 2022-11-25 | 2023-01-21 |
 | [Of the sun](https://open.spotify.com/track/6SNGgnfgrzf8ng7mmqGLQX) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Of the sun](https://open.spotify.com/album/47c1TGFkVqnnhCFxNFqHb4) | 4:44 | 2022-02-18 | 2022-04-16 |
 | [Off My Mind](https://open.spotify.com/track/5MzLrwShNf3mh30iIXH3qx) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Off My Mind](https://open.spotify.com/album/0NMimMaPzKb4c1X7ENJQU4) | 3:38 | 2020-01-31 | 2020-03-20 |

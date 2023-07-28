@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: LULU
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,725 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,743 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Save Me](https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U) | [LULU](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Save Me](https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz) | 2:11 |
+| 1 | [Save Me](https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Save Me](https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz) | 2:11 |
 | 2 | [What Your Eyes Say](https://open.spotify.com/track/3XB9wcWvbhyCKPFSpCcgX3) | [Juke](https://open.spotify.com/artist/1EAOtSJNVKF5eHIGLodlpW) | [What Your Eyes Say](https://open.spotify.com/album/78fREDYt1IVMI8TNRPp8hw) | 3:03 |
 | 3 | [Limbo](https://open.spotify.com/track/2rbtO9LzSUsQxdGM3LF3uR) | [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW), [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2) | [Limbo](https://open.spotify.com/album/6OQrZQDqa1nlOqv7rVUwIE) | 2:59 |
 | 4 | [Starting To See](https://open.spotify.com/track/0BmQ14Ct1Iy8UyxsRR3jko) | [Hesitator](https://open.spotify.com/artist/3gPch0tFGEAv1bgYyu8gRw) | [Starting To See](https://open.spotify.com/album/4l0n1gg350EIW7Oddzep5P) | 4:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [BETTER OFF ON MY OWN](https://open.spotify.com/track/70Sv6q5iMvhoHQ9iW4g0VZ) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [BETTER OFF ON MY OWN](https://open.spotify.com/album/31vvkc6lIRTbSjKk6Wc8bk) | 2:15 |
 | 80 | [HEATIN' UP!](https://open.spotify.com/track/7B8BdMRoATOnDhJo5qN4v9) | [crtl](https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6) | [IT'S 2 EASY](https://open.spotify.com/album/31ViLMowpb1q4EQJo8cd21) | 2:35 |
 
-Snapshot ID: `MCw2Y2QwZmVmZTQ1MjNiMWMxMTY0M2U2OTAzZTNlN2I2NGEzOGI2YzJj`
+Snapshot ID: `MCxiY2FkYmY3MGRjZjBmMmMyYTdmNTczNzI1ZGE2NjQ3NzExMTUzNmMw`

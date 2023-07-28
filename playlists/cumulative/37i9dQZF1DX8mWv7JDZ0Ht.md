@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum
 
-367 songs - 18 hr 19 min
+368 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 | 2022-12-09 | 2023-03-12 |
 | [Mulher de fé](https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Mulher de fé](https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi) | 2:34 | 2023-04-28 |  |
 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 | 2023-05-12 |  |
-| [My Loco](https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [My Loco](https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI) | 2:30 | 2023-07-21 |  |
+| [My Loco](https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [My Loco](https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI) | 2:30 | 2023-07-21 | 2023-07-28 |
 | [Mãe](https://open.spotify.com/track/5HiYi4cCIRPVr6HjbSqfCJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Mãe](https://open.spotify.com/album/2LdDGy12ITEQYX7sBUlz0v) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 | 2022-09-09 | 2022-09-24 |
 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 | 2023-04-28 |  |
@@ -297,6 +297,7 @@
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 | 2023-03-25 |
 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 |  |
 | [Se Bastasse Amor](https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq) | [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU), [Ort1](https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1) | [Se Bastasse Amor](https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9) | 2:41 | 2023-02-25 | 2023-03-25 |
+| [Se eu não te amasse tanto assim](https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Se eu não te amasse tanto assim](https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH) | 2:17 | 2023-07-21 |  |
 | [SE EU TE PEDIR PRA FICAR?](https://open.spotify.com/track/1gw8hh1Pm2uVpqKnbunRcq) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [SE EU TE PEDIR PRA FICAR?](https://open.spotify.com/album/497SksWA65f4SLZCD0s5Te) | 3:45 | 2023-04-14 | 2023-05-13 |
 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 | 2023-02-03 | 2023-07-22 |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 | 2023-02-04 |

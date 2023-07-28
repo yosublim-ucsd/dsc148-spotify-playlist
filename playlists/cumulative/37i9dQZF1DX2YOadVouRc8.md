@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-231 songs - 11 hr 46 min
+232 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 | 2022-06-09 | 2023-05-12 |
 | [Elevate \- Remix](https://open.spotify.com/track/1z7GarqBjaBc47v3PC1MZD) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Elevate \(Remix\)](https://open.spotify.com/album/4Wj9d3QveiYJdbeAhIKnRz) | 2:37 | 2022-06-16 | 2022-10-01 |
 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 | 2023-06-22 |  |
-| [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 | 2022-06-09 |  |
+| [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 | 2022-06-09 | 2023-07-28 |
 | [emiliana](https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Pop Hits Now](https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf) | 2:44 | 2022-06-09 | 2022-11-13 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2022-06-09 |  |
@@ -215,6 +215,7 @@
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2022-06-09 |  |
 | [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 |  |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-02 | 2023-07-08 |
+| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-07-20 |  |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 |  |
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-16 | 2023-07-21 |
 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-11 | 2023-06-23 |

@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
@@ -2268,6 +2268,24 @@
       "duration_ms": 181893,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5Ys5APIJovfnUmGvTR9cLD"
+    },
+    {
+      "album": {
+        "name": "A Little Lost, A Little Found",
+        "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
     },
     {
       "album": {

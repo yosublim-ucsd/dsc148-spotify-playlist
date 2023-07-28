@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-255 songs - 12 hr 32 min
+255 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 | 2022-11-15 | 2023-06-17 |
 | [Wow \(feat\. Skepta & Naira Marley\)](https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:59 | 2022-11-15 |  |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-09-23 |  |
-| [Yaji](https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [Yaji](https://open.spotify.com/album/0abObVp5twgyfgUMju851a) | 3:03 | 2023-07-21 |  |
+| [Yaji](https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [Yaji](https://open.spotify.com/album/0abObVp5twgyfgUMju851a) | 4:02 | 2023-07-21 |  |
 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2023-06-23 |  |
 
 \*This playlist was first scraped on 2022-09-22. Prior content cannot be recovered.

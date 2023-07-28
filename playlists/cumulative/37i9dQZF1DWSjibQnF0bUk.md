@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-373 songs - 21 hr 38 min
+373 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Yaba Buluku](https://open.spotify.com/track/34xbLl3qkjQ6ZHrH4x4OCb) | [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Preck](https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY), [Nelson Tivane](https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S) | [Moz Piano Vol.2](https://open.spotify.com/album/6dDwI2EBzWbmEiAEOnj6zj) | 6:51 | 2021-03-25 | 2022-04-19 |
 | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \- Remix](https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i) | [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Preck](https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY), [Nelson Tivane](https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S) | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \[Remix\]](https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi) | 3:34 | 2021-09-10 | 2022-11-01 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 | 2023-03-30 |  |
-| [Yaji](https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [Yaji](https://open.spotify.com/album/0abObVp5twgyfgUMju851a) | 3:03 | 2023-07-20 |  |
+| [Yaji](https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [Yaji](https://open.spotify.com/album/0abObVp5twgyfgUMju851a) | 4:02 | 2023-07-20 |  |
 | [Ye](https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:51 | 2019-11-05 | 2022-07-29 |
 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 | 2022-06-09 | 2022-11-04 |
 | [Your Body \(feat\. Buju\)](https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Body \(feat\. Buju\)](https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK) | 2:10 | 2021-09-17 | 2022-11-13 |

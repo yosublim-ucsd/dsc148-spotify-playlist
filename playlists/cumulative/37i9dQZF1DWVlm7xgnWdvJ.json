@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Paradox Dream",
+        "url": "https://open.spotify.com/album/4jySsYIcMJLBXmHR4kQsit"
+      },
+      "artists": [
+        {
+          "name": "RAMM\u00d6",
+          "url": "https://open.spotify.com/artist/5iX8cuI7OtXXtOSNPb8Cfm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370839,
+      "name": "The Plant Paradox",
+      "url": "https://open.spotify.com/track/6ctMw60Nt3gHORqxfkRmWZ"
+    },
+    {
+      "album": {
         "name": "The Smooth Gardens",
         "url": "https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD"
       },

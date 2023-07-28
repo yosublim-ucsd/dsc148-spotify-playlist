@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,773 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,894 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 44 | [Chinese \(feat\. King Savagge\)](https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:21 |
 | 45 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 |
 | 46 | [NANANA](https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [NANANA](https://open.spotify.com/album/4kb9GNszUZkwCyvjdNn6go) | 3:53 |
-| 47 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 |
+| 47 | [Manifiesto](https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 2:27 |
 | 48 | [Freestyle Session](https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Freestyle Session](https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17) | 2:39 |
 | 49 | [No Days Off](https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [No Days Off](https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm) | 2:04 |
 | 50 | [LoveDrip](https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt) | [Mob 550](https://open.spotify.com/artist/6S3HYIuX1ncQQqcdHOUFqJ) | [LoveDrip](https://open.spotify.com/album/3S1aENeLvAtwusRPKZCdLf) | 2:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 97 | [CHAINZ](https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 2:16 |
 | 98 | [LA MANTECA \- REMIX](https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Massi Nada Mas](https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Cuban Bling](https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S) | [LA MANTECA \(REMIX\)](https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6) | 5:59 |
 | 99 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 |
-| 100 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 |
+| 100 | [Shorty](https://open.spotify.com/track/7M5nHfXQazRlUm1FIzQhgd) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Chesckv Liz](https://open.spotify.com/artist/6nms8fUOJpFa8C5IbPzzT5) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 3:40 |
 
-Snapshot ID: `MCxkMWFkOTE2ZDBmYTc4ZDA1Y2Q0NDBiYjQzNjBkOGEzYzdhMGUyYzMw`
+Snapshot ID: `MCxjOGYzMzg0YjdiMTBkM2U5YjkzYWJjYTQ0NTUzNWU2M2JjMTc4ZjBi`

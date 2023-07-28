@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,094 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,259 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 19 | [Mavane \(From "Pattas"\)](https://open.spotify.com/track/6ffEHNJBFnr68xNVoRwPf2) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Mavane \(From "Pattas"\)](https://open.spotify.com/album/1GYOC0lb0qiE8iyXyJHzrs) | 3:51 |
 | 20 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
 | 21 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
-| 22 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
+| 22 | [Varavaa Varavaa](https://open.spotify.com/track/4aiRReJDNa5KBn5InfzaPM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 3:22 |
 | 23 | [Summa Surrunu \(From "Etharkkum Thunindhavan"\)](https://open.spotify.com/track/0sjg2rWD3IcQK07HOBw5Dq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Summa Surrunu \(From "Etharkkum Thunindhavan"\)](https://open.spotify.com/album/5rgd1ayKoXYL2iI8w3U4yI) | 3:46 |
 | 24 | [Hey Mama](https://open.spotify.com/track/32E2AGkk15IU9JMZUGs7Ih) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Sethupathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25QVMppRE7ouRK0YAl9i0U) | 4:29 |
 | 25 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 49 | [Rangola](https://open.spotify.com/track/6wVOOB9VyG0udgj4xhYWhq) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Ghajini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gtR7jv2x4VpKEKWeqVqqh) | 4:26 |
 | 50 | [Singam Singam](https://open.spotify.com/track/11ZwdRgBn43d5H8iUn0NKj) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Megha](https://open.spotify.com/artist/4C93poAbsEf1Fvl3c30XKM) | [Singam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ohjDk7P8EaMERRY82Z9l5) | 4:21 |
 
-Snapshot ID: `MCwyN2IwNDRhY2Y5NGJlMGZiMmVjNDEwOTM5MDE4Yzk3YjhiMDIxMzA5`
+Snapshot ID: `MCw2NWNlZDAzYjg1YTkxOWM3NmI0MmNkNjk3MDkzYmNlOWQwOGNiNGYw`

@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=2X7kVrJMRAa4KbFirvfv6g"> أمير عيد </a>
+> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=\_W\-B2kvUTFeRbAOSHAPq4g"> احمد سعد </a> و <a href="https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814?si=Ql5U58LxTguGr2c5ooJOYg"> روبي </a>
 
 210 songs - 12 hr 14 min
 

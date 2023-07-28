@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-778 songs - 2 day 3 hr 17 min
+779 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2022-06-07 | 2023-04-22 |
 | [from the edge](https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 4:40 | 2023-04-21 |  |
 | [From The Seeds](https://open.spotify.com/track/7rv0QQvLHZH8wvJIZ1gO3G) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [From The Seeds](https://open.spotify.com/album/0PQ1rfMi5f98NdWILp3NOH) | 3:28 | 2022-06-07 | 2022-07-04 |
-| [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2023-01-07 |  |
+| [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2023-01-07 | 2023-07-28 |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-06-07 | 2022-10-04 |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-07 |  |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-08-11 | 2022-11-13 |
@@ -387,6 +387,7 @@
 | [Touch off](https://open.spotify.com/track/40qyjzGdWia4KfBR95ciwP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Touch off](https://open.spotify.com/album/4e4sHXvEuCk5fBF7D5Ia7s) | 4:20 | 2022-06-07 | 2022-07-29 |
 | [TRISTAR](https://open.spotify.com/track/02sailSwB7PN3NzPP84rdz) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [TRISTAR](https://open.spotify.com/album/1QrFdoG166qYDQz5feySdQ) | 3:52 | 2022-06-07 | 2022-07-19 |
 | [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 | 2023-01-07 | 2023-04-02 |
+| [twilight little star](https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [twilight little star](https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u) | 3:34 | 2023-07-07 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 | 2022-06-07 | 2022-07-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-06-07 | 2023-04-12 |
 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 | 2022-06-07 | 2022-10-04 |

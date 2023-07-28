@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Blocco",
+        "url": "https://open.spotify.com/album/57CACeG7E4wI3VnM3krbwY"
+      },
+      "artists": [
+        {
+          "name": "$aintandrea",
+          "url": "https://open.spotify.com/artist/1758DHEx8L79jwdOss3vNs"
+        },
+        {
+          "name": "SHIN",
+          "url": "https://open.spotify.com/artist/5gVfllO9mrhALdqC3mPN3n"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Blocco",
+      "url": "https://open.spotify.com/track/5lIPRFOQfMxzaebBamFhne"
+    },
+    {
+      "album": {
         "name": "Blu",
         "url": "https://open.spotify.com/album/6sfyLW0DaavlkQhRUPdmPp"
       },
@@ -2242,6 +2264,24 @@
       "duration_ms": 177866,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/7t6Vx0UfiaMfDougM4EtAk"
+    },
+    {
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Brava",
+      "url": "https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd"
     },
     {
       "album": {
@@ -2978,7 +3018,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 113454,
       "name": "CHE CAZZO STAI FACENDO?",
       "url": "https://open.spotify.com/track/4SM47IqsIvb4ZmbBHx2FIR"
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 160544,
       "name": "Hype",
       "url": "https://open.spotify.com/track/7zcmoCMq7ZlLL6GXnqfAJO"
@@ -6571,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "in un secondo",
+        "url": "https://open.spotify.com/album/3Inl0YP3dhkUv8B7F9nBT7"
+      },
+      "artists": [
+        {
+          "name": "2802",
+          "url": "https://open.spotify.com/artist/1wGqWC44yC1hYxWBnyY2Us"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160725,
+      "name": "in un secondo",
+      "url": "https://open.spotify.com/track/6YzFWwCEuFrohOrYHr7UI5"
+    },
+    {
+      "album": {
         "name": "incastri",
         "url": "https://open.spotify.com/album/5wDMpOYzjeEVQnux2jXqgo"
       },
@@ -6842,7 +6900,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168880,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/1VKEBaxiXIxdaqZ1pGvx8G"
@@ -7066,7 +7124,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 221284,
       "name": "L'ansia del casello",
       "url": "https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy"
@@ -8073,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/2q5hLTg82PQD4yYgM0hlOw"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/5hoHPh2iO6uIHVqhD4SJzr"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/2uW5uO0uOuly4Jn4T9Xv8v"
+    },
+    {
+      "album": {
         "name": "Male Vivere",
         "url": "https://open.spotify.com/album/2S0CSKXg24XvVHCjmfT58g"
       },
@@ -8568,7 +8644,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 166179,
       "name": "MILLE VOLTE",
       "url": "https://open.spotify.com/track/7DMtemxmHXVv4s8ZPbdSz7"
@@ -8882,6 +8958,24 @@
       "duration_ms": 202083,
       "name": "Mostri",
       "url": "https://open.spotify.com/track/7kLdAM0vmvZhsx9nZb6ePk"
+    },
+    {
+      "album": {
+        "name": "mostri lovers",
+        "url": "https://open.spotify.com/album/1UYOUC7DmoaOwTsbHzzObL"
+      },
+      "artists": [
+        {
+          "name": "Ga",
+          "url": "https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178177,
+      "name": "mostri lovers",
+      "url": "https://open.spotify.com/track/4Cfmb6VYYsGuigxl0sqAoJ"
     },
     {
       "album": {
@@ -9812,6 +9906,24 @@
       "duration_ms": 279010,
       "name": "NON MI MANCHER\u00c0",
       "url": "https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN"
+    },
+    {
+      "album": {
+        "name": "NON MI VOGLIO FERMARE",
+        "url": "https://open.spotify.com/album/1cCHKvpHoFGhkrHWxXeyhW"
+      },
+      "artists": [
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "NON MI VOGLIO FERMARE",
+      "url": "https://open.spotify.com/track/5ClKWhaAANRK1BFERsAZuK"
     },
     {
       "album": {
@@ -11792,7 +11904,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 195286,
       "name": "Pugni in Pancia",
       "url": "https://open.spotify.com/track/5msgHsIgcXodmjpbD615L4"
@@ -12781,6 +12893,24 @@
     },
     {
       "album": {
+        "name": "Santa Maria",
+        "url": "https://open.spotify.com/album/6T6j2F4LRMNPKYS4cop214"
+      },
+      "artists": [
+        {
+          "name": "Vittorio Poli",
+          "url": "https://open.spotify.com/artist/2dLfRIvwHEefLqMTWb7A0Q"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172710,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/154viKPI9dg50ZDjvFUu3M"
+    },
+    {
+      "album": {
         "name": "Saturate",
         "url": "https://open.spotify.com/album/3nfSOpQt2JeiL7eRfPSQLl"
       },
@@ -13194,7 +13324,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 163359,
       "name": "Seta calante",
       "url": "https://open.spotify.com/track/4EMFNsoX8uNFaj5TgYxY9T"
@@ -13356,7 +13486,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 137062,
       "name": "SISSI",
       "url": "https://open.spotify.com/track/64Rux1qrtoeSTrRxa0mzcI"
@@ -15298,6 +15428,24 @@
       "duration_ms": 182181,
       "name": "Un'ultima volta",
       "url": "https://open.spotify.com/track/6APltncZA6JmfSPzn7muYC"
+    },
+    {
+      "album": {
+        "name": "Una Litigata a Cas@",
+        "url": "https://open.spotify.com/album/49lcE2GrqBYyyyQck1IR3p"
+      },
+      "artists": [
+        {
+          "name": "Asiabel",
+          "url": "https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246565,
+      "name": "Una Litigata a Cas@",
+      "url": "https://open.spotify.com/track/34wkdFH9hHRK5t1q1aU1IC"
     },
     {
       "album": {

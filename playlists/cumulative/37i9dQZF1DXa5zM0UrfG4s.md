@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-308 songs - 14 hr 17 min
+309 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Den fineste Chevy'n](https://open.spotify.com/track/2562pO8HEcemUF2LfOMfti) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n](https://open.spotify.com/album/0ceGayBcQcl2rKM0WeNrzo) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 | 2022-06-30 |  |
 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 | 2022-03-31 |  |
-| [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 |  |
+| [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 | 2023-07-28 |
 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 | 2023-07-20 |  |
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 |  |
@@ -206,6 +206,7 @@
 | [Monster](https://open.spotify.com/track/3jky5ngzze3qNFigQCaP8L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:39 | 2021-12-16 | 2022-06-25 |
 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 | 2021-12-16 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-03-24 | 2022-04-12 |
+| [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 |  |
 | [NAV](https://open.spotify.com/track/5JNvUPe41iwViAzA2kc8tp) | [Gjengen](https://open.spotify.com/artist/6PmPCSFetykMhy1JSkPV34) | [NAV](https://open.spotify.com/album/0bo7i5Ssj02vXMKYn5Da94) | 2:51 | 2022-05-26 | 2022-06-01 |
 | [Neste Sommer](https://open.spotify.com/track/7Crq1N5Rf9M6dxlTQZyjI6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Neste Sommer](https://open.spotify.com/album/3rHifJvNraG9kv4ITZJKjU) | 2:05 | 2022-10-13 | 2022-10-16 |
 | [Norge rundt](https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J) | 3:24 | 2023-02-03 | 2023-05-21 |

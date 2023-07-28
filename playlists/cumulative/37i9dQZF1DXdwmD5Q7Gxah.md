@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. Lil Yachty's psych album >
+> the soundtrack for girls living by their notes app\. ft Searows
 
-2,310 songs - 5 day 4 hr 12 min
+2,314 songs - 5 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-21 | 2021-03-06 |
 | [dopamine \- Version Française](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-24 |  |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2022-05-28 |
-| [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-25 |  |
+| [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-25 | 2023-07-28 |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-06-24 |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-06-22 | 2022-07-16 |
 | [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-13 | 2023-03-30 |
@@ -700,6 +700,7 @@
 | [Feels Like The First Time](https://open.spotify.com/track/3ebtMrN6PQnfmmbecwxCqB) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Sea](https://open.spotify.com/album/6RWaO30cfIopmf7CqNfCVH) | 3:13 | 2020-10-10 | 2020-11-27 |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2020-12-29 | 2021-03-14 |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2019-08-10 | 2019-10-03 |
+| [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 | 2023-07-27 |  |
 | [Fever](https://open.spotify.com/track/4PjKEXp7y8XM6ELUpdpJCm) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:27 | 2019-07-30\* | 2020-06-02 |
 | [fever dream](https://open.spotify.com/track/5xgLPaEWNbJB4uVc7LIgbe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [fever dream](https://open.spotify.com/album/5HUIImeMMEEY0P3Opb34d4) | 3:16 | 2020-01-23 | 2020-07-24 |
 | [Field Day](https://open.spotify.com/track/1fWJzUz6vBcNeSw9eiEAXj) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Field Day](https://open.spotify.com/album/4lQIZfkUNenQ9GZtu3pqJR) | 3:20 | 2022-04-01 | 2022-04-21 |
@@ -1794,6 +1795,7 @@
 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-11 | 2022-11-13 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 | 2022-11-02 |
 | [Slugger](https://open.spotify.com/track/2holnzElUAKzjfQyZ0l9of) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Slugger](https://open.spotify.com/album/5AncBhmQ5R7ZHFachIWRhr) | 2:12 | 2023-02-10 | 2023-03-16 |
+| [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-07-27 |  |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2023-01-13 | 2023-03-07 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |
@@ -1810,6 +1812,7 @@
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-07-12 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-01-14 | 2022-05-24 |
 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-08-08 | 2022-09-24 |
+| [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 | 2023-07-27 |  |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 | 2020-05-14 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-12 | 2021-08-14 |
 | [Sofia](https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sofia](https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K) | 3:08 | 2019-07-30\* | 2019-11-14 |
@@ -2086,6 +2089,7 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2021-05-19 |
 | [Time](https://open.spotify.com/track/2yNca0rxzR3LpCQ2wHzlXf) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Time](https://open.spotify.com/album/4sdFl7WonLdXOfYqHHAm5a) | 4:06 | 2020-07-18 | 2020-08-20 |
 | [time](https://open.spotify.com/track/4zIoqflGz7kshJcD17qJ65) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx) | [time](https://open.spotify.com/album/1ipkjD3IB6vs7Tcrvqgntp) | 1:39 | 2021-11-20 | 2022-01-08 |
+| [Time 2 Go](https://open.spotify.com/track/0TSkx3j5ldvrSaCZpdOV6u) | [Matilda Marigolds](https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr) | [Time 2 Go](https://open.spotify.com/album/0sMwFngMw2iaRGyFZ4A5Ns) | 1:19 | 2023-07-27 |  |
 | [Time I Love to Waste](https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love to Waste](https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU) | 3:17 | 2021-02-19 | 2021-08-14 |
 | [time to let go](https://open.spotify.com/track/3ByxG28Dv0cMg7IySD1Ilf) | [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [time to let go](https://open.spotify.com/album/3lgRHnxkkrXBRUNipus9Ph) | 3:28 | 2020-06-29 | 2020-09-15 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2020-09-30 | 2021-01-12 |
@@ -2291,7 +2295,7 @@
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2019-07-30\* | 2019-10-03 |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-02-19 | 2021-06-05 |
 | [YOU WERENT ENOUGH](https://open.spotify.com/track/7yTJoV0A2NcwZLGPs8vl6p) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 4:11 | 2020-01-17 | 2021-03-06 |
-| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-24 |  |
+| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-24 | 2023-07-28 |
 | [You'll Get Over It](https://open.spotify.com/track/2IJcVpJzKPcmZqiJHfY335) | [JEZ\_EBEL](https://open.spotify.com/artist/3Q0KQUUtEilthOSjknwTEW) | [You'll Get Over It](https://open.spotify.com/album/4DswdYM0hkubkvjhhf7DBX) | 3:08 | 2020-11-13 | 2021-01-12 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-14 | 2023-01-06 |
 | [You're Kinda Perfect](https://open.spotify.com/track/2PZN10j9ewZcVbcNRfv8kj) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [You're Kinda Perfect](https://open.spotify.com/album/5sgyqnXx3snbOq1fqwjRtm) | 2:26 | 2020-10-16 | 2021-01-12 |

@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 118038,
       "name": "Adamantcore",
       "url": "https://open.spotify.com/track/13MZoSzpGMXXQEJvL4zWFP"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 174335,
       "name": "Como los Mayas",
       "url": "https://open.spotify.com/track/7BrUPHFW0AY1kD9isV1afQ"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193000,
       "name": "Icy",
       "url": "https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 139200,
       "name": "LV",
       "url": "https://open.spotify.com/track/0zv6SVZ7lrFfNc9zYsHpu7"
@@ -2555,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "Perro Faldero",
+        "url": "https://open.spotify.com/album/60CkzNS8N3iDoKXb3hgSbv"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        },
+        {
+          "name": "Asixx",
+          "url": "https://open.spotify.com/artist/1zyqikxrWckVAsENVFREeo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128043,
+      "name": "Perro Faldero",
+      "url": "https://open.spotify.com/track/0HLUgZSNwDV6trvNiqy8wp"
+    },
+    {
+      "album": {
         "name": "Piratas",
         "url": "https://open.spotify.com/album/3EGEuE9st0o3MgTh84ItHV"
       },
@@ -2829,6 +2851,32 @@
     },
     {
       "album": {
+        "name": "Rollin n' Rollin",
+        "url": "https://open.spotify.com/album/7eHJT1BQfE45xwP6ue4fk7"
+      },
+      "artists": [
+        {
+          "name": "k onda",
+          "url": "https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE"
+        },
+        {
+          "name": "Alx Drip",
+          "url": "https://open.spotify.com/artist/7DxHynDvaalsAGsHlqNhd6"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Rollin n' Rollin",
+      "url": "https://open.spotify.com/track/3GYXO0ZL5qqBEVpBP3xsR6"
+    },
+    {
+      "album": {
         "name": "Rubem",
         "url": "https://open.spotify.com/album/14KlbzI8ZRdV59eCiJmp3M"
       },
@@ -2862,6 +2910,28 @@
       "duration_ms": 146285,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/1LhQ9rwpOhoMBxbofBOFQr"
+    },
+    {
+      "album": {
+        "name": "Sad Bitch / RTT (Nos Vienen Siguiendo)",
+        "url": "https://open.spotify.com/album/7uP2x4UJVux0SKladRpNBM"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116049,
+      "name": "Sad Bitch",
+      "url": "https://open.spotify.com/track/74PVTnIc0iDWBUF7yZAbio"
     },
     {
       "album": {
@@ -3320,6 +3390,32 @@
       "duration_ms": 74684,
       "name": "why?",
       "url": "https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ"
+    },
+    {
+      "album": {
+        "name": "YANOSE+",
+        "url": "https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo"
+      },
+      "artists": [
+        {
+          "name": "jorjais zerotres",
+          "url": "https://open.spotify.com/artist/5umEL3FJi93772szQJQ5en"
+        },
+        {
+          "name": "N o m o o d",
+          "url": "https://open.spotify.com/artist/7eapcdTGTUub9A0mrrDK6h"
+        },
+        {
+          "name": "Max Vallejo",
+          "url": "https://open.spotify.com/artist/24DfufMsr8s4oOjr6W94is"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "YANOSE+",
+      "url": "https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx"
     },
     {
       "album": {

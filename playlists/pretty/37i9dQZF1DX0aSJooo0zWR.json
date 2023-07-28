@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 186044,
+  "num_followers": 186105,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
+  "snapshot_id": "MCw3MDcyM2VkNWUyMDdiZDMwNDZhN2E0NTk2MzVjMWNiOTRkNDI3MzBi",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 227150,
-      "name": "Thirty One",
-      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -351,6 +335,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Projekt 13",
@@ -427,18 +443,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+        "name": "Hard-Wired",
+        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
         }
       ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+      "duration_ms": 243000,
+      "name": "Hard-Wired",
+      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -465,20 +481,20 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Hard-Wired",
-        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
       },
       "artists": [
         {
-          "name": "Dave Weckl",
-          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Hard-Wired",
-      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
+      "duration_ms": 281946,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -527,22 +543,6 @@
       "duration_ms": 360053,
       "name": "Teki",
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "From The Top",
-        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "From The Top",
-      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Galaxias",
@@ -691,22 +707,6 @@
       "duration_ms": 236905,
       "name": "Galaxias (Radio Edit)",
       "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -757,30 +757,6 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
-      "added_at": "2021-10-29 04:02:00",
-      "album": {
-        "name": "Blue Macaw",
-        "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
-      },
-      "artists": [
-        {
-          "name": "Slowya.roll",
-          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Hadrien Feraud",
-          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Blue Macaw",
-      "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
-    },
-    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "One More !!?!??",
@@ -803,6 +779,30 @@
       "duration_ms": 248174,
       "name": "One More !!?!??",
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+    },
+    {
+      "added_at": "2021-10-29 04:02:00",
+      "album": {
+        "name": "Blue Macaw",
+        "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
+      },
+      "artists": [
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Blue Macaw",
+      "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Jackets XL",
         "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 503213,
       "name": "Even Song",
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Visions of the Emerald Beyond",
-        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
-      },
-      "artists": [
-        {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "The Bass-ic Collection",
         "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 469333,
       "name": "School Days",
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Visions of the Emerald Beyond",
+        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+      },
+      "artists": [
+        {
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Gimme 5",
+        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Santiago",
+          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Gimme 5",
+      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
+    },
+    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "VHS Fireplace Love (Live)",
@@ -1207,22 +1223,6 @@
       "duration_ms": 164000,
       "name": "VHS Fireplace Love - Live",
       "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Gimme 5",
-        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Santiago",
-          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Gimme 5",
-      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Big Fun (2022 Remaster)",
         "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1465,20 +1465,40 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Free Colors",
-        "url": "https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa"
+        "name": "Sokoband",
+        "url": "https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb"
       },
       "artists": [
         {
-          "name": "Tomohiro Maeda",
-          "url": "https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N"
+          "name": "Sokoband",
+          "url": "https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL"
+        },
+        {
+          "name": "Michael Sokolowski",
+          "url": "https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB"
+        },
+        {
+          "name": "Houston Ross",
+          "url": "https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd"
+        },
+        {
+          "name": "Nir Z",
+          "url": "https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ"
+        },
+        {
+          "name": "Steve Kimock",
+          "url": "https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j"
+        },
+        {
+          "name": "Tim Reynolds",
+          "url": "https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R"
         }
       ],
-      "duration_ms": 251216,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ"
+      "duration_ms": 466053,
+      "name": "Jiriki",
+      "url": "https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ"
     }
   ],
   "unique_name": "Fusion Fest",

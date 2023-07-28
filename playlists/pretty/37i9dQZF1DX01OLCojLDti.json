@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Superstar!!\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!",
-  "num_followers": 6762,
+  "num_followers": 6764,
   "original_name": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!  -Love Live! Superstar!!-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDdlMzAzYTc3NDEyZWQ5ODVlZmI0ZTJmMDIwZjM2YWIwYTEzOGJj",
+  "snapshot_id": "MCw3ZGIzZDBjYjc4ZDQ3NDk1MDkzNTkxM2RkOGM2MzYyNTM5MzY0OWYy",
   "tracks": [
     {
       "added_at": "2023-03-14 15:01:00",
@@ -127,8 +127,8 @@
     {
       "added_at": "2023-03-14 15:01:00",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+        "name": "What a Wonderful Dream!!",
+        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
         }
       ],
-      "duration_ms": 234078,
-      "name": "\u661f\u5c51\u30af\u30eb\u30fc\u30b8\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ"
+      "duration_ms": 270579,
+      "name": "\u6c34\u8272\u306eSunday",
+      "url": "https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg"
     },
     {
       "added_at": "2023-03-14 15:01:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2023-03-14 15:01:00",
       "album": {
-        "name": "What a Wonderful Dream!!",
-        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
         }
       ],
-      "duration_ms": 270579,
-      "name": "\u6c34\u8272\u306eSunday",
-      "url": "https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg"
+      "duration_ms": 234078,
+      "name": "\u661f\u5c51\u30af\u30eb\u30fc\u30b8\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ"
     },
     {
       "added_at": "2023-03-14 15:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-14 15:01:00",
       "album": {
-        "name": "Sing!Shine!Smile! / \u672a\u6765\u306e\u97f3\u304c\u8074\u3053\u3048\u308b (\u7b2c10\u8a71\u76e4)",
-        "url": "https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ"
-      },
-      "artists": [
-        {
-          "name": "Liella!",
-          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Sing!Shine!Smile!",
-      "url": "https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn"
-    },
-    {
-      "added_at": "2023-03-14 15:01:00",
-      "album": {
         "name": "\u30d3\u30bf\u30df\u30f3SUMMER! / Chance Day, Chance Way! (\u7b2c8\u8a71\u76e4)",
         "url": "https://open.spotify.com/album/0e1DwNzI9KkH6HRPEamOzG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180009,
       "name": "POP TALKING",
       "url": "https://open.spotify.com/track/42pGNqslWbOLHCsFFpiCwK"
+    },
+    {
+      "added_at": "2023-03-14 15:01:00",
+      "album": {
+        "name": "Sing!Shine!Smile! / \u672a\u6765\u306e\u97f3\u304c\u8074\u3053\u3048\u308b (\u7b2c10\u8a71\u76e4)",
+        "url": "https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Sing!Shine!Smile!",
+      "url": "https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn"
     },
     {
       "added_at": "2023-03-14 15:01:00",
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
         }
       ],
-      "duration_ms": 190950,
-      "name": "TO BE CONTINUED",
-      "url": "https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3"
+      "duration_ms": 281465,
+      "name": "\u672a\u6765\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
+      "url": "https://open.spotify.com/track/6ettFES2c7iA0YbPoQ5eYI"
     },
     {
       "added_at": "2023-03-14 15:01:00",
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
         }
       ],
-      "duration_ms": 281465,
-      "name": "\u672a\u6765\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
-      "url": "https://open.spotify.com/track/6ettFES2c7iA0YbPoQ5eYI"
+      "duration_ms": 190950,
+      "name": "TO BE CONTINUED",
+      "url": "https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3"
     },
     {
       "added_at": "2023-03-14 15:01:00",

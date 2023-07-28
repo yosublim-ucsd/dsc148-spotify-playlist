@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring El Krack Mx. Updates every Wednesday.",
-  "num_followers": 171484,
+  "num_followers": 171519,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGYyNzU0MmM3MzQ0YjhiOGI4YzI0NDZmZjdkMWJlZTNmMzYwMTdh",
+  "snapshot_id": "MCxmMjdjYmJiNTBjMTc4OWEyZmUyMmM1YTc4OWIzMGIyYjI5YzNlYmQ5",
   "tracks": [
     {
       "added_at": "2023-07-26 06:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "UNTITLED",
-        "url": "https://open.spotify.com/album/7sJsu08e5AJKzaXZhQDmhd"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2H1XMncMGkoF3IRwh3i9OE"
       },
       "artists": [
         {
-          "name": "Crissleger",
-          "url": "https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH"
-        },
-        {
-          "name": "Izzy Mxntana",
-          "url": "https://open.spotify.com/artist/7GAIcjNsFaCmVoeGal3Gjz"
+          "name": "RoseAngel",
+          "url": "https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY"
         }
       ],
-      "duration_ms": 135461,
-      "name": "UNTITLED",
-      "url": "https://open.spotify.com/track/3Ya4XhiqbDfZ7rIIQuGCUH"
+      "duration_ms": 213194,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/32T7ksMVIF7pgYLgu5dpPr"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2H1XMncMGkoF3IRwh3i9OE"
+        "name": "UNTITLED",
+        "url": "https://open.spotify.com/album/7sJsu08e5AJKzaXZhQDmhd"
       },
       "artists": [
         {
-          "name": "RoseAngel",
-          "url": "https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY"
+          "name": "Crissleger",
+          "url": "https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH"
+        },
+        {
+          "name": "Izzy Mxntana",
+          "url": "https://open.spotify.com/artist/7GAIcjNsFaCmVoeGal3Gjz"
         }
       ],
-      "duration_ms": 213194,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/32T7ksMVIF7pgYLgu5dpPr"
+      "duration_ms": 135461,
+      "name": "UNTITLED",
+      "url": "https://open.spotify.com/track/3Ya4XhiqbDfZ7rIIQuGCUH"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -575,58 +575,6 @@
       "duration_ms": 216000,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Si Te Quedas",
-        "url": "https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 129610,
-      "name": "Si Te Quedas",
-      "url": "https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Te quedas?",
-        "url": "https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d"
-      },
-      "artists": [
-        {
-          "name": "Crazh",
-          "url": "https://open.spotify.com/artist/0Q0yC3XZZfy1LklYS2bFVA"
-        },
-        {
-          "name": "Pablo Rosas",
-          "url": "https://open.spotify.com/artist/6OiSSyW5Z1Izedz1JmotWw"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Te quedas?",
-      "url": "https://open.spotify.com/track/6qxxprT7F81xDBzLl656co"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Tragos",
-        "url": "https://open.spotify.com/album/0feBdbt4JgUrY5P4D2xxFx"
-      },
-      "artists": [
-        {
-          "name": "Nesty D",
-          "url": "https://open.spotify.com/artist/4gu2v0saKToZy4NElInn8X"
-        }
-      ],
-      "duration_ms": 200799,
-      "name": "Tragos",
-      "url": "https://open.spotify.com/track/28Kg5mB38fipYwzhyUnNeH"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -659,6 +607,42 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Te quedas?",
+        "url": "https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d"
+      },
+      "artists": [
+        {
+          "name": "Crazh",
+          "url": "https://open.spotify.com/artist/0Q0yC3XZZfy1LklYS2bFVA"
+        },
+        {
+          "name": "Pablo Rosas",
+          "url": "https://open.spotify.com/artist/6OiSSyW5Z1Izedz1JmotWw"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Te quedas?",
+      "url": "https://open.spotify.com/track/6qxxprT7F81xDBzLl656co"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Si Te Quedas",
+        "url": "https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 129610,
+      "name": "Si Te Quedas",
+      "url": "https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 196000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Tragos",
+        "url": "https://open.spotify.com/album/0feBdbt4JgUrY5P4D2xxFx"
+      },
+      "artists": [
+        {
+          "name": "Nesty D",
+          "url": "https://open.spotify.com/artist/4gu2v0saKToZy4NElInn8X"
+        }
+      ],
+      "duration_ms": 200799,
+      "name": "Tragos",
+      "url": "https://open.spotify.com/track/28Kg5mB38fipYwzhyUnNeH"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Relinda",
+        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
+      },
+      "artists": [
+        {
+          "name": "Jose Villasenor",
+          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "Relinda",
+      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 291147,
       "name": "Futura",
       "url": "https://open.spotify.com/track/4M9mmhJRZzTldBK00ZmLVF"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Relinda",
-        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
-      },
-      "artists": [
-        {
-          "name": "Jose Villasenor",
-          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "Relinda",
-      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
     },
     {
       "added_at": "2023-07-26 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10294,
+  "num_followers": 10323,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzM0ODM0NGVhYmM3MWJhYjQwZjY1ZGJhOTMzZGM5YWViOTBiYTMy",
+  "snapshot_id": "MCw2MGM2MWRjYTBmMjYzOTQ5OWYxZWU2MmFiMWViZWI2YjJkYzc4ZmI5",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 203258,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 203258,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/5KqMuaBPiu5K0pfwGipF8i"
-      },
-      "artists": [
-        {
-          "name": "EUN JIWON",
-          "url": "https://open.spotify.com/artist/6dTCGU3ZXmHV6roc3mP7Q5"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/548ngRumgMJTkAPDy7dBPY"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/5KqMuaBPiu5K0pfwGipF8i"
+      },
+      "artists": [
+        {
+          "name": "EUN JIWON",
+          "url": "https://open.spotify.com/artist/6dTCGU3ZXmHV6roc3mP7Q5"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/548ngRumgMJTkAPDy7dBPY"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Pretty Girl (2nd Mini Album)",
         "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Master`s sun OST",
-        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244126,
-      "name": "Touch love",
-      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "My Name - The 4th Album",
         "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193026,
       "name": "My Name",
       "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Master`s sun OST",
+        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244126,
+      "name": "Touch love",
+      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "\ub098\uc05c \ub0a8\uc790 Bad Man",
-      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "\ub098\uc05c \ub0a8\uc790 Bad Man",
+      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -1139,34 +1155,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
+      "duration_ms": 247852,
+      "name": "A Letter to you Part.2",
+      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1187,18 +1187,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
         }
       ],
-      "duration_ms": 247852,
-      "name": "A Letter to you Part.2",
-      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1247,22 +1263,6 @@
       "duration_ms": 194324,
       "name": "Shady Girl",
       "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1347,22 +1363,6 @@
       "duration_ms": 329026,
       "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
       "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "\ucc28\ub9c8...",
-      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Tell Me One More Time",
         "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195508,
       "name": "Tell Me One More Time",
       "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "\ucc28\ub9c8...",
+      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
     },
     {
       "added_at": "2021-03-11 16:26:11",

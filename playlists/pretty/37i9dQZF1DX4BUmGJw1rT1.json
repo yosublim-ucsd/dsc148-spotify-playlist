@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 60547,
+  "num_followers": 60639,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTc0ODllNjk0ODhjYjczMTE0YWI5MWRmYTNjNGE0ZjdiNDZmYjUw",
+  "snapshot_id": "MCxlNWFhZjc4YWU4NDJhYjMyZGMyOWU0ZTk3Njg4ZWM1OTU2ZWE3YzNj",
   "tracks": [
     {
       "added_at": "2023-07-21 15:56:52",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Carolina Confessions",
-        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
-      },
-      "artists": [
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 384373,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Carolina Confessions",
+        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
+      },
+      "artists": [
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 384373,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
-      },
-      "artists": [
-        {
-          "name": "solace",
-          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -727,6 +711,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 252607,
       "name": "Remember The Time",
       "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Love, Death & In Between",
-        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Will o' the Wisp",
-      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "He Was a Friend of Mine",
         "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
       },
@@ -1063,18 +1047,34 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
         }
       ],
-      "duration_ms": 270600,
-      "name": "River",
-      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "River",
+        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 270600,
+      "name": "River",
+      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
-      },
-      "artists": [
-        {
-          "name": "Soulmate",
-          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
-        }
-      ],
-      "duration_ms": 295346,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 144400,
       "name": "Mystery Train - Remastered 2022",
       "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+      },
+      "artists": [
+        {
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+        }
+      ],
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Rise to the Grind",
         "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 290453,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Jigsaw Heart",
-        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Better This Way",
-      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 180680,
       "name": "And That's Saying a Lot",
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Jigsaw Heart",
+        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 250946,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Dinah Washington Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "I Shouldn\u2019t Care (Bonus Track)",
         "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 219733,
       "name": "I Shouldn't Care - Bonus Track",
       "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Dinah Washington Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1675,6 +1659,42 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        },
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
         "name": "Bringing It Back Home",
         "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
-      },
-      "artists": [
-        {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
-        },
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
     }
   ],
   "unique_name": "Home at Last",

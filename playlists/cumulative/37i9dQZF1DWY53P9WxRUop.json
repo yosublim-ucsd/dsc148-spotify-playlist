@@ -1222,10 +1222,28 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 149374,
       "name": "So Let's Climb Trees",
       "url": "https://open.spotify.com/track/2f9ETLVvX9VvZiNST2YAk4"
+    },
+    {
+      "album": {
+        "name": "Little Beets",
+        "url": "https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET"
+      },
+      "artists": [
+        {
+          "name": "Levity Beet",
+          "url": "https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "So Let's Climb Trees",
+      "url": "https://open.spotify.com/track/6FFhwHfYrtWzpbv9nSDEX4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-378 songs - 21 hr 59 min
+379 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 | 2020-10-06\* |  |
 | [Fireproof](https://open.spotify.com/track/7lx4PtPvS63cuNuLvCBxD5) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof](https://open.spotify.com/album/6C1aESANMZqbYgNKLCdvOV) | 3:11 | 2020-10-20 | 2022-07-29 |
 | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/track/4q1WaJZoHTtojqDHX8QvaC) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/album/1vsaHaeuDcnd9YufInpKfp) | 3:11 | 2022-09-09 | 2022-11-13 |
-| [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 | 2020-10-06\* |  |
+| [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 | 2020-10-06\* | 2023-07-28 |
 | [Follow You](https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Follow You](https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu) | 3:17 | 2020-10-06\* | 2022-07-29 |
 | [For a While](https://open.spotify.com/track/1unohXBFohogHnkq3AdlsS) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/5zNHRKWMMBW7NIx7v23swV) | 3:54 | 2021-05-23 | 2021-05-28 |
 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 | 2022-05-09 |  |
@@ -307,6 +307,7 @@
 | [The One Who Truly Loves Me](https://open.spotify.com/track/4QhGhhrzlNlPzXfV7m7y38) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Hold On](https://open.spotify.com/album/4WrgaC1mtYsBeJEvUPBf2Q) | 3:51 | 2021-01-28 | 2022-07-29 |
 | [The Vow](https://open.spotify.com/track/0MvbmHZo3gOFaFhXHWOd96) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Vow](https://open.spotify.com/album/1KKM9Wo81svYPgiVcQnXci) | 2:55 | 2021-05-23 | 2021-05-24 |
 | [The Vow](https://open.spotify.com/track/1GdsahYYRk5UsyJEuazwcB) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 2:55 | 2022-05-09 | 2023-03-09 |
+| [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 | 2023-07-26 |  |
 | [There's No Way](https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2) | 2:54 | 2022-09-09 | 2022-12-04 |
 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/0WTN7om3lHG3yYMigwzBxl) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:54 | 2022-05-09 | 2022-11-02 |
 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/2hnxrRNzF74mdDzpQZQukQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/album/3xJzdYiYlc7CMtRXBpd9Qg) | 2:54 | 2020-10-06\* | 2022-07-11 |

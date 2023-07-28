@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 39042,
+  "num_followers": 39083,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDMyZTM0ZjRkOGZlMzY1OWRhYzE4MzYwYWM1M2MwNjgxODI4YzAx",
+  "snapshot_id": "MCw0NjhjNDk0MTI3OTgyY2QyOWFlZWE5OGFjMTE1MDAzMDI1NTIzZWUx",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 180080,
       "name": "El Guachito",
       "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Ca\u00f1a Doble para Mi Padre",
+      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "30 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 177893,
       "name": "Mi Caballo Bayo",
       "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Ca\u00f1a Doble para Mi Padre",
-      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Reyes de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
-      },
-      "artists": [
-        {
-          "name": "Los Sena",
-          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
-        }
-      ],
-      "duration_ms": 130785,
-      "name": "Adi\u00f3s Ciudad de Mercedes",
-      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Devu\u00e9lveme el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 180499,
       "name": "Devu\u00e9lveme el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "duration_ms": 130785,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "La Juventud Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
       },
       "artists": [
         {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
         }
       ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -679,6 +663,22 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Dos Orillas",
-        "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
-      },
-      "artists": [
-        {
-          "name": "Raul Barboza",
-          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
         "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 173480,
       "name": "Entre Amigos Y Chamam\u00e9",
       "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Dos Orillas",
+        "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
+      },
+      "artists": [
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
       "artists": [
         {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
         }
       ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+      "duration_ms": 189600,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
-      },
-      "artists": [
-        {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
         "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
       },
@@ -1239,6 +1203,22 @@
       "duration_ms": 260410,
       "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
       "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Mi Anhelo",
-      "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
         "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Mi Anhelo",
+      "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

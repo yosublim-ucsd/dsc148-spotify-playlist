@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=u7aTapgbSWKe7dX26LKrMQ\">King Promise</a>  ",
+  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=m1vEI6WeQuif8BeAAM5APA\">KiDi</a>  ",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -3610,6 +3632,24 @@
       "duration_ms": 124444,
       "name": "Vero",
       "url": "https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3"
+    },
+    {
+      "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/25OljjPyLcE3VQ7LWZ4RMY"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197996,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/6XVdYBT39Q4OBHgrRIOi6g"
     },
     {
       "album": {

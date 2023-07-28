@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Sissy Imann\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: ROYAL ESTATE\. Artwork: Isu Kim.
 
-488 songs - 1 day 2 hr 45 min
+492 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Headlights](https://open.spotify.com/track/16jRqbonEpZ9lU0xhQCEdO) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [Headlights](https://open.spotify.com/album/6qprebsrPKbfyR2nMZTJev) | 3:22 | 2022-09-09 | 2023-03-18 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 | 2023-01-13 |
 | [heartache frenzy](https://open.spotify.com/track/44p8wciyijJeF0XilqySox) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/2fwoaNiBXqMnVRafSrause) | 3:40 | 2023-06-15 |  |
+| [Heaven](https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Heaven](https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj) | 2:34 | 2023-07-27 |  |
 | [Heaven](https://open.spotify.com/track/0CwV6fbzPFW766DcXzYzDy) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H) | [Heaven](https://open.spotify.com/album/3Mhovhy9Mgnp53zjwv83sb) | 3:04 | 2023-02-09 | 2023-06-16 |
 | [Heaven Or Honolulu](https://open.spotify.com/track/5QcuSJWlK8VkXnlGkFSoTF) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Heaven Or Honolulu](https://open.spotify.com/album/3kktxLKeB8ims1EqUAhyVH) | 2:44 | 2023-01-12 | 2023-06-23 |
 | [Heavyduty Incandescent Streetlights](https://open.spotify.com/track/0dlYKbOhasw2KKkUYr6KQe) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [Heavyduty Incandescent Streetlights](https://open.spotify.com/album/6Bfo1rn40gu0pb2rrXJlUy) | 4:05 | 2023-02-09 |  |
@@ -262,6 +263,7 @@
 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 | 2022-01-13 | 2022-03-11 |
 | [Magic Clock](https://open.spotify.com/track/4j3BFgBTdOfHva63gOH7sq) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Magic Clock](https://open.spotify.com/album/1JLnOHvSCj6hZdtD0J8SKW) | 3:56 | 2021-12-01 | 2022-01-14 |
 | [Make It Thru](https://open.spotify.com/track/0Sah6Rd6Cw6hsePkGYWW7u) | [P\_NEDA](https://open.spotify.com/artist/45NB3nfn6wOMwJApY4xUOy), [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [Make It Thru](https://open.spotify.com/album/2k5fOiPiAR20czb8Cmpzp8) | 3:12 | 2022-01-13 | 2022-06-17 |
+| [Man With Feelings](https://open.spotify.com/track/5tROsq1LsWF2BNODzyef3l) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Man With Feelings](https://open.spotify.com/album/1i6f04QLQmZae1g0kD8pNy) | 4:07 | 2023-07-27 |  |
 | [Maybe?](https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Maybe?](https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt) | 2:54 | 2023-02-03 | 2023-06-16 |
 | [Me After You](https://open.spotify.com/track/1CNMpkmG7uQRl7irTnA7ZQ) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [Me After You](https://open.spotify.com/album/1e8OOyFQXG32J2ddwfHMpp) | 3:12 | 2023-07-14 |  |
 | [meant to be](https://open.spotify.com/track/5Ktz2XksXxyY3EKnDdY8Qn) | [Derick.T](https://open.spotify.com/artist/7tUh2r1hb4PmWjZNQfON3G) | [meant to be](https://open.spotify.com/album/2EZdClCGKgEXiVZXUJo5Gr) | 3:46 | 2022-01-13 | 2022-03-11 |
@@ -402,6 +404,7 @@
 | [Sweet Surrender](https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Sweet Surrender](https://open.spotify.com/album/0lpi91hEvLUf6DHC0ghs5E) | 3:05 | 2023-05-26 |  |
 | [switch up](https://open.spotify.com/track/69GsMTGlNmMCnTvsasvYcI) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/1coXALpmds7ZNwq3J1yWlk) | [switch up](https://open.spotify.com/album/72ISFMLP43B4fiCry0OWQP) | 2:53 | 2022-06-30 | 2022-09-23 |
 | [Take Kontrol](https://open.spotify.com/track/5tWYervZ1VRSW69LcmbszS) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Take Kontrol](https://open.spotify.com/album/1ovKyeTwijFpy2C7XO0r17) | 2:46 | 2022-09-22 | 2023-03-18 |
+| [Take Me As I Am](https://open.spotify.com/track/6zgeNyPGFOqc2TV8WvXKFR) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Take Me As I Am](https://open.spotify.com/album/2PdjZqAvASALCWRgqETCGr) | 3:49 | 2023-07-27 |  |
 | [Take Me Away](https://open.spotify.com/track/3SfBG1R9yj5B6V9NZiUzQD) | [Rayvn Young](https://open.spotify.com/artist/1nCiPylMGNtJuHO6XUyHV2) | [Take Me Away](https://open.spotify.com/album/3OSro8swuSQVfADsvUaOb9) | 2:47 | 2022-10-27 | 2023-06-16 |
 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 | 2022-04-21 | 2022-09-23 |
 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 | 2023-05-26 |  |
@@ -444,6 +447,7 @@
 | [ur the only one](https://open.spotify.com/track/3qXakyAA5H3pdnL0z3ExpR) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [ur the only one](https://open.spotify.com/album/2pinoPrSIr05ASlksdwoOy) | 3:07 | 2022-09-22 | 2023-05-27 |
 | [Utopia](https://open.spotify.com/track/60hiLsYGpC5RnyKZQ6aaY4) | [Pokok](https://open.spotify.com/artist/4MoiOz6WZwMyW1RXR0wHW9) | [Utopia](https://open.spotify.com/album/7xKHffhGr9fRADalZdKkjg) | 5:02 | 2022-01-13 | 2022-06-17 |
 | [Utopia Reimagined: These Corners](https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Utopia Reimagined: These Corners](https://open.spotify.com/album/6YB9B98Kmum6oN6jqoIlxv) | 5:09 | 2023-02-23 | 2023-05-12 |
+| [Venus](https://open.spotify.com/track/0VJh933Nhkk8VEUzqp74b0) | [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Venus](https://open.spotify.com/album/5cpB46g92ndv8OtQVoVoFK) | 4:04 | 2023-07-27 |  |
 | [VISITOR](https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk) | [Goth Mystery Mafia](https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB) | [VISITOR](https://open.spotify.com/album/17G2nrijiEDT3w0bSNM1Qp) | 3:30 | 2023-05-26 |  |
 | [WAGMI](https://open.spotify.com/track/4ZC9FJH7b9MsmQR9DowTjM) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [WAGMI](https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx) | 2:22 | 2022-01-13 | 2022-01-21 |
 | [wait.](https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [wait.](https://open.spotify.com/album/5CxHl5N0JJsYazJAc7MDAq) | 3:20 | 2023-01-12 | 2023-05-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,641 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,753 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 |
 | 50 | [MOLLY](https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja) | [River Moon](https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [MOLLY](https://open.spotify.com/album/2RjhHJoNeRTYm3LTWvR8Xb) | 2:42 |
 
-Snapshot ID: `MCxlNmI4ZjcxYjllNThjMzk3NDJhODRhMGNiODJlNmM4ZGRmNTk3M2Ni`
+Snapshot ID: `MCw2MzViZDQ2NWU3OTI5ZmQxNzdkYTRlOWNkNTRlYmQ4ZTM4Zjc0YjZl`

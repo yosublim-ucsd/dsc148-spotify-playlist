@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 79180,
+  "num_followers": 79206,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGZhN2E5YWM0MDhlZmEzNjc5MWQyYWVhZmI1ZDRkODNiODAzNzkz",
+  "snapshot_id": "MCxiNTg1YmNiOGUxMTlhNjg0ZWRmNzcxMDdlZTEwZWQ0OTg1ODQwYjFh",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "LAS",
+        "url": "https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB"
+      },
+      "artists": [
+        {
+          "name": "Zafem",
+          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
+        }
+      ],
+      "duration_ms": 313421,
+      "name": "Dlo Dous",
+      "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Quoi qu'il advienne (QQA)",
         "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "LAS",
-        "url": "https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB"
-      },
-      "artists": [
-        {
-          "name": "Zafem",
-          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
-        }
-      ],
-      "duration_ms": 313421,
-      "name": "Dlo Dous",
-      "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 189333,
       "name": "Premye Fwa",
       "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
-      },
-      "artists": [
-        {
-          "name": "Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 226560,
       "name": "Dekonekte",
       "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+      },
+      "artists": [
+        {
+          "name": "Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Destine",
-        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
       "artists": [
         {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        },
-        {
-          "name": "Jmd Tunes",
-          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Destine",
-      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1595,22 +1575,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "P's & Q's",
-        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
+        "name": "Destine",
+        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
       "artists": [
         {
-          "name": "Dyna Edyne",
-          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
         },
         {
-          "name": "Anonymuz",
-          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
+          "name": "Jmd Tunes",
+          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
         }
       ],
-      "duration_ms": 196433,
-      "name": "P's & Q's",
-      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
+      "duration_ms": 211000,
+      "name": "Destine",
+      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1627,6 +1607,26 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "P's & Q's",
+        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
+      },
+      "artists": [
+        {
+          "name": "Dyna Edyne",
+          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+        },
+        {
+          "name": "Anonymuz",
+          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "P's & Q's",
+      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Miscalculated",
         "url": "https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH"
       },
@@ -1731,42 +1751,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
-      },
-      "artists": [
-        {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Nan ou",
-        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
-      },
-      "artists": [
-        {
-          "name": "Gessica G\u00e9n\u00e9us",
-          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Nan ou",
-      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Nan ou",
+        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
+      },
+      "artists": [
+        {
+          "name": "Gessica G\u00e9n\u00e9us",
+          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Nan ou",
+      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1879,8 +1879,8 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mr Diablo",
-        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+        "name": "Donzo City",
+        "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
       },
       "artists": [
         {
@@ -1888,9 +1888,9 @@
           "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
         }
       ],
-      "duration_ms": 166635,
-      "name": "Mr Diablo",
-      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
+      "duration_ms": 147000,
+      "name": "KASE",
+      "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
     },
     {
       "added_at": "2023-07-21 04:00:00",

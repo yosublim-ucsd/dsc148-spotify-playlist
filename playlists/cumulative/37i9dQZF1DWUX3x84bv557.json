@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Tabitha & Jonna Fraser",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: LAUF",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -96,6 +96,32 @@
       "duration_ms": 158129,
       "name": "Aan",
       "url": "https://open.spotify.com/track/5Yoe79keJ0xoIeYC4I9HLK"
+    },
+    {
+      "album": {
+        "name": "Aan Vakantie Toe",
+        "url": "https://open.spotify.com/album/4onWLoRGEa7joTr8apOuXg"
+      },
+      "artists": [
+        {
+          "name": "Sick & Nimon",
+          "url": "https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129604,
+      "name": "Aan Vakantie Toe",
+      "url": "https://open.spotify.com/track/0zy7nv9DfbpWnNgQFzKiMq"
     },
     {
       "album": {
@@ -689,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/59jXHqXPFGBCmcA1zcXLj7"
+      },
+      "artists": [
+        {
+          "name": "Piet Junior",
+          "url": "https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182454,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/4EIk9fc7iPf5FO8LFL0uph"
+    },
+    {
+      "album": {
         "name": "BLIJF JIJ HIER",
         "url": "https://open.spotify.com/album/2s6o6DZX3opknCEolZ7WtA"
       },
@@ -1036,6 +1080,24 @@
       "duration_ms": 178541,
       "name": "Dat Kan Je Niet Kopen",
       "url": "https://open.spotify.com/track/4txaS5BTlGIlUNFmWef230"
+    },
+    {
+      "album": {
+        "name": "Datediner",
+        "url": "https://open.spotify.com/album/7sEuys399UPSZiYX88MPXk"
+      },
+      "artists": [
+        {
+          "name": "Young Dylan",
+          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Datediner",
+      "url": "https://open.spotify.com/track/4IDU19J711XA1ls4M9QWsL"
     },
     {
       "album": {
@@ -1456,6 +1518,24 @@
       "duration_ms": 173176,
       "name": "Echt Verliefd Zijn",
       "url": "https://open.spotify.com/track/13FOKNJGRyqZljne7ejBa2"
+    },
+    {
+      "album": {
+        "name": "Een Chick Als (Jade)",
+        "url": "https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Een Chick Als (Jade)",
+      "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
     },
     {
       "album": {
@@ -2111,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154195,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
+    },
+    {
+      "album": {
         "name": "Online/Offline (Deluxe)",
         "url": "https://open.spotify.com/album/2uqrR2tkqMm6F5AdQIPlui"
       },
@@ -2510,7 +2608,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 159562,
       "name": "Kaarslicht",
       "url": "https://open.spotify.com/track/3zhKEoZJ2BBabaClXLxiB3"
@@ -4260,6 +4358,24 @@
       "duration_ms": 207194,
       "name": "Terug In M'n Armen",
       "url": "https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc"
+    },
+    {
+      "album": {
+        "name": "Terug Naar Huis",
+        "url": "https://open.spotify.com/album/5W0tOrxrXIlYI0NC9b9kB2"
+      },
+      "artists": [
+        {
+          "name": "Baggio",
+          "url": "https://open.spotify.com/artist/5MOK1V3sHO0zHwVjzBrZhT"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154998,
+      "name": "Terug Naar Huis",
+      "url": "https://open.spotify.com/track/43NlqymyGXzfh1RJA5zxHJ"
     },
     {
       "album": {

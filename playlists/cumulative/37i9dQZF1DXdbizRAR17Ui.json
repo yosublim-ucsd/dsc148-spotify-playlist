@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 282000,
       "name": "Amaya",
       "url": "https://open.spotify.com/track/4XFldIf0Sg9WyvOZ31eZ9U"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 274500,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/1sBLUfsMLocIH1vc1uGYLD"
@@ -602,6 +602,28 @@
       "duration_ms": 450020,
       "name": "Bedside",
       "url": "https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l"
+    },
+    {
+      "album": {
+        "name": "Been Through",
+        "url": "https://open.spotify.com/album/2l6sBMOcqfVOgj8ohxJ6UB"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Manil",
+          "url": "https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158654,
+      "name": "Been Through",
+      "url": "https://open.spotify.com/track/2oBa8SkcVCAx7VPLwUmAcS"
     },
     {
       "album": {
@@ -660,6 +682,24 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "album": {
@@ -786,6 +826,24 @@
       "duration_ms": 246545,
       "name": "Can I Live Without You",
       "url": "https://open.spotify.com/track/7DsZ5jw3auxDWvcyK0UrM7"
+    },
+    {
+      "album": {
+        "name": "Can't Afford Me",
+        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
+      },
+      "artists": [
+        {
+          "name": "Kuma Overdose",
+          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218424,
+      "name": "Can't Afford Me",
+      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "album": {
@@ -1724,7 +1782,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 196074,
       "name": "i don\u2019t wanna feel u",
       "url": "https://open.spotify.com/track/6PclzQ8aZCxs2CDyFHvo0D"
@@ -2132,7 +2190,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 196071,
       "name": "Kyle (I Found You)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
@@ -2874,7 +2932,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 131097,
       "name": "No Hands",
       "url": "https://open.spotify.com/track/0gZcAOhjbDoLGzCQ0VW2J6"
@@ -3416,7 +3474,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
@@ -4024,7 +4082,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 213850,
       "name": "Tahara",
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"

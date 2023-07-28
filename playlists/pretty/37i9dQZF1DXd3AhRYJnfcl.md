@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=2X7kVrJMRAa4KbFirvfv6g"> أمير عيد </a>
+> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=\_W\-B2kvUTFeRbAOSHAPq4g"> احمد سعد </a> و <a href="https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814?si=Ql5U58LxTguGr2c5ooJOYg"> روبي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,768 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,111 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 |
-| 2 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
+| 1 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
+| 2 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 |
 | 3 | [سطلانة](https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ali Rabee](https://open.spotify.com/artist/77ufaOxJWPj1CKr6nn1BR3), [Osos](https://open.spotify.com/artist/28TcrGiufmVrUAbMKUIkWf), [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [سطلانة](https://open.spotify.com/album/3dSwt8D25ST0ROdebYf7Op) | 3:15 |
 | 4 | [Diva](https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/21gO4m2HfPPZgWiGYPlB69) | 2:52 |
 | 5 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Matzaalsh](https://open.spotify.com/track/4C8NYoAzT72Yikn2xeRV8f) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Matzaalsh](https://open.spotify.com/album/772AFGsp15ARb8JczKptWc) | 3:40 |
 | 50 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 |
 
-Snapshot ID: `MCw4N2ViZGMxOTkxMDIxZmRiYTY4YTQwYzVlZTgzMjIwMDAxYWIzZWNk`
+Snapshot ID: `MCw1NWVlMjhlYTg1NDNjZWMzMDJkMjc0MzkzMmZiNTg3ZTlmNGUzMjFm`

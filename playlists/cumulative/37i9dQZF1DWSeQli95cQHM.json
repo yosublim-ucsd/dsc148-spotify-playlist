@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+      },
+      "artists": [
+        {
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 432000,
       "name": "Shine - Dance Version",
       "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"

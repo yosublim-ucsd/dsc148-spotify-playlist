@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-732 songs - 1 day 14 hr 42 min
+733 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-05-21 |
-| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 |  |
+| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-28 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
@@ -436,6 +436,7 @@
 | [Naked](https://open.spotify.com/track/5xVUzNOpWbmBmOJn1Jb4Am) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Naked](https://open.spotify.com/album/7BVMjlnTbiCcEuzwRgcVRU) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Naked Love](https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Naked Love](https://open.spotify.com/album/2x1WdqyybAl3oe9hGMG074) | 3:16 | 2022-05-05 | 2022-07-28 |
 | [Nattbuss](https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Nattbuss](https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ) | 3:26 | 2023-03-29 |  |
+| [Need You Now](https://open.spotify.com/track/4Q9sJipq22mVAHpOnoWprj) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Need You Now](https://open.spotify.com/album/2jVBHTvi0UbTzSEnqua7zM) | 3:10 | 2023-07-27 |  |
 | [Nej tack, det är bra!](https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 2:15 | 2023-04-27 |  |
 | [Neon Lights](https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Neon Lights](https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE) | 3:29 | 2022-05-12 |  |
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |

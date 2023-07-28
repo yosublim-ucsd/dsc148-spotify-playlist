@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM"
+    },
+    {
+      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 145200,
       "name": "FXXKFXXKFXXK",
       "url": "https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -1468,6 +1486,24 @@
       "duration_ms": 171252,
       "name": "TOUSOU",
       "url": "https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN"
+    },
+    {
+      "album": {
+        "name": "True Self",
+        "url": "https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng"
+      },
+      "artists": [
+        {
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172458,
+      "name": "True Self",
+      "url": "https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D"
     },
     {
       "album": {

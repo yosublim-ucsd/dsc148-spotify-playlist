@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-121 songs - 7 hr 21 min
+122 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [California Day](https://open.spotify.com/track/1NdZN8qp8ymkHqYnlXxS1F) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [California Day](https://open.spotify.com/album/2W93NNqgJVgDKeXCCDqTuL) | 2:52 | 2021-08-24 |  |
 | [Circus Slave](https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:24 | 2022-06-02 |  |
 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 | 2021-08-24 |  |
-| [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 | 2021-08-24 |  |
+| [Conquerors](https://open.spotify.com/track/2TvCkdR6F39VVA6WuxSW4M) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/4ooGe3IRb9delicgd0oAv0) | 2:49 | 2023-06-08 |  |
+| [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 | 2021-08-24 | 2023-07-28 |
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2021-08-24 |  |
 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2021-08-24 |  |
 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 | 2021-08-24 |  |

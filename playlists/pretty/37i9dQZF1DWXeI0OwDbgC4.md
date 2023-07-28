@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,514 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,545 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 34 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
 | 35 | [Te Digo Adios](https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm) | [Chriz Roy](https://open.spotify.com/artist/1oulM2dZKW5lqjvlPYJ7P2), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Te Digo Adios](https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ) | 3:23 |
 | 36 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
-| 37 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
-| 38 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
+| 37 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
+| 38 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
 | 39 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
 | 40 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
 | 41 | [love in the summer](https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [love in the summer](https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 | 50 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 
-Snapshot ID: `MCxhMGU4ZDFkODJlYzQzZGQ3Nzk0YzdiYTkzNWQyOTg4ZTFlYjk5MWNm`
+Snapshot ID: `MCw2NTNhNmUyY2NmYzVkODZiMWJmZDFhMDliMTZjYjlmNzZiYWQ0ZTU1`

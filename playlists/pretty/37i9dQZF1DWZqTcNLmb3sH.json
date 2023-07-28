@@ -1,13 +1,33 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50307,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
+  "num_followers": 50333,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQzYTQzNmQ2Y2YyODgzYWFmZWIxYTU5ZDZmYjUzMGFhZjMyMjU4",
+  "snapshot_id": "MCw2YzZhZDVlNTY0OGI1YjU0ZWMzMDNlMzBlNmRhNDE1Yjk4NGExMmI2",
   "tracks": [
+    {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
+        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        }
+      ],
+      "duration_ms": 180405,
+      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
+      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
+    },
     {
       "added_at": "2023-07-21 06:52:36",
       "album": {
@@ -145,6 +165,22 @@
       "url": "https://open.spotify.com/track/1Ywxy20GhIJOcusnKK2Z9d"
     },
     {
+      "added_at": "2023-07-27 13:11:20",
+      "album": {
+        "name": "Hostel Hudugaru Bekagiddare (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m5iJUD34mmXputNXIBwNl"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 247125,
+      "name": "Hostel Hudugaru Protest Song",
+      "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+    },
+    {
       "added_at": "2023-07-04 11:00:31",
       "album": {
         "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
@@ -211,26 +247,6 @@
       "duration_ms": 245400,
       "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
       "url": "https://open.spotify.com/track/5XLCyX3kqNwDoBOvVhORUD"
-    },
-    {
-      "added_at": "2023-07-21 06:52:36",
-      "album": {
-        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
-        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
-        }
-      ],
-      "duration_ms": 180405,
-      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
-      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
     },
     {
       "added_at": "2023-07-24 06:31:36",
@@ -451,30 +467,6 @@
       "duration_ms": 127540,
       "name": "Dharaniye Daniyali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4c1OQoXJmwktgTNgPFQbVI"
-    },
-    {
-      "added_at": "2023-07-19 11:13:36",
-      "album": {
-        "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RED4wqTEbC9xTcEs9NGs2"
-      },
-      "artists": [
-        {
-          "name": "Sanju YBH",
-          "url": "https://open.spotify.com/artist/33U4qMXAW0LqZHdfThFaB5"
-        },
-        {
-          "name": "Swastik Karekad",
-          "url": "https://open.spotify.com/artist/5opIXtScAMSUYa3Z2wmUnI"
-        },
-        {
-          "name": "Navaneeth Sham",
-          "url": "https://open.spotify.com/artist/7o9uqL4spl1juQLR9jij8S"
-        }
-      ],
-      "duration_ms": 42000,
-      "name": "Naan Bidi Daredevil",
-      "url": "https://open.spotify.com/track/5SJTcmbqC6GFzA8rub40Ls"
     },
     {
       "added_at": "2023-05-20 08:05:14",

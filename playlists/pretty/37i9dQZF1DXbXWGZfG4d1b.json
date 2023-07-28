@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18614,
+  "num_followers": 18626,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWQ4MzZjZDFjMGQwNTc5YjdkNzI4NjFjYjcxYjQwOTc4NmU1Mjc3",
+  "snapshot_id": "MCxhZDVkNTYxODk1NjhmYzg2MTY3MzQ0ZDNhMTA3OWVkZTI0MWQ3M2Ez",
   "tracks": [
     {
       "added_at": "2023-07-24 15:33:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "Bestia Beb\u00e9",
         "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Antes de que Olvide",
+      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Antes de que Olvide",
-      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Regalos",
-        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
-      },
-      "artists": [
-        {
-          "name": "Cometas",
-          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Regalos",
-      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": ":3",
         "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 182045,
       "name": "Verano En Espiral",
       "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Regalos",
+        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
+      },
+      "artists": [
+        {
+          "name": "Cometas",
+          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Regalos",
+      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Modernica",
-        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
-      },
-      "artists": [
-        {
-          "name": "Soy Irracional",
-          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Mordisco",
-      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "HORA DE IRTE MIXTAPE",
         "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+        "name": "Modernica",
+        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Soy Irracional",
+          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
         }
       ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+      "duration_ms": 189707,
+      "name": "Mordisco",
+      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1151,6 +1135,22 @@
       "duration_ms": 159576,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Sin Condiciones",
-        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 230725,
-      "name": "Sin Condiciones",
-      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Sin Condiciones",
+        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 230725,
+      "name": "Sin Condiciones",
+      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Pistas",
-        "url": "https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h"
-      },
-      "artists": [
-        {
-          "name": "Alem",
-          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Pistas",
-      "url": "https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Pistas",
+        "url": "https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h"
+      },
+      "artists": [
+        {
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Pistas",
+      "url": "https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1451,58 +1451,6 @@
       "duration_ms": 187050,
       "name": "Egnaro",
       "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "AMORA",
-      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1543,22 +1491,54 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Si No Hubiera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Conf\u00edn Dorado",
-      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1579,22 +1559,6 @@
     {
       "added_at": "2023-07-24 15:33:42",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-07-24 15:33:42",
-      "album": {
         "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
         "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
       },
@@ -1607,6 +1571,26 @@
       "duration_ms": 232173,
       "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
       "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Si No Hubiera Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Conf\u00edn Dorado",
+      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
     },
     {
       "added_at": "2023-07-24 15:33:42",
@@ -1631,6 +1615,22 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2023-07-24 15:33:42",
+      "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
     },
     {
       "added_at": "2023-07-24 15:33:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Draganov",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Smallx",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -422,6 +422,32 @@
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
+    },
+    {
+      "album": {
+        "name": "X TAPE CHROMOSOME",
+        "url": "https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        },
+        {
+          "name": "Caprice",
+          "url": "https://open.spotify.com/artist/5wc0IxnlWp9pqSduPbyvZh"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243687,
+      "name": "Chno Raytra",
+      "url": "https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB"
     },
     {
       "album": {
@@ -1905,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "X TAPE CHROMOSOME",
+        "url": "https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179937,
+      "name": "Pyramid",
+      "url": "https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ"
+    },
+    {
+      "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
       },
@@ -2460,6 +2508,24 @@
       "duration_ms": 150379,
       "name": "UNICEF",
       "url": "https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE"
+    },
+    {
+      "album": {
+        "name": "X TAPE CHROMOSOME",
+        "url": "https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198415,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW"
     },
     {
       "album": {

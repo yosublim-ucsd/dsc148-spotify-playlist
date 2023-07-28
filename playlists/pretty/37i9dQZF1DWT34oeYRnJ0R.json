@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: DJ Maff & Elena Rose",
-  "num_followers": 695792,
+  "num_followers": 695820,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmJiOGRlMzlmYWIzZGVmNGU2NDI5YjI4MDQ1Mzg0MjNkNmNjOTI2",
+  "snapshot_id": "MCw2ZTg3MTRkMWMzMGQ1MTkwMzg4NzNjMjVjNTA0NWFhMjBhYmNkMmVh",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 124110,
+      "name": "No te lo niego, ma dol\u00edo",
+      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "L\u00e1grimas pa otro d\u00eda",
-        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 124110,
-      "name": "No te lo niego, ma dol\u00edo",
-      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+        "name": "Lo Tengo",
+        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 91371,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+      "duration_ms": 167442,
+      "name": "LO TENGO",
+      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Lo Tengo",
-        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 167442,
-      "name": "LO TENGO",
-      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "El Father",
-        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 195873,
-      "name": "El Father",
-      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+        "name": "El Father",
+        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         }
       ],
-      "duration_ms": 147561,
-      "name": "For Ya",
-      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+      "duration_ms": 195873,
+      "name": "El Father",
+      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Tu Fan\u00e1tico (Remix)",
         "url": "https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bubbaloo",
-        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
       "artists": [
         {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 192669,
-      "name": "Bubbaloo",
-      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 93280,
       "name": "Vamos Pal Espacio",
       "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "CONTIGO LA PASO CABRON",
-        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "CONTIGO LA PASO CABRON",
-      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 170831,
       "name": "RDMDA",
       "url": "https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "CONTIGO LA PASO CABRON",
+        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "CONTIGO LA PASO CABRON",
+      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Acurrucao",
         "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 186428,
       "name": "Acurrucao",
       "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "3 y Pico",
-        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 190068,
-      "name": "3 y Pico",
-      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+        "name": "Falta curar Vol.1",
+        "url": "https://open.spotify.com/album/26pgudzDxWEF8U4npHqAbM"
       },
       "artists": [
         {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
         }
       ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+      "duration_ms": 188186,
+      "name": "Debe ser que estoy rindi\u00e9ndome",
+      "url": "https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Falta curar Vol.1",
-        "url": "https://open.spotify.com/album/26pgudzDxWEF8U4npHqAbM"
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
       },
       "artists": [
         {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Debe ser que estoy rindi\u00e9ndome",
-      "url": "https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi"
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
     },
     {
       "added_at": "2023-07-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-781 songs - 1 day 20 hr 37 min
+782 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [ネロ](https://open.spotify.com/track/3abxvM4ptugLFRocd7dm5H) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ネロ](https://open.spotify.com/album/1aCpGaeu7Ai7eiB4o22aip) | 3:29 | 2023-04-11 | 2023-04-26 |
 | [ノマド \- self cover](https://open.spotify.com/track/5bhx38mEmEP8ps3J0wHTQY) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ノマド \(self cover\)](https://open.spotify.com/album/44jc0PdXkVjPNNfyPVPaTF) | 3:52 | 2022-07-04 | 2022-07-25 |
 | [ハンドメイド流星雨 \- 皐月ソラの場合/CV:楠木ともり](https://open.spotify.com/track/19sdlPhdJXSknzwKEqD7a3) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [ハンドメイド流星雨 \(皐月ソラの場合/CV:楠木 ともり\)](https://open.spotify.com/album/1KPDqDTsLp4YUCoY5uZyfP) | 3:39 | 2022-06-21 | 2022-07-23 |
-| [ハートエンド](https://open.spotify.com/track/5chLgSHt4hNwuOlxWccA0u) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [ハートエンド](https://open.spotify.com/album/7qcNbmdD83ZgsFx2LwaYUP) | 2:53 | 2023-07-20 |  |
+| [ハートエンド](https://open.spotify.com/track/5chLgSHt4hNwuOlxWccA0u) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [ハートエンド](https://open.spotify.com/album/7qcNbmdD83ZgsFx2LwaYUP) | 2:53 | 2023-07-20 | 2023-07-28 |
 | [バイメーバイメー \- Self Cover Ver.](https://open.spotify.com/track/1qdBJLd6NX2c89USkK5BbM) | [マイキP](https://open.spotify.com/artist/524nuNftJJIuQvPhkRl5Mp) | [Anti Believer](https://open.spotify.com/album/5Amin7lDuJFmadxKwco2MD) | 3:45 | 2022-07-12 | 2022-07-15 |
 | [バグってない?](https://open.spotify.com/track/5pUxiIcfmJsMMs3zY3m4SM) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [バグってない?](https://open.spotify.com/album/7kWkWtsSOc77JEAH0AyJJo) | 2:46 | 2022-07-26 | 2022-07-28 |
 | [バックライト](https://open.spotify.com/track/5A8W9xqsTQmbIM9h567QDF) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [バックライト](https://open.spotify.com/album/7qAXEyZd9MGPM2Ho2Foto3) | 3:48 | 2022-12-13 | 2023-01-11 |
@@ -499,6 +499,7 @@
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 |  |
 | [モノフォビア](https://open.spotify.com/track/4YT9358e87upxQxIGy2FVo) | [NEW \(te”nC\)^2](https://open.spotify.com/artist/3YzKiDDsf14CuftYBdSULa) | [モノフォビア](https://open.spotify.com/album/6B12Xztii6946TqS3eEvCk) | 2:59 | 2022-07-12 | 2022-07-15 |
 | [モンスター](https://open.spotify.com/track/16oPsrYE8HkBWndxdhiICa) | [肉チョモランマ](https://open.spotify.com/artist/6itRUVO6rDXpVdy7lIy7vu) | [モンスター](https://open.spotify.com/album/3JyS6hoaYJB8sCdGG8h7wD) | 3:09 | 2022-06-14 | 2022-07-01 |
+| [ユラユラダンスホール](https://open.spotify.com/track/4P2OObLmEOiFSPYcFJ3vst) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [ユラユラダンスホール](https://open.spotify.com/album/4x8lTZayekaLjKgpKV9La5) | 4:51 | 2023-07-27 |  |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-06-13 | 2022-07-25 |
 | [ヨルノブルース](https://open.spotify.com/track/3Uje0B6idenseMSiGqqack) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ヨルノブルース](https://open.spotify.com/album/1NsTgFN0gE7p2OCtbQ66l0) | 5:23 | 2022-06-16 | 2022-06-18 |
 | [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 | 2022-07-28 | 2023-01-11 |

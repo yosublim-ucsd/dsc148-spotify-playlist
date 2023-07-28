@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 186250,
       "name": "Rkt",
       "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
@@ -4826,6 +4826,28 @@
       "duration_ms": 227608,
       "name": "Tu Pones la Hora y Yo Le Caigo",
       "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
+    },
+    {
+      "album": {
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q"
+      },
+      "artists": [
+        {
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227608,
+      "name": "Tu Pones La Hora y Yo le Caigo",
+      "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
     },
     {
       "album": {

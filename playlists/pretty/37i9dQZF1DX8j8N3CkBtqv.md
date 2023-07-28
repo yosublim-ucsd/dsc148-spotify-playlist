@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- OAFF, Savera, Burrah, Yashraj
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,630 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,653 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Kaisi Ye Raat](https://open.spotify.com/track/438S47czKao4NaBlWXUGNA) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Kaisi Ye Raat](https://open.spotify.com/album/7bBBEAlJHrf1thlkiPvdjl) | 2:54 |
 | 50 | [Hope this song finds you](https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Hope this song finds you](https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr) | 2:18 |
 
-Snapshot ID: `MCw5Njg0OTAwZTdjOTFiYTcxM2VlN2NiYjdkZjU1NGJjYTgzMGFhZjEy`
+Snapshot ID: `MCw1YTM3ZmVlYjI1ZDY0ZTkwNTg2OTQzMzc4NTU3MWFiNTA1MDcwZDky`

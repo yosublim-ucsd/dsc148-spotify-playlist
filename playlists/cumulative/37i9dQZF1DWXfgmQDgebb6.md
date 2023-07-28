@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Wedance\(위댄스\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Blue.D\(블루디\)\)
 
-314 songs - 17 hr 33 min
+315 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2023-02-20 | 2023-03-18 |
 | [Birthday](https://open.spotify.com/track/0xOBqBL9Gy68Dc8ZA3fAIE) | [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [Birthday](https://open.spotify.com/album/2GIJXudMpFp9ql5s6joZwX) | 2:07 | 2022-05-27 | 2022-07-26 |
 | [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 | 2023-06-13 |  |
+| [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 | 2023-07-27 |  |
 | [Blues Cluster](https://open.spotify.com/track/4zk7Xx0x2AZhz3Fzuab8or) | [Gari](https://open.spotify.com/artist/1EGnOaXcfIJdGXdfOxxgn4) | [Blues Cluster](https://open.spotify.com/album/2XScGszYKLqf16svHPwx5U) | 5:33 | 2022-05-27 | 2022-05-31 |
 | [Bokgo](https://open.spotify.com/track/5f9u0T0ug5uYBgRxYLcu5Z) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S), [DAWN](https://open.spotify.com/artist/3aB96WIPKUzvJmoctWCrjb) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 3:08 | 2022-06-18 | 2022-07-27 |
 | [Borrowed Tongue](https://open.spotify.com/track/1W61wgNleiM0yPa0rEkdVF) | [Minhwi Lee](https://open.spotify.com/artist/2jxMlRv491N2SDHVeyx1Ae) | [Borrowed Tongue](https://open.spotify.com/album/6CXaVKWFnm6aa2OxiJPzz0) | 4:23 | 2023-02-20 | 2023-03-18 |
@@ -106,7 +107,7 @@
 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 | 2022-07-08 |  |
 | [GIRL \(Feat\. Yonko\)](https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn) | [KROM](https://open.spotify.com/artist/1nxLEnV5LWQdyno65PHCYT), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [GIRL](https://open.spotify.com/album/3n138B1zCEMn6gX1s850f6) | 3:40 | 2022-12-19 | 2023-02-05 |
 | [GLOWSTAR \(Feat\. Rowblowchiee\)](https://open.spotify.com/track/60vY8Iq8HoAhDc63XnR7VZ) | [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y), [RowBlowchiee](https://open.spotify.com/artist/0QEXZA97SCTqJF6tKCp7BC) | [YANGSTAR 224](https://open.spotify.com/album/4gpiZQomdVMsOcolNF7eev) | 2:48 | 2022-05-27 | 2022-07-16 |
-| [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 | 2022-06-18 |  |
+| [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 | 2022-06-18 | 2023-07-28 |
 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 | 2022-05-27 | 2023-02-07 |
 | [Gonna out!](https://open.spotify.com/track/38LSMDRn5FSH7tY9VWCbRt) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Gonna out](https://open.spotify.com/album/5RHSk68hoJY9N1SoCIv1G9) | 2:25 | 2022-05-27 | 2022-07-22 |
 | [Gossip \(Feat\. Kid Milli, Han Yo Han\)](https://open.spotify.com/track/7cv7ZK2JgGi135mxeOJATM) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 3:51 | 2022-05-27 | 2022-07-27 |

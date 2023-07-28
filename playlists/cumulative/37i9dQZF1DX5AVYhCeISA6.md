@@ -2,7 +2,7 @@
 
 ### [Inspiring Latinas](https://open.spotify.com/playlist/37i9dQZF1DX5AVYhCeISA6)
 
-> Latinas que inspiran, con música y acciones\. Cover: Maria Becerra
+> Latinas que inspiran ✨ Cover: Maria Becerra
 
 189 songs - 10 hr 12 min
 

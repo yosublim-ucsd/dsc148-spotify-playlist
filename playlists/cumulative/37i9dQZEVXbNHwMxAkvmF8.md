@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-852 songs - 1 day 20 hr 16 min
+853 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [2023 04 12 Ócsa](https://open.spotify.com/track/1KnwRYENsXbglFUiyCrgMo) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C), [2roo](https://open.spotify.com/artist/6U2kBPAageXZDddMvPkygY) | [Long Live AKC](https://open.spotify.com/album/7cmEo4ODsnKN24KXfsklNV) | 3:01 | 2023-05-20 | 2023-05-26 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-19 | 2021-10-06 |
 | [21](https://open.spotify.com/track/4JcDCN9MbUoLq1pmVV92su) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:59 | 2023-02-03 | 2023-02-19 |
-| [24 karát](https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p) | [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [24 karát](https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB) | 2:08 | 2022-01-02 |  |
+| [24 karát](https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p) | [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [24 karát](https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB) | 2:08 | 2022-01-02 | 2023-07-28 |
 | [2M](https://open.spotify.com/track/4zDGLxfJmJQNxc1GaebOts) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [PP2](https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT) | 2:45 | 2022-10-30 | 2022-11-14 |
 | [3 Nap](https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:50 | 2023-03-07 | 2023-03-25 |
 | [3 Nap](https://open.spotify.com/track/1dApWF2K4c91sOq0esaufz) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:50 | 2023-02-03 | 2023-03-08 |
@@ -90,6 +90,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-08 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-07-12 |
 | [BANKRABLÁS ATIVAL](https://open.spotify.com/track/6brORzQPXSuQ1K5c3HybEv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 2:18 | 2023-06-02 | 2023-06-04 |
+| [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-27 |  |
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/5IweCSstXQHSmM9c42F7AP) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:48 | 2022-11-24 | 2022-12-04 |
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [BAZ+ \(Túl vagyok rajtad\)](https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n) | 2:48 | 2022-06-03 | 2022-11-25 |
 | [Beb\*sztam](https://open.spotify.com/track/2zALUC201V0RwAAL2FzrLP) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:38 | 2022-11-23 | 2022-11-28 |

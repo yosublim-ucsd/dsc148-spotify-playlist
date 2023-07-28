@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 136541,
+  "num_followers": 136557,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
+  "snapshot_id": "MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj",
   "tracks": [
     {
       "added_at": "2023-06-27 13:29:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 183440,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -943,22 +927,34 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
+      "duration_ms": 199506,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Adventures In Paradise",
+        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Baby, This Love I Have",
+      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Adventures In Paradise",
-        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Baby, This Love I Have",
-      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1619,6 +1603,22 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Tell It Like It Is",
         "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 249226,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The Essentials: Ruth Brown",
         "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 173733,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1771,6 +1771,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1823,38 +1839,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -1875,34 +1859,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Lay It Down",
-        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1923,34 +1891,34 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+      "duration_ms": 238226,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1971,6 +1939,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Bettye Swann",
         "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 226240,
       "name": "Then You Can Tell Me Goodbye",
       "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Like a Ship (Without a Sail)",
-        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
-      },
-      "artists": [
-        {
-          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
-          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Like a Ship (Without a Sail)",
+        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
+      },
+      "artists": [
+        {
+          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
+          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Groove Curse",
         "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 270640,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2667,6 +2667,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Late Night Tales: Another Late Night - Zero 7",
         "url": "https://open.spotify.com/album/0qZikBhy0lOQGj8S9uq8l4"
       },
@@ -2711,22 +2727,6 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Please Love Me",
+        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -2827,6 +2843,22 @@
       "duration_ms": 196653,
       "name": "Come On Train - Original Mix",
       "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Spirit in the Dark",
+        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Spirit in the Dark",
+      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2867,34 +2899,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Spirit in the Dark",
-        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
         }
       ],
-      "duration_ms": 243826,
-      "name": "Spirit in the Dark",
-      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Please Love Me",
-        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2915,22 +2931,6 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "45",
-      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Soul Power",
         "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 270325,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "45",
+      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3199,22 +3199,6 @@
       "duration_ms": 386866,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
-      },
-      "artists": [
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Space of You",
-      "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3283,6 +3267,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Space of You",
+      "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "W.E.L.F.A.R.E",
         "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
       },
@@ -3299,18 +3299,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+        "name": "Marbles",
+        "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
         }
       ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+      "duration_ms": 192226,
+      "name": "Crystal Ball (In the Cupboard)",
+      "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
     }
   ],
   "unique_name": "Soulful Dinner",

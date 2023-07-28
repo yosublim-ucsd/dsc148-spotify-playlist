@@ -1,60 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=rR1PpJXuSFO7jh3FvO-2Vw\">Franja Du Plessis</a> ",
-  "num_followers": 75541,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=WJ27S-o-TkiNRTAGWXM4Sw\">Bobby Van Jaarsveld</a> ",
+  "num_followers": 75614,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODhjNzE0OGRmOTEyOGFmNWU3ZjliMDViMzc5YjU3MGMxNmM5MWNk",
+  "snapshot_id": "MCwxZmI2ZGY4OGMyYzE4YjAwMGViM2M4MTcyN2YzZWMwMjI2MjM0OGM5",
   "tracks": [
     {
-      "added_at": "2023-07-20 21:59:00",
+      "added_at": "2023-07-27 21:59:00",
       "album": {
-        "name": "Hakahana",
-        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
+        "name": "Toe, Nou en Altyd",
+        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
       },
       "artists": [
         {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Hakahana",
-      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Foute",
-        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Foute",
-      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+      "duration_ms": 221463,
+      "name": "Toe, Nou en Altyd",
+      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -75,6 +43,38 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Foute",
+        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Foute",
+      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Khaki",
         "url": "https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 186495,
       "name": "Khaki",
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
+    },
+    {
+      "added_at": "2023-07-20 21:59:00",
+      "album": {
+        "name": "Hakahana",
+        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Hakahana",
+      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -607,26 +623,6 @@
       "duration_ms": 187894,
       "name": "Nora Vlok",
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Loufi Flippen Loufi",
-        "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        },
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Oh La La",
-      "url": "https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts"
     },
     {
       "added_at": "2023-06-29 21:59:00",

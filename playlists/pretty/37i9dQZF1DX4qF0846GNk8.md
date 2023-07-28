@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ?si=BI0SOM19SxurQ9yTPs13Wg"> عنبه </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=52aOzzzLQWGNFO\-oyZmxmQ">  كريم كرستيانو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,121 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,474 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 |
-| 2 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
+| 1 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
+| 2 | [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 |
 | 3 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 |
 | 4 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 |
 | 5 | [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [ماذا لو شوفت حبيبى قلبى](https://open.spotify.com/track/2VcliKj3G9yH4s87U5qFgz) | [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI), [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48) | [ماذا لو شوفت حبيبى قلبى](https://open.spotify.com/album/6zlCLokK4BI3vkkDqj7wPm) | 4:58 |
 | 50 | [فتره و هتعدي](https://open.spotify.com/track/0eAQPO9lxQqc7F4BOy85As) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فتره و هتعدي](https://open.spotify.com/album/12sDRnt0r4O3pua8zStqni) | 3:51 |
 
-Snapshot ID: `MCxjZTliMTc3NDVkODMxM2Y1NWNmNWVjMDQ0NDY0ZmEyNjM1ZDVmODU5`
+Snapshot ID: `MCw0N2NkMjhlZGZmODQ0ZjQ0OGY1ZjZlNGYzMGQ1NmYzMzFhODJlNzFk`

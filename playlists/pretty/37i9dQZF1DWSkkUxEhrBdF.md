@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,943 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,964 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 26 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 27 | [Money Call](https://open.spotify.com/track/4GOHRjfZXRZDHkv6RRMNcq) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih) | 3:54 |
 | 28 | [Is It Because I'm Black \(Extended\)](https://open.spotify.com/track/4u73Jz0oUWodHCW4HIqJo2) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [B\. Trenton](https://open.spotify.com/artist/61MrlHthfjJXkkdegGOrvh) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 4:44 |
-| 29 | [Overcome](https://open.spotify.com/track/6UhuL6GiU6A24AS7uZwogh) | [Liquid](https://open.spotify.com/artist/3Hg4YYMKR6fMvkBj6SBuPo) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:49 |
+| 29 | [Overcome](https://open.spotify.com/track/6UhuL6GiU6A24AS7uZwogh) | [Liquid](https://open.spotify.com/artist/17PIlp8xsXQf0w2bCQbeqd) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:49 |
 | 30 | [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 3:12 |
 | 31 | [Know Your Worth](https://open.spotify.com/track/215G1JMk2keJwZDGbDipB5) | [Chillaa](https://open.spotify.com/artist/5vUrBWaEq2yr4OgnEpOJHB) | [Cyanide](https://open.spotify.com/album/33kvQqrm25RLUv1c68lFFd) | 2:36 |
 | 32 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 49 | [Mood Forever](https://open.spotify.com/track/5O66ltnew3GTXTvMFaK3tv) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever EP](https://open.spotify.com/album/6sIctZXhBIDn7yG3kgwzD9) | 2:54 |
 | 50 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 
-Snapshot ID: `MCw0YjZhZjMxOTZlN2UyOGVlM2Q3Yzg2YTY2YzRiNThhZTFjZmYyNGY4`
+Snapshot ID: `MCxhMGJhODYwZmRmOWI3NzEzNmE3YzEyM2UyMDQ0ZGFmMmYyODY4NjUx`

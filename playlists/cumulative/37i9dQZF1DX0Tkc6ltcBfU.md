@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the south\. Cover: Young Nudy
+> The hottest out the south\. Cover: Quavo
 
 772 songs - 1 day 13 hr 6 min
 

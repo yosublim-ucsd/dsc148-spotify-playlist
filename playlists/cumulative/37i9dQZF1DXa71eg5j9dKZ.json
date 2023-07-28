@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Disclosure",
+  "description": "The home for alternative electronic music. Cover: Maribou State",
   "name": "Altar",
   "tracks": [
     {
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
@@ -2864,6 +2882,28 @@
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
+    },
+    {
+      "album": {
+        "name": "Nymph in the Wild",
+        "url": "https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183845,
+      "name": "Crush (feat. Erika de Casier) - Live Edit",
+      "url": "https://open.spotify.com/track/6qz1e5rvxbp41zNXyIHOlk"
     },
     {
       "album": {
@@ -3702,7 +3742,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 238384,
       "name": "Endeavour",
       "url": "https://open.spotify.com/track/4sg1fqkeGMnbgxzXw5ppEw"
@@ -4733,6 +4773,32 @@
     },
     {
       "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "album": {
         "name": "Freefall (feat. Moxie Knox)",
         "url": "https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69"
       },
@@ -4926,7 +4992,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 345053,
       "name": "Gentle Heart",
       "url": "https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka"
@@ -7335,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "album": {
         "name": "Lonely Dulcimer / In Effect",
         "url": "https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM"
       },
@@ -8416,7 +8500,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 221046,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK"
@@ -12220,7 +12304,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 222798,
       "name": "Sun Goes Down - Edit",
       "url": "https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv"
@@ -12308,6 +12392,28 @@
       "duration_ms": 490000,
       "name": "Swallow Me",
       "url": "https://open.spotify.com/track/44ZTXLhsvi5vaXTDhQsm33"
+    },
+    {
+      "album": {
+        "name": "Syren",
+        "url": "https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197822,
+      "name": "Syren",
+      "url": "https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn"
     },
     {
       "album": {

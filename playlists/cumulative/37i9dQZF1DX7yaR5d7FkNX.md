@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-188 songs - 11 hr 36 min
+189 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 | 2022-01-28 |  |
 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 | 2022-01-28 | 2022-07-29 |
 | [Azul Oscuro](https://open.spotify.com/track/0foav3p9d6BKaYhzFkGP7Y) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Rock Latino Pa' Curar La Cruda](https://open.spotify.com/album/37g0WUTlL4p92pVKi9gRqg) | 4:21 | 2022-01-28 | 2022-11-13 |
-| [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/4p8af17Jj8CP0pCZdTixkB) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2022-01-28 |  |
+| [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/355rOJoYm2XkLj5iAHSWAv) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2022-01-28 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-03-18 | 2023-07-01 |
 | [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 | 2022-01-28 | 2022-11-13 |
 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-01-28 |  |
@@ -78,6 +78,7 @@
 | [Encrucijada](https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [Encrucijada](https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX) | 3:39 | 2023-04-24 | 2023-07-01 |
 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 | 2022-01-28 | 2023-07-01 |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2022-01-28 |  |
+| [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 | 2023-07-28 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-15 |  |
 | [Estás Dormida](https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [Estás Dormida](https://open.spotify.com/album/0z9NFb3G6T8O35iubt1hAo) | 3:34 | 2023-02-17 |  |
 | [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 | 2023-04-14 |  |
@@ -142,7 +143,7 @@
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2022-01-28 | 2023-07-01 |
 | [Nunca Te Vayas](https://open.spotify.com/track/3orvtJ4HEuIqI6CAe6Yudv) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Nunca Te Vayas](https://open.spotify.com/album/3fy12tbJC7YF6xfERUNPoe) | 2:38 | 2022-01-28 | 2023-07-01 |
 | [Para Ti](https://open.spotify.com/track/6wEwzLNuakB1oOMz3cnh1u) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Jóvenes Ilustres](https://open.spotify.com/album/4bUI7Izg70iMO3zXjSS14x) | 2:22 | 2022-01-28 | 2023-07-01 |
-| [Paraíso Lunar](https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Paraíso Lunar](https://open.spotify.com/album/1W2CKcrLpM1bPYslJQlZCM) | 3:45 | 2022-01-28 |  |
+| [Paraíso Lunar](https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Paraíso Lunar](https://open.spotify.com/album/1W2CKcrLpM1bPYslJQlZCM) | 3:45 | 2022-01-28 | 2023-07-28 |
 | [Pasajeros](https://open.spotify.com/track/2JQPO4vEJXmwi0eCAc89J0) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Pasajeros](https://open.spotify.com/album/2qNTQM3J2eoEfZlFMyb6WY) | 3:05 | 2023-04-24 |  |
 | [Paseo Sideral](https://open.spotify.com/track/5ZdMvKygnT1RRj6Y0pnhAL) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Aliados](https://open.spotify.com/album/1LAdrdASbNjQqWPH2TFFJZ) | 3:21 | 2022-01-28 |  |
 | [Peligro](https://open.spotify.com/track/4igu6wUj0O7ZGXUArbBrWI) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Singles](https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg) | 3:42 | 2022-01-28 | 2022-08-02 |

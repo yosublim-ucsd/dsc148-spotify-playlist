@@ -3791,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Guapanese",
+        "url": "https://open.spotify.com/album/4shRkNL7YCDYNkp8Mzsnv7"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/39xyIJlo7lsDZf3j2oh6vP"
+    },
+    {
+      "album": {
         "name": "Gutter! (feat. WARA)",
         "url": "https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve"
       },

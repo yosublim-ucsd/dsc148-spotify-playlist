@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,276 likes - 85 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,292 likes - 85 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 68 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 69 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
 | 70 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 |
-| 71 | [Turn On The Lights again.\. \(feat\. Future\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 |
+| 71 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 |
 | 72 | [Deserve You \- Dosem Remix](https://open.spotify.com/track/5jQqe2fvkT44fRZQgOLJDh) | [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Deserve You \(Dosem Remix\)](https://open.spotify.com/album/270K4MfImooj74n4SZygTs) | 4:30 |
 | 73 | [ATK](https://open.spotify.com/track/6bhqnnTOHVIGsQL47S3w4N) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 4:05 |
 | 74 | [Fireworks](https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:24 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 84 | [11\-11](https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [11\-11](https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4) | 4:07 |
 | 85 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MCwwOTFkZTc1YzU0MTUxNTc5NTFmN2EwNTI1ZDJhNGQ3Y2RhMTk5YTlm`
+Snapshot ID: `MCw0ZTg4ZDQyMzhmOWY4ZGI1ZDhjMjRkYTk2ZGIzNGUxNjMzNDhjNTAw`

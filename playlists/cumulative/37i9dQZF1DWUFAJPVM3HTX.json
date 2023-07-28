@@ -7870,7 +7870,7 @@
     {
       "album": {
         "name": "Sweet Nothings (Family Size)",
-        "url": "https://open.spotify.com/album/2IkQ6Yvhe05az5u1hHYEwX"
+        "url": "https://open.spotify.com/album/433zRT8LszdxyQBhFb0gVC"
       },
       "artists": [
         {
@@ -7881,6 +7881,24 @@
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169059,
+      "name": "Fair Game",
+      "url": "https://open.spotify.com/track/1jkT4CRgTwGUkusseQvl62"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothings (Family Size)",
+        "url": "https://open.spotify.com/album/2IkQ6Yvhe05az5u1hHYEwX"
+      },
+      "artists": [
+        {
+          "name": "Rapta",
+          "url": "https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
       "duration_ms": 189402,
       "name": "Fair Game",
       "url": "https://open.spotify.com/track/1bkodVKH7ElMJaBzYskJVh"

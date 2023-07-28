@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-425 songs - 23 hr 38 min
+426 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fireball](https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp), [Amare Symon​é](https://open.spotify.com/artist/5I2gIfxjl45cGxCZ8SwWw7), [Saint Lewis](https://open.spotify.com/artist/3qhlxMX0i4a9oVOx79NC9Y) | [Fireball](https://open.spotify.com/album/07Vdp0EpPAgcaQHLQogcmH) | 2:44 | 2021-12-15 | 2022-07-19 |
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2021-12-15 | 2022-11-20 |
 | [Flight 99](https://open.spotify.com/track/7iwn9FANtRltiafratcH07) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Flight 99](https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL) | 2:47 | 2022-11-09 | 2023-01-28 |
+| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
 | [Flowers](https://open.spotify.com/track/6g8tNqCUHQsRJhYcGajvh2) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Flowers](https://open.spotify.com/album/0CtyUf3Hf0KS0cwOMRWKAf) | 3:25 | 2021-12-15 | 2022-04-21 |
 | [Fool](https://open.spotify.com/track/79AYVbuDWxdzXK59VsvT86) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Fool](https://open.spotify.com/album/7uDKo6sEqA737fGIw7iK3C) | 3:05 | 2021-12-15 | 2022-04-21 |
 | [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-10-14 | 2023-04-29 |
@@ -214,7 +215,7 @@
 | [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2022-12-29 |
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 | 2023-03-11 |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
-| [Leave While I Love You](https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:35 | 2023-02-10 |  |
+| [Leave While I Love You](https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:35 | 2023-02-10 | 2023-07-28 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
 | [Let It Go](https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV) | 3:43 | 2022-10-19 | 2023-01-28 |
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |

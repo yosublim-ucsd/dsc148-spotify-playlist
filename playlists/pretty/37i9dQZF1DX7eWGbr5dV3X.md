@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,547 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,548 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 14 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 |
 | 15 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 16 | [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:19 |
-| 17 | [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 |
-| 18 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 |
+| 17 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 |
+| 18 | [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 |
 | 19 | [Rare](https://open.spotify.com/track/2pk0oogNirjDQeOlp41seB) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Rare](https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb) | 3:20 |
 | 20 | [I'm Not Afraid](https://open.spotify.com/track/5cZfED0afMx5GyoaE99126) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/1DU15BJPvPQxgFGtRMdLf2) | 3:41 |
 | 21 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 37 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
 | 38 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer C](https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 |
 | 39 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |
-| 40 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
+| 40 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
 | 41 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
-| 42 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
+| 42 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
 | 43 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 | 44 | [Safe](https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI) | 3:23 |
 | 45 | [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 |
 
-Snapshot ID: `MCwzODllNWFmMThjZmIxZDNjM2U3NzRlZGIwMzBhYWIxZDFlNDQ0ZmJl`
+Snapshot ID: `MCxlYmY0OGVlNGU0MTEzNGM0YjJkNmZjYjFkN2VkMWQ4ZDM2ZjdlOWZm`

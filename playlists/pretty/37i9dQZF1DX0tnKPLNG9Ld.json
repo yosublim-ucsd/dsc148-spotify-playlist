@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 66830,
+  "num_followers": 66934,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTU1Yjc4N2IzMTA0ZmE5OGQwODU2NmNhMTAxMmI3NWMwNzU2YTZk",
+  "snapshot_id": "MCxmNjBmZjM4NTA1M2NiNGY1ZjZjZDcwZmMzMTVkM2VjZGJlNzkxOGRm",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 176026,
       "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Swing Along With Me",
-        "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 151920,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Saga Jazz: Easy to Love (Modern Series)",
         "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 167853,
       "name": "Happy Little Sunbeam",
       "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Swing Along With Me",
+        "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 151920,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
     },
     {
       "added_at": "2023-06-21 08:03:15",

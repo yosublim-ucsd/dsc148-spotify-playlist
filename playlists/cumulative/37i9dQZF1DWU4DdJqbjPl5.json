@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=lWYQvAmoTiCg3s5VX84gJA\"> Nyashinski </a>",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=sYH-Jv0SSDeQl8GLBUd2oQ\"> Xenia Manasseh  </a> and <a href=\"https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=22eZiPH8QGCE4gtrdT8iyA\"> Karun  </a>",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -290,6 +290,28 @@
       "duration_ms": 190140,
       "name": "Anogo",
       "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
+    },
+    {
+      "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167355,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
     },
     {
       "album": {
@@ -791,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/3pD7Y7svoHpLchyLhRQpTm"
+      },
+      "artists": [
+        {
+          "name": "Bu$h",
+          "url": "https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3mUr3rVSJMJxceAjxjSx0v"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp"
       },
@@ -1040,7 +1084,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 177258,
       "name": "Confession",
       "url": "https://open.spotify.com/track/1CzqTS2qCVITtstCCYK34E"
@@ -2096,7 +2140,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 229894,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/7GtGplZ15uM6rGsG03bKYH"
@@ -2562,7 +2606,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
@@ -2602,6 +2646,24 @@
       "duration_ms": 176320,
       "name": "Jeje de Whine",
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
+    },
+    {
+      "album": {
+        "name": "Just The Start",
+        "url": "https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx"
+      },
+      "artists": [
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124776,
+      "name": "Just The Start",
+      "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
     },
     {
       "album": {
@@ -2977,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
+    },
+    {
+      "album": {
         "name": "Don't Look Down!",
         "url": "https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0"
       },
@@ -3040,6 +3124,28 @@
       "duration_ms": 240000,
       "name": "Lucky Now",
       "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
+    },
+    {
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199825,
+      "name": "Make It Easy (with Coco Jones)",
+      "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
     },
     {
       "album": {
@@ -3214,7 +3320,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -3926,7 +4032,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 220206,
       "name": "Raha",
       "url": "https://open.spotify.com/track/7uLsJ8BMEi78BNMUFJgsZq"
@@ -4067,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "1SRAEL",
+          "url": "https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
+    },
+    {
+      "album": {
         "name": "SAD TONIGHT",
         "url": "https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4"
       },
@@ -4175,6 +4303,28 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/436zW2YNa5hDrrtOSJwyJt"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221502,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
+    },
+    {
+      "album": {
         "name": "Secret Lover",
         "url": "https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1"
       },
@@ -4190,7 +4340,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 171765,
       "name": "Secret Lover",
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
@@ -4522,7 +4672,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 175792,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR"
@@ -4964,7 +5114,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
@@ -5178,6 +5328,24 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

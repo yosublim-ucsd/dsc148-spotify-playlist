@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-160 songs - 7 hr 59 min
+161 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 | 2022-09-15 | 2023-04-06 |
 | [Somebody Else](https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Somebody Else](https://open.spotify.com/album/2cJQqPgmFzcoCB8ENkHMVu) | 3:39 | 2022-09-29 | 2022-12-04 |
 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 | 2022-09-15 |  |
-| [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 |  |
+| [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 | 2023-07-28 |
 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 |  |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 |  |
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 |  |
@@ -164,6 +164,7 @@
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 |  |
 | [What You Do to Me](https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1) | 2:44 | 2022-12-21 | 2023-06-14 |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-05-24 |  |
+| [Who You](https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Who You](https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn) | 3:25 | 2023-07-27 |  |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |
 | [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 | 2023-04-09 |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 | 2023-03-23 |

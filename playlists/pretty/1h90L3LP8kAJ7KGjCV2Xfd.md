@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 ### [Happy Songs 🤩 Feel Good Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
-> happy \| vibes \| feel good \| music \| mood boost \| July 4th \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
+> happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 307,133 likes - 189 songs - 10 hr 46 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 307,122 likes - 189 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 188 | [Love Me In A Circle](https://open.spotify.com/track/153zeU0QKFzCSpM4Pa4P0C) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [Love Me](https://open.spotify.com/album/5MiVr7MxCJkScYykETbo6M) | 3:13 |
 | 189 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 |
 
-Snapshot ID: `MzUyMCxhN2U0NWUwNzVmNmM4MzA3YTRiODdiMDcyMDUzNDkyOGE4NGJkY2U1`
+Snapshot ID: `MzUyMSw2YTMxMDRkYTJjZTk5MDE0NThmYzkwNDI3NTBlYzYzNjM1YjM5ZTQ2`

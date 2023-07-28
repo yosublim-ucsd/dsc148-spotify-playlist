@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-165 songs - 8 hr 34 min
+166 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 | 2022-06-18 |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-04-21 |  |
 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-02-23 |  |
-| [Gangverment](https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Gangverment](https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg) | 2:06 | 2022-09-22 |  |
+| [Gangverment](https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Gangverment](https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg) | 2:06 | 2022-09-22 | 2023-07-28 |
 | [Genuine](https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/5cI5qKNAllqufhbyybTvC6) | [Genuine](https://open.spotify.com/album/3B7RxI6smax8IV9JJQS2SI) | 2:56 | 2022-01-27 |  |
 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 | 2022-10-22 |
 | [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 | 2022-09-09 |
@@ -77,6 +77,7 @@
 | [Kilimanjaro](https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Diamond in the Trenches](https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47) | 5:08 | 2022-02-04 |  |
 | [Kiroko](https://open.spotify.com/track/4uuQPGD1JHLTmUkjWEXRhH) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Fire](https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK) | 3:33 | 2021-10-15 | 2022-02-25 |
 | [Klabu](https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Klabu](https://open.spotify.com/album/6QP1Xlw0ufY3bsCmaMz8im) | 2:08 | 2021-10-29 | 2023-03-18 |
+| [Kumaiha](https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz) | [Jim Chuchu](https://open.spotify.com/artist/7h4BiS12xR6PcXn1V914hu) | [Kumaiha](https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9) | 3:08 | 2023-07-27 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-25 | 2023-04-16 |
 | [Less](https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [More / Less](https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g) | 1:25 | 2023-04-06 |  |
 | [Let Go](https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Let Go](https://open.spotify.com/album/2ts5wKcg6bvwzDutdpfFAj) | 2:57 | 2022-08-25 | 2023-04-16 |

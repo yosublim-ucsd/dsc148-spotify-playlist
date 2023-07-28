@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: The hosts of this year's <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards</a> , <a href=\"https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7\">Tasha Cobbs Leonard</a>  and <a href=\"https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a\">Jonathan McReynolds</a>",
-  "num_followers": 624885,
+  "num_followers": 624997,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mjk0YTY0NmY2NGI4OTVlNzc5NmRhYWIwMjU0ZmM1MGI5ZGUzOTMx",
+  "snapshot_id": "MCxjM2JiY2M2YWY0YTgzODMyNTJkNTM5NmEyMDQ0MmYyYjE0ZmUwMGFi",
   "tracks": [
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "Gotta Believe",
-        "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 170843,
-      "name": "Gotta Believe",
-      "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
         "name": "Dear Future Me",
         "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 276423,
       "name": "I Forgive Me",
       "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
+        "name": "Gotta Believe",
+        "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 170843,
+      "name": "Gotta Believe",
+      "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -1411,6 +1379,22 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
         "name": "WOW Gospel 2016",
         "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 242893,
       "name": "Already Getting Better",
       "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1463,22 +1479,6 @@
       "duration_ms": 228340,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
         }
       ],
-      "duration_ms": 230506,
-      "name": "You're Bigger (Radio Edit)",
-      "url": "https://open.spotify.com/track/6H81l4DgtgdEvfRGow3gI9"
+      "duration_ms": 269579,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
     }
   ],
   "unique_name": "Spread the Gospel",

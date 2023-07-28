@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: ID:Earth \(아이디얼스\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,027 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,065 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ALIENS](https://open.spotify.com/track/5uQROmYN9fdsVuiVhDlnBZ) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [ALIENS](https://open.spotify.com/album/7fhiSsoxNyCyfaNo1uItXe) | 3:38 |
 | 2 | [rose](https://open.spotify.com/track/3m7FV7LDinrStxrowAjaoD) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [rose](https://open.spotify.com/album/3WuQnXDwZLuvQq51IgqPYD) | 3:13 |
-| 3 | [AKA](https://open.spotify.com/track/2Vq1b1ygQom2fbHzJ4Xysb) | [Minshik](https://open.spotify.com/artist/2x6LaIxVmV4aNLNd849SG9), [Chin](https://open.spotify.com/artist/7KIY9MfXF8Pc4yFDCny6tZ), [Man1ac](https://open.spotify.com/artist/51Fb2DoqnEotzGUsymYtqU) | [AKA](https://open.spotify.com/album/5Ig2KdEfuu1bXOyDQM8EPf) | 2:42 |
+| 3 | [AKA](https://open.spotify.com/track/2Vq1b1ygQom2fbHzJ4Xysb) | [Minshik](https://open.spotify.com/artist/2x6LaIxVmV4aNLNd849SG9), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS) | [AKA](https://open.spotify.com/album/5Ig2KdEfuu1bXOyDQM8EPf) | 2:42 |
 | 4 | [Maybe](https://open.spotify.com/track/4hjpyVu9YFQwSupd1w4VPn) | [Kim Seheon](https://open.spotify.com/artist/1qrAdolEOljRODhp9rXq64) | [M.L.S](https://open.spotify.com/album/7tSJL98IR8mdDtSmYup9cx) | 3:28 |
 | 5 | [ONLY!](https://open.spotify.com/track/03XCYoNPHL8Ftgk4grJ5bV) | [DEUL](https://open.spotify.com/artist/2YmGeFB53OtlKStZWg05Hd) | [ONLY!](https://open.spotify.com/album/04PnUqwLIg9hAvtJn8Twvd) | 2:41 |
 | 6 | [B4N \(Bye For Now\)](https://open.spotify.com/track/0YzCPrOCZrVtStloUYxC9B) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [TEENS](https://open.spotify.com/album/2fIBmFkOU6Tt1Xs6JHuTGU) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [FEELING!](https://open.spotify.com/track/5bZTJrKo5s3Ph5vY4kf2fg) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [FEELING!](https://open.spotify.com/album/2zHI8axGj1wMB02EmDVKRI) | 2:48 |
 | 100 | [Per](https://open.spotify.com/track/1Kp9qkgGOB0nXrXdsW6w8o) | [ADYA](https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW) | [ADYA](https://open.spotify.com/album/399ty1ZZfuwQ5vbzFPCPmP) | 3:20 |
 
-Snapshot ID: `MCwzYzM1MjY0ZGRlYjY5ODI2OTZlNzQ5OTc2M2VjODU5MjE1ZmUxNGU1`
+Snapshot ID: `MCxiZGZjMTFmOGRjODBmOTdmNzY0NjNlZDYxMDc1NGRjMDNhYWYzM2Uy`

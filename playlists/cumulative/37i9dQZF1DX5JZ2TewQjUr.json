@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: WinWin \u694a\u5b89\u59ae",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Joya",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Baby If I Were An Android",
+        "url": "https://open.spotify.com/album/6cDptgXegkhuujPJ003bsf"
+      },
+      "artists": [
+        {
+          "name": "risy",
+          "url": "https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Baby If I Were An Android",
+      "url": "https://open.spotify.com/track/6T4M2QS50qXTwxCKucI9F5"
+    },
+    {
+      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
       },
@@ -613,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Blue Moon (feat. Yusuke Kobayashi from The Novembers)",
+        "url": "https://open.spotify.com/album/2S8636Q868GRrXEwdaIhSZ"
+      },
+      "artists": [
+        {
+          "name": "TYNT",
+          "url": "https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p"
+        },
+        {
+          "name": "Yusuke Kobayashi",
+          "url": "https://open.spotify.com/artist/6RmXHj7JiSCVZSvdsN5a10"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Blue Moon (feat. Yusuke Kobayashi from The Novembers)",
+      "url": "https://open.spotify.com/track/1j5ncONtcKhA2LPs6edqhL"
+    },
+    {
+      "album": {
         "name": "Blue Moon Day (feat. Ashi)",
         "url": "https://open.spotify.com/album/75lZIFMke0aE5SWjYOtziA"
       },
@@ -632,6 +672,24 @@
       "duration_ms": 237914,
       "name": "Blue Moon Day (feat. Ashi)",
       "url": "https://open.spotify.com/track/1rYE5DmMBfJd3TfXJw0cOI"
+    },
+    {
+      "album": {
+        "name": "Blue Skies Dreamin'",
+        "url": "https://open.spotify.com/album/04q79P8PiYlMsE3wYfASJt"
+      },
+      "artists": [
+        {
+          "name": "SpotlessMind",
+          "url": "https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Blue Skies Dreamin'",
+      "url": "https://open.spotify.com/track/68DNB2bxp7niPYQCzfBj7n"
     },
     {
       "album": {
@@ -4883,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "passer-by",
+        "url": "https://open.spotify.com/album/4bOUhtPOQhcg27k8brc6gi"
+      },
+      "artists": [
+        {
+          "name": "Zuk1",
+          "url": "https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123045,
+      "name": "passer-by",
+      "url": "https://open.spotify.com/track/50oewNmbKYbV4vvPmYghEK"
+    },
+    {
+      "album": {
         "name": "Pastries",
         "url": "https://open.spotify.com/album/19dAFsG3fN6iitlCpxoFA5"
       },
@@ -6148,6 +6224,24 @@
       "duration_ms": 217111,
       "name": "Sweetest Bubble Love",
       "url": "https://open.spotify.com/track/1leFRbTWjH5neWNUuOSdc3"
+    },
+    {
+      "album": {
+        "name": "Swimming Upwards",
+        "url": "https://open.spotify.com/album/3QgNI7ReRsnFzvBGCVw14h"
+      },
+      "artists": [
+        {
+          "name": "Norvik",
+          "url": "https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Swimming Upwards",
+      "url": "https://open.spotify.com/track/7ElIakirHUE5ZtSbkTf7g7"
     },
     {
       "album": {
@@ -8771,6 +8865,46 @@
     },
     {
       "album": {
+        "name": "\u597d\u591a\u597d\u60f3\u505a\u7684\u4e8b\u3002",
+        "url": "https://open.spotify.com/album/55wtjmn58CZzWYl2ef7jcB"
+      },
+      "artists": [
+        {
+          "name": "NTopic",
+          "url": "https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "\u597d\u591a\u597d\u60f3\u505a\u7684\u4e8b\u3002",
+      "url": "https://open.spotify.com/track/2DO05euwuzwmZ2wBUoPWYu"
+    },
+    {
+      "album": {
+        "name": "\u59b3\u597d\u975a (feat. RebelMan)",
+        "url": "https://open.spotify.com/album/73wlAgPUdpbBDdd2CdprSh"
+      },
+      "artists": [
+        {
+          "name": "J-Hoon",
+          "url": "https://open.spotify.com/artist/6A1r1biex5FKhLL1Hu3Kao"
+        },
+        {
+          "name": "RebelMan",
+          "url": "https://open.spotify.com/artist/2kCaXiiwA6oRGqa5dqlXYp"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193544,
+      "name": "\u59b3\u597d\u975a (feat. RebelMan)",
+      "url": "https://open.spotify.com/track/0QPl6JsMOYKa61ThXXrzrW"
+    },
+    {
+      "album": {
         "name": "\u5b88",
         "url": "https://open.spotify.com/album/5VO0nVaONkT3qsI1hougBX"
       },
@@ -8808,6 +8942,28 @@
       "duration_ms": 168337,
       "name": "\u5b8c\u7f8e\u5d29\u58de",
       "url": "https://open.spotify.com/track/5WflHLCFUifKpKF5mMxCY2"
+    },
+    {
+      "album": {
+        "name": "\u5bc2\u5bde\u6642\u5206 Think About U",
+        "url": "https://open.spotify.com/album/39vKvGetVVc9UspXsvQXIj"
+      },
+      "artists": [
+        {
+          "name": "Daviouxx",
+          "url": "https://open.spotify.com/artist/5eBm6xxkstcecWsTyT2A14"
+        },
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "\u5bc2\u5bde\u6642\u5206 Think About U",
+      "url": "https://open.spotify.com/track/38rCWwDEMhtnRAsnlZx1Cf"
     },
     {
       "album": {
@@ -10168,6 +10324,24 @@
       "duration_ms": 161515,
       "name": "\u6d3e\u5c0d\u52d5\u7269",
       "url": "https://open.spotify.com/track/2xspUoodDwx880AIrjYgtP"
+    },
+    {
+      "album": {
+        "name": "\u6d41\u901d",
+        "url": "https://open.spotify.com/album/6VwHHTX2HEtpweIJ4bGw7R"
+      },
+      "artists": [
+        {
+          "name": "\u5be7\u82b1\u6708",
+          "url": "https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331428,
+      "name": "\u6d41\u901d",
+      "url": "https://open.spotify.com/track/5qi16YhAfALFLd98lvFvAG"
     },
     {
       "album": {

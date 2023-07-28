@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-315 songs - 14 hr 40 min
+316 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [CICERENELLA](https://open.spotify.com/track/5YPPaiETBWl0uh22INkt56) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 5:22 | 2022-06-10 | 2022-07-29 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2022-06-03 | 2022-06-10 |
-| [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-01-13 |  |
+| [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-01-13 | 2023-07-28 |
 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 | 2022-12-16 | 2023-07-13 |
 | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U) | 2:29 | 2022-05-06 | 2022-07-29 |
 | [Condorello](https://open.spotify.com/track/7C8vwVTV1tsK6HZjoUelaz) | [Pippo Sowlo](https://open.spotify.com/artist/3v9LE0hCyNihlWKS5ymtCT), [Mortecattiva](https://open.spotify.com/artist/37XQV0SgKeKyOxKO0FxLds), [Christian De Seeker](https://open.spotify.com/artist/4lN320IDljNQRUiRpnMbJ2) | [Condorello](https://open.spotify.com/album/7edY9tRSgJwXkmSBfkAMm5) | 4:11 | 2022-05-06 | 2022-07-20 |
@@ -112,6 +112,7 @@
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-12-20 | 2023-06-06 |
 | [FUNERAL PARTY \(feat\. Cosmo & Pop X\)](https://open.spotify.com/track/1eMfykfketml0h2jCPTGwI) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Fuoco](https://open.spotify.com/track/34iXenJePvLb56eAY9yVY4) | [PIOVE.](https://open.spotify.com/artist/2lEDOYvkfzfdfSXeYZKwhi) | [Fuoco](https://open.spotify.com/album/31Z206MRP8gdjbWDR2DGFy) | 2:32 | 2022-05-27 | 2022-05-29 |
+| [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 | 2023-07-13 |  |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-10-28 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-06 | 2022-07-29 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-07-22 | 2022-11-08 |

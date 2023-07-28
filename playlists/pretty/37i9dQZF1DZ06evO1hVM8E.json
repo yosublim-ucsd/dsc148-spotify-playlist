@@ -1,15 +1,15 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 35049,
+  "num_followers": 35078,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzI5ODEsMDAwMDAwMDA3OGI4ZDUwNzFlZTQ0MDkyZTQzZGU5YzJiYjQ5MjRmMw==",
+  "snapshot_id": "MjgxNzQzNzksMDAwMDAwMDBlYTcxNzZmODMzODJmZDc5NWVmMmE2YzlhMWVlYmUxMw==",
   "tracks": [
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "De Aqu\u00ed Pal Real",
         "url": "https://open.spotify.com/album/6XUS7DX5FZD6gGN2uaCdVk"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4GuQY57gbi7DEgc2AJoyBh"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Derecho De Antiguedad",
         "url": "https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4zDzGZIdKG1PdvguOGET8D"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "40 A\u00f1os, Pese A Quien Pese",
         "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Medio Siglo",
         "url": "https://open.spotify.com/album/5DWuNwCOHBE61d2owmCv1R"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2hConPP7C5qyOG069xQVKo"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "Soy Tu Maestro",
-        "url": "https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/31DmTztbIIsv6wSE93S4fZ"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "Soy Tu Maestro",
+        "url": "https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Derecho De Antig\u00fcedad",
         "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/3JOxS04XfwGxJpyKwVeWrx"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
         "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/5UnH0S2TSLUy8WyqgJXOQ3"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "Mi Destino Es Ser Borracho",
-        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 199552,
-      "name": "Mi Destino Es Ser Borracho",
-      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
@@ -221,7 +205,23 @@
       "url": "https://open.spotify.com/track/7dPxocEuvcOA0YC7woHPvu"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "Mi Destino Es Ser Borracho",
+        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 199552,
+      "name": "Mi Destino Es Ser Borracho",
+      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Dos Gotas De Agua",
         "url": "https://open.spotify.com/album/7yEy8rEkjEDUjb8xUHLt59"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Derecho De Antig\u00fcedad",
         "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/3IFOYkQOCSegN7A5fsfvyG"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
         "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6nGvtRw8Upm5L0tMtPcjGz"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
@@ -357,39 +357,7 @@
       "url": "https://open.spotify.com/track/330607uBEh09fIWqWfZFBf"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "Te Aprovechas",
-        "url": "https://open.spotify.com/album/2UoPJJmTnHiMw1L1XM9bzL"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 182594,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2yZ2icFApg5sM4NG63a1RR"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 191961,
-      "name": "El Rengo del Gallo Giro",
-      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "25 Corridos Explosivos",
         "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
@@ -405,7 +373,39 @@
       "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "Te Aprovechas",
+        "url": "https://open.spotify.com/album/2UoPJJmTnHiMw1L1XM9bzL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 182594,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2yZ2icFApg5sM4NG63a1RR"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Lo Nuevo y Lo Mejor",
         "url": "https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Nuestra Colecci\u00f3n de Oro",
         "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Bendito Destino",
         "url": "https://open.spotify.com/album/1qTfZSwtJ0U8kLDUGSvCuH"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/61dvkuoxkU2jmWZChXcKp5"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Me Lo Contaron Ayer",
         "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Merengue y Sentimiento",
         "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/3Fkxdlxm9VJ2gA4tiZOYn5"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
@@ -569,23 +569,7 @@
       "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "El Presente Es Lo Que Cuenta",
-        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 186547,
-      "name": "Me Pongo En Tu Lugar",
-      "url": "https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Nuestra Colecci\u00f3n de Oro",
         "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
@@ -601,7 +585,23 @@
       "url": "https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 186547,
+      "name": "Me Pongo En Tu Lugar",
+      "url": "https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Me Lo Contaron Ayer",
         "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "El Pobre M\u00e1s Rico",
         "url": "https://open.spotify.com/album/5tygqHF9BjHXy6GaSY5k0W"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/2pzhTUKlKIQRVW6KwfbI7P"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
@@ -689,7 +689,23 @@
       "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Pa'que Me Sirve la Vida",
+      "url": "https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt"
+    },
+    {
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
@@ -709,23 +725,7 @@
       "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
-      "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Pa'que Me Sirve la Vida",
-      "url": "https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt"
-    },
-    {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Me Esta Doliendo el Alma",
         "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
         "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Derecho De Antig\u00fcedad",
         "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
     },
     {
-      "added_at": "2023-07-26 13:41:46",
+      "added_at": "2023-07-27 12:59:37",
       "album": {
         "name": "Tributo a",
         "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"

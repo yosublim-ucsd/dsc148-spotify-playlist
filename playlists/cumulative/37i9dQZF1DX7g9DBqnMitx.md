@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-156 songs - 9 hr 4 min
+157 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Climbing up "Iknimaya \- The Path to Heaven"](https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:18 | 2022-09-07 | 2023-02-25 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-09-07 | 2023-02-25 |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2022-09-07 |  |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-27 |  |
 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 | 2022-12-28 |  |
 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 | 2022-09-07 | 2023-01-29 |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2023-02-24 |  |
@@ -120,7 +121,7 @@
 | [Renaissance \(Main Title Theme\) \- from "The White Lotus: Season 2"](https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:38 | 2022-12-28 | 2023-02-25 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-09-07 | 2023-02-25 |
 | [Salamander Eyes](https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:38 | 2022-09-07 | 2023-02-25 |
-| [Sans toi](https://open.spotify.com/track/6Ub63208eZVnT6UPQm4fGH) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy), [Corinne Marchand](https://open.spotify.com/artist/04upRmddDK0nZH0Xot3Lwe) | [Cléo de 5 à 7 \(Bande originale du film\)](https://open.spotify.com/album/3HYxMZ7wzK28cXs33qnYiP) | 2:14 | 2023-02-24 |  |
+| [Sans toi](https://open.spotify.com/track/6Ub63208eZVnT6UPQm4fGH) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy), [Corinne Marchand](https://open.spotify.com/artist/04upRmddDK0nZH0Xot3Lwe) | [Cléo de 5 à 7 \(Bande originale du film\)](https://open.spotify.com/album/3HYxMZ7wzK28cXs33qnYiP) | 2:14 | 2023-02-24 | 2023-07-28 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-09-07 |  |
 | [Sign of the Times \- Stripped](https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0) | [Steve Horner](https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:39 | 2022-09-07 | 2023-02-25 |
 | [Singin' in the Rain \- Original Soudtrack from ''Clockwork Orange''](https://open.spotify.com/track/5uWCgckWjHVqsfgp4dTpyF) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Singin'in the Rain \(Original Soudtrack from ''Clockwork Orange''\)](https://open.spotify.com/album/2OHAaduh0bpLwlzpSrQgEc) | 2:45 | 2023-02-24 |  |

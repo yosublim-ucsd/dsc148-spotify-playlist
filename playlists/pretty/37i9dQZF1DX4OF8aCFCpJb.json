@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67551,
+  "num_followers": 67557,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGEyZmY1ZTIzMmM3NjNiMGQ5OTJjNGNhN2E1Njk2ODYwZmRjN2Y5",
+  "snapshot_id": "MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Hei Sommer",
-        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
-      },
-      "artists": [
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Hei Sommer",
-      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Blacka Rasta",
         "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 198805,
       "name": "Som Bob Marley",
       "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Hei Sommer",
+        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
+      },
+      "artists": [
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Hei Sommer",
+      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "V\u00e5r betong",
+        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "V\u00e5r betong",
+      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
         "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "H\u00f6g standard",
-        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
-      },
-      "artists": [
-        {
-          "name": "Peps Blodsband",
-          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "H\u00f6g standard",
-      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Under samma himmel",
         "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 253977,
       "name": "Under samma himmel",
       "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "H\u00f6g standard",
+        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
+      },
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "H\u00f6g standard",
+      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "V\u00e5r betong",
-        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
       "artists": [
         {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 224466,
-      "name": "V\u00e5r betong",
-      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-07-13 22:00:00",

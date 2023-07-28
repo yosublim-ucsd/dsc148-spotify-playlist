@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: WATAN\-U\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: The Publish\. Artwork: Isu Kim
 
-624 songs - 1 day 15 hr 46 min
+626 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 | 2022-09-29 | 2023-03-18 |
 | [Hanashi\-Shiyo はなししよ\~คุยกันไหม\~](https://open.spotify.com/track/0lk2yt5sLbwBpO6Y24bZOl) | [RyotaMoisture](https://open.spotify.com/artist/0Md4MN8unpQas5uBlFgDOI), [James Anthony](https://open.spotify.com/artist/7w0S6Xu7zFylM7B2VxnGsR) | [Hanashi\-Shiyo はなししよ\~คุยกันไหม\~](https://open.spotify.com/album/0gxqxeFxnIjgHHRaifWqnR) | 3:07 | 2023-01-20 | 2023-01-28 |
 | [Harmonize](https://open.spotify.com/track/2SvHgosNZT5gyzoys8JIoH) | [TRIADS](https://open.spotify.com/artist/2x92KcfQiA9I9Zs9nwsn4Q) | [Harmonize](https://open.spotify.com/album/1aWlmzY5PTKDUY85yNDs5z) | 3:29 | 2023-06-23 | 2023-07-01 |
-| [Heart Space \(11:59 PM\)](https://open.spotify.com/track/1iMgRrqqgx1S6dkUZrMenh) | [Cloud Behind](https://open.spotify.com/artist/2w7ZO8NKvma45y9mTO3zLN) | [Heart Space \(11:59 PM\)](https://open.spotify.com/album/3OIKwcvifpqdTYrZrVdiNk) | 4:33 | 2023-06-16 |  |
+| [Heart Space \(11:59 PM\)](https://open.spotify.com/track/1iMgRrqqgx1S6dkUZrMenh) | [Cloud Behind](https://open.spotify.com/artist/2w7ZO8NKvma45y9mTO3zLN) | [Heart Space \(11:59 PM\)](https://open.spotify.com/album/3OIKwcvifpqdTYrZrVdiNk) | 4:33 | 2023-06-16 | 2023-07-28 |
 | [hers](https://open.spotify.com/track/01LYTtl8IoYuMgtjaVkYwY) | [Vels.](https://open.spotify.com/artist/0rhpXgJP8cHMzjA20ZTvVg) | [hers](https://open.spotify.com/album/40pmyjUXrzaxED7rr1OhJt) | 4:48 | 2023-04-28 | 2023-05-06 |
+| [HEY](https://open.spotify.com/track/5RwEB3YnudzJAHwLmDSatm) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [HEY](https://open.spotify.com/album/3xFyBHneZ61VoEha2ZcWuF) | 4:33 | 2023-07-27 |  |
 | [Hey เพื่อนกัน](https://open.spotify.com/track/76A3T4dFe5oEaWLpnmlgoT) | [แมวเศษเล็บ](https://open.spotify.com/artist/15hIzqbPRKZqUM8VF4tWU3) | [Hey เพื่อนกัน](https://open.spotify.com/album/4cMjayFiUsdvyrBf1DTqgN) | 3:17 | 2023-02-24 | 2023-03-04 |
 | [Hide](https://open.spotify.com/track/0ybrArSpriPb1gYcwB1mmc) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Hide](https://open.spotify.com/album/1jCeN8G9GqxgCOwMcYC4Aj) | 3:27 | 2022-09-15 | 2022-10-08 |
 | [HIGH SCORE \(แต้มบุญ\)](https://open.spotify.com/track/2GLGtpSAFswpuwPK8ULlJX) | [PENNY](https://open.spotify.com/artist/6mSWVj4UUz57gPQsTN426N) | [HIGH SCORE \(แต้มบุญ\)](https://open.spotify.com/album/42oQIPoSuOKsh7wOESus6W) | 3:14 | 2023-04-06 | 2023-06-03 |
@@ -269,7 +270,7 @@
 | [ดอกไม้ราตรี](https://open.spotify.com/track/4bt6zuzLu2JhZxiLFtwsaD) | [Linda Vinta](https://open.spotify.com/artist/642qwqJRLxhuEIFgQsbbwy) | [ดอกไม้ราตรี](https://open.spotify.com/album/1t7XGgloVaGWbsAlNbTotl) | 3:36 | 2023-04-21 | 2023-05-06 |
 | [ดับเบิ้ลชีสเบอร์เกอร์](https://open.spotify.com/track/7iPTFEhyOdWk83ruRGuy7U) | [PUENYAI](https://open.spotify.com/artist/3chg9l9ELbOaldwRtfTKio) | [ดับเบิ้ลชีสเบอร์เกอร์](https://open.spotify.com/album/5ZQAp9WAuj3xQKNHx3l7AA) | 3:54 | 2023-02-10 | 2023-02-18 |
 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-03-17 | 2023-04-01 |
-| [ดาวดวงสุดท้าย \(LastStory\) feat\. LAWIN](https://open.spotify.com/track/31jFfXwOs02XLVIfiqRk2p) | [THE HALF MOONs](https://open.spotify.com/artist/2eR1B1z491xHFXpw5hN4tx) | [ดาวดวงสุดท้าย \(LastStory\) feat\. LAWIN](https://open.spotify.com/album/0LIYWLjegTLAlB1WmkCd9A) | 4:15 | 2023-06-02 |  |
+| [ดาวดวงสุดท้าย \(LastStory\) feat\. LAWIN](https://open.spotify.com/track/31jFfXwOs02XLVIfiqRk2p) | [THE HALF MOONs](https://open.spotify.com/artist/2eR1B1z491xHFXpw5hN4tx) | [ดาวดวงสุดท้าย \(LastStory\) feat\. LAWIN](https://open.spotify.com/album/0LIYWLjegTLAlB1WmkCd9A) | 4:15 | 2023-06-02 | 2023-07-28 |
 | [ดาวที่ถูกลืม \(Star\)](https://open.spotify.com/track/6urPFv9cHS42eQQE8cigir) | [Sense & Cold](https://open.spotify.com/artist/7x25mmHajFFYu7kA8sVVPw) | [ดาวที่ถูกลืม \(Star\)](https://open.spotify.com/album/0Bhn9CuFbXMSVMayuyGNeC) | 5:11 | 2022-12-16 | 2023-04-22 |
 | [ดาวอังคาร](https://open.spotify.com/track/7AZWZ4R7wkFVKqEagzljoT) | [Venus](https://open.spotify.com/artist/4feYmlX06VRoQRWxejDiwT) | [ดาวอังคาร](https://open.spotify.com/album/1RPwPiZ2YmUXU3CsHWesre) | 3:10 | 2022-11-18 | 2022-11-26 |
 | [ดาวเศร้า](https://open.spotify.com/track/6kgyuSbolOmojQJX9IlWxw) | [Owlet](https://open.spotify.com/artist/6ZbW6kb4lV2Jb4q2NAm8Eo) | [ดาวเศร้า](https://open.spotify.com/album/6U6MlkluErGzWCgDlfssYa) | 4:15 | 2023-02-17 | 2023-03-11 |
@@ -343,6 +344,7 @@
 | [ฝังใจ](https://open.spotify.com/track/3yySZ2pd0wWkw9ktaJH8A0) | [PINGx](https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh) | [ฝังใจ](https://open.spotify.com/album/0tTmHlb7SdcGel4RFRqzCJ) | 3:48 | 2022-09-23 | 2022-09-30 |
 | [ฝันกลางวัน](https://open.spotify.com/track/7nRuOKoNmkEFJv6NEMHiwq) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh), [1 NICE](https://open.spotify.com/artist/6X6URzPQwR6Emsi2FK2cyY) | [ฝันกลางวัน](https://open.spotify.com/album/7o2OSUOknl2jSwUKfPN1mM) | 3:10 | 2022-12-23 | 2023-01-21 |
 | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/track/5DnhH2JCCCajA2TIGA6mjK) | [Pleng Panisara](https://open.spotify.com/artist/6D2uyheaWIGxPsdhMe35GQ) | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/album/0lnjp5dqMJmLSjvrImzCcU) | 3:55 | 2022-12-08 | 2023-03-25 |
+| [ฝันไป](https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h) | [Vitamin D from The Sun](https://open.spotify.com/artist/5zngLj3BO0BHiyuXaPEQYJ) | [ฝันไป](https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs) | 5:25 | 2023-07-27 |  |
 | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/track/6ZfGZgRclrAA5phSGWNKeN) | [ตังเกอาม่า](https://open.spotify.com/artist/3N96BE6i0aYpnJp3WIqUuy) | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/album/6oHSWlgZ5aG6wPZU5v5tFk) | 4:49 | 2022-09-29 | 2022-11-26 |
 | [พรครับ \(Blessed\)](https://open.spotify.com/track/1OMo7mcEafetzBfpdFaN4X) | [BayBay](https://open.spotify.com/artist/4oYIejeOPxlCqVAbAGyUwp) | [พรครับ \(Blessed\)](https://open.spotify.com/album/1DlYofk2jnmOw1yqPspOJe) | 3:19 | 2022-09-15 | 2022-09-24 |
 | [พลั้งพลาด](https://open.spotify.com/track/1eTM2bGEnwHj2UBIBatIny) | [Midnight Cereal](https://open.spotify.com/artist/1J6kNyCyFES2YCyXHVkxME) | [พลั้งพลาด](https://open.spotify.com/album/6kQpQuYce2JIod9ImNnaPR) | 4:11 | 2023-02-10 | 2023-02-18 |

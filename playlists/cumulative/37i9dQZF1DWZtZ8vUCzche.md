@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-335 songs - 1 day 3 hr 39 min
+336 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 | 2021-10-15 |  |
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2021-10-15 |  |
 | [Riverman](https://open.spotify.com/track/4FhxhKPNYSC7NycSWi5ryU) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Nigel Kennedy Quintet](https://open.spotify.com/artist/2pNV705lhIT85wtwdya513) | [Shhh!](https://open.spotify.com/album/5LB9oJFc1zQnyyQt4sKuh1) | 4:58 | 2023-04-24 |  |
-| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2023-06-07 |  |
+| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2023-06-07 | 2023-07-28 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-10-15 |  |
 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 | 2023-01-19 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-10-15 | 2023-02-02 |
@@ -278,6 +278,7 @@
 | [Stolen Car](https://open.spotify.com/track/4QFO5fgejhz2tu8ZmlDjzw) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Central Reservation](https://open.spotify.com/album/3yIFysHpeQKb1dAuHQICVW) | 5:25 | 2021-10-15 | 2022-07-29 |
 | [Stolen Car](https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Central Reservation](https://open.spotify.com/album/6lijTrmA0yAucg4Axbj1up) | 5:25 | 2022-10-14 | 2022-11-13 |
 | [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 | 2022-07-12 |  |
+| [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 | 2023-07-13 |  |
 | [Such Great Heights](https://open.spotify.com/track/36Ae28qcIcoV3940YBBSxX) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Such Great Heights](https://open.spotify.com/album/0bskBaoSjjUmm8cPNphQcp) | 4:27 | 2021-10-15 | 2022-07-29 |
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 | 2022-07-20 |  |
 | [Suda](https://open.spotify.com/track/0xKXfY1qtqnVAM9JWmqHLM) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Grow](https://open.spotify.com/album/35qo348k014R2DO3vJXj2q) | 3:02 | 2023-01-19 |  |

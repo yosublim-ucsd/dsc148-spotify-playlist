@@ -441,7 +441,7 @@
       "artists": [
         {
           "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/4p8af17Jj8CP0pCZdTixkB"
+          "url": "https://open.spotify.com/artist/355rOJoYm2XkLj5iAHSWAv"
         }
       ],
       "date_added": "2022-01-28",
@@ -1322,6 +1322,24 @@
       "duration_ms": 192760,
       "name": "Eres para M\u00ed (with Anita Tijoux)",
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
+    },
+    {
+      "album": {
+        "name": "Es Clara",
+        "url": "https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227554,
+      "name": "Es Clara",
+      "url": "https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu"
     },
     {
       "album": {
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 225104,
       "name": "Para\u00edso Lunar",
       "url": "https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj"

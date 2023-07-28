@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 24901,
+  "num_followers": 25031,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl",
+  "snapshot_id": "MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -227,22 +227,38 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+        "name": "Adem\u00e1s de M\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         },
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
+      "duration_ms": 330040,
+      "name": "Adem\u00e1s de M\u00ed - Remix",
+      "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -279,38 +295,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Adem\u00e1s de M\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 330040,
-      "name": "Adem\u00e1s de M\u00ed - Remix",
-      "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 208788,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 185196,
       "name": "Si No Fue Asi",
       "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 208788,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Trend",
         "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 233146,
       "name": "Ella busca",
       "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
     },
     {
       "added_at": "2022-12-09 03:00:00",

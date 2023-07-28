@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-883 songs - 2 day 6 hr 33 min
+884 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-04-19 |
 | [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 | 2023-04-20 | 2023-06-07 |
+| [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 |  |
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-01-12 | 2023-04-05 |
 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 | 2023-07-14 | 2023-07-26 |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/3h17LvrGeu5QGVd1wC6lGX) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/4wiMHuITVjOFHhJPS7vtFv) | 3:38 | 2022-11-22 | 2022-12-07 |
@@ -806,7 +807,7 @@
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 | 2022-06-24 |
 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 | 2023-07-04 |  |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 | 2023-07-07 |
-| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 |  |
+| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 | 2023-07-28 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-01-31 | 2023-02-24 |
 | [安心と慢心](https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [安心と慢心](https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6) | 4:54 | 2023-07-11 | 2023-07-19 |
 | [宝船](https://open.spotify.com/track/7kJ8JbfuFYKF1IUiyWUsvp) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [宝船](https://open.spotify.com/album/7o8SgwRmF7fLqKWyMDuSqK) | 4:33 | 2023-07-20 | 2023-07-26 |

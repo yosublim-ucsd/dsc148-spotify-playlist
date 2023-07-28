@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-195 songs - 10 hr 44 min
+196 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2022-03-24 |  |
 | [Basics](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:56 | 2022-08-26 |  |
 | [BDZ](https://open.spotify.com/track/6ceKChoZYLdw24Ph1CDFUJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:17 | 2022-03-24 |  |
+| [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-27 |  |
 | [BEHIND THE MASK](https://open.spotify.com/track/07CYRI5dwRevOhthkHU58X) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:38 | 2022-03-24 | 2022-07-29 |
 | [BEHIND THE MASK](https://open.spotify.com/track/7mBgzdwjJzfnUJtHrRXuCA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:38 | 2022-07-19 |  |
 | [BELIEVER](https://open.spotify.com/track/2u7G5kXP6Vi9A55U1N6Gc3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:16 | 2022-03-24 | 2022-07-29 |

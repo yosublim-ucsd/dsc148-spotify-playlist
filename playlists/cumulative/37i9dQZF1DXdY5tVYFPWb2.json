@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 302721,
       "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 313561,
       "name": "Falling",
       "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -6606,6 +6606,24 @@
       "duration_ms": 243936,
       "name": "SUI SUI",
       "url": "https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU"
+    },
+    {
+      "album": {
+        "name": "SUMMER",
+        "url": "https://open.spotify.com/album/2SS9n05pnmeYtLuidzHtsZ"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30aa\u30f3\u306b\u604b\u3057\u3066",
+          "url": "https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260522,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/1m9dVuVpVetLYAKv2JBAND"
     },
     {
       "album": {

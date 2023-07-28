@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/6kfBbwPaccFAcsEEKTum9O"
+      },
+      "artists": [
+        {
+          "name": "Alex Mueller",
+          "url": "https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/7LT6ZkZ1cji0dWV7IBym2F"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -2676,6 +2694,24 @@
       "duration_ms": 215644,
       "name": "River",
       "url": "https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ"
+    },
+    {
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178777,
+      "name": "ROOTS",
+      "url": "https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX"
     },
     {
       "album": {

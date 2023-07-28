@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 146431,
+  "num_followers": 146490,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzIyOWY1MTRiZmE2ZmUwOTk4OTJkMWVjOTgxYjBjOWFmN2JhYTJi",
+  "snapshot_id": "MCxiNjA4ZWJmNTZmZTUwM2I4NTZhYzc2ZGMxYWJjNTA5ZWY5NjhhZTli",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
         }
       ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+      "duration_ms": 271466,
+      "name": "Apollo's Mood",
+      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -455,6 +439,22 @@
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Shannon In Nashville",
         "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 163280,
       "name": "Goodbye Summer",
       "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Banshee",
-        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 253316,
-      "name": "That's Why",
-      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "My Morning Jacket",
         "url": "https://open.spotify.com/album/3KKJu9Fa8rKsY7UlfxecRR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/01eqfDvkAeItZ8NJNc6f6v"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Banshee",
+        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
+      },
+      "artists": [
+        {
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
+        }
+      ],
+      "duration_ms": 253316,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
-        }
-      ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Sneaker Waves",
         "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
     },
     {
       "added_at": "2023-05-12 04:00:00",

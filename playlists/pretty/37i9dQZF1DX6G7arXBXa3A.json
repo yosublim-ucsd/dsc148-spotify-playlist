@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 386347,
+  "num_followers": 386398,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2I4MzM4Yzg5ZTJkMzRlNWYxZWJiODkyMzI0NDhiZDdjZTQzOTBm",
+  "snapshot_id": "MCwxZDRkNzgxOGQ4YmRjYTQ5ODQxYjBhZDY1MWZlNTJjMTEwNzQwMDc1",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
-      },
-      "artists": [
-        {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Sinatra 80th: All The Best",
         "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 131426,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Hi De Ho Man",
-        "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
-      },
-      "artists": [
-        {
-          "name": "Cab Calloway",
-          "url": "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Everybody Eats When They Come To My House",
-      "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Hi De Ho Man",
+        "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
+      },
+      "artists": [
+        {
+          "name": "Cab Calloway",
+          "url": "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Everybody Eats When They Come To My House",
+      "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Jumpin' Jive (Remastered 1999)",
+        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Jack, You're Dead!",
+      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Rumble Jam - Big Band and Jazz Themes",
@@ -611,22 +627,6 @@
       "duration_ms": 148166,
       "name": "The Night Is Ours",
       "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Jumpin' Jive (Remastered 1999)",
-        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Jack, You're Dead!",
-      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Roar Of '74",
-        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Nuttville",
-      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "More Smiles",
         "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 254413,
       "name": "Lullaby of the Leaves",
       "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Roar Of '74",
+        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Nuttville",
+      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Present Perfect",
-        "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
-      },
-      "artists": [
-        {
-          "name": "Rob McConnell",
-          "url": "https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr"
-        },
-        {
-          "name": "The Boss Brass",
-          "url": "https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT"
-        }
-      ],
-      "duration_ms": 582509,
-      "name": "The Waltz I Blew for You",
-      "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Inspiration (A Tribute To Nat King Cole)",
         "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
       },
@@ -815,6 +795,22 @@
       "duration_ms": 162080,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Boss Brass And Woods",
+        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
+      },
+      "artists": [
+        {
+          "name": "Rob McConnell & The Boss Brass With Phil Woods",
+          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
+        }
+      ],
+      "duration_ms": 461934,
+      "name": "Greenhouse",
+      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -835,18 +831,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Boss Brass And Woods",
-        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
+        "name": "Present Perfect",
+        "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
       },
       "artists": [
         {
-          "name": "Rob McConnell & The Boss Brass With Phil Woods",
-          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
+          "name": "Rob McConnell",
+          "url": "https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr"
+        },
+        {
+          "name": "The Boss Brass",
+          "url": "https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT"
         }
       ],
-      "duration_ms": 461934,
-      "name": "Greenhouse",
-      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+      "duration_ms": 582509,
+      "name": "The Waltz I Blew for You",
+      "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
     },
     {
       "added_at": "2022-07-22 04:02:00",

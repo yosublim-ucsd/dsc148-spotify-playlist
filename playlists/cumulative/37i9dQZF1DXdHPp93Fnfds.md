@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-518 songs - 1 day 5 hr 42 min
+519 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Agua](https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [La Loba](https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR) | 3:06 | 2022-01-21 | 2022-07-26 |
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-05-06 | 2023-07-15 |
 | [Aire](https://open.spotify.com/track/0G4PDFHuz6aqu0V86r16Lj) | [Vera de Venus](https://open.spotify.com/artist/5lR5pky9TFKe1hHGf6VFjD), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Visceral](https://open.spotify.com/album/4sCoPWal6Oyfz3kGG6bUPG) | 3:20 | 2022-03-18 | 2022-07-23 |
-| [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2022-01-21 |  |
+| [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2022-01-21 | 2023-07-28 |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-03 | 2023-04-07 |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Algo de Mi Canción](https://open.spotify.com/track/0aS0PniXL2T1lGOALsrWRh) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Algo de Mi Canción](https://open.spotify.com/album/5tuHB7wXoQGjeCokaSfyil) | 3:53 | 2022-03-18 | 2022-06-29 |
@@ -336,6 +336,7 @@
 | [Nunca haría lo que me hiciste](https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Nunca haría lo que me hiciste](https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p) | 3:11 | 2022-12-16 | 2023-02-03 |
 | [NUNCA PUDIMOS](https://open.spotify.com/track/5KyTt6vJU0yh8R8Q46e4TB) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [NUNCA PUDIMOS](https://open.spotify.com/album/0hyPn8QJLC6GNiDflt1lj2) | 3:25 | 2022-01-21 | 2022-07-28 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-02-03 |  |
+| [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 | 2023-07-14 |  |
 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 |  |
 | [Ordenar](https://open.spotify.com/track/6cMAjbEM3SDBBWFwvx4qSl) | [VETRA](https://open.spotify.com/artist/7obSoqTA0ah9tLNktBUNU7) | [Liberarnos Es Placer](https://open.spotify.com/album/2f920Ow1P5wRwMgSYjr7eC) | 3:03 | 2022-01-21 | 2022-07-25 |
 | [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 |  |

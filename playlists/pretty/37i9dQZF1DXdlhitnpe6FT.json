@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 178282,
+  "num_followers": 178498,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
+  "snapshot_id": "MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhapsody In White (Reissue)",
-        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
-      },
-      "artists": [
-        {
-          "name": "The Love Unlimited Orchestra",
-          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Love's Theme",
-      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Ballade pour Adeline",
         "url": "https://open.spotify.com/album/2RikOsstwxbMPnPCgG8ITp"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 158000,
       "name": "Ballade pour Adeline - Piano et orchestre",
       "url": "https://open.spotify.com/track/1XOUROugs7UUsDK56ASj2T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhapsody In White (Reissue)",
+        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
+      },
+      "artists": [
+        {
+          "name": "The Love Unlimited Orchestra",
+          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Look For A Star",
         "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 132600,
       "name": "Look For A Star",
       "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -875,6 +875,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "La Fiesta Mexicana de Pepe Jaramillo",
+        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Jaramillo",
+          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "Capullito de Alel\u00ed",
+      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "14 Estelares",
         "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "La Fiesta Mexicana de Pepe Jaramillo",
-        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jaramillo",
-          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Capullito de Alel\u00ed",
-      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Presentando a La Orquesta Cuerdas y Metales",
         "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
         "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 #1's: One Hit Wonders",
-        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
       },
       "artists": [
         {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
         }
       ],
-      "duration_ms": 202805,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "20 #1's: One Hit Wonders",
+        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Blue Navajo",
         "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 213617,
       "name": "Blue Navajo",
       "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+      },
+      "artists": [
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 233333,
       "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
-      },
-      "artists": [
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Roger Williams Greatest Hits",
+        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Avengers and Other Top Sixties Themes",
         "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Roger Williams Greatest Hits",
-        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
+        "name": "The Pink Panther - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
       },
       "artists": [
         {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 181866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
+      "duration_ms": 169413,
+      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
+      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1539,22 +1555,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Pink Panther - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
-      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
     },
     {
       "added_at": "2020-12-08 19:02:01",

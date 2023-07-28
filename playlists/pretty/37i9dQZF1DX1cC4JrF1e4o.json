@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 353386,
+  "num_followers": 353603,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTMwNjVlZTg5OWFiMzIwODIyNWVmMjdmNTZmNTgzYTM3NTE4YmEw",
+  "snapshot_id": "MCxlMWM3M2RhZWJmYzRjYWZiOGExMjRjNzczYTlmYjUwYmUzZGRhMWFi",
   "tracks": [
     {
       "added_at": "2022-09-08 16:04:56",
@@ -203,22 +203,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
       },
       "artists": [
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
         }
       ],
-      "duration_ms": 138013,
-      "name": "\u00c1gua de Beber",
-      "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+      "duration_ms": 181066,
+      "name": "I Don't Want To Set The World On Fire",
+      "url": "https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -243,18 +239,22 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
       "artists": [
         {
-          "name": "The Ink Spots",
-          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 181066,
-      "name": "I Don't Want To Set The World On Fire",
-      "url": "https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO"
+      "duration_ms": 138013,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
     },
     {
       "added_at": "2022-09-08 16:04:56",

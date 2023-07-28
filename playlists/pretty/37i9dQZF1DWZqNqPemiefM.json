@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 55951,
+  "num_followers": 56050,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQ1Y2NkMTY3ZGVhMDVmNzM3YTk0MzY4YWJlZmEzNWU3OTUzMzNj",
+  "snapshot_id": "MCwxMjhmYzJhYWNhMTVhMThiZTZiMDFjYWU2NjI0ZGVlMGNmZjI0ZjI1",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "How My Heart Sings",
-        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Saunter",
         "url": "https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 509280,
       "name": "Images Of Broken Light",
       "url": "https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "How My Heart Sings",
+        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 373973,
-      "name": "FEET",
-      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -743,38 +727,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "heavenly tone",
-        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "a beautiful day",
-      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "Pause (almost equal to) Play",
-        "url": "https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 285711,
-      "name": "pause (almost equal to) play",
-      "url": "https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -791,6 +743,22 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
+        "name": "heavenly tone",
+        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "a beautiful day",
+      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
         "name": "Pierrepont",
         "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 270664,
       "name": "Pierrepont",
       "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "Low Power",
+        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "duration_ms": 239743,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
     }
   ],
   "unique_name": "Ambient Tokyo",

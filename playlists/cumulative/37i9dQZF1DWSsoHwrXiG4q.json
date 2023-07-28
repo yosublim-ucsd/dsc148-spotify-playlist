@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Crying on the Way Home",
+        "url": "https://open.spotify.com/album/03HOXmFMDN2HFkbrt9kmqj"
+      },
+      "artists": [
+        {
+          "name": "Rocket Jr",
+          "url": "https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181806,
+      "name": "Recollection",
+      "url": "https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi"
+    },
+    {
+      "album": {
         "name": "Hospital Mixtape: Lens",
         "url": "https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h"
       },
@@ -1152,6 +1170,24 @@
       "duration_ms": 337586,
       "name": "Secrets - Original Mix",
       "url": "https://open.spotify.com/track/4HPyU3q3NVYXxaXuMz3Vmq"
+    },
+    {
+      "album": {
+        "name": "sensitivity",
+        "url": "https://open.spotify.com/album/5v51rnyBdJ5jCnMQtOk2le"
+      },
+      "artists": [
+        {
+          "name": "shamgang",
+          "url": "https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124355,
+      "name": "sensitivity",
+      "url": "https://open.spotify.com/track/2fMhhLIxKzG6FjBYKMTgvo"
     },
     {
       "album": {

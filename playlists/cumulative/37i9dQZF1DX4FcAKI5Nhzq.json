@@ -4955,6 +4955,24 @@
     },
     {
       "album": {
+        "name": "Freaky U",
+        "url": "https://open.spotify.com/album/5gZNpW5BCKqkI9CBsbxW5E"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156053,
+      "name": "Freaky U",
+      "url": "https://open.spotify.com/track/1GkbHdoS4SjM9X6mg4d9Wp"
+    },
+    {
+      "album": {
         "name": "LIGHTS",
         "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
       },
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 202053,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
@@ -6347,6 +6365,28 @@
     },
     {
       "album": {
+        "name": "House on a Hill (feat. Em Beihold)",
+        "url": "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "House on a Hill (feat. Em Beihold)",
+      "url": "https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq"
+    },
+    {
+      "album": {
         "name": "How You Like That",
         "url": "https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH"
       },
@@ -6484,7 +6524,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 141259,
       "name": "I AM SHAMPOO",
       "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
@@ -8474,7 +8514,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 177306,
       "name": "Madness",
       "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
@@ -11751,6 +11791,28 @@
     },
     {
       "album": {
+        "name": "Screw it (Feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/2jTVsNzZS6oWX9CxfCVuFW"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154351,
+      "name": "Screw it (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/7hiRRWOFCP5RsDHeJowsdt"
+    },
+    {
+      "album": {
         "name": "Sea of Moonlight",
         "url": "https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC"
       },
@@ -12917,6 +12979,24 @@
     },
     {
       "album": {
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
+    },
+    {
+      "album": {
         "name": "My Little Thought",
         "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
       },
@@ -13696,7 +13776,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 202800,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"

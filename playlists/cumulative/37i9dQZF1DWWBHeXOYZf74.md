@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Vagabon
 
-2,100 songs - 4 day 22 hr 9 min
+2,101 songs - 4 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [Dobby 21](https://open.spotify.com/track/5vfoUjrdaLTQHGbLbcl5lx) | [1010 Benja SL](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Dobby 21](https://open.spotify.com/album/37UgVL4KFfZBhxAMdhU3L0) | 3:10 | 2021-09-25 | 2021-10-30 |
 | [Doctor](https://open.spotify.com/track/5WyG2pem4Y9tTigiU3yArp) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [You're a Dog!](https://open.spotify.com/album/48QiGvOask4z4l5skJ9Ttp) | 2:50 | 2019-09-20 | 2019-10-29 |
 | [Doctor, My Eyes](https://open.spotify.com/track/1ZjE0bbhrk7OyQftjaWUxQ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Doctor, My Eyes](https://open.spotify.com/album/38DGWtO8kCuW0UvkQcYDdA) | 3:14 | 2021-11-13 | 2021-12-18 |
-| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-29 |  |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-29 | 2023-07-28 |
+| [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-03-29 |  |
 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 | 2022-08-12 | 2022-10-15 |
 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 | 2020-03-25 | 2020-04-24 |
 | [DOMINICANA](https://open.spotify.com/track/3uxUJ6uYlcXp0bQicQaMhl) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Aaron](https://open.spotify.com/artist/3Janc17lPV117QjRSAPwBa), [Myquale](https://open.spotify.com/artist/43ZT4YXTrFXsq5Ae1np03L) | [DOMINICANA](https://open.spotify.com/album/0z0LVFPeSK11tUsLawfOa8) | 3:16 | 2020-07-09 | 2020-12-04 |

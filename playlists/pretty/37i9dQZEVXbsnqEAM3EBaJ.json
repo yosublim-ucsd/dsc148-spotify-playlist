@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBiNjg2NzBjNjE0ZThiMjcyOWJkZTVmZjVlOWIzNGIzMA==",
+  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBiMjQ5NzdhNWRiOTUwOWQ2OWRiNzI2MmY3ZGQ5NzliYQ==",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -23,34 +23,6 @@
       "duration_ms": 232537,
       "name": "skin in the game",
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Why Do I",
-        "url": "https://open.spotify.com/album/0P1aIIlxoH6v3zfK50rkmj"
-      },
-      "artists": [
-        {
-          "name": "MOTL",
-          "url": "https://open.spotify.com/artist/2SMbd9wudLwhFu0RZmUsWF"
-        },
-        {
-          "name": "HIM",
-          "url": "https://open.spotify.com/artist/3OCnRpcdZew8R9OS3a8HpX"
-        },
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
-        },
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        }
-      ],
-      "duration_ms": 141744,
-      "name": "Why Do I",
-      "url": "https://open.spotify.com/track/42oVhLe9ON8Hjy6xhmeLtq"
     },
     {
       "added_at": "2023-07-21 04:00:00",

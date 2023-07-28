@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 34 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 |
 | 35 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l) | 8:12 |
 | 36 | [Kamweretho](https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [Kamweretho](https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i) | 6:22 |
-| 37 | [Heart & Home](https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB) | [Heart & Home](https://open.spotify.com/album/3TqLZFi5ebWxFiT4l0ralM) | 2:30 |
+| 37 | [Heart & Home](https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [Lucien](https://open.spotify.com/artist/50I2vUIS8XNDtJW8IWfNWl) | [Heart & Home](https://open.spotify.com/album/2uBR87y9vpt85gUgtOXLh0) | 2:30 |
 | 38 | [Pray To God](https://open.spotify.com/track/0FyxV8ikLg4L824IbC9U1a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Pray To God](https://open.spotify.com/album/62ie0Jhk5Q652kHONqxEcN) | 3:02 |
 | 39 | [Chills](https://open.spotify.com/track/2AYPYrXvtLkOzElD28svfr) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Chills](https://open.spotify.com/album/7sae1ej4tsPEHBBj80JWEh) | 2:52 |
 | 40 | [Fire](https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Fire](https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCxlY2FmNzE0Y2Y4ODdiN2JhOTFiNDlmNTM0MjM1YzAwYjRkMmYzYWNj`
+Snapshot ID: `MCw1NThjNWNmYWQ1YTVmNjBmODQ0NGNhZWY4NzIxNTcyYTk1NWU1NDBm`

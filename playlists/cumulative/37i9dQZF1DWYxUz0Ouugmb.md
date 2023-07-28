@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Maulana Ardiansyah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
 
 160 songs - 10 hr 8 min
 

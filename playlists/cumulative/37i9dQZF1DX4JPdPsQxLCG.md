@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-335 songs - 22 hr 6 min
+336 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Don't Walk Away Eileen](https://open.spotify.com/track/7y5nuOgwKmgof6472dvwa9) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 3:12 | 2022-05-02 | 2022-07-29 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-09-10 | 2022-09-15 |
 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 | 2022-05-02 |  |
+| [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 | 2023-07-21 |  |
 | [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 | 2022-05-02 | 2023-05-19 |
 | [Eat My Brain](https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp) | [Good Weird Feeling](https://open.spotify.com/album/4Ov3XdAlqU8tqWCOwJ1WQq) | 4:26 | 2022-05-02 | 2022-07-29 |
 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 | 2022-09-13 | 2023-05-19 |
@@ -190,7 +191,7 @@
 | [Northern Lights](https://open.spotify.com/track/3U1Asd3xoWUejF66hHHgCP) | [The Jerry Cans](https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229) | [Inuusiq](https://open.spotify.com/album/5ujNr7kKTye0IfxiDlVIHG) | 3:34 | 2022-09-10 | 2022-09-15 |
 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 | 2023-05-18 |  |
 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 | 2022-05-02 | 2022-07-29 |
-| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 |  |
+| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 | 2023-07-28 |
 | [Not Ready To Go](https://open.spotify.com/track/6TAIjNdGCB4rJ8eS90Vd8t) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House Of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/0mq5DrQk05zTR8qU4zIuTH) | 3:03 | 2022-05-02 | 2022-07-29 |
 | [Nothing Special](https://open.spotify.com/track/50fi5G747RJ6vKmX886eX1) | [illScarlett](https://open.spotify.com/artist/7wifMhiQRkNVGDL3habHha) | [All Day With It](https://open.spotify.com/album/7oL96ynXqzzf5BfzhqbtOH) | 3:28 | 2022-05-02 | 2022-07-20 |
 | [Nowhere With You](https://open.spotify.com/track/7JUGIQLHiPvCUBKp3988fR) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise DVD](https://open.spotify.com/album/65T0ZdRN1SKeBu6MmsQhTU) | 3:01 | 2023-05-18 | 2023-06-10 |

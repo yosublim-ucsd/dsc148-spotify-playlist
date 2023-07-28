@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 361344,
+  "num_followers": 361485,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi",
+  "snapshot_id": "MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
       },
       "artists": [
         {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+      "duration_ms": 121600,
+      "name": "Love's Gonna Live Here - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2cXarui64wT79bLjo13vOU"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
         }
       ],
-      "duration_ms": 121600,
-      "name": "Love's Gonna Live Here - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2cXarui64wT79bLjo13vOU"
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -707,6 +707,22 @@
       "duration_ms": 127106,
       "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
       "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Together Again - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -791,22 +807,6 @@
       "duration_ms": 181800,
       "name": "Ballad Of Forty Dollars",
       "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Together Again - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Don't Let Me Cross Over",
+        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
+      },
+      "artists": [
+        {
+          "name": "Carl Butler",
+          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 157826,
       "name": "Make the World Go Away",
       "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Don't Let Me Cross Over",
-        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
-      },
-      "artists": [
-        {
-          "name": "Carl Butler",
-          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
     },
     {
       "added_at": "2023-05-19 04:01:00",

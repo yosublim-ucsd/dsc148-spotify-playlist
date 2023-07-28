@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM"
+    },
+    {
+      "album": {
         "name": "DOGLAND",
         "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
       },
@@ -4534,7 +4552,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
@@ -6373,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "You Need Me, I Need You",
+        "url": "https://open.spotify.com/album/2EkMdAL0HTyUcBqMHbgf3N"
+      },
+      "artists": [
+        {
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203396,
+      "name": "You Need Me, I Need You",
+      "url": "https://open.spotify.com/track/3g7dgnms0me57hQw1oN2W2"
+    },
+    {
+      "album": {
         "name": "FOOLISH AS THEY MAY SEEM.",
         "url": "https://open.spotify.com/album/3MtqGkdO2Nbl4PAAHddEuc"
       },
@@ -8066,7 +8102,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 229642,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
       "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
@@ -9988,7 +10024,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 260851,
       "name": "\u5e78\u305b",
       "url": "https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA"
@@ -10824,6 +10860,24 @@
       "duration_ms": 246333,
       "name": "\u6d6e\u4e16\u30d1\u30b9\u30dd\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1OnHUaVxsS67pgXEd9CIXT"
+    },
+    {
+      "album": {
+        "name": "\u6e26\u5e55",
+        "url": "https://open.spotify.com/album/0RpAonftWJz2XX5Rrlc8TK"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249677,
+      "name": "\u6e26\u5e55",
+      "url": "https://open.spotify.com/track/7pcTevAQGcz4HxeyXDKkRg"
     },
     {
       "album": {

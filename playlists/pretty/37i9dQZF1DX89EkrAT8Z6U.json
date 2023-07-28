@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 529543,
+  "num_followers": 530258,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDg2Y2VjODJmMjllMGYwMTcyZWI3OTRmOWY4Zjg0MTVhNTQ1NTk5",
+  "snapshot_id": "MCw5ZGU3MzcyY2YyOTI0YzEyOWY3OWEyYTQzZDQzZGQ5OWJlOGY4YWUx",
   "tracks": [
     {
       "added_at": "2023-07-21 19:05:21",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 252340,
-      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "By the Sword",
         "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
       },
@@ -335,22 +319,6 @@
       "duration_ms": 125812,
       "name": "By the Sword",
       "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -371,6 +339,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 252340,
+      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
         "url": "https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 129142,
       "name": "The Law of Recognition",
       "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
       },
       "artists": [
         {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
         }
       ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
       },
       "artists": [
         {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 134451,
-      "name": "LED",
-      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -815,6 +815,26 @@
       "duration_ms": 192400,
       "name": "MUKANJYO",
       "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "2K FREESTYLE",
+        "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
+      },
+      "artists": [
+        {
+          "name": "Lazy3x",
+          "url": "https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "2K FREESTYLE",
+      "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -843,26 +863,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "2K FREESTYLE",
-        "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
-      },
-      "artists": [
-        {
-          "name": "Lazy3x",
-          "url": "https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "2K FREESTYLE",
-      "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -875,6 +875,42 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Killin' On Demand",
+        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 129196,
+      "name": "Killin' On Demand",
+      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -911,42 +947,6 @@
       "duration_ms": 271413,
       "name": "Still Cold / Pathway Private",
       "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Killin' On Demand",
-        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 129196,
-      "name": "Killin' On Demand",
-      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
         }
       ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
       "artists": [
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "SHOTGUN",
-        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
-      },
-      "artists": [
-        {
-          "name": "SXULCVTCHER",
-          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "SHOTGUN",
-      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
         "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 116323,
       "name": "I'm Toxic",
       "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
+      },
+      "artists": [
+        {
+          "name": "SXULCVTCHER",
+          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
     }
   ],
   "unique_name": "sh\u014dnen",

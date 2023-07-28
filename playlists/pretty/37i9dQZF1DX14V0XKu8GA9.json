@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23151,
+  "num_followers": 23183,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWYzMjE2ZTAwMzUxYzA2NmFjMDY0YjZmZWU4ZGRlMzNlMGE2ZDlj",
+  "snapshot_id": "MCw3ZDg5NjNkZWM1Y2QyZTZhNmEyNmRmNjEyMTczODZhYzQ4NWVmYTU3",
   "tracks": [
     {
       "added_at": "2023-07-14 20:52:57",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-07-14 20:52:57",
       "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA"
+    },
+    {
+      "added_at": "2023-07-14 20:52:57",
+      "album": {
         "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
         "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 187461,
       "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
       "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
-    },
-    {
-      "added_at": "2023-07-14 20:52:57",
-      "album": {
-        "name": "House Party",
-        "url": "https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 232835,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA"
     },
     {
       "added_at": "2023-07-14 20:52:57",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-07-14 20:52:57",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+        "name": "Pozole",
+        "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
       },
       "artists": [
         {
@@ -332,13 +332,17 @@
           "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
         },
         {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+          "name": "Brick Wolfpack",
+          "url": "https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
         }
       ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+      "duration_ms": 148965,
+      "name": "Pozole",
+      "url": "https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk"
     },
     {
       "added_at": "2023-07-14 20:52:57",
@@ -355,26 +359,6 @@
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
-    },
-    {
-      "added_at": "2023-07-14 20:52:57",
-      "album": {
-        "name": "Little Homie",
-        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "Little Homie",
-      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
     },
     {
       "added_at": "2023-07-14 20:52:57",
@@ -415,6 +399,26 @@
       "duration_ms": 166451,
       "name": "Good Times Bad Times",
       "url": "https://open.spotify.com/track/1GxDH1lbE3q3wg9SWXsTHg"
+    },
+    {
+      "added_at": "2023-07-14 20:52:57",
+      "album": {
+        "name": "Little Homie",
+        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "Little Homie",
+      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
     },
     {
       "added_at": "2023-07-14 20:52:57",
@@ -499,8 +503,8 @@
     {
       "added_at": "2023-07-14 20:52:57",
       "album": {
-        "name": "Pozole",
-        "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
       },
       "artists": [
         {
@@ -508,17 +512,13 @@
           "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
         },
         {
-          "name": "Brick Wolfpack",
-          "url": "https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Pozole",
-      "url": "https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk"
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-07-14 20:52:57",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-14 20:52:57",
       "album": {
-        "name": "FENDI",
-        "url": "https://open.spotify.com/album/6pq5JEiCrgTAvuONw4xWWn"
-      },
-      "artists": [
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 131563,
-      "name": "FENDI",
-      "url": "https://open.spotify.com/track/0R810JwhuTEiU495n620FZ"
-    },
-    {
-      "added_at": "2023-07-14 20:52:57",
-      "album": {
         "name": "What It Takes",
         "url": "https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 149080,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"
+    },
+    {
+      "added_at": "2023-07-14 20:52:57",
+      "album": {
+        "name": "FENDI",
+        "url": "https://open.spotify.com/album/6pq5JEiCrgTAvuONw4xWWn"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 131563,
+      "name": "FENDI",
+      "url": "https://open.spotify.com/track/0R810JwhuTEiU495n620FZ"
     },
     {
       "added_at": "2023-07-14 20:52:57",

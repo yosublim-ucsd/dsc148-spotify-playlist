@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 334212,
+  "num_followers": 334243,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2UwZWI4NDFmN2Q5ZGYzODlhNDY3MjYyNjFlOGE2Y2I0YTNiMDM4",
+  "snapshot_id": "MCw2MDk4NThmZjQyZWNiNzEyMDYzYzk1MWU2OGEwZmY1OTVkM2QyODVk",
   "tracks": [
     {
       "added_at": "2023-07-24 14:46:29",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
+        "name": "A tale to tell",
+        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "duration_ms": 130132,
+      "name": "A tale to tell",
+      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
         "name": "The Meadows \u8349\u5730",
         "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 170737,
       "name": "The Meadows \u8349\u5730",
       "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
-      },
-      "artists": [
-        {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Quietly Quietly",
-        "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
       },
       "artists": [
         {
-          "name": "Peter Cavallo",
-          "url": "https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV"
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Quietly Quietly",
-      "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -263,6 +263,22 @@
       "duration_ms": 335542,
       "name": "Natural Light",
       "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Quietly Quietly",
+        "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
+      },
+      "artists": [
+        {
+          "name": "Peter Cavallo",
+          "url": "https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Quietly Quietly",
+      "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -295,22 +311,6 @@
       "duration_ms": 142912,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "A tale to tell",
-        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
-      },
-      "artists": [
-        {
-          "name": "Luiza Schmidt",
-          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
-        }
-      ],
-      "duration_ms": 130132,
-      "name": "A tale to tell",
-      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Himlen",
         "url": "https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 121504,
       "name": "Himlen",
       "url": "https://open.spotify.com/track/08athgGdqnRmET0kInHb8n"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
+        "name": "Nocturnes op.4",
+        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "Nocturnes op.4",
+      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "Nocturnes op.4",
-        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 171071,
-      "name": "Nocturnes op.4",
-      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -819,38 +819,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Veluwe Suite",
-        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Tristes",
-      "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "A brotherly bond",
-        "url": "https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 124679,
-      "name": "A brotherly bond",
-      "url": "https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Okra",
         "url": "https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 147666,
       "name": "Clement",
       "url": "https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "A brotherly bond",
+        "url": "https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 124679,
+      "name": "A brotherly bond",
+      "url": "https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Veluwe Suite",
+        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Tristes",
+      "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "In Breath",
-        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
-      },
-      "artists": [
-        {
-          "name": "Luke Gajdus",
-          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ephemera",
-      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "In Breath",
+        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
+      },
+      "artists": [
+        {
+          "name": "Luke Gajdus",
+          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 201901,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
         }
       ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+      "duration_ms": 201901,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "Correlations (on 11 pianos)",
-        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "I wanted you to know (on Yamaha Upright, 1981)",
-      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Across Borders",
         "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
       },
@@ -1203,18 +1171,18 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },
       "artists": [
         {
-          "name": "Otto A. Totland",
-          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 207053,
-      "name": "Anona",
-      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1231,6 +1199,22 @@
       "duration_ms": 144000,
       "name": "Beyond Dreams",
       "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Correlations (on 11 pianos)",
+        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "I wanted you to know (on Yamaha Upright, 1981)",
+      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1263,6 +1247,22 @@
       "duration_ms": 182805,
       "name": "how we sleep",
       "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "The Lost",
+        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+      },
+      "artists": [
+        {
+          "name": "Otto A. Totland",
+          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Anona",
+      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
     },
     {
       "added_at": "2023-07-24 14:46:29",

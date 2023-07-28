@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 251051,
+  "num_followers": 251267,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
+  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Intoxicated",
@@ -335,6 +319,22 @@
       "duration_ms": 183900,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
       "artists": [
         {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
         }
       ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+      "duration_ms": 189105,
+      "name": "At the Seams",
+      "url": "https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -679,18 +679,34 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
       },
       "artists": [
         {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
         }
       ],
-      "duration_ms": 189105,
-      "name": "At the Seams",
-      "url": "https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR"
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "I Spit On Your Grave",
+        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -759,6 +759,38 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "ABEYANCE",
+        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -779,22 +811,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "ABEYANCE",
-        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -827,22 +843,6 @@
       "duration_ms": 254722,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "I Spit On Your Grave",
-        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
-      },
-      "artists": [
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "I Spit On Your Grave",
-      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1035,6 +1019,38 @@
       "duration_ms": 212530,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 78531,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
-      "added_at": "2023-07-11 13:39:19",
-      "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1187,6 +1171,22 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2023-07-11 13:39:19",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2022-11-18 01:42:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: cura",
+  "description": "Il meglio dell'R&B italiano. Cover: Saintess",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 139400,
       "name": "Futurama",
       "url": "https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK"
@@ -2648,6 +2648,24 @@
       "duration_ms": 188571,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB"
+    },
+    {
+      "album": {
+        "name": "I film non sono bastati",
+        "url": "https://open.spotify.com/album/5WA8sgHBo43yXSqozRbkfS"
+      },
+      "artists": [
+        {
+          "name": "Babele",
+          "url": "https://open.spotify.com/artist/6IDs1szGoCenQqszHvAkuD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "I film non sono bastati",
+      "url": "https://open.spotify.com/track/4SSCJmAu1ApX5X0TCUjUJk"
     },
     {
       "album": {
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 208636,
       "name": "Sabbie Mobili (feat. Davide Shorty)",
       "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
@@ -7170,6 +7188,24 @@
       "duration_ms": 186818,
       "name": "ZERO PIANI",
       "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
+    },
+    {
+      "album": {
+        "name": "Zucchero e Sale",
+        "url": "https://open.spotify.com/album/2CcnyLHcE1xqn2AtVBzHDM"
+      },
+      "artists": [
+        {
+          "name": "Gal\u00e8n",
+          "url": "https://open.spotify.com/artist/6BfdGC99OcQ2v5ybCxWIR0"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174079,
+      "name": "Zucchero e Sale",
+      "url": "https://open.spotify.com/track/7j0VFuLHABoRBuNHiAKclJ"
     },
     {
       "album": {

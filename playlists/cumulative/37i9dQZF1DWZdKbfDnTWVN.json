@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: Wangechi",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N_9HA\">Khaligraph Jones</a>",
   "name": "254 Flow",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 184894,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3p1TTZxBEjTwNnG9aD1Ue1"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 202500,
       "name": "Lose",
       "url": "https://open.spotify.com/track/4nWq6NkvzFuxqbd1cyVk4A"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Minimal Pressure",
+        "url": "https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267493,
+      "name": "Minimal Pressure",
+      "url": "https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR"
+    },
+    {
+      "album": {
         "name": "MOTOWN (feat. BabyTron)",
         "url": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
       },
@@ -1578,6 +1596,32 @@
       "duration_ms": 222761,
       "name": "Nairobi Pengz",
       "url": "https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg"
+    },
+    {
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH"
+      },
+      "artists": [
+        {
+          "name": "Splifff",
+          "url": "https://open.spotify.com/artist/3FbXkQv5LMtFqNBbvImIde"
+        },
+        {
+          "name": "Dok",
+          "url": "https://open.spotify.com/artist/1bwsq6yxUg4KKFKDwhYqoJ"
+        },
+        {
+          "name": "Infamous Alvin",
+          "url": "https://open.spotify.com/artist/1o5JBUR0mqOxLwNWa7siPZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197328,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/79yYxJd98IRA51BCP4mPBV"
     },
     {
       "album": {

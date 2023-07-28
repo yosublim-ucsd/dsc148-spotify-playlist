@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 177334,
+  "num_followers": 177397,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTZiOTQ4MzhmZTNlMGQzZWI3OGE3ZDU1MDZiM2U3MTRmNTMzYTE0",
+  "snapshot_id": "MCwyZTEzNzI2ZTVlOTE4N2VlYTJjYjhmNmU1NTI2NjY4YzcwYmJiMGNk",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Yeshua (Spontaneous) [Live]",
-        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
-      },
-      "artists": [
-        {
-          "name": "Eleni Baker",
-          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
-        }
-      ],
-      "duration_ms": 417230,
-      "name": "Yeshua (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Miracle or Not",
         "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
+      },
+      "artists": [
+        {
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
+        }
+      ],
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -899,8 +899,8 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
       "artists": [
         {
@@ -908,13 +908,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
         }
       ],
-      "duration_ms": 291565,
-      "name": "King Of Kings - Live",
-      "url": "https://open.spotify.com/track/7iK9jPR9LpWUkdwMPMIVnt"
+      "duration_ms": 406173,
+      "name": "Behold (Then Sings My Soul) - Live",
+      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Touching Heaven (Live)",
         "url": "https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 360935,
       "name": "Breathe - Live",
       "url": "https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
       "artists": [
         {
@@ -1096,13 +1096,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 406173,
-      "name": "Behold (Then Sings My Soul) - Live",
-      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
+      "duration_ms": 291565,
+      "name": "King Of Kings - Live",
+      "url": "https://open.spotify.com/track/7iK9jPR9LpWUkdwMPMIVnt"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moments (Live)",
-        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "SarahBeth Smith",
-          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
-        }
-      ],
-      "duration_ms": 495226,
-      "name": "All Hail King Jesus - Live",
-      "url": "https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Center of Your Love",
         "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 296400,
       "name": "You Satisfy (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "SarahBeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        }
+      ],
+      "duration_ms": 495226,
+      "name": "All Hail King Jesus - Live",
+      "url": "https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 547251,
-      "name": "Rain Your Glory Down - Live",
-      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Here On Earth",
         "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 264120,
       "name": "Nothing Is Holding Me Back",
       "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
     },
     {
       "added_at": "2020-09-04 04:02:00",

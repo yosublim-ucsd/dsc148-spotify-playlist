@@ -1,12 +1,12 @@
 {
   "description": "The best indie tracks for just hanging out.",
-  "num_followers": 786168,
+  "num_followers": 786375,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmE0YjM5ODhmZWE2NDU4ZGU4YzVlY2UyYjY0ODE1YjY3ZWEzMmE4",
+  "snapshot_id": "MCxjNzNjNGJhYTZhNTFkMGJkZjQzNzhmMDBkZWVjNTczN2IwYmMxMzE5",
   "tracks": [
     {
       "added_at": "2023-07-26 14:50:31",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
     },
     {
       "added_at": "2023-07-12 18:36:06",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Simulation Swarm",
+      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Simulation Swarm",
-      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
       "added_at": "2023-07-26 14:52:50",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "ocean view",
-      "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "ocean view",
+      "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1279,22 +1279,6 @@
       "duration_ms": 199733,
       "name": "Estrangers",
       "url": "https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 172707,
-      "name": "keep going",
-      "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "There\u2019s no Other",
         "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
         }
       ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+      "duration_ms": 172707,
+      "name": "keep going",
+      "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1463,6 +1447,22 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1563,6 +1563,42 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/3y8er1lVrR5Y9i6AwXNRcT"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 170021,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/7KTeCmYOof8NML28Lc9dWo"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 220332,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
       },
@@ -1591,42 +1627,6 @@
       "duration_ms": 241168,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 220332,
-      "name": "Bound",
-      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/3y8er1lVrR5Y9i6AwXNRcT"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 170021,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/7KTeCmYOof8NML28Lc9dWo"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Tonight (feat. Ezra Koenig)",
-        "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Ezra Koenig",
-          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Tonight (feat. Ezra Koenig)",
-      "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
     }
   ],
   "unique_name": "Indie Chillout",

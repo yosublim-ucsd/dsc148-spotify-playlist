@@ -1,12 +1,12 @@
 {
   "description": "Fresh takes\u2014from new revisions and iconic covers to unexpected versions and the songwriter's own covers. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
-  "num_followers": 124017,
+  "num_followers": 124190,
   "original_name": "Bob Dylan: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDA2Mjc0YTE1OWRjZjI1ODkxMTJjYmEyOTNkYmUyOTUzNzlkYmNm",
+  "snapshot_id": "MCwyNDI5ODY4MjRjNjJhYjFmOTc4ZjEzMTkwNTRlMDYwZGY0NmY3MmM5",
   "tracks": [
     {
       "added_at": "2018-08-02 15:19:34",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/1oe5WAmL6R23auAK49cBZZ"
     },
     {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Spotlight on Nina Simone",
+        "url": "https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "The Ballad Of Hollis Brown",
+      "url": "https://open.spotify.com/track/1LLK605zavPJiL4aDCOjXT"
+    },
+    {
       "added_at": "2018-08-02 15:19:34",
       "album": {
         "name": "Knockin' On Heaven's Door",
@@ -437,6 +453,26 @@
       "url": "https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4"
     },
     {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        },
+        {
+          "name": "Matthew Logan Vasquez",
+          "url": "https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG"
+        }
+      ],
+      "duration_ms": 308418,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq"
+    },
+    {
       "added_at": "2018-08-02 15:19:34",
       "album": {
         "name": "Odetta Sings Dylan",
@@ -517,6 +553,22 @@
       "url": "https://open.spotify.com/track/2lnrxXWkV6JHJjSIUtLLeL"
     },
     {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
       "added_at": "2018-08-02 15:19:34",
       "album": {
         "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
@@ -547,6 +599,38 @@
       "duration_ms": 205586,
       "name": "Mama, You Been on My Mind - Studio Outtake - 1993",
       "url": "https://open.spotify.com/track/4yg2qSpnVAbQLPjCJTWwtY"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "The Times They Are A-Changin\u2019",
+        "url": "https://open.spotify.com/album/6cflPi3KKPTe5LYoDZDFGD"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "The Times They Are A-Changin\u2019",
+      "url": "https://open.spotify.com/track/2TCpNCWNVHZyleTGfBlpv2"
     },
     {
       "added_at": "2018-08-02 15:19:34",
@@ -587,6 +671,22 @@
       "duration_ms": 269200,
       "name": "Dark Eyes",
       "url": "https://open.spotify.com/track/7ujBUtYPYt0eJabD0Vp5pu"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 215763,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/05satBPYz2Wtx40AytxngW"
     },
     {
       "added_at": "2018-08-02 15:19:34",
@@ -663,6 +763,22 @@
       "duration_ms": 229253,
       "name": "Frankie & Albert",
       "url": "https://open.spotify.com/track/2Rfqmai5wESjBpmj9SP7cs"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 717845,
+      "name": "Sad Eyed Lady of the Lowlands",
+      "url": "https://open.spotify.com/track/1kQocfALCjx4BVTBtqUvwD"
     },
     {
       "added_at": "2018-08-02 15:19:34",
@@ -1157,6 +1273,26 @@
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Knockin' on Heaven's Door",
+        "url": "https://open.spotify.com/album/6g1ceIz88TjAeTSzg9apJC"
+      },
+      "artists": [
+        {
+          "name": "Marco Santana",
+          "url": "https://open.spotify.com/artist/3SxTTGMm7ed13HP2Cvh5sE"
+        },
+        {
+          "name": "DOFF",
+          "url": "https://open.spotify.com/artist/2NcW5tAHg2dkSbUiozRFiC"
+        }
+      ],
+      "duration_ms": 190517,
+      "name": "Knockin' on Heaven's Door",
+      "url": "https://open.spotify.com/track/1rtiojgfQ1u7TEGnJkxg5B"
+    },
+    {
       "added_at": "2018-08-02 15:19:34",
       "album": {
         "name": "War Child - Heroes Vol.1",
@@ -1235,6 +1371,22 @@
       "duration_ms": 326613,
       "name": "Wanted Man - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Red Melancholy",
+        "url": "https://open.spotify.com/album/7yX86HG63FygWfS6nkad4J"
+      },
+      "artists": [
+        {
+          "name": "Sandra Milagres",
+          "url": "https://open.spotify.com/artist/09rHrAbgQb2FaEmr1dYRVZ"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Make you feel my love",
+      "url": "https://open.spotify.com/track/15P19QDqjFwEo7HHX08G6O"
     },
     {
       "added_at": "2018-08-02 15:19:34",
@@ -1335,6 +1487,26 @@
       "duration_ms": 319773,
       "name": "Standing In The Doorway",
       "url": "https://open.spotify.com/track/21nygm5GK48tJtrlrNSYXo"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Don't Think Twice, It's All Right",
+        "url": "https://open.spotify.com/album/3at7ykzo4aX53Wj3VeY472"
+      },
+      "artists": [
+        {
+          "name": "Clem Snide",
+          "url": "https://open.spotify.com/artist/6BV1QOFqWihVnBllS5naPh"
+        },
+        {
+          "name": "Eef Barzelay",
+          "url": "https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW"
+        }
+      ],
+      "duration_ms": 220834,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/1xgDHSaxzJ4X5KfOvHxAh2"
     },
     {
       "added_at": "2018-08-02 15:19:34",
@@ -1555,6 +1727,38 @@
       "duration_ms": 175800,
       "name": "I Can't Get You Off Of My Mind",
       "url": "https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Back To Our Roots",
+        "url": "https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2"
+      },
+      "artists": [
+        {
+          "name": "The ORIGINAL SEEKERS",
+          "url": "https://open.spotify.com/artist/623Vv6ePcaHLE0g2c5a5nh"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "I'll Be Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L"
+    },
+    {
+      "added_at": "2023-07-27 20:14:38",
+      "album": {
+        "name": "Back in the High Life Again / The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg"
+      },
+      "artists": [
+        {
+          "name": "Jason Boland & The Stragglers",
+          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
+        }
+      ],
+      "duration_ms": 229747,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d"
     }
   ],
   "unique_name": "Bob Dylan: Covered",

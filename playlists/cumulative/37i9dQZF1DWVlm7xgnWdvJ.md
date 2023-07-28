@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-116 songs - 10 hr 58 min
+117 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2022-12-20 |  |
 | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/track/6KuZfqzhbfTU8HEIALDgP2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n) | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/album/1uaxE7yn8s9XPNAJ9icxd1) | 4:16 | 2022-12-20 |  |
 | [The Light](https://open.spotify.com/track/12K1eNac6xyCYkKtvns2k4) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [The Light EP](https://open.spotify.com/album/5DMJxsJyyQLKKuwfW1FBeH) | 8:25 | 2022-12-20 |  |
+| [The Plant Paradox](https://open.spotify.com/track/6ctMw60Nt3gHORqxfkRmWZ) | [RAMMÖ](https://open.spotify.com/artist/5iX8cuI7OtXXtOSNPb8Cfm) | [Paradox Dream](https://open.spotify.com/album/4jySsYIcMJLBXmHR4kQsit) | 6:10 | 2023-07-27 |  |
 | [The Smooth Gardens](https://open.spotify.com/track/1kc63KSnLgfmMlTvdNq5vy) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD) | 9:13 | 2022-12-20 | 2023-02-11 |
 | [The Smooth Gardens](https://open.spotify.com/track/3iX80Yl6jpfp1VqzOty3eU) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/2KuSDET8iLuZQJllCRQVTA) | 9:13 | 2023-02-10 |  |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-30 | 2023-07-07 |

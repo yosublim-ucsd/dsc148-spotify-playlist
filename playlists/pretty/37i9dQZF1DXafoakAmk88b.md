@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,619 likes - 130 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,649 likes - 130 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 112 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 |
 | 113 | [i want, doesn't get](https://open.spotify.com/track/4vr76RfODI7nC2BqZQzDTf) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [THE DELLA VARIANT](https://open.spotify.com/album/2Pqj9HuNS0iixWi8vMOL6X) | 2:31 |
 | 114 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
-| 115 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
+| 115 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
 | 116 | [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 |
 | 117 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 |
 | 118 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 129 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 |
 | 130 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 
-Snapshot ID: `MCxlMDIwNmRhNmMwY2Y4OTQ0MjEyMGM2NmUzNTY0YWZlNDQwMTJlYzA2`
+Snapshot ID: `MCxhOGE1OWIyNmY2ZjYyZDAyOGYyMTMyZDM4Zjc4ZTYxNzFjNmNhOTBm`

@@ -1595,6 +1595,48 @@
     },
     {
       "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo"
+      },
+      "artists": [
+        {
+          "name": "Officina011",
+          "url": "https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK"
+        },
+        {
+          "name": "Acerbo",
+          "url": "https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa"
+        },
+        {
+          "name": "Petraz",
+          "url": "https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i"
+        },
+        {
+          "name": "Vinny",
+          "url": "https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU"
+        },
+        {
+          "name": "collaesse",
+          "url": "https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL"
+        },
+        {
+          "name": "donato",
+          "url": "https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG"
+        },
+        {
+          "name": "DJT",
+          "url": "https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171437,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR"
+    },
+    {
+      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
       },
@@ -1806,7 +1848,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 113454,
       "name": "CHE CAZZO STAI FACENDO?",
       "url": "https://open.spotify.com/track/4SM47IqsIvb4ZmbBHx2FIR"
@@ -1872,6 +1914,24 @@
       "duration_ms": 157442,
       "name": "Che pace // Che palle",
       "url": "https://open.spotify.com/track/6hjyCxuLCpBtCITorSDUTY"
+    },
+    {
+      "album": {
+        "name": "CHIAMAMI",
+        "url": "https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "CHIAMAMI",
+      "url": "https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT"
     },
     {
       "album": {
@@ -2210,6 +2270,24 @@
       "duration_ms": 160615,
       "name": "CONCERTO",
       "url": "https://open.spotify.com/track/6U90OOM0ghEcyzJYVOr8uQ"
+    },
+    {
+      "album": {
+        "name": "Cosa ci manca",
+        "url": "https://open.spotify.com/album/5lz2mwbaesxZXZREW4Q9Uf"
+      },
+      "artists": [
+        {
+          "name": "ryel",
+          "url": "https://open.spotify.com/artist/6pzPq4qQnjswqcVoX9JYyn"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Cosa ci manca",
+      "url": "https://open.spotify.com/track/2MYo9JS5X5tF0ft66QRqAd"
     },
     {
       "album": {
@@ -4219,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "Giovani Pop Punk",
+        "url": "https://open.spotify.com/album/4GSl3bThAEPykU4pJVQfhD"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF"
+        },
+        {
+          "name": "Tiasnow",
+          "url": "https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149566,
+      "name": "Giovani Pop Punk",
+      "url": "https://open.spotify.com/track/1OOfq8XCmp4qv1WzIEZ95M"
+    },
+    {
+      "album": {
         "name": "ERR\u00d8R B\u00d8Y",
         "url": "https://open.spotify.com/album/0J6qP8wX9hmFM1rjL5FtjA"
       },
@@ -6161,6 +6261,24 @@
     },
     {
       "album": {
+        "name": "CASA DI FABIO",
+        "url": "https://open.spotify.com/album/1eYplZ8wsJTejsOkYkn393"
+      },
+      "artists": [
+        {
+          "name": "COLLETTIVO",
+          "url": "https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181780,
+      "name": "MADDALENA",
+      "url": "https://open.spotify.com/track/2pg8yq02SvjvDmV8zOLg7P"
+    },
+    {
+      "album": {
         "name": "magari LOVE",
         "url": "https://open.spotify.com/album/1y4YrU81OD9GoWPxeAbXgp"
       },
@@ -7555,6 +7673,24 @@
     },
     {
       "album": {
+        "name": "Panico",
+        "url": "https://open.spotify.com/album/7aKYFgFEQ3vxfSVth7rfiU"
+      },
+      "artists": [
+        {
+          "name": "ITAMI",
+          "url": "https://open.spotify.com/artist/3jvrwPpeYnKPzzqHafSU5e"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/4NOFiXQQGGpb2ICxHs0eeT"
+    },
+    {
+      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },
@@ -8456,7 +8592,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 140750,
       "name": "Red flags",
       "url": "https://open.spotify.com/track/3vPcuSuFWebBaqfttYIxe5"
@@ -8986,7 +9122,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 215919,
       "name": "SCUSAMI MARTINA",
       "url": "https://open.spotify.com/track/5ZRtXf6Fsb4dzhRMpfTlLF"
@@ -9320,6 +9456,24 @@
       "duration_ms": 144000,
       "name": "SEXTOY",
       "url": "https://open.spotify.com/track/0SN0IuCblsCHUtrHJTBagE"
+    },
+    {
+      "album": {
+        "name": "SFIGATO",
+        "url": "https://open.spotify.com/album/2s7dMW0qK3k1HkgGXiRHS8"
+      },
+      "artists": [
+        {
+          "name": "demoncandy",
+          "url": "https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "SFIGATO",
+      "url": "https://open.spotify.com/track/5uHdtDrefFozAojNJAABHE"
     },
     {
       "album": {
@@ -9780,6 +9934,24 @@
       "duration_ms": 166293,
       "name": "SOTTOZERO",
       "url": "https://open.spotify.com/track/1A6Hxa6pxb13LtwLNIVYg7"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168714,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS"
     },
     {
       "album": {
@@ -10771,6 +10943,28 @@
     },
     {
       "album": {
+        "name": "TI AMO / TI ODIO",
+        "url": "https://open.spotify.com/album/0AuKyZCpE5kc9e47ayPEVI"
+      },
+      "artists": [
+        {
+          "name": "Don Papito",
+          "url": "https://open.spotify.com/artist/5jsRFCn9zWUBRLSR1HD9Rh"
+        },
+        {
+          "name": "xDiemondx",
+          "url": "https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "TI AMO / TI ODIO",
+      "url": "https://open.spotify.com/track/0V3YvNZeeon9bsz9KaoUdt"
+    },
+    {
+      "album": {
         "name": "ti dir\u00f2",
         "url": "https://open.spotify.com/album/3gshscBfAVlzXIbrjiWe95"
       },
@@ -10808,7 +11002,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 158410,
       "name": "Ti Odio Ti Amo",
       "url": "https://open.spotify.com/track/4fl8dbgqMNVZfWqh1KWOfw"
@@ -11121,6 +11315,28 @@
     },
     {
       "album": {
+        "name": "Tutto Normale",
+        "url": "https://open.spotify.com/album/010CiLtjAQhI9smvyXHPB3"
+      },
+      "artists": [
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164075,
+      "name": "Tutto Normale",
+      "url": "https://open.spotify.com/track/76zioMf7YolEXbCANgGBms"
+    },
+    {
+      "album": {
         "name": "Tutto quello che voglio",
         "url": "https://open.spotify.com/album/0Dl5kZJVyN0ZEZK30vy8wo"
       },
@@ -11136,6 +11352,24 @@
       "duration_ms": 140624,
       "name": "Tutto quello che voglio",
       "url": "https://open.spotify.com/track/5aYEkq7FWgoeE4DzelZD35"
+    },
+    {
+      "album": {
+        "name": "Tutto tua madre",
+        "url": "https://open.spotify.com/album/4IbIVFlMhDqCfYZw7popOd"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Tutto tua madre",
+      "url": "https://open.spotify.com/track/71opoeHJn3ezzjaWRFlt8X"
     },
     {
       "album": {

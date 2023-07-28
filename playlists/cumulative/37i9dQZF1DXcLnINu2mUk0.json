@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "100 Maneiras",
+        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
+      },
+      "artists": [
+        {
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "100 Maneiras",
+      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
+    },
+    {
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -432,6 +450,42 @@
       "duration_ms": 211826,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141461,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL"
+    },
+    {
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "album": {
@@ -1002,7 +1056,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 158095,
       "name": "Brio",
       "url": "https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50"
@@ -1446,10 +1500,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 235666,
       "name": "Conex\u00e3o Azul",
       "url": "https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5"
+    },
+    {
+      "album": {
+        "name": "Conex\u00f5es",
+        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Conex\u00f5es",
+      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
     },
     {
       "album": {
@@ -2347,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "R&B Clock",
+        "url": "https://open.spotify.com/album/0DoXmg9jYjuPmhbj9Ortvy"
+      },
+      "artists": [
+        {
+          "name": "Hidrah O Donno",
+          "url": "https://open.spotify.com/artist/1LUkGzq1z3AGByPwLNfXzR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182230,
+      "name": "Eu Ela & o Facebook",
+      "url": "https://open.spotify.com/track/7kba44tTPcgX4LOrJRNvCT"
+    },
+    {
+      "album": {
         "name": "EU SEI",
         "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
       },
@@ -2500,7 +2590,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 179200,
       "name": "Faz T\u00e3o Bem",
       "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
@@ -3523,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
+    },
+    {
+      "album": {
         "name": "Lisabonna",
         "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
       },
@@ -3776,7 +3884,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 178313,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk"
@@ -3914,7 +4022,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 148080,
       "name": "Maluca",
       "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
@@ -4034,7 +4142,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 248275,
       "name": "Metamorfose",
       "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
@@ -4746,7 +4854,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 213333,
       "name": "N\u00e3o Consigo",
       "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"
@@ -5194,7 +5302,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 215730,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
@@ -5524,6 +5632,24 @@
       "duration_ms": 189230,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
+    },
+    {
+      "album": {
+        "name": "Quero-te a Ti",
+        "url": "https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW"
+      },
+      "artists": [
+        {
+          "name": "FdAN",
+          "url": "https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165881,
+      "name": "Quero-te a Ti",
+      "url": "https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw"
     },
     {
       "album": {
@@ -5878,7 +6004,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 180403,
       "name": "Saltamos",
       "url": "https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6"
@@ -6992,7 +7118,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147351,
       "name": "T\u00e1 Pedir",
       "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"
@@ -7332,6 +7458,24 @@
       "duration_ms": 223070,
       "name": "Voando Alto",
       "url": "https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf"
+    },
+    {
+      "album": {
+        "name": "Voei",
+        "url": "https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf"
+      },
+      "artists": [
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Voei",
+      "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
     },
     {
       "album": {

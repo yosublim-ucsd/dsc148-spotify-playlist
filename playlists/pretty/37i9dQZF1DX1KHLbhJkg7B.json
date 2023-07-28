@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 92800,
+  "num_followers": 92839,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJlN2E3MWYwY2MyZDJhNDBiZTZhYmVhMjMwMTNiZDU0MGI0Mjky",
+  "snapshot_id": "MCxhOWNiZWViZWJkZTQwZGI2ZmNhNTY1OGEzZGU3Yjk3ODIzN2Y5Njc5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
       "artists": [
         {
-          "name": "Chris Ruediger",
-          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
-        },
-        {
-          "name": "The 615 House",
-          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1091,6 +1087,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "If You Want Love",
         "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 204760,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 241280,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 194459,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 180135,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+      "duration_ms": 180135,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-06-02 04:00:00",

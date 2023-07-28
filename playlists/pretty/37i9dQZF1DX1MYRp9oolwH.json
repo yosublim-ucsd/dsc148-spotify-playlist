@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 100228,
+  "num_followers": 100366,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTZkMzllYWFjZmQxZjg2ZThiMmFjNTY3NDMxNDJlZGZjYTlkODNj",
+  "snapshot_id": "MCw4YzBmMzMwNGI2ZTkyMWNkZDViZjdmNzYxM2NkMGE0ODUxNjNlMTE0",
   "tracks": [
     {
       "added_at": "2023-07-21 15:21:27",
@@ -75,6 +75,34 @@
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
       "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"
+    },
+    {
+      "added_at": "2023-07-27 13:16:48",
+      "album": {
+        "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
+        "url": "https://open.spotify.com/album/39Z2qLJpswMem7z0BnYIsw"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Tripuraneni Kalyanachakravarthy",
+          "url": "https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh"
+        },
+        {
+          "name": "Chaitra Ambadipudi",
+          "url": "https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 205215,
+      "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
+      "url": "https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN"
     },
     {
       "added_at": "2023-07-26 10:33:40",
@@ -771,30 +799,6 @@
       "duration_ms": 252775,
       "name": "Yedurangula Vaana",
       "url": "https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY"
-    },
-    {
-      "added_at": "2023-03-02 09:37:43",
-      "album": {
-        "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\") - Single",
-        "url": "https://open.spotify.com/album/4L0loyRvCzlxz7nrJrXUJN"
-      },
-      "artists": [
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
-        },
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Jaideep Vishnu",
-          "url": "https://open.spotify.com/artist/3rUxrdFuzlGMEeqB5ObIRM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\")",
-      "url": "https://open.spotify.com/track/1NQ3HJq5RklgerKBPW5RF4"
     },
     {
       "added_at": "2023-03-10 12:48:11",

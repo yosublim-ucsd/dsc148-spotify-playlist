@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 337106,
       "name": "24\u306e\u524d\u594f\u66f2 \u4f5c\u54c128 \u7b2c15\u756a\u5909\u30cb\u9577\u8abf\u300c\u96e8\u3060\u308c\u300d",
       "url": "https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
@@ -2499,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Beethoven",
+        "url": "https://open.spotify.com/album/7j08shDSL21dZ0PBxbRvFG"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "F\u00fcr Elise, WoO 59",
+      "url": "https://open.spotify.com/track/2GdsWe47tf7RNoluYqEmpV"
+    },
+    {
+      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1Q5cMBpn4o5H9qFwqo3xAP"
       },
@@ -2648,6 +2670,28 @@
       "duration_ms": 313040,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Goldberg Variations, BWV 988: Aria",
+        "url": "https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245379,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF"
     },
     {
       "album": {
@@ -2948,6 +2992,32 @@
       "duration_ms": 269466,
       "name": "Henry St.",
       "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
+    },
+    {
+      "album": {
+        "name": "Broken Glass, Vol. 4",
+        "url": "https://open.spotify.com/album/7cEPdM4kRFt7SUCrBZggKi"
+      },
+      "artists": [
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218444,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/1AtjxPzkAPSWqmLagnNlLN"
     },
     {
       "album": {
@@ -6383,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "Snowblind (Lo-Fi Version)",
+        "url": "https://open.spotify.com/album/2mHNAFuim8XN9UowSF0eDc"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208598,
+      "name": "Snowblind - Lo-Fi Version",
+      "url": "https://open.spotify.com/track/3ZtYSknLXx0T3cJrpi7GRj"
+    },
+    {
+      "album": {
         "name": "Rhapsody Japan",
         "url": "https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK"
       },
@@ -7886,7 +7974,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 232433,
       "name": "Widmung, S. 566 (After R. Schumann)",
       "url": "https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0"
@@ -8686,7 +8774,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 274466,
       "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u7b2c12\u756a \u30d8\u9577\u8abf K.332(300k) \u7b2c2\u697d\u7ae0 \u30a2\u30c0\u30fc\u30b8\u30e7",
       "url": "https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A"

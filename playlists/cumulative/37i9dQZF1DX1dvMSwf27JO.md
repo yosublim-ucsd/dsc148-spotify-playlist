@@ -4,7 +4,7 @@
 
 > music to get fly to
 
-402 songs - 21 hr 37 min
+403 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Dinsdag](https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Rarri Jackson](https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A) | [Dinsdag](https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6) | 2:42 | 2022-10-08 | 2022-12-17 |
 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 | 2022-10-07 | 2023-04-12 |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 |  |
-| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 |  |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-07-28 |
+| [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-21 |  |
 | [Doin' it Right \(feat\. Panda Bear\)](https://open.spotify.com/track/36c4JohayB9qd64eidQMBi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:11 | 2022-07-20 | 2022-08-09 |
 | [DOJA](https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [DOJA](https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL) | 2:37 | 2023-03-03 | 2023-04-12 |
 | [Dont Trip](https://open.spotify.com/track/4ptHmGn2R8D5nPDZcASfuQ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2CmNKE3L1M7OiYmZLSLycB) | 3:39 | 2023-05-19 |  |

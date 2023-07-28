@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 46522,
+  "num_followers": 46539,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
+  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "my type",
         "url": "https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 132000,
       "name": "my type",
       "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "It's Never Easy",
-        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Whiskey Bottle",
-      "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Shortcut To Heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+        "name": "It's Never Easy",
+        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 184343,
-      "name": "Shortcut To Heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+      "duration_ms": 150720,
+      "name": "Whiskey Bottle",
+      "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Lonely Soldier Boy",
-        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
-      },
-      "artists": [
-        {
-          "name": "Hujan",
-          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Kotak Hati",
-      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Sakit",
         "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
       },
@@ -735,22 +719,34 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+        "name": "Lonely Soldier Boy",
+        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
+      },
+      "artists": [
+        {
+          "name": "Hujan",
+          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Kotak Hati",
+      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "honeymoon",
+        "url": "https://open.spotify.com/album/3DbKNfUxDKZyVDslnCs6rJ"
       },
       "artists": [
         {
           "name": "brb.",
           "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 155923,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+      "duration_ms": 167832,
+      "name": "honeymoon",
+      "url": "https://open.spotify.com/track/2cAJkVpApCQuM6fYvioE9M"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -843,26 +839,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Pulang",
-        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
-      },
-      "artists": [
-        {
-          "name": "K-Clique",
-          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
-        },
-        {
-          "name": "Aj",
-          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "It's You (feat. Kaleb J)",
         "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
       },
@@ -879,6 +855,26 @@
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
+      },
+      "artists": [
+        {
+          "name": "K-Clique",
+          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
+        },
+        {
+          "name": "Aj",
+          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1007,6 +1003,26 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
+      },
+      "artists": [
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Shouldn't Have To Run",
         "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
       },
@@ -1023,6 +1039,22 @@
       "duration_ms": 165971,
       "name": "Shouldn't Have To Run",
       "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "The Outsider EP",
+        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Pager",
+      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1047,26 +1079,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
-      },
-      "artists": [
-        {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
-        },
-        {
-          "name": "NYK",
-          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
       },
@@ -1079,22 +1091,6 @@
       "duration_ms": 230060,
       "name": "A Day That Feels Better",
       "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "The Outsider EP",
-        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Pager",
-      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
     },
     {
       "added_at": "2023-04-20 15:55:01",

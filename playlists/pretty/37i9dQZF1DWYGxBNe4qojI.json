@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 333432,
+  "num_followers": 333693,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjY0ZDk5ZTQyYTJiZTYxZTFkNjVkNzI0MTAxOGI5NTgzMzg1Y2M1",
+  "snapshot_id": "MCw4YTJjOThiNTkzMTU4MzcwNGU0MGM2MTU5OTQwZDE2MDI4Zjg4Y2I1",
   "tracks": [
     {
       "added_at": "2023-06-29 23:37:21",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
+        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
       },
       "artists": [
         {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+      "duration_ms": 212760,
+      "name": "Feel Me Flow",
+      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
       "added_at": "2023-06-29 23:37:21",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
-        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
       "artists": [
         {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Feel Me Flow",
-      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2023-06-29 23:37:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 216906,
       "name": "Stop Being Greedy",
       "url": "https://open.spotify.com/track/6904O7JrAxFybd4yu3Sz2V"
+    },
+    {
+      "added_at": "2023-06-29 23:37:21",
+      "album": {
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
     },
     {
       "added_at": "2023-06-29 23:37:21",

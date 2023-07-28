@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 20th anniversary of Brad Paisley's hit album \"Mud on the Tires\" on 2000s Country!",
-  "num_followers": 709406,
+  "num_followers": 710059,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDMxNjhjM2Y2NmQyOTc0MzZmODViY2M0YzcxOTdlNTczNjFjNDIw",
+  "snapshot_id": "MCxiOTBmYzlkNWRlMmEyMWEwNzI2OGY3OGJjM2U4ZjZmYzJlNGNiMTVm",
   "tracks": [
     {
       "added_at": "2023-07-24 15:14:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 220573,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 202546,
       "name": "Amarillo Sky",
       "url": "https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
-      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Sunset Man (Standard Version)",
         "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 234640,
       "name": "Just Got Started Lovin' You",
       "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
-      },
-      "artists": [
-        {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "19 Somethin' - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "My Life's Been A Country Song",
         "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 181613,
       "name": "What Kinda Gone",
       "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
+      },
+      "artists": [
+        {
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "19 Somethin' - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "See If I Care",
-        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Nothing On But The Radio",
-      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "See If I Care",
+        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Nothing On But The Radio",
+      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "There Goes My Life",
-      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Old Things New",
         "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Chris Cagle",
         "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 210560,
       "name": "Chicks Dig It - Single Edit",
       "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "There Goes My Life",
+      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2023-07-24 15:14:12",

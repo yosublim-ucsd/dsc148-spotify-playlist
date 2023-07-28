@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "100 Maneiras",
+        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
+      },
+      "artists": [
+        {
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "100 Maneiras",
+      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
+    },
+    {
+      "album": {
         "name": "19!",
         "url": "https://open.spotify.com/album/5hL5E6DcDSlfTPy88AeucD"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 176231,
       "name": "A quela Cena",
       "url": "https://open.spotify.com/track/4nO1lpTeWFy30iLbQQsuaN"
@@ -372,6 +390,24 @@
       "duration_ms": 138857,
       "name": "ADA",
       "url": "https://open.spotify.com/track/5wMbHVkIKNLOaXrZvS97dw"
+    },
+    {
+      "album": {
+        "name": "Adiado Ca$Hduarte Version",
+        "url": "https://open.spotify.com/album/1imB7hDGe6wi9q2UOioA5D"
+      },
+      "artists": [
+        {
+          "name": "Floraby",
+          "url": "https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133337,
+      "name": "Adiado Ca$Hduarte Version",
+      "url": "https://open.spotify.com/track/4ABXjRHnxFz4RgR1eEgbtm"
     },
     {
       "album": {
@@ -560,6 +596,24 @@
       "duration_ms": 199471,
       "name": "Alma",
       "url": "https://open.spotify.com/track/0NdpQXyjJScXZ5H4wIEewD"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141461,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL"
     },
     {
       "album": {
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 253150,
       "name": "de longe",
       "url": "https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9"
@@ -3309,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "Flores (feat. Fred Mineiro)",
+        "url": "https://open.spotify.com/album/01XAxuMmJgrR74yZZBhERv"
+      },
+      "artists": [
+        {
+          "name": "Kappa Young",
+          "url": "https://open.spotify.com/artist/7BjaRn4pph6TUOZ33JfiDG"
+        },
+        {
+          "name": "Fred Mineiro",
+          "url": "https://open.spotify.com/artist/1jtX2PZFt5F9F9bjZwLQDS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195788,
+      "name": "Flores (feat. Fred Mineiro)",
+      "url": "https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6kak6DjKK5k2Asb2BQZo7b"
       },
@@ -3810,7 +3886,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 268079,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4YoPbAFWUAQojBrSxJ51dE"
@@ -3974,6 +4050,24 @@
       "duration_ms": 200086,
       "name": "Going Now",
       "url": "https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7"
+    },
+    {
+      "album": {
+        "name": "Valores",
+        "url": "https://open.spotify.com/album/4jvaYRQJ3LObu5oQ1h2v4F"
+      },
+      "artists": [
+        {
+          "name": "E2SON",
+          "url": "https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192428,
+      "name": "Grana",
+      "url": "https://open.spotify.com/track/0L3Liok2b1z26yS2u4kGCk"
     },
     {
       "album": {
@@ -4823,6 +4917,28 @@
     },
     {
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/27BGwwzTWqwTJbgSbnwB57"
+      },
+      "artists": [
+        {
+          "name": "Lord XIV",
+          "url": "https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF"
+        },
+        {
+          "name": "Dj Dadda",
+          "url": "https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Kre Mas",
+      "url": "https://open.spotify.com/track/4DbdyCdI0GqS8h0HFbWopw"
+    },
+    {
+      "album": {
         "name": "Lacrimosa Freestyle",
         "url": "https://open.spotify.com/album/5U4l27CTAxT5oUsjfTUdfx"
       },
@@ -4944,7 +5060,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 169411,
       "name": "Liga",
       "url": "https://open.spotify.com/track/1XtscSjuMl5jBbcT4OBDA3"
@@ -5056,6 +5172,24 @@
       "duration_ms": 152000,
       "name": "LONGE",
       "url": "https://open.spotify.com/track/1j6uM6WLcNbrbQNCLCfBi1"
+    },
+    {
+      "album": {
+        "name": "Longe da Cidade",
+        "url": "https://open.spotify.com/album/1HA1DDlcEoqz6d4y4QC5yt"
+      },
+      "artists": [
+        {
+          "name": "Decola",
+          "url": "https://open.spotify.com/artist/4vF5bsMZq3QEjEWCYiP0sp"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Longe da Cidade",
+      "url": "https://open.spotify.com/track/4H3oTqglc688zt0YuGdsVX"
     },
     {
       "album": {
@@ -5645,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5qXGhlIF5j32Vo4SuYBOy2"
+      },
+      "artists": [
+        {
+          "name": "Sali",
+          "url": "https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154875,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/76pmiSAa2Lzx9LJi1AqytS"
+    },
+    {
+      "album": {
         "name": "Migalhas",
         "url": "https://open.spotify.com/album/4q5Vt5fUyRAjT363uCRl6W"
       },
@@ -5663,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Milh\u00e3o",
+        "url": "https://open.spotify.com/album/4DQ1p6D9MPerlfEoN9eJPs"
+      },
+      "artists": [
+        {
+          "name": "Yung La Flame",
+          "url": "https://open.spotify.com/artist/4RcJEaTZJmbra95gDbv71J"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193632,
+      "name": "Milh\u00e3o",
+      "url": "https://open.spotify.com/track/0xNorrhfY1y3m86sURZYvH"
+    },
+    {
+      "album": {
         "name": "Minha Escolha",
         "url": "https://open.spotify.com/album/4re1WiGmbCjBFLZGOBfW7L"
       },
@@ -5678,6 +5848,24 @@
       "duration_ms": 179422,
       "name": "Minha Escolha",
       "url": "https://open.spotify.com/track/52kweQksln2jXTAxdaxuZz"
+    },
+    {
+      "album": {
+        "name": "Minha Hora",
+        "url": "https://open.spotify.com/album/2EukMhhV5YukRincmVbsCP"
+      },
+      "artists": [
+        {
+          "name": "Rez",
+          "url": "https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156886,
+      "name": "Minha Hora",
+      "url": "https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi"
     },
     {
       "album": {
@@ -6408,7 +6596,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 160862,
       "name": "No meu bairro",
       "url": "https://open.spotify.com/track/6BuYjqWXb48pRz9HenS1o5"
@@ -7554,7 +7742,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 149500,
       "name": "Pista",
       "url": "https://open.spotify.com/track/5rKkdhPxJkvD1KME7ZgZmZ"
@@ -8016,7 +8204,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 166736,
       "name": "Quem Eu Era",
       "url": "https://open.spotify.com/track/2Jxw4rrYO19ykEJBl7TI6b"
@@ -9074,7 +9262,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 177928,
       "name": "SNIPER",
       "url": "https://open.spotify.com/track/546GgCnIgXIXGZS2ZzVY84"
@@ -9208,7 +9396,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193972,
       "name": "Sopro",
       "url": "https://open.spotify.com/track/0uaEyf97Q8WcUJNDnq6Cn1"
@@ -10210,7 +10398,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 139728,
       "name": "Vergonha na Cara",
       "url": "https://open.spotify.com/track/7j7PS7CwB4XX8iNApr6ehR"
@@ -10565,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "v\u00e3o falar",
+        "url": "https://open.spotify.com/album/5ddupGTs04XKgRyZsrcXSK"
+      },
+      "artists": [
+        {
+          "name": "Dysae",
+          "url": "https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220107,
+      "name": "v\u00e3o falar",
+      "url": "https://open.spotify.com/track/2p5lLnOlGvTZ5dESeneCuX"
+    },
+    {
+      "album": {
         "name": "Autoconsci\u00eancia",
         "url": "https://open.spotify.com/album/0XD90MMmV766X9K0nNpnYC"
       },
@@ -10710,7 +10916,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 195007,
       "name": "WuWuWu",
       "url": "https://open.spotify.com/track/00CPGX8hAKI8MULSFSFU6f"

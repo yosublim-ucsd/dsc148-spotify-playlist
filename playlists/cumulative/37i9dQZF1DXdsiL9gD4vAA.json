@@ -832,7 +832,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 287269,
       "name": "Is Dil Pe Naaz Tha Mujhe",
       "url": "https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh"
@@ -1126,6 +1126,32 @@
       "duration_ms": 197786,
       "name": "Koi Yeh Kaise Bataye",
       "url": "https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms"
+    },
+    {
+      "album": {
+        "name": "Labon Se Baat - The Ghazal",
+        "url": "https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311371,
+      "name": "Labon Se Baat - The Ghazal",
+      "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
     },
     {
       "album": {

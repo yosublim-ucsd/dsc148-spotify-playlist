@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 126053,
+  "num_followers": 126082,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTg1Y2Y4ZWYzNWMzNzVjMjY3ZDk3ZDg0YmUxZTJmNTA3YTgwOTU5",
+  "snapshot_id": "MCw2NGExMDI2Nzg0YTM0OTk0ODIyYjgzMjU3MDNlYjZiMjg2ZjNmNmRi",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
-        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
-      },
-      "artists": [
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 273159,
-      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
-      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223187,
       "name": "Last Peace",
       "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
+        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
+      },
+      "artists": [
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "duration_ms": 273159,
+      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
         "name": "white dress",
         "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 337898,
       "name": "\u8679\u3068\u30ab\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
-      },
-      "artists": [
-        {
-          "name": "ERWIT",
-          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
-        }
-      ],
-      "duration_ms": 264938,
-      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Retronym",
         "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 161813,
       "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
+      },
+      "artists": [
+        {
+          "name": "ERWIT",
+          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
+        }
+      ],
+      "duration_ms": 264938,
+      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

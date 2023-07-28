@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 212429,
+  "num_followers": 212541,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
+  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
       "artists": [
         {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
         }
       ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
       },
       "artists": [
         {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
         }
       ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Soup for One (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 508226,
       "name": "Another Star",
       "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Going Back to My Roots",
-      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -563,6 +547,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Going Back to My Roots",
+      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Love Conquers All (Expanded Edition)",
         "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 498840,
-      "name": "Slave To The Rhythm - Hot Blooded Version",
-      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Just A Touch Of Love",
         "url": "https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 392733,
       "name": "Just a Touch of Love",
       "url": "https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Private Life: The Compass Point Sessions",
+        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 498840,
+      "name": "Slave To The Rhythm - Hot Blooded Version",
+      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Goody Goody",
-        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
-      },
-      "artists": [
-        {
-          "name": "Goody Goody",
-          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
-        }
-      ],
-      "duration_ms": 383093,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Where Will You Go When The Party's Over",
         "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 259653,
       "name": "Don't Let Love Get You Down",
       "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
+      },
+      "artists": [
+        {
+          "name": "Goody Goody",
+          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
       "artists": [
         {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
         }
       ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+      "duration_ms": 427990,
+      "name": "Is It All Over My Face? - Female Version",
+      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1075,22 +1091,6 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
-      },
-      "artists": [
-        {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
-        }
-      ],
-      "duration_ms": 427990,
-      "name": "Is It All Over My Face? - Female Version",
-      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
-      },
-      "artists": [
-        {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",

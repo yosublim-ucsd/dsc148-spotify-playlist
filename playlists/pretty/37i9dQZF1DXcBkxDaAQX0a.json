@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 327075,
+  "num_followers": 327116,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDQ5NTA4MTBmMjBiZGE3MTQxMzg5NzNmNmUyZTE5ZjkwOGQ1NTA3",
+  "snapshot_id": "MCw1ZmJjODFhY2MzMzVlMmMwY2Q0Y2I2MDBiMGYwZTUxZWQ2ZTljNDI5",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Aggressive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 171000,
       "name": "Hated (Acoustic Version)",
       "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Stay Beautiful",
-        "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
+        "name": "Acoustic Volume 2",
+        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
       },
       "artists": [
         {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
         }
       ],
-      "duration_ms": 227349,
-      "name": "Knuckles (Acoustic)",
-      "url": "https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed"
+      "duration_ms": 215385,
+      "name": "It Don't Exist",
+      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Acoustic Volume 2",
-        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
+        "name": "Stay Beautiful",
+        "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
       },
       "artists": [
         {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
         }
       ],
-      "duration_ms": 215385,
-      "name": "It Don't Exist",
-      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
+      "duration_ms": 227349,
+      "name": "Knuckles (Acoustic)",
+      "url": "https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -927,8 +927,8 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+      "duration_ms": 199086,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 199086,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "I'll Be a Mess Without You",
-        "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
+        "name": "From Exile",
+        "url": "https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9"
       },
       "artists": [
         {
-          "name": "Chief State",
-          "url": "https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5"
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
         }
       ],
-      "duration_ms": 277161,
-      "name": "I'll Be a Mess Without You",
-      "url": "https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm"
+      "duration_ms": 239908,
+      "name": "Last To Know - From Exile",
+      "url": "https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "From Exile",
-        "url": "https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9"
+        "name": "I'll Be a Mess Without You",
+        "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
       },
       "artists": [
         {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+          "name": "Chief State",
+          "url": "https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5"
         }
       ],
-      "duration_ms": 239908,
-      "name": "Last To Know - From Exile",
-      "url": "https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6"
+      "duration_ms": 277161,
+      "name": "I'll Be a Mess Without You",
+      "url": "https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm"
     },
     {
       "added_at": "2022-04-04 15:03:53",

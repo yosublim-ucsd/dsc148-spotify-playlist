@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "am i stupid?",
+        "url": "https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7"
+      },
+      "artists": [
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123621,
+      "name": "am i stupid?",
+      "url": "https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg"
+    },
+    {
+      "album": {
         "name": "SOZO",
         "url": "https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 251525,
       "name": "Bitter Lovers (feat. BJ The Chicago Kid)",
       "url": "https://open.spotify.com/track/4825L5vjFuzQQd9u4pKs46"
@@ -348,6 +366,32 @@
       "duration_ms": 149154,
       "name": "Boo Boo The Fool",
       "url": "https://open.spotify.com/track/5ZfXQYagB0zalPqFBBUMi1"
+    },
+    {
+      "album": {
+        "name": "Bordeaux Flow feat. Kidella",
+        "url": "https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU"
+      },
+      "artists": [
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "THAITANIUM",
+          "url": "https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8"
+        },
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200513,
+      "name": "Bordeaux Flow feat. Kidella",
+      "url": "https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp"
     },
     {
       "album": {
@@ -1510,7 +1554,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 156000,
       "name": "I don't care",
       "url": "https://open.spotify.com/track/31mcHhrlzBMtRCWdmpm2uw"
@@ -2359,7 +2403,7 @@
     },
     {
       "album": {
-        "name": "Not Worthy",
+        "name": "Not Worthy (feat. Nonso Amadi)",
         "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
       "artists": [
@@ -2376,7 +2420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192208,
-      "name": "Not Worthy",
+      "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
@@ -3135,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Sorry (Won\u2019t Cut It)",
+        "url": "https://open.spotify.com/album/5H2uQS7lUqKOBODMxfPhEa"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Sorry (Won\u2019t Cut It)",
+      "url": "https://open.spotify.com/track/6m4uEHjmZllsfB612MgxZe"
+    },
+    {
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -3542,7 +3604,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 199893,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB"
@@ -3841,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/2elFwYGq9sqhSi4j7AtjpJ"
       },
@@ -3892,7 +3972,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 141141,
       "name": "What More Can I Say",
       "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"

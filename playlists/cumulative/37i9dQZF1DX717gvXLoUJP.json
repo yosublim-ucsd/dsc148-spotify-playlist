@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 224137,
       "name": "04c",
       "url": "https://open.spotify.com/track/7goaAhD1hCMfBLsm4ePEW7"
@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/178sak90jvmbB53cdhuTVw"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        },
+        {
+          "name": "Latrice Pink",
+          "url": "https://open.spotify.com/artist/1YDeb6JCJ3uyt6l9TZGvtt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255756,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/66fgwLSpAkyfI2GAQne9pZ"
+    },
+    {
+      "album": {
         "name": "The Devil's in the Dlzlzlz",
         "url": "https://open.spotify.com/album/6LiWbP2r313Qh7PaJFasPe"
       },
@@ -132,6 +154,28 @@
       "duration_ms": 152380,
       "name": "Aston",
       "url": "https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3BXLwBdR7yPrGFiENcDxAi"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "bailando - nk & david l\u00f6hlein version",
+      "url": "https://open.spotify.com/track/565TiLHB3IpPOIclhnIxDO"
     },
     {
       "album": {
@@ -644,7 +688,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 354275,
       "name": "iteritax",
       "url": "https://open.spotify.com/track/0sDHfAWQpBazIpEAscxhPy"
@@ -857,6 +901,24 @@
     },
     {
       "album": {
+        "name": "all his decisions",
+        "url": "https://open.spotify.com/album/1Aohl1B7uvIe666oWkybrq"
+      },
+      "artists": [
+        {
+          "name": "PTU",
+          "url": "https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252191,
+      "name": "remote flow dynamics",
+      "url": "https://open.spotify.com/track/22dKI9jDDP6nFO8BJOgWm2"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/5BwVmmbHecjndkHysxIOcA"
       },
@@ -872,6 +934,24 @@
       "duration_ms": 317480,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5CSagzP8Kq3iWuVsLUSCv2"
+    },
+    {
+      "album": {
+        "name": "Let Me Bang",
+        "url": "https://open.spotify.com/album/1sYe9BWYElIO0F4HBFbMk6"
+      },
+      "artists": [
+        {
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239079,
+      "name": "Shake What Your Momma Gave Ya",
+      "url": "https://open.spotify.com/track/0oFaGC7765v7K8SZjMXO99"
     },
     {
       "album": {
@@ -1010,7 +1090,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 328770,
       "name": "superintelligence",
       "url": "https://open.spotify.com/track/52xg432SxRBoRV7YNhltkI"
@@ -1046,7 +1126,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 333500,
       "name": "tarde",
       "url": "https://open.spotify.com/track/5LrkoYgRaJlKpTQdo2E53X"
@@ -1086,6 +1166,42 @@
       "duration_ms": 313786,
       "name": "The Facts",
       "url": "https://open.spotify.com/track/0UVb3lCVXCztOZUNCg4IUQ"
+    },
+    {
+      "album": {
+        "name": "The Botox Queen",
+        "url": "https://open.spotify.com/album/0IVGnMI2xQWIHGYstkMg34"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Dubyshkin",
+          "url": "https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311071,
+      "name": "ticket to childhood",
+      "url": "https://open.spotify.com/track/3nSIvZpvO6kU87bmSGwZVV"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3BXLwBdR7yPrGFiENcDxAi"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127570,
+      "name": "tu y yo",
+      "url": "https://open.spotify.com/track/1ys2JcLP1HPriI5ZymkFyl"
     },
     {
       "album": {
@@ -1184,7 +1300,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 343693,
       "name": "white horse",
       "url": "https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz"

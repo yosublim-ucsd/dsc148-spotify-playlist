@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE
 
-715 songs - 1 day 23 hr 23 min
+716 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All We Need Is Summer Day](https://open.spotify.com/track/4qtgwiStMnnZjDDAvCayeV) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Hourglass / One More Time / All We Need Is Summer Day / 白夜の日々 \(Album Version\) / Spirit Explosion / 泡沫 \(Album Version\)](https://open.spotify.com/album/3lifxra2Pyp4H8LQvcslF6) | 2:42 | 2022-08-09 | 2022-08-24 |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2022-11-22 | 2022-12-07 |
 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-04 | 2022-08-17 |
+| [Angel](https://open.spotify.com/track/3LXcvucZIdGmD8MZ9adBh7) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Angel](https://open.spotify.com/album/0Rw2R5N7WyLBar5x5KPsNh) | 4:34 | 2023-07-27 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-05-09 | 2023-06-28 |
 | [Apophenia](https://open.spotify.com/track/3QeJpeJmuIHnggfh17S42U) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/71bWcbfdQt3vuKxYCrAYfy) | 4:06 | 2022-08-30 | 2022-09-07 |
 | [Arittake No Coin](https://open.spotify.com/track/2vOFWTnENrW7E7P1qmInal) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [Arittake No Coin](https://open.spotify.com/album/5VkVuqW3Ey9YnFCwWyZmCD) | 4:33 | 2023-03-21 | 2023-03-29 |
@@ -484,7 +485,7 @@
 | [ゆうがたフレンド \(USEFUL SONG\)](https://open.spotify.com/track/44vZrqSjWSDwjiUmoDY2RV) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0), [Keiichi Suzuki](https://open.spotify.com/artist/6qz1QFUOn2Pfc3P5nm9x1G) | [大滝詠一 NOVELTY SONG BOOK](https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU) | 4:00 | 2023-03-21 | 2023-04-21 |
 | [アイタイシタイ](https://open.spotify.com/track/0Vp8EpqhuD1DUP6wdCoqxC) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 4:50 | 2023-07-18 | 2023-07-26 |
 | [アイムリアル](https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe) | [Yoshiharu Shiina](https://open.spotify.com/artist/2YoEsDFl4XsjRk3j22YfbH) | [アイムリアル](https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56) | 3:23 | 2022-05-12 | 2022-07-27 |
-| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 |  |
+| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 | 2023-07-28 |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 |  |
 | [アポフェニア](https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW) | 4:06 | 2022-08-30 | 2022-09-01 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 |  |

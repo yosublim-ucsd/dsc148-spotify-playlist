@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,551 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,670 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 69 | [All A Share Together Now](https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [All A Share Together Now](https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i) | 3:46 |
 | 70 | [SambaFassa](https://open.spotify.com/track/07pXnLZ5IX6PTOFueCydMm) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 5:07 |
 
-Snapshot ID: `MCxhZDVkMmM3ZDI3NmUzZjViYjlmODNlMzRmODdkNjllNjk0YmNmMDMy`
+Snapshot ID: `MCw3YjJkZmYwNzFlOTg0ODZiZTcyYzk4OTRiYzgxNzdmOGVjMjA5NTEz`

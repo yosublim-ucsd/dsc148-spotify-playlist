@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-138 songs - 6 hr 28 min
+139 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 | 2022-04-15 |  |
 | [Best You](https://open.spotify.com/track/3lW4nTduQYmPnCE1HSLFr9) | [Raii & Whitney](https://open.spotify.com/artist/0VggbrsHmboYkwd8tIfskn) | [Best You](https://open.spotify.com/album/4BLSK7Q1bCRpI1JmOgxnVG) | 3:55 | 2022-04-15 |  |
 | [Born From The Land](https://open.spotify.com/track/57t47oUQJIpKD0s4hNASYj) | [Konshens the MC](https://open.spotify.com/artist/0EnMtr4oPQrGZelXq96IBB), [The Earth Band](https://open.spotify.com/artist/04VXEEv7kTvvWlpp3MUoi8), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Doctor Noize](https://open.spotify.com/artist/2LWUw8CUOG9nCSlCQJXSX4), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Mzansi Youth Choir](https://open.spotify.com/artist/3jfrL6OHcKhCAI27qr3ViJ) | [Funk The Earth](https://open.spotify.com/album/3Yxv92kSQjYLLIuUtHNJfV) | 2:17 | 2022-04-15 |  |
-| [Breathe \- Radio Mix](https://open.spotify.com/track/3reSYEncpM0SorYfQVJypk) | [Captain Festus McBoyle](https://open.spotify.com/artist/6EX0vGvZClOwredyU8O2BD) | [Breathe \(Radio Mix\)](https://open.spotify.com/album/66hXajZcZPfoASZkQPuxje) | 2:50 | 2022-04-15 |  |
+| [Breathe \- Radio Mix](https://open.spotify.com/track/3reSYEncpM0SorYfQVJypk) | [Captain Festus McBoyle](https://open.spotify.com/artist/6EX0vGvZClOwredyU8O2BD) | [Breathe \(Radio Mix\)](https://open.spotify.com/album/66hXajZcZPfoASZkQPuxje) | 2:50 | 2022-04-15 | 2023-07-28 |
+| [Breathe \- Radio Mix](https://open.spotify.com/track/7I0zt4W06g4wgO38L3aavb) | [Captain Festus McBoyle](https://open.spotify.com/artist/6EX0vGvZClOwredyU8O2BD) | [Look Wot the Cat Dragged in](https://open.spotify.com/album/39ixOeiT8PoOdM0rKCT1bA) | 2:50 | 2023-06-21 |  |
 | [Brothers & Sisters](https://open.spotify.com/track/6wNMg5q7l9hBML29D45Yq1) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Brothers & Sisters](https://open.spotify.com/album/2yfEN46713k8LsXlXXyycS) | 2:51 | 2022-04-15 |  |
 | [Bubbles](https://open.spotify.com/track/6FtKyvGQxN3KqSLGU51MD0) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS), [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 2:52 | 2022-04-15 |  |
 | [Burpin' Bob the Surfin' Frog](https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 1:22 | 2022-05-25 |  |

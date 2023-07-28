@@ -4,13 +4,14 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-340 songs - 16 hr 36 min
+341 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-05-12 |  |
 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 | 2022-09-30 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-07-08 | 2023-01-06 |
+| [ADU](https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [Sam Helix](https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6) | [ADU](https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM) | 2:23 | 2023-07-14 |  |
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 | 2022-12-17 |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 |  |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
@@ -182,7 +183,7 @@
 | [Lights Go Down](https://open.spotify.com/track/2M2itA0spt6ZXit7l21WMJ) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu), [Why So Low](https://open.spotify.com/artist/4udkcJD4btZYw9AOlCBDMK) | [Lights Go Down](https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C) | 2:31 | 2021-10-29 | 2022-08-06 |
 | [LIKE IT LIKE THAT](https://open.spotify.com/track/30rKQFJZCiC2fN0ONdBH2s) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [LIKE IT LIKE THAT](https://open.spotify.com/album/5HS01UhpXnWSBEtUbvd62E) | 2:03 | 2021-10-29 | 2022-06-21 |
 | [Like That](https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Like That](https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U) | 2:27 | 2022-04-15 | 2023-03-08 |
-| [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-30 |  |
+| [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-30 | 2023-07-28 |
 | [Like This \(feat\. AMY MIYÚ\) \- Carta Edit](https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Like This \(feat\. AMY MIYÚ\) \[Carta Edit\]](https://open.spotify.com/album/7E9ci5D1kdxQO9uPCRlKMI) | 2:22 | 2021-10-29 | 2022-05-15 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2022-12-16 |  |

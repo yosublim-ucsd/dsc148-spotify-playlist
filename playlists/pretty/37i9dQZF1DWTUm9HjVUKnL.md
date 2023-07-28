@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,501 likes - 886 songs - 2 day 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,519 likes - 886 songs - 2 day 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 61 | [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 |
 | 62 | [help herself \(dnb remix\) \- spotify single](https://open.spotify.com/track/79tCD94biwEmzQ3g0Yqe5c) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:06 |
 | 63 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
-| 64 | [hide and seek \- Spotify Singles](https://open.spotify.com/track/1Tdwor7XIfNx4K5PlNOfbj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 3:15 |
-| 65 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 |
+| 64 | [hide and seak](https://open.spotify.com/track/68pQs9zjJNKUr09DVITaaG) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/38GPVZYcg9yZWZQOLFn3NP) | 3:15 |
+| 65 | [sideways](https://open.spotify.com/track/2D0gHY67oqcaPl828gzGfv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/38GPVZYcg9yZWZQOLFn3NP) | 2:37 |
 | 66 | [people pleaser \- Spotify Singles](https://open.spotify.com/track/4pt2q4CYb9gRJq48mQ7HIE) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:27 |
 | 67 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 68 | [Blood Rush \- Spotify Singles](https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 3:17 |
@@ -895,4 +895,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 885 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 886 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw1MjJlZTg2Mjk0NjQ2OTI0ZDg1NDU1OWZiZDdhM2Y5OGE1ODlkNGI3`
+Snapshot ID: `MCw2NzdjNzIxM2YzMTY5MmM1MjA2NWI4MDA2NDY5NTIyYWI3ZDNmMGRi`

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 150943,
+  "num_followers": 150979,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTk4YjE2MzgxYWI0OWQxZDhkMDg2M2Q0ZTA2ZWMyYjRkNDgxNTkz",
+  "snapshot_id": "MCxkNjc5ZGY3MzQ3NDQ2YTU0YjVlYjM5NmFjMGFiZmU3NTUwN2M4YzUy",
   "tracks": [
     {
       "added_at": "2023-07-24 15:16:31",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Watching Movies with the Sound Off (10th Anniversary)",
-        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 264217,
-      "name": "The Star Room (OG Version) - Bonus Track",
-      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -283,6 +263,22 @@
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -303,18 +299,22 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+        "name": "Watching Movies with the Sound Off (10th Anniversary)",
+        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+      "duration_ms": 264217,
+      "name": "The Star Room (OG Version) - Bonus Track",
+      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Autumn breeze",
-        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "Autumn breeze (Feat. Milky Day)",
-      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+        "name": "Autumn breeze",
+        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+      "duration_ms": 174683,
+      "name": "Autumn breeze (Feat. Milky Day)",
+      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1075,6 +1055,26 @@
       "duration_ms": 228389,
       "name": "Feels So Good \u25d1",
       "url": "https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 223160,
       "name": "Oceansize",
       "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2023-07-24 15:16:31",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-07-24 15:16:31",
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6NQYvAcFnLvL3c7dk0HngW"
+      },
+      "artists": [
+        {
+          "name": "L.A. Rose",
+          "url": "https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr"
+        }
+      ],
+      "duration_ms": 190075,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/7hn5uXhjeHwGWbqCPdBtwY"
+    },
+    {
+      "added_at": "2023-07-24 15:16:31",
+      "album": {
         "name": "Some Place Else",
         "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
       },
@@ -1715,26 +1731,6 @@
       "duration_ms": 214885,
       "name": "Some Place Else",
       "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
-    },
-    {
-      "added_at": "2023-07-24 15:16:31",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
-      },
-      "artists": [
-        {
-          "name": "Nomyn",
-          "url": "https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN"
-        },
-        {
-          "name": "Angelicca",
-          "url": "https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP"
-        }
-      ],
-      "duration_ms": 196989,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

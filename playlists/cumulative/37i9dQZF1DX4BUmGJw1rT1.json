@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        },
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210428,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "album": {
         "name": "Don't Let the Green Grass Fool You",
         "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
@@ -3198,7 +3220,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 200226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"

@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> Beautifully chilled vocals from around the world\. Cover: PHABO
+> Beautifully chilled vocals from around the world\. Cover: Snoh Aalegra
 
-170 songs - 8 hr 49 min
+172 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-08 | 2023-06-21 |
 | [RM\. 143 \- RM112 Remix](https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [RM\. 143 \(RM112 Remix\)](https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2) | 3:00 | 2023-07-21 |  |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/3mmJDYnT5mowOO8JzX339t) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/0vzqawXZNRIlR6o8ruxXDK) | 2:50 | 2023-05-14 | 2023-07-22 |
+| [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-07-27 |  |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-23 | 2023-07-22 |
 | [Safe Place](https://open.spotify.com/track/5Lw5G1npf7nzIpLZIedTsj) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4) | 3:35 | 2023-02-23 | 2023-05-15 |
 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2023-02-23 |  |
@@ -174,6 +175,7 @@
 | [Villain](https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [Villain](https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk) | 2:26 | 2023-05-14 | 2023-07-22 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-09 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/76HTR3j128J2G6ipyh6XAd) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo) | 2:46 | 2023-05-14 | 2023-07-22 |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-27 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-05-14 |  |
 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2023-02-23 | 2023-05-15 |
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2023-02-23 |  |

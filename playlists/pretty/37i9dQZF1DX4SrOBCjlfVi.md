@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Travis Scott, Ice Spice and more\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,264 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,351 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [I'm Wit It](https://open.spotify.com/track/3aK5uCke5IRouAzI1JmS8s) | [Onsight Deeda](https://open.spotify.com/artist/3T6NFoNsKDpm22Ve9YsdAO) | [I’m Wit It](https://open.spotify.com/album/19ydK312wBB0ZbYeONNgzs) | 4:03 |
 | 49 | [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:39 |
 
-Snapshot ID: `MCw5YTZmZTU4MDIwZTMxY2Y2YmJjNzY0ZTFjYzcxN2ZiYmU3NmY3ZGMy`
+Snapshot ID: `MCxjYzNmMzRmNGIxOTFlZmY1MTEzODM5Zjc4NDYzN2MzMmYyNThjNzU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,366 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,443 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 23 | [PELOTUDA](https://open.spotify.com/track/5jq68GFT3eBI341pgT5Zwh) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [PELOTUDA](https://open.spotify.com/album/7ttTUSFx4HqlALyCqqOxDP) | 3:05 |
 | 24 | [Carpe Diem](https://open.spotify.com/track/2aG5jnSGJVLrutTzGfk0US) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Carpe Diem](https://open.spotify.com/album/2vRXlheB4qcUxzN93zTu8C) | 1:22 |
 | 25 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 |
-| 26 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 |
+| 26 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 |
 | 27 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 |
 | 28 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/4ggrH4V2eKpf2xDfHMuRrq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/44MB3M5UPDawANWNBaauw0) | 2:53 |
 | 29 | [Sin Drama](https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 | 100 | [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 |
 
-Snapshot ID: `MCw1Yjg0NGY3OTc0YzNlZDM3ZTk0ZWM0MTBmNzdiMjc1OWJiNTJmMzY2`
+Snapshot ID: `MCwzYTNiZmRlMmJiMTEzYTY3NGU0Nzg4ODBhOWZhMGNiOTYzNTQzMmZi`

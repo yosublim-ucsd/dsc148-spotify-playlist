@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,637 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,643 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 44 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
 | 45 | [Platitudes](https://open.spotify.com/track/5r9dJqQcV399RuMGNzMmCi) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Platitudes](https://open.spotify.com/album/6DngJn7aV8PQhjchYab7Ue) | 2:00 |
 | 46 | [house cats](https://open.spotify.com/track/1P2VyW7kOOppI7HEiWs9hq) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [house cats](https://open.spotify.com/album/4H3JdnArFbaRHfjEinbS0C) | 2:48 |
-| 47 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 |
+| 47 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 48 | [Eveningstar](https://open.spotify.com/track/6R5konGlxf9XDRBytKI2pr) | [Noble Oak](https://open.spotify.com/artist/2nRa4MTDbaywCvODRKBbW1) | [When It Finds You](https://open.spotify.com/album/44lN8d3QFB0eUtka5U7FTP) | 4:00 |
 | 49 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 | 50 | [Friends in Bed](https://open.spotify.com/track/2gxRDXknHioKAiids3TskK) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Doom](https://open.spotify.com/album/6PczSjXvfPn904DxMCInHg) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/7IS25VAQf7gVKBFqqSlOYW) | [Zoe Sky Jordan](https://open.spotify.com/artist/2eA4glPCdlED6WRJreG0aS) | [Selfish](https://open.spotify.com/album/6klbUhqZOmHCPhBxP9rqdI) | 4:12 |
 | 100 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 |
 
-Snapshot ID: `MCxmYTUxMDE0YTA1NzFmYjBjNWMwZTRjMTc4ODY4NWUzMDc5YjQzODY4`
+Snapshot ID: `MCw4NTQ4OTZmNDZjODNkZWU4OTFjODhmYmQ2NjE2YWZlMDM1NThhMzVj`

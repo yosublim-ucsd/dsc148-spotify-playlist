@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: El Jordan 23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,926 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,389 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 52 | [Toda Guapa](https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Toda Guapa](https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2) | 2:35 |
 | 53 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 |
 | 54 | [Millonarios Juntos](https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Millonarios Juntos](https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU) | 3:02 |
-| 55 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
+| 55 | [Rika](https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG) | 3:08 |
 | 56 | [Maquiavélica](https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Maquiavélica](https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K) | 2:42 |
 | 57 | [Cuentame](https://open.spotify.com/track/2bgVRuGe3elcUxs1stflQI) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx) | [Cuentame](https://open.spotify.com/album/5Igfp6o04XIsUKLvoIqm8I) | 2:36 |
 | 58 | [Un Beso Tuyo](https://open.spotify.com/track/2ZLusQxisKJoUdfn6q2agZ) | [Jhon Jairo](https://open.spotify.com/artist/5chrUnljyCjbuV033ssuf2), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Baukan](https://open.spotify.com/artist/1szImfbTMKwuPqhp0s4kgM) | [Un Beso Tuyo](https://open.spotify.com/album/2OnsKeTfOJII8hTlLCy9Ih) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 99 | [Fluye](https://open.spotify.com/track/5nAzaS0V99hJURAOcnQmM7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [WorKING](https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl) | 2:51 |
 | 100 | [Ganas de Verte](https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Ganas de Verte](https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz) | 3:49 |
 
-Snapshot ID: `MCxiMmYyMWRiMmFiNjU0YzlkOTE0MDk3ZjJiNTRjNDk1MmUzNmY1ZTdj`
+Snapshot ID: `MCxhMGM0MTZlNGE4ZWFhOTAxNDIxNmM3YTIzNTg2YzQ2MTA5Nzg1NGJk`

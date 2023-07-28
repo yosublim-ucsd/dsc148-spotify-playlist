@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 41591,
+  "num_followers": 41723,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWRhYTlkNGZhYjQwMjIzOTBhOTdlZTg0NDU2OGM5NDQxZWZmZmRm",
+  "snapshot_id": "MCwxYjgxZDYwNTM1Nzc2NWE2OWIyNTFhNDc2OWRlNWJjNDE5YWZlOGE1",
   "tracks": [
     {
       "added_at": "2023-07-05 22:15:45",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Si Es Posible",
         "url": "https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 166666,
       "name": "Piel de Seda",
       "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "856 para el Mundo",
         "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 281106,
       "name": "Amor",
       "url": "https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 194962,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Mil Maneras De Morir",
         "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 189881,
       "name": "Mil Maneras De Morir",
       "url": "https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Todo Depende De Ti",
-        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Desde El Cant\u00f3n (en Vivo)",
         "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Del Corazon",
         "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "El Amor De Mi Vida",
-        "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "El Problema",
         "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 178431,
       "name": "Quiero Darte",
       "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "MMXX's",
+        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "MMXX's",
+      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Soy El Nata",
         "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Jalo",
-        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 145277,
-      "name": "Jalo",
-      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Ariel Camacho Para Siempre",
-        "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
+        "name": "Jalo",
+        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 211776,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
+      "duration_ms": 145277,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-257 songs - 18 hr 44 min
+258 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 | 2023-04-07 |  |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-11 | 2023-03-10 |
 | [knowledge](https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [knowledge](https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ) | 4:59 | 2021-12-10 | 2022-09-29 |
-| [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 | 2021-12-10 |  |
+| [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 | 2021-12-10 | 2023-07-28 |
 | [La promesse \- Niklas Paschburg Remix](https://open.spotify.com/track/3Zz0A5CrwY6oXB4ohpZcka) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [La promesse \(Niklas Paschburg Remix\)](https://open.spotify.com/album/7uIeawzFuEvnkpTIe4YarF) | 3:45 | 2022-03-18 | 2022-04-02 |
 | [La Vagabonde \- Joseph Shabason Remix](https://open.spotify.com/track/2L87wbWMzkfROOK6RrmU5l) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Alex Browne](https://open.spotify.com/artist/2C40oMx7YBkyeQYFM5EYje), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Sam Pankey](https://open.spotify.com/artist/5QFJcdb17mZhZY4abURZwi), [Jonathan Sielaff](https://open.spotify.com/artist/2iFj0PlOS7CRZcBY5hauRy), [James Suter](https://open.spotify.com/artist/1pNu7KWhpt9jAenIMrxhlJ) | [La Vagabonde \(Joseph Shabason Remix\)](https://open.spotify.com/album/5ujDpwlmvXWOvjkUVjOkC5) | 5:05 | 2022-06-03 | 2022-10-11 |
 | [La Vie](https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:20 | 2021-12-10 | 2022-04-02 |
@@ -195,6 +195,7 @@
 | [Poly \(and 74 musicians\)](https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Poly \(and 74 musicians\)](https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW) | 4:20 | 2023-06-30 |  |
 | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/track/2AuxT9fsyDo1LtUPFiFNY1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/album/5Mb60mwLpAHBFqoDWfLpgS) | 5:52 | 2021-12-10 | 2022-07-22 |
 | [Prayers](https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Prayers](https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb) | 5:07 | 2022-12-08 | 2023-01-05 |
+| [Páthē](https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Páthē](https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9) | 5:41 | 2023-07-14 |  |
 | [Rameau, etc](https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ) | [PAVANE](https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB) | [Rameau, etc](https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1) | 4:05 | 2022-03-25 | 2023-06-23 |
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- Levitation Mix](https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(Levitation Mix\)](https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX) | 3:35 | 2022-06-24 |  |
 | [Rembihnútur \- Liminal re\-work by Paul Corley](https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:24 | 2022-03-25 | 2022-04-01 |

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: cura
+> Il meglio dell'R&B italiano\. Cover: Saintess
 
-367 songs - 18 hr 8 min
+369 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 | 2022-05-19 | 2023-01-27 |
 | [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/track/1Dd1l5fKJEInJlH8eKWJ0L) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/album/2CA5FxqmGHKOTfR9H4REoF) | 3:20 | 2022-12-15 |  |
 | [FUORI DI TE](https://open.spotify.com/track/1mLlEeGAGfojR6RPks8bFU) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD) | [FUORI DI TE](https://open.spotify.com/album/6CC0tpeNu8MiRVqCP6BFZU) | 2:30 | 2022-12-08 | 2023-02-03 |
-| [Futurama](https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Futurama](https://open.spotify.com/album/5O80iVijdX4uJIF4iTWyp5) | 2:19 | 2023-01-25 |  |
+| [Futurama](https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Futurama](https://open.spotify.com/album/5O80iVijdX4uJIF4iTWyp5) | 2:19 | 2023-01-25 | 2023-07-28 |
 | [GALATTICO](https://open.spotify.com/track/2ubrXzljPjsnbufW0uiwD5) | [Francesco Savini](https://open.spotify.com/artist/2gJTQtqoLBEtaCZhbdPI63) | [GALATTICO](https://open.spotify.com/album/0vpQdpi4URPSxKYXZMUKsf) | 3:04 | 2023-05-18 | 2023-06-09 |
 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 | 2023-01-26 |  |
 | [Geisha](https://open.spotify.com/track/3YvBbdZuOmbM2Q39B4lYbm) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [TUCANO'S PARTY](https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z) | 2:55 | 2022-11-24 | 2023-01-13 |
@@ -143,6 +143,7 @@
 | [Hangover](https://open.spotify.com/track/2KYiGWhzTezhiurZpd8g4f) | [Nese Ikaro](https://open.spotify.com/artist/15JcKmQooq4qeUn6jdN8f0), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [Hangover](https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q) | 2:28 | 2022-05-12 | 2022-08-26 |
 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 | 2022-06-02 | 2022-07-29 |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-05-05 | 2022-07-01 |
+| [I film non sono bastati](https://open.spotify.com/track/4SSCJmAu1ApX5X0TCUjUJk) | [Babele](https://open.spotify.com/artist/6IDs1szGoCenQqszHvAkuD) | [I film non sono bastati](https://open.spotify.com/album/5WA8sgHBo43yXSqozRbkfS) | 2:40 | 2023-07-27 |  |
 | [Igloo](https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Igloo](https://open.spotify.com/album/5AA5aRX6SDYGP6HbcXvlQz) | 2:35 | 2022-10-06 | 2023-02-03 |
 | [Il Male \- Italian Version](https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75) | [TECHNOIR](https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI) | [Il Male \(Italian Version\)](https://open.spotify.com/album/0NqZ0hiTf1zcJwP6ak50WU) | 3:08 | 2023-03-09 | 2023-04-21 |
 | [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-17 | 2022-12-08 |
@@ -283,7 +284,7 @@
 | [Rompicapo](https://open.spotify.com/track/2W9ybKz6W9o4zY3Q2cECZO) | [Asja](https://open.spotify.com/artist/1PDspizp7X8CgN7AyAfG5t) | [Rompicapo](https://open.spotify.com/album/6MFIK0ZAfWVeu8gnqmWY3R) | 3:04 | 2022-12-08 | 2023-02-03 |
 | [ROOM 23](https://open.spotify.com/track/196D8eiQplLX4y0qnLzaDu) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940) | [ROOM 23](https://open.spotify.com/album/09hhhTqVQsKDqipq33eExA) | 2:46 | 2022-07-21 | 2023-01-20 |
 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 | 2022-05-05 | 2023-01-27 |
-| [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 | 2022-12-01 |  |
+| [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 | 2022-12-01 | 2023-07-28 |
 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 | 2023-04-13 |  |
 | [Salvami](https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO) | [Yorker](https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1), [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Una](https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX) | 3:18 | 2022-07-14 | 2022-09-23 |
 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 | 2022-09-22 |  |
@@ -374,6 +375,7 @@
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |
 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 | 2023-01-19 |  |
 | [ZERO PIANI](https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [CATRAME](https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i) | 3:06 | 2022-06-30 | 2022-09-30 |
+| [Zucchero e Sale](https://open.spotify.com/track/7j0VFuLHABoRBuNHiAKclJ) | [Galèn](https://open.spotify.com/artist/6BfdGC99OcQ2v5ybCxWIR0) | [Zucchero e Sale](https://open.spotify.com/album/2CcnyLHcE1xqn2AtVBzHDM) | 2:54 | 2023-07-27 |  |
 | [È tutto un caos](https://open.spotify.com/track/3mqVYZ2gRrOIWuFTDX0mNy) | [GALLI](https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue) | [È tutto un caos](https://open.spotify.com/album/7nVFGjDRKijK9MDU2BzV8e) | 2:51 | 2023-03-23 | 2023-05-05 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

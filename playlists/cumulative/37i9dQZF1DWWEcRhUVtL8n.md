@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: The Beaches
 
-1,627 songs - 3 day 13 hr 49 min
+1,629 songs - 3 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Dinner Plate](https://open.spotify.com/track/2eo2NthlFk3a2FFBIHefIQ) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Dinner Plate](https://open.spotify.com/album/3jKhthY1haEm1ocbmTgf74) | 2:13 | 2020-11-20 | 2021-01-15 |
 | [Dionne](https://open.spotify.com/track/2lKVd2seyW6OUlMtdPaG5H) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Dionne](https://open.spotify.com/album/0QHRQl3t7U9f0WDcNAbGMY) | 3:41 | 2021-02-24 | 2021-05-24 |
 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 | 2020-10-13\* | 2021-06-03 |
-| [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 |  |
+| [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 | 2023-07-28 |
 | [dirty laundry](https://open.spotify.com/track/3YqR8e9TdO83Hq0a3MwlEE) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [ap vol\. I](https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe) | 2:31 | 2022-10-15 | 2022-10-22 |
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2023-04-21 |  |
 | [Disgustingly Perfect](https://open.spotify.com/track/3TyqbrNobEQI53qfkYiBTV) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Shades Of Indigo](https://open.spotify.com/album/2MZigZKrCrvDzLK2BQIYEF) | 2:55 | 2022-10-15 | 2022-12-10 |
@@ -1270,6 +1270,7 @@
 | [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 | 2023-07-21 |  |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2022-12-10 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-10-11 | 2021-10-14 |
+| [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 |  |
 | [sickk](https://open.spotify.com/track/5Zay7XJG5kKZjobCGshwMo) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [sickk](https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3) | 4:05 | 2022-04-01 | 2022-06-10 |
 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 | 2020-10-20 | 2020-10-21 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-10 | 2022-07-23 |
@@ -1517,6 +1518,7 @@
 | [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 | 2023-07-22 |
 | [UGLY](https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td) | [Celeste Allison](https://open.spotify.com/artist/0w2MWipQo91kgrOdu5GjlB) | [UGLY](https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK) | 3:42 | 2022-02-25 | 2022-07-29 |
 | [Ugly Ending](https://open.spotify.com/track/3r9yXRs067jbw1GkWpQVlC) | [Best Frenz](https://open.spotify.com/artist/2gUtWSZwLhDitFVAezHsfv), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Jason Suwito](https://open.spotify.com/artist/74QeguyCOML1X9s4dXU2Dz) | [Ugly Ending](https://open.spotify.com/album/185zeWoF6jsptjvg2Ui1RG) | 3:58 | 2021-02-23 | 2021-05-26 |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |
 | [UNBOUND \- Austin Millz Remix](https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [UNBOUND \(Austin Millz Remix\)](https://open.spotify.com/album/3jUoYwBHyDxjozwc6DpQyj) | 2:40 | 2020-11-03 | 2021-02-24 |
 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-09 | 2023-06-24 |
 | [Unfold](https://open.spotify.com/track/1QFyp1h3FcZiZqOf3QIGZe) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 4:45 | 2021-05-03 | 2021-05-26 |
@@ -1560,7 +1562,7 @@
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-11 | 2022-04-15 |
 | [What You're Made Of](https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What You're Made Of](https://open.spotify.com/album/3V1JAPu9uyL0n7DU1hdrzP) | 2:52 | 2021-06-03 | 2021-06-04 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
-| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 | 2023-07-28 |
 | [What's Wrong](https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [What's Wrong](https://open.spotify.com/album/3L275DRtt9sRWWdGMRDQ51) | 2:57 | 2021-04-03 | 2022-04-29 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-25 | 2022-10-08 |
 | [WHATDOISAY?](https://open.spotify.com/track/0w69QFnWIwTCwEzI1lxkTC) | [Maggie Miles](https://open.spotify.com/artist/3fU7b1NSQYROvvdepD4PZ0) | [WHATDOISAY?](https://open.spotify.com/album/1a0pyLgTaQHKVJJlxm4m8p) | 3:09 | 2020-10-20 | 2021-05-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345530,
+  "num_followers": 345589,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx",
+  "snapshot_id": "MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK"
-      },
-      "artists": [
-        {
-          "name": "Morixo",
-          "url": "https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA"
-        },
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Affirmations (feat. Anelisa Lamola)",
         "url": "https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 201322,
       "name": "Affirmations (feat. Anelisa Lamola)",
       "url": "https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK"
+      },
+      "artists": [
+        {
+          "name": "Morixo",
+          "url": "https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA"
+        },
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
-        }
-      ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
     },
     {
       "added_at": "2023-07-14 04:01:00",

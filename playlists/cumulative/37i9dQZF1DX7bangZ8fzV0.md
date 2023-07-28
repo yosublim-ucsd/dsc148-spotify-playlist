@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=rR1PpJXuSFO7jh3FvO\-2Vw">Franja Du Plessis</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=WJ27S\-o\-TkiNRTAGWXM4Sw">Bobby Van Jaarsveld</a>
 
-159 songs - 8 hr 52 min
+160 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 |  |
-| [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 |  |
+| [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 | 2023-07-28 |
 | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG) | 4:02 | 2023-03-16 | 2023-05-05 |
 | [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 |  |
 | [Oor te Begin](https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Opsoek Na Liefde](https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX) | 3:16 | 2022-06-09 | 2023-06-30 |
@@ -147,6 +147,7 @@
 | [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 | 2023-06-23 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-06-15 |  |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 |  |
+| [Toe, Nou en Altyd](https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Toe, Nou en Altyd](https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy) | 3:41 | 2023-07-27 |  |
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/4PhA0GhiJi3KTCURQBCYEW) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:12 | 2021-04-19 | 2022-11-13 |

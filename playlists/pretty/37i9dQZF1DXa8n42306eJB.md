@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,933 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,044 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 40 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 |
 | 41 | [Love & Reggae](https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:33 |
 | 42 | [The Road](https://open.spotify.com/track/7FjDqh7l9067MGkQOzJXul) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/2Qms1V12aKLwfC3Nb6ffHm) | 3:35 |
-| 43 | [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 |
+| 43 | [Conquerors](https://open.spotify.com/track/2TvCkdR6F39VVA6WuxSW4M) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/4ooGe3IRb9delicgd0oAv0) | 2:49 |
 | 44 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
 | 45 | [Souljah Feeling \(with Chad Chambers\)](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
 | 46 | [If Tomorrow Never Comes](https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh) | 3:50 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCw1Njk3NWQxZjcyMTNmNmJlNTQ0YzNhYWM2NTczZDY2NjdlOTgxOWY3`
+Snapshot ID: `MCw5YjdiMDBkMzEyOTU5Y2Y3NDYxNWFhNmE0MjA0YjVjMjhhZDYzNzAw`

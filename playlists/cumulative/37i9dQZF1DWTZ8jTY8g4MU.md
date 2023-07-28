@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-163 songs - 10 hr 40 min
+165 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [الحلا والرقة](https://open.spotify.com/track/2I0JqlIwvI8AtR3M3v0oGe) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [الحلا والرقة](https://open.spotify.com/album/1g5O0y3SyVcyQ5EyVjErTq) | 4:02 | 2023-02-22 |  |
 | [الزمن دوار](https://open.spotify.com/track/1CTX0NAUvAZN3X2rUhoqfR) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [الزمن دوار](https://open.spotify.com/album/2PF6wJILCDKZ8mAHci19Eu) | 3:52 | 2022-08-31 | 2023-03-15 |
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-11-03 |
+| [الزين القوي](https://open.spotify.com/track/2DL9axGXUKv7oP9xcKSljz) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [الزين القوي](https://open.spotify.com/album/7EO8MwFRrTD66x1NJQFNxJ) | 3:12 | 2023-07-27 |  |
 | [العشق الجميل](https://open.spotify.com/track/1E6NxvgjVll87cMrMZPZhq) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/6hRg311Va2xhZ5PUOiHajd) | 2:40 | 2022-08-31 |  |
 | [العشق الجميل](https://open.spotify.com/track/5QhBa6hHquzB2ZgQeId5N4) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/2UlZgHAN2Jl0F17XFTR4hi) | 2:40 | 2022-03-30 | 2022-11-02 |
 | [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 | 2023-03-08 |  |
@@ -116,6 +117,7 @@
 | [قسوة زماني](https://open.spotify.com/track/1xS12rwx7LT7wwUDXRtzm1) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [قسوة زماني](https://open.spotify.com/album/4NDmtB4PwBPCoFgbInJB9P) | 3:28 | 2022-03-30 | 2022-06-14 |
 | [قوس](https://open.spotify.com/track/0aR1vyY71yHDHAmyz64trE) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [قوس](https://open.spotify.com/album/2xE0r2WvbfqGBi5cj47CcB) | 4:01 | 2022-03-30 | 2022-11-03 |
 | [قوس](https://open.spotify.com/track/0rPpEWXp2XynC2CX1jyGk8) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [قوس](https://open.spotify.com/album/79xWt8UkQRMA0rM1z3BAJR) | 4:01 | 2022-08-31 | 2023-02-23 |
+| [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 | 2023-07-27 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-03-30 | 2022-11-03 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-08-31 |  |
 | [كيف حالك](https://open.spotify.com/track/0Ds7FDZmyfC8YGCfwJGYDT) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [كيف حالك](https://open.spotify.com/album/49gMMDBmuFcD3Ezn6sfBim) | 3:55 | 2022-03-30 | 2022-06-14 |

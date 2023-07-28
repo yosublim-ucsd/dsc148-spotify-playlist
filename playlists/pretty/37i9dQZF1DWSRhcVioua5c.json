@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 63902,
+  "num_followers": 63946,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWExNmRlMDhlNTZjNmJiZjRhODI2ZDBlZTljY2ZlN2M4NDEzNjg0",
+  "snapshot_id": "MCwyZjAxN2NkMGU1YmEwZTVmYjUwMGJmNDY3YmZhMmNiZTlkYWRiNDQ2",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Devu\u00e9lveme el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 180499,
-      "name": "Devu\u00e9lveme el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Los Del Portezuelo",
         "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 203333,
       "name": "Al So\u00f1arte",
       "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -955,34 +955,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT"
       },
       "artists": [
         {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+      "duration_ms": 267012,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1003,18 +987,34 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT"
+        "name": "Al Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 267012,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7"
+      "duration_ms": 228961,
+      "name": "Al Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 165399,
+      "name": "Ya No Juegues Conmigo",
+      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
       },
@@ -1079,6 +1095,22 @@
       "duration_ms": 227082,
       "name": "No Quisiera Quererte",
       "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1115,38 +1147,6 @@
       "duration_ms": 174888,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 165399,
-      "name": "Ya No Juegues Conmigo",
-      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1195,6 +1195,26 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Flor Palida",
+      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        },
-        {
-          "name": "Sebastian Llapur",
-          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Flor Palida",
-      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 217020,
       "name": "Cerca del Sol",
       "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Para Que Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 185429,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Para Que Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Corazon Sin Tiempo",
-        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
         }
       ],
-      "duration_ms": 217680,
-      "name": "Corazon Sin Tiempo",
-      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Corazon Sin Tiempo",
+        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Corazon Sin Tiempo",
+      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
     },
     {
       "added_at": "2023-06-09 03:00:00",

@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "A New Reality Mind",
+        "url": "https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy"
+      },
+      "artists": [
+        {
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221187,
+      "name": "Reality Mind",
+      "url": "https://open.spotify.com/track/553klLGtJCONJztTXktVF6"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 262062,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"

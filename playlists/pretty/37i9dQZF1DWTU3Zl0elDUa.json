@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 283838,
+  "num_followers": 284226,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw",
+  "snapshot_id": "MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -387,6 +387,26 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Lil' Louis",
+          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+        }
+      ],
+      "duration_ms": 591733,
+      "name": "French Kiss - The Original Underground Mix",
+      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 416026,
       "name": "Where Love Lives (Come On In) - Classic Mix",
       "url": "https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Lil' Louis",
-          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
-        },
-        {
-          "name": "The World",
-          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
-        }
-      ],
-      "duration_ms": 591733,
-      "name": "French Kiss - The Original Underground Mix",
-      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Energique",
+        "url": "https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W"
+      },
+      "artists": [
+        {
+          "name": "Bizarre Inc",
+          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "I'm Gonna Get You - Original Flavour Mix",
+      "url": "https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Everybody Everybody",
         "url": "https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 320374,
       "name": "Everybody Everybody (Le Freak Mix)",
       "url": "https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Energique",
-        "url": "https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W"
-      },
-      "artists": [
-        {
-          "name": "Bizarre Inc",
-          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "I'm Gonna Get You - Original Flavour Mix",
-      "url": "https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -559,6 +559,22 @@
       "duration_ms": 405760,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Playing With Knives [Quadrant Mix]",
+        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
+      },
+      "artists": [
+        {
+          "name": "Bizarre Inc",
+          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+        }
+      ],
+      "duration_ms": 407213,
+      "name": "Playing With Knives [Quadrant Mix}",
+      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -631,18 +647,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Playing With Knives [Quadrant Mix]",
-        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
+        "name": "King Of My Castle (Mixes)",
+        "url": "https://open.spotify.com/album/5B0SFs0tNHlR8pTkedmRgd"
       },
       "artists": [
         {
-          "name": "Bizarre Inc",
-          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Roy Malone",
+          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
         }
       ],
-      "duration_ms": 407213,
-      "name": "Playing With Knives [Quadrant Mix}",
-      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
+      "duration_ms": 215693,
+      "name": "King of My Castle - Roy Malone's King Radio Edit",
+      "url": "https://open.spotify.com/track/6tMljaV7JPdoPc88Z2dlwu"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -679,26 +699,6 @@
       "duration_ms": 340813,
       "name": "Can You Feel It - Instrumental",
       "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "King Of My Castle (Mixes)",
-        "url": "https://open.spotify.com/album/5B0SFs0tNHlR8pTkedmRgd"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Roy Malone",
-          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "King of My Castle - Roy Malone's King Radio Edit",
-      "url": "https://open.spotify.com/track/6tMljaV7JPdoPc88Z2dlwu"
     },
     {
       "added_at": "2021-09-17 08:34:50",

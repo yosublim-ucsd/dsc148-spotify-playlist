@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7317,
+  "num_followers": 7318,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAyZWViMjMzZDcwODQ5MTRhZTlmOWNhZTZkNGQwZGRjMzFlZDcx",
+  "snapshot_id": "MCw1ZGYxNDk1YjM5MGNjYTYxOGEyOTIyNTc5NjEwODE4ODgyOGFjMWNh",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -403,22 +403,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Pete Fountain 1955-1957",
-        "url": "https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv"
+        "name": "The Complete Set - 1923-1926",
+        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
       "artists": [
         {
-          "name": "Pete Fountain",
-          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
-        },
-        {
-          "name": "Tony Almerico's All-Stars",
-          "url": "https://open.spotify.com/artist/31JQVJnprBoVpgPph2jcs3"
+          "name": "Freddie Keppard",
+          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
         }
       ],
-      "duration_ms": 241026,
-      "name": "Sensation Rag",
-      "url": "https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC"
+      "duration_ms": 153506,
+      "name": "Stock Yards Strut",
+      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -439,18 +435,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Set - 1923-1926",
-        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
+        "name": "Pete Fountain 1955-1957",
+        "url": "https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv"
       },
       "artists": [
         {
-          "name": "Freddie Keppard",
-          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
+          "name": "Pete Fountain",
+          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
+        },
+        {
+          "name": "Tony Almerico's All-Stars",
+          "url": "https://open.spotify.com/artist/31JQVJnprBoVpgPph2jcs3"
         }
       ],
-      "duration_ms": 153506,
-      "name": "Stock Yards Strut",
-      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+      "duration_ms": 241026,
+      "name": "Sensation Rag",
+      "url": "https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 315600,
       "name": "Bugle Boy March",
       "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
-      },
-      "artists": [
-        {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
-        }
-      ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -919,26 +919,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
-        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
       },
       "artists": [
         {
-          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
-          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
-        },
-        {
-          "name": "Frank Teschemacher",
-          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
-        },
-        {
-          "name": "McKenzie and Condon's Chicagoans",
-          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Nobody's Sweetheart",
-      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -975,18 +967,26 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
+        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
       "artists": [
         {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
+          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
+        },
+        {
+          "name": "Frank Teschemacher",
+          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
+        },
+        {
+          "name": "McKenzie and Condon's Chicagoans",
+          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
+      "duration_ms": 182906,
+      "name": "Nobody's Sweetheart",
+      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
     },
     {
       "added_at": "2020-08-19 17:19:14",

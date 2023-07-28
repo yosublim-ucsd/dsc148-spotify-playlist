@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-170 songs - 11 hr 59 min
+171 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-07-29 |  |
 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 | 2022-05-25 |  |
 | [Don't Explain](https://open.spotify.com/track/0Uu9jiyQ0PE7LGpGs5SA7F) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/0b9pdQ9aJApcnIZ1OLZF7h) | 4:34 | 2022-05-25 | 2022-07-29 |
+| [Don't Leave Me](https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN), [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don't Leave Me](https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65) | 3:30 | 2023-07-21 |  |
 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 | 2022-05-25 |  |
 | [Downtown](https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown](https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle) | 3:42 | 2022-10-03 | 2023-01-08 |
 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 | 2023-01-20 |  |
@@ -175,7 +176,7 @@
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |
-| [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-16 |  |
+| [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-16 | 2023-07-28 |
 | [Wrong Hands](https://open.spotify.com/track/1HbbVMWUSmPpOhurz3vFXs) | [Moon Shine](https://open.spotify.com/artist/2npYYH9Tn3ndPMnulAxpAt) | [Wrong Hands](https://open.spotify.com/album/76daS0KbiciyyVWJEPXbYF) | 4:00 | 2022-10-03 | 2022-12-01 |
 | [You and Your Friend](https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [On Every Street \(Remaster\)](https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ) | 5:59 | 2022-05-25 |  |
 

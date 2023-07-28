@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Teven",
-  "num_followers": 27700,
+  "num_followers": 27705,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy",
+  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Rosen",
-        "url": "https://open.spotify.com/album/0nP0tXeSgGgkswR2BTa0cQ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Awa",
-          "url": "https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS"
-        }
-      ],
-      "duration_ms": 147188,
-      "name": "Rosen",
-      "url": "https://open.spotify.com/track/2TyuOJvhy9mBFIXwB1TOhT"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "God give me a car",
         "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 176670,
       "name": "God give me a car",
       "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Rosen",
+        "url": "https://open.spotify.com/album/0nP0tXeSgGgkswR2BTa0cQ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Awa",
+          "url": "https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS"
+        }
+      ],
+      "duration_ms": 147188,
+      "name": "Rosen",
+      "url": "https://open.spotify.com/track/2TyuOJvhy9mBFIXwB1TOhT"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Das Ende",
-        "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Das Ende",
-      "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "grosse freiheit",
         "url": "https://open.spotify.com/album/7F1EntvuJk1qGmJenBCqJi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 170597,
       "name": "grosse freiheit",
       "url": "https://open.spotify.com/track/6P4HmEGU2LaTMv6o4smUlc"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Das Ende",
+        "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Das Ende",
+      "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Flasche und Zeit",
-        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
-      },
-      "artists": [
-        {
-          "name": "DenniJasmin",
-          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Flasche und Zeit",
-      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "SKELETON",
         "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS"
+        "name": "Flasche und Zeit",
+        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
       },
       "artists": [
         {
-          "name": "Elen",
-          "url": "https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO"
+          "name": "DenniJasmin",
+          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
         }
       ],
-      "duration_ms": 168243,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz"
+      "duration_ms": 156000,
+      "name": "Flasche und Zeit",
+      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -415,18 +399,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Fahrradstra\u00dfe",
-        "url": "https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS"
       },
       "artists": [
         {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+          "name": "Elen",
+          "url": "https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Fahrradstra\u00dfe",
-      "url": "https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX"
+      "duration_ms": 168243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nie nach Paris",
-        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+        "name": "Fahrradstra\u00dfe",
+        "url": "https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l"
       },
       "artists": [
         {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
         }
       ],
-      "duration_ms": 208093,
-      "name": "Nie nach Paris",
-      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
+      "duration_ms": 144000,
+      "name": "Fahrradstra\u00dfe",
+      "url": "https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -475,6 +459,22 @@
       "duration_ms": 169280,
       "name": "Milestone",
       "url": "https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Nie nach Paris",
+        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Nie nach Paris",
+      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 193038,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "AM___PM",
         "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 170103,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 193038,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
     },
     {
       "added_at": "2023-07-04 22:00:00",

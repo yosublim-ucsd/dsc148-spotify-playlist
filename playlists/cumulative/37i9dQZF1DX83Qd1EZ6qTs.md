@@ -4,7 +4,7 @@
 
 > Ease out and balance your energies with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-48 songs - 4 hr 26 min
+49 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Cool Tabla](https://open.spotify.com/track/0cmMW0IFIidorlM2KN1iRG) | [Downing And Mayer](https://open.spotify.com/artist/0dL8zlZTSHT5M4TPVMRO9V) | [Traditional Indian Music](https://open.spotify.com/album/4G68NOYmVqfFeivPLyIbfJ) | 3:47 | 2023-06-20 |  |
 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 | 2023-06-20 |  |
 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 | 2023-06-20 |  |
-| [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 | 2023-07-19 |  |
+| [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 | 2023-07-19 | 2023-07-28 |
 | [Happy Dance](https://open.spotify.com/track/4zBFZioNYT5O1jnkq5eILg) | [Swarupa Ananth](https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb) | [Recomeçar](https://open.spotify.com/album/62gA8TSuoUyiT1Hj5uoN51) | 3:02 | 2023-06-20 |  |
 | [Heartbeat \- Hindolam \- Taal Vadya Kacheri in Aditala](https://open.spotify.com/track/38HbEPHhFRPfxF0lhQnsb8) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Latha Ramachar](https://open.spotify.com/artist/3bSLWyTN0Z2OyERTWrQ7xs), [Sukanya Ramgopal](https://open.spotify.com/artist/3r9MZSoBYfVqoWQOrwhCsY) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:59 | 2023-06-20 |  |
 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 | 2023-06-20 |  |
@@ -27,6 +27,7 @@
 | [Palmistry](https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 4:39 | 2023-06-20 |  |
 | [Peace and Meditation](https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm) | [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Pakhawaj](https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4) | 6:15 | 2023-06-20 |  |
 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 | 2023-06-20 |  |
+| [Rhythmic Passion](https://open.spotify.com/track/7sxcB99i4Bm0RJ3qwY3hrl) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 5:20 | 2023-07-19 |  |
 | [Rise of the Capital](https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Rise of the Capital](https://open.spotify.com/album/3F6VwgcXAuKBiicVZAzu7i) | 2:44 | 2023-06-25 |  |
 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 | 2023-07-06 |  |
 | [Summing Up](https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD), [Shikhar Naad Qureshi](https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 15:52 | 2023-07-06 |  |

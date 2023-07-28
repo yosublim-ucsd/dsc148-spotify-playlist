@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Masta Quba, Delfina Dib y Astrid Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,286 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,316 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 21 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
 | 22 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 23 | [Tu F\*\*Kin' Canción](https://open.spotify.com/track/5N7WeB2rZ6DdI30K2iaKcR) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU) | [Tu F\*\*Kin' Canción](https://open.spotify.com/album/0PgG4VDiMH2h1tkrw5X04B) | 2:40 |
-| 24 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 |
+| 24 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 |
 | 25 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
 | 26 | [ME OYES](https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:58 |
 | 27 | [ReSURrección](https://open.spotify.com/track/0BY84BjIZX2qXnsanQzvVG) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [ReSURrección](https://open.spotify.com/album/4Zl4spMsauBbw3Dr4YGOGJ) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 100 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 |
 
-Snapshot ID: `MCxjNTEwMTIxMjFiOTFjMjlhMDNlM2ZlMDYwMjEwYjg2N2QwNTY1MTZk`
+Snapshot ID: `MCw0MzhjZTFlNjAwZTM3MmQxNDdkZTUyYjNkODBhMDdmNTgyYmM1OTc3`

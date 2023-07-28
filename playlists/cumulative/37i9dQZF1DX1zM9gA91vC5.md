@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-890 songs - 1 day 14 hr 42 min
+891 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2020-08-14\* | 2020-09-16 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2021-02-08 | 2022-07-20 |
 | [Camera Obscura](https://open.spotify.com/track/7sLUHnrWu1qy99Gd5jYvdT) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Camera Obscura](https://open.spotify.com/album/1bM1XFajHcaApKQUhOxtl0) | 2:50 | 2020-09-16 | 2021-01-21 |
+| [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
 | [Caricia](https://open.spotify.com/track/5Ty9q3mxVbwHusTDD6ymxG) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [Caricia](https://open.spotify.com/album/3DVIJ209bMb42ArDPsWfpd) | 2:19 | 2020-08-14\* | 2022-09-24 |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-05-06 | 2022-09-15 |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2021-10-01 | 2022-07-20 |
@@ -351,7 +352,7 @@
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-06-04 | 2022-09-15 |
 | [Inner Peace](https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW) | [Jalabert](https://open.spotify.com/artist/3QhEmbt5VdCTPAafeOs8Pp) | [Inner Peace](https://open.spotify.com/album/4tQWjJfBGxtsZBqxdvt58M) | 3:10 | 2020-08-14\* | 2020-09-02 |
-| [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-10-13 | 2022-09-27 |
+| [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-10-13 |  |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2020-08-14\* | 2021-03-26 |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-02-01 | 2022-12-30 |
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2021-09-29 | 2022-04-22 |
@@ -500,7 +501,7 @@
 | [Muse \(Single\)](https://open.spotify.com/track/0KFDSdhoFkTA9dpavEGpp6) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Muse \(Single\)](https://open.spotify.com/album/6GUw5VAhzMvOlGcqSmcl9b) | 2:06 | 2021-05-21 | 2022-04-22 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2020-09-30 | 2021-12-06 |
 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 | 2021-03-15 | 2021-04-09 |
-| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-04 |  |
+| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-04 | 2023-07-28 |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2020-08-14\* | 2020-09-02 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2021-12-07 | 2022-09-15 |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-09-16 |  |
@@ -747,7 +748,7 @@
 | [The Balance](https://open.spotify.com/track/76N81Kjyn0CLyjyU6a7sUg) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [The Balance](https://open.spotify.com/album/5DftGjcxi5Gg6WUTw1AfqR) | 2:37 | 2021-02-06 | 2022-06-08 |
 | [The Beginning](https://open.spotify.com/track/3y2v4q1x9MyPQ4O12IpMUL) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [The Beginning](https://open.spotify.com/album/1su3KOYInrFNm0jFL5hoH0) | 1:59 | 2020-08-14\* | 2022-09-24 |
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2021-11-13 |  |
-| [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-02-06 |  |
+| [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-02-06 | 2023-07-28 |
 | [The Distant Path](https://open.spotify.com/track/1nPQClKsAqd84PZU5hfVCB) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [A Place I Remember](https://open.spotify.com/album/7AKhyi9Ylbpga01pIsytVr) | 3:31 | 2020-08-14\* | 2020-10-15 |
 | [The Door into Summer](https://open.spotify.com/track/7inwDSpJOVDN9kUsi7JtqX) | [Nora De Smet](https://open.spotify.com/artist/6fYNVK4HEPxnmTBjCTDj3h) | [The Door into Summer](https://open.spotify.com/album/1x6OZLfOt7xNDGVU9Azcs7) | 3:02 | 2022-04-15 | 2022-06-08 |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2020-11-12 | 2022-07-20 |

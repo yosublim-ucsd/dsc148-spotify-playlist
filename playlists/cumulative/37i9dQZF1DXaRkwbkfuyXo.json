@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "La Cheyenne Sin Placas",
+        "url": "https://open.spotify.com/album/1leTiFBaqtwrnUnJuaSjeF"
+      },
+      "artists": [
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212192,
+      "name": "Asociacion Antrax",
+      "url": "https://open.spotify.com/track/7DUmB7PmTyuEGUKZZb4eTo"
+    },
+    {
+      "album": {
         "name": "El Abogado Del Diablo",
         "url": "https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 212145,
       "name": "Asociacion Antrax",
       "url": "https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh"
@@ -1425,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Carteles Unidos",
+        "url": "https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr"
+      },
+      "artists": [
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "Estrategia De Escape",
+      "url": "https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO"
+    },
+    {
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG"
       },
@@ -1436,7 +1472,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147540,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0"

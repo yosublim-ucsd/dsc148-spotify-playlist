@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBlYTU2ZTQ5ZGYxNDFkYjliM2U1ODNkNTBjYjMwNDYwZA==",
+  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBmYWU2ZThhMDA1NDZlOTYzZDY3ZjhhYTMzMzczMDE0Mw==",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -67,78 +67,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Money 'N' Bitches",
-        "url": "https://open.spotify.com/album/2r6n5TGjUyNmxo1pcAsh8x"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Money 'N' Bitches",
-      "url": "https://open.spotify.com/track/3kup5TAVFEfCyW0Lusm2E8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Taste of Honey",
-        "url": "https://open.spotify.com/album/6ztTfLsiH8G1KiEdg9FPDb"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        },
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Taste of Honey",
-      "url": "https://open.spotify.com/track/2l6SKrXqsGiyyc6G9dyILK"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Ten Billion People",
-        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 389333,
-      "name": "Ten Billion People",
-      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Dreams (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
-        "url": "https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "Dreams - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Drug Trade (feat. Black Thought)",
         "url": "https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY"
       },
@@ -187,22 +115,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Restless Heart",
-        "url": "https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "You Weren't There",
-      "url": "https://open.spotify.com/track/7z0lgajoRkSwd0dNHapKmF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "You've Got To Learn (Live)",
         "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
       },
@@ -239,6 +151,30 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Taste of Honey",
+        "url": "https://open.spotify.com/album/6ztTfLsiH8G1KiEdg9FPDb"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        },
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Taste of Honey",
+      "url": "https://open.spotify.com/track/2l6SKrXqsGiyyc6G9dyILK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Super Soldier (VIP Remix)",
         "url": "https://open.spotify.com/album/7LBqHmYQ5yhyxJBXCyXBy7"
       },
@@ -267,6 +203,54 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Money 'N' Bitches",
+        "url": "https://open.spotify.com/album/2r6n5TGjUyNmxo1pcAsh8x"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Money 'N' Bitches",
+      "url": "https://open.spotify.com/track/3kup5TAVFEfCyW0Lusm2E8"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Dreams (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
+        "url": "https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "Dreams - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Ten Billion People",
+        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 389333,
+      "name": "Ten Billion People",
+      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Look At The Birds",
         "url": "https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Restless Heart",
+        "url": "https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "You Weren't There",
+      "url": "https://open.spotify.com/track/7z0lgajoRkSwd0dNHapKmF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
       },
@@ -295,6 +295,66 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "In My Heart (Confession 2023)",
+        "url": "https://open.spotify.com/album/0s7fCyywWehjNDCP4G5BnC"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "In My Heart - Confession 2023",
+      "url": "https://open.spotify.com/track/5aEuotgPZyIMC0sb7U6KnY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Wax (Live at Sugarshack Sessions)",
+        "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Herbal T",
+          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
+        }
+      ],
+      "duration_ms": 385597,
+      "name": "This is My Jam - Live at Sugarshack Sessions",
+      "url": "https://open.spotify.com/track/5WYUGg81dIGRJhrONNfaFV"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -335,62 +395,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "In My Heart (Confession 2023)",
-        "url": "https://open.spotify.com/album/0s7fCyywWehjNDCP4G5BnC"
+        "name": "Patience (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1N36aG06vSw0jiZkYqDhhZ"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 261665,
-      "name": "In My Heart - Confession 2023",
-      "url": "https://open.spotify.com/track/5aEuotgPZyIMC0sb7U6KnY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Wax (Live at Sugarshack Sessions)",
-        "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Herbal T",
-          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
-        }
-      ],
-      "duration_ms": 385597,
-      "name": "This is My Jam - Live at Sugarshack Sessions",
-      "url": "https://open.spotify.com/track/5WYUGg81dIGRJhrONNfaFV"
+      "duration_ms": 262429,
+      "name": "Patience (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -419,42 +439,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Werewolf (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Becoming A Coward",
-        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Becoming A Coward",
-      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "W H A T (We're Hungry And Thirsty)",
         "url": "https://open.spotify.com/album/4j2Z6v5dXeKjQ69q5awOc4"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Becoming A Coward",
+        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Becoming A Coward",
+      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "RFK Stadium, Washington, DC, 6/10/73 (Live)",
         "url": "https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w"
       },
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Beat It on Down the Line (Live at RFK Stadium, Washington, DC, 6/10/73)",
-      "url": "https://open.spotify.com/track/5bchPUI6r1S5qjfnNHJBUT"
+      "duration_ms": 374327,
+      "name": "Wave That Flag (Live at RFK Stadium, Washington, DC, 6/10/73)",
+      "url": "https://open.spotify.com/track/5IHnYDMb6S7p7rmUFnMfvH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         }
       ],
-      "duration_ms": 212844,
-      "name": "This Is Mongol - Acoustic",
-      "url": "https://open.spotify.com/track/4GnWBQiFNtTRUX5jY8bb5B"
+      "duration_ms": 293371,
+      "name": "Black Thunder - Acoustic",
+      "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -520,29 +520,17 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "Calvin Keys",
-          "url": "https://open.spotify.com/artist/5Znb6NCOOTyI445iuPjwKe"
-        }
-      ],
-      "duration_ms": 375383,
-      "name": "The Island (feat. Calvin Keys)",
-      "url": "https://open.spotify.com/track/3ZkITuhNeh9qnQNazXF39f"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
-      },
-      "artists": [
+          "name": "Allakoi Peete",
+          "url": "https://open.spotify.com/artist/5XgV0HMw1iiWYLoqknOhge"
+        },
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
         }
       ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+      "duration_ms": 285048,
+      "name": "Mind Your Business (feat. Ben Wendel & Allakoi Peete)",
+      "url": "https://open.spotify.com/track/7fdMae2A1vfPAvXl8EGN8y"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -559,6 +547,22 @@
       "duration_ms": 144780,
       "name": "Freestyle Canal",
       "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
     },
     {
       "added_at": "2023-07-21 04:00:00",

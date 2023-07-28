@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA\"> Psycho YP</a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+    },
+    {
+      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 139459,
       "name": "Boytoy",
       "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 119153,
       "name": "High",
       "url": "https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 171891,
       "name": "Highest Student",
       "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
@@ -1970,6 +1988,28 @@
       "duration_ms": 164808,
       "name": "Holy Gee",
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "album": {
+        "name": "NO PRESSURE",
+        "url": "https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180715,
+      "name": "Holy Pass (feat. 1da Banton)",
+      "url": "https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH"
     },
     {
       "album": {
@@ -2025,6 +2065,28 @@
     },
     {
       "album": {
+        "name": "Chequemate",
+        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163184,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
+    },
+    {
+      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
@@ -2066,6 +2128,24 @@
       "duration_ms": 189230,
       "name": "Ikebe",
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
     },
     {
       "album": {
@@ -4106,7 +4186,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 152142,
       "name": "STAMINA",
       "url": "https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ"
@@ -4190,7 +4270,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 173571,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
@@ -5018,6 +5098,28 @@
       "duration_ms": 173547,
       "name": "Wonder (feat. Patoranking)",
       "url": "https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0"
+    },
+    {
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163685,
+      "name": "Wrong Person (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
     },
     {
       "album": {

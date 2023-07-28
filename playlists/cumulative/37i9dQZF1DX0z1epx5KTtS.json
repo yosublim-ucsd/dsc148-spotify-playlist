@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Roseline Layo",
+  "description": "African dance party music from Paris to Abidjan. Photo : Mike Alabi",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -406,6 +406,24 @@
       "duration_ms": 227944,
       "name": "C'Gater",
       "url": "https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe"
+    },
+    {
+      "album": {
+        "name": "C'PAS L'AMOUR ON VA MANGER",
+        "url": "https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Alabi",
+          "url": "https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238208,
+      "name": "C'PAS L'AMOUR ON VA MANGER",
+      "url": "https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B"
     },
     {
       "album": {
@@ -832,7 +850,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 231111,
       "name": "Donnez nous un peu",
       "url": "https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj"

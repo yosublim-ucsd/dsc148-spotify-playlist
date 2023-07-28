@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: WATAN-U. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The Publish. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 273252,
       "name": "Heart Space (11:59 PM)",
       "url": "https://open.spotify.com/track/1iMgRrqqgx1S6dkUZrMenh"
@@ -898,6 +898,24 @@
       "duration_ms": 288750,
       "name": "hers",
       "url": "https://open.spotify.com/track/01LYTtl8IoYuMgtjaVkYwY"
+    },
+    {
+      "album": {
+        "name": "HEY",
+        "url": "https://open.spotify.com/album/3xFyBHneZ61VoEha2ZcWuF"
+      },
+      "artists": [
+        {
+          "name": "The Publish",
+          "url": "https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273157,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/5RwEB3YnudzJAHwLmDSatm"
     },
     {
       "album": {
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 255000,
       "name": "\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (LastStory) feat. LAWIN",
       "url": "https://open.spotify.com/track/31jFfXwOs02XLVIfiqRk2p"
@@ -6240,6 +6258,24 @@
       "duration_ms": 235850,
       "name": "\u0e1d\u0e31\u0e19\u0e23\u0e49\u0e32\u0e22 (Nightmare)",
       "url": "https://open.spotify.com/track/5DnhH2JCCCajA2TIGA6mjK"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs"
+      },
+      "artists": [
+        {
+          "name": "Vitamin D from The Sun",
+          "url": "https://open.spotify.com/artist/5zngLj3BO0BHiyuXaPEQYJ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325890,
+      "name": "\u0e1d\u0e31\u0e19\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h"
     },
     {
       "album": {

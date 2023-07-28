@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Embrujo",
+        "url": "https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199778,
+      "name": "Embrujo",
+      "url": "https://open.spotify.com/track/3DH72cjjj9nx1jKhvP2bhq"
+    },
+    {
+      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 223691,
       "name": "La Mudanza",
       "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"

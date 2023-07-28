@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Sena Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,380 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,390 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 35 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 36 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
 | 37 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
-| 38 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
-| 39 | [Lado 13 Do Mapa](https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [dantt](https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ) | [Lado 13 Do Mapa](https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1) | 2:25 |
+| 38 | [Perverso](https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE) | [Shifu](https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Perverso](https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL) | 2:29 |
+| 39 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 40 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
-| 41 | [Perverso](https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE) | [Shifu](https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Perverso](https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL) | 2:29 |
+| 41 | [Lado 13 Do Mapa](https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [dantt](https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ) | [Lado 13 Do Mapa](https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1) | 2:25 |
 | 42 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 43 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 | 44 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 50 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 
-Snapshot ID: `MCxiMjk3YTgwNTdkMTNlYzNlZmJkMzY5NGE0YzIyZTFkOWVkNGNmOTg5`
+Snapshot ID: `MCw5MzRmY2QyMWRiN2JkZWJiYjhmODIwYjY1NDRlNjk2YTdlOTM5N2Nh`

@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-118 songs - 5 hr 46 min
+120 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Ajustes Inzunza](https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:09 | 2022-03-07 |  |
 | [Al Estilo Mafia](https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Mi Estilo De Vida](https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW) | 2:27 | 2022-11-08 |  |
 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 | 2022-03-07 |  |
-| [Asociacion Antrax](https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [El Abogado Del Diablo](https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3) | 3:32 | 2023-02-23 |  |
+| [Asociacion Antrax](https://open.spotify.com/track/7DUmB7PmTyuEGUKZZb4eTo) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [La Cheyenne Sin Placas](https://open.spotify.com/album/1leTiFBaqtwrnUnJuaSjeF) | 3:32 | 2023-02-23 |  |
+| [Asociacion Antrax](https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [El Abogado Del Diablo](https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3) | 3:32 | 2023-02-23 | 2023-07-28 |
 | [Así es Mi Cartel](https://open.spotify.com/track/3KpqNzebxPqY1YHQaGg9SN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Así es Mi Cartel](https://open.spotify.com/album/0LHwdWd68tpucRwMT2C27a) | 2:50 | 2023-02-23 |  |
 | [Barba Negra](https://open.spotify.com/track/2Ga6t9IYgpfzM9exjeTo8S) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 2:34 | 2022-03-17 |  |
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2022-03-17 |  |
@@ -84,7 +85,8 @@
 | [Esta de Parranda el Jefe](https://open.spotify.com/track/3rJZRKrtwgtQqI9bft94Zj) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [Las Que Les Gustan A Los Viejones](https://open.spotify.com/album/5ON2UoS7EGthERLkiiVp7Z) | 3:26 | 2022-11-08 |  |
 | [Estilo Especial](https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:21 | 2022-03-07 |  |
 | [Estrategia De Escape](https://open.spotify.com/track/0f0uF9oxMFILrAMJj3abVz) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 2:25 | 2022-03-07 | 2022-06-21 |
-| [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 | 2022-03-17 |  |
+| [Estrategia De Escape](https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 2:25 | 2023-02-23 |  |
+| [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 | 2022-03-17 | 2023-07-28 |
 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 | 2022-03-07 |  |
 | [Gente VIP](https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Larryvolución](https://open.spotify.com/album/7aYPL5tuEAz3G5hUUB1LND) | 2:54 | 2022-03-07 | 2022-07-29 |
 | [Gente VIP](https://open.spotify.com/track/3g1GoAq0u4uDzrXFgvMII2) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Larryvolución](https://open.spotify.com/album/0728CjXjQWqe0hcRS9WfPl) | 2:54 | 2022-03-07 |  |

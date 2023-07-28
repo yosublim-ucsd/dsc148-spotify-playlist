@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Fujii Kaze \(藤井 風\)
 
-136 songs - 7 hr 47 min
+138 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [CODE GE4SS](https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:32 | 2023-06-27 | 2023-06-29 |
 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 | 2023-06-27 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-05-09 |  |
-| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-09 |  |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-09 | 2023-07-28 |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-09 | 2023-05-13 |
 | [de messiah](https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:47 | 2023-05-09 | 2023-05-31 |
 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 | 2023-05-09 |  |
@@ -39,6 +39,7 @@
 | [Girlfriend](https://open.spotify.com/track/3ysqNFNj4Qhyu8cwKD7pV0) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Girlfriend](https://open.spotify.com/album/4cY8JBsitqaJxGjIIu7eVQ) | 2:27 | 2023-05-09 | 2023-06-09 |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-05-16 | 2023-05-18 |
 | [GOLD](https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 3:39 | 2023-05-16 | 2023-05-31 |
+| [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 |  |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 |  |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-06-23 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2023-05-09 | 2023-07-07 |
@@ -59,6 +60,7 @@
 | [mango run](https://open.spotify.com/track/6Ak5Z0cZdXBGxIwBDduvHd) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 2:46 | 2023-07-06 | 2023-07-26 |
 | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu) | 5:13 | 2023-05-09 | 2023-07-07 |
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-05-09 |  |
+| [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 | 2023-07-27 |  |
 | [My Life](https://open.spotify.com/track/5Qvh1GFlIL2qSmZ7Yj4br6) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [My Life](https://open.spotify.com/album/7gdAMtRYRjZsylJXBaH6Xf) | 3:11 | 2023-06-08 | 2023-06-30 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-06-01 | 2023-07-07 |
 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 | 2023-05-09 | 2023-05-16 |
@@ -104,7 +106,7 @@
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-05-09 |  |
 | [すきっ! \- 超ver](https://open.spotify.com/track/4k3vWI14pw0q7FVwNhehWp) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [すきっ! \(超ver\)](https://open.spotify.com/album/1Y0F8KlXpY5slIUpoNgkqr) | 5:12 | 2023-05-09 |  |
 | [ずぎゅんぎゅんゆらり](https://open.spotify.com/track/7imHT2drWF3A1rnEh1hwjy) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [ずぎゅんぎゅんゆらり](https://open.spotify.com/album/07ak0gzMu1dVuyyfsGlB65) | 2:47 | 2023-05-30 | 2023-07-19 |
-| [ひかりのディスコ](https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ひかりのディスコ](https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI) | 5:24 | 2023-05-09 |  |
+| [ひかりのディスコ](https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ひかりのディスコ](https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI) | 5:24 | 2023-05-09 | 2023-07-28 |
 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 | 2023-07-04 |  |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2023-05-09 |  |
 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-05-09 |  |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Matilda Lyn
 
-1,707 songs - 3 day 21 hr 15 min
+1,709 songs - 3 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Flat Earth](https://open.spotify.com/track/0mOtpKOpTpQUaVHORhSzGD) | [Laugh Laugh Laugh](https://open.spotify.com/artist/2ovfG6jQinX0RVgWllkBSP) | [Flat Earth](https://open.spotify.com/album/2N6to94DpUayMBu4XJIwNf) | 5:46 | 2023-06-21 | 2023-07-12 |
 | [fleabag](https://open.spotify.com/track/5umuLOI5hSbZMmuGa8c03c) | [dani mack](https://open.spotify.com/artist/3mqzun4IsA12XDrzVuBgon) | [fleabag](https://open.spotify.com/album/3jFSsBILJTu3gdkgJuU0wd) | 3:13 | 2022-08-03 | 2023-01-12 |
 | [Flor Amarelo \(Para Você\)](https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Flor Amarelo \(Para Você\)](https://open.spotify.com/album/4T6O67PiUSYMRHDPsFvUHX) | 2:51 | 2022-03-09 | 2022-03-31 |
+| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-27 |  |
 | [Flower Ghoul](https://open.spotify.com/track/3ovha0ritsxTs7pTND84qJ) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/0RqHblTAIH8QJlNi3LapPw) | 2:33 | 2021-12-01 | 2022-01-13 |
 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 | 2022-08-31 | 2022-09-23 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-19 | 2023-05-18 |
@@ -890,7 +891,7 @@
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-09-28 | 2022-11-10 |
 | [Liked to Party](https://open.spotify.com/track/0NYW30HgzHRpRRuBLKQjh1) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Liked to Party](https://open.spotify.com/album/7uyICxpHtV74Fiq77qfNIN) | 4:13 | 2021-12-01 | 2022-01-13 |
 | [Limerence](https://open.spotify.com/track/7ejzjqjzcJ7K2YRlcUd55w) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Limerence](https://open.spotify.com/album/7wPNxfaGRGhBGpdfQXAV10) | 2:51 | 2023-07-24 |  |
-| [Little Apartment](https://open.spotify.com/track/3znHxjS5i9p8cneHkkRsqb) | [Squitch](https://open.spotify.com/artist/3jqY1GhtAfQyuDv1u8yT3Q) | [Tumbledown Mountain](https://open.spotify.com/album/3S2Yq61ewxlJw6nnJMNgjZ) | 2:34 | 2023-06-27 |  |
+| [Little Apartment](https://open.spotify.com/track/3znHxjS5i9p8cneHkkRsqb) | [Squitch](https://open.spotify.com/artist/3jqY1GhtAfQyuDv1u8yT3Q) | [Tumbledown Mountain](https://open.spotify.com/album/3S2Yq61ewxlJw6nnJMNgjZ) | 2:34 | 2023-06-27 | 2023-07-28 |
 | [Little Changes](https://open.spotify.com/track/6UvEGfQroiyYg82Pf7MllO) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [Little Changes](https://open.spotify.com/album/2vU7Z5KpCofZCf3VKvg1RA) | 2:40 | 2022-08-31 | 2022-10-06 |
 | [little fingers \- demo](https://open.spotify.com/track/4kK2y1Mpfivr9gdWfh71kU) | [rockstar1000](https://open.spotify.com/artist/78isn9U2jo3LrPkq3zPYEZ) | [little fingers/lungs \(demo\)](https://open.spotify.com/album/40aWFH4lt0LIlqXc9v52Xa) | 4:19 | 2023-03-23 | 2023-04-13 |
 | [Little Gnome](https://open.spotify.com/track/06FgvIXVfgcrqOyRLcUrSt) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Little Gnome](https://open.spotify.com/album/06OjLRIVDBmWdac93D7ZQx) | 2:14 | 2022-06-08 | 2022-06-30 |
@@ -956,6 +957,7 @@
 | [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [meant2be](https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY) | 3:13 | 2022-09-06 | 2023-01-12 |
 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4eva](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 | 2022-08-10 | 2022-10-13 |
 | [medicine](https://open.spotify.com/track/4Si2UN4dDhVNJlu4lHnxXD) | [Niko Rose](https://open.spotify.com/artist/5HkHTiICQl3TDWanA5fWSe) | [honeydoo](https://open.spotify.com/album/2EXUWcaxBGQ33TXxITOGLg) | 2:25 | 2023-06-14 | 2023-07-12 |
+| [Melody Machine](https://open.spotify.com/track/1cimggVM2iCiohMVFhQCpb) | [BOYSCOUTMARIE](https://open.spotify.com/artist/37blbfuDsR9IpqCWtTqxZE) | [Melody Machine](https://open.spotify.com/album/0izXpZcwkeEZnJDq74W7Tv) | 2:56 | 2023-07-27 |  |
 | [Melon\-Candy](https://open.spotify.com/track/3B1b8vZ5arER92CjjGUwr6) | [Key Lime Coast](https://open.spotify.com/artist/550Y3JXcRbEpvMH6FEZjiv) | [Melon\-Candy](https://open.spotify.com/album/1VyPAwtvdOiOkD1E5GQYfD) | 3:02 | 2022-02-09 | 2022-02-23 |
 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-11 |  |
 | [melt](https://open.spotify.com/track/3OIYtS8a1YEVpAeStFVRWY) | [JJ](https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs) | [melt](https://open.spotify.com/album/4RUNSQHGbuCZCVu3heAwEy) | 3:10 | 2023-07-11 |  |
@@ -1575,7 +1577,7 @@
 | [Uncertainty](https://open.spotify.com/track/1Z1TXXL0mKDTHaTsqALMnE) | [Lauren Corrigan](https://open.spotify.com/artist/0E03dOMZmWYsIW9AblAvpo) | [Uncertainty](https://open.spotify.com/album/4LVcJaMjNhxJOGHer00sJc) | 4:59 | 2023-05-24 | 2023-07-12 |
 | [Uncomfortable](https://open.spotify.com/track/4ZS5mXMgeivMQP1iMkOI8v) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Uncomfortable](https://open.spotify.com/album/0l8JJVTe3tiswMr86tMf2S) | 1:58 | 2022-10-19 | 2022-12-01 |
 | [Under the Light](https://open.spotify.com/track/1NBLhR3gPrwun5Mk99YtOA) | [Airpark](https://open.spotify.com/artist/3FhYulv2HI8so6GZy7AaU4), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Under the Light](https://open.spotify.com/album/1kwPa25vHHzZw0Qo2ptArR) | 4:08 | 2022-08-24 | 2022-10-06 |
-| [Under the Weather](https://open.spotify.com/track/75FFSa5NXTkivmGXPwJTpA) | [Mental Map](https://open.spotify.com/artist/25yj4Tc5NFefuWnPfiQBkx) | [Wellomute](https://open.spotify.com/album/09rQsSvM3V0tdRqeSq0fIZ) | 2:53 | 2023-07-19 |  |
+| [Under the Weather](https://open.spotify.com/track/75FFSa5NXTkivmGXPwJTpA) | [Mental Map](https://open.spotify.com/artist/25yj4Tc5NFefuWnPfiQBkx) | [Wellomute](https://open.spotify.com/album/09rQsSvM3V0tdRqeSq0fIZ) | 2:53 | 2023-07-19 | 2023-07-28 |
 | [undercovers](https://open.spotify.com/track/2fN13ce6Uo1ngdBpqfk4Gw) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [disposable](https://open.spotify.com/album/51RAeIZrTXeVqp9RpDx5v3) | 3:41 | 2022-02-16 | 2022-03-17 |
 | [Underdog](https://open.spotify.com/track/2N1l2LDtRLpXOfIFBYYARH) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Underdog](https://open.spotify.com/album/3yEm8IG1DarejiHHaVaSep) | 2:38 | 2023-03-29 | 2023-05-11 |
 | [Underneath](https://open.spotify.com/track/1LjOYabLdsDnWVUb9I9V2i) | [Sam Bekt](https://open.spotify.com/artist/2GBRmvuhFzFRTdf3mSDlr2) | [Underneath](https://open.spotify.com/album/79gsbznDBjbgvIwt7BXdem) | 2:27 | 2023-05-31 | 2023-06-15 |

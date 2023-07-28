@@ -1,13 +1,29 @@
 {
   "description": "A new shade of Country. Cover: Uncle Lucius ",
-  "num_followers": 457291,
+  "num_followers": 457559,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDlmYjU4MTM0NWViNzNmOGExMjU2MjEwZmJjMmI1ZDNlNGNkMTVj",
+  "snapshot_id": "MCwwZWNmMjJmM2E2YmJhYTg3NjIxNTY1NDQ1MDg4NTI5MWIzZGVjYjgy",
   "tracks": [
+    {
+      "added_at": "2023-07-27 14:21:51",
+      "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {

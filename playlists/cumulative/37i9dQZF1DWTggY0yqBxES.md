@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-523 songs - 1 day 1 hr 42 min
+524 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 | 2023-07-21 |  |
 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 | 2022-03-25 | 2022-09-17 |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 | 2022-12-17 |
-| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 |  |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-07-28 |
+| [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-21 |  |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 | 2022-02-14 |
 | [Don't F\*ck Up My Day](https://open.spotify.com/track/5JcJz0TnXZ4eDpXLoCKUXz) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [Don't F\*ck Up My Day](https://open.spotify.com/album/5a0oMxlm6bxRdGzAJKCH0w) | 2:48 | 2022-03-11 | 2022-07-29 |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-25 | 2023-02-25 |

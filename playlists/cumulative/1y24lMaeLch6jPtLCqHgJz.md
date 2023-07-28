@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-168 songs - 8 hr 44 min
+170 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [MAKI](https://open.spotify.com/track/6A307UCF6uSDhc6nFv3rB4) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5GcKpNowan68GzPLcW1WKX) | 3:20 | 2022-07-29 | 2022-09-10 |
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 | 2023-07-14 |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 | 2022-10-15 |
+| [Metro](https://open.spotify.com/track/7LT6ZkZ1cji0dWV7IBym2F) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS) | [Metro](https://open.spotify.com/album/6kfBbwPaccFAcsEEKTum9O) | 2:49 | 2023-07-27 |  |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-02 |  |
 | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/track/1AvK4RTschGx3fDiYfSwbO) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/album/2lLZpQTUZcsOUhImIwkYR1) | 2:42 | 2023-03-24 |  |
 | [Monster](https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Monster](https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY) | 3:27 | 2022-07-29 |  |
@@ -123,6 +124,7 @@
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 | 2023-05-13 |
 | [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 | 2023-06-13 |  |
 | [River](https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ) | [ATSY x Taner](https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB), [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [River](https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK) | 3:35 | 2023-04-13 |  |
+| [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 |  |
 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 | 2023-07-13 |  |
 | [Run With Me](https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Run With Me](https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL) | 3:14 | 2023-04-28 |  |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 | 2023-02-11 |

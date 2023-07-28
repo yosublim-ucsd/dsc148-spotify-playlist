@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-199 songs - 13 hr 24 min
+200 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [The Drop](https://open.spotify.com/track/3xIwnKhZxWxKcecqrfXBJj) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Ultra Trap](https://open.spotify.com/album/1pLo9QTyw1PgVaLbJNomPh) | 3:49 | 2021-04-16 | 2022-07-29 |
 | [The Hum](https://open.spotify.com/track/0Gc1AVYqYOR522Nvz68dsT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/7dfJi8NBqmMSHVv3RJ1Mnx) | 3:31 | 2021-04-16 |  |
 | [The Veldt \(feat\. Chris James\) \- Radio Edit](https://open.spotify.com/track/29B5iOEsl6pMnvZke3rcIT) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/57jutsGPCkXUkmBL0pCdlB) | 2:50 | 2021-04-16 | 2022-07-29 |
-| [The Veldt \- Radio Edit](https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/0WanInStsKUQQ22o8TzJEK) | 2:50 | 2022-06-09 |  |
+| [The Veldt \- Radio Edit](https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/0WanInStsKUQQ22o8TzJEK) | 2:50 | 2022-06-09 | 2023-07-28 |
+| [The Veldt \- Radio Edit](https://open.spotify.com/track/5sGIgGkeYiiWdN0NVYJZ0I) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj) | [The Veldt](https://open.spotify.com/album/4CtxUSFc4vrtTxtmQLo8aZ) | 2:50 | 2022-06-09 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2022-06-09 |  |
 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 | 2022-06-09 |  |
 | [This Is What It Feels Like \(feat\. Trevor Guthrie\)](https://open.spotify.com/track/6AHlbY79uUGvQx9xzoR9oy) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5DJDZhELvThjMhhEUJjSR3) | 3:23 | 2021-04-16 | 2022-07-29 |

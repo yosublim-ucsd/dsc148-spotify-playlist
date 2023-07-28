@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice ...like?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,707 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,729 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Wrong Time](https://open.spotify.com/track/2f2kSJWmm90VJjdjjeRhwM) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw) | [Wrong Time](https://open.spotify.com/album/2lAdM6wIy4HU1csoTZyLyH) | 2:00 |
 | 50 | [Ouroboros](https://open.spotify.com/track/4YU1SZ0QMIzdoKCPdjWEt7) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Ouroboros](https://open.spotify.com/album/5C5bkukBuGHZFAh2JYmXAy) | 2:36 |
 
-Snapshot ID: `MCxjMjkxNzFmOWY1ZTY0ZjdiMzBlYzBjNjc0NzY3NWJkODdmOGYxMTFh`
+Snapshot ID: `MCw4NTFmYjAxMWU0M2FkMTM1YmRiODIwYjE0YjI3MDU1ZTdiNTUyZjc5`

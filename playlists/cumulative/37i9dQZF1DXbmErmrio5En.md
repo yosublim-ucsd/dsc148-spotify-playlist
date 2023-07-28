@@ -4,7 +4,7 @@
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-233 songs - 10 hr 16 min
+234 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-06-09 |  |
 | [FlySolo](https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [FlySolo](https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7) | 1:38 | 2023-06-23 |  |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 | 2023-01-14 |
-| [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 |  |
+| [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 | 2023-07-28 |
 | [Fun and Forget](https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n) | [SSJ Twiin](https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Fun and Forget](https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9) | 2:38 | 2023-03-16 | 2023-04-09 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-06-23 |  |
 | [gluttony](https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [gluttony](https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7) | 1:57 | 2023-06-23 |  |
@@ -227,6 +227,7 @@
 | [watercolor puddles](https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [watercolor puddles](https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb) | 1:59 | 2023-06-23 |  |
 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 | 2022-12-04 | 2023-02-18 |
 | [whats it mean to be a king](https://open.spotify.com/track/21iJxrE5WYXpqkr6bJM05c) | [Kenny Orlando](https://open.spotify.com/artist/2EaS3fIceT87x7nqjODgvq), [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo) | [whats it mean to be a king](https://open.spotify.com/album/0ZU45BAWwk63gm3EXtU5Vf) | 2:20 | 2023-06-16 | 2023-06-24 |
+| [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-06-23 |  |
 | [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-06-23 | 2023-07-12 |
 | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt) | 2:07 | 2023-01-20 | 2023-03-02 |
 | [white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 1:54 | 2023-06-23 |  |

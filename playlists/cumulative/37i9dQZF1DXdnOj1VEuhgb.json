@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Patron",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: UZI",
   "name": "NKVT",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 170803,
       "name": "Ay le le",
       "url": "https://open.spotify.com/track/1h5VOGnSj6DIcAKXvybi01"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 154122,
       "name": "Ayna",
       "url": "https://open.spotify.com/track/6iMkA2M2H8Dz318cAttaSS"
@@ -300,6 +300,24 @@
       "duration_ms": 186950,
       "name": "Aynen",
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
+    },
+    {
+      "album": {
+        "name": "A\u011eZI BOZUK",
+        "url": "https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126137,
+      "name": "A\u011eZI BOZUK",
+      "url": "https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz"
     },
     {
       "album": {
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 112105,
       "name": "GMER",
       "url": "https://open.spotify.com/track/7fHqY4uBehhGc4e5oapLme"
@@ -1255,6 +1273,36 @@
     },
     {
       "album": {
+        "name": "Hot Baklava",
+        "url": "https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k"
+      },
+      "artists": [
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140009,
+      "name": "Hot Baklava",
+      "url": "https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l"
+    },
+    {
+      "album": {
         "name": "IMPARATOR",
         "url": "https://open.spotify.com/album/4jnO704ysYulzHEMiY4AIy"
       },
@@ -1266,7 +1314,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 129946,
       "name": "IMPARATOR",
       "url": "https://open.spotify.com/track/5LOnarDCzVh4YcN7EOTzRC"
@@ -1979,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "NEREYE KADAR",
+        "url": "https://open.spotify.com/album/2w4LgmF5Y1G9kmIT8vVlAr"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127382,
+      "name": "NEREYE KADAR",
+      "url": "https://open.spotify.com/track/1oazoWrgMaGN1Vnc3w2ta0"
+    },
+    {
+      "album": {
         "name": "NEY LAN",
         "url": "https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc"
       },
@@ -2208,7 +2274,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 167753,
       "name": "Oynar",
       "url": "https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN"
@@ -2425,6 +2491,32 @@
     },
     {
       "album": {
+        "name": "Bi Taksi \u00c7a\u011f\u0131r\u0131n",
+        "url": "https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        },
+        {
+          "name": "Tu\u011fberk I\u015f\u0131k",
+          "url": "https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Sen Oyna",
+      "url": "https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E"
+    },
+    {
+      "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
@@ -2502,7 +2594,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147999,
       "name": "Sor Bize",
       "url": "https://open.spotify.com/track/5CaBkfl4rSKlXm91PZkNUV"
@@ -2670,6 +2762,24 @@
       "duration_ms": 176927,
       "name": "Ta\u015ftan",
       "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
+    },
+    {
+      "album": {
+        "name": "Telefon",
+        "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168542,
+      "name": "Telefon",
+      "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
     },
     {
       "album": {

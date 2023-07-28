@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5647,
+  "num_followers": 5646,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjk3Y2NjYjhiOGZjMDg2MjNlNGVkYTMyYjE3NjEyOWFmMWZlYTYy",
+  "snapshot_id": "MCw3MTI5ODc0OWM3NzlmNDg5MTFlZWJkZmQ2YTVlNjkxNDhkMDJiNDU1",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 104320,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "DAHMER - Monster: The Jeffrey Dahmer Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0iWf4fEHwkLXSHoHunjwtt"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 150694,
       "name": "End Credits (from the Netflix Series \"DAHMER - Monster: The Jeffrey Dahmer Story\")",
       "url": "https://open.spotify.com/track/1zmRTJEYYYamHKy8Bsi8ne"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 104320,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
     },
     {
       "added_at": "2022-12-21 17:45:34",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
+        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
+      },
+      "artists": [
+        {
+          "name": "David Wingo",
+          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
+        }
+      ],
+      "duration_ms": 69226,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 199173,
       "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
       "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
-        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
-      },
-      "artists": [
-        {
-          "name": "David Wingo",
-          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
-        }
-      ],
-      "duration_ms": 69226,
-      "name": "Barry",
-      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
     },
     {
       "added_at": "2022-12-21 17:45:34",

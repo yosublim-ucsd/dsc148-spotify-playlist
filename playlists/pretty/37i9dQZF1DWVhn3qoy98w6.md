@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: MADBEL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,194 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,209 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
 | 50 | [Canción Para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción Para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 |
 
-Snapshot ID: `MCwzMDYxMWY5Y2I5NjQ3ZTYwMTRhN2IwODJhNWM1ZTA5OGI0NDY1ZTgz`
+Snapshot ID: `MCw2NWQyMjhiMzJhMTdhY2IyMDkyZWU3YTczNGRlODllMzUyM2ZjODgx`

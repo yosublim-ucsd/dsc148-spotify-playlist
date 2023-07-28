@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13606,
+  "num_followers": 13610,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjc4YzYyYWIwZjE0ZmMwYmM0OGM3MjA0MjczZDk0NDc4NzE5YjQ1",
+  "snapshot_id": "MCw1NzBiYzVjMjc5NzkwNGU1YjlhMGRkMjUzY2MxMTIwNGEwZDc5MzNi",
   "tracks": [
     {
       "added_at": "2023-06-22 07:18:24",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "If You Never Fall in Love with Me",
-      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Sunset Bird",
         "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 119887,
       "name": "Sunset Bird",
       "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "If You Never Fall in Love with Me",
+      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 311106,
+      "name": "Little B's Poem - Remastered 1994",
+      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Little B's Poem - Remastered 1994",
-      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -659,18 +643,34 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
         }
       ],
-      "duration_ms": 220093,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/5xdgrltzlz2A5RH7VtShJx"
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+      "duration_ms": 220093,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/5xdgrltzlz2A5RH7VtShJx"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 240651,
+      "name": "Who Needs Paris",
+      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
       "artists": [
         {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
         }
       ],
-      "duration_ms": 240651,
-      "name": "Who Needs Paris",
-      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -983,18 +999,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+        "name": "A Seasonal Thing...SPRING",
+        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
       },
       "artists": [
         {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
         }
       ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+      "duration_ms": 303850,
+      "name": "It's Not Easy Being Green",
+      "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1043,22 +1059,6 @@
       "duration_ms": 231502,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "A Seasonal Thing...SPRING",
-        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 303850,
-      "name": "It's Not Easy Being Green",
-      "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "The Complete Bill Evans On Verve",
         "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
@@ -1239,18 +1255,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+        "name": "We've Just Begun",
+        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
         }
       ],
-      "duration_ms": 178573,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
+      "duration_ms": 215410,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/0b03KNmMD9rb0wOhRq6cLJ"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1307,22 +1327,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "My Shining Hour",
-      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "We've Just Begun",
-        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
       "artists": [
         {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 215410,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/0b03KNmMD9rb0wOhRq6cLJ"
+      "duration_ms": 193000,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
-      },
-      "artists": [
-        {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Where Do You Start",
         "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 526613,
       "name": "Holland",
       "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1575,6 +1575,22 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1607,22 +1623,6 @@
       "duration_ms": 256972,
       "name": "You Must Believe In Spring",
       "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
     },
     {
       "added_at": "2023-06-22 07:18:24",

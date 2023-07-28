@@ -1,28 +1,32 @@
 {
   "description": "music from the underworld",
-  "num_followers": 6190,
+  "num_followers": 7571,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmM3MTRjZTUzNmVkY2Q2NGJiMjNhNmE4NjI1MzVmODFhNDNhY2Rm",
+  "snapshot_id": "MCxmMDA4MmQ4ZmMxNzc0Y2RlNjM1MmE0NmFjZmViZWEzMDRhYjgzMGQ0",
   "tracks": [
     {
-      "added_at": "2023-07-21 14:24:06",
+      "added_at": "2023-07-27 14:53:45",
       "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2023-07-21 14:24:06",
@@ -175,6 +179,22 @@
       "duration_ms": 174682,
       "name": "UDNTHAVE2KNOW",
       "url": "https://open.spotify.com/track/1O8FFruddXtdS97wBbsbqK"
+    },
+    {
+      "added_at": "2023-07-21 14:24:06",
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
     },
     {
       "added_at": "2023-07-21 14:24:06",
@@ -839,22 +859,6 @@
       "duration_ms": 98847,
       "name": "iwalkwhenitalk</3",
       "url": "https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er"
-    },
-    {
-      "added_at": "2023-07-21 14:24:06",
-      "album": {
-        "name": "bandz in my poccket",
-        "url": "https://open.spotify.com/album/6iu9KtHmLXOiHX0Kh2dh7t"
-      },
-      "artists": [
-        {
-          "name": "kaystrueno",
-          "url": "https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4"
-        }
-      ],
-      "duration_ms": 61300,
-      "name": "bandz in my poccket",
-      "url": "https://open.spotify.com/track/6D9pELc0TWsCgxVxqhpmkR"
     },
     {
       "added_at": "2023-07-21 14:24:06",

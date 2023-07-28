@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 196543,
+  "num_followers": 196575,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl",
+  "snapshot_id": "MCwyMThmZDhiNDUxMDk1NGEzNDMzNWQ1NmY0NjgyNzdjZDk1ZThhM2U4",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Deppz",
-          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
-        }
-      ],
-      "duration_ms": 198372,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+        }
+      ],
+      "duration_ms": 198372,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -903,30 +919,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Mock Man (The VIP)",
-        "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Moda",
-          "url": "https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v"
-        },
-        {
-          "name": "KKoi",
-          "url": "https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC"
-        }
-      ],
-      "duration_ms": 229639,
-      "name": "Mock Man (The VIP)",
-      "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Secure the Bag",
         "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
       },
@@ -947,18 +939,26 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+        "name": "Mock Man (The VIP)",
+        "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
       "artists": [
         {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Moda",
+          "url": "https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v"
+        },
+        {
+          "name": "KKoi",
+          "url": "https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC"
         }
       ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+      "duration_ms": 229639,
+      "name": "Mock Man (The VIP)",
+      "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
-      },
-      "artists": [
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 200000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
+      },
+      "artists": [
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1355,22 +1355,26 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Amazon Prime",
-        "url": "https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA"
+        "name": "Hot Flush",
+        "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
       },
       "artists": [
         {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
         },
         {
-          "name": "1st Born",
-          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 160482,
-      "name": "Amazon Prime",
-      "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
+      "duration_ms": 317538,
+      "name": "Hot Flush",
+      "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
     }
   ],
   "unique_name": "Bassline Bangers",

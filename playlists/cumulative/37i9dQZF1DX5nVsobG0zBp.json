@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 183046,
       "name": "Beber Para Esquecer",
       "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "CARO",
+        "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237722,
+      "name": "CARO",
+      "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
+    },
+    {
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -652,6 +674,24 @@
       "duration_ms": 202886,
       "name": "Conto",
       "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
+    },
+    {
+      "album": {
+        "name": "Anatomia de GROG",
+        "url": "https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y"
+      },
+      "artists": [
+        {
+          "name": "GROGNation",
+          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282960,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc"
     },
     {
       "album": {
@@ -1714,7 +1754,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193939,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3"
@@ -2132,7 +2172,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 191988,
       "name": "O que \u00e9 que tens feito?",
       "url": "https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6"
@@ -2499,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181953,
+      "name": "Run Gimme",
+      "url": "https://open.spotify.com/track/6gAddLxdKIr8M6NQVCloDq"
+    },
+    {
+      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
       },
@@ -2528,7 +2590,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 222009,
       "name": "SACA L\u00c1",
       "url": "https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k"
@@ -2648,7 +2710,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"

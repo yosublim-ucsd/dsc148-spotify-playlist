@@ -4,12 +4,12 @@
 
 > lofi beats by Latinxs.
 
-54 songs - 2 hr 11 min
+55 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 | 2023-06-26 |  |
-| [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 | 2023-06-26 |  |
+| [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 | 2023-06-26 | 2023-07-28 |
 | [Agüita de Coco](https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Chavezarratia](https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo) | [Agüita de Coco](https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL) | 2:16 | 2023-06-26 |  |
 | [Alcázar](https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE) | [Tranquilo](https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE) | [Alcázar](https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ) | 1:38 | 2023-06-26 | 2023-07-15 |
 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 | 2023-06-26 |  |
@@ -37,6 +37,7 @@
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2023-06-26 |  |
 | [Happy To Help](https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Happy To Help](https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp) | 1:52 | 2023-06-26 |  |
 | [Hotel Lounge in Havana](https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Hotel Lounge in Havana](https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK) | 1:55 | 2023-06-26 |  |
+| [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 | 2023-07-14 |  |
 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 | 2023-06-26 |  |
 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 | 2023-07-14 |  |
 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 | 2023-07-06 |

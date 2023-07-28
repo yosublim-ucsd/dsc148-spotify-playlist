@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Ashh",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -3457,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "High & Fines Herbes \u2013 \u00c9dition 420",
+        "url": "https://open.spotify.com/album/6qu28HganG8uPu79hCSrle"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Pi\u00e8ces manquantes",
+      "url": "https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA"
+    },
+    {
+      "album": {
         "name": "Restez Prince",
         "url": "https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ"
       },
@@ -4016,7 +4038,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 207000,
       "name": "Sang Bleu",
       "url": "https://open.spotify.com/track/1PNz9JG0KWG6NO0c9zq3rf"

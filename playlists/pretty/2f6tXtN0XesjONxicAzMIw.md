@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 ### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of 2000s Y2K nostalgia for July 4th, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,610,531 likes - 126 songs - 8 hr 17 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,610,483 likes - 126 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 125 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 |
 | 126 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 
-Snapshot ID: `MTY5Nyw1Njc4ZGJjNDc5ZDkwMWQ0NzJlNjc0YjljZTQ5MmVhZGVkMjMyNWIw`
+Snapshot ID: `MTcwMCwxM2U4MGY5NjE0NzJkMDJhY2NhZGYwNDVmNWY3MDg1YzM4MzIyOTZh`

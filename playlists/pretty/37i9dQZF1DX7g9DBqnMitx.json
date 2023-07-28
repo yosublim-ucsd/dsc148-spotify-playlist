@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 54602,
+  "num_followers": 54614,
   "original_name": "BO & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQ5ZDViNjViMjA2YzY1ZWI5ZTBkOGZlZmJmZDUyNmU2MGFlMTcy",
+  "snapshot_id": "MCwyYWIyZTY4ZWM4NGRiMTQ3MTM3ZDM1NmU3ZjE1ZGNjYWExODk5Y2I3",
   "tracks": [
     {
       "added_at": "2023-02-24 16:47:02",
@@ -23,6 +23,22 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
+    },
+    {
+      "added_at": "2023-07-27 21:17:47",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2023-02-24 16:47:02",
@@ -1171,26 +1187,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2023-02-24 16:47:02",
-      "album": {
-        "name": "Cl\u00e9o de 5 \u00e0 7 (Bande originale du film)",
-        "url": "https://open.spotify.com/album/3HYxMZ7wzK28cXs33qnYiP"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        },
-        {
-          "name": "Corinne Marchand",
-          "url": "https://open.spotify.com/artist/04upRmddDK0nZH0Xot3Lwe"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6Ub63208eZVnT6UPQm4fGH"
     },
     {
       "added_at": "2023-02-24 16:47:02",

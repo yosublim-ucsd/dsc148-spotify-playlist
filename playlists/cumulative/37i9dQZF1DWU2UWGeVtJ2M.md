@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-286 songs - 15 hr 52 min
+287 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 | 2022-07-29 |
 | [Heart of Mine](https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP) | [Kuizz](https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u) | [Heart of Mine](https://open.spotify.com/album/4Wxs9jEq4dwPFd5iLdwBHj) | 2:51 | 2022-06-13 | 2022-07-27 |
 | [Heat](https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/11UumVLKD0DqPUpxA4udNX) | 3:10 | 2022-08-15 | 2022-10-03 |
+| [Heat](https://open.spotify.com/track/7hn5uXhjeHwGWbqCPdBtwY) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/6NQYvAcFnLvL3c7dk0HngW) | 3:10 | 2023-07-24 |  |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-08-01 | 2022-10-17 |
 | [Hell or Heaven](https://open.spotify.com/track/34gJMMpzslquGwCDq0bLe1) | [Lara D.](https://open.spotify.com/artist/2rkA2RE0iabEZmEx5QNxtX) | [Hell or Heaven](https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 | 2022-06-06 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2022-06-06 |  |
 | [Say It](https://open.spotify.com/track/1ZbH2WzZhjiODZfsX2raPz) | [Christian Theseira](https://open.spotify.com/artist/3A1xszV6hJ3dQeL3WJWuWy) | [Say It](https://open.spotify.com/album/3wJIX9Azv22IAW2s2bkuZO) | 3:33 | 2022-06-06 | 2022-07-29 |
 | [SCORPIO](https://open.spotify.com/track/7dWO43BlUXzAImVYT7i2Ss) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [SCORPIO](https://open.spotify.com/album/65le9QamYEtftvHtjeKHP0) | 3:21 | 2022-06-06 | 2022-07-29 |
-| [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 | 2023-07-10 |  |
+| [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 | 2023-07-10 | 2023-07-28 |
 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 | 2022-07-25 |  |
 | [Sinking](https://open.spotify.com/track/7zwN8pdasAQwkkRP64OIMS) | [Claudia](https://open.spotify.com/artist/4iSU0hKfGnU2nscL5dLi9p) | [Sinking](https://open.spotify.com/album/0CfQZxExm3luRR6aROK0ay) | 3:09 | 2022-06-27 | 2022-07-06 |
 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2022-07-25 | 2023-05-23 |

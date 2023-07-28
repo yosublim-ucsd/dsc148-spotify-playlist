@@ -372,10 +372,36 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 150000,
       "name": "Heart & Home",
       "url": "https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG"
+    },
+    {
+      "album": {
+        "name": "Heart & Home",
+        "url": "https://open.spotify.com/album/2uBR87y9vpt85gUgtOXLh0"
+      },
+      "artists": [
+        {
+          "name": "Lauwz",
+          "url": "https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb"
+        },
+        {
+          "name": "Bapti",
+          "url": "https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB"
+        },
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/50I2vUIS8XNDtJW8IWfNWl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Heart & Home",
+      "url": "https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu"
     },
     {
       "album": {

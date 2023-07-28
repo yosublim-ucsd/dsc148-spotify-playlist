@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 185999,
+  "num_followers": 186144,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2",
+  "snapshot_id": "MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Solo Piano",
-        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
-      },
-      "artists": [
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 302210,
       "name": "Places",
       "url": "https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Cihangir Aslan",
+          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
+        },
+        {
+          "name": "Dilan Balkay",
+          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 376082,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Cihangir Aslan",
-          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
-        },
-        {
-          "name": "Dilan Balkay",
-          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 376082,
-      "name": "Night Owl",
-      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Bright Serpent",
         "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1199,22 +1215,6 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "\u2665",
-      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1419,18 +1403,34 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "\u2665",
+      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Budd Box (Spotify Only)",
         "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
@@ -1663,18 +1647,34 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
         }
       ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "White Flower, Dark Hill",
+        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "White Flower, Dark Hill",
+      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
     }
   ],
   "unique_name": "Electronica Romantica",

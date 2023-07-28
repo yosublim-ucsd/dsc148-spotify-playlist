@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,335 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,349 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 42 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 |
 | 43 | [Flash Flood](https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Flash Flood](https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq) | 2:39 |
 | 44 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 |
-| 45 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
+| 45 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 46 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 47 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 |
 | 48 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Warriors](https://open.spotify.com/track/5dq7kJxJRIWsu39gvp6DKz) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Warriors](https://open.spotify.com/album/4I61bW3dyG0G4FgmLwjXmg) | 3:34 |
 | 100 | [Foregone, Pt\. 2](https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Meet Your Maker](https://open.spotify.com/album/4MULWYM7gQyBiJ2KeJ2PrY) | 4:30 |
 
-Snapshot ID: `MCwyYThlOGQ5MTI1YzBlZGI0ZDdiOTBjYTk5ZDk3NjViYjQ3NjAyNjBl`
+Snapshot ID: `MCw5ODY0Y2I1MzhjNWFhNGUyYzQwYWJmMjUwM2NmOWYxODZiYTU1YjZi`

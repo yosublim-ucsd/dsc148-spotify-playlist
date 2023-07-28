@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-452 songs - 1 day 14 hr 50 min
+453 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
-| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
+| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 | 2023-07-28 |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
@@ -314,6 +314,7 @@
 | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/track/0cDD2tuTX0DTEXtHot0VfO) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/album/0q7kWUZW4yuPaAZ5OttXzn) | 4:28 | 2023-06-02 | 2023-07-04 |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |
+| [Queen of the Dead Dimension](https://open.spotify.com/track/1VMrvtJi8UYs1HSiCCk2OL) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Queen of the Dead Dimension](https://open.spotify.com/album/3WaZwT2pTDgkg17wE3Clad) | 5:33 | 2023-07-21 |  |
 | [Quintessence](https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Panzerfaust](https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg) | 7:36 | 2022-07-13 | 2023-07-04 |
 | [Reborn Paradise](https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Reborn Paradise](https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa) | 4:58 | 2022-01-21 | 2022-07-28 |
 | [Reckoning](https://open.spotify.com/track/2hBKZG4x9Wjed6T2oAFAwm) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Reckoning](https://open.spotify.com/album/6WfPQTk5dUOKIgHIsl03MU) | 5:15 | 2021-12-17 | 2022-05-14 |

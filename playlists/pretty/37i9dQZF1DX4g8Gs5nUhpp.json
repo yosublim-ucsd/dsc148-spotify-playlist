@@ -1,12 +1,12 @@
 {
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: ERIK",
-  "num_followers": 156827,
+  "num_followers": 156888,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDczYWJjNTNkNzAzMjE1ZjU2MTU3MDQwNmFmYjIxMzcyMjVjMTFl",
+  "snapshot_id": "MCw0MTUzMGE1OGVmYWRhMmQ1OWEwNTYwN2VjNTJkODZiY2MzY2Y0NGJl",
   "tracks": [
     {
       "added_at": "2023-07-14 01:39:20",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-07-21 17:00:00",
       "album": {
-        "name": "< 3RIK",
-        "url": "https://open.spotify.com/album/1SVV4z7YJSU0B1RxM2h1cS"
-      },
-      "artists": [
-        {
-          "name": "ERIK",
-          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Xoa \u0110\u1ea7u",
-      "url": "https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa"
-    },
-    {
-      "added_at": "2023-07-21 17:00:00",
-      "album": {
         "name": "Kh\u00f4ng C\u00f2n Em",
         "url": "https://open.spotify.com/album/7k9BqIUVoIQNaSOS62wbd1"
       },
@@ -99,22 +83,18 @@
     {
       "added_at": "2023-07-21 17:00:00",
       "album": {
-        "name": "Ti\u1ebfp \u0110\u1ea5t",
-        "url": "https://open.spotify.com/album/1UddUVHgfgI6DuP0DfRLKi"
+        "name": "< 3RIK",
+        "url": "https://open.spotify.com/album/1SVV4z7YJSU0B1RxM2h1cS"
       },
       "artists": [
         {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        },
-        {
-          "name": "Th\u1eafng",
-          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
         }
       ],
-      "duration_ms": 195860,
-      "name": "Ti\u1ebfp \u0110\u1ea5t",
-      "url": "https://open.spotify.com/track/2tZjAcLcg7k0p0c1wA3Ggk"
+      "duration_ms": 192720,
+      "name": "Xoa \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa"
     },
     {
       "added_at": "2023-07-14 01:39:20",
@@ -259,6 +239,26 @@
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
+    },
+    {
+      "added_at": "2023-07-21 17:00:00",
+      "album": {
+        "name": "Ti\u1ebfp \u0110\u1ea5t",
+        "url": "https://open.spotify.com/album/1UddUVHgfgI6DuP0DfRLKi"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "duration_ms": 195860,
+      "name": "Ti\u1ebfp \u0110\u1ea5t",
+      "url": "https://open.spotify.com/track/2tZjAcLcg7k0p0c1wA3Ggk"
     },
     {
       "added_at": "2023-07-14 01:39:20",

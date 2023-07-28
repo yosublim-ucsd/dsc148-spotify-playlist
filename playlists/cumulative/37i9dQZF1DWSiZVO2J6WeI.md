@@ -222,7 +222,7 @@
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-12 |  |
 | [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 |  |
 | [Split Desire](https://open.spotify.com/track/3d2DiXpatpWMKqE6BxrJy1) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:15 | 2022-04-13 | 2022-04-21 |
-| [Star Landing](https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Forest Dreams](https://open.spotify.com/album/0Wvh866m5t5BxXeB866g9N) | 2:56 | 2023-03-10 | 2023-05-26 |
+| [Star Landing](https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Forest Dreams](https://open.spotify.com/album/0Wvh866m5t5BxXeB866g9N) | 2:56 | 2023-03-10 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stars Above](https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1) | [Gazebo Clouds](https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx) | [Partly Cloudy](https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03) | 3:43 | 2022-01-12 |  |
 | [Start Again](https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Through it All](https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt) | 3:06 | 2022-01-12 |  |
@@ -260,6 +260,6 @@
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2022-01-12 |  |
 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-10 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-18 |  |
-| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 |  |
+| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 | 2023-07-28 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

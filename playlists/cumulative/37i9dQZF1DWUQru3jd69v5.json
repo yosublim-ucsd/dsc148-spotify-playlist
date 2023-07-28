@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Artie 5ive e Sacky in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Philip ed LJK in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "BEBECITA",
+        "url": "https://open.spotify.com/album/4wtIn4dpOfZ20nI2H1fhLN"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165034,
+      "name": "BEBECITA",
+      "url": "https://open.spotify.com/track/79hRcrehOEmreZjXjSsfds"
+    },
+    {
+      "album": {
         "name": "BEEF",
         "url": "https://open.spotify.com/album/033RtlmFySG0CiwdtUlyVy"
       },
@@ -2240,6 +2258,28 @@
       "duration_ms": 156486,
       "name": "Calamite",
       "url": "https://open.spotify.com/track/452JD9BvCZ0IiKk5QWQZrt"
+    },
+    {
+      "album": {
+        "name": "Calimero",
+        "url": "https://open.spotify.com/album/05BM4ZoIDRyELMell7qvhV"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Calimero",
+      "url": "https://open.spotify.com/track/67HHjOv8uY2gwAQ0Ju0xGR"
     },
     {
       "album": {
@@ -3407,6 +3447,28 @@
     },
     {
       "album": {
+        "name": "CULTO BOY (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/3PtCWeswrhCBlczf3JWIfV"
+      },
+      "artists": [
+        {
+          "name": "Cancun",
+          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "CULTO BOY (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2R1eThHTNJwzxxzgX3hHz2"
+    },
+    {
+      "album": {
         "name": "CUORE RINCHIUSO",
         "url": "https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX"
       },
@@ -3921,6 +3983,28 @@
     },
     {
       "album": {
+        "name": "DRIN DRIN (feat. LJK)",
+        "url": "https://open.spotify.com/album/6NkKaJtAmmE29ghqrxUE5L"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161352,
+      "name": "DRIN DRIN (feat. LJK)",
+      "url": "https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD"
+    },
+    {
+      "album": {
         "name": "DRUG DEALER",
         "url": "https://open.spotify.com/album/0DpRoF12BKXnso55BfjJYQ"
       },
@@ -4355,6 +4439,28 @@
     },
     {
       "album": {
+        "name": "FA BELLO",
+        "url": "https://open.spotify.com/album/4TvEgoLnciC2us7GCFlHQa"
+      },
+      "artists": [
+        {
+          "name": "Iltunsi",
+          "url": "https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137922,
+      "name": "FA BELLO",
+      "url": "https://open.spotify.com/track/4miU3wAqdM1RXixC8CgFeB"
+    },
+    {
+      "album": {
         "name": "Facile",
         "url": "https://open.spotify.com/album/01eTjOeJSoT0b4QS9KEzTi"
       },
@@ -4502,7 +4608,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 160661,
       "name": "Festa delle Streghe",
       "url": "https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu"
@@ -4520,7 +4626,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 157209,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL"
@@ -4674,7 +4780,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 156028,
       "name": "Finta di niente",
       "url": "https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3"
@@ -5623,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "DRILL LIFE 2 DELUXE",
+        "url": "https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V"
+      },
+      "artists": [
+        {
+          "name": "Young Slash",
+          "url": "https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114753,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4"
+    },
+    {
+      "album": {
         "name": "247 - EP",
         "url": "https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR"
       },
@@ -6168,7 +6292,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 150796,
       "name": "In 2 Sulla Moto",
       "url": "https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7"
@@ -6890,6 +7014,32 @@
       "duration_ms": 159344,
       "name": "LA LEGGE NON \u00c8 UGUALE PER TUTTI",
       "url": "https://open.spotify.com/track/3kaKs57hDKwhN96DqIOgbF"
+    },
+    {
+      "album": {
+        "name": "LA MULA",
+        "url": "https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Vaporstef",
+          "url": "https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136850,
+      "name": "LA MULA",
+      "url": "https://open.spotify.com/track/5WcctLfufHRiiAJsH946my"
     },
     {
       "album": {
@@ -7801,6 +7951,28 @@
     },
     {
       "album": {
+        "name": "MARAT",
+        "url": "https://open.spotify.com/album/5r9xWLqzDMpP7tEIO0fzWe"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "MARAT",
+      "url": "https://open.spotify.com/track/29sJobeWGN66qo2mvKhaNV"
+    },
+    {
+      "album": {
         "name": "Marciano",
         "url": "https://open.spotify.com/album/2LdwnsE1HRqpbHE6Zn3Rcr"
       },
@@ -8424,7 +8596,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 133052,
       "name": "Mon Papa",
       "url": "https://open.spotify.com/track/04xS99ysaLVID7GRAmo1bp"
@@ -10927,6 +11099,32 @@
     },
     {
       "album": {
+        "name": "Responsabile (feat. Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Responsabile (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK"
+    },
+    {
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -11199,6 +11397,28 @@
     },
     {
       "album": {
+        "name": "Rotto",
+        "url": "https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163823,
+      "name": "Rotto",
+      "url": "https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ"
+    },
+    {
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/6hcYjF9Ha3wZ84gSdddsxl"
       },
@@ -11443,6 +11663,24 @@
     },
     {
       "album": {
+        "name": "Scappa da Milano",
+        "url": "https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Scappa da Milano",
+      "url": "https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn"
+    },
+    {
+      "album": {
         "name": "SCEICCO",
         "url": "https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4"
       },
@@ -11454,7 +11692,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 154948,
       "name": "SCEICCO",
       "url": "https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln"
@@ -11785,6 +12023,28 @@
     },
     {
       "album": {
+        "name": "Si$tema",
+        "url": "https://open.spotify.com/album/5EIYPOPAKA8FiVAjVOEicv"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 Valentino",
+          "url": "https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr"
+        },
+        {
+          "name": "Nessuno",
+          "url": "https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111687,
+      "name": "Si$tema",
+      "url": "https://open.spotify.com/track/4tuJfPXhIHHkBnpWi0Sj9x"
+    },
+    {
+      "album": {
         "name": "SIDE HOE",
         "url": "https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr"
       },
@@ -11964,7 +12224,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 123000,
       "name": "SLAP",
       "url": "https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly"

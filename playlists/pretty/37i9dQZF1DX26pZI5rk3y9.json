@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5932,
+  "num_followers": 5937,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
+  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Sea of Cowards",
-        "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "I Can't Hear You",
-      "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Sea of Cowards",
+        "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "I Can't Hear You",
+      "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Nothing But The Blues (Live and Stripped)",
         "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Devil Claims His Prize",
-        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 162176,
-      "name": "Devil Claims His Prize",
-      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -263,22 +279,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "I Want To Shout About It",
-        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Bring Me Back Home Again",
         "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 223173,
       "name": "Bring Me Back Home Again",
       "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -327,6 +311,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "What Can I Do?",
         "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
       },
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Vibes EP",
-        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
-      },
-      "artists": [
-        {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
-        }
-      ],
-      "duration_ms": 270658,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 172520,
       "name": "Rise",
       "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Vibes EP",
+        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 270658,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Guadalupe Plata 2023",
-        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 135609,
-      "name": "Al Infierno que Vayas",
-      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 131354,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Guadalupe Plata 2023",
+        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "duration_ms": 135609,
+      "name": "Al Infierno que Vayas",
+      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Chrysomallousa",
         "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219954,
       "name": "Chrysomallousa",
       "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+        "name": "Walk The Wire",
+        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
       "artists": [
         {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+          "name": "Brent Lindsay",
+          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
         }
       ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+      "duration_ms": 124218,
+      "name": "Walk The Wire",
+      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Walk The Wire",
-        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
       "artists": [
         {
-          "name": "Brent Lindsay",
-          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
         }
       ],
-      "duration_ms": 124218,
-      "name": "Walk The Wire",
-      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
-      },
-      "artists": [
-        {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
-        }
-      ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 261665,
       "name": "Porcelain God",
       "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+      },
+      "artists": [
+        {
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+        }
+      ],
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Go Down Swinging",
-        "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
-      },
-      "artists": [
-        {
-          "name": "Hacienda",
-          "url": "https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "Go Down Swinging",
-      "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
         "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 162612,
       "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
       "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Go Down Swinging",
+        "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
+      },
+      "artists": [
+        {
+          "name": "Hacienda",
+          "url": "https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3"
+        }
+      ],
+      "duration_ms": 193928,
+      "name": "Go Down Swinging",
+      "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Cassanova Kirk Daniel",
+        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
+      },
+      "artists": [
+        {
+          "name": "Mittch",
+          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
+        }
+      ],
+      "duration_ms": 203599,
+      "name": "Cassanova Kirk Daniel",
+      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Got till it's gone",
         "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Cassanova Kirk Daniel",
-        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
+        "name": "Bound To Get The Blues",
+        "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
       },
       "artists": [
         {
-          "name": "Mittch",
-          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
+          "name": "Ray Beadle",
+          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
         }
       ],
-      "duration_ms": 203599,
-      "name": "Cassanova Kirk Daniel",
-      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+      "duration_ms": 300548,
+      "name": "Got To Get Out",
+      "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -1023,22 +1039,6 @@
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Bound To Get The Blues",
-        "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
-      },
-      "artists": [
-        {
-          "name": "Ray Beadle",
-          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
-        }
-      ],
-      "duration_ms": 300548,
-      "name": "Got To Get Out",
-      "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
     },
     {
       "added_at": "2023-07-21 15:58:03",

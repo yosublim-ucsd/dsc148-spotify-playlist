@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: Asake &
 
-379 songs - 20 hr 40 min
+380 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Oh My](https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Oh My](https://open.spotify.com/album/2mbb9MnwW8onuP9RbJ0ujJ) | 3:03 | 2021-09-10 | 2022-07-28 |
 | [Oh My Gawd \(feat\. Nicki Minaj & K4MO\)](https://open.spotify.com/track/2tjbSkPKKH1GFUhSr96tq0) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd \(feat\. Nicki Minaj & K4MO\)](https://open.spotify.com/album/5WsSKDNy9pItHmnzbOlIPC) | 3:00 | 2022-03-25 | 2022-04-20 |
 | [Ojoro](https://open.spotify.com/track/4LHmgtnN9wlKn1WnqbEkoY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Ojoro](https://open.spotify.com/album/21CmXHS5BjoZ5MvrCqlRXP) | 3:46 | 2022-03-25 | 2022-04-19 |
-| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 |  |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 | 2023-07-28 |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-07-21 |  |
 | [On It \(feat\. PnB Rock & K1NG\)](https://open.spotify.com/track/7DOR5ABi2gXg4Ju9qnf6yQ) | [Crumz](https://open.spotify.com/artist/5nt98wJxVusArWyEJuNymn), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [On It \(feat\. PnB Rock & K1NG\)](https://open.spotify.com/album/6Ib3QrAdsIXiJH8DqkjGmc) | 3:21 | 2021-09-10 | 2022-04-18 |
 | [On Me](https://open.spotify.com/track/4WZx3spjhTuU1omUYFqvLM) | [Kelechi](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR) | [On Me](https://open.spotify.com/album/0EUJDaGEEJInfveb6b2Kut) | 3:12 | 2022-03-25 | 2022-04-21 |
 | [Oreke](https://open.spotify.com/track/7EFnbc7UnvOyFcb6IhJq9v) | [E Kelly](https://open.spotify.com/artist/3i1H48XqmNvnbFASTaUs7l), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [No Secrets](https://open.spotify.com/album/3Tqeo8Ew6BBYddXpIGJSXU) | 3:02 | 2021-09-10 | 2022-07-29 |

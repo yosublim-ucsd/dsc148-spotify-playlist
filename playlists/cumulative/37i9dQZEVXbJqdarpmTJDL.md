@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,231 songs - 2 day 17 hr 49 min
+1,232 songs - 2 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [FUCK DA POLICE](https://open.spotify.com/track/6yyMD0sKGOovYrRaE1td8w) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [FUCK DA POLICE](https://open.spotify.com/album/7wekxsnr8XwGU3TDRYBqG3) | 2:47 | 2023-01-25 | 2023-05-14 |
 | [FUEGO](https://open.spotify.com/track/6Z8QEJb16AegtjLQxHGBCe) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [33:22](https://open.spotify.com/album/3Gsx4TDvO8KoZADPJxFEMO) | 2:46 | 2021-08-15 | 2021-08-19 |
 | [FUEGO](https://open.spotify.com/track/1HHcbLnFA4YHyh4a4tsCz3) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:19 | 2023-05-13 | 2023-05-21 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-27 |  |
 | [Full Press](https://open.spotify.com/track/1AJrznrjCng2wX8dy4LGXk) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Full Press](https://open.spotify.com/album/5LFKGqyuMkDN76IfLCHBJY) | 4:45 | 2021-04-21 | 2022-01-08 |
 | [Funeral](https://open.spotify.com/track/6KdpZnQirNMGfV7Y4LIwuf) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Funeral](https://open.spotify.com/album/1NKzUXndcjJsD4KHUuv8NT) | 3:53 | 2021-10-23 | 2021-10-31 |
 | [Funeral](https://open.spotify.com/track/6LxUxssRORxjir61cJadlt) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:53 | 2021-10-31 | 2022-01-15 |
@@ -634,7 +635,7 @@
 | [LOCA](https://open.spotify.com/track/7JYa8V4dGXSDcZnO2CiRaP) | [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [LOCA](https://open.spotify.com/album/3EcHu1w6JVsfoIoDyT8ORM) | 2:43 | 2021-12-17 | 2022-05-21 |
 | [Location](https://open.spotify.com/track/1qHMnNp2pfSthLyTNSPBEZ) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 3:16 | 2022-01-22 | 2022-01-25 |
 | [Lockdown](https://open.spotify.com/track/0LgIHffVhGleMeHORs7dUl) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Lockdown](https://open.spotify.com/album/6IAu5JDi3qSGPOfAgPP3cN) | 3:45 | 2021-03-27\* | 2021-05-08 |
-| [Loco](https://open.spotify.com/track/6VNhk4EzjAg0yZNZPXbW43) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Ggreco](https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU) | [Loco](https://open.spotify.com/album/2eLa3pBqwZG6g5KehtU5KW) | 3:14 | 2023-06-27 |  |
+| [Loco](https://open.spotify.com/track/6VNhk4EzjAg0yZNZPXbW43) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Ggreco](https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU) | [Loco](https://open.spotify.com/album/2eLa3pBqwZG6g5KehtU5KW) | 3:14 | 2023-06-27 | 2023-07-28 |
 | [Loco](https://open.spotify.com/track/5QMcZ256rMttUyBSfbsGz7) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Loco](https://open.spotify.com/album/4gnCHv6FhzdxDWwkRnEck3) | 2:59 | 2023-07-07 |  |
 | [Lofos Aksiomatikon](https://open.spotify.com/track/0XbR60LIk4Qf3wdvGr8wdd) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Hrwas](https://open.spotify.com/artist/3Twks7X3LY2Dzjv8s3f49l) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 3:38 | 2021-04-04 | 2021-04-05 |
 | [Logout](https://open.spotify.com/track/3uUzvB3mza6FwzWD8W4j7Y) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Mektoub 2](https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS) | 2:34 | 2023-05-06 | 2023-05-14 |

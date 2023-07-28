@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-178 songs - 8 hr 36 min
+179 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Bobby & Rowdy \(feat\. Knucks\)](https://open.spotify.com/track/61cml5GtNpau6KAsVjxvcV) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Bobby & Rowdy \(feat\. Knucks\)](https://open.spotify.com/album/4fkUSbK3YP5nSUf8RAKlPv) | 4:21 | 2022-04-05 | 2022-05-11 |
 | [Brasileiro](https://open.spotify.com/track/0Va1ocTchf8fzw7BFBdgI8) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL), [Kxmel](https://open.spotify.com/artist/2mUasKldelggtKWyP5qYFm) | [Brasileiro](https://open.spotify.com/album/38bxQJ2e8FDcWXfbvC7Xxz) | 3:34 | 2022-04-05 | 2022-05-25 |
 | [Broken Hearted Crook](https://open.spotify.com/track/0WQhEX03KEWDKi14HKr23H) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4l05CxNJBHiUqOW1Mo3lHk) | 2:47 | 2022-08-02 | 2022-11-26 |
-| [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 | 2022-04-05 |  |
+| [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 | 2022-04-05 | 2023-07-28 |
 | [Broken Hearted Crook](https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP) | 2:48 | 2022-08-02 | 2023-07-05 |
+| [Broken Hearted Crook](https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH) | 2:48 | 2023-07-06 |  |
 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 | 2022-04-05 |  |
 | [Champagne Shots](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:24 | 2022-04-05 |  |
 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 | 2022-04-05 |  |
@@ -138,7 +139,7 @@
 | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/album/5dgLLxotbmPvWKKTDeP3au) | 2:39 | 2022-05-24 |  |
 | [Reference](https://open.spotify.com/track/3ujWwlBBHka38mAH2y4Wi5) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Reference](https://open.spotify.com/album/06Rb0Vb7h44PVlWCZIVrCS) | 2:49 | 2022-04-05 | 2022-05-11 |
 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 | 2022-04-05 |  |
-| [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/40rSqa7gFirbkXi0LwFoQ8) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 | 2022-05-24 |  |
+| [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 | 2022-05-24 |  |
 | [She Comes & Goes](https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:19 | 2022-08-02 |  |
 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 | 2022-04-05 | 2022-12-24 |
 | [She Comes & Goes](https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY) | 3:19 | 2022-08-02 | 2023-01-09 |

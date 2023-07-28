@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 35 | [Picnic in the Park](https://open.spotify.com/track/4U8NCCyyN2m3BfJgR5a9KJ) | [The Dreamtree Shakers](https://open.spotify.com/artist/1AEgbCyg5BRflRNcUyNm24) | [Going on a Picnic](https://open.spotify.com/album/6XWUCn9hnJRkRRXcQMDlUx) | 3:18 |
 | 36 | [Summertime](https://open.spotify.com/track/6Nmc8lZk4YdfeZcqzFXsWR) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap 11](https://open.spotify.com/album/2OWJzZ4siTAzILYrL966lT) | 2:33 |
 | 37 | [Under A Shady Tree](https://open.spotify.com/track/1bDKfdXvdEOiAHaJ3pFsUe) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Nature Songs](https://open.spotify.com/album/10plplah7B68rpm61s6ylf) | 2:49 |
-| 38 | [So Let's Climb Trees](https://open.spotify.com/track/2f9ETLVvX9VvZiNST2YAk4) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [So Let's Climb Trees](https://open.spotify.com/album/5z126C0V05gthRF9Ty3fZt) | 2:29 |
+| 38 | [So Let's Climb Trees](https://open.spotify.com/track/6FFhwHfYrtWzpbv9nSDEX4) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Beets](https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET) | 2:29 |
 | 39 | [Be Outside](https://open.spotify.com/track/0S4kbxKLAQkq4du2h3qDjB) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ) | [Good Foot](https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin) | 2:31 |
 | 40 | [Summer of Fun](https://open.spotify.com/track/2GymMFv7OEYB1mxbroLYlt) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Summer of Fun](https://open.spotify.com/album/4rDlAFbwFF7pwCeSUpo1vM) | 2:54 |
 | 41 | [Ice Cream Man](https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 3:02 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MCwxZWRiNjZhNDU1MGEyZTRhODNiNGIxYzI1NjVhMGUyYTAzNGY5NjRk`
+Snapshot ID: `MCw2OTc3ZjVlZGYzZWJhOGU5OWNlOGFmMDA1ZDY2NzRmYTU1N2I3M2Fj`

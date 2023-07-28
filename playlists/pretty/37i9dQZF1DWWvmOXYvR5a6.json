@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Sasha(\uc0ac\uc0e4)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 195571,
+  "num_followers": 195699,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzA3MDE5MzYzOTBlMTYzOGNhYWZkMTY4MzIzNDU3N2UxNDJkMTQ1",
+  "snapshot_id": "MCxiMThkN2Q0ZGU3YmM4NDE4NmRhOGRkZmYzNDNkNTJmNTUzYWI3Yzk4",
   "tracks": [
     {
       "added_at": "2023-07-18 13:30:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 198949,
       "name": "Dank",
       "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (K) (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 223681,
+      "name": "Me Like Yuh (K) (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
+        "name": "COCO BOTTLE",
+        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 187889,
+      "name": "COCO BOTTLE",
+      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
         "name": "Just Like This",
         "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 199733,
       "name": "Just Like This (Feat. george)",
       "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
-        "name": "COCO BOTTLE",
-        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 187889,
-      "name": "COCO BOTTLE",
-      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "DEMO",
-        "url": "https://open.spotify.com/album/7gIIAdLrq3UMz1tlovnRKf"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 129946,
-      "name": "Cool Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6XwWjm2hBIZmhDR6ZMSxoC"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
         "name": "BLOO IN WONDERLAND 2",
         "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 170520,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
+        "name": "DEMO",
+        "url": "https://open.spotify.com/album/7gIIAdLrq3UMz1tlovnRKf"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 129946,
+      "name": "Cool Prod. PEEJAY",
+      "url": "https://open.spotify.com/track/6XwWjm2hBIZmhDR6ZMSxoC"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 155986,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+      "duration_ms": 155986,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1715,22 +1715,6 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1767,6 +1751,22 @@
       "duration_ms": 240717,
       "name": "Beer (Prod.Way Ched)",
       "url": "https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2023-07-18 13:30:42",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2023-07-18 13:30:42",
+      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -1919,58 +1935,46 @@
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "Remember Archive",
-        "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
       "artists": [
         {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
         },
         {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "mino",
-          "url": "https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 215226,
-      "name": "Jumper (Feat. Gaeko, MINO)",
-      "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
     },
     {
       "added_at": "2023-07-18 13:30:42",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
       "artists": [
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
-    },
-    {
-      "added_at": "2023-07-18 13:30:42",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
         {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 163266,
-      "name": "oh yeah",
-      "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
+      "duration_ms": 200900,
+      "name": "Have A Little Fun",
+      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

@@ -1,12 +1,12 @@
 {
   "description": "It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.",
-  "num_followers": 97372,
+  "num_followers": 97450,
   "original_name": "Grandma's Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2ViMjc3OTZiOTQwODcxN2FiZDIyYTJiMWM1NGMzMGE1NDJmZWVl",
+  "snapshot_id": "MCw1MGNmMDA3MGJkNzQwMTNmMGQ4MDkyMTA5ZmQ4ZWZiMDg1MDk3ZDNm",
   "tracks": [
     {
       "added_at": "2023-01-03 16:08:08",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "added_at": "2023-01-03 16:08:08",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+    },
+    {
+      "added_at": "2023-01-03 16:08:08",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2023-01-03 16:08:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2023-01-03 16:08:08",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "added_at": "2023-01-03 16:08:08",
+      "album": {
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2023-01-03 16:08:08",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "NBC-TV Special (Live)",
-        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 200057,
-      "name": "If I Can Dream - Live from the '68 Comeback Special",
-      "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
-    },
-    {
-      "added_at": "2023-01-03 16:08:08",
-      "album": {
         "name": "Beaches (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 293853,
       "name": "Wind Beneath My Wings",
       "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
+    },
+    {
+      "added_at": "2023-01-03 16:08:08",
+      "album": {
+        "name": "NBC-TV Special (Live)",
+        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 200057,
+      "name": "If I Can Dream - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
     },
     {
       "added_at": "2023-01-03 16:08:08",

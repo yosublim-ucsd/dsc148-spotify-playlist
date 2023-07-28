@@ -2,13 +2,14 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rizky Febian
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Juicy Luicy
 
-75 songs - 4 hr 44 min
+76 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All the Time](https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG) | [The SIGIT](https://open.spotify.com/artist/4RLzLs2SHeyA0nLLlAJBg4) | [Visible Idea of Perfection](https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC) | 3:18 | 2023-03-16 |  |
+| [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2023-07-27 |  |
 | [Bandung](https://open.spotify.com/track/4WZYpmsmALlQCYLLjyiicB) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 4:49 | 2023-03-30 |  |
 | [Bandung](https://open.spotify.com/track/5EiVLH2dO0dOkkYapy1Q9A) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe) | 4:49 | 2023-03-16 | 2023-04-20 |
 | [Bandung](https://open.spotify.com/track/15m7cfGH0Yaz857aQOlA2J) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Home](https://open.spotify.com/album/0XnBJ63d5m2Sl03NuKcU8w) | 3:58 | 2023-03-16 |  |

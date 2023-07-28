@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-373 songs - 20 hr 28 min
+374 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Nu.e](https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Nu.e](https://open.spotify.com/album/2h3p6rosTEpGrPdrcAbBIS) | 2:47 | 2023-05-04 | 2023-06-09 |
 | [Nuit agitée](https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Nuits Agitées](https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1) | 3:12 | 2023-03-09 |  |
 | [Océan](https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Océan](https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ) | 3:56 | 2022-06-23 | 2022-07-29 |
-| [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-22 |  |
+| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey \(Spotify Only\)](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-27 |  |
+| [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-22 | 2023-07-28 |
 | [Oiseau de Paradis](https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Oiseau de Paradis](https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b) | 2:53 | 2022-06-30 | 2022-09-02 |
 | [One Night](https://open.spotify.com/track/5cQrwTC10CgNEQAhxpNiKS) | [Pol Mira](https://open.spotify.com/artist/0PFi4DEf015A8aKslmM1Bx) | [One Night](https://open.spotify.com/album/0id6fPdlzeBW2GISTo6Xd0) | 3:05 | 2023-06-01 | 2023-06-23 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > One...Two...THREE TRIESS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,605 likes - 30 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,628 likes - 30 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 29 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 |
 | 30 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 |
 
-Snapshot ID: `MCxkMDI3MWM3MWM1ZWFjNTg0Yjc3NTdmYjhjYWY0ZmY2NzE3OWU3YjAz`
+Snapshot ID: `MCxiMjk2ZWM2ZTRhYTJmNGFmZTg2OTY2YTgzNGVkMDBhMGZiYzlhMjk4`

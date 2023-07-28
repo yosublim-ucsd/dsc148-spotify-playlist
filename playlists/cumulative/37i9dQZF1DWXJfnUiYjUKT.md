@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Zayn
 
-7,947 songs - 17 day 10 hr 27 min
+7,948 songs - 17 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5064,7 +5064,8 @@
 | [Old Ways](https://open.spotify.com/track/03piMxNCT8PQTEYKvPBNDB) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Old Ways](https://open.spotify.com/album/4gNbQq6djv8imQQPM2AAAN) | 2:33 | 2022-07-21 | 2022-07-30 |
 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-09 | 2022-09-17 |
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 | 2023-04-15 |
-| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 |  |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-21 | 2023-07-28 |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-07-21 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-18 | 2022-03-25 |
 | [Olvidar De Ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 | 2022-11-04 | 2022-11-12 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-09 | 2022-06-18 |

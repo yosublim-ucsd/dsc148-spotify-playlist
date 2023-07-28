@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,726 songs - 3 day 5 hr 24 min
+1,728 songs - 3 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [A Sky Full of Flowers](https://open.spotify.com/track/23IhmwOyEMpH7fPU8H6pZz) | [Jeff Bright Jr](https://open.spotify.com/artist/7E6ohNXHygGbx68hwQxEXN) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:38 | 2021-03-11 | 2021-12-19 |
 | [A Slow Tune for G](https://open.spotify.com/track/27flOqCzErq4rva0scXy6a) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Diving with My Harpoon](https://open.spotify.com/album/60Cqe5CeQTf6pUGZXtQGJG) | 2:57 | 2021-03-18 | 2022-04-01 |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-15 | 2023-04-16 |
+| [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-27 |  |
 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 | 2023-05-30 |  |
 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 | 2022-03-29 | 2022-04-19 |
 | [A Walk Down the Aisle](https://open.spotify.com/track/3gCN5z5Fy8b7iTJDKDk2JU) | [In Amber](https://open.spotify.com/artist/6KKwyhMJU6IO69OEY2f43C) | [A Walk Down the Aisle](https://open.spotify.com/album/0crcaS4yA0L6x7qfLbK5rc) | 2:42 | 2021-05-13 | 2021-05-14 |
@@ -302,7 +303,7 @@
 | [Coral Red](https://open.spotify.com/track/0RLDbBQxuLmVE0odiyMcNv) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 2:17 | 2021-03-07 | 2021-05-24 |
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2022-03-29 | 2022-09-30 |
 | [Cosmos](https://open.spotify.com/track/1CRHcAto9laMLlLNgriPdq) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [The Great Escape](https://open.spotify.com/album/4btrnBcp9tQk4R6DM8R9CY) | 3:24 | 2021-10-12 | 2022-06-15 |
-| [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-29 | 2023-07-24 |
+| [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-29 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-04-14 | 2022-05-18 |
 | [Countless Days](https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Countless Days](https://open.spotify.com/album/5lQf5PkYVXgSOB1d8ovD9l) | 3:23 | 2022-03-24 | 2022-07-29 |
 | [Courage](https://open.spotify.com/track/13BdZaexiYI6sYpfJPFoIk) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Courage](https://open.spotify.com/album/521HITEukGqct8fv9hUXvC) | 4:14 | 2021-03-10 | 2022-04-19 |
@@ -580,6 +581,7 @@
 | [Go Peaceful](https://open.spotify.com/track/1M9b6vGSZUoRr8AKkRBs3b) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:51 | 2021-03-11 | 2022-04-20 |
 | [Going Back Home](https://open.spotify.com/track/77BoxNybCnK298YxCriS1p) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Going Back Home](https://open.spotify.com/album/13Cq5fDa6a348iF6at6I7S) | 3:09 | 2021-03-15 | 2021-07-16 |
 | [Going Home](https://open.spotify.com/track/4IAXoiaI12FoH8StF4n2tG) | [Intrinsic Focus](https://open.spotify.com/artist/6mvJXUuR2ER5cr8U4Vh4MW) | [Going Home](https://open.spotify.com/album/3FTs8ca556v5oMtQm2a9O7) | 4:12 | 2021-05-07 | 2022-04-14 |
+| [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j) | 4:05 | 2023-07-27 |  |
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-03-23 | 2022-07-29 |
 | [Gouldian Finch](https://open.spotify.com/track/1Zldb4ExDOShiURHT6q53b) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Gouldian Finch](https://open.spotify.com/album/73gIQgjaguRvVe6YhVeyBe) | 2:46 | 2022-03-29 | 2022-04-19 |
 | [Grace](https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Grace](https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P) | 2:15 | 2021-03-06\* | 2021-05-21 |
@@ -1098,7 +1100,7 @@
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-09-25 | 2022-08-10 |
 | [Peace Of Mind](https://open.spotify.com/track/7pGfuq7ffLt0UbAX8xki74) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:17 | 2021-03-18 | 2021-05-20 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-04-02 | 2021-11-16 |
-| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 |  |
+| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 | 2023-07-28 |
 | [Pearly White](https://open.spotify.com/track/32e2eC33BCyektlkaYjYIS) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Pearly White](https://open.spotify.com/album/5JkhzfBjn2jzwTozpuCrS9) | 2:25 | 2021-04-23 | 2022-04-16 |
 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-06 |  |
 | [Peinture](https://open.spotify.com/track/4qgftOOU3U9AuzH8Cidlbm) | [Rachmano](https://open.spotify.com/artist/1GRFB3CNdhiQTCVLOMgW4I) | [Peinture](https://open.spotify.com/album/2qrNNJcWzPFI8TmpwkxZZG) | 2:34 | 2022-03-24 | 2022-03-30 |
@@ -1149,7 +1151,7 @@
 | [Purple Distant](https://open.spotify.com/track/4QVIk4rz60fXiOy5LBNedb) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Closing In On Reality](https://open.spotify.com/album/2fAg8MypA3l9c3G1I3QXeB) | 2:26 | 2022-04-12 | 2022-04-15 |
 | [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2022-12-22 | 2023-07-22 |
 | [Qi](https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd) | [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Qi](https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co) | 5:26 | 2021-03-07 | 2021-05-09 |
-| [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2022-08-17 |  |
+| [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2022-08-17 | 2023-07-28 |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2021-04-03 | 2022-07-05 |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-03-29 | 2022-04-19 |
 | [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 | 2021-04-21 | 2021-12-18 |
@@ -1571,7 +1573,7 @@
 | [Truss](https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Imvula/Truss](https://open.spotify.com/album/2PgSIpWxAyvrkIw0zhg59c) | 1:56 | 2022-03-29 | 2022-04-04 |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-07-08 |  |
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-03-22 | 2022-04-17 |
-| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 |  |
+| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 | 2023-07-28 |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-29 | 2022-06-06 |
 | [Tu as disparu](https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Tu as disparu](https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD) | 1:55 | 2022-08-08 | 2023-03-16 |
 | [Tu brilles](https://open.spotify.com/track/4lQ8UtqxO1SRpMf4m5pNa9) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu brilles](https://open.spotify.com/album/3qg5hHtKgkTimpSAbRVrhc) | 2:22 | 2021-03-10 | 2021-03-11 |

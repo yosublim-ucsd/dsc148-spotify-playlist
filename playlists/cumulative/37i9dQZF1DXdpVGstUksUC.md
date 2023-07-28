@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-297 songs - 1 day 4 hr 29 min
+298 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [An Alternative to Freedom](https://open.spotify.com/track/2C8w2lnmujqqKRrwtUQPqj) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs) | 5:17 | 2021-11-30 | 2022-07-29 |
 | [Aphrodite](https://open.spotify.com/track/3RiDbKAB5svrTkbfRzDeft) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Heavy Psych](https://open.spotify.com/album/0bpvu2EtK6t8I6mIeIIShD) | 4:09 | 2021-11-30 | 2022-02-03 |
 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 | 2021-11-30 |  |
+| [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 | 2023-07-21 |  |
 | [Automatic Fantastic](https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu) | 6:55 | 2022-04-28 | 2023-03-23 |
 | [Automatic Fantastic](https://open.spotify.com/track/4KB6xBP5eIlgH2rEhCbGNA) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/4RKRXZ4ez0w6Lr23CMT9YE) | 6:55 | 2021-11-30 | 2022-07-29 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
@@ -271,7 +272,7 @@
 | [The Willow](https://open.spotify.com/track/2xL00osDc8ThgyQfNUbBrs) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 3:41 | 2021-11-30 | 2022-02-14 |
 | [The Wizard](https://open.spotify.com/track/3JvMig6Sc8XRLqHseNsccM) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2009 Remastered Version\)](https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10) | 4:20 | 2021-11-30 | 2022-07-29 |
 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 | 2022-04-28 | 2023-03-23 |
-| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 |  |
+| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 | 2023-07-28 |
 | [Therion](https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Therion](https://open.spotify.com/album/5ALsc13niDZ7ORzmpPOOL9) | 3:18 | 2022-02-22 | 2022-03-18 |
 | [Time Is Going On](https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt.1](https://open.spotify.com/album/43zW0PaCnakqNHm98btuno) | 3:38 | 2021-11-30 | 2022-07-28 |
 | [Times Missing](https://open.spotify.com/track/60csY2knifHsghAL0qr5kl) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [Times Missing](https://open.spotify.com/album/2DyQxKCnSNtbQvQqjVA68U) | 5:04 | 2021-11-30 | 2022-02-14 |

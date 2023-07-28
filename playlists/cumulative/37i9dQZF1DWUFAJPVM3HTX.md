@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-1,541 songs - 3 day 7 hr 23 min
+1,542 songs - 3 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [F.M.L.](https://open.spotify.com/track/7IGfEapCLzmHnA2djUNOmj) | [Jodye Phoenix](https://open.spotify.com/artist/0sV8f0nUGgJbnVjK95W0Ek) | [Eon](https://open.spotify.com/album/7gQjO1EGxwZLQX7rDCsQyY) | 3:11 | 2022-01-12 | 2022-01-20 |
 | [Faded](https://open.spotify.com/track/1syyw8E0hGhzOdR6ChVUoy) | [Matt Sterling](https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT) | [Faded](https://open.spotify.com/album/68Q9Mdqojdi0l6Qpcsc6ao) | 2:43 | 2022-05-26 | 2022-08-11 |
 | [Fading](https://open.spotify.com/track/5cribHMAGa0JRgTsWuQ8CT) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Fading](https://open.spotify.com/album/6pL6MeSmNA0DnTy84hAA8F) | 3:42 | 2023-03-03 | 2023-04-13 |
-| [Fair Game](https://open.spotify.com/track/1bkodVKH7ElMJaBzYskJVh) | [Rapta](https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9) | [Sweet Nothings \(Family Size\)](https://open.spotify.com/album/2IkQ6Yvhe05az5u1hHYEwX) | 3:09 | 2023-07-14 |  |
+| [Fair Game](https://open.spotify.com/track/1jkT4CRgTwGUkusseQvl62) | [Rapta](https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9) | [Sweet Nothings \(Family Size\)](https://open.spotify.com/album/433zRT8LszdxyQBhFb0gVC) | 2:49 | 2023-07-14 |  |
+| [Fair Game](https://open.spotify.com/track/1bkodVKH7ElMJaBzYskJVh) | [Rapta](https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9) | [Sweet Nothings \(Family Size\)](https://open.spotify.com/album/2IkQ6Yvhe05az5u1hHYEwX) | 3:09 | 2023-07-14 | 2023-07-28 |
 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 | 2022-03-23 | 2022-05-12 |
 | [Fake vibe](https://open.spotify.com/track/1dOyqTHg09eQ7DnGYJ3zl5) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Novian Universe](https://open.spotify.com/album/0GS57Ro5ghh2pw9038xL8K) | 2:23 | 2021-12-01 | 2022-01-13 |
 | [Fall](https://open.spotify.com/track/2utNNtRHr75sEZngsrTRLG) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Fall](https://open.spotify.com/album/70ZwJYHVIuodN4ybaZ8O9y) | 2:42 | 2022-05-04 | 2022-07-02 |

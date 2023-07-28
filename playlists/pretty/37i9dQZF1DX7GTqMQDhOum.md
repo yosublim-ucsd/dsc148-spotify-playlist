@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,591 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,369 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 54 | [The Ocean Waves](https://open.spotify.com/track/4OewEEF60LvBU2AZSyoeah) | [Shigeru Nagata](https://open.spotify.com/artist/3yGeOkXjCDmbjPim19SBmP) | [The Ocean Waves \(Original Soundtrack\)](https://open.spotify.com/album/6nuyCZwPP0gdYpdoNCfhVU) | 6:02 |
 | 55 | [Flying with the Turtles](https://open.spotify.com/track/6lJXBbJkwvhQPX7niNLPuo) | [Laurent Perez Del Mar](https://open.spotify.com/artist/0LLuMNGk0hEVjPuEBNaNO1) | [The Red Turtle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41YFARi0dgf2zmF4eB11RD) | 2:23 |
 
-Snapshot ID: `MCw3MjgzZjhlYWE5MDRlMTMxMjBkYzg2MDRiN2IxOWRjMjdkYTVkNmZj`
+Snapshot ID: `MCwwNjRiNTYzMTk1MjU1MTBkNDZmOGU2ZmE1YjhhYmEwNjQ3MWI5MWI1`

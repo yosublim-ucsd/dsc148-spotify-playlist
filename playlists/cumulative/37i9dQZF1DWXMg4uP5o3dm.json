@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "album": {
         "name": "For All The Times I Fell On My Face",
         "url": "https://open.spotify.com/album/4RmEZnvP72chP3nXMOG3bx"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
@@ -1219,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "IT'S NOT A PHASE",
+        "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
+    },
+    {
+      "album": {
         "name": "Drinking with Cupid",
         "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
       },
@@ -1986,7 +2030,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
@@ -2058,7 +2102,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
@@ -2551,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
+    },
+    {
+      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -2751,28 +2813,6 @@
     },
     {
       "album": {
-        "name": "Lost It",
-        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "Jaymmac",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
-        }
-      ],
-      "date_added": "2022-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166000,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
-    },
-    {
-      "album": {
         "name": "LOST IT",
         "url": "https://open.spotify.com/album/6ZF6ACAgRk82IEDlUrXEQf"
       },
@@ -2792,6 +2832,28 @@
       "duration_ms": 166000,
       "name": "LOST IT",
       "url": "https://open.spotify.com/track/7KdQojjqg4mjgfUCWFAXmP"
+    },
+    {
+      "album": {
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/16LJXEmFyhxPb6WGI4955o"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
     },
     {
       "album": {
@@ -2900,7 +2962,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 220471,
       "name": "Miracle, Baby",
       "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
@@ -3853,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "RUN THRU ME",
+        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177316,
+      "name": "RUN THRU ME",
+      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/3JqEX8kWRDih4SJ2DZXHxg"
       },
@@ -3980,6 +4060,28 @@
       "duration_ms": 161617,
       "name": "Seize the Power",
       "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "album": {
@@ -4250,7 +4352,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"

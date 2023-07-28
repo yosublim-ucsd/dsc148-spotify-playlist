@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-490 songs - 1 day 2 hr 12 min
+491 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [GOTW](https://open.spotify.com/track/4OvA3f027ZoTm3RIlBzrYB) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [GOTW](https://open.spotify.com/album/2IehfJGatxIXsCVhftg4LW) | 3:22 | 2022-04-29 | 2022-07-28 |
 | [Grace \(feat\. Hannah Got Raps\)](https://open.spotify.com/track/1zPiEMnznjvZl44HrjM7j7) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Hannah Got Raps](https://open.spotify.com/artist/3a35eUCzh1C3JmwwMVy5Wu) | [To See A Sunset \(Deluxe\)](https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW) | 2:24 | 2023-04-28 | 2023-05-06 |
 | [Grey Poupon](https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Steven Young](https://open.spotify.com/artist/1F7MvVKA8aIz7spul2xdl1) | [The Hustler's Catalog 2](https://open.spotify.com/album/4HPx2F56RMxYqmPjWePLVT) | 3:13 | 2021-09-03 | 2022-07-13 |
+| [Guapanese](https://open.spotify.com/track/39xyIJlo7lsDZf3j2oh6vP) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Guapanese](https://open.spotify.com/album/4shRkNL7YCDYNkp8Mzsnv7) | 2:24 | 2023-07-21 |  |
 | [Gutter! \(feat\. WARA\)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter! \(feat\. WARA\)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 | 2021-09-03 | 2022-05-23 |
 | [Half A Bird](https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Half A Bird](https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM) | 2:44 | 2022-04-01 | 2022-04-19 |
 | [Hans Zimmer](https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Hans Zimmer](https://open.spotify.com/album/6wVYb95s2w6ZKQIY5xPP2a) | 3:50 | 2022-04-01 | 2022-07-29 |

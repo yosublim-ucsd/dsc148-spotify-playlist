@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 345796,
+  "num_followers": 345921,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU5ZjZlZWY0Y2U4MWM3YzM5OGJiMzZmOTM0MDNkNGMwNmI2NDNi",
+  "snapshot_id": "MCwzNGJmZTk2M2NhMTAxZDg5NjczODI2MGRjNWZlNDZmNGU2MDBmYWM0",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Parking Lot Symphony",
-        "url": "https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 139105,
-      "name": "Tripped Out Slim",
-      "url": "https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "The Grid Generation",
@@ -111,6 +95,22 @@
       "duration_ms": 285680,
       "name": "The Grid Generation",
       "url": "https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Parking Lot Symphony",
+        "url": "https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 139105,
+      "name": "Tripped Out Slim",
+      "url": "https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Maze of Sounds",
         "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 428047,
       "name": "Tha Boogee",
       "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
+    },
+    {
       "added_at": "2021-12-24 05:01:00",
       "album": {
         "name": "1am Funk Dance Party",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Strawberry Mansion",
@@ -1105,24 +1105,20 @@
       "url": "https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-04-16 04:00:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
       },
       "artists": [
         {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Jeff Franca",
-          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 184634,
-      "name": "Permission to Land - 45",
-      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2021-05-28 04:00:00",
@@ -1147,6 +1143,42 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Canoga Madness",
+        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "El Camino Del Caballo",
+      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Jeff Franca",
+          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Permission to Land - 45",
+      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Fun Ones",
         "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
       },
@@ -1163,34 +1195,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Canoga Madness",
-        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
       "artists": [
         {
-          "name": "Mestizo Beat",
-          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
         }
       ],
-      "duration_ms": 207093,
-      "name": "El Camino Del Caballo",
-      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
-    },
-    {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 133381,
       "name": "Funkedemia",
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+      },
+      "artists": [
+        {
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+        }
+      ],
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "S3NS",
         "url": "https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
-      },
-      "artists": [
-        {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
-        }
-      ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
       "added_at": "2020-11-13 05:02:00",

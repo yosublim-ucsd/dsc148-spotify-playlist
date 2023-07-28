@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Chayanne",
-  "num_followers": 598880,
+  "num_followers": 598993,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjQyNWU0YTA1NzI2YjRlNzFiYWYxNzBlNDAyYzVhODk5OWYwNTAx",
+  "snapshot_id": "MCw5M2ZkMWRhOWNhMmM1ZDk4YTE4NGZhZTRiMTE0YWM1ODIwZWM4OWIx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1239,6 +1239,34 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
+        "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
+      "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Bachatica",
         "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
@@ -1279,26 +1307,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Imaginarme Sin Ti",
         "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
@@ -1319,6 +1327,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
       },
@@ -1335,22 +1363,6 @@
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 185575,
-      "name": "Sincero (Salsa)",
-      "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1383,6 +1395,22 @@
       "duration_ms": 158120,
       "name": "Vallenato Apretao",
       "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 185575,
+      "name": "Sincero (Salsa)",
+      "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1439,34 +1467,6 @@
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
-        "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
-      "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Lado A Lado B",
         "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 276726,
       "name": "Decid\u00ed Tener Pantalones",
       "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Boogaloo Supreme",
         "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 208152,
       "name": "Boogaloo Supreme",
       "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
     },
     {
       "added_at": "2023-07-14 04:00:00",

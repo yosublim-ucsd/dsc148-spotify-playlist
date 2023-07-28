@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 121,034 likes - 40 songs - 2 hr 6 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 121,156 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Beso robado](https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Beso robado](https://open.spotify.com/album/2O04tkJGpsLkoUcbjBBs57) | 4:19 |
 | 40 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
 
-Snapshot ID: `NzkxOCxiZmY5YjdhMTQ2MDMzMDI4MDRhZDQ5OTY5NjIwZWNjMGI1OTgyZmJm`
+Snapshot ID: `NzkyMCw4NTJhOWM3MDZiNDRhNzUwOTljNDE4ZTkyNGVkNDM5ZmU3MjBjYzdj`

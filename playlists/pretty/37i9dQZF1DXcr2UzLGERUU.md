@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,516 likes - 91 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,803 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 21 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 |
 | 22 | [How Far I'll Go \(From "Moana"\)](https://open.spotify.com/track/1uzlv4kbOZbVnwOM0qbRqR) | [Acoustic Heartstrings](https://open.spotify.com/artist/3YcYQvh90LabrI6cVQBoG4) | [Acoustic Guitar Renditions of Disney Classics](https://open.spotify.com/album/4M0a69mBFPuE7ztCUxm0o6) | 2:51 |
 | 23 | [Hide and Seek](https://open.spotify.com/track/3ih4P7s29EH3syPXMBWE4D) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Wild Life](https://open.spotify.com/album/0qYRZ1gdZm5eaXcGpNKtLx) | 4:05 |
-| 24 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 |
+| 24 | [Full Moon](https://open.spotify.com/track/13N082Nr0OZMqjKXo3PXR7) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/44ykdYOrHhItqDovusBYwg) | 3:02 |
 | 25 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 | 26 | [Heart of Mine](https://open.spotify.com/track/6QBMx8FuorZiRIDHhQaJ3R) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:59 |
 | 27 | [Shadow and Echo](https://open.spotify.com/track/7BFmzXZGYSXGgmIAJsvbmM) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [See!](https://open.spotify.com/album/45q8ZHoXoqCkirtTuVl5Mp) | 2:47 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 90 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 |
 | 91 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 
-Snapshot ID: `MCw1OWI2MThhMTBlYmY4ODk1MTVhYTIxMmVjN2RhY2YzMzRhZWNmNzM2`
+Snapshot ID: `MCxiZDkzZDY3NDVmZDA1NDI3Y2YzM2RhNWMzYzYyNGYxN2RjZDgxZDQ1`

@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc\-mBXRpm5ut0itdUxVg">Loufi</a> & <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg">Van Pletzen</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA">Cream Machine</a>
 
-96 songs - 5 hr 11 min
+98 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,12 +65,13 @@
 | [My Main Bra Tops](https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd) | [My Main Bra Tops](https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT) | 3:03 | 2022-12-08 | 2023-01-14 |
 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 | 2023-07-13 |  |
 | [My Ways](https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv) | [My Ways](https://open.spotify.com/album/4t6o3PZSX9jD3bLSN1N6J3) | 2:47 | 2023-04-20 | 2023-07-07 |
-| [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 | 2023-02-23 |  |
+| [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 | 2023-02-23 | 2023-07-28 |
 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 |  |
 | [nog 'n bietjie](https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [nog 'n bietjie](https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv) | 3:31 | 2023-03-02 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
 | [Old MacDonald](https://open.spotify.com/track/6qZgQWFWFcT7GyQxZbVKNL) | [Rich Boy Clothing® Presents:](https://open.spotify.com/artist/76e3qSJLGlSyJUBjVMfCGZ), [21 Promo](https://open.spotify.com/artist/1tHFwKhC5RhKjvYn2SfvAw), [Pengii](https://open.spotify.com/artist/6MtwzM6nLQSPdeu9784WyQ) | [Old MacDonald](https://open.spotify.com/album/4tEzTuocvSXOmGHxuw0NND) | 2:24 | 2023-04-20 | 2023-05-06 |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
+| [Op Dai](https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Op Dai](https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY) | 3:26 | 2023-07-27 |  |
 | [Passion Vir Die Game](https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS) | [Ktog](https://open.spotify.com/artist/0rqXLEx5cewNCwWuuUTrfT), [King B Hf](https://open.spotify.com/artist/4Z9gJNJkCxN3xhjrEITDLt) | [Passion Vir Die Game](https://open.spotify.com/album/5IaeLYlC58bvW4tSpuAgF6) | 5:30 | 2023-01-13 |  |
 | [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 |  |
 | [Pot Jie Kos](https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV) | [Brasse Vannie Kaap](https://open.spotify.com/artist/6nkhSnCQetHUVMEaZNpuvj) | [Super Power](https://open.spotify.com/album/0WS0M32uGuEKQL1KilDYFQ) | 3:32 | 2022-09-08 | 2022-12-02 |
@@ -80,7 +81,7 @@
 | [Ricky Opi Beat](https://open.spotify.com/track/0ZDBZzm4srA2FEFx4V43PK) | [TDV Ricky Vani Frontline](https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL) | [Ricky Opi Beat](https://open.spotify.com/album/2mYHqDlpdBfRiC5Tw8qnHx) | 3:16 | 2022-09-08 | 2022-12-09 |
 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 | 2023-03-23 |  |
 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 | 2022-09-08 | 2022-12-02 |
-| [Skattie](https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Skattie](https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq) | 3:13 | 2022-12-02 |  |
+| [Skattie](https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Skattie](https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq) | 3:13 | 2022-12-02 | 2023-07-28 |
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 | 2023-04-14 |
 | [Smegh](https://open.spotify.com/track/2QnU3FNd4ksQGKXjapASxN) | [Giga](https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz) | [Smegh](https://open.spotify.com/album/6CwnWUFCc4LXMvRjevMhJr) | 2:56 | 2023-05-18 | 2023-06-03 |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-07-14 |
@@ -97,6 +98,7 @@
 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 | 2023-03-30 |  |
 | [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 | 2023-03-11 |
 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 |  |
+| [Way Back](https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Way Back](https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk) | 3:29 | 2023-07-27 |  |
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 |  |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 | 2023-02-10 |
 | [Wie](https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ) | [Young Midi](https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4) | [Wie](https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk) | 1:57 | 2023-02-23 |  |

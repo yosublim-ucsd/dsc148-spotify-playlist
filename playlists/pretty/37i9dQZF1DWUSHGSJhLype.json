@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Felipe Amorim",
-  "num_followers": 376883,
+  "num_followers": 377392,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODU3MGExMDVmNmY5ODAxZDBlMmYxMTg0NjY3YTc3ZjM4MWM0NTkx",
+  "snapshot_id": "MCxmOWRhMDZhZDI1MTc5MmViNWFkY2FlZjdlZTI1NzM2MThhOTRmNjdl",
   "tracks": [
     {
       "added_at": "2023-07-26 18:04:13",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
         "name": "Ro\u00e7a Em Mim",
         "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
-        "name": "DEUS \u00c9 MUITO BOM (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 174317,
-      "name": "DEUS \u00c9 MUITO BOM - Ao Vivo",
-      "url": "https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
         "name": "Facilita A\u00ed",
         "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
       },
@@ -851,26 +835,6 @@
       "duration_ms": 143830,
       "name": "Facilita A\u00ed",
       "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -895,6 +859,26 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
         "name": "Decretos Reais, Vol. 3",
         "url": "https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201262,
       "name": "Hackearam-me",
       "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
+        "name": "DEUS \u00c9 MUITO BOM (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 174317,
+      "name": "DEUS \u00c9 MUITO BOM - Ao Vivo",
+      "url": "https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 453018,
+      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
+      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
         "name": "Ai Papai",
         "url": "https://open.spotify.com/album/1TjWJ7uLNCTytSKEPLyMsa"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 148048,
       "name": "Ai Papai",
       "url": "https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 453018,
-      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
-      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1083,18 +1099,22 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
-        "name": "Diferent\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+        "name": "Pagode do Peric\u00e3o II, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
         }
       ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
+      "duration_ms": 174285,
+      "name": "Nosso Amor Quer Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/6styQIEeflfqXDljJLzcen"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -1119,26 +1139,6 @@
       "duration_ms": 139413,
       "name": "Vaqueiro Apaixonado",
       "url": "https://open.spotify.com/track/26ArOjriQJspvgotGZgX1X"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
-        "name": "Pagode do Peric\u00e3o II, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Nosso Amor Quer Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/6styQIEeflfqXDljJLzcen"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -1311,18 +1311,26 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
-        "name": "Ah T\u00e1",
-        "url": "https://open.spotify.com/album/3qzXZNCZKB7mN3yXpYdTaF"
+        "name": "Faz o Teu Nome",
+        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
         }
       ],
-      "duration_ms": 163834,
-      "name": "Ah T\u00e1",
-      "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
+      "duration_ms": 99701,
+      "name": "Faz o Teu Nome",
+      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -1343,38 +1351,18 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
-        "name": "Tem Cabar\u00e9 Essa Noite",
-        "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
+        "name": "Ah T\u00e1",
+        "url": "https://open.spotify.com/album/3qzXZNCZKB7mN3yXpYdTaF"
       },
       "artists": [
         {
-          "name": "Nivaldo Marques",
-          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 202562,
-      "name": "Tem Cabar\u00e9 Essa Noite",
-      "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
-    },
-    {
-      "added_at": "2023-07-26 18:04:13",
-      "album": {
-        "name": "Te Love (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
-      },
-      "artists": [
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Te Love - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+      "duration_ms": 163834,
+      "name": "Ah T\u00e1",
+      "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
     },
     {
       "added_at": "2023-07-26 18:04:13",
@@ -1399,26 +1387,38 @@
     {
       "added_at": "2023-07-26 18:04:13",
       "album": {
-        "name": "Faz o Teu Nome",
-        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
       },
       "artists": [
         {
-          "name": "Os Quebradeiras",
-          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "Stefan Baby",
-          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
         }
       ],
-      "duration_ms": 99701,
-      "name": "Faz o Teu Nome",
-      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+    },
+    {
+      "added_at": "2023-07-26 18:04:13",
+      "album": {
+        "name": "Tem Cabar\u00e9 Essa Noite",
+        "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
+      },
+      "artists": [
+        {
+          "name": "Nivaldo Marques",
+          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 202562,
+      "name": "Tem Cabar\u00e9 Essa Noite",
+      "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
       "added_at": "2023-07-26 18:04:13",

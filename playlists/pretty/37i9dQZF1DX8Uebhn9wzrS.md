@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,887 likes - 607 songs - 22 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,471 likes - 607 songs - 22 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -450,7 +450,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 440 | [Grateful](https://open.spotify.com/track/2vETyRzz3gDtUX9eCIfty8) | [goldenfleece](https://open.spotify.com/artist/5p9gjkZcT07UNRL5nW6TE9), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Grateful](https://open.spotify.com/album/1h4qcP5yz5xBKVgWTO2Z6A) | 2:25 |
 | 441 | [home for dinner](https://open.spotify.com/track/2NfYGGT3WSkCOS7DiKDGtH) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg) | [home for dinner](https://open.spotify.com/album/0ysfUuv1r0UhQKkl9H3mmM) | 2:13 |
 | 442 | [Morning Light](https://open.spotify.com/track/05YqDqYKwBiwlZp45DEbYV) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Morning Light](https://open.spotify.com/album/48j4NoFBqPDfYvYpNwhk29) | 1:52 |
-| 443 | [Mandy](https://open.spotify.com/track/6MJaGYxLkDhgXyLn3vpDXL) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Mandy](https://open.spotify.com/album/5gj6XklIZpy89sHDqHuXPY) | 1:41 |
+| 443 | [Mandy](https://open.spotify.com/track/6MJaGYxLkDhgXyLn3vpDXL) | [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Mandy](https://open.spotify.com/album/5gj6XklIZpy89sHDqHuXPY) | 1:41 |
 | 444 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 |
 | 445 | [Record Collection](https://open.spotify.com/track/22G8oUmXRTplP0JSkyCyac) | [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Record Collection](https://open.spotify.com/album/0Pd9RkOeDkaZOloYcJ5OvY) | 1:52 |
 | 446 | [Glass Walls](https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Glass Walls](https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW) | 2:16 |
@@ -616,4 +616,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 606 | [Sandy Feels](https://open.spotify.com/track/4gBuDTT5zCALOr2zJJFTaA) | [Stan Morgley](https://open.spotify.com/artist/0eH6vvgXNKhsU7d862ZArZ) | [Sandy Feels](https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt) | 2:18 |
 | 607 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 |
 
-Snapshot ID: `MCxmNjNkM2E5NWMxZjU5Zjc1OTIxN2ViM2RhYzI3OWI2NWUwNWUyYTlj`
+Snapshot ID: `MCxiNGI2OTQ3ZDlhOTUwMWI2MjcyZTAyNDQ2NzllZjJhMWNiOWM2NGVi`

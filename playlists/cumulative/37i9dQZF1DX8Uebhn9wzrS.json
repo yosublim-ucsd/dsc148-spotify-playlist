@@ -15088,6 +15088,32 @@
     {
       "album": {
         "name": "Mandy",
+        "url": "https://open.spotify.com/album/5gj6XklIZpy89sHDqHuXPY"
+      },
+      "artists": [
+        {
+          "name": "Loyae",
+          "url": "https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101413,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6MJaGYxLkDhgXyLn3vpDXL"
+    },
+    {
+      "album": {
+        "name": "Mandy",
         "url": "https://open.spotify.com/album/471r2am9MqhNW288ubNvcC"
       },
       "artists": [
@@ -15110,32 +15136,6 @@
       "duration_ms": 101413,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/1S88WcAiYlpeaYo5VCcP0K"
-    },
-    {
-      "album": {
-        "name": "Mandy",
-        "url": "https://open.spotify.com/album/5gj6XklIZpy89sHDqHuXPY"
-      },
-      "artists": [
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
-        }
-      ],
-      "date_added": "2022-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 101413,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/6MJaGYxLkDhgXyLn3vpDXL"
     },
     {
       "album": {

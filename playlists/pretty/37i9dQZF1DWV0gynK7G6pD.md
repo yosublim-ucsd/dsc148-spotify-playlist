@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,345 likes - 51 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,511 likes - 51 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 50 | [Allegro De Concierto, Op\. 46 \- Duo\-Art 5830](https://open.spotify.com/track/5SxpjILqcDXqGZdg2UH035) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Peter Phillips](https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp), [Paquita Madriguera](https://open.spotify.com/artist/67KZheZ1QmFB5eXpdBcnct) | [Women of Piano: Great Female Pianists of the Golden Age](https://open.spotify.com/album/4aU8uE0Vp4rldddNdwzHuh) | 6:39 |
 | 51 | [Johann Huss, Op\. 82, Pt\. 1: No\. 1, O frohe Knabenzeit](https://open.spotify.com/track/1dAGizoPP6Bb9qRBf2KioL) | [Carl Loewe](https://open.spotify.com/artist/5UNH9SPuo9kO24Jz7yhBx7), [L'arpa Festante](https://open.spotify.com/artist/3n2LQETHZS8TD6cIfIFFsw), [Thomas Gropper](https://open.spotify.com/artist/58XeucOuukxws1WFUMHtKB), [Arcis\-Vocalisten Munich](https://open.spotify.com/artist/3c9FZcBVj8NKeonP8QdNtM) | [Loewe: Johann Huss, Op\. 82](https://open.spotify.com/album/29WPreJv77zK2y7CbTpstu) | 3:49 |
 
-Snapshot ID: `MCwwYWI3MjEzYTE1YWQ1MDQxMmQ0OGUyNWE5NmMyNzZmMWYxN2M3NmI5`
+Snapshot ID: `MCxlNTcwZTdjZTJkYTdhZWRiMzJlYTZjZGEzY2Q5MGMzY2UwMTQyOTdj`

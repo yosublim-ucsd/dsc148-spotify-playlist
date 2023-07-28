@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz, Tim Henson & Silverstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,158 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,180 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 79 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 |
 | 80 | [Rainy Summer](https://open.spotify.com/track/6Q9BxXLOidwHfjeN9qcn2G) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Rainy Summer](https://open.spotify.com/album/4PMKfFHNF1Pa6jbn0BLod3) | 4:08 |
 
-Snapshot ID: `MCwzZjMzYjVlNTJiMGYxYTk4NWZkOTU0ZjY0YzY4NTMxMGZkZTkzZDBj`
+Snapshot ID: `MCxhODZkMzdlMzBmYzUzMDg4MDE4NzZiODM0NDBkZDc0YWViNDJmMWZh`

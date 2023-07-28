@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -6703,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "Hostel Hudugaru Bekagiddare (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m5iJUD34mmXputNXIBwNl"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247125,
+      "name": "Hostel Hudugaru Protest Song",
+      "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+    },
+    {
+      "album": {
         "name": "Hostel Hudugaru Protest Song (From \"Hostel Hudugaru Bekagiddare\")",
         "url": "https://open.spotify.com/album/2g8XvaA433A4hCrojXSbfO"
       },
@@ -10940,7 +10958,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 42000,
       "name": "Naan Bidi Daredevil",
       "url": "https://open.spotify.com/track/5SJTcmbqC6GFzA8rub40Ls"

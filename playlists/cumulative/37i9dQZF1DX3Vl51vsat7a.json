@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Novaa, LIE NING",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Dilla",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 112212,
       "name": "A$AP & Rihanna",
       "url": "https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7"
@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Cabriolet",
+        "url": "https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149155,
+      "name": "Cabriolet",
+      "url": "https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2"
+    },
+    {
+      "album": {
         "name": "She's A Rose",
         "url": "https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7"
       },
@@ -728,6 +746,24 @@
       "duration_ms": 198000,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213647,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
     },
     {
       "album": {
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 179831,
       "name": "Feet Up",
       "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
@@ -1334,7 +1370,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 156910,
       "name": "Funke, Fl\u00e4chenbrand",
       "url": "https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz"
@@ -1480,6 +1516,24 @@
       "duration_ms": 197374,
       "name": "Haus am See",
       "url": "https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5"
+    },
+    {
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140942,
+      "name": "Herz",
+      "url": "https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb"
     },
     {
       "album": {
@@ -3301,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158441,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2"
+    },
+    {
+      "album": {
         "name": "Survival Mode (Intro)",
         "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
       },
@@ -3780,7 +3852,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 250827,
       "name": "VOICEMAIL",
       "url": "https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP"

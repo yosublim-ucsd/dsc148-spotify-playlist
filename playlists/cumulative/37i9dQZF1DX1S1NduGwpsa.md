@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Gabi Hartman
+> The best jazz new releases\. Cover: Kareen Guiock\-Thuram
 
-322 songs - 23 hr 18 min
+323 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Intertwined](https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:40 | 2022-08-18 | 2022-11-18 |
 | [Isn't It a Lovely Day](https://open.spotify.com/track/1DdeuDPgLSnp423y11xWVN) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM) | [Isn't It a Lovely Day](https://open.spotify.com/album/2WGMmL5VzrudIvI1JzLcva) | 7:33 | 2023-01-05 | 2023-04-07 |
 | [It Don't Mean a Thing \- Rework](https://open.spotify.com/track/2VAyWXjHrKpMGivAO2w6SY) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [NOJAZZ PLAY JAZZ \(Rework\)](https://open.spotify.com/album/5BUyHOxpXi2twMN4j7idx4) | 3:01 | 2022-06-30 | 2022-11-11 |
+| [It's Not Unusual](https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:29 | 2023-07-27 |  |
 | [It's Okay](https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/58TrLsdIgPp57favQCVRmj) | 6:05 | 2022-12-15 | 2023-03-10 |
 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 | 2022-08-25 | 2022-10-14 |
 | [Joy Song](https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy) | [Fiona Monbet](https://open.spotify.com/artist/1xIOPl8xFpFNMVx6PGjc9W) | [Maelström](https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz) | 4:50 | 2022-04-14 | 2022-05-06 |
@@ -269,7 +270,7 @@
 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-10 | 2023-01-20 |
 | [Textures](https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Textures](https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO) | 5:39 | 2022-04-14 | 2022-06-03 |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-06-09 | 2022-10-28 |
-| [The IT Department](https://open.spotify.com/track/4EtkLLlDXFTXN53ZRFxP4s) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Philip Norris](https://open.spotify.com/artist/3vunyQ01vJAXMhlCpvXJ5L), [TJ Reddick](https://open.spotify.com/artist/7J7UUIycoDm4QvQ2Dov5QC) | [The Power of the Spirit](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN) | 10:50 | 2023-04-06 |  |
+| [The IT Department](https://open.spotify.com/track/4EtkLLlDXFTXN53ZRFxP4s) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Philip Norris](https://open.spotify.com/artist/3vunyQ01vJAXMhlCpvXJ5L), [TJ Reddick](https://open.spotify.com/artist/7J7UUIycoDm4QvQ2Dov5QC) | [The Power of the Spirit](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN) | 10:50 | 2023-04-06 | 2023-07-28 |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-09 | 2023-04-07 |
 | [The Masquerade Is Over](https://open.spotify.com/track/2xEr1lMQwQtcvW7m2sAo44) | [Nicola Sabato](https://open.spotify.com/artist/3FGx234zwmXTXt33Psei1n), [Jeff Hamilton](https://open.spotify.com/artist/1qWu3D3Lp6hCk4XFNaeZ18), [Graham Dechter](https://open.spotify.com/artist/0UcqfzkKurNT3cfrtULTwd), [Tamir Hendelman](https://open.spotify.com/artist/73eFsz9XC6cCUi6C8fshV4) | [California Hang](https://open.spotify.com/album/0Ji9tqt7Mo6DUOogkvmThp) | 6:23 | 2023-04-27 |  |
 | [The Only Thing Missing Is You](https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [The Only Thing Missing Is You](https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB) | 4:48 | 2022-11-17 | 2023-02-03 |

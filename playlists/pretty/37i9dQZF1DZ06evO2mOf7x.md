@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,806 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,835 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 44 | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/track/6utkB9P58tbbHwXzEYxeIO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/album/7DRMVvRCbDtg4jsvyZMtqT) | 3:03 |
 | 45 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
 | 46 | [Amor Perfecto](https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bienvenida La Vida](https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E) | 3:54 |
-| 47 | [Principio Y Fin](https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 3:49 |
-| 48 | [Tengo Ganas](https://open.spotify.com/track/2QyPrHTHXRmdyizq5MGBEF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:53 |
+| 47 | [Tengo Ganas](https://open.spotify.com/track/2QyPrHTHXRmdyizq5MGBEF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:53 |
+| 48 | [Principio Y Fin](https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 3:49 |
 | 49 | [Conmigo Nada](https://open.spotify.com/track/0Hbp6SvMb07JUw596swZTl) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 3:49 |
 | 50 | [Entre Ella Y Yo](https://open.spotify.com/track/3yfjiOCMa9VNZ5cYdUHIrV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:59 |
 
-Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDA2NzA4ODViY2I5YTFmZmFhMDdmNjdlMjE4ODU2Y2EwNQ==`
+Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDAyNTc3ZTQxNmEwODZiMThlZmViYTc3M2MxMjllMWJhMw==`

@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-161 songs - 13 hr 12 min
+163 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 | 2023-02-09 | 2023-05-02 |
 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 | 2022-09-20 | 2022-12-01 |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 |  |
-| [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 | 2022-09-20 |  |
+| [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 | 2022-09-20 | 2023-07-28 |
 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 | 2022-12-29 |  |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 |  |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-11 | 2022-09-07 |
@@ -125,6 +125,7 @@
 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 | 2022-08-24 |  |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-09-20 | 2022-12-27 |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 |  |
+| [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-07-27 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 | 2022-12-26 |
 | [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 | 2023-02-10 |
@@ -159,11 +160,12 @@
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 | 2022-12-27 |
 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 | 2022-11-14 | 2022-11-21 |
-| [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 |  |
+| [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 |  |
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
+| [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 |  |
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
 | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 |  |

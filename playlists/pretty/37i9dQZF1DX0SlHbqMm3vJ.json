@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Chike",
-  "num_followers": 208417,
+  "num_followers": 208540,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFjMThiNzdjYjU4ZjJkMjBmNjYzZmUyY2Y3M2ViMGUwZWNlZTRh",
+  "snapshot_id": "MCw1YzY4YzJhOWM2NGI5MGQ0NWI0NDI2OGFjMWQ1NzVjNWFiZjgxZjBl",
   "tracks": [
     {
       "added_at": "2023-07-20 23:13:31",
@@ -144,7 +144,7 @@
       "added_at": "2023-07-20 23:13:31",
       "album": {
         "name": "Ole",
-        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
+        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
       },
       "artists": [
         {
@@ -158,7 +158,7 @@
       ],
       "duration_ms": 170000,
       "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
+      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
     },
     {
       "added_at": "2023-07-20 23:13:31",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+        "name": "Gbese",
+        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+      "duration_ms": 162991,
+      "name": "Gbese",
+      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
     },
     {
       "added_at": "2023-07-20 23:13:31",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
-        "name": "Gbese",
-        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 162991,
-      "name": "Gbese",
-      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-07-20 23:13:31",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
-        "name": "OVAMI",
-        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "OVAMI",
-      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
-    },
-    {
-      "added_at": "2023-07-20 23:13:31",
-      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
+    },
+    {
+      "added_at": "2023-07-20 23:13:31",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
       },
@@ -1259,7 +1259,23 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
-        "name": "Not Worthy",
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
+      "added_at": "2023-07-20 23:13:31",
+      "album": {
+        "name": "Not Worthy (feat. Nonso Amadi)",
         "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
       "artists": [
@@ -1273,24 +1289,8 @@
         }
       ],
       "duration_ms": 192208,
-      "name": "Not Worthy",
+      "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-07-20 23:13:31",
-      "album": {
-        "name": "Folake",
-        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
     },
     {
       "added_at": "2023-07-20 23:13:31",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-07-20 23:13:31",
       "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
       "artists": [
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     }
   ],
   "unique_name": "Ginger Me",

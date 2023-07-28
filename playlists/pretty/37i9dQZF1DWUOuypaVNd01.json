@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Sena Mc",
-  "num_followers": 31380,
+  "num_followers": 31390,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjk3YTgwNTdkMTNlYzNlZmJkMzY5NGE0YzIyZTFkOWVkNGNmOTg5",
+  "snapshot_id": "MCw5MzRmY2QyMWRiN2JkZWJiYjhmODIwYjY1NDRlNjk2YTdlOTM5N2Nh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Perverso",
+        "url": "https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL"
+      },
+      "artists": [
+        {
+          "name": "Shifu",
+          "url": "https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+        }
+      ],
+      "duration_ms": 149292,
+      "name": "Perverso",
+      "url": "https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -935,6 +955,26 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -963,46 +1003,6 @@
       "duration_ms": 145714,
       "name": "Lado 13 Do Mapa",
       "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Perverso",
-        "url": "https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL"
-      },
-      "artists": [
-        {
-          "name": "Shifu",
-          "url": "https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2"
-        },
-        {
-          "name": "Beats by GorJah",
-          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
-        }
-      ],
-      "duration_ms": 149292,
-      "name": "Perverso",
-      "url": "https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE"
     },
     {
       "added_at": "2023-07-14 03:01:00",

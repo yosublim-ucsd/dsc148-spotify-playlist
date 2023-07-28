@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Something for Everyone",
+        "url": "https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141168,
+      "name": "I Take My Lunch to School",
+      "url": "https://open.spotify.com/track/1mCjBXX6VXTFGrVcyZgkm0"
+    },
+    {
+      "album": {
         "name": "I Take My Lunch to School",
         "url": "https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ"
       },
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 141168,
       "name": "I Take My Lunch to School",
       "url": "https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca"

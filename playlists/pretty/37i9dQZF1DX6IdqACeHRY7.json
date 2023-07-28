@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 147869,
+  "num_followers": 147880,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmM2ODIxMWI0MDZiNWM5NDZlNmRkZjU3MjkxNDFkZjgxODQxNGE5",
+  "snapshot_id": "MCxiNDAwYzNkZmQzNDg4ZTA5NDY2MTc1NDcwY2EwMGY1MmQ5Y2VkM2Zj",
   "tracks": [
     {
       "added_at": "2023-07-26 12:16:11",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
       "artists": [
         {
-          "name": "K E M A L",
-          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 138546,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "K E M A L",
+          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
         }
       ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
+      "duration_ms": 138546,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
+        "name": "Maybe I'll Find You Again",
+        "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
-        "name": "Maybe I'll Find You Again",
-        "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
         "name": "Wild Enough",
         "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 200347,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change",
-        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Is It Really Me You're Missing",
-      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1475,6 +1459,22 @@
       "duration_ms": 169842,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
+        "name": "The Sun Will Come up, The Seasons Will Change",
+        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Is It Really Me You're Missing",
+      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1527,6 +1527,38 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1539,22 +1571,6 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1623,22 +1639,6 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2023-07-26 12:16:11",
       "album": {
-        "name": "i loved you first",
-        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "i loved you first",
-      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2023-07-26 12:16:11",
+      "album": {
+        "name": "i loved you first",
+        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "i loved you first",
+      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
     },
     {
       "added_at": "2023-07-26 12:16:11",
@@ -1871,22 +1887,6 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
-    },
-    {
-      "added_at": "2023-07-26 12:16:11",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 229783,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
     }
   ],
   "unique_name": "Ren hygge",

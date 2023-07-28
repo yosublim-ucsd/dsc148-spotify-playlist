@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "Chikkavanu",
+        "url": "https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        },
+        {
+          "name": "Manu Rao",
+          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70640,
+      "name": "Chikkavanu",
+      "url": "https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0"
+    },
+    {
+      "album": {
         "name": "Chitte",
         "url": "https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq"
       },

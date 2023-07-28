@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 31223,
+  "num_followers": 31247,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODZlZWZmZmIxZmZmNzMyNjhiYzhkMGQyZGE3ODU1MGZlZDY4YTBm",
+  "snapshot_id": "MCxiYzkxMGNmNWY1MmY4YzZlOWE3OWVkZjAyZjA1NzIzYmM3ZDNhOGY3",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u5fae\u96e8",
-        "url": "https://open.spotify.com/album/43wEkgik29K31WN42WmlRr"
-      },
-      "artists": [
-        {
-          "name": "\u90b5\u96e8\u8587",
-          "url": "https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "\u5fae\u96e8",
-      "url": "https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u96e8\u5f8c\u5f69\u8679",
         "url": "https://open.spotify.com/album/0XNniKwaB8cHEFA17gyxpg"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 243673,
       "name": "\u8a0e\u53ad\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u5fae\u96e8",
+        "url": "https://open.spotify.com/album/43wEkgik29K31WN42WmlRr"
+      },
+      "artists": [
+        {
+          "name": "\u90b5\u96e8\u8587",
+          "url": "https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP"
+        }
+      ],
+      "duration_ms": 233052,
+      "name": "\u5fae\u96e8",
+      "url": "https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
+      },
+      "artists": [
+        {
+          "name": "Dave Wong",
+          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
-      },
-      "artists": [
-        {
-          "name": "Dave Wong",
-          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "When I Leave Taipei",
-        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
-      },
-      "artists": [
-        {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
-        }
-      ],
-      "duration_ms": 274212,
-      "name": "Rain in Taipei",
-      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u5927\u96e8\u904e\u5f8c",
         "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "When I Leave Taipei",
+        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "duration_ms": 274212,
+      "name": "Rain in Taipei",
+      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u65b0\u9bae",
-        "url": "https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7"
-      },
-      "artists": [
-        {
-          "name": "Gigi Leung",
-          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "\u611b\u4e0a\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
         "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 273800,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u65b0\u9bae",
+        "url": "https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "\u611b\u4e0a\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g"
     },
     {
       "added_at": "2023-01-10 03:20:54",

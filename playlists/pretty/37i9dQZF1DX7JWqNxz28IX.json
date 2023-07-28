@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 39342,
+  "num_followers": 39355,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix",
+  "snapshot_id": "MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "MELA MARCIA",
-        "url": "https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq"
-      },
-      "artists": [
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        }
-      ],
-      "duration_ms": 186383,
-      "name": "Sparire",
-      "url": "https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Spazio",
         "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 179541,
       "name": "Amianto",
       "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "MELA MARCIA",
+        "url": "https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 186383,
+      "name": "Sparire",
+      "url": "https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Emorragie",
-        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
         }
       ],
-      "duration_ms": 258028,
-      "name": "Emorragie",
-      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+        "name": "Emorragie",
+        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
       },
       "artists": [
         {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
         }
       ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
+      "duration_ms": 258028,
+      "name": "Emorragie",
+      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Maggio",
-        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
       "artists": [
         {
-          "name": "DAG",
-          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
         }
       ],
-      "duration_ms": 146608,
-      "name": "Maggio",
-      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -967,22 +967,6 @@
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
-      },
-      "artists": [
-        {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
-        }
-      ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1007,18 +991,34 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Fuori dal buio",
-        "url": "https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx"
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
       },
       "artists": [
         {
-          "name": "Sele",
-          "url": "https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7"
+          "name": "DAG",
+          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
         }
       ],
-      "duration_ms": 188085,
-      "name": "Fuori dal buio",
-      "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
+      "duration_ms": 146608,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Acqua salata",
+        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 229175,
+      "name": "Acqua salata",
+      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Acqua salata",
-        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
       "artists": [
         {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
         }
       ],
-      "duration_ms": 229175,
-      "name": "Acqua salata",
-      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1071,22 +1071,6 @@
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
-        {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+        "name": "Fuori dal buio",
+        "url": "https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx"
       },
       "artists": [
         {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+          "name": "Sele",
+          "url": "https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7"
         }
       ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+      "duration_ms": 188085,
+      "name": "Fuori dal buio",
+      "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -1227,22 +1243,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
+        "name": "Mille Pezzi",
+        "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
       },
       "artists": [
         {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
         }
       ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+      "duration_ms": 186474,
+      "name": "Mille Pezzi",
+      "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1267,34 +1279,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Mille Pezzi",
-        "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
-      },
-      "artists": [
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
         {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
         }
       ],
-      "duration_ms": 186474,
-      "name": "Mille Pezzi",
-      "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1331,62 +1331,6 @@
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "MOVIMENTO + THE DAY AFTER",
-        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "sola (con me)",
-        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
-      },
-      "artists": [
-        {
-          "name": "Neverbh",
-          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "sola (con me)",
-      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1431,6 +1375,78 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "sola (con me)",
+        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
+      },
+      "artists": [
+        {
+          "name": "Neverbh",
+          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "sola (con me)",
+      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Demoni",
         "url": "https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "X4",
-        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "X4",
-      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Semiminime",
-        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
-      },
-      "artists": [
-        {
-          "name": "Rondine",
-          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Semiminime",
-      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1623,18 +1607,38 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "EVOL",
-        "url": "https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c"
+        "name": "Semiminime",
+        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
       },
       "artists": [
         {
-          "name": "Radical",
-          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
         }
       ],
-      "duration_ms": 127753,
-      "name": "GOODBYE",
-      "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
+      "duration_ms": 129854,
+      "name": "Semiminime",
+      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Credimi ancora",
+        "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
+      },
+      "artists": [
+        {
+          "name": "ernvss",
+          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
+        },
+        {
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
+        }
+      ],
+      "duration_ms": 215283,
+      "name": "Credimi ancora",
+      "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Credimi ancora",
-        "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c"
       },
       "artists": [
         {
-          "name": "ernvss",
-          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
-        },
-        {
-          "name": "Coron",
-          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
         }
       ],
-      "duration_ms": 215283,
-      "name": "Credimi ancora",
-      "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
+      "duration_ms": 127753,
+      "name": "GOODBYE",
+      "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
     },
     {
       "added_at": "2023-06-29 22:01:00",

@@ -2139,6 +2139,32 @@
     },
     {
       "album": {
+        "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/1LsdbOwH1SPB0s5IkII3C1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237209,
+      "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa"
+    },
+    {
+      "album": {
         "name": "Tum Se Hi (Reprise) (feat. Alia Bhatt) [From \"Sadak 2\"]",
         "url": "https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs"
       },
@@ -2154,7 +2180,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 245000,
       "name": "Tum Se Hi (Reprise) (From \"Sadak 2\") (feat. Alia Bhatt)",
       "url": "https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W"
@@ -2180,7 +2206,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 182681,
       "name": "Tum Se Milke (From \"Tiku Weds Sheru\")",
       "url": "https://open.spotify.com/track/0oUidyQb3wXPv2Krqas06V"

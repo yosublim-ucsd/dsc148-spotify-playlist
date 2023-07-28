@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-90 songs - 7 hr 21 min
+91 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Fire](https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Fire](https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl) | 3:47 | 2022-08-01 |  |
 | [Flames](https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U) | 2:21 | 2023-03-31 |  |
 | [Gongo](https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0) | [Anrey](https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Gongo](https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9) | 3:13 | 2023-03-03 |  |
-| [Heart & Home](https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB) | [Heart & Home](https://open.spotify.com/album/3TqLZFi5ebWxFiT4l0ralM) | 2:30 | 2022-12-09 |  |
+| [Heart & Home](https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB) | [Heart & Home](https://open.spotify.com/album/3TqLZFi5ebWxFiT4l0ralM) | 2:30 | 2022-12-09 | 2023-07-28 |
+| [Heart & Home](https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [Lucien](https://open.spotify.com/artist/50I2vUIS8XNDtJW8IWfNWl) | [Heart & Home](https://open.spotify.com/album/2uBR87y9vpt85gUgtOXLh0) | 2:30 | 2023-07-07 |  |
 | [Heaven](https://open.spotify.com/track/6ydvKfFKCvCHOaSPHIFzGP) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Heaven](https://open.spotify.com/album/0ilQwixUIIWzz1iJzgI1SB) | 2:21 | 2022-08-01 |  |
 | [Here We Go Again](https://open.spotify.com/track/1RHki0uvD1y8QiiDDKqKm1) | [Chuksie](https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9) | [Here We Go Again](https://open.spotify.com/album/38ewlb4hO1sdZ11K5oavPb) | 3:32 | 2022-09-30 | 2023-05-06 |
 | [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 |  |

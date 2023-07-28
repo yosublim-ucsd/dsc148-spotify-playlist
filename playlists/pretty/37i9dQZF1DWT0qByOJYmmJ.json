@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 628074,
+  "num_followers": 628290,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTYyNWUyZGQzMzBhY2ZjNDM5YTAxMDMxMWI2MDIyM2IzOGQ5OTRk",
+  "snapshot_id": "MCwxZTVmZWY5MWM5ODI1ZmM2M2RkMjUyZTNkMjhhYTlhYWU2NmYyN2I3",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144215,
-      "name": "Qu\u00e9 bonito fue",
-      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167866,
       "name": "P\u00e1rteme La Cara",
       "url": "https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144215,
+      "name": "Qu\u00e9 bonito fue",
+      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Ponte en Mi Lugar",
+        "url": "https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 192250,
+      "name": "Ponte en Mi Lugar",
+      "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -827,22 +831,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Ponte en Mi Lugar",
-        "url": "https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 192250,
-      "name": "Ponte en Mi Lugar",
-      "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Vengo Del Futuro - Remix",
+      "url": "https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Linda Coincidencia",
         "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 215998,
       "name": "Linda Coincidencia",
       "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2023-02-24 17:40:22",

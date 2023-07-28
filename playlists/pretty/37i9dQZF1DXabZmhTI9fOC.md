@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,221 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 51 | [Whose Side Are You On](https://open.spotify.com/track/0MOlM2M1hR6MYzQtXe4GVd) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Cinematic Songs \(Vol\. 1\)](https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK) | 3:11 |
 | 52 | [Tattoo Me](https://open.spotify.com/track/6w7pIPYCU3rdEN4bkA7uM9) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Tattoo Me](https://open.spotify.com/album/0FQkq0uVVyzhePyM5zr1qq) | 3:17 |
 
-Snapshot ID: `MCxkYzc0YzYyYzU5NzVmMDRmMDliZmEzZmQ0YzA2NGI5Y2M1NDlhOTRi`
+Snapshot ID: `MCxiNmE4NmJjMWQyOWFkYTQyOWQwMDU4NDgwMjQ3NjNhOTI4OGY0YTE5`

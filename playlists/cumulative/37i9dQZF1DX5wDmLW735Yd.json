@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Campbell & Alcemist ",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Bou",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168457,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 194368,
       "name": "Back To Your Roots 2021",
       "url": "https://open.spotify.com/track/5lrwPi7WwJ1HbuKtx4ktIK"
@@ -566,6 +566,44 @@
       "duration_ms": 251034,
       "name": "Bad To Me (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
+    },
+    {
+      "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
     },
     {
       "album": {
@@ -639,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Bassdrop",
+        "url": "https://open.spotify.com/album/6rB4iHzPrkDhhrNuwsAbx5"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "Bassdrop",
+      "url": "https://open.spotify.com/track/2rcJNxOyYmthEsIPOtMKhG"
+    },
+    {
+      "album": {
         "name": "Be The Reason",
         "url": "https://open.spotify.com/album/1FFKq9mYzvydKVGzBww03m"
       },
@@ -650,7 +706,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 259310,
       "name": "Be The Reason",
       "url": "https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi"
@@ -1776,7 +1832,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 187400,
       "name": "DEEP (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng"
@@ -3558,7 +3614,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
@@ -3798,7 +3854,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 149345,
       "name": "I Watch The Moon",
       "url": "https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr"
@@ -4124,7 +4180,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Killer",
       "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
@@ -4916,7 +4972,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 266400,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
@@ -4938,7 +4994,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
@@ -5100,6 +5156,28 @@
       "duration_ms": 200239,
       "name": "Move Your Body - Hedex Remix",
       "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+    },
+    {
+      "album": {
+        "name": "Mr Universe (feat. General Levy)",
+        "url": "https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD"
+      },
+      "artists": [
+        {
+          "name": "Willow Kayne",
+          "url": "https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Mr Universe (feat. General Levy)",
+      "url": "https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy"
     },
     {
       "album": {
@@ -5756,7 +5834,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 224914,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz"
@@ -6328,7 +6406,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 270697,
       "name": "Return Of Forever - Camo & Krooked & Mefjus Remix",
       "url": "https://open.spotify.com/track/5EmRq15Ay5NKkxAlLmj9Q9"
@@ -6736,7 +6814,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 223526,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
@@ -7087,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
+    },
+    {
+      "album": {
         "name": "Someone Like You",
         "url": "https://open.spotify.com/album/1Lk1JUzWVnubx7jtyDlzqF"
       },
@@ -7146,7 +7242,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 214042,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
@@ -7516,7 +7612,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/0YFQ2syQ37ZXHtSJCdM2nx"
@@ -7578,6 +7674,24 @@
       "duration_ms": 243601,
       "name": "Surfing The Anxiety Waves",
       "url": "https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1"
+    },
+    {
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/5QU5KOIANu9uZqLAjglHbT"
+      },
+      "artists": [
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/52JMjyFeAF0Jtuowyafv3V"
     },
     {
       "album": {
@@ -8002,7 +8116,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 273103,
       "name": "Time",
       "url": "https://open.spotify.com/track/293nhbAyhi2OfLmk1ECSxE"
@@ -8512,7 +8626,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 248275,
       "name": "WANT NEED LOVE - Dimension Remix",
       "url": "https://open.spotify.com/track/1IHOCU7v322k1TPovsbInD"
@@ -8612,7 +8726,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3"

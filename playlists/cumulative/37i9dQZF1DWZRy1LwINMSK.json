@@ -1772,6 +1772,24 @@
     {
       "album": {
         "name": "Mami Trap",
+        "url": "https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147849,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS"
+    },
+    {
+      "album": {
+        "name": "Mami Trap",
         "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
       },
       "artists": [
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147849,
       "name": "Manifiesto",
       "url": "https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H"
@@ -2764,6 +2782,36 @@
     {
       "album": {
         "name": "Mami Trap",
+        "url": "https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Chesckv Liz",
+          "url": "https://open.spotify.com/artist/6nms8fUOJpFa8C5IbPzzT5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7M5nHfXQazRlUm1FIzQhgd"
+    },
+    {
+      "album": {
+        "name": "Mami Trap",
         "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
       },
       "artists": [
@@ -2786,7 +2834,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 220800,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"

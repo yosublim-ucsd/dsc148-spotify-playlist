@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-414 songs - 1 day 5 hr 34 min
+415 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 | 2022-04-01 | 2022-08-13 |
 | [Black To The Future](https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Avengers After Dark](https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi) | 4:52 | 2021-10-15 | 2022-05-28 |
 | [Blackout](https://open.spotify.com/track/7s59SzYLvJOM4j23J1dOs3) | [Axel Le Baron](https://open.spotify.com/artist/41uv2mafbkMfpRYMF4H5dO), [Arnaud Diaz](https://open.spotify.com/artist/6DW60YY7dGV5ZH4webX87F) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:12 | 2021-10-15 | 2022-04-21 |
-| [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 |  |
+| [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 | 2023-07-28 |
 | [Blitz](https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P) | [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Ornaments](https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm) | 4:27 | 2022-04-01 |  |
 | [Blood Magic](https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Corruptor](https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh) | 3:34 | 2021-10-15 |  |
 | [Breathe](https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Breathe](https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in) | 3:48 | 2021-10-15 | 2022-07-28 |
@@ -88,6 +88,7 @@
 | [Dans la forêt](https://open.spotify.com/track/5P4G0CHQZOdJufaqU4jDA6) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [Rozam](https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4) | [Dans la forêt](https://open.spotify.com/album/2h7R8DC7UEXttfd0Csy904) | 3:44 | 2023-01-13 |  |
 | [Dans la forêt](https://open.spotify.com/track/7pXJSMQd8MpUBWSDTgXoQY) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [Rozam](https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4) | [Dans la forêt](https://open.spotify.com/album/6ZSGchl6f29QhV6mU7tdx7) | 3:44 | 2022-12-02 | 2023-02-23 |
 | [Dark Prince, Pt\. 3](https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Dark Prince](https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4) | 3:48 | 2021-10-15 | 2023-07-01 |
+| [Darkness](https://open.spotify.com/track/0Fjao3dmzO8S17aLXO1QvV) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1G66EjFlNMcXL4sudDiYEF) | 4:17 | 2023-06-30 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2021-10-15 | 2023-07-22 |
 | [Dauntless to the End](https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw) | [The Great Wight Dread](https://open.spotify.com/artist/2BOuBgErBzSn6oCTtYOioG), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Dauntless to the End](https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A) | 3:07 | 2022-07-01 |  |
 | [Daydream](https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Daydream](https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K) | 3:24 | 2023-04-07 |  |

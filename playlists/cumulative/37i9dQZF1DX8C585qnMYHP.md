@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with JJUUJJUU on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,421 songs - 4 day 18 hr 33 min
+1,422 songs - 4 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,8 @@
 | [Four Skies Above](https://open.spotify.com/track/0NKxuFnx3g30dXh1RHrmYx) | [Bobby Lee](https://open.spotify.com/artist/5OXjftFsY79TKTKbvFYxt1) | [Origin Myths](https://open.spotify.com/album/1xClJAks2XfJqjTAAVsH1V) | 2:46 | 2021-03-18 | 2021-06-04 |
 | [Foxglove and Heather](https://open.spotify.com/track/74KOgShMZ5wJR1ny6LNPll) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq), [Kate Ellis](https://open.spotify.com/artist/6lz4GyLX8jF0HNjD712zxc), [Laura Cannell & Kate Ellis](https://open.spotify.com/artist/1kl55Km9X5507z1kJzdH9n) | [March Sounds](https://open.spotify.com/album/3aS5XRhnpP9lKBVES1W0Vw) | 4:49 | 2021-04-13 | 2021-06-04 |
 | [Francis K.](https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:13 | 2023-03-01 | 2023-04-06 |
-| [Franklin, King of the Beers](https://open.spotify.com/track/73APPzBAJ1we3C7XZCMVvb) | [Austin Cash](https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i) | [Franklin, King of the Beers](https://open.spotify.com/album/4FLr6OVtfK1J455n7gSoN4) | 6:24 | 2023-07-18 |  |
+| [Franklin, King of the Beers](https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv) | [Austin Cash](https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i) | [Dogwood Variations](https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl) | 6:24 | 2023-07-18 |  |
+| [Franklin, King of the Beers](https://open.spotify.com/track/73APPzBAJ1we3C7XZCMVvb) | [Austin Cash](https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i) | [Franklin, King of the Beers](https://open.spotify.com/album/4FLr6OVtfK1J455n7gSoN4) | 6:24 | 2023-07-18 | 2023-07-28 |
 | [Freak](https://open.spotify.com/track/077NoNfZ9eVPKIDUcA78ha) | [LEECH](https://open.spotify.com/artist/6FXHqmCyukgQ02l8pPK3gr), [Anonymous Club](https://open.spotify.com/artist/1tbiYIR5Xxl9N4ubPEAvTA) | [Freak](https://open.spotify.com/album/3Vz2nBT4xp5dicRUIX12N0) | 1:52 | 2022-01-19 | 2022-03-22 |
 | [From the Cessation of What](https://open.spotify.com/track/3MRkGhcd9PvJkCji31lRgE) | [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0) | [From the Cessation of What](https://open.spotify.com/album/5mew4NdtZDn8XzW617T260) | 8:36 | 2020-10-30\* | 2021-01-15 |
 | [From Thin Air](https://open.spotify.com/track/2HO7ztGT12X5iNsN7C0wOR) | [Tristan Kasten\-Krause](https://open.spotify.com/artist/7Le1JDJeNwOC3eQRIM7HVB), [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [From Thin Air](https://open.spotify.com/album/6B42Yc5RoVBkqV4j8IoQDL) | 4:56 | 2021-04-09 | 2021-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,888 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,944 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 79 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 80 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCw1YTBhMmJhYTU2NzE4ODFiNGFkODQ2YTQ4ZTBiNDYxYTM5NWQ5OWRl`
+Snapshot ID: `MCxlZTFiMDJkOWUwYWU3NWNhMTYxYzc2MDhjNGQ0MGM3MDRjYjdlMzMy`

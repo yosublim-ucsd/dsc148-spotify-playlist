@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 145743,
+  "num_followers": 145871,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAzNzlmYzI4ZTE4ZDVhY2U5ZmY0MzBiYTVjZDI5ZTgwOGE0NzFh",
+  "snapshot_id": "MCxlODFlM2ZhZjNlMDlmODMzZmUzM2ViZGYzMjEwYWYzY2NjMTFmYzE2",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Richest Opp",
-        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "The Mantra (Heat in the Street Freestyle)",
         "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Wasted Eyes",
-      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Local Mvp",
         "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 166000,
       "name": "Hunnids",
       "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Right Hand",
-        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         },
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 165067,
-      "name": "Right Hand",
-      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Right Hand",
+        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "24's",
         "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 166027,
       "name": "24's",
       "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+      "duration_ms": 339906,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -947,22 +963,6 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 339906,
-      "name": "Don't Let Me Fall",
-      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+        "name": "Often",
+        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+      "duration_ms": 135450,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1075,22 +1091,6 @@
       "duration_ms": 188208,
       "name": "Predicate",
       "url": "https://open.spotify.com/track/6aIjb1aiKJd1YHjR3apCpM"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Often",
-        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 135450,
-      "name": "Often",
-      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     }
   ],
   "unique_name": "Free Form",

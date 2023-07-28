@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,736 likes - 100 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,802 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |
 | 100 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 |
 
-Snapshot ID: `MCw4OTE2YzUwYTg5MDA2ODhmNjhlYzU0ZTNkNTM1NWMzMzcwNmVhOWNh`
+Snapshot ID: `MCw1OTlhZjMzNTQwOWU5M2NiNzQwY2JiY2JhNTc4YTI5ODA0ODcxOGE4`

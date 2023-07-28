@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with FRVRFRIDAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,540 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,623 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 75 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 | 76 | [Could It Be](https://open.spotify.com/track/6EfPRY52PtJOwYhFESgxCb) | [SNACKIE](https://open.spotify.com/artist/4tQuTF6MDLLvtVbUT8IsbE) | [Could It Be](https://open.spotify.com/album/3gq2ExVPSOe3VtPAN1Rawz) | 3:12 |
-| 77 | [Not Worthy](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
+| 77 | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
 | 78 | [Amnesia](https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Amnesia](https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp) | 2:50 |
 | 79 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 |
 | 80 | [Amore](https://open.spotify.com/track/7c3Wxliv52zuse64aBolFx) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [Amore](https://open.spotify.com/album/0G8PJf8al18H5N1AKDi6VQ) | 2:54 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 98 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 |
 | 99 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 
-Snapshot ID: `MCw5Mjg4ZDkxMTI4NmUxNzZhYTkyNDRhYzQ3NWRhZTY1ZDNjODY0N2Y3`
+Snapshot ID: `MCw0YjgzMDIwMDY5MTFiZTE0MzFlZDhmYzJkMTA1NDFiMGYzMDY0MjM1`

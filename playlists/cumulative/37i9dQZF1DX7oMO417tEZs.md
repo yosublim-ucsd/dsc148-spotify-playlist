@@ -4,7 +4,7 @@
 
 > carving their own lane\. Cover: Dj Karaba
 
-898 songs - 2 day 1 hr 36 min
+899 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 | 2022-07-23 |
 | [Dog Treat](https://open.spotify.com/track/7ahjnDLhj3ExATl9439Nq9) | [BAZELLE](https://open.spotify.com/artist/0jwm7oGCwb2uvwtEURfgzZ), [BertsBeatz](https://open.spotify.com/artist/5PhL9D8fkQE0GejhOhC9Lo) | [I'm sorry I faked it](https://open.spotify.com/album/6OHHRiKJOHhXyHJfVsMr27) | 3:34 | 2022-02-18 | 2022-04-02 |
 | [Dog Years \- weird inside Remix](https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [Dog Years \(weird inside Remix\)](https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k) | 2:23 | 2022-03-04 | 2022-04-29 |
-| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 |  |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-07-28 |
+| [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-21 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 | 2023-03-31 | 2023-04-15 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-02-18 | 2022-05-14 |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-24 | 2023-04-09 |

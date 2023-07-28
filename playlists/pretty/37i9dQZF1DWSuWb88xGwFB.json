@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 28321,
+  "num_followers": 28334,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz",
+  "snapshot_id": "MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410973,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410973,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
       },
       "artists": [
         {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
         }
       ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 605306,
       "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
       "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Generate Power (Mixes)",
-        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
-      },
-      "artists": [
-        {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        },
-        {
-          "name": "Paula Brion",
-          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
-      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1127,22 +1107,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
+        "name": "Generate Power (Mixes)",
+        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
       },
       "artists": [
         {
-          "name": "Joey Washington",
-          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
         },
         {
-          "name": "The Men's Club",
-          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
+          "name": "Paula Brion",
+          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Just Us - B.O.P. Radio Joint",
-      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+      "duration_ms": 220080,
+      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
+      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
+      },
+      "artists": [
+        {
+          "name": "Joey Washington",
+          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
+        },
+        {
+          "name": "The Men's Club",
+          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Just Us - B.O.P. Radio Joint",
+      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 337901,
       "name": "Just An Organ - Just An Organ Mix",
       "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+        }
+      ],
+      "duration_ms": 459080,
+      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
-        }
-      ],
-      "duration_ms": 459080,
-      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Master Blaster (Turn It Up)",
         "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
       },
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
-      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
+      "duration_ms": 379760,
+      "name": "Muzik - The Siren Mix",
+      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

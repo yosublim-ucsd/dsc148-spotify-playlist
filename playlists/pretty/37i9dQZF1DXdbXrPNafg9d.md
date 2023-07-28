@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,316 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,433 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 20 | [Monkey's Wedding](https://open.spotify.com/track/0Ef4S1O05TaWmzz8hm7mvD) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Monkey's Wedding](https://open.spotify.com/album/20Ts7qGLnrrS9Hz2r3PKkR) | 2:59 |
 | 21 | [Slowburn](https://open.spotify.com/track/1VPE8fiA7AeycpjG7HfdJL) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Slowburn](https://open.spotify.com/album/4uNVAFeEBTT9faHponCGf2) | 2:52 |
 | 22 | [Leave Me Alone](https://open.spotify.com/track/7mYU5AQ4rc3RlVpQsV6iK8) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Look Now](https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t) | 3:39 |
-| 23 | [Close One](https://open.spotify.com/track/1fjy0KUEjw9yMWHk4Gto8F) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/0vmGHMVens3mb4VoPiVcyn) | 3:55 |
+| 23 | [Close One](https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc) | 3:55 |
 | 24 | [Dream Of You](https://open.spotify.com/track/06uENf9tmUXYLk9d8DiPAo) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Dream Of You](https://open.spotify.com/album/1EzZrR8TUOI2YSN0LSGxrQ) | 3:03 |
 | 25 | [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 |
 | 26 | [Vaporized](https://open.spotify.com/track/4hWyyWEZcQlvZJweez1Otn) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Vaporized](https://open.spotify.com/album/5zKIRD5UHLqCIm3BKcwvNu) | 3:25 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 119 | [hazelton](https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazelton b/w liner](https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks) | 3:01 |
 | 120 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 |
 | 121 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 |
-| 122 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 |
+| 122 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 123 | [Prepaid Wireless](https://open.spotify.com/track/1c2B1ScCR9I5WCaLNrvVrj) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Mr Big Shot](https://open.spotify.com/album/3RGUy7030oWwk9ZoFi1GXr) | 2:56 |
 | 124 | [Freakin](https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Antennae](https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA) | 3:10 |
 | 125 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
 | 150 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 |
 
-Snapshot ID: `MCxhZGRiMWE0NTA0ZmRiMWEzNDU2ZmJmMzhiZjYyYjQzMzgwNmFiN2M1`
+Snapshot ID: `MCw4YmQyZmM1NmM4MGFkMjdkNDA3YzA1OTA5ZWQ5NGIxZjE0OTNjM2Ji`

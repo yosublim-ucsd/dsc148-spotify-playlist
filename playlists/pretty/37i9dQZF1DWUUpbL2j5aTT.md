@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House and Deep House\. Photo: SPECT3R
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,037 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,051 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 47 | [The Invisibles](https://open.spotify.com/track/2SylThwYhtMPGr1OIFy976) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [The Invisibles](https://open.spotify.com/album/4Mo9Zpdxx3RRpDVOOlPXTe) | 8:30 |
 | 48 | [Go Bananas](https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Go Bananas](https://open.spotify.com/album/07LK91iHSOUy7U6Y0MASAe) | 2:01 |
 | 49 | [Look at the Light \- Edit](https://open.spotify.com/track/093g7O9zhvt13iQ42onrJI) | [Peter Mac](https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc) | [Look At The Light](https://open.spotify.com/album/5m7cc0QqabgapOwriWbQYu) | 3:56 |
-| 50 | [350°F \- VIP Mix](https://open.spotify.com/track/0Jrlcpc9Eeulbtn0BOmJuG) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F \(VIP Mix\)](https://open.spotify.com/album/0hBsWryPVKOQZ3u6UDGdf4) | 3:29 |
+| 50 | [350°F \- VIP Mix](https://open.spotify.com/track/6FAs2FDoLH3SazWNLfpqMi) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F](https://open.spotify.com/album/3SqC2hYji3YNIHGPMdxQsX) | 3:29 |
 | 51 | [Lemme Call You Right Back](https://open.spotify.com/track/3Zrfx7EnTivhZOwnVMkNwm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [House Is A Feeling](https://open.spotify.com/album/7qWrEM9uj6rBhPWXrR8mid) | 3:55 |
 | 52 | [Feel This Way](https://open.spotify.com/track/1PpGDmgW7rirQir644spGv) | [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f), [Bjarxoo](https://open.spotify.com/artist/01gguaAl3Ft79OTeXM1heN) | [Feel This Way](https://open.spotify.com/album/4oSrTwDImYzAbJ5x6bf6bR) | 2:38 |
 | 53 | [Disco Lover](https://open.spotify.com/track/1V9rQA9gg0z1mImwUvXMKS) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [Nytron](https://open.spotify.com/artist/7wpaPcYQBZ11SddBrEGXhu) | [Disco Lover / Give Me Love](https://open.spotify.com/album/1DomIOODkN9HgfdD7n7y0t) | 4:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 64 | [Movin'](https://open.spotify.com/track/5f4gHNBT19570jIhNDA03X) | [Leo Lauretti](https://open.spotify.com/artist/1bbFXkOz79Z1VY9CpA0c0Z) | [Movin'](https://open.spotify.com/album/5G3wO6Kx7DxN7LollgKS3l) | 3:19 |
 | 65 | [Steven Hawking \- Luca Lush Remix](https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Steven Hawking \(Luca Lush Remix\)](https://open.spotify.com/album/18nohNOHWVWvsiUaFrTSGx) | 4:01 |
 
-Snapshot ID: `MCwzOTY4NDZmMDA4NDJlNDg2NjMxNzViMjc1NjQ4NmRiNzAwZGMxMDM0`
+Snapshot ID: `MCwxZWE2MmQwNWI5NzQzOTYwMzM0YjExOGRmY2I4MGE0M2NkZGRhNmZk`

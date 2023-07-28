@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Patrickananda
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,694 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,779 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 |
-| 2 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
-| 3 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
-| 4 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 5 | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/track/5y5uNFx4bDDjnZf86DSprb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/album/7uuoFmLc6I7yNRCaLJtLu4) | 3:04 |
+| 1 | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 |
+| 2 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 |
+| 3 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
+| 4 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
+| 5 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 6 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
 | 7 | [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 |
 | 8 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 | 65 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 
-Snapshot ID: `MCw0OWQwZjBiOTlmZDgyOWIwYmNjZmNhZDg4NDMzZjQyNThhNzJiYjNj`
+Snapshot ID: `MCxhM2U2MzA1N2VlNDY1ODg1OTczZDIyNTgzNzZiNWFiNjYzYjEwYzM5`

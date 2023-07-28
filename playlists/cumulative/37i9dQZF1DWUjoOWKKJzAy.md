@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-80 songs - 5 hr 5 min
+81 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Tédio](https://open.spotify.com/track/5h7XQuu6YzKtst2Oy26zdb) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [1985/2007 Sucessos Regravados: O Melhor](https://open.spotify.com/album/05e7xo4yXKnHfznV4D5i3F) | 3:20 | 2020-10-16 | 2022-11-13 |
 | [Tédio](https://open.spotify.com/track/7jktxmkjQIRbiBzMmYv32E) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [1985/2007 Sucessos Regravados \(Vol\. 1\)](https://open.spotify.com/album/4Gw5VlWHPySXpTsNmkguuQ) | 3:20 | 2020-10-16 |  |
 | [Tédio](https://open.spotify.com/track/7kqcNdHAsDyxOaZlYREvfq) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [1985/2007 Sucessos Regravados, Vol\. 1](https://open.spotify.com/album/12bs6tiZXFaa6ckOh0g47m) | 3:20 | 2020-10-16 | 2022-07-29 |
-| [Uns Dias](https://open.spotify.com/track/1n9CxdqkfJBG7Q801V8MA5) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nacional Anos 80](https://open.spotify.com/album/2ZNp1JhzWK58RZirU9rlz2) | 4:04 | 2020-10-16 |  |
+| [Uns Dias](https://open.spotify.com/track/1n9CxdqkfJBG7Q801V8MA5) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nacional Anos 80](https://open.spotify.com/album/2ZNp1JhzWK58RZirU9rlz2) | 4:04 | 2020-10-16 | 2023-07-28 |
 | [Uns Dias](https://open.spotify.com/track/584A0PrNqDNS5pMmCaCgOm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Bora Bora](https://open.spotify.com/album/6ofQIUpWZIGOB9b7MY26Az) | 4:04 | 2020-10-16 | 2022-07-29 |
+| [Uns Dias](https://open.spotify.com/track/6l7MxuPoclbfq9bEfk0W2k) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 4:04 | 2023-03-24 |  |
 | [Veraneio Vascaina](https://open.spotify.com/track/1RDIUWZBd4a7K5POj12fOO) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 2:15 | 2020-10-16 |  |
 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 | 2020-10-16 |  |
 | [Você Não Soube Me Amar](https://open.spotify.com/track/1oFImXYOcGQNmMsewaEj2W) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Retratos](https://open.spotify.com/album/4i925vFjSrHT6Q8ALj8H1y) | 3:22 | 2020-10-16 |  |

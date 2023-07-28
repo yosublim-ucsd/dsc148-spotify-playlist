@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 144029,
+  "num_followers": 144116,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWVmODI2OGQ0NDc4ZTkyMTNmODNhYmU1NTBiMjg5NmU3ZTgyOWYx",
+  "snapshot_id": "MCwwZmRlNTg5ZTE4YTQwYmYxZGU4NjlkYTg5MDc1MTc1N2NiNjFjYTU5",
   "tracks": [
     {
       "added_at": "2023-07-21 00:57:54",
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Te Vas a Acordar de M\u00ed",
-      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
+      "duration_ms": 210666,
+      "name": "Me Dijiste",
+      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "15 Rolitas de Amor, Vol. 7",
-        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
-      },
-      "artists": [
-        {
-          "name": "Perro Callejero",
-          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
-        }
-      ],
-      "duration_ms": 285080,
-      "name": "Yo Quiero Ser",
-      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Un Minuto de Amor",
         "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 213000,
       "name": "Un Minuto de Amor, Pt. 1",
       "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 7",
+        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
+      },
+      "artists": [
+        {
+          "name": "Perro Callejero",
+          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
+        }
+      ],
+      "duration_ms": 285080,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Me Dijiste",
-      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
+      "duration_ms": 202666,
+      "name": "Te Vas a Acordar de M\u00ed",
+      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "No Todo Es Oro",
-      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 228693,
       "name": "La chica banda",
       "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Aventuras En El Defe",
-        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+        "name": "Srita Martinez Punk",
+        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
       },
       "artists": [
         {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 282773,
-      "name": "La Maquina Del Tiempo",
-      "url": "https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb"
+      "duration_ms": 198240,
+      "name": "Srita Martinez Punk",
+      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
     }
   ],
   "unique_name": "Rock Urbano",

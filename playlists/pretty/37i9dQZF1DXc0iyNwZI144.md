@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,091 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,064 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 66 | [Mi Gente \(feat\. Beyoncé\)](https://open.spotify.com/track/0GzmMQizDeA2NVMUaZksv0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Mi Gente \(feat\. Beyoncé\)](https://open.spotify.com/album/55228F4QRlYDzJ4H02tDHA) | 3:29 |
 | 67 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
 | 68 | [I Found You \(with Calvin Harris\)](https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I Found You \(with Calvin Harris\)](https://open.spotify.com/album/3jfSJj7tHJxk1a4i2KZt9F) | 3:11 |
-| 69 | [No Drama \(feat\. Craig David\)](https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [No Drama \(feat\. Craig David\)](https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f) | 2:33 |
-| 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
+| 69 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 |
+| 70 | [No Drama \(feat\. Craig David\)](https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [No Drama \(feat\. Craig David\)](https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f) | 2:33 |
 
-Snapshot ID: `MCw2ZWU2NzcyMmZiYWEwOThmMjU0MGE1ZDg1OWEyNDE5ZWU0YzNlZWVj`
+Snapshot ID: `MCwwMjM5ZmM4NzA0MDU1NTg4NDFiODdlYzMwYTIyZjdiMDFmN2FkNjg5`

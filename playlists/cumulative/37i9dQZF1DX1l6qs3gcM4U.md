@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-319 songs - 19 hr 13 min
+320 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Feliz](https://open.spotify.com/track/76hzh7OSIl0UAH0Z791EXl) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Feliz](https://open.spotify.com/album/5bdgREIEoaBfwqNNccK8se) | 3:29 | 2022-02-11 | 2022-02-19 |
 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 | 2021-12-10 |  |
 | [Fica Mais Um Pouco](https://open.spotify.com/track/0BKlD2EIkCiMFCaAkaMfdd) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Fica Mais Um Pouco](https://open.spotify.com/album/1sBE475AcbCUYyP7QHud24) | 3:27 | 2022-12-16 | 2023-01-05 |
-| [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 | 2021-12-10 |  |
+| [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 | 2021-12-10 | 2023-07-28 |
 | [Filha de General](https://open.spotify.com/track/04B8MMpJTrHzlvVVX30F5J) | [Weynner Lucas](https://open.spotify.com/artist/1H0PVaIF0j0RA72rApTvEq) | [Filha de General](https://open.spotify.com/album/6Bwwmpzq6m8RBDTXAiHhEx) | 3:10 | 2022-03-25 | 2022-04-15 |
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2021-12-10 | 2022-01-25 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
@@ -247,6 +247,7 @@
 | [Rock the Boat](https://open.spotify.com/track/0pnQuPugcSa1anG10jlxkz) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Journey](https://open.spotify.com/album/2UjWc32oARCJ05Hriatvkc) | 3:09 | 2022-01-14 | 2022-06-29 |
 | [Roçaré \- Extend](https://open.spotify.com/track/6HkqDpMmTV2IT2I01a9Zp5) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Dabanda](https://open.spotify.com/artist/1k3SV9swAsIXA7vAbuNk6M) | [Roçaré](https://open.spotify.com/album/1UyaN4EOdNN3hdTi3eP5Fh) | 3:36 | 2022-03-25 | 2022-05-16 |
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
+| [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 | 2023-07-27 |  |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 | 2023-03-22 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 |  |

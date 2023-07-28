@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Filipe Ret e Ludmilla, Gustavo Mioto, Poesia Acústica 14, Felipe Amorim, Xamã e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897,602 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897,874 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 |
 | 32 | [Chá De Camomila](https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Chá De Camomila](https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM) | 3:11 |
 | 33 | [É Só Saudade](https://open.spotify.com/track/0H85CGX7ah1dBHXiF34tiP) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [É Só Saudade](https://open.spotify.com/album/0aUvJtGWPzUwf8cUkekYlh) | 2:43 |
-| 34 | [Barbie De Chapéu](https://open.spotify.com/track/66sx8aUdhRlj4VAdjDOoUJ) | [laykied](https://open.spotify.com/artist/7zNLR0qe42FgFmcUkooGNC) | [Barbie De Chapéu](https://open.spotify.com/album/7xUcl62eBxWtI9jcv5LiIe) | 2:40 |
+| 34 | [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:42 |
 | 35 | [Fracassei](https://open.spotify.com/track/2foQXDNnCJWzEfeudy2ftY) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [VF Apaixonado \- Pt.1](https://open.spotify.com/album/098qFmeeZsM8dqGJDmVlaB) | 2:53 |
 | 36 | [Derramando lágrimas \- Ao Vivo](https://open.spotify.com/track/51eELVj6FxIWQswUkFOFaG) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Derramando lágrimas \(Ao Vivo\)](https://open.spotify.com/album/1ymPI5nQHZZyVGX2arCuh4) | 3:57 |
 | 37 | [Me Segurou \- Ao Vivo](https://open.spotify.com/track/7xoGF9ijhpp20MMvfnt3Dn) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Me Segurou / Lembranças De Amor \(Ao Vivo\)](https://open.spotify.com/album/48cuRBKqDuxuFyb0LDBWrp) | 2:47 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Bandida Má](https://open.spotify.com/track/1ChbtX3f0ASWlcrXVkybz2) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Bandida Má](https://open.spotify.com/album/2ZJCv9Rb4LTRINkjuGuXlu) | 2:13 |
 | 97 | [Só Pauladão](https://open.spotify.com/track/5ZW1WKHCAxA6KqVqpSwSpD) | [Mc Brunyn](https://open.spotify.com/artist/4wwEIIZHZG4WFy0PfZnKTn), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Só Pauladão](https://open.spotify.com/album/5M8mX7kRhfJqZgOOYs08CZ) | 2:10 |
 
-Snapshot ID: `MCxkZmU5NjczOGU5NWM1OTg1NWE0ZGE5YWNiZWUzZDhjZjhiMmNlYzA2`
+Snapshot ID: `MCw1NGQ0YWNjNzYyZDZiMTczZWRjNzkxZWVkOGE1NDdkZDVkZTk2NTVm`

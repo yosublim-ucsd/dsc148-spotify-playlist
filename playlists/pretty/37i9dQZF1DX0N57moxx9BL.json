@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 129390,
+  "num_followers": 129535,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUwMzA4N2E1M2NlMmZmMzU4ZjM1MWFkYTEzMjk3ZTZhMDQyOTVj",
+  "snapshot_id": "MCxmZTNmMDBmM2MzMjZjNDhhZTA2YjM5MWIzZTk1MGMxYmU0MjFiMjcy",
   "tracks": [
     {
       "added_at": "2023-07-07 13:00:38",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Long Live the Rebels",
-        "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 243699,
-      "name": "Erase",
-      "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Let the Light In",
         "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 223011,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Long Live the Rebels",
+        "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 243699,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "EXILE",
-        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "ANOTHER PLACE",
-      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Words of Fire",
         "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 251201,
       "name": "Words of Fire",
       "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "ANOTHER PLACE",
+      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -627,18 +627,38 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
       "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "End of the World (feat. Disciple)",
+        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        },
         {
           "name": "Disciple",
           "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
+      "duration_ms": 354815,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -691,26 +711,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "End of the World (feat. Disciple)",
-        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        },
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 354815,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -775,6 +759,38 @@
       "duration_ms": 201240,
       "name": "Radio (NW Hesh)",
       "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+      },
+      "artists": [
+        {
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+        }
+      ],
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
-      },
-      "artists": [
-        {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
-        }
-      ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 266503,
       "name": "This Is Not the End",
       "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -907,22 +923,6 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Stronger Than Death",
         "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222967,
       "name": "Promise You're Coming Home",
       "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-07-07 13:00:38",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 213705,
+  "num_followers": 213938,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTkwM2E0OGVkM2YwZTkyYmY5ZjYzOGM0YjIzZWE4NTRkNDRlZDQ0",
+  "snapshot_id": "MCxiMGEyMzU1NmNlNDYwOTc4YzNlODRlNjUyZWExMTU1ZWU0OWQ1ZDU1",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 190948,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 147086,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "FWD (feat. Rudimental & House Gospel Choir)",
         "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
       },
@@ -783,6 +803,30 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "KILO",
         "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
       },
@@ -803,26 +847,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 147086,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -839,26 +863,6 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 230854,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -895,6 +899,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+      },
+      "artists": [
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -911,18 +931,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
       "artists": [
         {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+      "duration_ms": 230854,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -967,6 +991,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -987,46 +1027,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "A Chance / Ask Yourself (Can You Dance)",
         "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
       },
@@ -1039,34 +1039,6 @@
       "duration_ms": 216794,
       "name": "Ask Yourself (Can You Dance)",
       "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "You're in My System (Dennis Quin Remixes)",
-        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Jerome Sydenham",
-          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 351219,
-      "name": "You're in My System - Dennis Quin Club Mix",
-      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1143,22 +1115,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1171,6 +1127,22 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1243,50 +1215,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Freeway (with Estelle)",
-        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Freeway (with Estelle)",
-      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Love If You Need It (feat. Fi McCluskey)",
-        "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
-      },
-      "artists": [
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        },
-        {
-          "name": "Fi McCluskey",
-          "url": "https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf"
-        },
-        {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        }
-      ],
-      "duration_ms": 204823,
-      "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
-      "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
@@ -1311,6 +1239,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Freeway (with Estelle)",
+        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Freeway (with Estelle)",
+      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
       },
@@ -1323,6 +1271,30 @@
       "duration_ms": 277225,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Love If You Need It (feat. Fi McCluskey)",
+        "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
+      },
+      "artists": [
+        {
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+        },
+        {
+          "name": "Fi McCluskey",
+          "url": "https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 204823,
+      "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
+      "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1471,6 +1443,46 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
+      },
+      "artists": [
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "duration_ms": 232794,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -1519,22 +1531,6 @@
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1595,22 +1591,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Waiting 4 You",
         "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
@@ -1623,30 +1603,6 @@
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Inferno (No. 1)",
-        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
-      },
-      "artists": [
-        {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        }
-      ],
-      "duration_ms": 296453,
-      "name": "Be The One (feat. Yung Bae)",
-      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1667,6 +1623,22 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1727,6 +1699,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM"
+      },
+      "artists": [
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        },
+        {
+          "name": "Liinks",
+          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/2FFp7uKW7m6fArP8kZ2lUl"
       },
@@ -1755,26 +1747,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM"
-      },
-      "artists": [
-        {
-          "name": "Sparkee",
-          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
-        },
-        {
-          "name": "Liinks",
-          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Boys Don't Sob",
         "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
       },
@@ -1787,26 +1759,6 @@
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-        "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
-      },
-      "artists": [
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        },
-        {
-          "name": "Kelli Sae",
-          "url": "https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17"
-        }
-      ],
-      "duration_ms": 221331,
-      "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-      "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1831,6 +1783,26 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
+        "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Kelli Sae",
+          "url": "https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17"
+        }
+      ],
+      "duration_ms": 221331,
+      "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
+      "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1963,6 +1935,30 @@
       "duration_ms": 173035,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/71rTjuTsuh03etRwpIOPRj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Disco Dancing (feat. Ayoni) [Lazywax Remix]",
+        "url": "https://open.spotify.com/album/3nZuiK8r2Rk89xH240mhH5"
+      },
+      "artists": [
+        {
+          "name": "Namy",
+          "url": "https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        },
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 402711,
+      "name": "Disco Dancing (feat. Ayoni) - Lazywax Remix",
+      "url": "https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9"
     },
     {
       "added_at": "2023-07-21 04:00:00",

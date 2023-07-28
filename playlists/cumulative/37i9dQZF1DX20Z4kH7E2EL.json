@@ -2899,14 +2899,10 @@
     },
     {
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future) [Solomun Remix]",
+        "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Solomun Remix]",
         "url": "https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug"
       },
       "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
         {
           "name": "Swedish House Mafia",
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
@@ -2918,13 +2914,17 @@
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 357088,
-      "name": "Turn On The Lights again.. (feat. Future) - Solomun Remix",
+      "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Solomun Remix",
       "url": "https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr"
     },
     {

@@ -4,7 +4,7 @@
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Chino Pacas & Fuerza Regida en portada.
 
-123 songs - 6 hr 18 min
+124 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [El Cannabisco](https://open.spotify.com/track/23D65bTpyMyUCcsk507lJZ) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [El Cannabisco](https://open.spotify.com/album/00gQ1pxVFHElbclqAlovPg) | 4:03 | 2021-12-03 | 2022-09-20 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 | 2023-03-18 |
 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2022-07-08 |  |
-| [El Cigarrito Bañado](https://open.spotify.com/track/5BP0wqdx4Ln2UmZ1Ty6soM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 6](https://open.spotify.com/album/2Uzvm5aaPLrA7hWOEXveUv) | 3:19 | 2021-12-03 |  |
+| [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 | 2023-04-20 |  |
+| [El Cigarrito Bañado](https://open.spotify.com/track/5BP0wqdx4Ln2UmZ1Ty6soM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 6](https://open.spotify.com/album/2Uzvm5aaPLrA7hWOEXveUv) | 3:19 | 2021-12-03 | 2023-07-28 |
 | [El Deportivo](https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Seguimos En El Ruedo](https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA) | 3:12 | 2022-12-16 |  |
 | [El Drip](https://open.spotify.com/track/4nZ6XjstkgmNlVYkthfrpy) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Drip](https://open.spotify.com/album/3Y3zEqAuhvH56UXMDt2BLX) | 2:22 | 2021-12-03 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-01-14 |  |

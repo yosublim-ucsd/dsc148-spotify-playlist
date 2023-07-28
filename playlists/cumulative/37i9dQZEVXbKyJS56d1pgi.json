@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Alma Nua",
+        "url": "https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203684,
+      "name": "Alma Nua",
+      "url": "https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1"
+    },
+    {
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil"
       },
@@ -10431,6 +10449,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -14080,7 +14116,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 120461,
       "name": "Sem Alian\u00e7a no Dedo",
       "url": "https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO"
@@ -14098,7 +14134,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"

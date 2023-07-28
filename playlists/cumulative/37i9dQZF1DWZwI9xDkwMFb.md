@@ -4,10 +4,11 @@
 
 > The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-20 songs - 1 hr 59 min
+21 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24 Caprices for Solo Violin, Op\. 1, MS 25: No\. 24 in A Minor](https://open.spotify.com/track/5Dop3VhzsB4OxQPL8LPjgU) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX) | [Paganini: 24 Caprices for Solo Violin, Op\. 1, MS 25: No\. 24 in A Minor](https://open.spotify.com/album/58H8jUnGxNudttqGewZnPj) | 4:29 | 2023-07-27 |  |
 | [24 Caprices for Violin, Op\. 1: No\. 24 in A minor](https://open.spotify.com/track/1nGQNprvMoRwNM0YelJ6On) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Shlomo Mintz](https://open.spotify.com/artist/1tZYCX0p64TtsPv1sGa67y) | [Paganini: 24 Capricci](https://open.spotify.com/album/60kcP5l7qsfGnvolKe5uED) | 6:23 | 2023-06-15 |  |
 | [8 Humoresques, Op\. 101, B\. 187: No\. 7 Poco Lento e grazioso](https://open.spotify.com/track/3HSmz1PmRKqhkONFdMvOGT) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Ayami Ikeba](https://open.spotify.com/artist/76zESGziPIU4qii4AwG7Ek) | [Dvořák](https://open.spotify.com/album/1gVmv1dGiK0bpMHNgxnDWs) | 3:12 | 2023-06-15 |  |
 | [Carmen: Prélude](https://open.spotify.com/track/2pDJ5SFIaIlpv6KlAfIXgZ) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Bizet: Carmen](https://open.spotify.com/album/6exQ9t4jeygG0htgvnHiYs) | 3:35 | 2023-06-15 |  |

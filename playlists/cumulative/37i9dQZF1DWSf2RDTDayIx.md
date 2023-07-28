@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-364 songs - 19 hr 26 min
+365 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2021-12-03 |  |
 | [Milo](https://open.spotify.com/track/1usrbjjrEiiiSh8zQXCeFi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Armada Unites \(The Official Album\)](https://open.spotify.com/album/1hzCdej7lteL5VkrF7iaZt) | 3:41 | 2021-12-03 | 2022-01-08 |
 | [Money Money](https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Exotica](https://open.spotify.com/album/1gQVJuNTz3pu93tO8EM4Yr) | 3:30 | 2021-12-03 | 2022-07-29 |
+| [Moon Groove](https://open.spotify.com/track/0TAIIxetpsMUEPOHZkQO9J) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/19OOCxedf9ejRmbGV83P5x) | 2:49 | 2023-07-14 |  |
 | [Moon Groove](https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R) | 2:49 | 2022-07-22 | 2022-07-29 |
 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-12 |  |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2022-01-07 |  |
@@ -371,6 +372,6 @@
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
 | [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2022-10-26 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 |  |
-| [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 |  |
+| [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 | 2023-07-28 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

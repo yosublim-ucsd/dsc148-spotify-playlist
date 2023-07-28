@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,327 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,761 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [violence ii](https://open.spotify.com/track/5WVIDVgQfb3zO3IPRzNP1n) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:43 |
 | 100 | [Lambspring](https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 5:20 |
 
-Snapshot ID: `MCw3YmVjMTA0YzFmM2ZmNWZiMzllOWZiZjRhMGQ4NTE2N2NhMWFjYWVl`
+Snapshot ID: `MCw5YWMyYzQ3MjAxN2YzMTMzOTU5N2VlNWViZTdiNzhlNGQzZWU3MjBi`

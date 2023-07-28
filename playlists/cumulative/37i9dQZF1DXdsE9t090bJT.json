@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "MMXX's",
+        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179583,
+      "name": "MMXX's",
+      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
+    },
+    {
+      "album": {
         "name": "M\u00e1gicos Besitos",
         "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
       },
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 211776,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"

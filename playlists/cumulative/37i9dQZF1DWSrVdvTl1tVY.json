@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Gorgon City",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Ewan McVicar",
   "name": "UK House Music",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 202000,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 189000,
       "name": "Ankerklause (Is The Feeling Only Strong)",
       "url": "https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0"
@@ -2485,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Dirty Dance",
+        "url": "https://open.spotify.com/album/193hiUgLBmdwbkUAKlCoRA"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Dirty Dance",
+      "url": "https://open.spotify.com/track/4VMawgqtTlOOHIoad2zPdh"
+    },
+    {
+      "album": {
         "name": "Dirty Mochyn",
         "url": "https://open.spotify.com/album/2HvNBUDlxL41sMi3h0wa3r"
       },
@@ -3725,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Get On The Floor EP",
+        "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388800,
+      "name": "Get On The Floor",
+      "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -4622,6 +4658,24 @@
       "duration_ms": 236129,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1NMmSM6DYwhAf7027fowmD"
+    },
+    {
+      "album": {
+        "name": "I Want You / Windmill",
+        "url": "https://open.spotify.com/album/0LLhmfIp9PjTwBXGUOcDPu"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5eNS4osb7X3oIKcguRkr3Z"
     },
     {
       "album": {
@@ -7104,7 +7158,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 149583,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"

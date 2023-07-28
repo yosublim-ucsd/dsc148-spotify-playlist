@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "O..Ya ?",
+        "url": "https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc"
+      },
+      "artists": [
+        {
+          "name": "K3S",
+          "url": "https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "O.. Ya",
+      "url": "https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb"
+    },
+    {
+      "album": {
         "name": "O\u2026Ya",
         "url": "https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 187066,
       "name": "O..Ya",
       "url": "https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF"

@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0",
-  "num_followers": 2642559,
+  "num_followers": 2643155,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzI3YTA4NWFiNDFhNmIzYzAyYzQxN2YzYjMyZmM3MmExZDJhZTUy",
+  "snapshot_id": "MCw4MGU3YjFmNzllMmJmYWI2MjE4OTQ0NDU2NzgwNzcxMjNlZTExYTFi",
   "tracks": [
     {
       "added_at": "2023-07-26 20:39:19",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-26 20:39:19",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
-    },
-    {
-      "added_at": "2023-07-26 20:39:19",
-      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 252013,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2023-07-26 20:39:19",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
     },
     {
       "added_at": "2023-07-26 20:39:19",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-07-26 20:39:19",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 172735,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN"
-    },
-    {
-      "added_at": "2023-07-26 20:39:19",
-      "album": {
         "name": "Take Care of You / Summertime",
         "url": "https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv"
+    },
+    {
+      "added_at": "2023-07-26 20:39:19",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 172735,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN"
     },
     {
       "added_at": "2023-07-26 20:39:19",

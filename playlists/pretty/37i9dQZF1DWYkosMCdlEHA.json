@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 111712,
+  "num_followers": 111856,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzkxNjkxN2M2MDViN2FmODRmYTMzMjJmZjNhMzllYzI2OTRkNjEw",
+  "snapshot_id": "MCw5ZGVhNGYwNjVkYTk1NDQxYzUwZmVmOTU3YTU1YmMxY2MwODVjZjdj",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -551,18 +551,22 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Segue em Frente",
-        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
+        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
       "artists": [
         {
           "name": "Planta E Raiz",
           "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Desde as Estrelas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
+      "duration_ms": 221262,
+      "name": "Eu Tive um Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -683,22 +687,18 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
+        "name": "Segue em Frente",
+        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
       },
       "artists": [
         {
           "name": "Planta E Raiz",
           "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 221262,
-      "name": "Eu Tive um Sonho - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+      "duration_ms": 250920,
+      "name": "Desde as Estrelas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Helio Bentes, Vol. 02",
-        "url": "https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E"
+        "name": "Ac\u00fastico Helio Bentes",
+        "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
       },
       "artists": [
         {
           "name": "Helio Bentes",
           "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Emmano",
+          "url": "https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq"
         }
       ],
-      "duration_ms": 283566,
-      "name": "Calor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR"
+      "duration_ms": 176920,
+      "name": "Estar Com Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -987,22 +991,6 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Tribo",
-        "url": "https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH"
-      },
-      "artists": [
-        {
-          "name": "Good Vibe",
-          "url": "https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Reggae Good Vibe",
-      "url": "https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
         "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
         "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
       },
@@ -1015,6 +1003,22 @@
       "duration_ms": 221483,
       "name": "Serenou/Nosso Mundo - Acoustic Sessions",
       "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "Tribo",
+        "url": "https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH"
+      },
+      "artists": [
+        {
+          "name": "Good Vibe",
+          "url": "https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Reggae Good Vibe",
+      "url": "https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Helio Bentes",
-        "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
+        "name": "Ac\u00fastico Helio Bentes, Vol. 02",
+        "url": "https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E"
       },
       "artists": [
         {
           "name": "Helio Bentes",
           "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
-        },
-        {
-          "name": "Emmano",
-          "url": "https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq"
         }
       ],
-      "duration_ms": 176920,
-      "name": "Estar Com Voc\u00ea - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy"
+      "duration_ms": 283566,
+      "name": "Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "\u00c9 Bonito de Ver",
-        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
-      },
-      "artists": [
-        {
-          "name": "Madayati",
-          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "\u00c9 Bonito de Ver",
-      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
         "name": "Acorda Pra Vida",
         "url": "https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 213003,
       "name": "Acorda Pra Vida",
       "url": "https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "\u00c9 Bonito de Ver",
+        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
+      },
+      "artists": [
+        {
+          "name": "Madayati",
+          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "\u00c9 Bonito de Ver",
+      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
     },
     {
       "added_at": "2023-07-07 03:01:00",

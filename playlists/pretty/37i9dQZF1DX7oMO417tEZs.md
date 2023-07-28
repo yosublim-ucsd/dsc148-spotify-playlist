@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Cover: Dj Karaba
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,180 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,193 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 78 | [TANGOS DE UNA MOTO TRUCADA \- A COLORS SHOW](https://open.spotify.com/track/4dnBOxtVVEQX0T74GCJqCs) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [TANGOS DE UNA MOTO TRUCADA \- A COLORS SHOW](https://open.spotify.com/album/70NKeK6CqjbcIerWvSiuW6) | 2:57 |
 | 79 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 80 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
-| 81 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 |
+| 81 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 |
 | 82 | [U CANT STOP ME NOW](https://open.spotify.com/track/7frTfDcziY9MJKaxh9o2cB) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [U CANT STOP ME NOW](https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu) | 3:02 |
 | 83 | [Moon Rising \(10 Years\)](https://open.spotify.com/track/1Ss2yRnWazM2Vp7j4QZZ6c) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Moon Rising \(10 Years\)](https://open.spotify.com/album/5A7UKjX9QT6yADRDVMFIOP) | 5:07 |
 | 84 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 | 100 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
 
-Snapshot ID: `MCwzZjg3M2I4YTBkZWY2ZjkwMDZkYzI3NGFkZGY3ZDliNmYxM2M3ODY1`
+Snapshot ID: `MCw5M2ViM2E5NzQ1ZmZlYjllNzNlNDY5N2VmNmQ2YWQxNDFjNWE3ZjY3`

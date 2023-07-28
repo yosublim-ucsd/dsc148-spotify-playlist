@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-328 songs - 19 hr 19 min
+329 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [La Media Vuelta](https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [La Media Vuelta](https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km) | 3:17 | 2021-11-05 |  |
 | [La Música](https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [La Música](https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M) | 4:14 | 2022-04-17 |  |
 | [La Verdad \- Remix](https://open.spotify.com/track/3AH4bfHW8Ni0BnUrWiVHIX) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [La Verdad \(Remix\)](https://open.spotify.com/album/0uaEJlqOsFE9ssc0iNebAz) | 3:17 | 2022-08-27 | 2022-10-26 |
-| [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 | 2022-04-17 |  |
+| [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 | 2022-04-17 | 2023-07-28 |
 | [Latinos](https://open.spotify.com/track/0tLbFnGtKIR37kamt4qiAZ) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Futuro](https://open.spotify.com/album/2M253GMXCAKTKLtm2uGdp2) | 3:23 | 2021-11-05 | 2022-03-18 |
 | [Lente](https://open.spotify.com/track/42jzCcL5qdr1zJxnShsy6M) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Lente](https://open.spotify.com/album/5ERkznsAlQ08Ha962OBMwr) | 3:11 | 2021-11-05 | 2022-04-18 |
 | [Lift](https://open.spotify.com/track/3zTlidxfvKnuLay7tmxTfI) | [Carlos Herrera Music](https://open.spotify.com/artist/6XyhP9ocGrfEqrIm6vHDYG), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lift](https://open.spotify.com/album/5t62fhTVsy040NJgla87v2) | 3:04 | 2021-11-05 | 2022-03-22 |
@@ -175,6 +175,7 @@
 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 | 2022-04-17 |  |
 | [Memoria](https://open.spotify.com/track/1GHsomI2FA0uTisZwUccd5) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Memoria](https://open.spotify.com/album/3NS0k92g00iLsABc1dvY8i) | 3:08 | 2021-11-05 | 2022-04-18 |
 | [Mi Cielo](https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6) | 3:18 | 2022-04-17 | 2023-07-05 |
+| [Mi Cielo](https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs) | 3:18 | 2022-08-27 |  |
 | [Mi Entrenador](https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK) | 2:58 | 2022-04-17 | 2023-07-14 |
 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 | 2022-04-17 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/2RNHVytRWQfVpTmG7MG6yj) | [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564) | [Mi Primer Amor](https://open.spotify.com/album/4PB8f2SQlDuloa0j5TRe7A) | 3:36 | 2021-11-05 | 2022-04-18 |

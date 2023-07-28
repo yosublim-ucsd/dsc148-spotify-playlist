@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,684 likes - 96 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,794 likes - 96 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 18 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 |
 | 19 | [Propagation](https://open.spotify.com/track/0hyqYncxVvIhorqPEJqIgU) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Propagation](https://open.spotify.com/album/7qeJVko06iC03LoVd4mFYD) | 7:07 |
 | 20 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 |
-| 21 | [Turn On The Lights again.\. \(feat\. Future\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 |
+| 21 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 |
 | 22 | [Disarm \- Recondite Remix](https://open.spotify.com/track/6n7hJ3lXbbtd4yMcGRAoDo) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Disarm \(Recondite Remix\)](https://open.spotify.com/album/65YISo8tvlUFxsym1ocwY4) | 6:06 |
 | 23 | [Eclettico](https://open.spotify.com/track/4gT1E6EjayB7grJBCk49Dn) | [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Year 000.000.001 \(Vol.IV\)](https://open.spotify.com/album/4qUsHn1OQJohSZQNC91QAI) | 6:48 |
 | 24 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 95 | [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 |
 | 96 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 |
 
-Snapshot ID: `MCxjZWUwMWJlYWJlNWE0ZGM2NjRlZWYxMDc0MGYxNDUxYzZhNzc3MzE3`
+Snapshot ID: `MCxjZTdkY2Q5N2U5M2VhNWY0YmZmZjJiZDEwNjg4ODEyNmQ0ZDhhMTRj`

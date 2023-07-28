@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,110 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,125 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 74 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 |
 | 75 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 76 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 |
-| 77 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 |
+| 77 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 |
 | 78 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 |
 | 79 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 |
 | 80 | [Venice Calle](https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM) | 3:40 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwxN2QxYjhmMDg4NjZiMDc1NWI5MjZkYjRhNGE5NTA3MDI2NWFlNDZh`
+Snapshot ID: `MCw5MThjMjk1Y2IzOWFlYTFkMTk5OGZmYjJmMGQxZjJiZTRhMTQyY2Q0`

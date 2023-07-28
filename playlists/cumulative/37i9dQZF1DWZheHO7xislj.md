@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-349 songs - 22 hr 38 min
+350 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 4:09 | 2023-01-09 |  |
 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 | 2023-06-27 |  |
 | [Crumbs Off The Table](https://open.spotify.com/track/4VjFt8o94AMF8UGP0KTMjq) | [Glass House](https://open.spotify.com/artist/4fuMi2l7TS729CITHR9Zub) | [Crumbs Off The Table](https://open.spotify.com/album/3XFYVHtA3vWhEUuqXBxuED) | 2:49 | 2023-01-09 | 2023-06-28 |
+| [Crystal Ball \(In the Cupboard\)](https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Marbles](https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE) | 3:12 | 2023-06-27 |  |
 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 | 2023-01-09 | 2023-06-28 |
 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 | 2023-06-27 |  |
 | [Don't Let Him Get the Best of You](https://open.spotify.com/track/0x9Z8I4miDuAQcKYS3LANF) | [Whirlwind](https://open.spotify.com/artist/6SLspaTtZOpWHtv7oqZsRJ) | [Roulette Disco: Original Club Classics From The Dawn Of The Disco Era](https://open.spotify.com/album/6uuNeT2pIWGWrdWP6Q8GfM) | 2:44 | 2023-01-09 | 2023-06-28 |
@@ -330,7 +331,7 @@
 | [What Does It Take](https://open.spotify.com/track/2yn8BJ5Iy6A2SzMeehFHVW) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [William Devaughn EP](https://open.spotify.com/album/65w5dNsN0Dgi2JH7iiHAjy) | 3:18 | 2023-01-09 | 2023-06-28 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2023-01-09 |  |
 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 | 2023-01-09 | 2023-06-28 |
-| [When a Man Loves a Woman](https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Atlantic Top 60: Sweat\-Soaked Soul Classics](https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA) | 2:50 | 2023-01-09 |  |
+| [When a Man Loves a Woman](https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Atlantic Top 60: Sweat\-Soaked Soul Classics](https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA) | 2:50 | 2023-01-09 | 2023-07-28 |
 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 | 2023-01-09 |  |
 | [Who Is He \(And What Is He to You\)?](https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:14 | 2023-06-27 |  |
 | [Win Or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 | 2023-01-09 | 2023-06-28 |

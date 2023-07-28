@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 257620,
+  "num_followers": 257656,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTAxNjg3Yzc4MTUwMmY0MzM0MmE5YjgyNzk4OTI5MzQ4ZGMxNzdj",
+  "snapshot_id": "MCwwZWNmOTU5YjU3Mzk4N2JhMTljNTkwN2Q4Nzg5ZDNmYjdjZDFjZGMz",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE"
     },
     {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Love Experience",
+        "url": "https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "duration_ms": 302186,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "My Way (25th Anniversary Edition)",
@@ -487,22 +503,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "The Love Experience",
-        "url": "https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        }
-      ],
-      "duration_ms": 302186,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa"
     },
     {
       "added_at": "2022-05-24 13:35:26",

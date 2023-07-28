@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Cloonee
 
-1,186 songs - 2 day 20 hr 44 min
+1,187 songs - 2 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-05 | 2022-11-29 |
 | [Boots 'N' Cats](https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc), [MVRT](https://open.spotify.com/artist/4o6dSaEQPjuz9CgVomOekK) | [Boots 'N' Cats](https://open.spotify.com/album/21ad01B7nsTGlFcWyFBAwX) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [Booty Call](https://open.spotify.com/track/5ewAgjDoLSaRIkRNKSrulv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Booty Call](https://open.spotify.com/album/5i6flFpD41g9ne7XBItO1n) | 2:40 | 2021-11-26 | 2022-01-06 |
-| [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 |  |
+| [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 | 2023-07-28 |
 | [Bounce Back \- Radio Edit](https://open.spotify.com/track/618yUf41DzP0qLVH4b76PR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bounce Back](https://open.spotify.com/album/3FVsYixksaFuLlWxRrKF9C) | 4:40 | 2021-11-26 | 2022-01-06 |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-05-13 | 2022-07-09 |
 | [Boyz N Da Club](https://open.spotify.com/track/6UnIzJce5oPkbZNLtOrQpR) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club](https://open.spotify.com/album/6KasM8IauF480u29Vmfww8) | 6:17 | 2021-11-26 | 2022-01-06 |
@@ -538,6 +538,7 @@
 | [La Candela Viva](https://open.spotify.com/track/7nXUx5OiBbR4gmKMW91Jjo) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [La Candela Viva](https://open.spotify.com/album/1QKqaGnIWDOk4w5eX0rjjE) | 3:00 | 2022-07-22 | 2022-11-12 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-03-11 | 2022-06-18 |
 | [La La La](https://open.spotify.com/track/1EmhWg1fKL7uNZNPXKPvFI) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [La La La](https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8) | 3:07 | 2022-06-24 | 2022-07-23 |
+| [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-07-21 |  |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-06-03 | 2022-09-10 |
 | [La Pinga](https://open.spotify.com/track/4mvanhAKpuoAnOu6has3uu) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [La Pinga](https://open.spotify.com/album/6SJ0S33d8shQBAHf3wHQyw) | 2:16 | 2023-06-30 |  |
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-17 | 2023-06-17 |

@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-135 songs - 12 hr 48 min
+138 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 | 2023-06-23 |  |
 | [Mhlaba Wethu \- Interlude](https://open.spotify.com/track/0QyIakBd70MWyVd1ALOEiP) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Mhlaba Wethu \(Interlude\)](https://open.spotify.com/album/0FxYNL8uDLAmctMsoGvuv1) | 0:29 | 2023-04-14 | 2023-04-28 |
 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 | 2021-07-23 |  |
+| [Most Holy One](https://open.spotify.com/track/7xtBUMRzhwvVPTx1b7cPLa) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [Most Holy One](https://open.spotify.com/album/3hIi5s4zrx24zp32aW5geU) | 5:15 | 2023-07-28 |  |
 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 | 2023-04-14 | 2023-05-12 |
 | [My Shepherd](https://open.spotify.com/track/5UTYCylVomPTnNpzdsaVBA) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [For His Glory](https://open.spotify.com/album/4bIg1qW3SmBMu59i3uQvXn) | 4:11 | 2020-03-13 |  |
 | [My Testimony](https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [I Win](https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu) | 10:25 | 2018-09-23 |  |
@@ -84,6 +85,7 @@
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 |  |
 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 | 2023-06-23 |  |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-02 |  |
+| [Not Alone](https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Not Alone](https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU) | 3:44 | 2023-07-28 |  |
 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2019-10-28 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2020-09-07 | 2023-04-14 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2020-04-21 |  |
@@ -136,6 +138,7 @@
 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 | 2020-03-31 | 2023-06-23 |
 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 | 2021-10-14 | 2023-04-14 |
 | [YHWH \(Yahweh\)](https://open.spotify.com/track/0sPPjgqVXD58wnhwQBHLsF) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [YHWH](https://open.spotify.com/album/0RnxHhEYGNqrL5fY2YyIIN) | 5:43 | 2018-09-23 |  |
+| [You Are Mine](https://open.spotify.com/track/5LbxBIt0JlbVvLKBBCQjYz) | [Garreth Trent](https://open.spotify.com/artist/4Q9NYGtXNcM9Oe3PWmmu3K) | [You Are Mine](https://open.spotify.com/album/5J3Mg2iG1KNbkOGcHbuedo) | 3:12 | 2023-07-28 |  |
 | [You Restore](https://open.spotify.com/track/6WNy8lG1fbcsqtutkQj62L) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [You Restore](https://open.spotify.com/album/4qwpP2cLhv5pkPz4MPHQUl) | 4:12 | 2021-10-14 |  |
 | [You Say](https://open.spotify.com/track/7vcpXdAmmWEhGdCzoC55Vq) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [NOW That's What I Call Music! Vol\. 68](https://open.spotify.com/album/2AuBqtSWlUAVF6YiIr3iRd) | 4:33 | 2018-09-23 | 2022-11-13 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2018-09-23 |  |

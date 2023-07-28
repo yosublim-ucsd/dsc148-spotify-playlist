@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-72 songs - 4 hr 12 min
+73 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 | 2023-04-28 |  |
 | [E Vamos À Luta](https://open.spotify.com/track/5nRbJDAiiAxP2PKA4q1OOC) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [De Volta Ao Começo](https://open.spotify.com/album/12pkA9cGBjRylnty2lkBVg) | 3:42 | 2023-04-28 |  |
 | [Elegante Amanhecer](https://open.spotify.com/track/3AKLxjuiIn7kbRNOJg5pCW) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 3:40 | 2023-04-28 |  |
+| [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 | 2023-04-28 |  |
 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2023-04-28 |  |
 | [Espiral de Ilusão](https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 | 2023-04-28 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5fIW9kqsEfbHjPEj8ualrF) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:19 | 2023-04-28 |  |
@@ -61,7 +62,7 @@
 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 | 2023-04-28 |  |
 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 | 2023-04-28 |  |
 | [Samba](https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 3:04 | 2023-04-28 |  |
-| [Samba a Dois](https://open.spotify.com/track/4wbghS9VbEweFlKsYRFucB) | [Sambô](https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ) | [Samba a Dois](https://open.spotify.com/album/1Cu3ppDrGUfRkg8kp2ySVV) | 2:36 | 2023-04-28 |  |
+| [Samba a Dois](https://open.spotify.com/track/4wbghS9VbEweFlKsYRFucB) | [Sambô](https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ) | [Samba a Dois](https://open.spotify.com/album/1Cu3ppDrGUfRkg8kp2ySVV) | 2:36 | 2023-04-28 | 2023-07-28 |
 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 | 2023-04-28 |  |
 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 | 2023-04-28 |  |
 | [Samba de um Minuto](https://open.spotify.com/track/3HLUpp7deS78Y3LE7xRbpw) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Que Belo Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/5q8JrwUqI6GcvxsDH6seKu) | 4:33 | 2023-04-28 |  |

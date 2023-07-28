@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Tiera Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,656 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,875 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Red Roses & Red Flags](https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio) | 4:24 |
 | 100 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 3:03 |
 
-Snapshot ID: `MCw4ZmZkOTFiOWZiZTlmZTljNzRhNDM1NGY1ZGY0ODI1ZWZiNzJkNjIz`
+Snapshot ID: `MCxlYjQ2YmQ0NTNlNDYxMmJlMjljY2NjOGQxYTFmYmFjYmE3MzlmZTAx`

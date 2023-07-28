@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-97 songs - 9 hr 38 min
+98 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 |  |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
-| [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 |  |
+| [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 |  |
 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/0zFdmEPDnsVO8bmLzmFdBr) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 6:43 | 2022-07-26 |  |
@@ -68,6 +68,7 @@
 | [Khuda Ke Waste Ab](https://open.spotify.com/track/7zvbCWWFsWVn3pU0LqjOF1) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 7:37 | 2021-12-01 |  |
 | [Koi Umeed](https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Koi Umeed](https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD) | 5:28 | 2023-06-30 |  |
 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 | 2021-12-01 | 2023-05-16 |
+| [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-27 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 | 2022-07-29 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 |  |
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 |  |

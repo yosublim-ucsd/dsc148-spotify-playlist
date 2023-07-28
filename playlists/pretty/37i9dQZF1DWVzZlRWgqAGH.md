@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Forest Claudette
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,241 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,388 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
 | 100 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 |
 
-Snapshot ID: `MCw4ZjY2YTYzNzBiZTI4NjM5YzIxMzQyYzUzYTBmYmZhMDZkNjE1Njli`
+Snapshot ID: `MCxiMjBiMjVkMzFiNDdkMGIzNjgyOTg0ZmU2ZDBjYWIxYzU5MTEwYzhh`

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509853,
+  "num_followers": 509839,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
+  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -213,20 +213,24 @@
       "url": "https://open.spotify.com/track/7j1XQuI82j3ui6ERkKgwdI"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Just Me This Year",
-        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -277,24 +281,20 @@
       "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Home For The Holidays",
-      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Breaking It Up!",
         "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
       "artists": [
         {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
+      "duration_ms": 214786,
+      "name": "Home For The Holidays",
+      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -635,6 +619,22 @@
       "duration_ms": 200516,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -723,22 +723,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Christmas In New Orleans",
-      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -763,18 +759,42 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN"
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
       "artists": [
         {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG"
+      "duration_ms": 174893,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "Little Jack Frost Get Lost",
+      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -807,26 +827,6 @@
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Little Jack Frost Get Lost",
-      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
     },
     {
       "added_at": "2021-11-12 15:48:58",

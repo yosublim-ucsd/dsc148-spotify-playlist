@@ -4,7 +4,7 @@
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-70 songs - 5 hr 2 min
+71 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Hasili Fisiliye](https://open.spotify.com/track/6vztfVJ1lTWe23YMNv6Pk1) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Dr\. Burn](https://open.spotify.com/artist/7Krjf68s0i3nSQe52tCEHP), [Maya](https://open.spotify.com/artist/67Cgd97tzyjjXKnSlrYuuX) | [Aadhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WlMOPi9Fg9Ang0AzFZdJu) | 5:18 | 2022-05-10 |  |
 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 | 2022-05-10 |  |
 | [Hosanna](https://open.spotify.com/track/3l7JaDIJmWMpvcJqhTJjrk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Vinnathaandi Varuvaayaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VAR4nGvZh6KW3PLioooYM) | 5:30 | 2022-05-10 |  |
-| [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 | 2022-05-10 |  |
+| [Im so cool](https://open.spotify.com/track/28wDqq0vY7vMpYWOzXUrn5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KGAGGVgUYDjkwydIXOjEY) | 3:49 | 2022-05-10 |  |
+| [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 | 2022-05-10 | 2023-07-28 |
 | [Irukkana Idupu Irukkana](https://open.spotify.com/track/2wrsh2YjmKeMMewGjUetPs) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 5:10 | 2022-05-10 | 2023-05-03 |
 | [Jessica](https://open.spotify.com/track/1BQGKaUYFQzD0Dsy0FfoeD) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Prince \(Tamil\)](https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp) | 4:19 | 2022-11-17 |  |
 | [Jigidi Killaadi](https://open.spotify.com/track/6t7oTudS2q6OFVhCXHaL4x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Pattas](https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH) | 3:38 | 2022-05-10 |  |

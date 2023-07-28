@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Lele Blade in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Yung Snapp in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -446,6 +446,36 @@
       "duration_ms": 138000,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
+    },
+    {
+      "album": {
+        "name": "C VUO",
+        "url": "https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "Paulbeatzz",
+          "url": "https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162611,
+      "name": "C VUO",
+      "url": "https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1"
     },
     {
       "album": {
@@ -1927,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Ma Xk\u00e8 A Me?",
+        "url": "https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Ma Xk\u00e8 A Me?",
+      "url": "https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2"
+    },
+    {
+      "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
       },
@@ -2916,6 +2964,32 @@
       "duration_ms": 189620,
       "name": "OMBRELLO",
       "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
+    },
+    {
+      "album": {
+        "name": "Ora Posso (feat. O'Tsunami)",
+        "url": "https://open.spotify.com/album/5I6fGSoJiSMzYWsdRtAxp6"
+      },
+      "artists": [
+        {
+          "name": "ARNONE",
+          "url": "https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149965,
+      "name": "Ora Posso (feat. O'Tsunami)",
+      "url": "https://open.spotify.com/track/1xYqGA3Bg33YFMPNhrfQBE"
     },
     {
       "album": {
@@ -4324,6 +4398,28 @@
       "duration_ms": 199396,
       "name": "TU",
       "url": "https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg"
+    },
+    {
+      "album": {
+        "name": "Tu No",
+        "url": "https://open.spotify.com/album/1dU0OJ5KopEMx9dBx1VMvm"
+      },
+      "artists": [
+        {
+          "name": "Fiore",
+          "url": "https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tu No",
+      "url": "https://open.spotify.com/track/0rlRU7hLJNjzI7nCSj9eIP"
     },
     {
       "album": {

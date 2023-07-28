@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Nortec: Bostich + Fussible en portada.",
-  "num_followers": 54744,
+  "num_followers": 54748,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGI2ZDMxODlmM2ZmYWE2NjYzODQ3NWViNDRmNDRjY2Q5YjNlOTc5",
+  "snapshot_id": "MCxlN2JiNWU5M2FhMjlkMmY5MTcxYWVjZmY4YjdhOWM4NTFjODEyMmQ3",
   "tracks": [
     {
       "added_at": "2023-07-04 19:38:02",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 265153,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Density",
-        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
-      },
-      "artists": [
-        {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
-        },
-        {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Density",
-      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Density",
+        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
+      },
+      "artists": [
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Density",
+      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "Agua Pa Beber",
         "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Switch It - Tom & Collins Remix",
+        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 194163,
+      "name": "Switch It - Tom & Collins Remix",
+      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 129399,
       "name": "\u00bfDe Qu\u00e9n Chon? - Remix",
       "url": "https://open.spotify.com/track/7BL2mp6t6a1IlwpvJubRua"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Switch It - Tom & Collins Remix",
-        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 194163,
-      "name": "Switch It - Tom & Collins Remix",
-      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1343,26 +1343,18 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Plastic Skin",
-          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1387,22 +1379,6 @@
       "duration_ms": 204000,
       "name": "Scare",
       "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1451,6 +1427,30 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Plastic Skin",
+          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "DiabloTeam (The Night After)",
         "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
       },
@@ -1483,6 +1483,26 @@
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1571,26 +1591,6 @@
       "duration_ms": 162482,
       "name": "Take It",
       "url": "https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-07-04 19:38:02",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 80145,
+  "num_followers": 80180,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDcwMzk2MDkxMTgyZGIzMDE0OTkxNjFmNTBiYTUwOTZkZTc3NjVj",
+  "snapshot_id": "MCxkYWQ5N2MwZjBjMDA2ZmM5NmU2MGFjZThlNDMxMWQwY2NjYzk4OGJm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Shall We Dance: They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -484,33 +484,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
-      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
-        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
-      },
-      "artists": [
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        },
-        {
-          "name": "Juray Bartos",
-          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 336000,
+      "name": "Shall We Dance: They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -535,6 +511,30 @@
       "duration_ms": 510600,
       "name": "A Damsel In Distress: A Foggy Day",
       "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1079,34 +1079,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Steven Browen",
-          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 412906,
-      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
-      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Kiri sings Gershwin",
         "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
       },
@@ -1135,6 +1107,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Steven Browen",
+          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 412906,
+      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1159,34 +1159,6 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
-      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1243,6 +1215,34 @@
       "duration_ms": 498373,
       "name": "Let 'Em Eat Cake: Overture",
       "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

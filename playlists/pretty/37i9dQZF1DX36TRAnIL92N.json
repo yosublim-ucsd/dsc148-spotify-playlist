@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 184957,
+  "num_followers": 185581,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
+  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 184888,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        }
-      ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 509090,
       "name": "Future Dust - Original Mix",
       "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "The Seduction EP",
         "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Never Forget",
-        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
-      },
-      "artists": [
-        {
-          "name": "Deniz Bul",
-          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
-        }
-      ],
-      "duration_ms": 183649,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Hercules",
         "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "duration_ms": 183649,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
       },
       "artists": [
         {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
         }
       ],
-      "duration_ms": 369880,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     }
   ],
   "unique_name": "Techno Workout",

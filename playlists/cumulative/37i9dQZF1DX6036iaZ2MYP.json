@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Franglish",
+  "description": "Tracks popping off in the Afro scene. Cover: Ruger",
   "name": "Peppeh",
   "tracks": [
     {
@@ -496,6 +496,24 @@
       "duration_ms": 200000,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp"
+    },
+    {
+      "album": {
+        "name": "Belle Carte",
+        "url": "https://open.spotify.com/album/3Yin1NWzb34xLjIh0bN3cJ"
+      },
+      "artists": [
+        {
+          "name": "CDG",
+          "url": "https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "Belle Carte",
+      "url": "https://open.spotify.com/track/2gKsBw5M0U3HXF0fUPo2Lt"
     },
     {
       "album": {
@@ -1533,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "INDIALOVE",
+        "url": "https://open.spotify.com/album/3CS7XsLuQIkvhf3qkeniwG"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ"
+        },
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "INDIALOVE",
+      "url": "https://open.spotify.com/track/2NvCsd3AzR1SGlc4kKQ4k4"
+    },
+    {
+      "album": {
         "name": "Ind\u00e9cis",
         "url": "https://open.spotify.com/album/7FM8BBRn9LhLW8AFMp61Dd"
       },
@@ -1707,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Kristy",
+        "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260058,
+      "name": "Kristy",
+      "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -1744,7 +1802,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 147096,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/6QK5T6PdSWTTD9P1fJqfNY"
@@ -2124,7 +2182,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168247,
       "name": "Mami",
       "url": "https://open.spotify.com/track/11RPt1QS4PEK76cgy0s4cl"
@@ -2274,6 +2332,24 @@
       "duration_ms": 191505,
       "name": "Money & Love",
       "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
+    },
+    {
+      "album": {
+        "name": "More Vibes More Money",
+        "url": "https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188175,
+      "name": "More Vibes More Money",
+      "url": "https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0"
     },
     {
       "album": {
@@ -2756,7 +2832,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
@@ -3014,7 +3090,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 174642,
       "name": "Sans Stress",
       "url": "https://open.spotify.com/track/7ga33J7CahxCFgwl1SgRE7"
@@ -3058,6 +3134,28 @@
       "duration_ms": 188717,
       "name": "Searching for chop",
       "url": "https://open.spotify.com/track/3oCoAHSyIv35b05q9UCHdV"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/436zW2YNa5hDrrtOSJwyJt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221502,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
     },
     {
       "album": {
@@ -3280,7 +3378,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 193200,
       "name": "Strings Attached",
       "url": "https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s"
@@ -3526,7 +3624,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 165600,
       "name": "Till The Morning",
       "url": "https://open.spotify.com/track/2TJ9teswbAP3c1nnZjQhHY"
@@ -3750,6 +3848,24 @@
       "duration_ms": 159344,
       "name": "Wat Het Is",
       "url": "https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

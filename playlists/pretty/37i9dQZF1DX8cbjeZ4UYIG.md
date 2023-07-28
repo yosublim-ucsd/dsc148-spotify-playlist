@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,646 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,839 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 45 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 | 46 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
 | 47 | [No Good \(Start the Dance\)](https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:19 |
-| 48 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
-| 49 | [Breaking Free](https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [We Love Drum & Bass](https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp) | 5:42 |
-| 50 | [Pulp Fiction](https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Welcome To The Jungle, Vol\. 7: Jungle + Drum and Bass Soundclash](https://open.spotify.com/album/1HBvtRVu59WAbKus2WdDH0) | 6:10 |
+| 48 | [Dub War \- Chapter One](https://open.spotify.com/track/2rtwjd4U6T0lYiW9Snq324) | [Dance Conspiracy](https://open.spotify.com/artist/1Nk5VWJj0BIUvH89rzG9U1) | [Dub War](https://open.spotify.com/album/4w9IkRbFtVwwra4IhjXqj4) | 7:43 |
+| 49 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
+| 50 | [Breaking Free](https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [We Love Drum & Bass](https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp) | 5:42 |
 
-Snapshot ID: `MCxjMzFkY2QyZDFlMjNmZTNhMTkwNWY5YzBhN2JhYjZjZDY5OTkxMjgz`
+Snapshot ID: `MCw4MGQwMTIwMjQ2MjFmZTJkZTY5NTJlZWE2ZTU5NDc0OTM0ZjI0ZGJi`

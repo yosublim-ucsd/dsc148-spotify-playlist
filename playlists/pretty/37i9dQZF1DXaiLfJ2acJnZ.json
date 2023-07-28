@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 40040,
+  "num_followers": 40052,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI0ZWZkMTk3NTAxNWMzOWNhODcxMGE2OTg4OGRiZjMyZjkxYzhl",
+  "snapshot_id": "MCxkM2ZjZWMxOWZiOTJlYWM0OWQzOTNmZTE1YzQ1N2U3OTFkYzZlZWEw",
   "tracks": [
     {
       "added_at": "2023-07-21 16:04:40",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "AOK",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Blood Orange",
-        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "favourite girl",
         "url": "https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 154560,
       "name": "favourite girl",
       "url": "https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 155970,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 191739,
       "name": "1,000,000 X Better",
       "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 155970,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Forgiving Myself",
-        "url": "https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 175784,
-      "name": "Forgiving Myself",
-      "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "Daisy Chain",
         "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Forgiving Myself",
+        "url": "https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 175784,
+      "name": "Forgiving Myself",
+      "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "if you called me today, i would come back tomorrow",
-        "url": "https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi"
+        "name": "A Little Lost, A Little Found",
+        "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
       },
       "artists": [
         {
-          "name": "\u00c1ine Deane",
-          "url": "https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU"
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
         }
       ],
-      "duration_ms": 242229,
-      "name": "if you called me today, i would come back tomorrow",
-      "url": "https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW"
+      "duration_ms": 182600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
+        "name": "if you called me today, i would come back tomorrow",
+        "url": "https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ine Deane",
+          "url": "https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU"
+        }
+      ],
+      "duration_ms": 242229,
+      "name": "if you called me today, i would come back tomorrow",
+      "url": "https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/5t5kFdsaVmAoDsM8fOFqmQ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 165423,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/5oNHxV8Ls8wlnQbi5BGOk0"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     }
   ],
   "unique_name": "Wholesome",

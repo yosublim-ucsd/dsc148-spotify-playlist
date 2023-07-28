@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-820 songs - 2 day 3 hr 54 min
+822 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Awake](https://open.spotify.com/track/4Ct1sAdB2kL7LuxpCjJzZf) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/6fdrR5Cxdp0zbhLEs4HYYB) | 5:25 | 2022-07-12 | 2022-07-29 |
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 | 2022-07-08 |
 | [AYAKASHI](https://open.spotify.com/track/40D40mGv2lXuzfYQZ31Sbi) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [AYAKASHI](https://open.spotify.com/album/497ObhZCX5eRkc0oWFGDhY) | 3:56 | 2023-07-04 | 2023-07-26 |
-| [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 | 2023-07-11 |  |
+| [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 | 2023-07-11 | 2023-07-28 |
 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 | 2022-12-06 | 2023-01-13 |
 | [Beautiful Reasoning](https://open.spotify.com/track/6RIbjsbLuqrPAMW0KpcaiQ) | [美少年探偵団](https://open.spotify.com/artist/47jSkvNBCRFipyesRCoq8L) | [Beautiful Reasoning / Welcoming Days](https://open.spotify.com/album/3q3Qf7oNd47DN61ra8rmSJ) | 4:14 | 2022-07-07 | 2022-08-03 |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-05-28 | 2022-07-06 |
@@ -347,7 +347,7 @@
 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 | 2023-01-10 | 2023-03-29 |
 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 | 2023-01-10 | 2023-01-12 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 |  |
-| [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 |  |
+| [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 | 2023-07-28 |
 | [reincarnation](https://open.spotify.com/track/4zbGE9791M4dGXKqpsVlpk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [reincarnation](https://open.spotify.com/album/4HRssLJyLPJhObHwlKoZRR) | 3:27 | 2022-05-28 | 2022-06-03 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-15 | 2023-01-04 |
 | [Repentance Dance](https://open.spotify.com/track/5TUySz7XXn7HBHEBTXosrc) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Repentance Dance](https://open.spotify.com/album/2dfI5u1NJbUVPb6GEpOTxf) | 2:55 | 2023-07-04 |  |
@@ -359,6 +359,7 @@
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-28 | 2022-07-27 |
 | [Runaway World](https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Runaway World \(TVアニメ「逃走中」オープニング・テーマ\)](https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T) | 4:06 | 2023-05-30 | 2023-07-12 |
+| [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 |  |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 | 2023-02-14 | 2023-03-08 |
 | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/track/7v0MgRpifpHrQXvR5vdJlX) | [三森すずこ](https://open.spotify.com/artist/4qpFBSWs6WGn1o5lyWgqdX) | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/album/0do7Fq6G1u8xZvtQYwLU3U) | 5:12 | 2023-02-14 | 2023-02-16 |
@@ -402,6 +403,7 @@
 | [STRAWBERRY](https://open.spotify.com/track/6VrK9Mho3EuUQ8jnNxkTms) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAWBERRY](https://open.spotify.com/album/6geWMGwDavF6Tutv79sKWS) | 3:44 | 2022-10-04 | 2022-12-02 |
 | [STRIX](https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:24 | 2022-06-25 | 2022-07-27 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-17 | 2023-01-13 |
+| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 |  |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 | 2022-08-17 |
 | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/track/7tFZu3Lr43csLBWNooNSd2) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0), [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/album/4DLui1rvYIcnE5cu3YbU6Q) | 3:49 | 2022-09-27 | 2022-11-03 |

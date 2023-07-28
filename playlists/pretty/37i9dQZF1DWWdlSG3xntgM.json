@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35118,
+  "num_followers": 35142,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2ZhNDc2MjY5OGNmODlmNzhmNmVjYTBlMGIyZWY2NTllYzU1OGY3",
+  "snapshot_id": "MCw1YWRjZjhmMDhlMTdhMGU1ZGQwMjg3NmU1MTk5YzBlNmQwNTk4Y2Zm",
   "tracks": [
     {
       "added_at": "2023-05-24 10:14:28",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
+        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
+        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Thanh Xu\u00e2n",
+          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Qua c\u01a1n m\u00ea",
+      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
+    },
+    {
+      "added_at": "2023-05-24 10:14:28",
+      "album": {
         "name": "Best of Tr\u01b0\u1eddng V\u0169",
         "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 356240,
       "name": "Lk Ngh\u00e8o",
       "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
-    },
-    {
-      "added_at": "2023-05-24 10:14:28",
-      "album": {
-        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
-        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
-      },
-      "artists": [
-        {
-          "name": "H\u00e0 Thanh Xu\u00e2n",
-          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Qua c\u01a1n m\u00ea",
-      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
     },
     {
       "added_at": "2023-05-24 10:14:28",

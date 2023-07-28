@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 161860,
       "name": "4 Minuten",
       "url": "https://open.spotify.com/track/4VTGQ7HOUbxICMLBnSI4bw"
@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Alles Neu",
+        "url": "https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Alles Neu",
+      "url": "https://open.spotify.com/track/1s3BpG01PThikupXaSwn9a"
+    },
+    {
+      "album": {
         "name": "Alles Nur Gelogen",
         "url": "https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 168120,
       "name": "Alles Nur Gelogen",
       "url": "https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 136760,
       "name": "Autohaus (feat. Dilla)",
       "url": "https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 224280,
       "name": "Das Ende",
       "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
@@ -4147,7 +4165,7 @@
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145428,
+      "duration_ms": 136880,
       "name": "rosa rugosa",
       "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
     },
@@ -4262,6 +4280,24 @@
       "duration_ms": 197694,
       "name": "Sch**\u00df Stadt",
       "url": "https://open.spotify.com/track/6SmPXc1DxYdjcSWJQ5Exmx"
+    },
+    {
+      "album": {
+        "name": "Schrei Es Raus",
+        "url": "https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153197,
+      "name": "Schrei Es Raus",
+      "url": "https://open.spotify.com/track/0RV3WPpJxwxce4X5cN11V2"
     },
     {
       "album": {
@@ -4627,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158441,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2"
+    },
+    {
+      "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/38BjctnUG9JnykZ2M1gWO5"
       },
@@ -4740,7 +4794,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 149266,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
@@ -4944,7 +4998,7 @@
           "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
         },
         {
-          "name": "JBS BEATS",
+          "name": "JBS",
           "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
         }
       ],
@@ -5261,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Eine kleine EP about k\u00e4lte and the heat",
+        "url": "https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup"
+      },
+      "artists": [
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190492,
+      "name": "Warum so kalt",
+      "url": "https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p"
+    },
+    {
+      "album": {
         "name": "Was ich will",
         "url": "https://open.spotify.com/album/0Hy10iQNqlseGiXEpgEa5b"
       },
@@ -5496,6 +5568,24 @@
       "duration_ms": 203453,
       "name": "Wenn ich du w\u00e4r",
       "url": "https://open.spotify.com/track/68GVmWjf1rNBtsdeJopEHd"
+    },
+    {
+      "album": {
+        "name": "Wenn Ich Reich Bin (Geht's Mir Gut)",
+        "url": "https://open.spotify.com/album/4WIeplY4ykhdVxaop2yhK9"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Wenn Ich Reich Bin (Geht's Mir Gut)",
+      "url": "https://open.spotify.com/track/6rCAwYurRkhImBk39Gzsmi"
     },
     {
       "album": {

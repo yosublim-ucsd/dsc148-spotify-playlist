@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 120400,
+  "num_followers": 120441,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh",
+  "snapshot_id": "MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+      "duration_ms": 238666,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
       "artists": [
         {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Kingdom Come",
-      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 439714,
+      "name": "Just Want You - Live",
+      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         },
         {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 439714,
-      "name": "Just Want You - Live",
-      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -631,18 +631,50 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 197675,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -667,70 +699,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 197675,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -751,6 +731,26 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Crown (Deluxe)",
         "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197000,
       "name": "Turn This Ship Around - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
       "artists": [
         {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+      "duration_ms": 184264,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 184264,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 204555,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Listen More",
         "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 182857,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "You Tell Me",
         "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 159000,
       "name": "Higher Than Mine (Remix)",
       "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     }
   ],
   "unique_name": "Hits UP",

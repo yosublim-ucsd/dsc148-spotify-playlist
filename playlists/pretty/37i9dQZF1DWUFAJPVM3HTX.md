@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,827 likes - 447 songs - 22 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,977 likes - 447 songs - 22 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 63 | [GET DOWN](https://open.spotify.com/track/2GUK6RW6ZJBLSznO8WQOs5) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Cherese Bereal](https://open.spotify.com/artist/5caHphpLUK8Sj6QshWEDG6) | [GET DOWN](https://open.spotify.com/album/0z9MZfYRVtjl6ElMPye0jJ) | 4:00 |
 | 64 | [Wasteman](https://open.spotify.com/track/1E6L7ywc4ksghHvgTQhjOo) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Wasteman](https://open.spotify.com/album/5m3fxmV9RV0lKEYEqYjLB4) | 4:33 |
 | 65 | [Belong](https://open.spotify.com/track/09szFMBFEGHuwceK7beqZ5) | [Temani Hill](https://open.spotify.com/artist/6Tv9s0effx41LXgSPL39Ab) | [Belong](https://open.spotify.com/album/3yxbZmp1gnoHAwSBpYfBlU) | 2:53 |
-| 66 | [Fair Game](https://open.spotify.com/track/1bkodVKH7ElMJaBzYskJVh) | [Rapta](https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9) | [Sweet Nothings \(Family Size\)](https://open.spotify.com/album/2IkQ6Yvhe05az5u1hHYEwX) | 3:09 |
+| 66 | [Fair Game](https://open.spotify.com/track/1jkT4CRgTwGUkusseQvl62) | [Rapta](https://open.spotify.com/artist/5pZfgoEH06FQtcGpiTWMq9) | [Sweet Nothings \(Family Size\)](https://open.spotify.com/album/433zRT8LszdxyQBhFb0gVC) | 2:49 |
 | 67 | [Best of Me](https://open.spotify.com/track/5dCFetAA5DRBmF21tpkpYE) | [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Best of Me](https://open.spotify.com/album/7B3AAheoJegQtBWR7zgMym) | 2:37 |
 | 68 | [Privacy](https://open.spotify.com/track/1h2hadoqIcS7gVoMDTTIXe) | [Zaniah](https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH) | [Privacy](https://open.spotify.com/album/2CdnfraiGS5C1ivXx14KlH) | 2:59 |
 | 69 | [Diva \- Sped Up](https://open.spotify.com/track/229Zmpnb9hvSQG705iaT8u) | [CD Rose](https://open.spotify.com/artist/3jhXQ1HoAnvxUhUrRGleJx) | [Diva \- Sped Up](https://open.spotify.com/album/4YGDcULUrtdSHJZAkeEhe1) | 2:10 |
@@ -456,4 +456,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 446 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 447 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCw3MWU5ZTVhNjhiYjRmZmE5YjYzNjk0NGMzY2Q2ZjJkNGQ4Njg1MTJj`
+Snapshot ID: `MCxhOTRmZmJjNzdmM2YwODc3ZTQ5MmJjMGUwNmU1YmJhOWY5YzI0ZDc4`

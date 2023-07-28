@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,920 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,109 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 7 | [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
 | 8 | [Comandos del M.P \- 500 Balazos](https://open.spotify.com/track/6GPqSFTCbiSwKTzzPkYWPy) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Comandos del M.P \(500 Balazos\)](https://open.spotify.com/album/4OCYNKnPrGzTdO66QQkKKp) | 2:34 |
 | 9 | [Así es Mi Cartel](https://open.spotify.com/track/3KpqNzebxPqY1YHQaGg9SN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Así es Mi Cartel](https://open.spotify.com/album/0LHwdWd68tpucRwMT2C27a) | 2:50 |
-| 10 | [Asociacion Antrax](https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [El Abogado Del Diablo](https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3) | 3:32 |
+| 10 | [Asociacion Antrax](https://open.spotify.com/track/7DUmB7PmTyuEGUKZZb4eTo) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [La Cheyenne Sin Placas](https://open.spotify.com/album/1leTiFBaqtwrnUnJuaSjeF) | 3:32 |
 | 11 | [El Baleado](https://open.spotify.com/track/1OgvkOPty7une97pgsH1Dh) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [16 Narco Corridos](https://open.spotify.com/album/1I1rJdESjMaJgB2T1WD9a2) | 4:07 |
 | 12 | [El Americano](https://open.spotify.com/track/6mJogAj8P9NWNI145xHOEt) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [La Nueva Cara de Tijuana](https://open.spotify.com/album/7pxyaiajcjF6sFUDpNE68i) | 3:48 |
 | 13 | [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 21 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 |
 | 22 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 |
 | 23 | [Locos Desde Ayer](https://open.spotify.com/track/5kOerWLruDrwe8zA9HPglH) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [Locos Desde Ayer](https://open.spotify.com/album/1CAbmBdilHOVUGGiDjpCxp) | 2:43 |
-| 24 | [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 |
+| 24 | [Estrategia De Escape](https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 2:25 |
 | 25 | [En La Sierra Y En La Ciudad "La China"](https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Otro Golpe](https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU) | 3:43 |
 | 26 | [El Mochomo](https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:32 |
 | 27 | [Mi Amigo el de Arriba](https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [25 de Diciembre](https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:03 |
 | 75 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 
-Snapshot ID: `MCwwMjAzNDI5OWIwODQ0Y2MyMGY2OTliNTY5MmY1OWJhYTFjMjY3Mjc2`
+Snapshot ID: `MCwyN2JlOWNlZjFkNjFhYzY3OTA1ODkzNjAxYTAwYzBmNjdmZTdmZGUw`

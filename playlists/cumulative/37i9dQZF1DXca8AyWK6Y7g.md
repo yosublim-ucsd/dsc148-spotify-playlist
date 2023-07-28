@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Reneé Rapp
 
-1,732 songs - 3 day 15 hr 58 min
+1,733 songs - 3 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,7 +1333,7 @@
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-10 | 2023-02-11 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-05-27 | 2022-06-07 |
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-09-23 | 2022-10-09 |
-| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 |  |
+| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 | 2023-07-28 |
 | [Should I Call U Baby](https://open.spotify.com/track/0Jv6znEgiRN0QpJXQ9aaWA) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Should I Call U Baby](https://open.spotify.com/album/0GslCQGbomtTLgqyjUug3C) | 3:59 | 2021-10-25 | 2022-01-29 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-05-26\* | 2019-06-15 |
 | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/track/3re97KCFI7Lt6pRfxdC8KL) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/album/1L30zgJR7KKILbL3p3Z5wH) | 3:25 | 2019-05-26\* | 2019-06-15 |
@@ -1439,6 +1439,7 @@
 | [Strawberry Kisses](https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Strawberry Kisses](https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH) | 3:01 | 2021-11-05 | 2022-01-08 |
 | [Stray Nights](https://open.spotify.com/track/0oE1bkIrcep7JnLLdxSsMw) | [Stephen](https://open.spotify.com/artist/64N1HzkQEXvjlJBQinWeu2) | [Stray Nights](https://open.spotify.com/album/3EuwYRlsuYBH6YiTwCOuWq) | 2:46 | 2020-06-29 | 2021-05-26 |
 | [Stressed](https://open.spotify.com/track/6gkLMdBrRqpJLumSzVfuGi) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Stressed](https://open.spotify.com/album/6yGMBfy8KCvCdRSA314igW) | 1:37 | 2021-02-23 | 2021-10-11 |
+| [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-21 |  |
 | [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-08-19 | 2023-03-25 |
 | [Stuck Here Without You](https://open.spotify.com/track/2KmjwOAUJUs7UG1Z1zzoOy) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Stuck Here Without You](https://open.spotify.com/album/1oXM6adtUwiPaKbvHmgqZ2) | 2:07 | 2021-02-28 | 2021-11-10 |
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-06-24 | 2021-11-10 |

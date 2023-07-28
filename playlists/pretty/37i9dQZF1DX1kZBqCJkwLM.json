@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 80295,
+  "num_followers": 80326,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDA5ZjM2M2NmYTVkM2JhMDgyZjBiNjM0ZmRmNTI2MjZhYjZkNmRl",
+  "snapshot_id": "MCwyN2IzZjZhODIyYmM5YjM0MTlhNmQ4MGQ4MDBiYzRiOGZiMWQwZjA0",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "Working for the Knife",
+      "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "Working for the Knife",
-      "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ"
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
         }
       ],
-      "duration_ms": 256001,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0"
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 107369,
       "name": "i'll never fall in love with myself - demo",
       "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 256001,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+        "name": "Better Than the Boys",
+        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
         }
       ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+      "duration_ms": 154884,
+      "name": "Better Than the Boys",
+      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Headaches",
         "url": "https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 311536,
       "name": "Headaches",
       "url": "https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Better Than the Boys",
-        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 154884,
-      "name": "Better Than the Boys",
-      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -759,22 +759,6 @@
       "duration_ms": 164605,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 146727,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
     },
     {
       "added_at": "2023-07-14 04:00:00",

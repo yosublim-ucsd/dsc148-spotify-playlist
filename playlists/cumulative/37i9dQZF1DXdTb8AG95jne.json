@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Ahn Heesu(\uc548\ud76c\uc218)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 215000,
       "name": "I'll Eat Up Your Darkness",
       "url": "https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF"
@@ -7961,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "Silk Shirts",
+        "url": "https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st"
+      },
+      "artists": [
+        {
+          "name": "\uc704\ub304\uc2a4 Wedance",
+          "url": "https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294705,
+      "name": "Silk Shirts",
+      "url": "https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT"
+    },
+    {
+      "album": {
         "name": "Silly Boy",
         "url": "https://open.spotify.com/album/61Xu0EnlQY6j9iotMwR2e7"
       },
@@ -8738,7 +8756,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 324640,
       "name": "SUM",
       "url": "https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU"
@@ -9186,6 +9204,24 @@
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "album": {
+        "name": "the Painting",
+        "url": "https://open.spotify.com/album/4b87697uicb9g73Uj3EetA"
+      },
+      "artists": [
+        {
+          "name": "MOONY",
+          "url": "https://open.spotify.com/artist/16nJwC4ekeR5mRqLrHYayv"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "the Painting",
+      "url": "https://open.spotify.com/track/3ZScgtW6j4p2XI0RgfIaBk"
     },
     {
       "album": {

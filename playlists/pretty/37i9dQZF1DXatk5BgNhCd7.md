@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Grupo Frontera & KePersonajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,680 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,757 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 33 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 34 | [Me Acordé de Ti](https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Me Acordé de Ti](https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi) | 2:54 |
 | 35 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
-| 36 | [MAMI](https://open.spotify.com/track/3HzmG1oNNDtvu6FjO9p7jl) | [Maria Lamuela](https://open.spotify.com/artist/5ZtM50D87vtVxM6FoYav09), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [MAMI](https://open.spotify.com/album/3EQm0nM3b4lcLDUjzNLCaj) | 2:40 |
+| 36 | [MAMI MAMI](https://open.spotify.com/track/3HzmG1oNNDtvu6FjO9p7jl) | [Maria Lamuela](https://open.spotify.com/artist/5ZtM50D87vtVxM6FoYav09), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [MAMI MAMI](https://open.spotify.com/album/3EQm0nM3b4lcLDUjzNLCaj) | 2:40 |
 | 37 | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/track/6QuN3DFuPuDwgVtU1WtRUB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/album/1llNvkYgRo3WxyH3G7n06M) | 3:44 |
 | 38 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
 | 39 | [El Merengue \- Bachata Version](https://open.spotify.com/track/51eutINA7q6oJPlyXaedq2) | [DJ Tronky](https://open.spotify.com/artist/5G3p1Ju6ZzScqAropTMkJG), [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [El Merengue \(Bachata Version\)](https://open.spotify.com/album/69NQhUo4dWZLhgrMND2rl5) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Quiéreme](https://open.spotify.com/track/7KtpVpoOsyOZ0l1OtvlnPi) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Quiéreme](https://open.spotify.com/album/5kCvgrQyPDTFo2twOMwP63) | 2:28 |
 | 50 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 |
 
-Snapshot ID: `MCw5YjllOGNlM2NhYmQ4M2QzNTk5Y2VlYzFiYjAzYTg2N2ZkZjgxM2Rm`
+Snapshot ID: `MCw2MWMxNTIwYTA2YWMxYTg3MjkyZDIyNzQ5ZTljYzRhMTUwNDhhMGI2`

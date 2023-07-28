@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 303322,
+  "num_followers": 303576,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi",
+  "snapshot_id": "MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 208801,
+      "name": "Thank God For Sunday Morning",
+      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Milk & Honey",
         "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 208801,
-      "name": "Thank God For Sunday Morning",
-      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Joy In The Morning",
         "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 216286,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 168011,
+      "name": "PRAISES",
+      "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -263,22 +279,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "My Jesus",
-        "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sunday Sermons",
-      "url": "https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "What Are We Waiting For?",
         "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
       },
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+        "name": "My Jesus",
+        "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
         }
       ],
-      "duration_ms": 168011,
-      "name": "PRAISES",
-      "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
+      "duration_ms": 200440,
+      "name": "Sunday Sermons",
+      "url": "https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Jesus Changed My Life",
         "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 208680,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat",
-      "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 213967,
-      "name": "Ain't Nobody - Radio Version",
-      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Sound Mind (Studio Version)",
         "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 222655,
       "name": "Sound Mind - Studio Version",
       "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Grace In The Wilderness",
-        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 166788,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166988,
       "name": "Things That I'm Afraid Of",
       "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Grace In The Wilderness",
+        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 121459,
+      "name": "Goodbye Ole Me",
+      "url": "https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 121459,
-      "name": "Goodbye Ole Me",
-      "url": "https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Me on Your Mind",
-        "url": "https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 239431,
-      "name": "Me on Your Mind",
-      "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Holy Spirit Come",
         "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 188499,
       "name": "Fight On My Knees",
       "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Me on Your Mind",
+        "url": "https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 239431,
+      "name": "Me on Your Mind",
+      "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "For All My Life",
-        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Always Only Jesus",
         "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+        "name": "For All My Life",
+        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1103,6 +1087,22 @@
       "duration_ms": 235640,
       "name": "If The Lord Builds The House",
       "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I Will Carry You (Radio Version)",
-        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
+        "name": "My Light (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
       },
       "artists": [
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 198906,
-      "name": "I Will Carry You - Radio Version",
-      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
+      "duration_ms": 147390,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1275,6 +1275,22 @@
       "duration_ms": 348141,
       "name": "Friend In Jesus - Live",
       "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "I Will Carry You (Radio Version)",
+        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "I Will Carry You - Radio Version",
+      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "My Light (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "You've Already Won (Radio Version)",
-        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 262540,
-      "name": "You've Already Won - Radio Version",
-      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Phenomena (DA DA) [Remixes]",
         "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "New Creation (Deluxe)",
-        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        }
-      ],
-      "duration_ms": 176099,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Morning By Morning (I Will Trust)",
         "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "New Creation (Deluxe)",
+        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "duration_ms": 176099,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Work, Vol. 2",
-        "url": "https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK"
+        "name": "Family Is Family",
+        "url": "https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx"
       },
       "artists": [
         {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
         }
       ],
-      "duration_ms": 254706,
-      "name": "We're Here Because You're Here",
-      "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"
+      "duration_ms": 173889,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4"
     }
   ],
   "unique_name": "Top Christian Contemporary",

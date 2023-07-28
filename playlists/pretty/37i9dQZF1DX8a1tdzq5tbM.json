@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1384243,
+  "num_followers": 1384804,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjgzMjhmNDc3ODI5Nzk3OWE2OTU4OTlhODkyNTFkMGY4MTQxZTM2",
+  "snapshot_id": "MCxhMmNiYWQzOTJiNzBmYThiNTYyZmEwODcyN2E4OGYwNjIzMjk2ZGY2",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 219618,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
-      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 219618,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "ResuRection",
-        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        },
-        {
-          "name": "Paul Mark Oakenfold",
-          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
-      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "ResuRection",
+        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Mark Oakenfold",
+          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/52pr0DgomyQ2fakaGJZDN5"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 178494,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1QfJwbwcWUHheqVo3yRfpd"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Empty Streets (Remixes)",
         "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 501213,
       "name": "Empty Streets - Haji & Emanuel Remix",
       "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/52pr0DgomyQ2fakaGJZDN5"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 178494,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1QfJwbwcWUHheqVo3yRfpd"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Vocal Trance Hits - The Anthems",
-        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
-      },
-      "artists": [
-        {
-          "name": "John O'Callaghan",
-          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
-        },
-        {
-          "name": "Sarah Howells",
-          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
-        }
-      ],
-      "duration_ms": 151621,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Vocal Trance Hits - The Anthems",
+        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        },
+        {
+          "name": "Sarah Howells",
+          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
+        }
+      ],
+      "duration_ms": 151621,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 187500,
       "name": "Army Of Two - Radio Version",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "50 Trance Tunes, Vol. 28",
-        "url": "https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel & Dresden",
-          "url": "https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV"
-        },
-        {
-          "name": "Molly Bancroft",
-          "url": "https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Tracking Treasure Down",
-      "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -1631,22 +1611,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Worldwide Dance Hits",
-        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
+        "name": "50 Trance Tunes, Vol. 28",
+        "url": "https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb"
       },
       "artists": [
         {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+          "name": "Gabriel & Dresden",
+          "url": "https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV"
         },
         {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
+          "name": "Molly Bancroft",
+          "url": "https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
+      "duration_ms": 189066,
+      "name": "Tracking Treasure Down",
+      "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1663,6 +1643,26 @@
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Worldwide Dance Hits",
+        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/0abTIR0UNo66Nw38K47k03"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 228501,
       "name": "Everything - Radio Edit",
       "url": "https://open.spotify.com/track/42bWEclg5KT9KUbJYblSR5"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
-      },
-      "artists": [
-        {
-          "name": "M.A.N.D.Y.",
-          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 438013,
-      "name": "Body Language - Original Mix",
-      "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/39YTJAAH2YCMKM59lZxExk"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 213546,
       "name": "Strange Condition - Inpetto Radio Edit",
       "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
+      },
+      "artists": [
+        {
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 438013,
+      "name": "Body Language - Original Mix",
+      "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA"
+      },
+      "artists": [
+        {
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6"
+        },
+        {
+          "name": "Inpetto",
+          "url": "https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Awaken (Part 2)",
         "url": "https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT"
       },
@@ -2195,22 +2215,6 @@
       "duration_ms": 224986,
       "name": "Awaken - Ron Reeser & Dan Saenz Radio Edit",
       "url": "https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "51 Big Room Fist Pumpers (feat. Mque)",
-        "url": "https://open.spotify.com/album/3jG0arQuB7uiEWsKGK3fNF"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels Project",
-          "url": "https://open.spotify.com/artist/4mJadLzJpnWVKcunV0td5L"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Disconnected (Radio Edit Dub Mix)",
-      "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
     }
   ],
   "unique_name": "Dance Classics",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,502 songs - 4 day 7 hr 31 min
+1,503 songs - 4 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,10 +830,11 @@
 | [Maker](https://open.spotify.com/track/4DP7DimT3KRKbsvjfIrcoX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 4:11 | 2022-07-01 | 2022-09-24 |
 | [Maker](https://open.spotify.com/track/6w32mXhIaosDV03bo216QI) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Joypunks / Maker](https://open.spotify.com/album/4nr116yOgerXCvvisMjZfa) | 4:11 | 2020-03-20 | 2022-04-20 |
 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 | 2023-04-15 |
-| [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2023-07-07 |  |
+| [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2023-07-07 | 2023-07-28 |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
 | [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 |  |
+| [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-07-21 |  |
 | [Maradona](https://open.spotify.com/track/0y7JsPpdF6D75aHOZK998j) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [This Is Me](https://open.spotify.com/album/4OWqEzeZzgCPf40QoCIWMY) | 3:11 | 2020-05-22 | 2020-07-03 |
 | [Maradona Riddim](https://open.spotify.com/track/6QsMORizT7A2vwfOwU8xAM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maradona Riddim](https://open.spotify.com/album/2tWgNOU6kAGkJMh1eSR18D) | 3:17 | 2020-05-18 | 2020-07-03 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-02-18 | 2023-02-18 |

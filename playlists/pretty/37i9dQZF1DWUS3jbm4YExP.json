@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 653368,
+  "num_followers": 653691,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWRjOWQ2YTQxZWY3M2Q1MWIzMTJkZGNhOWMzMjI0MTdmY2E1NTVl",
+  "snapshot_id": "MCw0NjFmNTE2YzNiMmVmYzA4NjA5YWRmOTM3ZWY1OGRjNTJhYjBjNGUz",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
-      "added_at": "2023-05-24 02:18:54",
-      "album": {
-        "name": "Spiky Boi",
-        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 119510,
-      "name": "Spiky Boi",
-      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
-    },
-    {
       "added_at": "2022-04-17 18:22:38",
       "album": {
         "name": "Alegr\u00eda (Yuksek Remix) - Single",
@@ -339,6 +323,22 @@
       "duration_ms": 258235,
       "name": "Alegr\u00eda - Yuksek Remix",
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
+    },
+    {
+      "added_at": "2023-05-24 02:18:54",
+      "album": {
+        "name": "Spiky Boi",
+        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 119510,
+      "name": "Spiky Boi",
+      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
     },
     {
       "added_at": "2021-10-28 03:11:06",
@@ -391,6 +391,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Mr Bongo Record Club, Vol. 1",
+        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Esperar pra Ver",
+      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "McCartney III Imagined",
         "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 308301,
-      "name": "One Inch Punch",
-      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 308301,
+      "name": "One Inch Punch",
+      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -471,22 +487,6 @@
       "duration_ms": 246799,
       "name": "Kamakumba",
       "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Mr Bongo Record Club, Vol. 1",
-        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Esperar pra Ver",
-      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Fine Anyway (Habibi Funk 016)",
-        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Had to Come Back Wet",
-      "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 301653,
       "name": "Kry\u00e9 Mwen",
       "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Had to Come Back Wet",
+      "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -765,24 +765,24 @@
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
     },
     {
-      "added_at": "2023-05-25 23:11:27",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd"
+        "name": "Good Good Things",
+        "url": "https://open.spotify.com/album/0fLCFCKpzzefuNlBGmHFUI"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
         },
         {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+          "name": "Hindi Zahra",
+          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
         }
       ],
-      "duration_ms": 196551,
-      "name": "Pa\u00b4lante",
-      "url": "https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp"
+      "duration_ms": 190282,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/4QCU3gXVbr3gtqY54RzTqu"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -819,26 +819,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Good Good Things",
-        "url": "https://open.spotify.com/album/0fLCFCKpzzefuNlBGmHFUI"
-      },
-      "artists": [
-        {
-          "name": "Blundetto",
-          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
-        },
-        {
-          "name": "Hindi Zahra",
-          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
-        }
-      ],
-      "duration_ms": 190282,
-      "name": "Fly High",
-      "url": "https://open.spotify.com/track/4QCU3gXVbr3gtqY54RzTqu"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -857,20 +837,24 @@
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2023-05-25 23:11:27",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd"
       },
       "artists": [
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+      "duration_ms": 196551,
+      "name": "Pa\u00b4lante",
+      "url": "https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -889,6 +873,22 @@
       "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
       "added_at": "2023-06-07 04:02:22",
       "album": {
         "name": "Taivshral",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
-      "added_at": "2023-05-22 18:59:19",
-      "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Dos Uvas",
@@ -935,6 +919,22 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2023-05-22 18:59:19",
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -961,42 +961,6 @@
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2023-05-24 02:05:49",
-      "album": {
-        "name": "Samba em Kigali",
-        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
-      },
-      "artists": [
-        {
-          "name": "Tapioca",
-          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
-        }
-      ],
-      "duration_ms": 226416,
-      "name": "Terra Preta",
-      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
-    },
-    {
       "added_at": "2022-04-17 20:13:34",
       "album": {
         "name": "Roots in the Air",
@@ -1013,24 +977,20 @@
       "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2023-05-24 02:05:49",
       "album": {
-        "name": "Wahala Wahala",
-        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
+        "name": "Samba em Kigali",
+        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
       },
       "artists": [
         {
-          "name": "K.O.G",
-          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
-        },
-        {
-          "name": "The Zongo Brigade",
-          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
+          "name": "Tapioca",
+          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
         }
       ],
-      "duration_ms": 361715,
-      "name": "Suro Nipa",
-      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+      "duration_ms": 226416,
+      "name": "Terra Preta",
+      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2022-04-17 18:22:38",
@@ -1051,6 +1011,46 @@
       "duration_ms": 219906,
       "name": "Gnawa (feat. The Atlas Collective)",
       "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Wahala Wahala",
+        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
+      },
+      "artists": [
+        {
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        },
+        {
+          "name": "The Zongo Brigade",
+          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
+        }
+      ],
+      "duration_ms": 361715,
+      "name": "Suro Nipa",
+      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Chaos Theories",
+        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
       },
@@ -1127,18 +1143,34 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Chaos Theories",
-        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+        "name": "Belle Wahallah",
+        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
       },
       "artists": [
         {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
         }
       ],
-      "duration_ms": 311546,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+      "duration_ms": 326606,
+      "name": "Yeanoh (Powe'hande Binga'dbe)",
+      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
+    },
+    {
+      "added_at": "2023-02-02 00:27:59",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1155,58 +1187,6 @@
       "duration_ms": 205874,
       "name": "Haditouni (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Belle Wahallah",
-        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
-      },
-      "artists": [
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 326606,
-      "name": "Yeanoh (Powe'hande Binga'dbe)",
-      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
-    },
-    {
-      "added_at": "2023-05-24 02:05:49",
-      "album": {
-        "name": "Yarait (Habibi Funk 022)",
-        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Ben Ali",
-          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Yarait - Habibi Funk 022",
-      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Mal\u00eca",
-        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mal\u00eca",
-      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1243,22 +1223,6 @@
       "duration_ms": 247624,
       "name": "Maktoub Aleina",
       "url": "https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE"
-    },
-    {
-      "added_at": "2023-02-02 00:27:59",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1313,6 +1277,42 @@
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Mal\u00eca",
+        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mal\u00eca",
+      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+    },
+    {
+      "added_at": "2023-05-24 02:05:49",
+      "album": {
+        "name": "Yarait (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Yarait - Habibi Funk 022",
+      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
+    },
+    {
       "added_at": "2022-09-02 06:01:15",
       "album": {
         "name": "La Matanza",
@@ -1331,6 +1331,22 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2023-02-02 00:27:59",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1373,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
     },
     {
-      "added_at": "2023-05-22 20:22:16",
-      "album": {
-        "name": "Telenova",
-        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
-      },
-      "artists": [
-        {
-          "name": "Zuco 103",
-          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Aruenda",
-      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Ka Rica-Tar",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
-      "added_at": "2023-02-02 00:27:59",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
         }
       ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2023-03-23 22:03:25",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
       "artists": [
         {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/6gZJn1abfUXsOcyBUKjp4D"
     },
     {
-      "added_at": "2023-03-23 22:03:25",
+      "added_at": "2023-05-22 20:22:16",
       "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+        "name": "Telenova",
+        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+      "duration_ms": 200500,
+      "name": "Aruenda",
+      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
     },
     {
       "added_at": "2021-10-22 15:36:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "The Rabbit That Hunts Tigers",
         "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1649,6 +1649,62 @@
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Jaiyede Afro",
+        "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Porsche 944",
+      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Anima latina",
+        "url": "https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 397586,
+      "name": "Anima latina",
+      "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
+    },
+    {
       "added_at": "2023-05-24 02:18:54",
       "album": {
         "name": "El Tiempo (Captain Planet Remix)",
@@ -1693,62 +1749,6 @@
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Jaiyede Afro",
-        "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        },
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Anima latina",
-        "url": "https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 397586,
-      "name": "Anima latina",
-      "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
-      },
-      "artists": [
-        {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
-        }
-      ],
-      "duration_ms": 235795,
-      "name": "Porsche 944",
-      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
-    },
-    {
       "added_at": "2023-04-14 06:00:00",
       "album": {
         "name": "Espantap\u00e1jaros",
@@ -1769,20 +1769,20 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2023-05-24 02:05:49",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Aziz w Adda (Habibi Funk 022)",
-        "url": "https://open.spotify.com/album/4dTLaV7XSfwKGcbmAXm2ex"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
       },
       "artists": [
         {
-          "name": "Ahmed Ben Ali",
-          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 149541,
-      "name": "Aziz w Adda - Habibi Funk 022",
-      "url": "https://open.spotify.com/track/0k1OhYyvdbq8uDuOSqkfsL"
+      "duration_ms": 284070,
+      "name": "Musa Paradisa",
+      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     }
   ],
   "unique_name": "Global Groove",

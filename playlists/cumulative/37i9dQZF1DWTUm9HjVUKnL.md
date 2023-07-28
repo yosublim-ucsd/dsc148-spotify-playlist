@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,082 songs - 2 day 18 hr 6 min
+1,084 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 | 2022-01-19 |  |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/2v8DsnCstW8WyDwrUywzhP) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/1XwXxE28acZ8c4brt8CReD) | 2:13 | 2023-05-31 |  |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2022-01-19 | 2023-07-16 |
-| [hide and seek \- Spotify Singles](https://open.spotify.com/track/1Tdwor7XIfNx4K5PlNOfbj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 3:15 | 2022-11-09 |  |
+| [hide and seak](https://open.spotify.com/track/68pQs9zjJNKUr09DVITaaG) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/38GPVZYcg9yZWZQOLFn3NP) | 3:15 | 2023-05-31 |  |
+| [hide and seek \- Spotify Singles](https://open.spotify.com/track/1Tdwor7XIfNx4K5PlNOfbj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 3:15 | 2022-11-09 | 2023-07-28 |
 | [High Hopes \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 2:47 | 2022-01-19 |  |
 | [High Tide or Low Tide \- Live from Spotify Studios NYC](https://open.spotify.com/track/2WAgH8swV4cTXaSPeo1k7w) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 4:16 | 2022-01-19 |  |
 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/2ospU0wa9ux7r054JMFbEL) | 3:38 | 2022-01-19 | 2022-10-13 |
@@ -829,7 +830,8 @@
 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 | 2022-01-19 |  |
 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 | 2022-01-19 |  |
 | [Show Me Love \(feat\. Miguel\) \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/5S2Cpe6R4pV2dcJZkr6BzF) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 4:24 | 2022-01-19 |  |
-| [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 | 2022-11-09 |  |
+| [sideways](https://open.spotify.com/track/2D0gHY67oqcaPl828gzGfv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/38GPVZYcg9yZWZQOLFn3NP) | 2:37 | 2023-05-31 |  |
+| [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 | 2022-11-09 | 2023-07-28 |
 | [Sightseeing \- Spotify Singles](https://open.spotify.com/track/5vCEWn2vvZJo8zbCbvraAG) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Spotify Singles](https://open.spotify.com/album/3I3g8FgFZjTqNIkAge7kja) | 4:20 | 2022-05-04 |  |
 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2022-01-19 |  |
 | [Silver Lining \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7kqnoZSZUifYDyR5jzJN6v) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Spotify Singles](https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ) | 3:29 | 2022-01-19 |  |

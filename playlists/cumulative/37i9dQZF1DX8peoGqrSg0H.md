@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Patrickananda
 
-359 songs - 21 hr 38 min
+360 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 |  |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-09 |  |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 | 2022-10-27 |
-| [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/track/5y5uNFx4bDDjnZf86DSprb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/album/7uuoFmLc6I7yNRCaLJtLu4) | 3:04 | 2023-07-21 |  |
+| [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/track/5y5uNFx4bDDjnZf86DSprb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/album/7uuoFmLc6I7yNRCaLJtLu4) | 3:04 | 2023-07-21 | 2023-07-28 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/0Gex9SSDNTtbiL4JOqfOhl) | 4:14 | 2022-05-26 | 2022-07-29 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/0Apw9KBqEdc85zUw13UJ14) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/6bTCiLjRwKV0C1fh53lMcO) | 4:14 | 2022-07-28 | 2022-08-19 |
 | [หวานเกินไป Ost\. กลรักรุ่นพี่](https://open.spotify.com/track/3skROEFEL3UCMfHrYje0F0) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [หวานเกินไป Ost\. กลรักรุ่นพี่](https://open.spotify.com/album/3TxVtlaIwYczWudaaf3nx7) | 4:20 | 2022-08-18 | 2022-09-01 |
@@ -298,6 +298,7 @@
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2022-05-26 | 2023-05-03 |
+| [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 | 2023-07-27 |  |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2022-05-26 | 2022-07-29 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 | 2022-07-28 | 2022-10-27 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-06-23 | 2022-08-19 |

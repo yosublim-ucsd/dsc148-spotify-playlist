@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Ashh
+> Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
-246 songs - 12 hr 25 min
+247 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 | 2023-02-24 |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
+| [Pièces manquantes](https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [High & Fines Herbes – Édition 420](https://open.spotify.com/album/6qu28HganG8uPu79hCSrle) | 3:15 | 2023-07-27 |  |
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
 | [Plus jeune](https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 3:25 | 2022-07-28 | 2022-12-02 |
 | [Pour bientôt](https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/5nujvuksXeAXd0y7d3MWxa) | 3:50 | 2022-07-14 | 2022-07-29 |
@@ -216,7 +217,7 @@
 | [SAC CHANEL](https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 2:01 | 2022-09-22 | 2022-11-18 |
 | [Sahara](https://open.spotify.com/track/44vdd8Qop7Xa6PxdDCKlXT) | [Norsacce Berlusconi](https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Propaganda](https://open.spotify.com/album/2NNKLT6lCK6i503EqVfkjy) | 3:37 | 2022-12-15 | 2023-04-07 |
 | [Samouraï](https://open.spotify.com/track/3LaKrRSIzGwr9onnpLijKG) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 3:30 | 2023-02-09 | 2023-04-21 |
-| [Sang Bleu](https://open.spotify.com/track/1PNz9JG0KWG6NO0c9zq3rf) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Sang Bleu](https://open.spotify.com/album/6RDpZW2ZA4VhOgUAtNiuft) | 3:27 | 2023-06-22 |  |
+| [Sang Bleu](https://open.spotify.com/track/1PNz9JG0KWG6NO0c9zq3rf) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Sang Bleu](https://open.spotify.com/album/6RDpZW2ZA4VhOgUAtNiuft) | 3:27 | 2023-06-22 | 2023-07-28 |
 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 | 2023-02-03 |
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 | 2023-02-17 |
 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 | 2023-06-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Molly Tuttle & Golden Highway",
-  "num_followers": 123688,
+  "num_followers": 123723,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGVmYWVmNDdhMGMxZTY5MjFkZmZmMDdmZDIyZjU5OGJhNTg5NDcz",
+  "snapshot_id": "MCxhNGIzMDJiYjk1NzEzNzE4MmUxYmViOWNlMTgxNDA4N2FlYTFkODI2",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Life Is Good on the Open Road",
-        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "How the Mighty Fall",
         "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Life Is Good on the Open Road",
+        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Hazard & Fate",
-        "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "Engine Trouble",
-      "url": "https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Long Time To Be Gone",
         "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 120609,
       "name": "Jenny Put the Kettle On",
       "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Hazard & Fate",
+        "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Engine Trouble",
+      "url": "https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "God Fearing Heathen",
+        "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 262407,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "\u201cThe Long-Awaited Album\u201d",
         "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "God Fearing Heathen",
-        "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 262407,
-      "name": "Hey Brother",
-      "url": "https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Wild as We Came Here",
         "url": "https://open.spotify.com/album/0aPhpuXKrJcu0EEo0YYoMI"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "On Banjo",
-        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Foggy Morning Breaking",
-      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Brother Sister",
         "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
@@ -975,18 +955,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+        "name": "On Banjo",
+        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
       },
       "artists": [
         {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
         }
       ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+      "duration_ms": 220533,
+      "name": "Foggy Morning Breaking",
+      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 188573,
       "name": "Ain\u2019t That Fine",
       "url": "https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+        }
+      ],
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 197294,
       "name": "Big Backyard (feat. Old Crow Medicine Show)",
       "url": "https://open.spotify.com/track/515grUPGeNHPCKOThjaUYg"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1419,42 +1419,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "All The Lilacs In Ohio",
-        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "All The Lilacs In Ohio",
+        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
-        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Running Out Of Hope, Arkansas",
-      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Almost Proud",
         "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 152786,
       "name": "Honky Tonk Nights",
       "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
+        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Running Out Of Hope, Arkansas",
+      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 174773,
       "name": "95 Years",
       "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-07-21 04:01:00",

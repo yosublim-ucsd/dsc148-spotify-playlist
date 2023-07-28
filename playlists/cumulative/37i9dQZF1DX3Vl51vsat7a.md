@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Novaa, LIE NING
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Dilla
 
-220 songs - 11 hr 54 min
+224 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-18 |  |
 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 | 2023-02-03 |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
-| [A$AP & Rihanna](https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs) | 1:52 | 2022-11-17 |  |
+| [A$AP & Rihanna](https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs) | 1:52 | 2022-11-17 | 2023-07-28 |
 | [A$AP & Rihanna](https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2) | 1:52 | 2022-07-28 | 2022-11-20 |
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2023-01-27 |
@@ -45,8 +45,10 @@
 | [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 | 2023-02-27 |
 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-23 | 2023-07-21 |
 | [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 |  |
+| [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 | 2023-07-27 |  |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
+| [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-27 |  |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 | 2023-04-14 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2023-04-14 |
 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 | 2022-09-01 |  |
@@ -71,7 +73,7 @@
 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 | 2022-09-08 | 2023-06-16 |
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-15 |  |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 | 2022-10-28 |
-| [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 |  |
+| [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 | 2023-07-28 |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 | 2022-06-03 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-04-07 | 2022-05-06 |
@@ -79,7 +81,7 @@
 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-12-01 | 2023-04-07 |
 | [Fucked Up.](https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Fucked Up.](https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx) | 2:27 | 2022-02-24 |  |
 | [Fuji](https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Fuji](https://open.spotify.com/album/29spAqjN7v2hmQHoHMU7z1) | 2:28 | 2021-12-16 | 2022-03-25 |
-| [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 |  |
+| [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 | 2023-07-28 |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 |  |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-05 | 2023-03-18 |
 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2023-02-24 |
@@ -87,6 +89,7 @@
 | [Glücklich](https://open.spotify.com/track/3z3thFt7kVIkfY9PRdIOcJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:23 | 2022-11-17 | 2023-03-03 |
 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 | 2021-12-16 | 2023-07-12 |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
+| [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 |  |
 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 | 2022-07-14 | 2023-03-03 |
 | [Hilferuf](https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Hilferuf](https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs) | 2:37 | 2023-02-02 | 2023-03-03 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-12-16 | 2022-03-18 |
@@ -182,6 +185,7 @@
 | [Spring](https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Spring](https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0) | 3:37 | 2022-05-12 | 2022-07-29 |
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-06-30 | 2023-02-10 |
 | [Stamina](https://open.spotify.com/track/4Xc2s9nE10G9kAGNQWneSp) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W), [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Stamina](https://open.spotify.com/album/2xSEFShNJW2V7g9nq5eSMp) | 3:33 | 2023-03-16 | 2023-04-07 |
+| [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 | 2023-07-27 |  |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2022-11-20 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 |  |
@@ -206,7 +210,7 @@
 | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 | 2022-09-01 | 2022-09-03 |
 | [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-23 | 2023-06-30 |
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 | 2023-06-16 |
-| [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 |  |
+| [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 | 2023-07-28 |
 | [Voices in the night](https://open.spotify.com/track/2YjKf6uFXGiJMJPpjnAFOd) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices in the night](https://open.spotify.com/album/2wkJZs5zCPt0PCK7qpowd2) | 2:54 | 2023-06-29 |  |
 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 | 2021-12-16 | 2022-12-02 |
 | [Walls](https://open.spotify.com/track/4cMDIe5aH8h6B8MzF18xty) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Walls](https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1) | 2:59 | 2023-06-22 |  |

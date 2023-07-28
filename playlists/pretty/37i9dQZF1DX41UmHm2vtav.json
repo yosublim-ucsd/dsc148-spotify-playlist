@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 427288,
+  "num_followers": 427492,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTgyYWFiMDg1Njk2ZTBkMGY1YTk5M2JlN2Q1YzdkOTQ2YWZkZDBh",
+  "snapshot_id": "MCxiYzc3NWU1ZTIxNWZhNTRmMjkxNTc2ODA4N2UwZjEwMjg4ZTYxMjkw",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -459,54 +459,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Um Erro (Malifoo, Voltech Remix)",
-        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Um Erro (Malifoo, Voltech Remix)",
-      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -547,6 +499,54 @@
       "duration_ms": 214435,
       "name": "Adrenalizou - Gabriel Boni Remix",
       "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Um Erro (Malifoo, Voltech Remix)",
+        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Um Erro (Malifoo, Voltech Remix)",
+      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -631,6 +631,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "V\u00e1rias Queixas (Remix)",
         "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 179016,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
-      },
-      "artists": [
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Treyce",
-          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        }
+      ],
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Evoluiu (Rakka & Onabeat Remix)",
         "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
       },
@@ -1503,26 +1527,6 @@
       "duration_ms": 172918,
       "name": "Evoluiu - Rakka & Onabeat Remix",
       "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Praia (Sem Sair de Casa) [Remix]",
-        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Helen Sancho",
-          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Praia (Sem Sair de Casa) [Remix]",
-      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
     }
   ],
   "unique_name": "Festa na Praia",

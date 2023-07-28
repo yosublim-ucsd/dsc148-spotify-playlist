@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ronisia",
-  "num_followers": 37295,
+  "num_followers": 37302,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGE1NjQ2OTZhYzVkYzA2NmI1ODQ4NTJkN2QxNzk3MGUyNTZmYjcw",
+  "snapshot_id": "MCw2ODI3NzExYjBhNWMyZTk4MDEzNjg3OWZmNjA5OWE4MGE4NjVjMmVl",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -27,22 +27,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Business (feat. Naza)",
-        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         },
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -63,22 +63,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 187057,
-      "name": "Eurostar (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Sign\u00e9",
         "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 180968,
       "name": "Sign\u00e9",
       "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
       },
@@ -391,8 +375,8 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
       },
       "artists": [
         {
@@ -400,9 +384,25 @@
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -551,22 +551,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+        "name": "Je partirai",
+        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
       },
       "artists": [
         {
-          "name": "Mig",
-          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 193381,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Je partirai",
-        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
+        "name": "21",
+        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Je partirai",
-      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
+      "duration_ms": 193381,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -687,22 +687,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Alabama",
-        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
+        "name": "G\u00c9 VOULAIT",
+        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         },
         {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 214605,
-      "name": "Alabama",
-      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
+      "duration_ms": 161122,
+      "name": "G\u00c9 VOULAIT",
+      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -723,6 +723,46 @@
       "duration_ms": 169683,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Alabama",
+        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 214605,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -775,74 +815,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Pour nous",
-        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "Pour nous",
-      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
-      },
-      "artists": [
-        {
-          "name": "Kofs",
-          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Halla",
-      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "\u00c7a va !",
         "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
       },
@@ -863,22 +835,50 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "G\u00c9 VOULAIT",
-        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
+        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
       },
       "artists": [
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
         }
       ],
-      "duration_ms": 161122,
-      "name": "G\u00c9 VOULAIT",
-      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
+      "duration_ms": 112941,
+      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Halla",
+      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
     },
     {
       "added_at": "2023-07-21 04:01:00",

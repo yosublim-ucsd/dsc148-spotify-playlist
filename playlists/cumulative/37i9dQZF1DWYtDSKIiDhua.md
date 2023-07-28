@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Sunset Rollercoaster
+> The R&B and good vibe tracks for your current mood\. Cover: CLAUDIA
 
-468 songs - 1 day 1 hr 22 min
+473 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-01 | 2022-09-16 |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-08 | 2022-06-24 |
 | [Before 4:30 \(She Said…\)](https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Before 4:30 \(She Said…\)](https://open.spotify.com/album/6ngd5N828DSzfX5tLMMngM) | 3:51 | 2022-06-08 | 2022-09-23 |
+| [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-27 |  |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-06-08 | 2022-08-26 |
 | [Better](https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Better](https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr) | 3:14 | 2022-06-16 | 2022-11-18 |
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-16 | 2022-06-24 |
@@ -159,6 +160,7 @@
 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-08 | 2022-10-14 |
 | [headaches](https://open.spotify.com/track/5v2RDx3oCcHxToNSLOJ05y) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [headaches](https://open.spotify.com/album/6g4XzBd2vaJ6zkZn8ddyAi) | 3:18 | 2023-04-06 | 2023-07-21 |
 | [Heart On Fire](https://open.spotify.com/track/2SSSBEGv9P3fBVdw5CfvlQ) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Heart On Fire](https://open.spotify.com/album/39xaejdB8NXYqM3w4rGY3K) | 2:51 | 2023-03-31 |  |
+| [Heaven](https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Heaven](https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj) | 2:34 | 2023-07-27 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 | 2022-09-16 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-13 | 2023-06-16 |
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-03 | 2023-04-21 |
@@ -228,6 +230,7 @@
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-06-08 | 2022-06-17 |
 | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh) | 3:11 | 2022-08-04 | 2022-08-19 |
 | [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 | 2023-05-26 |
+| [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 | 2023-07-27 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2022-12-16 | 2023-01-14 |
 | [Lost](https://open.spotify.com/track/4AhXYMGyGdOzFUN6B9rZwj) | [SHIVY\-O](https://open.spotify.com/artist/4ZvocLK9jBuKymHWm5VRrr) | [Lost](https://open.spotify.com/album/6CDpLH14tzQUKB2MoIM1ZN) | 2:56 | 2023-02-23 | 2023-06-16 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-23 | 2022-07-22 |
@@ -339,6 +342,7 @@
 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-18 | 2022-09-17 |
 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 | 2022-06-23 | 2022-12-17 |
 | [Seem Better](https://open.spotify.com/track/7pU2HsbNzl6GHwJwwXNQRF) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Seem Better](https://open.spotify.com/album/4VDY9t68UfYCvmZwjyhNRK) | 3:24 | 2022-10-20 | 2023-02-10 |
+| [Settle 4 Less](https://open.spotify.com/track/55TqRwJoKEh7b7ZzNFh1sR) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Settle 4 Less](https://open.spotify.com/album/7eApwkHooJ3YKCfAOaROXq) | 2:36 | 2023-07-27 |  |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-04-01 |
 | [SHAME](https://open.spotify.com/track/4dv6f5PpEIf5nt1vE1xu6M) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [kinu](https://open.spotify.com/artist/2P04gMM2tzgMQFKL3e4UTm) | [SHAME](https://open.spotify.com/album/2Kt26AIMRk6hdkHfJ6csB5) | 2:34 | 2023-07-13 |  |
 | [Shelter From The Rain](https://open.spotify.com/track/6k3JfHzpYLZ9vrQZlFEauR) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Shelter From The Rain](https://open.spotify.com/album/3p9jJToxnkDDqVtuPeuGSl) | 2:21 | 2023-05-25 | 2023-06-09 |
@@ -417,6 +421,7 @@
 | [To The Moon And Back](https://open.spotify.com/track/5YeIAPfq56ceA3JV8hDKpH) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [To The Moon And Back](https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB) | 3:31 | 2022-10-13 | 2023-02-18 |
 | [TO YOU](https://open.spotify.com/track/1wuGvgHmbDgBHKASwgJqPK) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [TO YOU](https://open.spotify.com/album/33c4mtFY9EXLNkQGRiAAic) | 2:36 | 2023-04-14 |  |
 | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN) | 3:19 | 2023-04-14 | 2023-04-28 |
+| [tonight](https://open.spotify.com/track/3uPkF98XCSzJ9lVTwcpNa5) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [tonight](https://open.spotify.com/album/7HpRSSqwPz0Evw1kIYVaU7) | 3:19 | 2023-07-27 |  |
 | [Too Far](https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Too Far](https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu) | 3:31 | 2022-09-22 | 2022-12-09 |
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 |  |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |

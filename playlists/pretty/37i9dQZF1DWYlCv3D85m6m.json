@@ -1,13 +1,29 @@
 {
   "description": "One in a million! TWICE! ",
-  "num_followers": 1246497,
+  "num_followers": 1246884,
   "original_name": "This Is TWICE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJlOWZmZTZjM2U3MmIwMDk1Y2JkNzcwYzM5MTgxNjVhYmU1YjYx",
+  "snapshot_id": "MCwyOTdiNmRmYzkwOTlhZDBjYTFiMzY3NDY2OWNhZDAwMDhiZTU1YTM0",
   "tracks": [
+    {
+      "added_at": "2023-07-27 06:34:18",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Behind The Curtain",
+      "url": "https://open.spotify.com/track/14nturKxV48wR3lbknehiu"
+    },
     {
       "added_at": "2023-07-13 15:00:00",
       "album": {

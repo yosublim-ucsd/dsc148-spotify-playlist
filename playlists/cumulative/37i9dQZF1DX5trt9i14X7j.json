@@ -766,10 +766,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 162000,
       "name": "Coral Reef",
       "url": "https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx"
+    },
+    {
+      "album": {
+        "name": "missing piece",
+        "url": "https://open.spotify.com/album/4gLLMhSzGmQnkUpiWyUqv4"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Coral Reef",
+      "url": "https://open.spotify.com/track/5dbG84ahKQ2Y0vqlKkhGmf"
     },
     {
       "album": {

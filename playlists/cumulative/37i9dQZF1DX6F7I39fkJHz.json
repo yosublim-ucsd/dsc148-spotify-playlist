@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Las m\u00e1s bichotas del party featuring Aura BAE.",
+  "description": "Las m\u00e1s bichotas de la escena featuring TAICHU.",
   "name": "EQUAL Urbano",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 165500,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173238,
+      "name": "NOCHE DE SATEO",
+      "url": "https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m"
+    },
+    {
+      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -1670,6 +1688,28 @@
       "duration_ms": 156024,
       "name": "Porte",
       "url": "https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1"
+    },
+    {
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187481,
+      "name": "PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500"
     },
     {
       "album": {
@@ -1950,7 +1990,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 157422,
       "name": "Te cargo la 9",
       "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
@@ -2078,6 +2118,24 @@
       "duration_ms": 95008,
       "name": "TOP",
       "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
+    },
+    {
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95008,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/77N6k3ZPLq0FpSdQBZMyNs"
     },
     {
       "album": {

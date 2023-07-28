@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-68 songs - 2 hr 38 min
+69 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Four Little Duckies](https://open.spotify.com/track/0wgqHDiVFNBM4eevAF2SEp) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:47 | 2022-04-01 |  |
 | [Fred the Friendly Farm Dog](https://open.spotify.com/track/04PhIxHI57VdDMmidjUAIz) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Welcome to the Farm](https://open.spotify.com/album/6oqzcaAeYCC4YOAvV4elIp) | 2:40 | 2022-04-01 |  |
 | [Good Morning, Farm Animals](https://open.spotify.com/track/2Uc4LVXQM6pVFPH3ehFv0e) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:34 | 2022-04-01 |  |
-| [Grandad's Farm](https://open.spotify.com/track/1q0M0S7deKtkgNn1FzrkR8) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [KindyRock: Hoedown](https://open.spotify.com/album/1Oj8AzncJtK1eQvA3RrVlY) | 2:28 | 2022-04-01 |  |
+| [Grandad's Farm](https://open.spotify.com/track/04Crad2n7Dkix287Qm8XcH) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [KindyRock: Hoedown](https://open.spotify.com/album/4slsyDdtn0xbSpX53TKxsE) | 2:28 | 2022-07-25 |  |
+| [Grandad's Farm](https://open.spotify.com/track/1q0M0S7deKtkgNn1FzrkR8) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [KindyRock: Hoedown](https://open.spotify.com/album/1Oj8AzncJtK1eQvA3RrVlY) | 2:28 | 2022-04-01 | 2023-07-28 |
 | [Growing in My Garden](https://open.spotify.com/track/7qBRLNQ7Bg1nlJWNKCGHuC) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [The Kid's Gone Country 2 \- Fun for All the Family](https://open.spotify.com/album/47LmloBTiB7sDzZYLUuhja) | 1:54 | 2022-04-01 |  |
 | [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 2:38 | 2022-04-01 |  |
 | [Horses](https://open.spotify.com/track/5JDnPTV3q2KJiCDNtrejhU) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 3:16 | 2022-04-01 |  |

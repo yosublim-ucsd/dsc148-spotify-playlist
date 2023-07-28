@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9110,
+  "num_followers": 9120,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmFhMWQ1YWQyOTYwOTM1NDhlZTc2Y2Q1NjY3MmNlMjRmMDQ1YTc0",
+  "snapshot_id": "MCxiYzIyZDBhZTk3MWIzNWZkZjdhNjRhYmM2ZjMyMjA4N2Q3MGI3ZTk5",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -227,18 +227,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
+      "duration_ms": 202012,
+      "name": "Soso - Remix",
+      "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 202012,
-      "name": "Soso - Remix",
-      "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Una Perla En San Juan",
+      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Chivirika",
         "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 150545,
       "name": "Culo Chapa (feat. La Perversa, Quimico Ultra Mega & Haraca Kiko)",
       "url": "https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Una Perla En San Juan",
-      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Acurrucao",
-        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sofia LaSanta",
-          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 186428,
-      "name": "Acurrucao",
-      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -547,42 +543,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         },
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
         }
       ],
-      "duration_ms": 225470,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -607,18 +583,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+      "duration_ms": 225470,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -687,6 +671,22 @@
       "duration_ms": 174146,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3dd7sReSGh1ZQyGUAMXbQA"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD"
       },
       "artists": [
         {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
+      "duration_ms": 195303,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD"
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
       },
       "artists": [
         {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
         }
       ],
-      "duration_ms": 195303,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
     },
     {
       "added_at": "2023-07-24 18:55:43",

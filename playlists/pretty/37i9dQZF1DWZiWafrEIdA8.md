@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,602 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,604 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 25 | [Bathtub \(Feat\. Whee In, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/6410lt5ieSLvkczCmltXnc) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:37 |
 | 26 | [아마두 \(feat\. 우원재, 김효은, 넉살 & 허클베리피\)](https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [Dingo X DAMOIM Pt\. 2](https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB) | 5:45 |
 | 27 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 |
-| 28 | [See you ! \(Feat\. SOLE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:45 |
-| 29 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
-| 30 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 28 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
+| 29 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 30 | [See you ! \(Feat\. SOLE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:45 |
 | 31 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
 | 32 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
 | 33 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 | 50 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
 
-Snapshot ID: `MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm`
+Snapshot ID: `MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm`

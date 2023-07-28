@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: SHOWNU X HYUNGWON (MONSTA X)",
-  "num_followers": 771151,
+  "num_followers": 771490,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmM0Y2JiNzhiNzc4YTI4YzJiYmQwZWE3NzEyOWE3MWUwNWUwNzAy",
+  "snapshot_id": "MCw2NWQzMmY2YzAzYWYwOTYwMDBmZDA5NTM2NTZmYjBlNjFjMzYzYWMz",
   "tracks": [
+    {
+      "added_at": "2023-07-27 08:40:37",
+      "album": {
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
+    },
     {
       "added_at": "2023-07-25 09:00:00",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 199640,
       "name": "Love Me A Little",
       "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
+    },
+    {
+      "added_at": "2023-07-27 08:40:37",
+      "album": {
+        "name": "Screw it (Feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/2jTVsNzZS6oWX9CxfCVuFW"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "duration_ms": 154351,
+      "name": "Screw it (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/7hiRRWOFCP5RsDHeJowsdt"
     },
     {
       "added_at": "2023-07-25 09:00:00",
@@ -41,20 +77,20 @@
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-27 08:40:37",
       "album": {
-        "name": "LOLO",
-        "url": "https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3"
+        "name": "Freaky U",
+        "url": "https://open.spotify.com/album/5gZNpW5BCKqkI9CBsbxW5E"
       },
       "artists": [
         {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+          "name": "s\u00f8ye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
         }
       ],
-      "duration_ms": 142893,
-      "name": "LOLO",
-      "url": "https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y"
+      "duration_ms": 156053,
+      "name": "Freaky U",
+      "url": "https://open.spotify.com/track/1GkbHdoS4SjM9X6mg4d9Wp"
     },
     {
       "added_at": "2023-07-25 09:00:00",
@@ -75,6 +111,42 @@
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
+    },
+    {
+      "added_at": "2023-07-27 08:40:37",
+      "album": {
+        "name": "House on a Hill (feat. Em Beihold)",
+        "url": "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "House on a Hill (feat. Em Beihold)",
+      "url": "https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq"
+    },
+    {
+      "added_at": "2023-07-25 09:00:00",
+      "album": {
+        "name": "LOLO",
+        "url": "https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 142893,
+      "name": "LOLO",
+      "url": "https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y"
     },
     {
       "added_at": "2023-07-25 09:00:00",
@@ -779,70 +851,6 @@
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
-    },
-    {
-      "added_at": "2023-07-25 09:00:00",
-      "album": {
-        "name": "8TURNRISE",
-        "url": "https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ"
-      },
-      "artists": [
-        {
-          "name": "8TURN",
-          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "TIC TAC",
-      "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"
-    },
-    {
-      "added_at": "2023-07-25 09:00:00",
-      "album": {
-        "name": "INCENSE",
-        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
-    },
-    {
-      "added_at": "2023-07-25 09:00:00",
-      "album": {
-        "name": "MASTER : PIECE",
-        "url": "https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Groovy",
-      "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
-    },
-    {
-      "added_at": "2023-07-25 09:00:00",
-      "album": {
-        "name": "I AM SHAMPOO",
-        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 141259,
-      "name": "I AM SHAMPOO",
-      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
     }
   ],
   "unique_name": "K-Pop Rising",

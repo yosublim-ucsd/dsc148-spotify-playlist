@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-119 songs - 8 hr 50 min
+120 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Yaayum](https://open.spotify.com/track/4Uh41d7PlFHP2gCinJEWlr) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Sagaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A8kNj0R9KzqK0JzAStSbL) | 4:46 | 2021-08-16 |  |
 | [Yaen Ennai Pirindhaai \- Male](https://open.spotify.com/track/2GYzXSeNa3Y0BfIfS1VJj3) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Banita Sandhu](https://open.spotify.com/artist/3bYGK3QTL74pMUVbcgkIza) | [Adithya Varma](https://open.spotify.com/album/3IvKduSq7d2SnZiwxA7hJK) | 3:18 | 2021-08-16 |  |
 | [Yembuttu Irukkuthu Aasai](https://open.spotify.com/track/0srLmMJws5nv8d1n9qrtro) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Saravanan Irukka Bayamaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15YFyVaiQd5kH9JGgr673R) | 4:29 | 2022-01-03 | 2022-08-30 |
-| [Yennai Maatrum Kadhale](https://open.spotify.com/track/6RXJKdpBp6AVL6H6sHyNp0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:34 | 2021-08-16 |  |
+| [Yennai Maatrum Kadhale](https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:34 | 2022-03-11 |  |
+| [Yennai Maatrum Kadhale](https://open.spotify.com/track/6RXJKdpBp6AVL6H6sHyNp0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:34 | 2021-08-16 | 2023-07-28 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

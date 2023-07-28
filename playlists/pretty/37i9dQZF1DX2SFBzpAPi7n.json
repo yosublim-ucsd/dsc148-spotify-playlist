@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 215732,
+  "num_followers": 215802,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFmOTQ4ZGNiN2FlYTUxYjZhNDc2MGM2OTVlYTA5MzA2NWU2OTk0",
+  "snapshot_id": "MCxiMWNmMDVkN2UzOTAwMWM1YmIzMDE0ZWM5YmY4NmI1YWVhMmI4MGZh",
   "tracks": [
     {
       "added_at": "2023-07-25 09:35:34",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-25 09:35:34",
       "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+    },
+    {
+      "added_at": "2023-07-25 09:35:34",
+      "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 229493,
       "name": "NAN CHUN \ub09c\ucd98",
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2023-07-25 09:35:34",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 238494,
-      "name": "FAKE LOVE - Rocking Vibe Mix",
-      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
       "added_at": "2023-07-25 09:35:34",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-07-25 09:35:34",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 183670,
-      "name": "Freakin' Bad",
-      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+      "duration_ms": 238494,
+      "name": "FAKE LOVE - Rocking Vibe Mix",
+      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
       "added_at": "2023-07-25 09:35:34",
@@ -719,8 +719,8 @@
     {
       "added_at": "2023-07-25 09:35:34",
       "album": {
-        "name": "The End of Nightmare",
-        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 206819,
-      "name": "PIRI",
-      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
     },
     {
       "added_at": "2023-07-25 09:35:34",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-07-25 09:35:34",
       "album": {
+        "name": "Right Through Me",
+        "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 217972,
+      "name": "Right Through Me",
+      "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
+    },
+    {
+      "added_at": "2023-07-25 09:35:34",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
@@ -815,24 +831,8 @@
     {
       "added_at": "2023-07-25 09:35:34",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "She",
-      "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
-    },
-    {
-      "added_at": "2023-07-25 09:35:34",
-      "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
+      "duration_ms": 206819,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

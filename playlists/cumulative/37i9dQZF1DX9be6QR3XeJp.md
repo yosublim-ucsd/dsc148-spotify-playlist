@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Cian Ducrot
+> Discover your new favourite artists from UK&IE\. Cover: tinyumbrellas
 
-217 songs - 11 hr 50 min
+218 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [One Foot in Front of the Other](https://open.spotify.com/track/1gh1oLs5EBKsGf5KDwgxiO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/39biam1ziDPOSlUeB9fx3L) | 3:12 | 2022-02-18 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2022-02-18 | 2022-07-29 |
 | [Opinion](https://open.spotify.com/track/4HNYSJenuBJMYEU2hGNHgG) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 2:27 | 2022-07-28 |  |
+| [Paper Planes](https://open.spotify.com/track/3idGPXVbppVgvQgKphhYe3) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Somewhere To Fall Asleep](https://open.spotify.com/album/52BvNx6KqyyEKrbnOWr8Sy) | 3:43 | 2023-07-27 |  |
 | [paranoia](https://open.spotify.com/track/25jpA6Nwk0BzPpzOTYLCXA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [paranoia](https://open.spotify.com/album/7cKJ7ywktloxEDpY8fxHJR) | 3:22 | 2022-07-21 |  |
 | [Parasols](https://open.spotify.com/track/3FhdZweci0BzetkWMwCdsV) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Parasols](https://open.spotify.com/album/5IbFg9og4jabk19txAM9Wp) | 3:00 | 2022-02-18 |  |
 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 | 2022-02-18 |  |

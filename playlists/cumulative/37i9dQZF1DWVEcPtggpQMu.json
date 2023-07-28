@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
+    },
+    {
+      "album": {
         "name": "Tx3 ll",
         "url": "https://open.spotify.com/album/4nUzgL5ixVLcFXq1UO6qmi"
       },
@@ -5031,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Just The Start",
+        "url": "https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx"
+      },
+      "artists": [
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124776,
+      "name": "Just The Start",
+      "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
+    },
+    {
+      "album": {
         "name": "Just Too Easy",
         "url": "https://open.spotify.com/album/4eh9dnaEIf6JFeUx4VrGTm"
       },
@@ -7031,6 +7067,28 @@
     },
     {
       "album": {
+        "name": "No Comment.",
+        "url": "https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142248,
+      "name": "No Comment.",
+      "url": "https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
       },
@@ -8588,7 +8646,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 221538,
       "name": "Seasons and Love",
       "url": "https://open.spotify.com/track/5Tjcbe9gPoOVhuk90T38q8"
@@ -8648,7 +8706,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 169411,
       "name": "See Me",
       "url": "https://open.spotify.com/track/7J2OYSSWhC02b0b78dpUjp"
@@ -9759,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "Stru",
+        "url": "https://open.spotify.com/album/0XPXGn2w0pzatcO5FsakoR"
+      },
+      "artists": [
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116846,
+      "name": "Stru",
+      "url": "https://open.spotify.com/track/2VMFLg4q2682hAwZsbMjyl"
+    },
+    {
+      "album": {
         "name": "SUN / BABY BLUE 4\u2019s",
         "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
       },
@@ -10040,7 +10116,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 178977,
       "name": "TAKE IT SLOW",
       "url": "https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2"
@@ -11106,7 +11182,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 194687,
       "name": "Umhlonyane",
       "url": "https://open.spotify.com/track/3rZOWkWUqRs1JETDpXXK6Q"
@@ -11736,7 +11812,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 210308,
       "name": "Which One?",
       "url": "https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw"
@@ -12240,6 +12316,32 @@
       "duration_ms": 251134,
       "name": "Zamalek",
       "url": "https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6"
+    },
+    {
+      "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/0hEjn6WiYwJqjXC8hG80pH"
+      },
+      "artists": [
+        {
+          "name": "DJ Switch",
+          "url": "https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb"
+        },
+        {
+          "name": "PhilaBoi K",
+          "url": "https://open.spotify.com/artist/7vSKlUpBOFhJ3PWtcHIC8h"
+        },
+        {
+          "name": "Seru the Ellipsis",
+          "url": "https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210265,
+      "name": "Zwani Nani",
+      "url": "https://open.spotify.com/track/4yrz6HdbMOE7bWrH3EiIxF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu"

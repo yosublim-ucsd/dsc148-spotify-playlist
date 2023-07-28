@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,177 likes - 322 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,366 likes - 322 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 154 | [Salzburg, Vienna, Bratislava](https://open.spotify.com/track/1UBz80xTEt0P3mSGmbwIlo) | [Arkadi Martinë](https://open.spotify.com/artist/6EQHxYOYw1qAvoE38AHZsi) | [Salzburg, Vienna, Bratislava](https://open.spotify.com/album/2Zsl9wRDnS3s4Y1iAEsmTk) | 2:32 |
 | 155 | [Avenue](https://open.spotify.com/track/4jaabHRb9VW5OR0WAQB5JA) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Avenue](https://open.spotify.com/album/2NZn50T5ycvvUlOZvDxvfd) | 2:19 |
 | 156 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 |
-| 157 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 |
+| 157 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 |
 | 158 | [Mallorca](https://open.spotify.com/track/5fwUgcNVOqWaAiO7q0m5S4) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [Charry](https://open.spotify.com/artist/0gRHHNqL2VnRuTyPrSVtRr), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Mallorca](https://open.spotify.com/album/64CZA0vP8zFXaGoc2MCV7u) | 1:55 |
 | 159 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 |
 | 160 | [Dope after 8 PM](https://open.spotify.com/track/3LEIN9DIPnYhJ5b1dNgVcC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/16snTC6g0ngvDjOnkPehNE) | 1:56 |
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 321 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 | 322 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 
-Snapshot ID: `MCxmNTllMGRhNTJiNjdkNWYwN2Y5YjU5YmIwNTYyNWY3Y2YwMmEyNzlh`
+Snapshot ID: `MCxiZDM3NTdiNTFkZWEyM2ZkYjgwNzE5NjMyODI4MzY1NjVjNWE2NzQ2`

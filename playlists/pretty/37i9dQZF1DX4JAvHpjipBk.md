@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Travis Scott, NewJeans, A$AP Rocky, Ice Spice, Diplo, Zayn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,155,242 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,155,676 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [Young Love & Saturday Nights](https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu) | 3:15 |
 | 57 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 |
 | 58 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 |
-| 59 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 |
+| 59 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 |
 | 60 | [Margot Robbie](https://open.spotify.com/track/1Fi6IVlqYBUUfHqsBUnx4L) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Margot Robbie](https://open.spotify.com/album/27Bj0Tt5bGJBFc089EfP6i) | 2:47 |
 | 61 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
 | 62 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [FEVER](https://open.spotify.com/track/0PmvAsXoTMs0ugnC7PGnSM) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [FEVER](https://open.spotify.com/album/0khtb7GHIZOHyNfZ4IcKpm) | 3:03 |
 | 100 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
 
-Snapshot ID: `MCwxNjkxNDliZTM4ODFjYWRiYWExYjdmN2ZlOGNkYjZlYTdiN2Y1MGI1`
+Snapshot ID: `MCw2NzA2MzYxODVkMDM1Yzg2YTczNTdjMGZlN2Y4YTA4NTNmODEwODc2`

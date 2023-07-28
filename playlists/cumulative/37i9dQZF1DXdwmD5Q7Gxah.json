@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. Lil Yachty's psych album >",
+  "description": "the soundtrack for girls living by their notes app. ft Searows",
   "name": "Lorem",
   "tracks": [
     {
@@ -10650,7 +10650,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
@@ -12950,6 +12950,24 @@
       "duration_ms": 173920,
       "name": "Female Energy, Part 2",
       "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
+    },
+    {
+      "album": {
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "album": {
@@ -33365,6 +33383,24 @@
     },
     {
       "album": {
+        "name": "Slugs",
+        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Slugs",
+      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui"
       },
@@ -33662,6 +33698,24 @@
       "duration_ms": 195804,
       "name": "So Typically Now",
       "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
+    },
+    {
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
       "album": {
@@ -38825,6 +38879,24 @@
     },
     {
       "album": {
+        "name": "Time 2 Go",
+        "url": "https://open.spotify.com/album/0sMwFngMw2iaRGyFZ4A5Ns"
+      },
+      "artists": [
+        {
+          "name": "Matilda Marigolds",
+          "url": "https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79502,
+      "name": "Time 2 Go",
+      "url": "https://open.spotify.com/track/0TSkx3j5ldvrSaCZpdOV6u"
+    },
+    {
+      "album": {
         "name": "Time I Love to Waste",
         "url": "https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU"
       },
@@ -42650,7 +42722,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-28",
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"

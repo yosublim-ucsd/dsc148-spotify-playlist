@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: BIG SPECIAL",
-  "num_followers": 49505,
+  "num_followers": 49507,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDYwNDY0ZTQ5YjJmMWYwMDM2ODA1YWYyZmU5ZjVlNzlmNjli",
+  "snapshot_id": "MCxlNzYwODc1Yjc4Y2FlMzBhZmNlZjU5YTQ0MDBiNjIxMWQ2NGQyMTll",
   "tracks": [
     {
       "added_at": "2023-07-05 20:38:23",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 164625,
       "name": "BRAINWASHED",
       "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 176805,
-      "name": "Tear Me to Pieces",
-      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "SELF-SABOTAGE",
-      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "In The Wild (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -395,6 +379,22 @@
       "duration_ms": 134636,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/6GmwHZNiwgkLJRPw5FPHAH"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "feel something (feat. Izzy Spears)",
         "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 133307,
       "name": "feel something (feat. Izzy Spears)",
       "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Baku's Revenge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -579,6 +563,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -647,18 +631,34 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
       "artists": [
         {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
         }
       ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -727,6 +727,42 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "Phone Lines Down",
+        "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 123205,
+      "name": "Phone Lines Down",
+      "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Diaspora Problems",
         "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
       },
@@ -759,22 +795,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Phone Lines Down",
-        "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 123205,
-      "name": "Phone Lines Down",
-      "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
       },
@@ -787,42 +807,6 @@
       "duration_ms": 232058,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "The Delicate Nature",
-        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        },
-        {
-          "name": "Laurie Vincent",
-          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "The Delicate Nature",
-      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -859,6 +843,22 @@
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Sweet Dreams of Otherness",
         "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 188000,
       "name": "Unlike Me",
       "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1047,6 +1027,26 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Daydrinker",
         "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 165758,
       "name": "Daydrinker",
       "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Adore Adore Adore",
         "url": "https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
       "artists": [
         {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 191106,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1295,6 +1279,22 @@
       "duration_ms": 177510,
       "name": "I HATE ME TOO",
       "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
     },
     {
       "added_at": "2023-07-05 20:38:23",

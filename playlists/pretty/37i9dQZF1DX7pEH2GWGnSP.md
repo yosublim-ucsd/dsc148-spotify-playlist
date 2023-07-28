@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,771 likes - 24 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,346 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 | 23 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 |
 | 24 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
 
-Snapshot ID: `MCw3ZTFmNGJhYmRiZDQ2ZjU2YmQ4NjM0ODYwM2MyODBlOWM4MTBjMmQ5`
+Snapshot ID: `MCw1OTFkNzcxYTEzNzQzODFkNDEwZWQ4ZTlkYmMyYmZhYjQxOGRjNjc0`

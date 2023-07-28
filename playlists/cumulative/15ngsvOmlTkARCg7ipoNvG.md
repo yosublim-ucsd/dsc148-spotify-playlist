@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,013 songs - 22 hr 44 min
+1,014 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Never Quite Alone](https://open.spotify.com/track/0AfkFIotwL0lptGYLMR4kN) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [New Again](https://open.spotify.com/track/62mkqiz3ECsZDvjaHHNHih) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 |  |
+| [New Home Arr\. For Solo Piano](https://open.spotify.com/track/0xRuZbwdhs5wtM5GDAbr4e) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [New Home](https://open.spotify.com/album/7szInb0sN0sOwtdik393un) | 1:00 | 2023-07-27 |  |
 | [New Home Lullaby](https://open.spotify.com/track/7uTwtcj6fffHnbDzzWOraJ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 |  |
 | [New Life](https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [New Life](https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd) | 1:01 | 2022-10-21 |  |
 | [New Perspectives](https://open.spotify.com/track/2IetmvmHpsj4sJmhPREUqf) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:05 | 2022-01-27 |  |
