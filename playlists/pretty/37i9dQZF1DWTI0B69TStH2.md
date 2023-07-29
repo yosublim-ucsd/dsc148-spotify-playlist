@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: IGA \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,581 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,572 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [LOVESONG](https://open.spotify.com/track/5vMvJI03kjqhZDzXIgMh2j) | [Bobby the Unicorn](https://open.spotify.com/artist/47mtcT1nGTa9Uv1SM5Y95I) | [LOVESONG](https://open.spotify.com/album/5mP5ik6nSJUy62ya6qTD5k) | 2:25 |
 | 100 | [Tęsknota](https://open.spotify.com/track/4YyOILeYRF6hV2zMuQ7ehW) | [noco](https://open.spotify.com/artist/4M3HMSoC2JKbhCRdHQ5wkA) | [Tęsknota](https://open.spotify.com/album/3zztnlnxsDIz6HrwL0ypzK) | 4:39 |
 
-Snapshot ID: `MCwzYWQzMjA4MGVlZGFlNjVjM2U1MWU4NWQ1ZTJjMzg3OGIzMDNkZDky`
+Snapshot ID: `MCxhN2YxOTVhMTFjYjJlM2FhMGVmNWYyYzRkZWYzNjQzZjJiM2E0ZDJl`

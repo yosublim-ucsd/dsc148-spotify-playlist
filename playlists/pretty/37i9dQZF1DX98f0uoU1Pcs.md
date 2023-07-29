@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,178 likes - 116 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,238 likes - 116 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 115 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 | 116 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 |
 
-Snapshot ID: `MCwxNjMyY2I3ZGU5OWYxZWY3MWRmNjQyM2ZlMGQwZjM2NzY3ZTliZjc4`
+Snapshot ID: `MCxlOTQ1NjdjYTU0MDc4YzcyNzk1YjcxYTFmZjgzYjZkNjA4MDliMWQy`

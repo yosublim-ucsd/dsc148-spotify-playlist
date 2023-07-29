@@ -2,9 +2,9 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\. Cover: Snoh Aalegra
+> The pulse of R&B music today\. Cover: Mahalia
 
-336 songs - 19 hr 5 min
+337 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 | 2022-03-11 | 2022-05-14 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-07-30 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-07-29 | 2022-08-20 |
-| [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 |  |
+| [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 | 2023-07-29 |
+| [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 | 2023-07-28 |  |
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 | 2022-06-17 | 2022-08-13 |
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-11 | 2022-07-29 |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/0SSVi1ND8YAk5XpaHOePoo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy \(Deluxe\)](https://open.spotify.com/album/1C3mF3UUqVmt7udrgQGbJC) | 2:26 | 2022-07-09 | 2023-02-25 |

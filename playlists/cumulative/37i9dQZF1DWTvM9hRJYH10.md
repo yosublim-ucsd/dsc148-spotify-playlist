@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Dipper
 
-286 songs - 15 hr 10 min
+288 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 | 2021-12-31 |  |
 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 | 2022-08-26 |  |
 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2022-04-01 | 2022-08-02 |
+| [Brain On Love](https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Brain On Love](https://open.spotify.com/album/4WWRqLivbF5Wy4EE8ey2KM) | 3:01 | 2023-07-28 |  |
 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 | 2023-02-24 |  |
 | [Break Itself](https://open.spotify.com/track/5OClt9eDq31Rtgo9vjjOyJ) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Break Itself](https://open.spotify.com/album/2ihBIQ0Ut209dFVpccNtpD) | 3:39 | 2021-12-31 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-31 | 2022-07-02 |
@@ -273,6 +274,7 @@
 | [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 |  |
 | [Vegas](https://open.spotify.com/track/0qY0AvQ0nutIE7ksHRbwi3) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:13 | 2023-05-19 |  |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 | 2023-05-26 |
+| [Wallen On Your Radio](https://open.spotify.com/track/4eWtmopOFSfV93yWdRROnF) | [Alli Leighann](https://open.spotify.com/artist/4OeJYKm6vIFtrORFTjF68v) | [Wallen On Your Radio](https://open.spotify.com/album/74TKonwqXqmm5pgvzVNoGt) | 3:12 | 2023-07-28 |  |
 | [Ways To Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 | 2022-09-10 |
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 | 2023-02-25 |

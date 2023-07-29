@@ -4,7 +4,7 @@
 
 > pov: you're finding yourself in a new country\. Cover: Anna Cathcart
 
-123 songs - 7 hr 47 min
+124 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Save Room](https://open.spotify.com/track/5Y3525kHmyPBX4TWqPY4Mq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 3:55 | 2022-07-07 | 2022-11-13 |
 | [Set Sail](https://open.spotify.com/track/0VuFPUbrZXZX5eX0fFqIZV) | [Turf Club](https://open.spotify.com/artist/6N1cMPOKUEJfPv56YWM7y9) | [Set Sail](https://open.spotify.com/album/78JSYJrcVfje0FCciktQt2) | 2:15 | 2022-07-07 | 2023-05-23 |
 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 | 2022-07-07 | 2023-05-23 |
-| [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-05-22 |  |
+| [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-05-22 | 2023-07-29 |
+| [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 | 2023-05-22 |  |
 | [Simple Life](https://open.spotify.com/track/1uwvhkMMQlnaHQ8wtldM7K) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Casey Abrams](https://open.spotify.com/album/6wq7YT3Nq1Qq5tB6DC8Ok7) | 3:36 | 2022-07-07 | 2023-05-23 |
 | [Sing It With Me](https://open.spotify.com/track/6JA7luAMEbqSI2VZe5mLHg) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:21 | 2023-05-22 |  |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-07-07 | 2023-05-23 |

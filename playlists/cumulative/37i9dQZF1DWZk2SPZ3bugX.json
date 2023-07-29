@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "AGAIN",
+        "url": "https://open.spotify.com/album/1iUO8vRhd2aBjDpfpka0OC"
+      },
+      "artists": [
+        {
+          "name": "Tayrell",
+          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/3HcDd8JNWp96Hub6GJNRJv"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },
@@ -140,7 +162,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207440,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6muEmD1DhVoGG7CYQX3Djg"
@@ -322,6 +344,28 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "album": {
+        "name": "Barcelona (feat. Samm Henshaw)",
+        "url": "https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200295,
+      "name": "Barcelona (feat. Samm Henshaw)",
+      "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
     },
     {
       "album": {
@@ -651,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Dunston (Bellaire Remix)",
+        "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213243,
+      "name": "Dunston (Bellaire Remix)",
+      "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
+    },
+    {
+      "album": {
         "name": "Moment Bends",
         "url": "https://open.spotify.com/album/6dlzzPf1VybEx2JI8tphXo"
       },
@@ -844,7 +910,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 264031,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7fxiVqfRHxo6L3Ijmm4FfH"
@@ -920,7 +986,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
@@ -978,6 +1044,24 @@
       "duration_ms": 165120,
       "name": "Golden Skans",
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200656,
+      "name": "Grim Generation",
+      "url": "https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo"
     },
     {
       "album": {
@@ -1050,7 +1134,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
@@ -1452,7 +1536,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175400,
       "name": "LOST IN SPACE",
       "url": "https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E"
@@ -1496,6 +1580,24 @@
       "duration_ms": 295693,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
       "album": {
@@ -1992,6 +2094,28 @@
       "duration_ms": 216831,
       "name": "Rue",
       "url": "https://open.spotify.com/track/1NNu18S8YNfUlnDDfAWOzo"
+    },
+    {
+      "album": {
+        "name": "Run (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "Run (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt"
     },
     {
       "album": {
@@ -2564,7 +2688,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"

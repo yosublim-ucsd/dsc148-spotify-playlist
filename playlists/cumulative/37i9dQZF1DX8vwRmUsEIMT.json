@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "All the new music you need to hear right now. Cover: Sam Smith",
+  "description": "All the new music you need to hear right now. Cover: Post Malone",
   "name": "All New All Now",
   "tracks": [
     {
@@ -1985,6 +1985,44 @@
     },
     {
       "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "album": {
         "name": "Bag Of You",
         "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
       },
@@ -2548,6 +2586,42 @@
       "duration_ms": 211466,
       "name": "Between The Rocks",
       "url": "https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
+    },
+    {
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "album": {
@@ -4056,6 +4130,24 @@
       "duration_ms": 225246,
       "name": "Cheatback",
       "url": "https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN"
+    },
+    {
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132818,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
     },
     {
       "album": {
@@ -5691,6 +5783,28 @@
     },
     {
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "album": {
         "name": "DESPECH\u00c1 RMX",
         "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
@@ -6436,7 +6550,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169253,
       "name": "Don't Think Twice - Edit",
       "url": "https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec"
@@ -6888,7 +7002,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146897,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1MLLW9uH8i7MVPCPZFWwrj"
@@ -7136,6 +7250,24 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "album": {
@@ -7808,7 +7940,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
@@ -9637,6 +9769,28 @@
     },
     {
       "album": {
+        "name": "Hello (feat. KennyHoopla)",
+        "url": "https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219932,
+      "name": "Hello (feat. KennyHoopla)",
+      "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
+    },
+    {
+      "album": {
         "name": "Hello Mate",
         "url": "https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX"
       },
@@ -9892,7 +10046,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161816,
       "name": "Hippodrome",
       "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
@@ -12531,6 +12685,28 @@
     },
     {
       "album": {
+        "name": "Let U Know (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160498,
+      "name": "Let U Know (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
+    },
+    {
+      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
@@ -12582,7 +12758,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 214044,
       "name": "lie",
       "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
@@ -13009,6 +13185,24 @@
     },
     {
       "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "album": {
         "name": "Lobby",
         "url": "https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu"
       },
@@ -13376,6 +13570,28 @@
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
+    },
+    {
+      "album": {
+        "name": "lovergirl",
+        "url": "https://open.spotify.com/album/2zUTN546u7OhfOGSY8fblP"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134790,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/48VPIoaHKU3gKHAVW2WMp8"
     },
     {
       "album": {
@@ -13970,7 +14186,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -14784,7 +15000,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
@@ -15224,7 +15440,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
@@ -15628,6 +15844,50 @@
       "duration_ms": 174209,
       "name": "On It",
       "url": "https://open.spotify.com/track/0snWRi49jLiBNYVmw3AR7b"
+    },
+    {
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "album": {
+        "name": "One Direction",
+        "url": "https://open.spotify.com/album/3gH3b4tb9DXXDo3oQoUQjh"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124714,
+      "name": "One Direction",
+      "url": "https://open.spotify.com/track/75B9CAbXJgMmwrT6aFTgpv"
     },
     {
       "album": {
@@ -16724,7 +16984,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160781,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb"
@@ -16998,6 +17258,24 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272035,
+      "name": "Psychedelic Switch",
+      "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
     },
     {
       "album": {
@@ -17846,7 +18124,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169700,
       "name": "Scoreboard",
       "url": "https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO"
@@ -18414,7 +18692,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
@@ -18714,6 +18992,24 @@
       "duration_ms": 164282,
       "name": "Softest Touch",
       "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Some Things You\u2019ll Never Know",
+      "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
     },
     {
       "album": {
@@ -19284,7 +19580,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) - Bonus Track",
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
@@ -19450,10 +19746,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {
       "album": {
@@ -20344,7 +20662,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
@@ -22368,7 +22686,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 158266,
       "name": "WELLLL",
       "url": "https://open.spotify.com/track/4rPv8eZH6ABfkrtxxHHtV4"
@@ -22556,7 +22874,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 326093,
       "name": "Where Are Your Kids Tonight? (feat. John Grant)",
       "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
@@ -23228,6 +23546,28 @@
       "duration_ms": 180640,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y"
+    },
+    {
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "album": {

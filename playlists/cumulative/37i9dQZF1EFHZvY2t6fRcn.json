@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Feed The Beast",
+        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150813,
+      "name": "Feed The Beast",
+      "url": "https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5"
+    },
+    {
+      "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },

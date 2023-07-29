@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300733,
+      "name": "You're the Voice",
+      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
+    },
+    {
+      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },

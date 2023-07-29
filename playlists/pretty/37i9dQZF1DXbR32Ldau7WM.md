@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,663 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,795 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 48 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 49 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
 | 50 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 |
-| 51 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
+| 51 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
 | 52 | [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 |
 | 53 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 |
 | 54 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 60 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 |
 
-Snapshot ID: `MCw2MDlhM2FmYWNmNWY2NjE5Zjc1MDljZDgzYmFhOTM2MGJhNWFlODM4`
+Snapshot ID: `MCw0YWZjMjcxMjI1YjEzYWNjODYyYmVkNGUxOTc5NDgxNTJjMTQ2NmFi`

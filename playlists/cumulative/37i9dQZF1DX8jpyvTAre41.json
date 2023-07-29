@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Greta Van Fleet",
+  "description": "The hottest tunes in rock. Crank it up! Cover: The Beaches",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/4x2mpWpNy9Kh7qQABj6lqV"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213014,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0O2Xj14M8PgYm3wbbjrKqX"
+    },
+    {
+      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190392,
       "name": "blame",
       "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181307,
       "name": "Dancing With The Moonlight",
       "url": "https://open.spotify.com/track/1KR1KO0WzuRsNYQXcQYjiq"
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -2564,6 +2582,32 @@
       "duration_ms": 187106,
       "name": "Dream It All Over Again",
       "url": "https://open.spotify.com/track/7fhZv3xugIuP7LBUlrmUvf"
+    },
+    {
+      "album": {
+        "name": "IT'S NOT A PHASE",
+        "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
     },
     {
       "album": {
@@ -2934,7 +2978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
@@ -4291,6 +4335,28 @@
     },
     {
       "album": {
+        "name": "Hello (feat. KennyHoopla)",
+        "url": "https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219932,
+      "name": "Hello (feat. KennyHoopla)",
+      "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
       },
@@ -5453,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184607,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf"
+    },
+    {
+      "album": {
         "name": "Laundry Pile",
         "url": "https://open.spotify.com/album/0M3Ne9BhtOKhQsB6RB43Vv"
       },
@@ -5642,6 +5726,28 @@
       "duration_ms": 192725,
       "name": "Liar",
       "url": "https://open.spotify.com/track/6ijT4CLXcJIQ65USkQkAIu"
+    },
+    {
+      "album": {
+        "name": "Liberate Me II",
+        "url": "https://open.spotify.com/album/6K5aDes6TAod8K2nVCGU2g"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        },
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Liberate Me II",
+      "url": "https://open.spotify.com/track/0gx0mxHF6gewK9FZL9mwi9"
     },
     {
       "album": {
@@ -6405,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1hy4Nsokdj1ymhSez1PH0M"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7C6bJAOyLNZ8UYdNyhIYn1"
+    },
+    {
+      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -6554,6 +6678,24 @@
       "duration_ms": 176910,
       "name": "Meet Me At The Riot",
       "url": "https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc"
+    },
+    {
+      "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312084,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
     },
     {
       "album": {
@@ -10314,7 +10456,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
@@ -10462,7 +10604,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 282586,
       "name": "The North Shore",
       "url": "https://open.spotify.com/track/7Ar1ArhER4E2ODDw5dtGzh"

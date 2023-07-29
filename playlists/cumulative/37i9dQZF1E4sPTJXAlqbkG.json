@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 150588,
       "name": "#Wcw (Remix)",
       "url": "https://open.spotify.com/track/44TtQQhoU6kTXpVu4CE5Rd"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206270,
       "name": "3AM in Oakland",
       "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 326813,
       "name": "And This is Just The Intro",
       "url": "https://open.spotify.com/track/4sMmYKC0ot3GTbl2RzHw7T"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 179307,
       "name": "Bad Lil Vibe",
       "url": "https://open.spotify.com/track/0PNRfSACIANUYYp1K23Wsq"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226450,
       "name": "Beauty of Lust",
       "url": "https://open.spotify.com/track/5Nvjg65CFxulW5AlxYiByj"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "Been Away",
       "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -532,6 +532,24 @@
       "duration_ms": 216234,
       "name": "Childs Play (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
+    },
+    {
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110128,
+      "name": "Clouded",
+      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
     },
     {
       "album": {
@@ -615,6 +633,24 @@
     },
     {
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247079,
+      "name": "DEAD MAN WALKING",
+      "url": "https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL"
+    },
+    {
+      "album": {
         "name": "Dead Roses",
         "url": "https://open.spotify.com/album/4cWFnYfrtjHn6nVfEPLLkz"
       },
@@ -644,7 +680,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "DEPENDS",
       "url": "https://open.spotify.com/track/6AIAP4JUBUKhDURiyYz02W"
@@ -684,7 +720,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -832,7 +868,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 232502,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1uverlfbbG8InEPioAwB8y"
@@ -898,7 +934,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 169928,
       "name": "FOOL",
       "url": "https://open.spotify.com/track/1nxL6V0z2sk6cFmo9rHy0T"
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187723,
       "name": "honda civic '98",
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 55048,
       "name": "i don't wanna fall in love, it's too late now",
       "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 202945,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/283tKnbdYdj5Jd3Hg2HfIV"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 124825,
       "name": "Idea 683",
       "url": "https://open.spotify.com/track/7j2yyYzzdSfvd1L1MwMM8V"
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
@@ -1606,7 +1642,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
@@ -1704,7 +1740,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 196204,
       "name": "On Us (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4Dg81Gxw4a1sBI6J6rtCEL"
@@ -1890,7 +1926,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 195909,
       "name": "One Night Only",
       "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -2016,7 +2052,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 220520,
       "name": "Pound Cake",
       "url": "https://open.spotify.com/track/1f0azOthyX2BIytSDMLzmO"
@@ -2056,7 +2092,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 236973,
       "name": "Preach",
       "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
@@ -2110,7 +2146,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Proud Family (Remix)",
       "url": "https://open.spotify.com/track/6tH9pSzSipqYRQZVkJNLyC"
@@ -2154,7 +2190,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 245093,
       "name": "Realest In the City (feat. Meek Mill & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz"
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 180303,
       "name": "Rehab (Winter In Paris)",
       "url": "https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6"
@@ -2212,6 +2248,24 @@
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/16ASRnjMOpn2kcToeL3JvY"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125283,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/5RZ1VJRnraDW9r0cLdmRWH"
     },
     {
       "album": {
@@ -2382,7 +2436,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175386,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
@@ -2426,7 +2480,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 368035,
       "name": "Since Way Back",
       "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
@@ -2462,7 +2516,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 198010,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7mWtOqfkOCbaldtK6TEoVd"
@@ -2604,7 +2658,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177445,
       "name": "Still Your Best",
       "url": "https://open.spotify.com/track/6qvtoU0gbkaOcTx6mnVDgV"
@@ -2640,7 +2694,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197982,
       "name": "Sucka for Love",
       "url": "https://open.spotify.com/track/6N1SDvqiKEH8OxGyO9HsmE"
@@ -2692,7 +2746,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 282993,
       "name": "TALK TO ME NICE",
       "url": "https://open.spotify.com/track/5SQvh2DpXwrwrIPf2v5tc4"
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 216831,
       "name": "The Need to Know (feat. SZA)",
       "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
@@ -2902,7 +2956,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 295800,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/0QyJXG36Q3Kta662XS8GhY"
@@ -2942,7 +2996,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 223517,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
@@ -2996,7 +3050,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 256764,
       "name": "Used To",
       "url": "https://open.spotify.com/track/4XZ4PbbjglTQkJ9DVdIF1S"
@@ -3040,7 +3094,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202425,
       "name": "Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)",
       "url": "https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr"
@@ -3058,7 +3112,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 194033,
       "name": "want me",
       "url": "https://open.spotify.com/track/0hZq8VE52aJJtLUWajO54w"
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146000,
       "name": "Y.D.L.R.",
       "url": "https://open.spotify.com/track/0ZHLqpysyyJil6TlEJAZY9"

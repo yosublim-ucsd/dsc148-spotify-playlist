@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205068,
       "name": "Big Money",
       "url": "https://open.spotify.com/track/4TVhyPsVcbNP2xZcmnSZrN"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 179933,
       "name": "Body of Lies",
       "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
@@ -3679,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Homefront",
+      "url": "https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u"
+    },
+    {
+      "album": {
         "name": "Superghetto",
         "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
       },
@@ -3694,6 +3716,28 @@
       "duration_ms": 195756,
       "name": "Hoochie Mama",
       "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "album": {
+        "name": "HOOD MUSICAL",
+        "url": "https://open.spotify.com/album/0TvqqbXQbCGEcElEI4wj3G"
+      },
+      "artists": [
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "HOOD MUSICAL",
+      "url": "https://open.spotify.com/track/0WTsFSArACKkIUmJrqX8FB"
     },
     {
       "album": {
@@ -4464,6 +4508,36 @@
       "duration_ms": 201164,
       "name": "Kill Switch",
       "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324083,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/3OFmFAEAfxNyJRAW0wLmfb"
     },
     {
       "album": {
@@ -5850,7 +5924,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 201453,
       "name": "Out the Gate",
       "url": "https://open.spotify.com/track/0HoNU4qhfoVUrrLWkmjNP4"
@@ -6970,7 +7044,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/6KXvpa2EHL1RPPDEANG1Lm"
@@ -8156,6 +8230,24 @@
       "duration_ms": 183440,
       "name": "The Format",
       "url": "https://open.spotify.com/track/4TvxDMTOkbK2yt7IfHWqZQ"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb"
+      },
+      "artists": [
+        {
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191871,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN"
     },
     {
       "album": {

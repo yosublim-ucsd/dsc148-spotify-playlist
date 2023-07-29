@@ -4,14 +4,14 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-114 songs - 7 hr 38 min
+115 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la plage](https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Juniore](https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k) | 3:38 | 2023-03-20 |  |
 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-03-20 |  |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2023-03-20 |  |
-| [Aurora Dijo Adiós](https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Aurora Dijo Adiós](https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ) | 3:41 | 2023-03-20 |  |
+| [Aurora Dijo Adiós](https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Aurora Dijo Adiós](https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ) | 3:41 | 2023-03-20 | 2023-07-29 |
 | [beachin](https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 3:15 | 2023-05-25 |  |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox) | 4:22 | 2023-03-20 |  |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2023-03-20 |  |
@@ -100,6 +100,7 @@
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2023-03-20 |  |
 | [Segrados Do Samba](https://open.spotify.com/track/1QXImka15rUVwpakYivJ70) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [Jogar](https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ) | 4:19 | 2023-03-20 |  |
 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 | 2023-03-20 |  |
+| [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2023-03-20 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2023-03-20 |  |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2023-03-20 |  |

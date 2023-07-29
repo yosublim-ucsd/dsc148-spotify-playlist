@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,929 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,978 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 22 | [R](https://open.spotify.com/track/3q6152nwxpjkzKFUOPe1EJ) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:45 |
 | 23 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
 | 24 | [えがお・シング・あ・ソング](https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:09 |
-| 25 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
+| 25 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
 | 26 | [EXPOSE ‘Burn out!!!’](https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:43 |
 | 27 | [ワクワクmeetsトリップ](https://open.spotify.com/track/3GMuqR7h13YmtND2c411a7) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 4:07 |
 | 28 | [ティアドロップス](https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 3:37 |
 | 29 | [LOUDER](https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 3:34 |
-| 30 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
+| 30 | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl) | 4:55 |
 | 31 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
-| 32 | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl) | 4:55 |
+| 32 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
 | 33 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
 | 34 | [ZEAL of proud](https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:39 |
 | 35 | [Don't be afraid!](https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
 | 75 | [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 |
 
-Snapshot ID: `MCwzYWU5ODNlMzI5OGQxY2Y1NGRlNjQ5OWE4NGViYjUwOTZkMDdkNTI3`
+Snapshot ID: `MCwxZWVlMjQ4YjI1YTkzNDRjYjg4YmY0MThiYmY4NDYwYThiNzUzOGMz`

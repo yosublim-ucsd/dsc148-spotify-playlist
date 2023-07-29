@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=qsqmr240Tz2lC8OEr3UJVA\">Vrede</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=LPtyeJVuQRGv3ijbtZJVHQ\">Rooksein</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200788,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j"
@@ -546,6 +546,24 @@
       "duration_ms": 228540,
       "name": "Black Candy",
       "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
+    },
+    {
+      "album": {
+        "name": "Black Magic Girl",
+        "url": "https://open.spotify.com/album/6vrQ3TNrEFgpWMD2nk5mET"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172502,
+      "name": "Black Magic Girl",
+      "url": "https://open.spotify.com/track/2wjI5Q9TSimAX41nzy3J24"
     },
     {
       "album": {
@@ -640,6 +658,24 @@
       "duration_ms": 223425,
       "name": "Bones",
       "url": "https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d"
+      },
+      "artists": [
+        {
+          "name": "Avolver",
+          "url": "https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o"
     },
     {
       "album": {
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145528,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
@@ -1362,6 +1398,24 @@
       "duration_ms": 220525,
       "name": "Down - Remastered",
       "url": "https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi"
+    },
+    {
+      "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/6M9JzDweqMHPheeErDFWRm"
+      },
+      "artists": [
+        {
+          "name": "Broke 'n Free",
+          "url": "https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214662,
+      "name": "Drinking Alone",
+      "url": "https://open.spotify.com/track/0PvTuzW3IxIFZM7LwIRXR7"
     },
     {
       "album": {
@@ -1546,6 +1600,24 @@
       "duration_ms": 273475,
       "name": "Erika Way",
       "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
+    },
+    {
+      "album": {
+        "name": "All-Killer-Filler",
+        "url": "https://open.spotify.com/album/638YvHWgJnf6thTpWOCrUQ"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260626,
+      "name": "Escape (The Pi\u00f1a Colada Song)",
+      "url": "https://open.spotify.com/track/0r6cNe1xXtVjUYixphdXd1"
     },
     {
       "album": {
@@ -1982,7 +2054,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205100,
       "name": "Good Little Girl",
       "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
@@ -2036,7 +2108,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199200,
       "name": "H.F.A.Y. (How Fake Are You)",
       "url": "https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K"
@@ -2065,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Haunting You",
+        "url": "https://open.spotify.com/album/2Qf78FHmRbc3Qf34eTMPXY"
+      },
+      "artists": [
+        {
+          "name": "Oceans of Angels",
+          "url": "https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Haunting You",
+      "url": "https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u"
+    },
+    {
+      "album": {
         "name": "Heaving",
         "url": "https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj"
       },
@@ -2080,6 +2170,24 @@
       "duration_ms": 206840,
       "name": "Heaving",
       "url": "https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP"
+    },
+    {
+      "album": {
+        "name": "Hey Jy",
+        "url": "https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200129,
+      "name": "Hey Jy",
+      "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
     },
     {
       "album": {
@@ -2846,7 +2954,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221006,
       "name": "Love in Space",
       "url": "https://open.spotify.com/track/1OXQqXkx0Nz3lheIrL5YWP"
@@ -3150,6 +3258,24 @@
       "duration_ms": 209793,
       "name": "My Favourite Place",
       "url": "https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT"
+    },
+    {
+      "album": {
+        "name": "My Obsession",
+        "url": "https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE"
+      },
+      "artists": [
+        {
+          "name": "Jack Stone",
+          "url": "https://open.spotify.com/artist/1fuZsUTxoFVifBfXGSTOxh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "My Obsession",
+      "url": "https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS"
     },
     {
       "album": {
@@ -3564,7 +3690,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 219640,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
@@ -3748,7 +3874,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172003,
       "name": "Rave to the Grave",
       "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
@@ -3802,7 +3928,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213706,
       "name": "Redgrave",
       "url": "https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ"
@@ -3820,7 +3946,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170896,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
@@ -4247,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt"
+      },
+      "artists": [
+        {
+          "name": "Gaz",
+          "url": "https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197438,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2"
+    },
+    {
+      "album": {
         "name": "To Change the Weather",
         "url": "https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON"
       },
@@ -4280,6 +4424,24 @@
       "duration_ms": 442888,
       "name": "Socks On Astroturf",
       "url": "https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer"
+    },
+    {
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248684,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv"
     },
     {
       "album": {
@@ -4402,7 +4564,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165221,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
@@ -4857,6 +5019,28 @@
     },
     {
       "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175619,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
+    },
+    {
+      "album": {
         "name": "The Veneer",
         "url": "https://open.spotify.com/album/2W7cWviTHNhhWawHI80Wbp"
       },
@@ -5176,7 +5360,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 229293,
       "name": "Verby",
       "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
@@ -5386,6 +5570,24 @@
       "duration_ms": 172666,
       "name": "When I'm with You",
       "url": "https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO"
+    },
+    {
+      "album": {
+        "name": "When You Say",
+        "url": "https://open.spotify.com/album/2Z9HE6WmXtgjKUbBRpD7F7"
+      },
+      "artists": [
+        {
+          "name": "King Kind",
+          "url": "https://open.spotify.com/artist/0XWdYb3jMiE1h2V2NOudN1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238538,
+      "name": "When You Say",
+      "url": "https://open.spotify.com/track/5zPZTwAsUftw5Nqr47aCBE"
     },
     {
       "album": {

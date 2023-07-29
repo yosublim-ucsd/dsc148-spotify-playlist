@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-705 songs - 1 day 13 hr 59 min
+707 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 | 2021-03-16 |  |
 | [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2020-11-03 |  |
 | [Dance Alone](https://open.spotify.com/track/6l8ai4INZVibQ212THNkDo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Dance Alone](https://open.spotify.com/album/7BsJGPd1VYmeGasENuW2PE) | 2:33 | 2020-05-29 | 2021-05-12 |
+| [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-07-27 |  |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-03-27 | 2021-05-12 |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 |  |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27\* | 2021-05-12 |
@@ -705,6 +706,7 @@
 | [Yayo](https://open.spotify.com/track/7nHEmkpURecKykfN53r9F5) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 2:37 | 2022-10-21 | 2022-11-14 |
 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-09-27 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 |  |
+| [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-28 |  |
 | [You & Me](https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [You & Me](https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs) | 2:55 | 2023-03-03 |  |
 | [YOU \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/6UqVebsCryLzb2JNzTZ1xy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 4:44 | 2021-10-22 |  |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-12 |  |

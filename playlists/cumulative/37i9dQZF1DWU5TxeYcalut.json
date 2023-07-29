@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 473410,
       "name": "BH",
       "url": "https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY"
@@ -957,6 +957,32 @@
     },
     {
       "album": {
+        "name": "Nada Que Cambiar",
+        "url": "https://open.spotify.com/album/75M4wS6btQUTutvjsAYW5n"
+      },
+      "artists": [
+        {
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+        },
+        {
+          "name": "Samba Melodiosa",
+          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
+        },
+        {
+          "name": "Chico Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347117,
+      "name": "Fate Or Chance",
+      "url": "https://open.spotify.com/track/7cAPAh9cB15Ur6PB5dWa7O"
+    },
+    {
+      "album": {
         "name": "Sincronia",
         "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
       },
@@ -1594,7 +1620,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 448742,
       "name": "Mudan\u00e7as",
       "url": "https://open.spotify.com/track/00w0oCE7pW4egD1I8cv8gR"
@@ -2688,6 +2714,32 @@
       "duration_ms": 177997,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/5rDscLbEgTrDznuvyCPUzM"
+    },
+    {
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/3oo2cuVR8yEvExHg8IGAUI"
+      },
+      "artists": [
+        {
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+        },
+        {
+          "name": "Samba Melodiosa",
+          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
+        },
+        {
+          "name": "Chico Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140843,
+      "name": "Strange Loves",
+      "url": "https://open.spotify.com/track/0Ci1tId9FrGY7BhYaCJqjt"
     },
     {
       "album": {

@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Stomp! Soar! Swish!",
+        "url": "https://open.spotify.com/album/68VW9HyYfm0u4eVEJeKarN"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107937,
+      "name": "Stomp! Soar! Swish!",
+      "url": "https://open.spotify.com/track/5qJi35QJrauAR3aGABurwr"
+    },
+    {
+      "album": {
         "name": "Dinosaur Songs",
         "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Tanzcafé Attersee, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,024 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,044 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Blumen auf meiner Haut](https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze) | [Anton Verzani](https://open.spotify.com/artist/0EdR71Cjo7i162DzwAmaBc) | [Blumen auf meiner Haut](https://open.spotify.com/album/6WmNK68Ew5OhWx8Z07RffV) | 3:22 |
 | 80 | [Monster on a Screen](https://open.spotify.com/track/0LtWvhu3hN8iZ0jVRVqp7U) | [Veigh Malow](https://open.spotify.com/artist/3wHRJEtJVhuTWFIFZxgZ8G) | [Monster on a Screen](https://open.spotify.com/album/410tBRM2LeoM3W9anbxjWY) | 3:12 |
 
-Snapshot ID: `MCxhMTUxYWM3MDkwMjM5NDdhYzUzMzI5ZTU4YWMwNTg2YWE5NGI1ODM1`
+Snapshot ID: `MCwxYTM1YTc3MDdlYTc0N2NlOWFiOGY2ZDg2MTJkMmUyYjZhNzM5MWU2`

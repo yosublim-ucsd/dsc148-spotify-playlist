@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-485 songs - 1 day 2 hr 55 min
+486 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,11 @@
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-11-26 | 2023-03-01 |
 | [Casual](https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [KABL](https://open.spotify.com/artist/2tvHo5GWaKHJxXrSxv34FB) | [Casual](https://open.spotify.com/album/4Q0s7rQh6BDtUnM8BfZYtV) | 2:44 | 2023-04-21 | 2023-07-09 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-16 | 2023-07-22 |
+| [catalyst](https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:36 | 2023-07-21 |  |
 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-19 |  |
 | [Chakra](https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [All Glows](https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q) | 4:08 | 2021-08-06 | 2023-02-11 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-05 |  |
-| [CHAMELEON](https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON](https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i) | 3:06 | 2023-05-12 |  |
+| [CHAMELEON](https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON](https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i) | 3:06 | 2023-05-12 | 2023-07-29 |
 | [Chandelier \(camoufly Remix\)](https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Chandelier \(camoufly Remix\)](https://open.spotify.com/album/61Kux9RkSUm0LXx09IqRIZ) | 2:34 | 2021-09-24 | 2022-07-25 |
 | [Change Your Mind](https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Change Your Mind](https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P) | 2:47 | 2023-06-09 |  |
 | [Chemical \(feat\. Ahsha & Lemay\) \- Hex Cougar Remix](https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD), [Ahsha](https://open.spotify.com/artist/318Hgipp6taFiCWfOcNOq2), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Fallout \(The Remixes\)](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY) | 3:56 | 2021-08-06 | 2023-02-04 |

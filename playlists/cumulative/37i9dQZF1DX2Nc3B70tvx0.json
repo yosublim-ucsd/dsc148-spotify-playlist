@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Newsworthy indie of 2023: Big Thief finally release Vampire Empire. ",
+  "description": "Newsworthy indie of 2023: Mitski's beautiful return",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -1416,6 +1416,28 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "album": {
+        "name": "All the Good Times Never Die",
+        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "All the Good Times Never Die",
+      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
       "album": {
@@ -3183,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Bioluminescence",
+        "url": "https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312447,
+      "name": "Bioluminescence",
+      "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
+    },
+    {
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -3941,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
+    },
+    {
+      "album": {
         "name": "Buddy's Rendezvous",
         "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
       },
@@ -4400,6 +4458,24 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
     },
     {
       "album": {
@@ -6831,6 +6907,28 @@
     },
     {
       "album": {
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
+    },
+    {
+      "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
@@ -7042,7 +7140,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 235280,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
@@ -11330,7 +11428,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "He Could Never Love You",
       "url": "https://open.spotify.com/track/2auNIrc8Yhtcd3JYfGzRCp"
@@ -11464,7 +11562,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191632,
       "name": "heavun",
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
@@ -11518,7 +11616,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 179416,
       "name": "Hell Of A Ride",
       "url": "https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK"
@@ -14996,7 +15094,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
@@ -15338,7 +15436,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
       "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
@@ -17385,6 +17483,24 @@
     },
     {
       "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "album": {
         "name": "Sus Dog",
         "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
       },
@@ -18220,7 +18336,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167492,
       "name": "My Big Day",
       "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
@@ -27607,6 +27723,24 @@
     },
     {
       "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -27916,7 +28050,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167658,
       "name": "Those Eyes - Sped Up",
       "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
@@ -29775,6 +29909,32 @@
     },
     {
       "album": {
+        "name": "Flaws in Our Design",
+        "url": "https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        {
+          "name": "Preston.",
+          "url": "https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Waiting Forever",
+      "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "album": {
         "name": "Wake UP!",
         "url": "https://open.spotify.com/album/730DVm5mCyEP4uyAgidQf2"
       },
@@ -31272,7 +31432,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
@@ -31726,7 +31886,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far",
       "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"

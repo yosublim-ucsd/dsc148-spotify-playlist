@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 85,624 likes - 50 songs - 1 hr 51 min
+[Digster](https://open.spotify.com/user/digster.fm) - 85,623 likes - 50 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunny Day](https://open.spotify.com/track/0F2oxMOVBd0gyr7AmW789L) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Sunny Day](https://open.spotify.com/album/584vzUonyxCAmQwmj9rOpr) | 3:39 |
+| 1 | [Sunny Day \- Hope](https://open.spotify.com/track/0F2oxMOVBd0gyr7AmW789L) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Sunny Day \(Hope\)](https://open.spotify.com/album/584vzUonyxCAmQwmj9rOpr) | 3:39 |
 | 2 | [Feelin' Good](https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Feelin' Good](https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc) | 3:03 |
 | 3 | [Shark Shake \- Remix](https://open.spotify.com/track/2x08dNhDkyIVDIvOY5rpkI) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Nick Jr\. The Remixes Vol\. 3: Spring Into Dance](https://open.spotify.com/album/6Z85HV4DIoiGgNzrFAxSmL) | 2:25 |
 | 4 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 16 | [I Am A Bowl](https://open.spotify.com/track/6CeyfBcEY4pSzKyfUIGiFW) | [Panda and Friends](https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18) | [I Am A Bowl](https://open.spotify.com/album/5nBXg3aG4PuD2TLEddV9Ww) | 2:28 |
 | 17 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 |
 | 18 | [Bubblecity!](https://open.spotify.com/track/6jv3QHGFCb6eBqFUTmGMhh) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops Vol\. 2!](https://open.spotify.com/album/1dD72YRGV9dod0Qaq8un6V) | 1:17 |
-| 19 | [Biddy Bom \(feat\. Qai Qai\)](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 |
+| 19 | [Biddy Bom \(feat\. Qai Qai\) \- Anxious](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom \(Anxious\)](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 |
 | 20 | [Hickory Dickory Rock](https://open.spotify.com/track/7Jqmh4XvYpFon2kFzRthWJ) | [Babble Bop](https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg) | [Nursery Rhymes](https://open.spotify.com/album/7waNyJwNSwfNdWTaOckBkG) | 2:25 |
 | 21 | [Second Time Around](https://open.spotify.com/track/1dSQU6IM6rOWc68kZa8Q7V) | [Rugrats](https://open.spotify.com/artist/14ymXegICyobgkDom5wbIy) | [Rugrats \(Music from Season 1\)](https://open.spotify.com/album/5fSobETSlUXgg9DaAdELE3) | 1:57 |
 | 22 | [Freeze](https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9) | [Panda and Friends](https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18) | [Freeze](https://open.spotify.com/album/6fNMqkYZorZILXsXXfO8bG) | 3:00 |

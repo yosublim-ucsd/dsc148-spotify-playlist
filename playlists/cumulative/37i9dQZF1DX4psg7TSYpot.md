@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-170 songs - 9 hr 24 min
+171 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,8 @@
 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 | 2022-03-10 |  |
 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 | 2022-03-10 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-03-10 | 2023-07-16 |
-| [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 | 2023-06-22 |  |
-| [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-06-22 | 2023-07-21 |
+| [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 | 2023-06-22 | 2023-07-29 |
+| [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-06-22 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2022-03-10 | 2023-05-24 |
 | [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/track/2j5pdzMKWf8eWNkNEjD6Ls) | [Penny Sweet](https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku) | [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/album/7i2px5Ba5T02NAwKdSNAW9) | 3:07 | 2023-05-23 | 2023-06-10 |
 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-03-10 | 2022-08-03 |
@@ -112,7 +112,8 @@
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-04-14 | 2023-06-10 |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-03-10 |  |
 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 | 2022-08-02 |  |
-| [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2022-03-10 |  |
+| [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2022-03-10 | 2023-07-29 |
+| [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 | 2023-06-22 |  |
 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 | 2022-03-10 | 2022-06-04 |
 | [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 | 2023-06-22 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-04-14 | 2023-06-10 |

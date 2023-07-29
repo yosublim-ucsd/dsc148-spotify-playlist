@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-15",
-  "description": "Music by our 2023 Artists To Watch. Cover: Emilia",
+  "description": "Music by our 2023 Artists To Watch. Cover: Young Miko",
   "name": "Viva Latino Artists To Watch",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 158819,
       "name": "Aqu\u00ed Sigo",
       "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 234613,
       "name": "J. - Deluxe",
       "url": "https://open.spotify.com/track/7malI73fIoRhybC4zmSE5G"
@@ -512,7 +530,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159000,
       "name": "Putero",
       "url": "https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn"
@@ -614,6 +632,24 @@
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "album": {
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
       "album": {

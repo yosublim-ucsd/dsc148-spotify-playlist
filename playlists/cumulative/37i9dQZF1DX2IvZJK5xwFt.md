@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-437 songs - 1 day 3 hr 28 min
+438 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-21 | 2022-09-23 |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 | 2022-09-29 | 2022-12-03 |
 | [Do It Again](https://open.spotify.com/track/3CZD5SiAIAs8o8mTu2UbZ4) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [Do It Again](https://open.spotify.com/album/52jQ94hnhEV1i4iCJ9QR6h) | 3:11 | 2022-05-26 | 2022-06-03 |
-| [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 |  |
+| [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 |  |
+| [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-07-22 |
 | [Don't Give Up On Us](https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Don't Give Up On Us](https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd) | 5:22 | 2022-06-09 | 2023-01-27 |
 | [Don't Let Me Down \(feat\. Zach Myers\)](https://open.spotify.com/track/0k3Ki5l1Xkb9w1Qj9u4Xz7) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58), [Zach Myers](https://open.spotify.com/artist/2XJFw16uwcNJRIlsWtKkVx) | [Don't Let Me Down \(feat\. Zach Myers\)](https://open.spotify.com/album/331FGZmhh6m9wSD1yQCABP) | 3:50 | 2022-05-06 | 2022-05-13 |

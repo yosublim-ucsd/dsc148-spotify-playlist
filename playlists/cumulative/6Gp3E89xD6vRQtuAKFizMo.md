@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-192 songs - 9 hr 29 min
+195 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 |  |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 |  |
+| [SHEEESH \- Emorfik Remix](https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:41 | 2023-07-28 |  |
 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-24 |  |
 | [Smoke](https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Smoke](https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG) | 2:58 | 2022-08-26 | 2023-04-09 |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 | 2023-04-09 |
@@ -179,6 +180,8 @@
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/7uKaLfNSrTcRmRdKO8f1vG) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(REMIXES\)](https://open.spotify.com/album/4IBnE0hUcJTHemHPNMc27Q) | 5:23 | 2023-04-07 |  |
 | [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 | 2023-04-09 |
 | [Trunk](https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Trunk](https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41) | 2:02 | 2023-05-12 |  |
+| [Trust](https://open.spotify.com/track/50vMrcUtcsnf0TuLjWmy9N) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 3:14 | 2023-07-28 |  |
+| [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-07-28 |  |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 | 2023-03-11 |
 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 | 2023-02-11 |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |

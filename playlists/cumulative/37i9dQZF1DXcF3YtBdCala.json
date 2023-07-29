@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159866,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV"
@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+    },
+    {
+      "album": {
         "name": "Casi Algo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
@@ -364,6 +382,24 @@
       "duration_ms": 181447,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
+    },
+    {
+      "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165290,
+      "name": "Como Si No Se Hubiera Ido",
+      "url": "https://open.spotify.com/track/0iML3m7UmcWuGzHRDh5HEm"
     },
     {
       "album": {
@@ -588,7 +624,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
@@ -823,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
+    },
+    {
+      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
       },
@@ -910,6 +964,24 @@
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
+    },
+    {
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "album": {
@@ -1196,7 +1268,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
@@ -1366,7 +1438,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 190659,
       "name": "Me lo vas a agradecer",
       "url": "https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq"
@@ -1410,6 +1482,24 @@
       "duration_ms": 163561,
       "name": "Me Tir\u00e9 Al Alcohol",
       "url": "https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu"
+    },
+    {
+      "album": {
+        "name": "Me Vale Madre",
+        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
     },
     {
       "album": {
@@ -1718,7 +1808,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 203250,
       "name": "No Me Rebajo",
       "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
@@ -1924,7 +2014,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187133,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
@@ -2037,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
+    },
+    {
+      "album": {
         "name": "Que Se Sepa Nuestro Amor",
         "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
       },
@@ -2052,7 +2160,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
@@ -2074,7 +2182,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191531,
       "name": "Que Seas Feliz (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH"
@@ -2148,6 +2256,24 @@
       "duration_ms": 229200,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "album": {
@@ -2278,7 +2404,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175306,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
@@ -2586,7 +2712,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"

@@ -4,13 +4,14 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-94 songs - 5 hr 8 min
+97 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90](https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [Mi Psicóloga Me Dijo Que Hiciera Este Disco](https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux) | 2:19 | 2023-03-23 |  |
 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/10n2LsN2yaV3yKFO8MPYWf) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/1AVZ6ej2XcpHtlTqTy91qt) | 5:14 | 2022-03-25 | 2022-12-11 |
 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/3VBBNAhTE6v7nkYEQ1JbFW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 5:14 | 2022-03-25 |  |
+| [A Todo Madre o a Un Desmadre](https://open.spotify.com/track/5SiPuGuAxZQ3TB1OQQUTdK) | [Juventude Maldita](https://open.spotify.com/artist/7bzxsNuoCLrHXzs34HEfL2), [Acidez](https://open.spotify.com/artist/6WLR9DKDnuIRXUXtEBPl8D) | [A Todo Madre o a Un Desmadre](https://open.spotify.com/album/4FtPiw8sIm5dGMDXx7AQ0q) | 4:22 | 2023-07-28 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 |  |
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 |  |
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-03-25 |  |
@@ -53,6 +54,7 @@
 | [La Pausa del Mundo](https://open.spotify.com/track/7cyO9d1l0jbytDniOqjtt9) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [La Pausa del Mundo](https://open.spotify.com/album/2br0xYm6FKv8DQtXEhLQTl) | 4:50 | 2022-03-25 |  |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-03-25 |  |
+| [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 | 2023-07-28 |  |
 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 | 2022-03-25 |  |
 | [Los Blake](https://open.spotify.com/track/747mWXYziAUdhNhzw5O87j) | [Papá Enojado](https://open.spotify.com/artist/6egJ8CflXTDNSFdIBduJUp) | [Enojado Maiden](https://open.spotify.com/album/4LYs0cNrc7g6OTocIyzpk0) | 2:46 | 2023-04-14 |  |
 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 | 2022-03-25 |  |
@@ -84,6 +86,7 @@
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-23 |  |
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
 | [ser feliz](https://open.spotify.com/track/4unFzO0xTe39Ni2sd0EXEI) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ser feliz](https://open.spotify.com/album/55c6HMx99ZGqkCoyAeN6hF) | 3:40 | 2022-03-25 |  |
+| [Siento](https://open.spotify.com/track/3SCNVBQtQbU18bgGBvPXOW) | [Mal Pasar](https://open.spotify.com/artist/3rFOwSVu18ny0UBce3HUy0) | [Siento](https://open.spotify.com/album/0f0lYdtu9kE6prjAUr7jiQ) | 3:34 | 2023-07-28 |  |
 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 | 2022-03-25 |  |
 | [The First Party on Mars](https://open.spotify.com/track/4R0szfTXAHewydqsTGFTks) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [The First Party On Mars](https://open.spotify.com/album/2oejdiZunfLbKSGrOswfFm) | 3:36 | 2022-03-25 |  |
 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 | 2022-03-25 | 2022-12-13 |

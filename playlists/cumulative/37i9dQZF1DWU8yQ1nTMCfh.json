@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: El Mat\u00f3 a un Polic\u00eda Motorizado",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
   "name": "Rock Total",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166717,
       "name": "Cuenta conmigo",
       "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
@@ -1443,7 +1443,7 @@
     },
     {
       "album": {
-        "name": "Flashbacks",
+        "name": "FLASHBACKS",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
       "artists": [
@@ -1456,7 +1456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173000,
-      "name": "Flashbacks",
+      "name": "FLASHBACKS",
       "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     },
     {
@@ -3846,6 +3846,24 @@
       "duration_ms": 218322,
       "name": "Todo Puede Ser Mejor - Fc Chdkf",
       "url": "https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL"
+    },
+    {
+      "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "album": {

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,472 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,485 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/track/1IY7R5UlUoBnntviHe1Iyx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/album/2rhWYBZjwNNftb8BXJ1ExP) | 1:21 |
 | 2 | [O Que Estou Fazendo Agora](https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [O Que Estou Fazendo Agora](https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe) | 3:21 |
-| 3 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
-| 4 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/1EHdm19uRPxleym1gLW9Cq) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/album/0tLksO6H9CKan8UY4zGfE1) | 3:05 |
-| 5 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 |
-| 6 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
-| 7 | [Atear](https://open.spotify.com/track/5p3BNHtia2EnxbKPtJKWzv) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Atear](https://open.spotify.com/album/1In7NJ5IIh6DkwHqGsDdVd) | 3:05 |
-| 8 | [Fogo](https://open.spotify.com/track/6wEiEmMHlej0JBEo51gG0q) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Canto Cego](https://open.spotify.com/album/2TvDoFaS8pi9DhiWYbjrwh) | 3:44 |
-| 9 | [Transa Amarrada](https://open.spotify.com/track/0qUF7pBT4G2KU9OmUgbBWV) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla e os Punks de Boutique](https://open.spotify.com/album/655eN18FDXJhTEghMeVFZP) | 2:30 |
-| 10 | [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 |
+| 3 | [Anticorpos](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Anticorpos](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 |
+| 4 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
+| 5 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/1EHdm19uRPxleym1gLW9Cq) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/album/0tLksO6H9CKan8UY4zGfE1) | 3:05 |
+| 6 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 |
+| 7 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
+| 8 | [Oq Sou pra Vc?](https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Plástico](https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S) | 2:59 |
+| 9 | [Atear](https://open.spotify.com/track/5p3BNHtia2EnxbKPtJKWzv) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Atear](https://open.spotify.com/album/1In7NJ5IIh6DkwHqGsDdVd) | 3:05 |
+| 10 | [Fogo](https://open.spotify.com/track/6wEiEmMHlej0JBEo51gG0q) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Canto Cego](https://open.spotify.com/album/2TvDoFaS8pi9DhiWYbjrwh) | 3:44 |
 | 11 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 |
 | 12 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
 | 13 | [Instantes no Tempo](https://open.spotify.com/track/0bDmOcahJ9Ju3PvvDqERuJ) | [Triunfe](https://open.spotify.com/artist/3mqeU6xC1G68L38l8Aogpu) | [Instantes no Tempo](https://open.spotify.com/album/7sLlsbTPomSXDp9QLm4OF8) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 | 75 | [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 |
 
-Snapshot ID: `MCxkZTBkOGMyMjI0OGRmYThmNjdhODkzMzYwZjU3YzQ4M2QyZmE2ZTUy`
+Snapshot ID: `MCw3ZDNmNjI3YTU3Yjg3ZDdmZTg3ZTcwMmQwYzgzODU4N2NkMWNkODQx`

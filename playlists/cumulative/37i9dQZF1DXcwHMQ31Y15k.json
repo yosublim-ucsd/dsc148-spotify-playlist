@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Hendra Kumbara",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Gilga Sahid",
   "name": "Boso Jowo",
   "tracks": [
+    {
+      "album": {
+        "name": "1001 Bintang",
+        "url": "https://open.spotify.com/album/5CmEzPjTkA6wkwOmzUsNeq"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262297,
+      "name": "1001 Bintang",
+      "url": "https://open.spotify.com/track/1DCgrzKULaaB2lsPgz8zNY"
+    },
     {
       "album": {
         "name": "Abadi",
@@ -356,6 +374,24 @@
       "duration_ms": 293000,
       "name": "Cerito Manis - Live",
       "url": "https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp"
+    },
+    {
+      "album": {
+        "name": "Cidro 2",
+        "url": "https://open.spotify.com/album/1VxbFInPOEVuo4DNbB6UoO"
+      },
+      "artists": [
+        {
+          "name": "Timur Priyono",
+          "url": "https://open.spotify.com/artist/1HorC0xr38lV1cu5zRArfu"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230476,
+      "name": "Cidro 2",
+      "url": "https://open.spotify.com/track/4aD2bXRBEjOY5zxOTtTVDt"
     },
     {
       "album": {
@@ -952,7 +988,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199800,
       "name": "Kangen Bali Ndeso",
       "url": "https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US"
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 292506,
       "name": "OTW (Omong Taek We)",
       "url": "https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU"
@@ -2470,7 +2506,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 361915,
       "name": "Roso Atiku",
       "url": "https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M"
@@ -2608,7 +2644,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 299912,
       "name": "Sadar Posisi",
       "url": "https://open.spotify.com/track/2zfMeqWy62AiZtgMNMrplj"
@@ -3226,6 +3262,24 @@
       "duration_ms": 294893,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE"
+    },
+    {
+      "album": {
+        "name": "Tutupono",
+        "url": "https://open.spotify.com/album/4jabGpRwf88fAgVkDxoPbd"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Tutupono",
+      "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"
     },
     {
       "album": {

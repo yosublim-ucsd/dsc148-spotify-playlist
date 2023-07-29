@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > These songs rocked the 10s\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,947 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,443 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 99 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
 | 100 | [Sure and Certain](https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:35 |
 
-Snapshot ID: `MCwxYTQ2YjRmODY5YThiNjhiMjA2YWVmMGFhYmNmMWY3ZGUxZWYwOTM1`
+Snapshot ID: `MCw4YjBiOWM0OGRiNTIxZWMyZWQyNDUxMGE5NjllYzc0MTQ0ZmNmZjJj`

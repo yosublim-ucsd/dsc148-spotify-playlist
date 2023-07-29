@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 39865,
+  "num_followers": 39906,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3",
+  "snapshot_id": "MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Boogie Woogie Motel Swing",
         "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 123626,
       "name": "Sue's Boogie",
       "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
-      },
-      "artists": [
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Battin' The Boogie",
+        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
+      },
+      "artists": [
+        {
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Killer Miller",
+      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -831,38 +831,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
       },
       "artists": [
         {
           "name": "Big Joe Turner",
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -895,6 +875,22 @@
       "duration_ms": 160795,
       "name": "Boogie Woogie - Mono",
       "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
       "artists": [
         {
           "name": "Big Joe Turner",
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
         }
       ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
-      },
-      "artists": [
-        {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "This Is Boogie Woogie!",
         "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 154826,
       "name": "Boogie In The City",
       "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+      },
+      "artists": [
+        {
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2023-05-04 16:53:25",

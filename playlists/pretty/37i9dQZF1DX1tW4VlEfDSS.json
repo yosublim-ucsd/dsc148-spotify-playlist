@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345589,
+  "num_followers": 345642,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3",
+  "snapshot_id": "MCw3YTdiYTM4OWQyNDlhOWRjOGI4NmRmZGYxZmRkNDJlYWFkNjQ4NjNm",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Got Time For Me (with Channel Tres)",
         "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 179034,
       "name": "Got Time For Me (with Channel Tres)",
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2023-07-14 04:01:00",

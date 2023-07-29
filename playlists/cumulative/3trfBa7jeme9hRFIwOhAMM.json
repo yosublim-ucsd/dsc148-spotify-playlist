@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1qInaVeIVUxnGEbbIyVr1H"
+      },
+      "artists": [
+        {
+          "name": "Aurelios",
+          "url": "https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144193,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3v7zHaByxrRcRIQiImLNtN"
+    },
+    {
+      "album": {
         "name": "Acid",
         "url": "https://open.spotify.com/album/7m9eInIrvBCl483lectTMn"
       },
@@ -148,7 +166,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
@@ -249,6 +267,32 @@
     },
     {
       "album": {
+        "name": "Safari / Ella Quiere EP",
+        "url": "https://open.spotify.com/album/4TTCyY1FPBVW1eA7zueYEX"
+      },
+      "artists": [
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Ella Quiere",
+      "url": "https://open.spotify.com/track/5HqE67HzcBwgg02U7nrGtS"
+    },
+    {
+      "album": {
         "name": "Find My Way / Within A Groove EP",
         "url": "https://open.spotify.com/album/69bxaEll6NPgrzE73SCPWC"
       },
@@ -304,6 +348,32 @@
       "duration_ms": 184836,
       "name": "Flying",
       "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153508,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
     },
     {
       "album": {
@@ -446,7 +516,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149047,
       "name": "I'll Stay With You",
       "url": "https://open.spotify.com/track/5tc1WMHKFiGA7qmhTXA3Jx"
@@ -537,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Like That (feat. Tyler Graves)",
+        "url": "https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Like That (feat. Tyler Graves)",
+      "url": "https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6"
+    },
+    {
+      "album": {
         "name": "Night Bass Remixed: Vol. 4",
         "url": "https://open.spotify.com/album/0woQlwNsQxgUlwZQsLAl77"
       },
@@ -622,7 +714,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 141473,
       "name": "Matadora (feat. Nakary)",
       "url": "https://open.spotify.com/track/4CSbEhNgvWn0oCTrROFOFB"
@@ -820,7 +912,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145200,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
@@ -1047,7 +1139,7 @@
     },
     {
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -1072,8 +1164,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "album": {
+        "name": "Mini Motors",
+        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146857,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
     },
     {
       "album": {
@@ -1106,7 +1220,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
@@ -1142,7 +1256,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177062,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/62PPEwfCdA9964U7PTAve7"
@@ -1164,6 +1278,24 @@
       "duration_ms": 201230,
       "name": "Telugu Tech",
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
+    },
+    {
+      "album": {
+        "name": "The Choir",
+        "url": "https://open.spotify.com/album/3aYaNe2shA2TjiS8qlAfJs"
+      },
+      "artists": [
+        {
+          "name": "Max Bering",
+          "url": "https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "The Choir",
+      "url": "https://open.spotify.com/track/5g1nJ7IHA8dvwHWJ0V2wEU"
     },
     {
       "album": {
@@ -1222,7 +1354,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181935,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/70CJtBiTylBip3aTb7wPB6"
@@ -1358,7 +1490,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180465,
       "name": "VIP Business",
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
@@ -1402,6 +1534,28 @@
       "duration_ms": 154285,
       "name": "Wataqui",
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "album": {
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD"
+      },
+      "artists": [
+        {
+          "name": "Pietro Giacobbi",
+          "url": "https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7"
+        },
+        {
+          "name": "STRIKE",
+          "url": "https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Watch",
+      "url": "https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW"
     },
     {
       "album": {

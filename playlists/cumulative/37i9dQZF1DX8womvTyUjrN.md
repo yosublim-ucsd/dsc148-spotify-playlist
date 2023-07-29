@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Sobrino
+> Fresh Latin pop on the rise\. Cover: Alex Luna
 
-426 songs - 21 hr 26 min
+427 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,12 +236,13 @@
 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 | 2022-10-07 | 2022-12-17 |
 | [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-02-24 | 2023-06-29 |
 | [Me Quedo Solo](https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Me Quedo Solo](https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq) | 3:35 | 2022-06-17 | 2022-07-26 |
+| [Me Quieres Cuando No Estas Bien](https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Quieres Cuando No Estas Bien](https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw) | 3:17 | 2023-07-28 |  |
 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-23 | 2023-01-16 |
 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 | 2023-07-21 |  |
 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 | 2022-09-09 | 2022-10-29 |
 | [Mentiroso](https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde) | [NATYASH](https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mentiroso](https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9) | 3:39 | 2022-10-04 | 2022-12-10 |
 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 | 2023-05-26 | 2023-06-10 |
-| [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 | 2023-04-14 |  |
+| [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 | 2023-04-14 | 2023-07-29 |
 | [Mi una en 1M](https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Mi una en 1M](https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ) | 3:08 | 2023-05-12 | 2023-05-27 |
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-10 | 2023-07-22 |
 | [Miami](https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 2:54 | 2022-12-02 | 2023-02-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 62921,
+  "num_followers": 62963,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTQ0Y2ZjZWY2MDAyMDk5ZjU3OTczNGQ2ZDIyOTU5YmI3NGMwYWQ1",
+  "snapshot_id": "MCw5NDA4MDViMDVjNWIzYTU3M2IyZjVlNjQzNWE3OGMwY2ViNjdmNTAx",
   "tracks": [
     {
       "added_at": "2023-07-21 05:25:33",
@@ -129,6 +129,30 @@
       "url": "https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX"
     },
     {
+      "added_at": "2023-07-28 05:52:09",
+      "album": {
+        "name": "Labon Se Baat - The Ghazal",
+        "url": "https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 311371,
+      "name": "Labon Se Baat - The Ghazal",
+      "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
+    },
+    {
       "added_at": "2023-07-21 05:25:33",
       "album": {
         "name": "Pasoori",
@@ -165,6 +189,22 @@
       "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
     },
     {
+      "added_at": "2023-07-26 09:54:32",
+      "album": {
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
+    },
+    {
       "added_at": "2023-07-21 05:25:33",
       "album": {
         "name": "Tu Jhoom",
@@ -183,22 +223,6 @@
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
-    },
-    {
-      "added_at": "2023-07-26 09:54:32",
-      "album": {
-        "name": "Paniya",
-        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 190128,
-      "name": "Dil Mein Ab",
-      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -327,18 +351,26 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+        "name": "Naina Morey (Redefined)",
+        "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
       },
       "artists": [
         {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+          "name": "Umashankar Kathak",
+          "url": "https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor"
+        },
+        {
+          "name": "Jayesh Kathak",
+          "url": "https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         }
       ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+      "duration_ms": 202838,
+      "name": "Naina Morey - Redefined",
+      "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -367,26 +399,18 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Naina Morey (Redefined)",
-        "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
       "artists": [
         {
-          "name": "Umashankar Kathak",
-          "url": "https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor"
-        },
-        {
-          "name": "Jayesh Kathak",
-          "url": "https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
         }
       ],
-      "duration_ms": 202838,
-      "name": "Naina Morey - Redefined",
-      "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -411,6 +435,30 @@
       "duration_ms": 432893,
       "name": "Zariya",
       "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -495,30 +543,6 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
         "name": "Sargam Surge",
         "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
       },
@@ -543,22 +567,6 @@
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -663,6 +671,22 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
         "name": "Songs Of The River - Ganga",
         "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
@@ -683,26 +707,6 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Rangderi",
-        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Asha Sapera",
-          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
-        }
-      ],
-      "duration_ms": 364796,
-      "name": "Rangderi",
-      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -759,22 +763,6 @@
     {
       "added_at": "2023-07-21 05:25:33",
       "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
         "name": "Raghupati",
         "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
@@ -787,6 +775,22 @@
       "duration_ms": 304250,
       "name": "Raghupati",
       "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -823,6 +827,26 @@
       "duration_ms": 348000,
       "name": "Padharo Mhare Des - Folk Fusion",
       "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+    },
+    {
+      "added_at": "2023-07-21 05:25:33",
+      "album": {
+        "name": "Rangderi",
+        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Asha Sapera",
+          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
+        }
+      ],
+      "duration_ms": 364796,
+      "name": "Rangderi",
+      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-07-21 05:25:33",
@@ -979,30 +1003,6 @@
       "duration_ms": 400957,
       "name": "Rangi Saari Gulabi Chunariya",
       "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
-    },
-    {
-      "added_at": "2023-07-21 05:25:33",
-      "album": {
-        "name": "Krishna Murari",
-        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
-      },
-      "artists": [
-        {
-          "name": "Hrishikesh Datar",
-          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
-        },
-        {
-          "name": "Shilpa Puntambekar",
-          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
-        },
-        {
-          "name": "Savani Kulkarni",
-          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
-        }
-      ],
-      "duration_ms": 225353,
-      "name": "Krishna Murari",
-      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
     }
   ],
   "unique_name": "Fusion Finds",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,579 likes - 112 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,599 likes - 112 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 111 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 112 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCxlYzlkNGE5YWMxZGZkOWViOWEyMzMwYzg0NDZjZGNiODFmMDgxYjQz`
+Snapshot ID: `MCw2MzJjNWI2ZmIwNzc0ZWIyNWRiNTIxY2U1NzgzZTQyOWVmMDk4M2Q2`

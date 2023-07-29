@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Beto Vega & Lefty SM en portada.",
+  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Ram\u00f3n Vega & Christian Nodal en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Ando Chingon",
+        "url": "https://open.spotify.com/album/5Mzs9LiLkJonct2uiVIc5s"
+      },
+      "artists": [
+        {
+          "name": "Melodico",
+          "url": "https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221328,
+      "name": "Ando Chingon",
+      "url": "https://open.spotify.com/track/6C9yjPrCex3T83k5oOUZoH"
+    },
+    {
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -522,7 +544,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
@@ -929,6 +951,28 @@
     },
     {
       "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
       },
@@ -1234,7 +1278,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
@@ -1536,6 +1580,28 @@
       "duration_ms": 226000,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/09dpwwy68FFPop9VPYSadL"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
     },
     {
       "album": {
@@ -2291,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179372,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
+    },
+    {
+      "album": {
         "name": "Me Met\u00ed en el Ruedo (Remix)",
         "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
       },
@@ -2478,7 +2566,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129953,
       "name": "Negro Como La Pantera",
       "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
@@ -2500,7 +2588,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
@@ -2940,7 +3028,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
@@ -3304,6 +3392,28 @@
       "duration_ms": 238285,
       "name": "Te Invito a Mi Barrio",
       "url": "https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6"
+    },
+    {
+      "album": {
+        "name": "Te Lo Agradezco",
+        "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183667,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
     },
     {
       "album": {

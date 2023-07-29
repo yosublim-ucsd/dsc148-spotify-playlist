@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,521 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,523 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 25 | [Put It Down](https://open.spotify.com/track/0xGgaX21ytUiJu1nIgdYpa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:03 |
 | 26 | [The Beginning](https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 1:41 |
 | 27 | [Soul to Seoul](https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:29 |
-| 28 | [Lune](https://open.spotify.com/track/0OWM271M81gfFl3RdM9AmI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:02 |
-| 29 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
-| 30 | [Lovely Soul](https://open.spotify.com/track/1SjMeC7cK1SiK76J0qm5mi) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:40 |
+| 28 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
+| 29 | [Lune](https://open.spotify.com/track/0OWM271M81gfFl3RdM9AmI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:02 |
+| 30 | [Sweet Day](https://open.spotify.com/track/3w4hulywDgU9V8D9qw5B08) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:36 |
 | 31 | [Come and Go \- Halogenix Remix](https://open.spotify.com/track/6Jtsd3odMpY7p5XOS3VgY0) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP) | 4:08 |
-| 32 | [Renter's Anthem](https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:58 |
-| 33 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
-| 34 | [Sweet Day](https://open.spotify.com/track/3w4hulywDgU9V8D9qw5B08) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:36 |
+| 32 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
+| 33 | [Renter's Anthem](https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:58 |
+| 34 | [Lovely Soul](https://open.spotify.com/track/1SjMeC7cK1SiK76J0qm5mi) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:40 |
 | 35 | [Sakamoto's Spring](https://open.spotify.com/track/5Jebi010cDghmArxUrQeBB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:16 |
-| 36 | [Fried for the Night](https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:10 |
-| 37 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 |
+| 36 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 |
+| 37 | [Fried for the Night](https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:10 |
 | 38 | [We Love \- Felix Cartal Remix](https://open.spotify.com/track/4sq6ztw5bT9pibLbt8xxD3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/7uKVs92IVcvcoMzhPbi8V5) | 3:10 |
 | 39 | [Surrender](https://open.spotify.com/track/3jifQTZXtoV5KxLGi1snKz) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [You're Invited](https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1) | 3:40 |
 | 40 | [Sa Mo Jung](https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 |
 | 50 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDBmNjhhODM4MzlhNzQ0MzNhM2QwNmI3ZDY2NWNkNjZhZQ==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDAzNzQ1MDY0YjYyOTBmYWM4ODBmNjE5ZWE3YWYzZjY2Zg==`

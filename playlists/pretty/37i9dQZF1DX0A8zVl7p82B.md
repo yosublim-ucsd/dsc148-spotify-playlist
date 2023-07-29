@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973,767 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973,602 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 38 | [Merry Christmas Darling \- Single Version](https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Essential Collection \(1965\-1997\)](https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK) | 3:05 |
 | 39 | [Christmas Time Is Here](https://open.spotify.com/track/0yHmaiDRUkiQcl0heatewy) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:03 |
 | 40 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 |
-| 41 | [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
+| 41 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
 | 42 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 |
 | 43 | [Holiday Party](https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Holiday Party](https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1) | 3:01 |
 | 44 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 79 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 80 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 
-Snapshot ID: `MCwxMDM1ZDg2MWQ2Mzg1NzAyMzljZjVlNDViYjgzYWYzZWJhZDQzYmNh`
+Snapshot ID: `MCw3OTNiZWZkZGY3YzkxYWEzMWVkOGMwODBmMGViZTg2MDEyMzcwN2Rh`

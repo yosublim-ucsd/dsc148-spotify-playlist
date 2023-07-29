@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-128 songs - 6 hr 47 min
+129 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Convergencia](https://open.spotify.com/track/7hrfIQSiR8E5uNkzXmQQlB) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Estrellas del Bolero: Conexión Lima \- La Habana](https://open.spotify.com/album/15Zd8kkEu47XtHJqIZz9RR) | 2:50 | 2021-12-17 | 2022-07-28 |
 | [Corazoncito](https://open.spotify.com/track/1ZLZh65nKQUKzb4Qss04pu) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC) | 3:12 | 2021-12-17 | 2022-07-27 |
 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 | 2021-12-17 |  |
-| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 |  |
+| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 | 2023-07-29 |
 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 | 2021-12-17 | 2022-11-13 |
+| [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-07-28 |  |
 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 | 2021-12-17 |  |
 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 233514,
+  "num_followers": 233622,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "'Til You Can\u2019t / Longer Than She Did",
-        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 224773,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
+      "duration_ms": 174680,
+      "name": "Dance Her Home",
+      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -643,8 +643,8 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        "name": "'Til You Can\u2019t / Longer Than She Did",
+        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Dance Her Home",
-      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
+      "duration_ms": 224773,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Any Night in Texas",
+        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Boots on a Dance Floor",
+      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Hold My Beer, Vol. 1",
         "url": "https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 216782,
       "name": "'Til It Does",
       "url": "https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Any Night in Texas",
-        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Boots on a Dance Floor",
-      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
     },
     {
       "added_at": "2023-06-09 04:01:00",

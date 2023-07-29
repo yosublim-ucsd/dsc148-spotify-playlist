@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Lauriete
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares
 
-166 songs - 13 hr 55 min
+167 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [O Amor de Deus](https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Jesus e Eu](https://open.spotify.com/album/3yirJSowuG0LVwqiuOjN8l) | 4:02 | 2023-04-15 | 2023-05-06 |
 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 | 2022-09-09 |  |
 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 | 2022-09-09 |  |
-| [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 | 2022-09-09 |  |
+| [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 | 2022-09-09 | 2023-07-29 |
 | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Fábio Paixão](https://open.spotify.com/artist/0ZCCRYuNWy7ySsQyVDnTKr) | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq) | 4:16 | 2023-03-03 | 2023-04-16 |
 | [O Laço Quebrou](https://open.spotify.com/track/62GyXwfo1upFdbx9MxonJh) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [O Laço Quebrou](https://open.spotify.com/album/3fmwuz2g3d8yvt8gQRYbER) | 4:18 | 2023-04-28 | 2023-06-03 |
 | [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 | 2022-09-09 | 2023-07-04 |
@@ -163,6 +163,7 @@
 | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 | 2023-03-11 |  |
 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 | 2022-09-09 |  |
 | [Vai Ter Festa](https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Vai Ter Festa](https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX) | 5:29 | 2023-03-17 |  |
+| [Vai Ter Resposta](https://open.spotify.com/track/7bol88BQ1ZpxWgpBiZXk9M) | [Flávia Domingues](https://open.spotify.com/artist/5l5c5OEGDESv4wKwLBWDzE), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Vai Ter Resposta](https://open.spotify.com/album/5QDCJezujUI5QHPOHTxNcE) | 4:24 | 2023-07-28 |  |
 | [Vai Ter Surpresa \(Ao Vivo\)](https://open.spotify.com/track/3JBriN1tBkNyni3c7hsxj2) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [Vai Ter Surpresa \(Ao Vivo\)](https://open.spotify.com/album/35ldhu30Vn4LecR1FrUqLR) | 4:25 | 2023-07-07 |  |
 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 | 2022-09-09 |  |
 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 | 2022-09-09 |  |

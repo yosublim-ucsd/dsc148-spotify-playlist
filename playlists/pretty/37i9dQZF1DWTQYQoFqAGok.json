@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56795,
+  "num_followers": 56807,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
+  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -735,22 +751,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",

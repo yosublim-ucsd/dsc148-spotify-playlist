@@ -1,13 +1,29 @@
 {
-  "description": "Here is a playlist of all our songs released so far. Our new single 'Bootleg Firecracker' is out now!",
-  "num_followers": 2229,
+  "description": "Here is a playlist of all our songs released so far. Our new single 'Highlands' is out now!",
+  "num_followers": 2263,
   "original_name": "Middle Kids - Complete Collection",
   "owner": {
     "name": "middle_kids_official",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "NzQsYTJjNTQ4ZGY5Zjc3Y2IxYmM5MzFiNzI2MWI2YzAxYzMwZDJhMjlmZA==",
+  "snapshot_id": "NzgsOTk4NDQzNmQxMDQ3ZTUyMjk1OTFiZmU1OTJmNmNkOGU3OWU1OTQ1NQ==",
   "tracks": [
+    {
+      "added_at": "2023-07-26 08:41:27",
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I"
+    },
     {
       "added_at": "2023-05-30 07:00:37",
       "album": {

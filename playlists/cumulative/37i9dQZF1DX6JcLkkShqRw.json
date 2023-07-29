@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
@@ -7791,6 +7791,48 @@
     },
     {
       "album": {
+        "name": "Hoy Me Levante (feat. Peke\u00f1o 77, C.R.O, Lucho SSJ & Harry Nach)",
+        "url": "https://open.spotify.com/album/16WxytIupAfCnuBDTwJ1Fj"
+      },
+      "artists": [
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312611,
+      "name": "Hoy Me Levante (feat. Peke\u00f1o 77, C.R.O, Lucho SSJ & Harry Nach)",
+      "url": "https://open.spotify.com/track/60rBAur9bc1mt4aT7M2R7L"
+    },
+    {
+      "album": {
         "name": "Hoy Me Voy de Party",
         "url": "https://open.spotify.com/album/6NYlZNf37H2xdgwAnjfREi"
       },
@@ -8686,7 +8728,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139518,
       "name": "La Chain",
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
@@ -9034,7 +9076,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
@@ -11160,7 +11202,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246315,
       "name": "Mi Gata - Remix",
       "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
@@ -13137,6 +13179,32 @@
     },
     {
       "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "album": {
         "name": "Noche en LA",
         "url": "https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw"
       },
@@ -14152,6 +14220,28 @@
       "duration_ms": 196415,
       "name": "Pal Carajo el Amor",
       "url": "https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk"
+    },
+    {
+      "album": {
+        "name": "PaLos 2",
+        "url": "https://open.spotify.com/album/1VnrQR57T9RK0LZGNNzboc"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "PaLos 2",
+      "url": "https://open.spotify.com/track/6Um1Mx1DhEgdLY5FVcZFjs"
     },
     {
       "album": {
@@ -15246,6 +15336,28 @@
       "duration_ms": 127384,
       "name": "Prendido",
       "url": "https://open.spotify.com/track/0ObIcITbCpq4FAu98gYNbg"
+    },
+    {
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187481,
+      "name": "PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500"
     },
     {
       "album": {

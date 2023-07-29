@@ -6051,6 +6051,28 @@
     },
     {
       "album": {
+        "name": "Young Shahrukh (Sped Up)",
+        "url": "https://open.spotify.com/album/12wJOVpoE0dleBcqEHgAWq"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "IAMPRATHEEK",
+          "url": "https://open.spotify.com/artist/3XZ12XrEzmileZJFImRHxN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131935,
+      "name": "Young Shahrukh - Sped Up",
+      "url": "https://open.spotify.com/track/6jmEGhparSjXzLHEe9AVGS"
+    },
+    {
+      "album": {
         "name": "Zihaal e Miskin",
         "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
       },

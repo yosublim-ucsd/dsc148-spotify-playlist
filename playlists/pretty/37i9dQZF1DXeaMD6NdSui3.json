@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 124613,
+  "num_followers": 124726,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw",
+  "snapshot_id": "MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -351,22 +351,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
-      },
-      "artists": [
-        {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Los Lonely Boys",
         "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 287200,
       "name": "Crazy Dream",
       "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+      },
+      "artists": [
+        {
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2016-03-18 21:56:19",

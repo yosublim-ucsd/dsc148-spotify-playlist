@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
 256 songs - 16 hr 7 min
 

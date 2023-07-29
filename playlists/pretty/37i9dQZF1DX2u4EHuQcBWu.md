@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,920 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,990 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 92 | [Plegaria A Un Labrador](https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Antología 1968\-1992](https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4) | 3:14 |
 | 93 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
 | 94 | [Grita Tierra](https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ) | [UN Live](https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Sandesh Manuel](https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Hna Nidia Macías](https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp) | [Grita Tierra](https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z) | 4:35 |
-| 95 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
-| 96 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
+| 95 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
+| 96 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
 | 97 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
 | 98 | [Polyrics](https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R) | 4:59 |
 | 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 100 | [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 |
 
-Snapshot ID: `MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw`
+Snapshot ID: `MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi`

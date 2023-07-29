@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Travis Scott\n",
+  "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Post Malone",
   "name": "SUPERNOVA",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -1702,6 +1702,32 @@
       "duration_ms": 221440,
       "name": "Bigger Than Me",
       "url": "https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
     },
     {
       "album": {
@@ -3151,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "DELRESTO (ECHOES)",
+        "url": "https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/04CXnx5jbmTSXhItqc13fs"
+    },
+    {
+      "album": {
         "name": "Dengo",
         "url": "https://open.spotify.com/album/1XslYOpo2pgwh4KRlTb7k2"
       },
@@ -3254,6 +3302,28 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "album": {
@@ -3414,7 +3484,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
@@ -3982,7 +4052,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209803,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
@@ -4034,6 +4104,24 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "album": {
@@ -4373,6 +4461,32 @@
     },
     {
       "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199313,
+      "name": "Falling Up (with Pharrell Williams & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1"
+    },
+    {
+      "album": {
         "name": "Family (feat. IZA, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/6cthT1KP1drgL7X8Uf0K31"
       },
@@ -4418,7 +4532,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183884,
       "name": "Family (with Suzanna Son)",
       "url": "https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s"
@@ -5738,7 +5852,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149903,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1fB1m65t28LjFyvEJpBIIf"
@@ -8537,6 +8651,28 @@
     },
     {
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "album": {
         "name": "My Crystal Nails",
         "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
       },
@@ -8686,7 +8822,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155202,
       "name": "Never Ending Song",
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
@@ -9330,7 +9466,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154586,
       "name": "Only Love Can Save Us Now",
       "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
@@ -11625,6 +11761,24 @@
     },
     {
       "album": {
+        "name": "Summa Hot",
+        "url": "https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136736,
+      "name": "Summa Hot",
+      "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
@@ -12226,7 +12380,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 262062,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
@@ -12939,6 +13093,36 @@
     },
     {
       "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
+    },
+    {
+      "album": {
         "name": "Vai Sentando (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu"
       },
@@ -13500,7 +13684,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
@@ -13536,7 +13720,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
@@ -13735,6 +13919,28 @@
     },
     {
       "album": {
+        "name": "Year 3000 2.0",
+        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197387,
+      "name": "Year 3000 2.0",
+      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -13768,6 +13974,28 @@
       "duration_ms": 212640,
       "name": "Yo Yo",
       "url": "https://open.spotify.com/track/1iLizzooWyhDEF3OgiVEoS"
+    },
+    {
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 45 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
 | 46 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDAyMDkyODljMTI4ODA1NjhmNWIyZmFjYWRmMGNhOTA5OA==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBjOWUxZTJhZDVhMGQwZGQwZjVlNjBjNjQwOTVkNzc0Yw==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Kant",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 143641,
       "name": "Aben\u00e7oado D+ / 0800",
       "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 133653,
       "name": "Al\u00e9m",
       "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209538,
       "name": "Chama",
       "url": "https://open.spotify.com/track/2E2IF0AdO9YpbXcshjuz5l"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146000,
       "name": "Dia de Show",
       "url": "https://open.spotify.com/track/6LsuOeGYEiRHuwZ5VTrjEd"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184324,
       "name": "Fatos & Fatos",
       "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 195428,
       "name": "Filho do Homem",
       "url": "https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189841,
       "name": "Hey, Pai",
       "url": "https://open.spotify.com/track/7Iad9Q6KKZby4W1OVQm84r"
@@ -2691,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Lord Jesus (Speed)",
+        "url": "https://open.spotify.com/album/6pqdbGTQYqufkPlapM04Uq"
+      },
+      "artists": [
+        {
+          "name": "Bodybuilding Speed",
+          "url": "https://open.spotify.com/artist/6edmRMwiY07gTZBKVDEr3u"
+        },
+        {
+          "name": "Lil Boas",
+          "url": "https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187235,
+      "name": "Lord Jesus (Speed)",
+      "url": "https://open.spotify.com/track/08eDRWIuA9mBKKMBK20cmg"
+    },
+    {
+      "album": {
         "name": "Luva de Pedreiro - Mudei",
         "url": "https://open.spotify.com/album/2pgVPTtO7vfvRub0ARIs2L"
       },
@@ -2994,10 +3016,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 251066,
       "name": "Meu Deus N\u00e3o Falha",
       "url": "https://open.spotify.com/track/6xyUrWih5dQ3hIoGbklFr9"
+    },
+    {
+      "album": {
+        "name": "Meu Maior Bem (Speed)",
+        "url": "https://open.spotify.com/album/28DAmcBlt8CUfsNJTYOf46"
+      },
+      "artists": [
+        {
+          "name": "Tutuzzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127004,
+      "name": "Meu Maior Bem - Speed",
+      "url": "https://open.spotify.com/track/2jJlcXWhvXVNx1ro2r2eZW"
     },
     {
       "album": {
@@ -3224,7 +3268,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 198351,
       "name": "Ningu\u00e9m Me Entende",
       "url": "https://open.spotify.com/track/0tvZuMM9m91THeT5mB6tZZ"
@@ -3498,7 +3542,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161514,
       "name": "O Rei",
       "url": "https://open.spotify.com/track/2hfTRSHxgQPqfjiIIYMrwt"
@@ -3747,6 +3791,32 @@
     },
     {
       "album": {
+        "name": "Pe\u00e7o ao Pai",
+        "url": "https://open.spotify.com/album/0UxrV2Onm8AQmIOFTeaRIG"
+      },
+      "artists": [
+        {
+          "name": "MC Fabr\u00edcio SP",
+          "url": "https://open.spotify.com/artist/6bRBaUU1jYP9cCFGneI3rb"
+        },
+        {
+          "name": "MC NEGO LAMA",
+          "url": "https://open.spotify.com/artist/2QqWULuCFMJcUcE8ekHQkP"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Pe\u00e7o ao Pai",
+      "url": "https://open.spotify.com/track/1iDv4IFu49D5zurfn2T2Yu"
+    },
+    {
+      "album": {
         "name": "ANTES DA TERAPIA",
         "url": "https://open.spotify.com/album/2UcA9JP84upGyFkVmGI5Ie"
       },
@@ -3930,7 +4000,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147863,
       "name": "Preciso Ter F\u00e9",
       "url": "https://open.spotify.com/track/20zWHjYm7VI6rBH2byDdpr"
@@ -4355,6 +4425,32 @@
     },
     {
       "album": {
+        "name": "Se Eu Te Dissesse",
+        "url": "https://open.spotify.com/album/1HkQvSqoRfTqx2PdztFFHl"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119293,
+      "name": "Se Eu Te Dissesse",
+      "url": "https://open.spotify.com/track/1pweaRmV9hW84DPcw32CbM"
+    },
+    {
+      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -4686,7 +4782,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167058,
       "name": "Te Encontrar",
       "url": "https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6"
@@ -4790,6 +4886,40 @@
       "duration_ms": 193548,
       "name": "Terra Prometida",
       "url": "https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1"
+    },
+    {
+      "album": {
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/3iy6RkWquXFeUGiKjwejpT"
+      },
+      "artists": [
+        {
+          "name": "Doze Project",
+          "url": "https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez"
+        },
+        {
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "SevenRxni",
+          "url": "https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/6mHgRaolvfL4myzQOEi5FU"
     },
     {
       "album": {
@@ -4936,7 +5066,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Uma Miss\u00e3o",
       "url": "https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ"

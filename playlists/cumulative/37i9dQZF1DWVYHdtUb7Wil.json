@@ -668,10 +668,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 252000,
       "name": "Home",
       "url": "https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
     },
     {
       "album": {

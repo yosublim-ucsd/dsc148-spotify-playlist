@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 60238,
+  "num_followers": 60320,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjU1YTQ0MWVhYjIxNjI0MjQwODJhOTA1ZjgxYjYzYjhkM2I0YmQw",
+  "snapshot_id": "MCxiOTg0NzY5YWYzNmQ2MTIyNDRiNDc0MGRjZmRjYTBmNTYxZjI4YWQ3",
   "tracks": [
     {
       "added_at": "2023-07-21 13:40:20",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
+        "name": "Love Like That",
+        "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 166654,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx"
+    },
+    {
+      "added_at": "2023-07-21 13:40:20",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -595,26 +619,6 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
-    },
-    {
-      "added_at": "2023-07-21 13:40:20",
-      "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
     },
     {
       "added_at": "2023-07-21 13:40:20",
@@ -639,26 +643,22 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
-        "name": "Love Like That",
-        "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
         },
         {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 166654,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx"
+      "duration_ms": 168727,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
     },
     {
       "added_at": "2023-07-21 13:40:20",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
+        "name": "Ziggy Reloaded II",
+        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
+      },
+      "artists": [
+        {
+          "name": "Ziggy",
+          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
+        }
+      ],
+      "duration_ms": 102187,
+      "name": "Look Back It (Club Mix)",
+      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
+    },
+    {
+      "added_at": "2023-07-21 13:40:20",
+      "album": {
         "name": "Da Girls (Dance Mix)",
         "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
-        "name": "Ziggy Reloaded II",
-        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
+        "name": "make it jump",
+        "url": "https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6"
       },
       "artists": [
         {
-          "name": "Ziggy",
-          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
+          "name": "mortyaweiro",
+          "url": "https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj"
         }
       ],
-      "duration_ms": 102187,
-      "name": "Look Back It (Club Mix)",
-      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
+      "duration_ms": 184058,
+      "name": "make it jump",
+      "url": "https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm"
     },
     {
       "added_at": "2023-07-21 13:40:20",
@@ -975,22 +991,6 @@
       "duration_ms": 192949,
       "name": "Jersey Anniversary",
       "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
-    },
-    {
-      "added_at": "2023-07-21 13:40:20",
-      "album": {
-        "name": "make it jump",
-        "url": "https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6"
-      },
-      "artists": [
-        {
-          "name": "mortyaweiro",
-          "url": "https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "make it jump",
-      "url": "https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm"
     },
     {
       "added_at": "2023-07-21 13:40:20",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+    },
+    {
+      "added_at": "2023-07-21 13:40:20",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+    },
+    {
+      "added_at": "2023-07-21 13:40:20",
+      "album": {
         "name": "#miles (DJ Sliink Remix)",
         "url": "https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK"
       },
@@ -1179,38 +1211,6 @@
       "duration_ms": 196776,
       "name": "#miles (DJ Sliink Remix)",
       "url": "https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur"
-    },
-    {
-      "added_at": "2023-07-21 13:40:20",
-      "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
-    },
-    {
-      "added_at": "2023-07-21 13:40:20",
-      "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
-      },
-      "artists": [
-        {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
     },
     {
       "added_at": "2023-07-21 13:40:20",
@@ -1367,34 +1367,6 @@
     {
       "added_at": "2023-07-21 13:40:20",
       "album": {
-        "name": "Peak",
-        "url": "https://open.spotify.com/album/711EydKD8864deSaIuYXXt"
-      },
-      "artists": [
-        {
-          "name": "grouptherapy.",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
-          "name": "TJOnline",
-          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Peak",
-      "url": "https://open.spotify.com/track/2UF123lXWokwkCdYOxrzD2"
-    },
-    {
-      "added_at": "2023-07-21 13:40:20",
-      "album": {
         "name": "New Jersey Club EP",
         "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
       },
@@ -1423,6 +1395,34 @@
       "duration_ms": 121306,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM"
+    },
+    {
+      "added_at": "2023-07-21 13:40:20",
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/711EydKD8864deSaIuYXXt"
+      },
+      "artists": [
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "TJOnline",
+          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/2UF123lXWokwkCdYOxrzD2"
     }
   ],
   "unique_name": "Jersey Club Heat",

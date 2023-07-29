@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-101 songs - 6 hr 21 min
+102 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 | 2023-02-24 |
 | [Ragu?](https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Ragu?](https://open.spotify.com/album/0U7CnDEqU7eVjqnAdq9gE0) | 3:19 | 2023-03-23 |  |
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2022-12-13 |  |
+| [Rooftop](https://open.spotify.com/track/5WvjSwYF94M3xnqfBgrOsc) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [Fly As One](https://open.spotify.com/album/4OG67OY8Bw4bErc9acA2df) | 3:06 | 2023-07-28 |  |
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 |  |
 | [Sampai Kapan](https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:58 | 2022-12-13 | 2023-06-08 |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-13 |  |

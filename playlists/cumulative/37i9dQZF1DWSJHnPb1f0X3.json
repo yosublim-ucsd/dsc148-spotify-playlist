@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184652,
       "name": "Miss Belladonna",
       "url": "https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK"
@@ -10508,7 +10508,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183439,
       "name": "Static Body",
       "url": "https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs"
@@ -11864,6 +11864,24 @@
       "duration_ms": 120283,
       "name": "U&U (with Tim North)",
       "url": "https://open.spotify.com/track/4RLVg2FjMpGkvmBCabD9jN"
+    },
+    {
+      "album": {
+        "name": "Feed The Beast",
+        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "uhoh",
+      "url": "https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70"
     },
     {
       "album": {

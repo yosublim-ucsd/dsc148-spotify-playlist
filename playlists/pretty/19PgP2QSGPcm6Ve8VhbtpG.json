@@ -1,12 +1,12 @@
 {
   "description": "The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.",
-  "num_followers": 2481080,
+  "num_followers": 2481273,
   "original_name": "80s HITS | TOP 100 SONGS",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "Mjg1Niw2YjE0NTU2YmMyMDUzZjEzODhiODcxZjVmOWUzZTEzMzkwM2RhZDY2",
+  "snapshot_id": "Mjg1NywyZGYwNzIxNmE2NjBiZjljZjNmN2E2Yzc3Njk1MWI3MjYxMTIyYWRh",
   "tracks": [
     {
       "added_at": "2023-07-27 21:31:45",
@@ -1623,6 +1623,22 @@
       "duration_ms": 262560,
       "name": "Jump (Original Mix)",
       "url": "https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna"
+    },
+    {
+      "added_at": "2023-07-28 16:59:17",
+      "album": {
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "You're the Voice",
+      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
     }
   ],
   "unique_name": "80s HITS | TOP 100 SONGS",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,220 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,233 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 2 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 |
 | 3 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 4 | [DEADZONE](https://open.spotify.com/track/3I8sa5jauQT4bDGLLsCPB0) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Welcome Presents Little Comp Of Horrors Vol\. 4](https://open.spotify.com/album/3wwM2kBsfuXEYiiVtMiSLg) | 3:39 |
-| 5 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
+| 5 | [Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 5:28 |
 | 6 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
 | 7 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 8 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCwxOTUxMjJkM2RiYTJjMjlmYzZiMDY2NGIwYTQ3MDY2ZGExM2Y2ZTA1`
+Snapshot ID: `MCw0OTIyYTc1MGIwZTlkMGVkMTg2MTMyNGI0ZmExMTAyZDNkM2JkNGRh`

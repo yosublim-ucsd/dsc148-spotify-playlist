@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-383 songs - 23 hr 8 min
+385 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Christmas Song](https://open.spotify.com/track/50OMOmI9I4qLcPiHQPhPd0) | [Joy Zipper](https://open.spotify.com/artist/0MMY27gk33Lxyk0FwcJldc) | [American Whip](https://open.spotify.com/album/7AutLmzZFNobw3sXLmDYQE) | 3:38 | 2022-03-19 | 2022-04-13 |
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Circling](https://open.spotify.com/track/2zQl6KpCsrsy7dcBnd2jec) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Circling](https://open.spotify.com/album/5YAFmQHeZWhtgAiyZ77UBF) | 3:20 | 2022-03-19 | 2022-04-14 |
+| [Close One](https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc) | 3:55 | 2023-07-28 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-03-19 |  |
 | [Comedown](https://open.spotify.com/track/2EjgVZre5ONvZLNw59kEIn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/5UumZ7WIf4xAJyv4OZHafI) | 4:20 | 2021-11-12 | 2022-10-13 |
 | [Comedown](https://open.spotify.com/track/7bFFH4Kfb7rwbDdDli0TAF) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/2mbIiYHX4NXOZAPJcAugNT) | 4:20 | 2022-08-05 |  |
@@ -107,7 +108,7 @@
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-27 |
 | [Fade](https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Fade](https://open.spotify.com/album/03fIulT5GrejWSWLl5TnRZ) | 4:27 | 2021-11-12 | 2022-07-28 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-07-29 |
-| [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 | 2022-06-22 |  |
+| [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 | 2022-06-22 | 2023-07-29 |
 | [Far Out](https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Far Out / Follies Fixture](https://open.spotify.com/album/2LONjruohqPKqKsMVwChw8) | 4:18 | 2021-11-12 | 2022-07-29 |
 | [Fashun](https://open.spotify.com/track/3r5QW19eJG9ucJKouXP0DB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Fashun](https://open.spotify.com/album/4AYI2KX7Q4lmLnqNFYSFhh) | 3:04 | 2021-11-12 | 2022-07-29 |
 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 | 2022-03-19 | 2022-04-16 |
@@ -198,7 +199,7 @@
 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 | 2022-11-26 | 2023-01-21 |
 | [Kiss Your Lips](https://open.spotify.com/track/1lpVxyYCXR7w6PhhEXcfAX) | [Allo Darlin'](https://open.spotify.com/artist/0cygwaJypZFDlu4NLQTm7b) | [Allo Darlin'](https://open.spotify.com/album/00r8ZlXYm0KLyHHjgyqXa5) | 3:46 | 2022-03-19 | 2022-07-10 |
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-11-12 | 2022-07-29 |
-| [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 |  |
+| [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 | 2023-07-29 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2022-03-19 | 2022-04-15 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-05-18 |  |
@@ -357,6 +358,7 @@
 | [Twentytwo](https://open.spotify.com/track/7MrPr8g39uJnXyS405HJci) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Twentytwo In Blue](https://open.spotify.com/album/0Ucku0CR3r5DRYc0KFdNAh) | 4:32 | 2022-03-19 | 2022-04-16 |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-11-12 |  |
 | [Up with People](https://open.spotify.com/track/1zjUfI0yrHvK9fqs7hNmwk) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Nixon](https://open.spotify.com/album/1JgEmaIjznPkIEnzd4pxou) | 6:02 | 2022-03-19 | 2022-04-16 |
+| [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-28 |  |
 | [Vampires](https://open.spotify.com/track/0btyrnJOCj7mzl3YZxRIbM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Vampires](https://open.spotify.com/album/3L2H74ifH8nL4AlHWb1c4b) | 3:15 | 2021-11-12 | 2022-07-28 |
 | [Vampires](https://open.spotify.com/track/38kSwDFzxfP3SIAlrXgmrv) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:15 | 2022-06-22 | 2022-10-13 |
 | [Vanilla](https://open.spotify.com/track/67t28gn4X9vYHM0WICEmtb) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 3:44 | 2021-11-12 | 2022-07-29 |

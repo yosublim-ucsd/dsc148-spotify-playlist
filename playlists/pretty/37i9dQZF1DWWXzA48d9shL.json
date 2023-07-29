@@ -1,13 +1,85 @@
 {
   "description": "The home of dark trap. Rap from hell. Cover: $uicideboy$",
-  "num_followers": 505924,
+  "num_followers": 506196,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzI2NTQ0OWMwZjIzZjBiYmM1ZTNjMTUxZWM5MGY2YjUxZGNhNDdi",
+  "snapshot_id": "MCxmYjJhZTgxYjU4ZWI2ODk0ZjdjNTg4NGJlMmM5ZGRhNGY1MGVhZjBh",
   "tracks": [
+    {
+      "added_at": "2023-05-15 13:20:26",
+      "album": {
+        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
+        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 277338,
+      "name": "Bloody 98 (Feat. Ghostemane)",
+      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP"
+      },
+      "artists": [
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
+        }
+      ],
+      "duration_ms": 81230,
+      "name": "BLACKTOP",
+      "url": "https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "$ix $ix",
+        "url": "https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "$ix $ix",
+      "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Glacier Pack",
+        "url": "https://open.spotify.com/album/5TywaPIiadt6Oic1ApTij2"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 127890,
+      "name": "Glacier Pack",
+      "url": "https://open.spotify.com/track/66QxkYu2FaOOwXwGozYUQe"
+    },
     {
       "added_at": "2023-06-30 07:33:00",
       "album": {
@@ -43,26 +115,6 @@
       "duration_ms": 163500,
       "name": "Bossier City Kidnap Victims",
       "url": "https://open.spotify.com/track/0prOblscRTUplNzf9DabhP"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "$ix $ix",
-        "url": "https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "$ix $ix",
-      "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -103,6 +155,26 @@
       "duration_ms": 155555,
       "name": "TOOLIE BEAM",
       "url": "https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "KEVLAR MONEY BAGS",
+        "url": "https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2"
+      },
+      "artists": [
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 122064,
+      "name": "Ivory Coast Cocktail",
+      "url": "https://open.spotify.com/track/7rJ4JkJORGMTnGFE2hd7u3"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -193,6 +265,22 @@
       "url": "https://open.spotify.com/track/6VusBTuNTqDabs4P60FHvO"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "There Goes My Mind",
+        "url": "https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6"
+      },
+      "artists": [
+        {
+          "name": "Derek Pope",
+          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "There Goes My Mind",
+      "url": "https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l"
+    },
+    {
       "added_at": "2023-05-19 12:29:16",
       "album": {
         "name": "YIN YANG TAPES: Fall Season (1989-1990)",
@@ -213,24 +301,32 @@
       "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "the world is big",
-        "url": "https://open.spotify.com/album/0qEHh7yrNMM4UGTE3jmAAS"
+        "name": "JUNK BUNK FREESTYLE",
+        "url": "https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C"
       },
       "artists": [
         {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4"
         },
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
         }
       ],
-      "duration_ms": 161500,
-      "name": "the world is big",
-      "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
+      "duration_ms": 102008,
+      "name": "JUNK BUNK FREESTYLE",
+      "url": "https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -289,6 +385,30 @@
       "url": "https://open.spotify.com/track/02xFrkfvBPtobb5eyDJVwb"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4"
+      },
+      "artists": [
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 124025,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "GHOSTKILLA",
@@ -307,26 +427,6 @@
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
-    },
-    {
-      "added_at": "2023-05-15 13:20:26",
-      "album": {
-        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
-        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 277338,
-      "name": "Bloody 98 (Feat. Ghostemane)",
-      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -461,34 +561,6 @@
       "url": "https://open.spotify.com/track/34Ggy1FcOxgFOCtjNaSZK3"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "JUNK BUNK FREESTYLE",
-        "url": "https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C"
-      },
-      "artists": [
-        {
-          "name": "Lu",
-          "url": "https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
-        },
-        {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        },
-        {
-          "name": "Terror Reid",
-          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
-        }
-      ],
-      "duration_ms": 102008,
-      "name": "JUNK BUNK FREESTYLE",
-      "url": "https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "DEAD SPACE",
@@ -523,6 +595,26 @@
       "duration_ms": 120003,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/3poxqSMtdBNPqSAJauVvTk"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "the world is big",
+        "url": "https://open.spotify.com/album/0qEHh7yrNMM4UGTE3jmAAS"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "the world is big",
+      "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -577,22 +669,6 @@
       "url": "https://open.spotify.com/track/2CUWnITxO3xgGWovXbvdGu"
     },
     {
-      "added_at": "2023-05-19 12:29:16",
-      "album": {
-        "name": "DEADWORLD!",
-        "url": "https://open.spotify.com/album/5krV773qNLRdNRDn60nsYG"
-      },
-      "artists": [
-        {
-          "name": "Lil Lucifer",
-          "url": "https://open.spotify.com/artist/2uYsRcCqYPpztBUYo84wbV"
-        }
-      ],
-      "duration_ms": 103262,
-      "name": "DEADWORLD!",
-      "url": "https://open.spotify.com/track/6ReqFKyPwnqwRovK94DBEQ"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Party on Patr\u00f3n",
@@ -607,30 +683,6 @@
       "duration_ms": 129729,
       "name": "Party on Patr\u00f3n",
       "url": "https://open.spotify.com/track/1yXJ7SIDrEGXR3JnNdNzic"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "HEDGE FUND",
-        "url": "https://open.spotify.com/album/2LI7BrYd3iwCZcvoLrhMjf"
-      },
-      "artists": [
-        {
-          "name": "Philip Solo",
-          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
-        },
-        {
-          "name": "Mvko",
-          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
-        },
-        {
-          "name": "Notions",
-          "url": "https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "HEDGE FUND",
-      "url": "https://open.spotify.com/track/5adVmNmGk5RGKaAHcH0aVz"
     },
     {
       "added_at": "2023-05-19 12:29:16",
@@ -691,6 +743,22 @@
       "duration_ms": 109714,
       "name": "Burn The Ships",
       "url": "https://open.spotify.com/track/40Cy8LtWOHos6pdMmpDTCF"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1195,6 +1263,26 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1761,26 +1849,6 @@
       "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
     },
     {
-      "added_at": "2023-02-08 18:36:24",
-      "album": {
-        "name": "I Don't Fuck With Conversation",
-        "url": "https://open.spotify.com/album/2PLb5Xe7GYKFz9P3HnlHi6"
-      },
-      "artists": [
-        {
-          "name": "99zed",
-          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
-        },
-        {
-          "name": "Saliva Grey",
-          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
-        }
-      ],
-      "duration_ms": 155318,
-      "name": "I Don't Fuck With Conversation",
-      "url": "https://open.spotify.com/track/7lhOAIOOXqlAs3fwHhBtip"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "THE EVIL IN WHICH WE THRIVE",
@@ -1839,78 +1907,6 @@
       "duration_ms": 178520,
       "name": "deadman (feat. Lil Toe)",
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-01-05 15:15:37",
-      "album": {
-        "name": "Demons Around",
-        "url": "https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf"
-      },
-      "artists": [
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "Demons Around",
-      "url": "https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0"
-    },
-    {
-      "added_at": "2022-12-09 05:09:00",
-      "album": {
-        "name": "MORPHINE",
-        "url": "https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4"
-      },
-      "artists": [
-        {
-          "name": "TWENTYTHREE",
-          "url": "https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL"
-        },
-        {
-          "name": "outsiderX",
-          "url": "https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "MORPHINE",
-      "url": "https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2"
     }
   ],
   "unique_name": "TIRADE",

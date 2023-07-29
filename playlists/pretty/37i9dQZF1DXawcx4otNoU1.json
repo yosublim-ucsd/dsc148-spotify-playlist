@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 496548,
+  "num_followers": 496662,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2E3OWQ1YThmMWIxOTdiNTRlYTFjY2QyZjhlYjhkMjhmYmNjOTY2",
+  "snapshot_id": "MCw3ZjJjY2FiNDY2MjE0YWI3YjUyNjgwMWRhOWE0YTg0ZjVlYmIyYzVi",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209560,
       "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1861,22 +1861,6 @@
       "url": "https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 216930,
-      "name": "Lips On You",
-      "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
-    },
-    {
       "added_at": "2023-04-21 11:59:42",
       "album": {
         "name": "Talk Luv",
@@ -1891,6 +1875,22 @@
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 216930,
+      "name": "Lips On You",
+      "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Suburb Hero",
+        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
+      },
+      "artists": [
+        {
+          "name": "Endre Nordvik",
+          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
+        }
+      ],
+      "duration_ms": 227252,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Mary Glenn",
         "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
       },
@@ -2195,22 +2211,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Suburb Hero",
-        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
-      },
-      "artists": [
-        {
-          "name": "Endre Nordvik",
-          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
-        }
-      ],
-      "duration_ms": 227252,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "NIGHT FLIGHT",
         "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
       },
@@ -2223,6 +2223,22 @@
       "duration_ms": 229120,
       "name": "Parade",
       "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
+      },
+      "artists": [
+        {
+          "name": "Millie Turner",
+          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2243,22 +2259,6 @@
       "duration_ms": 189497,
       "name": "everytime we fall",
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
-      },
-      "artists": [
-        {
-          "name": "Millie Turner",
-          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Song For A Friend",
-        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
-      },
-      "artists": [
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 236478,
-      "name": "Song For A Friend",
-      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 230250,
       "name": "Animals - Unplugged Version",
       "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Song For A Friend",
+        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
+      },
+      "artists": [
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 236478,
+      "name": "Song For A Friend",
+      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
     },
     {
       "added_at": "2023-02-10 11:00:00",

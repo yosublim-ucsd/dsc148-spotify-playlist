@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146000,
       "name": "FRAGILE!",
       "url": "https://open.spotify.com/track/4x6WpVdBQq9FGXccHMHM9w"
@@ -1944,6 +1944,24 @@
       "duration_ms": 224997,
       "name": "In My City",
       "url": "https://open.spotify.com/track/3NpmqDtpJsnPrbLYKGS5rD"
+    },
+    {
+      "album": {
+        "name": "IN MY DREAMS!",
+        "url": "https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h"
+      },
+      "artists": [
+        {
+          "name": "nerdina",
+          "url": "https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "IN MY DREAMS! (Prod. JuNi)",
+      "url": "https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp"
     },
     {
       "album": {

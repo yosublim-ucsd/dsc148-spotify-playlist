@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: maxime.",
+  "description": "New adventures in rock start here. Cover: Sam Roberts Band",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/4x2mpWpNy9Kh7qQABj6lqV"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213014,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0O2Xj14M8PgYm3wbbjrKqX"
+    },
+    {
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/1qeuBrPJGk6XMqWoMQV98B"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 212812,
       "name": "All Your Dreams",
       "url": "https://open.spotify.com/track/2D1SFfVVc6t3lD1KupKqf0"
@@ -1279,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2Zuja0ug52TFpPPzPkbWO5"
+      },
+      "artists": [
+        {
+          "name": "Whale and the Wolf",
+          "url": "https://open.spotify.com/artist/4AMuXW9TMEbxAQOoz0C6sj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4UyoKqkDZTLcDOvWsbK67h"
+    },
+    {
+      "album": {
         "name": "More Is More",
         "url": "https://open.spotify.com/album/7dyUmRuDiu9hoOnGnUick7"
       },
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 244973,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/1nGvtl731XspffVYLxrbFc"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 173304,
       "name": "Everything Once",
       "url": "https://open.spotify.com/track/213cAyxqWcV81sz0z5b3LZ"
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159014,
       "name": "Flash Flood",
       "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
@@ -2258,6 +2294,24 @@
       "duration_ms": 183008,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/5zH7OORpJSL6rM9JNlFhn5"
+    },
+    {
+      "album": {
+        "name": "Reflection of Casey",
+        "url": "https://open.spotify.com/album/20RZW3rUKbMLVb0Edv6Zwl"
+      },
+      "artists": [
+        {
+          "name": "Jay Feelbender",
+          "url": "https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "Forever You",
+      "url": "https://open.spotify.com/track/2h1ZMOcsrEAoemWnAZaBkl"
     },
     {
       "album": {
@@ -2711,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "hell USA",
+        "url": "https://open.spotify.com/album/1qdhrtyOKvQMO3hbFX9EbS"
+      },
+      "artists": [
+        {
+          "name": "Smrtdeath",
+          "url": "https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "hell USA",
+      "url": "https://open.spotify.com/track/3sToV3GnrEYZGGqfZcT4yd"
+    },
+    {
+      "album": {
         "name": "High Time",
         "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
       },
@@ -2848,7 +2920,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 237184,
       "name": "I Dream Of You",
       "url": "https://open.spotify.com/track/1mvpuH8Z0DMYUQXBSGaWEW"
@@ -2920,7 +2992,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145500,
       "name": "Internet Official",
       "url": "https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK"
@@ -3385,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Liberate Me II",
+        "url": "https://open.spotify.com/album/6K5aDes6TAod8K2nVCGU2g"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        },
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Liberate Me II",
+      "url": "https://open.spotify.com/track/0gx0mxHF6gewK9FZL9mwi9"
+    },
+    {
+      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/5V0B47aJIAlsWfYYacHyfv"
       },
@@ -3638,6 +3732,24 @@
       "duration_ms": 195413,
       "name": "Makeshift Paradise",
       "url": "https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1hy4Nsokdj1ymhSez1PH0M"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7C6bJAOyLNZ8UYdNyhIYn1"
     },
     {
       "album": {
@@ -3965,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5qNUNjAWL1znmAvmMj9wT2"
+      },
+      "artists": [
+        {
+          "name": "Mountain Head",
+          "url": "https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7ikIpVYCkHcNi8peNx2K95"
+    },
+    {
+      "album": {
         "name": "Moon Rock Shawty",
         "url": "https://open.spotify.com/album/5jupYgTQVBZFFx2UVUUs0Q"
       },
@@ -4088,6 +4218,24 @@
       "duration_ms": 164653,
       "name": "Nicer Guy",
       "url": "https://open.spotify.com/track/2RpMfwnGRr9AT4CzUslrc9"
+    },
+    {
+      "album": {
+        "name": "WHEN IT'S ALL OVER (Deluxe)",
+        "url": "https://open.spotify.com/album/66ZwfgDwqjX2pTDWOTVg90"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/4CD5J6bl34QRs4VcryPi7d"
     },
     {
       "album": {
@@ -5119,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Semi-Stable",
+        "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167480,
+      "name": "Semi-Stable",
+      "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
+    },
+    {
+      "album": {
         "name": "Daffodil",
         "url": "https://open.spotify.com/album/6NvXJ5oOIZiQluoLVTMiIl"
       },
@@ -5184,7 +5350,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224422,
       "name": "Sharp Knife",
       "url": "https://open.spotify.com/track/43j0MnU6OUDBGHEoVNbsNO"
@@ -5692,7 +5858,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185116,
       "name": "Temporary Dopamine",
       "url": "https://open.spotify.com/track/4J8Rge65ytAofdJUfUaqiJ"
@@ -5840,7 +6006,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 282586,
       "name": "The North Shore",
       "url": "https://open.spotify.com/track/7Ar1ArhER4E2ODDw5dtGzh"
@@ -6473,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "West Coast Band",
+        "url": "https://open.spotify.com/album/3xTNqrDXwQteFnCtqRWLwS"
+      },
+      "artists": [
+        {
+          "name": "54-40",
+          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193983,
+      "name": "West Coast Band",
+      "url": "https://open.spotify.com/track/2Dosb3F1rWZMfAjQcRWe65"
+    },
+    {
+      "album": {
         "name": "Wet Dream",
         "url": "https://open.spotify.com/album/2uERL4jIMLn3RPEmR071GO"
       },
@@ -6646,7 +6830,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 100596,
       "name": "WHO B?",
       "url": "https://open.spotify.com/track/0kensEMts7A57aPNWp176e"

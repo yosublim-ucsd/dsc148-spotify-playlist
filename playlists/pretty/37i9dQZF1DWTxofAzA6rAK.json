@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 50023,
+  "num_followers": 50081,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjcyOWMzMzhmMzQ1OGM0OTI2MGMwNmJjYjNhYzBmNTJjMDQ2ZDRm",
+  "snapshot_id": "MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Whap Whap (feat. F.S.)",
         "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Pieces (with Jahshii)",
+      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bwoii Affi\" Watch Eh Style",
-        "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
-      },
-      "artists": [
-        {
-          "name": "1Biggs Don",
-          "url": "https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS"
-        },
-        {
-          "name": "Steel Chest",
-          "url": "https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Bwoii Affi\" Watch Eh Style",
-      "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Feelings (Remix)",
         "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bwoii Affi\" Watch Eh Style",
+        "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
+      },
+      "artists": [
+        {
+          "name": "1Biggs Don",
+          "url": "https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS"
+        },
+        {
+          "name": "Steel Chest",
+          "url": "https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Bwoii Affi\" Watch Eh Style",
+      "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 175187,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Try Dat Riddim, Vol.2",
+        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "Try Dat",
+      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Big Chune",
         "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 163352,
       "name": "Big Chune",
       "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Try Dat Riddim, Vol.2",
-        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "Try Dat",
-      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Perfect Summer",
-        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "Perfect Summer",
-      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Coote",
         "url": "https://open.spotify.com/album/7wLLQ7fRiHGEaiYNYrtoPw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 140400,
       "name": "Top Coote",
       "url": "https://open.spotify.com/track/1fz7vkm6VbYlznJdTc9JOX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Perfect Summer",
+        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 191526,
+      "name": "Perfect Summer",
+      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Who Cares",
-        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Who Cares",
-      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Crocodile Teeth LP",
         "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 165703,
       "name": "Beethoven",
       "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 221016,
+      "name": "Piana",
+      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sidepiece",
         "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Piana",
-      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "1Matik",
+        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "1Matik",
+      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Crocodile Teeth LP",
         "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
@@ -2107,22 +2123,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "1Matik",
-        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
-      },
-      "artists": [
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "1Matik",
-      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Statistic",
         "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
       },
@@ -2139,6 +2139,22 @@
       "duration_ms": 182909,
       "name": "Statistic",
       "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Dirt Bounce",
+        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        }
+      ],
+      "duration_ms": 176069,
+      "name": "Dirt Bounce",
+      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2167,22 +2183,6 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Dirt Bounce",
-        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
-      },
-      "artists": [
-        {
-          "name": "Laa Lee",
-          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
-        }
-      ],
-      "duration_ms": 176069,
-      "name": "Dirt Bounce",
-      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Pro-Gress",
+        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Pro-Gress",
+      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "DOGGY STYLE",
         "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 174915,
       "name": "DOGGY STYLE",
       "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Pro-Gress",
-        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Pro-Gress",
-      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
     },
     {
       "added_at": "2023-05-24 08:21:37",

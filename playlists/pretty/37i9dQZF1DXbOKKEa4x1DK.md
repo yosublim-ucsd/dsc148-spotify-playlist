@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,270 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,283 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 37 | [Cobarde, Cobarde](https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 4:19 |
 | 38 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 |
 | 39 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
-| 40 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
-| 41 | [No Se Que Hacer](https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 4:13 |
+| 40 | [No Se Que Hacer](https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 4:13 |
+| 41 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
 | 42 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
 | 43 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 44 | [Corazón en Soledad](https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L) | [Ala Jaza](https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW) | [Mamwali, Vol\. 2](https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 |
 | 60 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 
-Snapshot ID: `MCwxNTg3N2RlYjU1ZmYyZDllNjYzOWRmODkxYTY2YTQ0MzRlNzJlNWZk`
+Snapshot ID: `MCxjYzY5ZjFhNDNjMDA1M2M1MTNkZjFhYjhhYjc5NTgxOWVkYzhlMDUy`

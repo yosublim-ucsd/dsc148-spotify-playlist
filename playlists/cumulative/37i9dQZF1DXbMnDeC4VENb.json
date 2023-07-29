@@ -78,10 +78,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192000,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF"
+    },
+    {
+      "album": {
+        "name": "TODO",
+        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Algo m\u00e1s",
+      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
     },
     {
       "album": {
@@ -294,7 +312,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 242150,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/1nXNZRaXk1P77J7JjcUaIt"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181500,
       "name": "Ella es",
       "url": "https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193714,
       "name": "LQRA Session #14",
       "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 412134,
       "name": "Perfecto - Remix",
       "url": "https://open.spotify.com/track/680BOO124VxGj9DXEtCttL"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 218372,
       "name": "Qu\u00edmica Org\u00e1nica",
       "url": "https://open.spotify.com/track/3DPm68zR6GdQK5t2cGB1LN"
@@ -2200,6 +2218,24 @@
       "duration_ms": 209292,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz"
+    },
+    {
+      "album": {
+        "name": "Siempre Ser\u00e1s para M\u00ed",
+        "url": "https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "Siempre Ser\u00e1s para M\u00ed",
+      "url": "https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY"
     },
     {
       "album": {
@@ -2806,6 +2842,24 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+    },
+    {
+      "album": {
+        "name": "Una Carta para Ti",
+        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Una Carta para Ti",
+      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
     },
     {
       "album": {

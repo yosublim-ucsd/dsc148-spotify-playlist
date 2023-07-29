@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,431 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,723 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 60 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 |
 | 61 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 |
 | 62 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 |
-| 63 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
-| 64 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
+| 63 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
+| 64 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
 | 65 | [Go Wild](https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc) | 2:40 |
 | 66 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
-| 67 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
-| 68 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
-| 69 | [Proud Of Myself](https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o) | 1:49 |
+| 67 | [Proud Of Myself](https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o) | 1:49 |
+| 68 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
+| 69 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
 | 70 | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 | 71 | [your eyes](https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [your eyes](https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv) | 2:13 |
 | 72 | [Belly of the Beast](https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Belly of the Beast](https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ) | 2:20 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 84 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 85 | [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 |
 | 86 | [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 |
-| 87 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 |
-| 88 | [starstruck](https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 2:03 |
-| 89 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 |
-| 90 | [Let Me Fall](https://open.spotify.com/track/6BbMaQhu9jKENB1vzQ2ijJ) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb) | [Let Me Fall](https://open.spotify.com/album/6zfFgmqJLOCEjR08whYTqn) | 3:08 |
+| 87 | [Let Me Fall](https://open.spotify.com/track/6BbMaQhu9jKENB1vzQ2ijJ) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb) | [Let Me Fall](https://open.spotify.com/album/6zfFgmqJLOCEjR08whYTqn) | 3:08 |
+| 88 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 |
+| 89 | [starstruck](https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 2:03 |
+| 90 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 |
 | 91 | [PRIMADONA](https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [PRIMADONA](https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf) | 1:54 |
 | 92 | [whilesupplieslast](https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [thishouseisnotahome](https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2) | 1:20 |
 | 93 | [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 |
 | 100 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 
-Snapshot ID: `MCwzOGU5NWFlODQ0ZmYwYzE3NDkxNjZmOTViY2FkZDZiYTQ5NWIxMjY1`
+Snapshot ID: `MCwxN2JhZTBmMjYyNmZhYzVmNTY0YzViODQ1ZTgwN2MyZThjNmQyMTM0`

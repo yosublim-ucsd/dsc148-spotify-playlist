@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,763 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,920 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 27 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 |
 | 28 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
 | 29 | [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [in my mind](https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk) | 3:01 |
-| 30 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
+| 30 | [Apricosa](https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Apricosa](https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH) | 2:38 |
 | 31 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 |
 | 32 | [Don't Let Me Down](https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o) | 3:20 |
-| 33 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
-| 34 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
-| 35 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
-| 36 | [Apricosa](https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Apricosa](https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH) | 2:38 |
+| 33 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
+| 34 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
+| 35 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
+| 36 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
 | 37 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 38 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 |
 | 39 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 62 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 |
 | 63 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
 | 64 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 |
-| 65 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 |
-| 66 | [A\-Train \- Edit](https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [A\-Train](https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1) | 3:35 |
+| 65 | [A\-Train \- Edit](https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [A\-Train](https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1) | 3:35 |
+| 66 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 |
 | 67 | [Right There](https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Right There](https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz) | 3:02 |
 | 68 | [ich mags](https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [ich mags](https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS) | 2:41 |
 | 69 | [Small Worlds](https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Good Mmornin](https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T) | 5:36 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 85 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 |
 | 86 | [Majored In Broken Hearts](https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [Majored In Broken Hearts](https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV) | 3:11 |
 | 87 | [More Than Happiness](https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [More Than Happiness](https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0) | 3:58 |
-| 88 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
-| 89 | [Falling Back](https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:39 |
-| 90 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
+| 88 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
+| 89 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
+| 90 | [Falling Back](https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:39 |
 | 91 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
-| 92 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
+| 92 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
 | 93 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
-| 94 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 |
-| 95 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 94 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
+| 95 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 |
 | 96 | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5) | 2:43 |
-| 97 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
-| 98 | [Thinking About You](https://open.spotify.com/track/3gGj1ynPVe2ILz7KATe2pC) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Diving for Lost Treasure](https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie) | 3:32 |
-| 99 | [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 |
-| 100 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 |
+| 97 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 98 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
+| 99 | [Thinking About You](https://open.spotify.com/track/3gGj1ynPVe2ILz7KATe2pC) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Diving for Lost Treasure](https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie) | 3:32 |
+| 100 | [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 |
 
-Snapshot ID: `MCw3NTI0MmU4NDFjYmEzOGZlOWI4YTZkMDlhMjMxZWZhM2VlNTA2Nzg2`
+Snapshot ID: `MCwyMTUyZDM5MTZlYzRkZjM1NDFjMzIzMDQ3OWMyNWJjNGU3Mzc2MmQ4`

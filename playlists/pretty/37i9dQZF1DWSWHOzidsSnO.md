@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Renata Flores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,377 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,396 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [María Parado Bellido](https://open.spotify.com/track/67kQIZGMAN0WruRBPz3RWC) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 2:43 |
 | 2 | [Oasis](https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Cambio](https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF) | 3:56 |
-| 3 | [La reina del Delay](https://open.spotify.com/track/5ASPT1ujs8dudi9LWqYGbg) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [La reina del Delay](https://open.spotify.com/album/6hx57la49lxF2hmVZXg7jK) | 2:07 |
-| 4 | [Rush](https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK) | 3:15 |
-| 5 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 |
-| 6 | [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 |
+| 3 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
+| 4 | [La reina del Delay](https://open.spotify.com/track/5ASPT1ujs8dudi9LWqYGbg) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [La reina del Delay](https://open.spotify.com/album/6hx57la49lxF2hmVZXg7jK) | 2:07 |
+| 5 | [Rush](https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK) | 3:15 |
+| 6 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 |
 | 7 | [Todo Está Mejor](https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:23 |
 | 8 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 |
 | 9 | [Tu Fuego](https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj) | [Michelle Espinosa](https://open.spotify.com/artist/2dQ3Ury51FHqdpSWIKKar4) | [Tu Fuego](https://open.spotify.com/album/6h3u0pReE0S6kjzvzJ4zgh) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCw1YjUzMWU1YWRkNmRjNzE4Y2JmYTJjZGQwNWU0MWEwY2FlODQwNzUx`
+Snapshot ID: `MCwyNTE2NDNlZDkxMTUwM2NiMzkyODA5MmJmMmU2ZGM3NDQzMDFmMmEy`

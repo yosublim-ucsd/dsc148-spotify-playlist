@@ -829,20 +829,24 @@
     },
     {
       "album": {
-        "name": "Can't Afford Me",
+        "name": "Can't Afford Me (feat. SA$H\u00a3R)",
         "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
       "artists": [
         {
           "name": "Kuma Overdose",
           "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
+        },
+        {
+          "name": "SA$H\u00a3R",
+          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
         }
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218424,
-      "name": "Can't Afford Me",
+      "name": "Can't Afford Me (feat. SA$H\u00a3R)",
       "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {

@@ -2,9 +2,9 @@
 
 ### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far\. Our new single 'Bootleg Firecracker' is out now!
+> Here is a playlist of all our songs released so far\. Our new single 'Highlands' is out now!
 
-41 songs - 2 hr 18 min
+42 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 | 2020-10-14 |  |
 | [Fire In Your Eyes](https://open.spotify.com/track/1Ryfpj4slOvAacEra2uhK2) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:01 | 2020-10-14 |  |
 | [Golden Star](https://open.spotify.com/track/3NRdY5rosPh2A0QPjeP9BY) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:43 | 2021-03-19 |  |
+| [Highlands](https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW) | 3:31 | 2023-07-26 |  |
 | [Hole](https://open.spotify.com/track/1MOSLFWJEgU9mzh8UwmK9w) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 1:30 | 2020-10-14 |  |
 | [I Don't Care](https://open.spotify.com/track/0W3hsmOF1pMpdYaw6HDTlk) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 2:58 | 2021-03-19 |  |
 | [Lost Friends](https://open.spotify.com/track/7wmNW7rv3Jnw2vZzqOBUkU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:25 | 2020-10-14 |  |

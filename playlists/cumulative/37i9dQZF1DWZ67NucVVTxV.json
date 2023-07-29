@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Badagry",
+        "url": "https://open.spotify.com/album/6LJkRvpFfHIUwKSpuEMpDU"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Badagry",
+      "url": "https://open.spotify.com/track/00zdNgxTeBKbB4JsjGwVqz"
+    },
+    {
+      "album": {
         "name": "Badder",
         "url": "https://open.spotify.com/album/6BTpAupeEcJKtAktjHuiCZ"
       },
@@ -1073,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Capitalism",
+        "url": "https://open.spotify.com/album/5GJizFLt2GHG4DKxpV8HHx"
+      },
+      "artists": [
+        {
+          "name": "Poetra Asantewa",
+          "url": "https://open.spotify.com/artist/1wavl70KiuxkAOZdBnZwad"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Capitalism",
+      "url": "https://open.spotify.com/track/2s8cpyyEtv5lEqL5O2lBbt"
+    },
+    {
+      "album": {
         "name": "Great Is He (Deluxe)",
         "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 218412,
       "name": "Chasing Wind",
       "url": "https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM"
@@ -1342,6 +1378,24 @@
       "duration_ms": 182673,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/7iQQogvMTcA3vUKXj8pGzi"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
     },
     {
       "album": {
@@ -2877,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "Chequemate",
+        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163184,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
+    },
+    {
+      "album": {
         "name": "I Appreciate",
         "url": "https://open.spotify.com/album/7Dl0Af6heAdgdG2yXSamlA"
       },
@@ -3521,6 +3597,28 @@
     },
     {
       "album": {
+        "name": "Life & Money (Remix)",
+        "url": "https://open.spotify.com/album/6UvYqIIOIE9pw7H7SqeS50"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Life & Money - Remix",
+      "url": "https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF"
+    },
+    {
+      "album": {
         "name": "Liquor (Owo Otedola)",
         "url": "https://open.spotify.com/album/0yQRNpLMcdcmTOJuCKGaxX"
       },
@@ -3554,7 +3652,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155746,
       "name": "Load",
       "url": "https://open.spotify.com/track/0gzjxUCONEdo7HRqqPdmEL"
@@ -3842,6 +3940,24 @@
       "duration_ms": 199029,
       "name": "My Ability",
       "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
+    },
+    {
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "album": {
@@ -5823,6 +5939,28 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/56WP5QmZSLRcvidBV6SsjD"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11"
+        },
+        {
+          "name": "Larruso",
+          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7LqLiIkXAi9PtrGvIxQDhz"
+    },
+    {
+      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
       },
@@ -5856,6 +5994,24 @@
       "duration_ms": 180000,
       "name": "Turkey Nla",
       "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
+    },
+    {
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132039,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
     },
     {
       "album": {
@@ -6100,7 +6256,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197669,
       "name": "Who We See",
       "url": "https://open.spotify.com/track/36OnfuDiPeEv3H1ubvTGuw"

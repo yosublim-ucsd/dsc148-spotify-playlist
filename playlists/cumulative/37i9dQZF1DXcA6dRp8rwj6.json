@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Travis Scott)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Offset & Cardi B)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "5882 (OPPA ASAP)",
+        "url": "https://open.spotify.com/album/1ibbXLP3T1UE7ve7MTqMsr"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "5882 (OPPA ASAP)",
+      "url": "https://open.spotify.com/track/2mXkL3ZE9eCncPwc4aTsvC"
+    },
+    {
+      "album": {
         "name": "DARKVIBESONLY",
         "url": "https://open.spotify.com/album/0DGWzYDh3V0tshfx30AQ7y"
       },
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 212640,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/27ly3nX0ofaRByA0DdLJNY"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144000,
       "name": "BEACH BALL (feat. BIA)",
       "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
@@ -3480,6 +3498,24 @@
       "duration_ms": 154285,
       "name": "BET",
       "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
+    },
+    {
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "album": {
@@ -3803,6 +3839,32 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
+    },
+    {
+      "album": {
         "name": "Bit W The Fangs (feat. Gunna & Nechie)",
         "url": "https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK"
       },
@@ -3924,7 +3986,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209523,
       "name": "Black For Green",
       "url": "https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S"
@@ -4060,6 +4122,28 @@
       "duration_ms": 166500,
       "name": "Blood Bath",
       "url": "https://open.spotify.com/track/5ha1smmGfz7sttHdxFcrbY"
+    },
+    {
+      "album": {
+        "name": "BLOOD ON MY NIKEZ [Feat. Juicy J]",
+        "url": "https://open.spotify.com/album/3yqVwj5ze0hxUt28pFReRC"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "BLOOD ON MY NIKEZ [Feat. Juicy J]",
+      "url": "https://open.spotify.com/track/5JwIMQ0LjjuG2dOVzEvSRw"
     },
     {
       "album": {
@@ -5952,7 +6036,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207000,
       "name": "Cho Fast",
       "url": "https://open.spotify.com/track/49fw2z7qEofGCahKVp7Lwu"
@@ -6274,7 +6358,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195544,
       "name": "Cold Sphere",
       "url": "https://open.spotify.com/track/6bWIJaJ4EPnjNcXOpjwCTs"
@@ -7523,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "album": {
         "name": "DEMIGOD",
         "url": "https://open.spotify.com/album/7wz4Vfn4oI5VS3xnw8WSFm"
       },
@@ -8318,7 +8420,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 148148,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
@@ -8888,7 +8990,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185597,
       "name": "El Ni\u00f1o (feat. Lil Wayne & Boyfriend)",
       "url": "https://open.spotify.com/track/7niCz3hixgqnEBnO2mEHhI"
@@ -9118,7 +9220,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165417,
       "name": "Extendo",
       "url": "https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh"
@@ -9448,6 +9550,24 @@
       "duration_ms": 137750,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7M2oBCN5EK8vHic9YbwsX5"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "FE!N",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "album": {
@@ -10204,7 +10324,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -10481,7 +10601,7 @@
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234945,
+      "duration_ms": 234893,
       "name": "Gangsta Boogie",
       "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
     },
@@ -13973,6 +14093,24 @@
     },
     {
       "album": {
+        "name": "It's Getting Hot",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134424,
+      "name": "It's Getting Hot",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "album": {
         "name": "Italiano Anthem",
         "url": "https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx"
       },
@@ -14028,6 +14166,28 @@
       "duration_ms": 245874,
       "name": "Japan",
       "url": "https://open.spotify.com/track/1OCttJx5S0YMSu9RtNPOao"
+    },
+    {
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/5qVEygFbfiRgrFy7zlUxZK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6Khk3gI5G1ygnJYkc5QZIz"
     },
     {
       "album": {
@@ -14250,7 +14410,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -14887,6 +15047,24 @@
     },
     {
       "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Last Days",
+      "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
+    },
+    {
+      "album": {
         "name": "Two-Face Bang 2",
         "url": "https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy"
       },
@@ -15434,6 +15612,28 @@
       "duration_ms": 290844,
       "name": "Lightsabers (feat. C Dot Castro)",
       "url": "https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ"
+    },
+    {
+      "album": {
+        "name": "Like Dat (Remix)",
+        "url": "https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142421,
+      "name": "Like Dat - Remix",
+      "url": "https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ"
     },
     {
       "album": {
@@ -16645,6 +16845,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "MELTDOWN",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
         "name": "Summer Soundcloud",
         "url": "https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X"
       },
@@ -17132,6 +17350,24 @@
       "duration_ms": 104620,
       "name": "Models",
       "url": "https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255412,
+      "name": "MODERN JAM",
+      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
     },
     {
       "album": {
@@ -21000,7 +21236,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 148706,
       "name": "Presidential Rolex",
       "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
@@ -22324,7 +22560,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
@@ -22382,7 +22618,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170078,
       "name": "Rock Climbing (feat. M Huncho)",
       "url": "https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw"
@@ -22756,7 +22992,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187285,
       "name": "R\u2605STAR",
       "url": "https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn"
@@ -24241,6 +24477,28 @@
     },
     {
       "album": {
+        "name": "More ROSES",
+        "url": "https://open.spotify.com/album/3iXrx5OYr5Wr7wApEE5XlE"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Smoking Roses (Feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/0YkTM9b4mvcatJYyMTpKuv"
+    },
+    {
+      "album": {
         "name": "Snakes in the Grass",
         "url": "https://open.spotify.com/album/0M6gt0980z2rwyl8qf4UXv"
       },
@@ -24384,6 +24642,28 @@
       "duration_ms": 106666,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/0tsSie4eHruN6tUQglEG6q"
+    },
+    {
+      "album": {
+        "name": "SOME THINGS",
+        "url": "https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155211,
+      "name": "SOME THINGS",
+      "url": "https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M"
     },
     {
       "album": {
@@ -26924,7 +27204,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
@@ -28064,7 +28344,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
@@ -28108,7 +28388,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165640,
       "name": "Train De Vie (feat. Laylow)",
       "url": "https://open.spotify.com/track/0UEAg8uWitS0LZDsv37im8"
@@ -30048,7 +30328,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
@@ -30728,7 +31008,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149403,
       "name": "Yellowtail Sashimi",
       "url": "https://open.spotify.com/track/4vSd2IvCGMOCoZGtRbkhdv"

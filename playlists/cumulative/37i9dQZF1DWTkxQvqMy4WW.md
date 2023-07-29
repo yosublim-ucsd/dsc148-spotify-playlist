@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-379 songs - 21 hr 47 min
+382 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Good Girl](https://open.spotify.com/track/5HnXcJJbNXQQ7tRlQ9VN1v) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Good Girl](https://open.spotify.com/album/1KetVV0MHdeWG0hDkehcHm) | 3:09 | 2019-05-25\* | 2022-04-21 |
 | [Good Together](https://open.spotify.com/track/6jqTb1OLC379SqjjIB0Ukg) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Good Together](https://open.spotify.com/album/33CvjjvdPIPjRs1AfC4h2A) | 3:19 | 2019-05-25\* | 2022-04-20 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2022-01-14 |  |
-| [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2023-05-18 |  |
+| [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2023-05-18 | 2023-07-29 |
 | [Hangin' On](https://open.spotify.com/track/6CyJlVAEFlNdpggOLanytL) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Losing Sleep](https://open.spotify.com/album/0iWG0AWnGf939jpHGl6fmR) | 3:05 | 2019-10-26 | 2021-01-15 |
 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 | 2019-10-26 | 2023-07-27 |
 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 | 2022-05-13 |  |
@@ -151,7 +151,7 @@
 | [How Country Feels](https://open.spotify.com/track/68A4qiCqD9y39N3WNEsJVD) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/1Wcnyz2zYWLIPZ1K63RXdW) | 3:05 | 2019-06-23 | 2022-04-18 |
 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 | 2022-05-13 |  |
 | [How Does It Sound](https://open.spotify.com/track/5tMViyamkwQmHjMm1OajDi) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [How Does It Sound](https://open.spotify.com/album/7gdxWcWFR6l5IFEHkVn6ol) | 2:42 | 2019-05-25\* | 2022-04-21 |
-| [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2019-06-23 |  |
+| [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2019-06-23 | 2023-07-29 |
 | [Huntin', Fishin' And Lovin' Every Day](https://open.spotify.com/track/0dbzWSYpMcRtwjI1S7Pkql) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 4:38 | 2019-06-25 | 2022-04-21 |
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2019-10-26 | 2023-03-11 |
 | [Hurricane](https://open.spotify.com/track/3UZ9aPaYlBBlAvpdh3kK0U) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/2USjde8Y8z21QTCw6akgJU) | 3:43 | 2019-05-25\* | 2022-07-29 |
@@ -203,6 +203,7 @@
 | [Lose It](https://open.spotify.com/track/6GBndDk0OEpDkmKoSBJyyK) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Lose It](https://open.spotify.com/album/2HJhTeBJHvyQFAETnCPWgK) | 2:58 | 2019-05-25\* | 2022-04-17 |
 | [Love in a Bar](https://open.spotify.com/track/1ITz79C3v1z55dqPoSAl1O) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Ryan Hurd \- EP](https://open.spotify.com/album/6wVnoDiRPI8RDgQT2RH3PO) | 3:07 | 2019-06-26 | 2022-04-20 |
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-10-10 | 2022-04-18 |
+| [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-07-28 |  |
 | [Love You Like That](https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Bronco](https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2) | 3:23 | 2019-08-09 | 2021-10-14 |
 | [Loving You Easy](https://open.spotify.com/track/69XcvSymPaTke2Qb6f3W6P) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/1xy141zMRluP7YaE94IawT) | 2:35 | 2021-01-18 | 2022-04-18 |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-06-12 | 2023-03-11 |
@@ -252,7 +253,8 @@
 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 | 2019-06-24 |  |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2021-06-13 | 2022-07-29 |
 | [Put A Label On It](https://open.spotify.com/track/7oQ09pJGn75oy9MIvkINWi) | [Ryan Follese](https://open.spotify.com/artist/6KdRXEnkaZ5m5a6XcvWGP7) | [Ryan Follese](https://open.spotify.com/album/2XMnHhm9i5oLz59O7Pkuip) | 3:24 | 2019-06-21 | 2020-02-06 |
-| [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 | 2021-07-24 |  |
+| [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 | 2021-07-24 | 2023-07-29 |
+| [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-07-28 |  |
 | [Rescue](https://open.spotify.com/track/3Ishl2jSDXSmdGwrBsMjfq) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Rescue](https://open.spotify.com/album/6poDTCrEwcyrdZ70Nb7gaF) | 3:36 | 2019-06-22 | 2022-04-18 |
 | [Rich Man](https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rich Man](https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs) | 3:30 | 2023-03-10 |  |
 | [Ride \(feat\. Macy Maloy\)](https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 4:01 | 2019-06-23 | 2020-02-06 |
@@ -386,6 +388,7 @@
 | [You're Gonna Miss This](https://open.spotify.com/track/5Ga2YBqKtetWgWL2pl3g3f) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Definitive Greatest Hits](https://open.spotify.com/album/5CFWkDEnKrS3Ar8Da5CGhR) | 3:43 | 2019-06-23 | 2022-07-29 |
 | [Young & Crazy](https://open.spotify.com/track/6ll39ALTlddWWQZLjSFlwM) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:00 | 2022-03-25 | 2022-04-18 |
 | [Young Forever](https://open.spotify.com/track/4u6eRWSXvzVZtRP6m48Psx) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Young Forever](https://open.spotify.com/album/7hhV77g3kd5INnC8UA3ONo) | 3:17 | 2019-05-25\* | 2022-04-21 |
+| [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2023-07-28 |  |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2019-06-25 |  |
 
 \*This playlist was first scraped on 2019-05-25. Prior content cannot be recovered.

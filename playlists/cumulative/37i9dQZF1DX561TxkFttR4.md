@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-232 songs - 12 hr 32 min
+233 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [By Night](https://open.spotify.com/track/6BjAF110FvR7r3j7vhmdKW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Night Sky](https://open.spotify.com/album/1fp1vxW0KcuyPpKLxfkzFO) | 5:29 | 2019-04-17 | 2022-02-05 |
 | [By the Deep Sea](https://open.spotify.com/track/16Xl9H3ITIZFIYP5feQ9Sm) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [By the Deep Sea](https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82) | 3:58 | 2019-04-17 | 2022-02-05 |
 | [Calm after the storm](https://open.spotify.com/track/1ypujsdkhMUsHjmwxuP0N0) | [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Calm after the storm](https://open.spotify.com/album/59Lzmoah7BvOvrQZyYEV1f) | 6:53 | 2022-02-04 | 2022-05-20 |
+| [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-07-05 |  |
 | [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 | 2023-07-05 |  |
 | [Children's Corner, L\. 113: 4\. The Snow Is Dancing \- Arr\. By Marina Baranova](https://open.spotify.com/track/5TliBUAEeZ05EoW2c6B3L0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Marina Baranova](https://open.spotify.com/artist/01nevKNRkYwwRvEkA2LUQi) | [Children's Corner, L\. 113: 4\. The Snow Is Dancing \(Arr\. By Marina Baranova\)](https://open.spotify.com/album/4LdklDCXevOTVadqh3ubCc) | 4:25 | 2019-04-17 | 2022-02-05 |
@@ -152,7 +153,7 @@
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-02-25 |  |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-03-04 |  |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2019-04-17 | 2022-02-05 |
-| [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 | 2022-02-25 |  |
+| [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 | 2022-02-25 | 2023-07-29 |
 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 | 2023-07-05 |  |
 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 | 2022-03-04 |  |
 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 | 2022-02-25 | 2023-07-06 |

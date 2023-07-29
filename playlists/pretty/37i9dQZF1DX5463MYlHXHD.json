@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 551300,
+  "num_followers": 551461,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjFmOGRhYmJmYWZhOGM3NGE4YzZlNGE4Y2U3MGRkOTcxYTVjZGY1",
+  "snapshot_id": "MCxhYmFlYTQ5YmEwNjBjMTA0YzgzM2VmYTJlNzU5NzY3ZDY4ZTAyNzAw",
   "tracks": [
     {
       "added_at": "2023-07-25 20:43:15",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "ROMPE",
-        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 193989,
-      "name": "ROMPE",
-      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+        "name": "ROMPE",
+        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+      "duration_ms": 193989,
+      "name": "ROMPE",
+      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 158145,
-      "name": "No Te Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
         "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 170319,
       "name": "El Fog\u00f3n",
       "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 158145,
+      "name": "No Te Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "Una Vela",
+        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 124563,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Una Vela",
-        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 124563,
-      "name": "Una Vela",
-      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
       "added_at": "2023-07-25 20:43:15",

@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 122667,
+  "num_followers": 122682,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGQ2NWVkYTgwMzk5OTc5ZDI0OTZlYzE4MTc3ZDc2ODIxMzBkYWI3",
+  "snapshot_id": "MCxjMzhjMzJhZjZiNWMxMzJiZmE2YzhiNzVmYTc4OWEyNzdmOTA4MTBk",
   "tracks": [
     {
       "added_at": "2023-07-27 14:52:56",
@@ -148,7 +148,7 @@
       "added_at": "2023-07-27 14:52:56",
       "album": {
         "name": "Under Utopia",
-        "url": "https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9"
+        "url": "https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP"
       },
       "artists": [
         {
@@ -158,7 +158,7 @@
       ],
       "duration_ms": 206722,
       "name": "Right Here It's Only Love",
-      "url": "https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA"
+      "url": "https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK"
     },
     {
       "added_at": "2023-07-27 14:52:56",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-07-27 14:52:56",
       "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
+    },
+    {
+      "added_at": "2023-07-27 14:52:56",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-07-27 14:52:56",
-      "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
     },
     {
       "added_at": "2023-07-27 14:52:56",

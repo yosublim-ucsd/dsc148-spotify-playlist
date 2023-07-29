@@ -4,7 +4,7 @@
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-74 songs - 3 hr 29 min
+75 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 | 2023-07-21 |  |
 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 | 2023-07-21 |  |
 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 | 2023-07-21 |  |
+| [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 | 2023-07-28 |  |
 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-07-21 |  |
 | [cuida de mim](https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [cuida de mim](https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE) | 2:53 | 2023-07-21 |  |
 | [CULPA DE VC](https://open.spotify.com/track/7F1WNTq17djPimY7505uT4) | [Lamutes](https://open.spotify.com/artist/3YzPz5HSbQXQljE6T5whQr) | [CULPA DE VC](https://open.spotify.com/album/3d6fdtyuE7izrkgu00CcWk) | 2:19 | 2023-07-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 34029,
+  "num_followers": 34068,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmM5Mjc4OGYxZDczYzdlMjJhZDBjZjVjNzVkNmUzZjAyNmYxOTkz",
+  "snapshot_id": "MCxkNWI1ZjM3MTRlZjQ5MmM1NjM0N2I5ODQwOWNmYzFhNzY1NmIzZDA1",
   "tracks": [
     {
       "added_at": "2023-06-22 06:29:47",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Relaxin' with Nick",
         "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 459186,
       "name": "Relaxin' with Nick",
       "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 336266,
-      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "On The Dance Floor",
         "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 209666,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
       },
       "artists": [
         {
@@ -1664,25 +1664,9 @@
           "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
       },
       "artists": [
         {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
         }
       ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
@@ -1751,8 +1751,8 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
       },
       "artists": [
         {
@@ -1760,9 +1760,9 @@
           "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Boogie To Funk - That's The Way I Like It",
-        "url": "https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX"
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
       },
       "artists": [
         {
-          "name": "Bill Coleman",
-          "url": "https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w"
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
         }
       ],
-      "duration_ms": 586680,
-      "name": "Have Blues, Will Play'em",
-      "url": "https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT"
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
+        "name": "Boogie To Funk - That's The Way I Like It",
+        "url": "https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX"
       },
       "artists": [
         {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+          "name": "Bill Coleman",
+          "url": "https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w"
         }
       ],
-      "duration_ms": 552600,
-      "name": "Tales For A Girl, 12",
-      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
+      "duration_ms": 586680,
+      "name": "Have Blues, Will Play'em",
+      "url": "https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT"
     },
     {
       "added_at": "2023-06-22 06:29:47",

@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174352,
+      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
+      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
+    },
+    {
+      "album": {
         "name": "Demos y Viejas Historias, Vol. 1",
         "url": "https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 171821,
       "name": "No Digas Lo Siento",
       "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
@@ -1981,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/5cQlyZifodz2DMKL78miNf"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/3jgYSzWBelkdbIT6i5MGYe"
+    },
+    {
+      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
@@ -2143,7 +2179,7 @@
     },
     {
       "album": {
-        "name": "UnoDoce",
+        "name": "UNODOCE",
         "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
       },
       "artists": [
@@ -2156,7 +2192,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 73533,
-      "name": "UnoDoce",
+      "name": "UNODOCE",
       "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {

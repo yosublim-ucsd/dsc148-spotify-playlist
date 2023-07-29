@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-514 songs - 1 day 0 hr 7 min
+515 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Shoodaz](https://open.spotify.com/track/0WOZWB20pRxCBjJ4k8r241) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/7M5fm7vaTmgmT2PEz5y7xV) | 2:32 | 2022-07-07 | 2022-07-29 |
 | [Shoodaz](https://open.spotify.com/track/5KbXgp0TIX4awIBgGl8dck) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/4P9FwLWlg8XuNgm2jmJadM) | 2:32 | 2022-07-28 | 2022-08-05 |
 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 | 2022-12-08 | 2023-06-23 |
+| [Sick](https://open.spotify.com/track/7LnGqbsLdHKV49tSOLiQ9z) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Sick](https://open.spotify.com/album/12f0SxhgxdzXVZSGxwoX0a) | 2:06 | 2023-07-27 |  |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 |  |
 | [Since When](https://open.spotify.com/track/5Wk5ETWckKEeWFU5zy6G6q) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Lawd Lance](https://open.spotify.com/artist/5QomExSHXEoFZllmjeaQBM), [JR](https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl) | [Since When](https://open.spotify.com/album/55md5f23yj7QaWnI3NJEfp) | 2:47 | 2022-03-21 | 2022-08-12 |
 | [Sky High](https://open.spotify.com/track/3tXydV5M0r2EKVB7U3SaKW) | [Stylah](https://open.spotify.com/artist/4QFTwe0OOUO0lSYfIXSNMm), [Jaypee](https://open.spotify.com/artist/7h4LplHmoD6lyBfV9m8tRB) | [Sky High](https://open.spotify.com/album/6Kn8X8N7IHyvSUgai0fTWT) | 2:49 | 2023-05-11 |  |

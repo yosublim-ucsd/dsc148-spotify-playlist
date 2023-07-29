@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,460 likes - 74 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,563 likes - 74 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,19 +17,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 7 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 8 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 |
 | 9 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
-| 10 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
+| 10 | [Year 3000 2.0](https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Year 3000 2.0](https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC) | 3:17 |
 | 11 | [The Falling Sky](https://open.spotify.com/track/65jnBFNzsBGqTQ3yM2oEcA) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 3:38 |
-| 12 | [Year 3000 2.0](https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Year 3000 2.0](https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC) | 3:17 |
-| 13 | [Clouds](https://open.spotify.com/track/2FlYBPrM8HgTkm5FE8Udy9) | [Defying Decay](https://open.spotify.com/artist/3hulNignaNzmsZxPOHi0Dy), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Clouds](https://open.spotify.com/album/2Aw142w0gigVXXlFm2tUqG) | 3:34 |
-| 14 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 |
-| 15 | [Blue\-Stained Lips](https://open.spotify.com/track/3N4il4zsv7TSTlZ3FQXVtP) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Blue\-Stained Lips](https://open.spotify.com/album/2FaPLNZ7QIPLeRjRK9Pk8x) | 2:57 |
-| 16 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 12 | [Clouds](https://open.spotify.com/track/2FlYBPrM8HgTkm5FE8Udy9) | [Defying Decay](https://open.spotify.com/artist/3hulNignaNzmsZxPOHi0Dy), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Clouds](https://open.spotify.com/album/2Aw142w0gigVXXlFm2tUqG) | 3:34 |
+| 13 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 |
+| 14 | [Blue\-Stained Lips](https://open.spotify.com/track/3N4il4zsv7TSTlZ3FQXVtP) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Blue\-Stained Lips](https://open.spotify.com/album/2FaPLNZ7QIPLeRjRK9Pk8x) | 2:57 |
+| 15 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 16 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
 | 17 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 |
 | 18 | [Heartbreak Feels So Good](https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:37 |
 | 19 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 |
 | 20 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 | 21 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
-| 22 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 |
+| 22 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 |
 | 23 | [Beginning Of Hate](https://open.spotify.com/track/1sfJcVlw3qSTnsMkOkMglt) | [District105](https://open.spotify.com/artist/5ifAMBDQn2LbgddLbQWx9n) | [Beginning Of Hate](https://open.spotify.com/album/42e1T4lYyllEz9qe6copYg) | 4:00 |
 | 24 | [Age Oriented](https://open.spotify.com/track/69pRXRs3ojagGM42kd2WqS) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [RETAS](https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp) | 3:28 |
 | 25 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 73 | [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 |
 | 74 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCxhMmE0ZDAyNTZmOTE3YWUwYmViYjcyYjQ0ZmFjOTcxNmFkNjc2YTFm`
+Snapshot ID: `MCwxZWY1ZDk3NjRjNzljMjE1NTRjYzRkNmFiNDgxODkxYjFiNGJlM2Nl`

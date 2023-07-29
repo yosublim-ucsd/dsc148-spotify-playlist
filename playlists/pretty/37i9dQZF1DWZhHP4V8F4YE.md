@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits here
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,348 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,508 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Ka Gaza](https://open.spotify.com/track/2uhBXGRMFAoKQWdv4hEvdw) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Gaza](https://open.spotify.com/album/3Wumaf93hSByt3uEp2FvgJ) | 4:40 |
 | 50 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 
-Snapshot ID: `MCw0ZjE4OWE4ZWYzNWM2NDIzZmUxYWUyMThlN2ZiODMxNjY5YzUxNDgz`
+Snapshot ID: `MCw4NTViMzRlN2RlNGVjMjIzMjA1ZTAwOWNjMGQ1MTA3M2Y2N2Y1ZTdk`

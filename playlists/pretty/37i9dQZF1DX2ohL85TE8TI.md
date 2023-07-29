@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528,340 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528,704 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 |
 | 100 | [Trying too hard](https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Delivery Man, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV) | 4:02 |
 
-Snapshot ID: `MCxjMmFhYjI5MjRjM2Q0MWViY2ExY2RhMzRlN2MyYjQ2YTBhYjlhNTgx`
+Snapshot ID: `MCwzYTRiODBlNjU2OWY2NTUwYzNiZjIxODk2YzNmN2Q1NzhkNTNhNTli`

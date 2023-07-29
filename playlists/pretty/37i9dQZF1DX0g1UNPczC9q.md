@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 
 > Everyone's welcome\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,061 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,064 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 | 65 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 |
 | 66 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 67 | [Dance with You](https://open.spotify.com/track/04zipeUI1GQjypWxPfFL8t) | [Caitlin Kinnunen](https://open.spotify.com/artist/33RWcf3xOXdbUHIajavxaE), [Isabelle McCalla](https://open.spotify.com/artist/4SNWtSWaGOFjjBhCUx7f4L) | [The Prom: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2EeSecVK1JVbirWHqgWoq6) | 3:07 |
-| 68 | [Kiss the Boy](https://open.spotify.com/track/30LVVHovT76CEZUbexup1k) | [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Kiss the Boy](https://open.spotify.com/album/2RKImiNMGPKQYapmye17Fi) | 4:21 |
+| 68 | [Kiss the Boy](https://open.spotify.com/track/30LVVHovT76CEZUbexup1k) | [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Kiss the Boy](https://open.spotify.com/album/2RKImiNMGPKQYapmye17Fi) | 4:21 |
 | 69 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
 | 70 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 71 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 | 84 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 |
 | 85 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 
-Snapshot ID: `MCw4ODk5OTU2MDk2YzgyMTNlMDllZjFhZjkzOTc1NjY1MDdiNjlhMmVj`
+Snapshot ID: `MCwyZGU1YjNmMWNlNDk0YTZlNGEwY2RmNGEzYjYzMDUxNGY5ZWRhNDgz`

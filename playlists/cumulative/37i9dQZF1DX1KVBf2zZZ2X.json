@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Quiet Soul",
+        "url": "https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz"
+      },
+      "artists": [
+        {
+          "name": "The Sun Door",
+          "url": "https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Quiet Soul",
+      "url": "https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo"
+    },
+    {
+      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },

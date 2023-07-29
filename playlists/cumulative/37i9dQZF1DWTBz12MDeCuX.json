@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 130588,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/6RRwlv3DCwxDby6v1ZjVZj"
@@ -4435,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "DELRESTO (ECHOES)",
+        "url": "https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/04CXnx5jbmTSXhItqc13fs"
+    },
+    {
+      "album": {
         "name": "Der neue Stil meiner Generation",
         "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
       },
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
@@ -9719,6 +9741,24 @@
     },
     {
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182937,
+      "name": "Just 4 Me",
+      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
+    },
+    {
+      "album": {
         "name": "Just 4 Me",
         "url": "https://open.spotify.com/album/1sinCUHakJEMtSt4RFPW5W"
       },
@@ -9730,7 +9770,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182937,
       "name": "Just 4 Me",
       "url": "https://open.spotify.com/track/5wuOfyKleXygq3F3IhRnSC"
@@ -13762,6 +13802,28 @@
       "duration_ms": 215063,
       "name": "on my way",
       "url": "https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e"
+    },
+    {
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
       "album": {

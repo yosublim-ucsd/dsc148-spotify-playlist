@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-226 songs - 14 hr 19 min
+227 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Arturo Sandoval](https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Arturo Sandoval](https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk) | 3:31 | 2021-12-09 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-12-09 |  |
 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 | 2021-12-09 |  |
+| [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 | 2023-07-28 |  |
 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 | 2021-12-09 |  |
 | [Bailar Contigo](https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailar Contigo](https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf) | 3:40 | 2021-12-09 | 2023-03-08 |
 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 | 2022-01-01 | 2023-03-08 |
@@ -48,7 +49,7 @@
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-03-07 |  |
 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 | 2021-12-09 | 2022-07-29 |
 | [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 | 2023-05-01 |
-| [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 |  |
+| [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 | 2023-07-29 |
 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 | 2021-12-09 |  |
 | [Ché Ché Colé](https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Año Nuevo, Vida Nueva](https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE) | 3:27 | 2022-08-31 | 2022-11-14 |
 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 | 2021-12-09 | 2022-07-29 |

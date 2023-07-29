@@ -3071,6 +3071,32 @@
     },
     {
       "album": {
+        "name": "SHEEESH (The Remixes)",
+        "url": "https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        },
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "SHEEESH - Emorfik Remix",
+      "url": "https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8"
+    },
+    {
+      "album": {
         "name": "Mini Motors",
         "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
       },
@@ -3616,6 +3642,42 @@
       "duration_ms": 122769,
       "name": "Trunk",
       "url": "https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194390,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/50vMrcUtcsnf0TuLjWmy9N"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Trust - VIP Mix",
+      "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
     },
     {
       "album": {

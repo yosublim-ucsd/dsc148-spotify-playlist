@@ -409,6 +409,32 @@
     },
     {
       "album": {
+        "name": "All You Need Is Love (Festival Edit)",
+        "url": "https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254710,
+      "name": "All You Need Is Love - Festival Edit",
+      "url": "https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU"
+    },
+    {
+      "album": {
         "name": "Annihilate",
         "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
@@ -420,7 +446,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165000,
       "name": "Annihilate",
       "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
@@ -1956,7 +1982,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
@@ -2480,7 +2506,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 239896,
       "name": "Esta Vida - Deorro Remix",
       "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
@@ -2992,7 +3018,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
@@ -3010,7 +3036,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 487359,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
@@ -3058,7 +3084,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
@@ -3242,7 +3268,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 261290,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3dIGoaCRQ7eRvnDLWe8nT3"
@@ -3610,7 +3636,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178294,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
@@ -3794,7 +3820,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142400,
       "name": "Human Error",
       "url": "https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP"
@@ -4306,6 +4332,24 @@
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
+      "album": {
+        "name": "It Burns - EP",
+        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192619,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
     },
     {
       "album": {
@@ -4840,7 +4884,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
@@ -5020,7 +5064,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190560,
       "name": "Loop",
       "url": "https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay"
@@ -5474,7 +5518,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -5548,6 +5592,32 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
     },
     {
       "album": {
@@ -5760,6 +5830,28 @@
       "duration_ms": 207187,
       "name": "Music Means Love Forever",
       "url": "https://open.spotify.com/track/7nlXw2qQ38tx4UvBwVL5Ne"
+    },
+    {
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
     },
     {
       "album": {
@@ -6020,7 +6112,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 141562,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
@@ -6222,7 +6314,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
@@ -6351,6 +6443,32 @@
     },
     {
       "album": {
+        "name": "On My Body",
+        "url": "https://open.spotify.com/album/2vZAqYUsKBjIdiMVboztZq"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141411,
+      "name": "On My Body",
+      "url": "https://open.spotify.com/track/4a50Zv9vN5Aj0STcN6WuYA"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6PEkbnlo9YzRWqEL4A7hru"
       },
@@ -6392,7 +6510,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190217,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
@@ -6458,7 +6576,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
@@ -6738,7 +6856,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
@@ -7790,7 +7908,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
@@ -7978,7 +8096,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166572,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
@@ -8130,7 +8248,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 132954,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
@@ -8378,7 +8496,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170322,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
@@ -9516,7 +9634,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 154176,
       "name": "U Ok?",
       "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
@@ -9556,7 +9674,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 168148,
       "name": "Unity",
       "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
@@ -9850,7 +9968,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
@@ -10260,7 +10378,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 197590,
       "name": "Would You Even Know",
       "url": "https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a"

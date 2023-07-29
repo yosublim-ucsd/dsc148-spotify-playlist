@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,413,523 likes - 51 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,416,037 likes - 51 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 37 | [I Need A Doctor](https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I Need A Doctor](https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn) | 4:43 |
 | 38 | [Cinderella Man](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:39 |
 | 39 | [Beautiful](https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 6:32 |
-| 40 | [When I'm Gone](https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [When I'm Gone](https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa) | 4:41 |
-| 41 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 |
-| 42 | [Just Lose It](https://open.spotify.com/track/0qcjuYtMWhBjXg0Xwt5SzS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:08 |
+| 40 | [Just Lose It](https://open.spotify.com/track/0qcjuYtMWhBjXg0Xwt5SzS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:08 |
+| 41 | [When I'm Gone](https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [When I'm Gone](https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa) | 4:41 |
+| 42 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 |
 | 43 | [Space Bound](https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:38 |
-| 44 | [Role Model](https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:25 |
-| 45 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
-| 46 | [Ass Like That](https://open.spotify.com/track/4gXdMZkBN1neE9nX6yRALa) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:25 |
+| 44 | [Ass Like That](https://open.spotify.com/track/4gXdMZkBN1neE9nX6yRALa) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:25 |
+| 45 | [Role Model](https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:25 |
+| 46 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 47 | [Remember The Name \(feat\. Eminem & 50 Cent\)](https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:27 |
-| 48 | [That's All She Wrote](https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:18 |
-| 49 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 |
-| 50 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 |
+| 48 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 |
+| 49 | [That's All She Wrote](https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:18 |
+| 50 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 |
 | 51 | [Never Love Again](https://open.spotify.com/track/40YbWniIEmqy6s58fYXLUh) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 2:57 |
 
-Snapshot ID: `MjgxNzI5ODEsMDAwMDAwMDAwZGM4ODIzYjVkMDM3YTI3MGY2ZWUxMDFmOGRiNWY5Yg==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBmYjdjNGI2OGMyZDNkYzdmNGQzYTU2MDQ3MmY5N2IyZg==`

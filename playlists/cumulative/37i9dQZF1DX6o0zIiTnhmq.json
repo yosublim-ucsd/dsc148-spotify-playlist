@@ -1343,6 +1343,32 @@
     },
     {
       "album": {
+        "name": "Shiva Chants",
+        "url": "https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh"
+      },
+      "artists": [
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
+          "name": "Abhinay Jain",
+          "url": "https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303715,
+      "name": "Shiva Chants",
+      "url": "https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS"
+    },
+    {
+      "album": {
         "name": "Indrakshi Shiva Kavacham",
         "url": "https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq"
       },
@@ -1358,7 +1384,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186346,
       "name": "Shiva Raksha Stotram",
       "url": "https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc"

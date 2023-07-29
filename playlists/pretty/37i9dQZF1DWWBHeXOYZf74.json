@@ -1,96 +1,60 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Vagabon",
-  "num_followers": 1328265,
+  "description": "Genre-less. Quality first always. Cover: James Blake",
+  "num_followers": 1328286,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQxNDIyZjdmNzY5MDgwOTJiZjYxMjc4OTQyNmE0ZThlMTI0N2Q0",
+  "snapshot_id": "MCw3NjY4NTI3NzlhNTNhOTVhNGVhZWFiYmM5YTMzODM5ZWFmZDM4NzEy",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 222945,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
+      "duration_ms": 255412,
+      "name": "MODERN JAM",
+      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bioluminescence",
-        "url": "https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9"
+        "name": "Back On 74",
+        "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 312447,
-      "name": "Bioluminescence",
-      "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
-    },
-    {
-      "added_at": "2023-07-14 12:10:24",
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 245819,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Cheapshot",
-        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
-      },
-      "artists": [
-        {
-          "name": "Seago",
-          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
-        }
-      ],
-      "duration_ms": 100593,
-      "name": "Cheapshot",
-      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -111,6 +75,38 @@
       "duration_ms": 174048,
       "name": "What You Done",
       "url": "https://open.spotify.com/track/5IouffaYEX67BICjTSCckE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "added_at": "2023-06-23 13:09:10",
@@ -139,6 +135,134 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        }
+      ],
+      "duration_ms": 222945,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "All the Good Times Never Die",
+        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "All the Good Times Never Die",
+      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+    },
+    {
+      "added_at": "2023-07-14 12:10:24",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Mess Around (feat. EARTHGANG) [Sped Up + Slowed Down]",
+        "url": "https://open.spotify.com/album/5MyfQzicFQZsCm9AvJdKVF"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 195855,
+      "name": "Mess Around (feat. EARTHGANG) - Sped Up",
+      "url": "https://open.spotify.com/track/61mhn7nRAGe4XG5imC5QYK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Bioluminescence",
+        "url": "https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 312447,
+      "name": "Bioluminescence",
+      "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Cheapshot",
+        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "duration_ms": 100593,
+      "name": "Cheapshot",
+      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1467,30 +1591,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Palaces : The Remixes, Pt. 3",
-        "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 277865,
-      "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
-      "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "nice 2 me",
         "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
@@ -1595,22 +1695,6 @@
       "duration_ms": 161360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sent From My Telephone",
-        "url": "https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j"
-      },
-      "artists": [
-        {
-          "name": "Voice Actor",
-          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Battling Dust",
-      "url": "https://open.spotify.com/track/3oYleXsSv0X9GqN1oKyPYu"
     },
     {
       "added_at": "2023-03-29 21:15:15",
@@ -1727,42 +1811,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "& the Charm",
-        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "Astrology Poisoning",
-      "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
-    },
-    {
-      "added_at": "2023-03-28 17:23:50",
-      "album": {
-        "name": "Candle Flame",
-        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 174020,
-      "name": "Candle Flame",
-      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB"
       },
@@ -1775,22 +1823,6 @@
       "duration_ms": 212289,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 345053,
-      "name": "Gentle Heart",
-      "url": "https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka"
     },
     {
       "added_at": "2023-03-31 04:03:01",
@@ -1807,22 +1839,6 @@
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
-    },
-    {
-      "added_at": "2023-03-31 04:03:01",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
     },
     {
       "added_at": "2023-04-07 04:00:00",

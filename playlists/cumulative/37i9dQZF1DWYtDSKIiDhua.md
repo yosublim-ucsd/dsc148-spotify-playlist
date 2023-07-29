@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: CLAUDIA
 
-473 songs - 1 day 1 hr 36 min
+474 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-15 | 2023-06-23 |
 | [Satellite Space Age Edition \(feat\. Louis Cole & Genevieve Artadi\) \[from Insecure: Music From The HBO Original Series, Season 5\]](https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Insecure: Music From The HBO Original Series, Season 5](https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN) | 4:32 | 2022-06-08 | 2022-07-15 |
 | [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 | 2023-02-23 | 2023-03-18 |
+| [Say It Straight](https://open.spotify.com/track/2v2GQaYfVnu6BmAjP5Vu3D) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Say It Straight](https://open.spotify.com/album/0azvZuQc8BTk8mh23Fo3mQ) | 3:08 | 2023-07-27 |  |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-06-30 | 2022-08-26 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-08 | 2022-07-15 |
 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-18 | 2022-09-17 |

@@ -622,36 +622,6 @@
     {
       "album": {
         "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "date_added": "2022-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 625062,
-      "name": "Fear Is Not My Future (feat. Brandon Lake & Chandler Moore)",
-      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
-    },
-    {
-      "album": {
-        "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
       },
       "artists": [
@@ -678,6 +648,36 @@
       "duration_ms": 625062,
       "name": "Fear is Not My Future (feat. Brandon Lake & Chandler Moore)",
       "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "album": {
@@ -2046,7 +2046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 565833,
-      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {

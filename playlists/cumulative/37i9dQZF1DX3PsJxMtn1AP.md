@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-169 songs - 11 hr 4 min
+171 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-14 |  |
 | [Ashufak Shay \(feat\. Rashid Al Najjar\)](https://open.spotify.com/track/1fkAf0B2cB2DKx9dhYembk) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [Rashid Al Najjar](https://open.spotify.com/artist/1zQpUGJVs1xCLcMSu63SGD) | [Ashufak Shay \(feat\. Rashid Al Najjar\)](https://open.spotify.com/album/2NoIIJGa6SZ1QxVOwju35e) | 3:21 | 2023-04-13 | 2023-06-15 |
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-04-07 |  |
-| [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-07 |  |
+| [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-07 | 2023-07-29 |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-07 | 2023-04-30 |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-13 | 2023-03-30 |
 | [Bedroom Exile \- Spotify Singles](https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:21 | 2023-03-29 | 2023-04-14 |
@@ -95,7 +95,7 @@
 | [Lose My Head](https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Lose My Head](https://open.spotify.com/album/3q8cttdPEVNFCZwCxe47B5) | 2:30 | 2023-06-02 | 2023-06-16 |
 | [Luces \(Remix\)](https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Renato del Real](https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6) | [Luces \(Remix\)](https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2) | 3:19 | 2023-06-27 |  |
 | [Make My Way Back Home](https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Make My Way Back Home](https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42) | 3:56 | 2023-03-31 | 2023-05-13 |
-| [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-16 |  |
+| [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-16 | 2023-07-29 |
 | [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 | 2023-01-07 | 2023-03-25 |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 | 2023-07-25 |
 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 | 2023-02-28 | 2023-04-16 |
@@ -141,6 +141,7 @@
 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 | 2023-05-09 |  |
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-14 | 2023-06-12 |
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2023-07-26 |
+| [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 |  |
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-24 |  |
 | [Slugs of Love](https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v) | 4:07 | 2023-04-14 |  |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-14 | 2023-07-01 |
@@ -170,6 +171,7 @@
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-01-13 | 2023-03-25 |
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 | 2023-06-02 |
 | [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 | 2023-03-19 |
+| [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-28 |  |
 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 | 2023-03-31 | 2023-06-15 |
 | [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |
 | [White Wine in the Shower](https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [White Wine in the Shower](https://open.spotify.com/album/7dhuqpDHRNzHQVvrXxkm86) | 1:59 | 2023-06-14 | 2023-06-28 |

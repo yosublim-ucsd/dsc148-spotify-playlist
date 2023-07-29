@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lil Uzi Vert",
+  "description": "Up and down I-95. Cover: A$AP Rocky",
   "name": "State of Mind",
   "tracks": [
     {
@@ -290,6 +290,28 @@
       "duration_ms": 137706,
       "name": "2daside",
       "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
+    },
+    {
+      "album": {
+        "name": "3AM in the Yams (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah"
+      },
+      "artists": [
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169703,
+      "name": "3AM in the Yams (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO"
     },
     {
       "album": {
@@ -2555,6 +2577,28 @@
     },
     {
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114792,
+      "name": "CLASSY (feat. Swizz Beatz)",
+      "url": "https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/6B6TNpcbfLYdBweoByc1vi"
       },
@@ -2736,7 +2780,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142288,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/1iUBXA98sGpUkcFakDDo6k"
@@ -3896,7 +3940,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246315,
       "name": "Elephant Man (feat. Heem B$F & Rome Streetz)",
       "url": "https://open.spotify.com/track/1Ht0Ei4j93zlaQFQPS6anF"
@@ -4815,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "FROM THE JUMP",
+        "url": "https://open.spotify.com/album/6ymJ8uS3BsnYLBysuKi1rG"
+      },
+      "artists": [
+        {
+          "name": "Ron Suno",
+          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96548,
+      "name": "FROM THE JUMP",
+      "url": "https://open.spotify.com/track/1nl1d6sSgpJnUbh0SGAywr"
+    },
+    {
+      "album": {
         "name": "FRONT END",
         "url": "https://open.spotify.com/album/1fsSyNqjdPIET1E92Gk6k1"
       },
@@ -5512,7 +5574,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 89372,
       "name": "HANDS UP!",
       "url": "https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7"
@@ -6838,7 +6900,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 171474,
       "name": "Keep It Cute",
       "url": "https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs"
@@ -8228,6 +8290,24 @@
       "duration_ms": 167724,
       "name": "Michael & Quincy",
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
     },
     {
       "album": {
@@ -12533,6 +12613,28 @@
     },
     {
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
+      },
+      "artists": [
+        {
+          "name": "Yung Pooda",
+          "url": "https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170765,
+      "name": "Somebody (Explicit)",
+      "url": "https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp"
+    },
+    {
+      "album": {
         "name": "SPACE CADET",
         "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
       },
@@ -13530,7 +13632,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"

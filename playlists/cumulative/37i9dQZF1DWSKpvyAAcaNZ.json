@@ -4823,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "Voodoo Woman",
+        "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Voodoo Woman - Album Outtake",
+      "url": "https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu"
+    },
+    {
+      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },

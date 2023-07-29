@@ -1,12 +1,12 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Carlos Vives\n",
-  "num_followers": 93425,
+  "num_followers": 93477,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzRkYTI3NDIxM2UzZTMzNjY4MGU5ZTFhNGY5NGFlY2U5OTYwYTMz",
+  "snapshot_id": "MCw4NjNkZjU3ODJjYmNkNmEwOTJhODgzN2ZjMGZlZTdhMmRlMGE0MTZl",
   "tracks": [
     {
       "added_at": "2023-06-29 21:36:55",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-29 21:36:55",
       "album": {
-        "name": "35 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
-      },
-      "artists": [
-        {
-          "name": "El Sonero de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
-        }
-      ],
-      "duration_ms": 263201,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
       },
@@ -903,6 +887,26 @@
       "duration_ms": 245202,
       "name": "La Invit\u00e9 a Bailar",
       "url": "https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1"
+    },
+    {
+      "added_at": "2023-06-29 21:36:55",
+      "album": {
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
     }
   ],
   "unique_name": "Rumba Colombiana",

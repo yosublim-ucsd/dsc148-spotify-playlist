@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Carolina
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,115 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,240 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [2x blinzeln](https://open.spotify.com/track/6wFoisGUixXSsIZIy9vKpD) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Was ich will](https://open.spotify.com/album/544ks9m4BfuUljraaQ336a) | 2:46 |
 | 75 | [So bin ich halt / blablabla](https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [So bin ich halt / blablabla](https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT) | 2:10 |
 
-Snapshot ID: `MCwxYzc2YTViNWM5NjI0YWYyZDljZmRmZWNhNjM4NWY5YjUxZmYyOGJj`
+Snapshot ID: `MCwzM2NlMTAyNTIzYTlmZDE4OGRhNzQ3OThhMTE0ZWYyNzE1NmZhOTQ5`

@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 151978,
       "name": "Highway of Love",
       "url": "https://open.spotify.com/track/0Zn4LyOByD6hUVoIBdGvfO"
@@ -4983,6 +4983,28 @@
     },
     {
       "album": {
+        "name": "Muscle Car",
+        "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328560,
+      "name": "Muscle Car",
+      "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -5900,6 +5922,24 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
+    },
+    {
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "album": {
@@ -7908,7 +7948,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 217066,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
@@ -8428,7 +8468,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
@@ -8839,6 +8879,28 @@
     },
     {
       "album": {
+        "name": "Yet to Be (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "Yet to Be (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf"
+    },
+    {
+      "album": {
         "name": "You Can't Stop Me from Staying",
         "url": "https://open.spotify.com/album/7vwbl0BxNmBuzY5L6VhaX6"
       },
@@ -8850,7 +8912,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196256,
       "name": "You Can't Stop Me from Staying",
       "url": "https://open.spotify.com/track/4I5setKgeqtfcz4NZDxPdC"

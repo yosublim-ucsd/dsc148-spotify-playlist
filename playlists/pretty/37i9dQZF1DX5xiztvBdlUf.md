@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,320 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,497 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 49 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 |
 | 50 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 |
 | 51 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
-| 52 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
-| 53 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
+| 52 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
+| 53 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
 | 54 | [Be Here and Now](https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Be Here and Now](https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7) | 3:29 |
 | 55 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
 | 56 | [Noso](https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Nico Casal](https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Noso](https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz) | 7:23 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 63 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
 | 64 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 | 65 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 |
-| 66 | [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 |
-| 67 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
+| 66 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
+| 67 | [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 |
 | 68 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
 | 69 | [Sway](https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sway](https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh) | 4:01 |
 | 70 | [Inner Child \- Patrice Bäumel Remix](https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Inner Child \(Patrice Bäumel Remix\)](https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 |
 | 80 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 
-Snapshot ID: `MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm`
+Snapshot ID: `MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0`

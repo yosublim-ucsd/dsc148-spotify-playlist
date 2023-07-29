@@ -2001,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/155DIBTJApyx01CHnBUdB8"
+      },
+      "artists": [
+        {
+          "name": "David Osborne",
+          "url": "https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110426,
+      "name": "The Holly And The Ivy",
+      "url": "https://open.spotify.com/track/0Z56bFna9S2pNcWM3dQ0P4"
+    },
+    {
+      "album": {
         "name": "Piano Christmas",
         "url": "https://open.spotify.com/album/5DzeLiTyNyuJWq5kJkjaVV"
       },
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 112773,
       "name": "The Holly and the Ivy",
       "url": "https://open.spotify.com/track/0YrtmukmxadUiL71QmYavc"

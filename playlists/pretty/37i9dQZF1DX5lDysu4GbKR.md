@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,659 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,787 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 43 | [Where You're At](https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 2:50 |
 | 44 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
 | 45 | [Like I Want You \- Acoustic](https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:05 |
-| 46 | [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 |
+| 46 | [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 |
 | 47 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 |
 | 48 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 49 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 |
 | 100 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 
-Snapshot ID: `MCw3MjFkYjA0OTdkMjNhNzZhODVlMmE0NDU1NTJiMmE0M2M3ZDE5NWVj`
+Snapshot ID: `MCwyY2QxZmFhYmI3YzViMmExNTQ4NTIyMzM5Y2E3NTQyODVkZjBkOWUx`

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-220 songs - 22 hr 5 min
+221 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Pharaoh \- Enoo Napa Remix](https://open.spotify.com/track/4MuRuDNaYCZ9IzaT0KSfhT) | [Stoim](https://open.spotify.com/artist/3mzj6sewlyj9tNug1u0cLW), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Pharaoh](https://open.spotify.com/album/0yQQlhMne6GG2ebsznhcV3) | 6:40 | 2023-04-18 | 2023-04-21 |
 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 | 2023-04-18 | 2023-04-21 |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-03-23 |  |
+| [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 | 2023-07-28 |  |
 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 | 2022-06-15 |  |
 | [Real Love](https://open.spotify.com/track/34UCEyfuQZ5sCf5gXLUNIp) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Thimble](https://open.spotify.com/artist/0mBkTixeprcflRIpyW8d9J) | [Real Love](https://open.spotify.com/album/6jNoVRjtr6mmQebn8kFldn) | 6:43 | 2023-04-20 |  |
 | [Reciprocity \- Main Mix](https://open.spotify.com/track/6ZXwOcG6Fv8o5CqClFR4kw) | [Moon Rocket](https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Reciprocity](https://open.spotify.com/album/31oNgHxGq2wuAK6GySc5xZ) | 6:43 | 2022-04-13 | 2023-03-09 |
@@ -203,7 +204,7 @@
 | [Timeo](https://open.spotify.com/track/0VSxh2hM9Yqs8T57H4R7Ws) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Timeo](https://open.spotify.com/album/5CKlCsJGEQYSMtXjrmed6L) | 6:53 | 2023-04-07 |  |
 | [Tolo \- FNX Omar Remix](https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Tolo](https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv) | 6:37 | 2022-09-29 | 2023-06-20 |
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 | 2023-03-14 |
-| [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 | 2022-10-13 |  |
+| [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 | 2022-10-13 | 2023-07-29 |
 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 | 2022-10-17 |
 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 | 2022-12-16 |  |
 | [Vatra](https://open.spotify.com/track/5j1Qs1RNlzDlAzqz5wHuR4) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vatra](https://open.spotify.com/album/57HyuY3gr0yMDoD5cdbXR7) | 7:14 | 2022-04-13 | 2023-04-21 |

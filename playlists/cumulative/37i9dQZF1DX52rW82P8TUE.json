@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Amor Diferente",
+        "url": "https://open.spotify.com/album/45R0EnUDMoQs4PYaTYsuMD"
+      },
+      "artists": [
+        {
+          "name": "Jessyca Kids",
+          "url": "https://open.spotify.com/artist/5EpOx5y4zpvyXMBFGIugRb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/5uOTuH6m5hn98ATHq8BX67"
+    },
+    {
+      "album": {
         "name": "Ao Orarmos",
         "url": "https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206767,
       "name": "Festa das Cores",
       "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"

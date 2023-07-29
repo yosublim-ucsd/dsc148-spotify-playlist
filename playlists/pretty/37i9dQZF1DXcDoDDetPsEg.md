@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,545 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,676 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 15 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 16 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
 | 17 | [Ride](https://open.spotify.com/track/2hd6OjcAHwQt7g18Qo6i7e) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Ride](https://open.spotify.com/album/1psD1WYxz5ZvdmvJxCFTcm) | 3:25 |
-| 18 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Mathandos](https://open.spotify.com/artist/3G5QEBG3RuUD5cOqaGJ54m) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 |
+| 18 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 |
 | 19 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 | 20 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 21 | [Excited](https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Excited](https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY) | 2:03 |
 | 22 | [Scoreboard](https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Scoreboard](https://open.spotify.com/album/1vyZt4IduBURqZBerz1KUA) | 2:49 |
-| 23 | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt) | [A2](https://open.spotify.com/artist/6CLayzfExGy0fSn5IT0aX4), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/album/76eLGzP486W8xcfnR6FXVh) | 2:59 |
+| 23 | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt) | [A2](https://open.spotify.com/artist/6CLayzfExGy0fSn5IT0aX4), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/album/76eLGzP486W8xcfnR6FXVh) | 2:38 |
 | 24 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 | 25 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 | 26 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 64 | [Pick It Up](https://open.spotify.com/track/03Cc9uqZhb8yCMIi6ExEL3) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Pick It Up](https://open.spotify.com/album/7MPk6lrA9jYQTbrcQuXmxF) | 2:30 |
 | 65 | [WDYM](https://open.spotify.com/track/5yUBDuIUCq1goFwlFLYqNG) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [WDYM](https://open.spotify.com/album/2HVIZGP4NsRUIH08JwVoon) | 2:01 |
 
-Snapshot ID: `MCw5ZDc5YjEzMTc0YjQxNjU2MTkxOTkwMjIxNmQ1N2U4YWYxNmZmNzJh`
+Snapshot ID: `MCxlYTMwNmU5ZDUwYWEyN2JmMDI1NzhhNWY2MDA0YTVlYzE1ZTBkZTAy`

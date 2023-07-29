@@ -6,10 +6,222 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBmYWU2ZThhMDA1NDZlOTYzZDY3ZjhhYTMzMzczMDE0Mw==",
+  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDBiYzc0ZTgyMDhlMTUwYjFlNzE5Njc1MTEyMDA2NzNiYg==",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Eyes of the World (Demo)",
+        "url": "https://open.spotify.com/album/22W6QWjYvS4xtpWwfvzyov"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "Eyes of the World - Demo",
+      "url": "https://open.spotify.com/track/4YThrJ7huSPzOK4Pu6cBzC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/48ONBOMWc3UOh1IF3G3O37"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        },
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6kuX5RIJjoMCQmhKqN0PgC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Curly",
+        "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Robert \u2018Sput\u2019 Searight",
+          "url": "https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun"
+        }
+      ],
+      "duration_ms": 456114,
+      "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
+      "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Losin' My Touch - Remastered 2023",
+      "url": "https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "After Life",
+        "url": "https://open.spotify.com/album/0aVrValFOz9pWW5B3aD9d6"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "U-God",
+          "url": "https://open.spotify.com/artist/5BTCT2jN49F72yz6en438O"
+        }
+      ],
+      "duration_ms": 309655,
+      "name": "After Life",
+      "url": "https://open.spotify.com/track/0Y7ckTWfXhSTbsy4MI3Qyw"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/6EykTUDQkubk9ulqnXC7tJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Freedom Young",
+          "url": "https://open.spotify.com/artist/6KnqqJYSVpw3c3LSMg3b9n"
+        }
+      ],
+      "duration_ms": 251542,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5l6Cux32pNTbKCENbTzUba"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Warpaint",
+        "url": "https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 324083,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/3OFmFAEAfxNyJRAW0wLmfb"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Soft Inside",
+        "url": "https://open.spotify.com/album/54MVKy1OCMFazlvlIDrYPu"
+      },
+      "artists": [
+        {
+          "name": "Dea Galore",
+          "url": "https://open.spotify.com/artist/7ApqbqvttZPJ5u4kcZ1yLE"
+        },
+        {
+          "name": "The Melodiks",
+          "url": "https://open.spotify.com/artist/0BKSrGWkUwEUHaUdJGffUN"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 186516,
+      "name": "Soft Inside",
+      "url": "https://open.spotify.com/track/3Uzm3GpyYHjUm0mq8EAxU5"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Untitled Moon Song",
+        "url": "https://open.spotify.com/album/0EMXrRQPShDjHkjUoFQIJd"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Untitled Moon Song",
+      "url": "https://open.spotify.com/track/5vgqhsZv7a8nLVQEEGv97s"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Journey To The Real World (From Barbie The Album)",
         "url": "https://open.spotify.com/album/3PyQnHsgeniXrpuxJ4FmEv"
@@ -25,7 +237,7 @@
       "url": "https://open.spotify.com/track/5xQjhPfF0J455duKo2Bv9w"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
@@ -41,7 +253,7 @@
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
         "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
@@ -65,7 +277,23 @@
       "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Money 'N' Bitches",
+        "url": "https://open.spotify.com/album/2r6n5TGjUyNmxo1pcAsh8x"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Money 'N' Bitches",
+      "url": "https://open.spotify.com/track/3kup5TAVFEfCyW0Lusm2E8"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Drug Trade (feat. Black Thought)",
         "url": "https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY"
@@ -89,91 +317,23 @@
       "url": "https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El Matador (Remixes)",
-        "url": "https://open.spotify.com/album/5v0AWbDGJrx48ddZ6oNdOz"
+        "name": "Ten Billion People",
+        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
       },
       "artists": [
         {
-          "name": "Mic Nickels",
-          "url": "https://open.spotify.com/artist/1tXFKQ7Eo64gMgqJQuhQ5a"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "O.P. Supa",
-          "url": "https://open.spotify.com/artist/2H9Oc1VYC6SzyV59DWYZkp"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 169090,
-      "name": "El Matador - O.P. Supa Remix",
-      "url": "https://open.spotify.com/track/6v8H3VYWt161PyEQUn2m37"
+      "duration_ms": 389333,
+      "name": "Ten Billion People",
+      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "You've Got To Learn (Live)",
-        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 242797,
-      "name": "I Loves You Porgy - Live",
-      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "BANG BANG! (My Neurodivergent Anthem) [Galantis & Misha K VIP Mix]",
-        "url": "https://open.spotify.com/album/5MdCn0CN06fzh8TcuHRPFy"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Misha K",
-          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
-        }
-      ],
-      "duration_ms": 154418,
-      "name": "BANG BANG! (My Neurodivergent Anthem) - Galantis & Misha K VIP Mix",
-      "url": "https://open.spotify.com/track/1vz6ErQBR3A0nsA2NSDVYu"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Taste of Honey",
-        "url": "https://open.spotify.com/album/6ztTfLsiH8G1KiEdg9FPDb"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        },
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Taste of Honey",
-      "url": "https://open.spotify.com/track/2l6SKrXqsGiyyc6G9dyILK"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Super Soldier (VIP Remix)",
         "url": "https://open.spotify.com/album/7LBqHmYQ5yhyxJBXCyXBy7"
@@ -201,71 +361,31 @@
       "url": "https://open.spotify.com/track/3h77MGWjo9ccKFSyxCkRS2"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Money 'N' Bitches",
-        "url": "https://open.spotify.com/album/2r6n5TGjUyNmxo1pcAsh8x"
+        "name": "El Matador (Remixes)",
+        "url": "https://open.spotify.com/album/5v0AWbDGJrx48ddZ6oNdOz"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Money 'N' Bitches",
-      "url": "https://open.spotify.com/track/3kup5TAVFEfCyW0Lusm2E8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Dreams (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
-        "url": "https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq"
-      },
-      "artists": [
+          "name": "Mic Nickels",
+          "url": "https://open.spotify.com/artist/1tXFKQ7Eo64gMgqJQuhQ5a"
+        },
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "Dreams - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Ten Billion People",
-        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
-      },
-      "artists": [
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "O.P. Supa",
+          "url": "https://open.spotify.com/artist/2H9Oc1VYC6SzyV59DWYZkp"
         }
       ],
-      "duration_ms": 389333,
-      "name": "Ten Billion People",
-      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
+      "duration_ms": 169090,
+      "name": "El Matador - O.P. Supa Remix",
+      "url": "https://open.spotify.com/track/6v8H3VYWt161PyEQUn2m37"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Look At The Birds",
-        "url": "https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 490614,
-      "name": "Look at the Birds",
-      "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Restless Heart",
         "url": "https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH"
@@ -281,7 +401,59 @@
       "url": "https://open.spotify.com/track/7z0lgajoRkSwd0dNHapKmF"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "You've Got To Learn (Live)",
+        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 242797,
+      "name": "I Loves You Porgy - Live",
+      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "BANG BANG! (My Neurodivergent Anthem) [Galantis & Misha K VIP Mix]",
+        "url": "https://open.spotify.com/album/5MdCn0CN06fzh8TcuHRPFy"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 154418,
+      "name": "BANG BANG! (My Neurodivergent Anthem) - Galantis & Misha K VIP Mix",
+      "url": "https://open.spotify.com/track/1vz6ErQBR3A0nsA2NSDVYu"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Look At The Birds",
+        "url": "https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 490614,
+      "name": "Look at the Birds",
+      "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
@@ -297,23 +469,43 @@
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)",
+        "url": "https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 953726,
+      "name": "My Favorite Things (feat. Eric Dolphy) - Live",
+      "url": "https://open.spotify.com/track/661SJJCK5tUq3kPNzYxfoa"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Sunday Bloody Sunday (Metal Version)",
+        "url": "https://open.spotify.com/album/6CkyMGTQerZNOvbGTq37pb"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 223827,
+      "name": "Sunday Bloody Sunday (Metal Version)",
+      "url": "https://open.spotify.com/track/63VxeCExz07CEXG95igB5k"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "In My Heart (Confession 2023)",
         "url": "https://open.spotify.com/album/0s7fCyywWehjNDCP4G5BnC"
@@ -337,7 +529,23 @@
       "url": "https://open.spotify.com/track/5aEuotgPZyIMC0sb7U6KnY"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Wax (Live at Sugarshack Sessions)",
         "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
@@ -357,46 +565,10 @@
       "url": "https://open.spotify.com/track/5WYUGg81dIGRJhrONNfaFV"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Sunday Bloody Sunday (Metal Version)",
-        "url": "https://open.spotify.com/album/6CkyMGTQerZNOvbGTq37pb"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 223827,
-      "name": "Sunday Bloody Sunday (Metal Version)",
-      "url": "https://open.spotify.com/track/63VxeCExz07CEXG95igB5k"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)",
-        "url": "https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 953726,
-      "name": "My Favorite Things (feat. Eric Dolphy) - Live",
-      "url": "https://open.spotify.com/track/661SJJCK5tUq3kPNzYxfoa"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Patience (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/1N36aG06vSw0jiZkYqDhhZ"
+        "name": "Werewolf (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
       },
       "artists": [
         {
@@ -404,16 +576,16 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 262429,
-      "name": "Patience (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Vibrant",
         "url": "https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1"
@@ -437,63 +609,7 @@
       "url": "https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "W H A T (We're Hungry And Thirsty)",
-        "url": "https://open.spotify.com/album/4j2Z6v5dXeKjQ69q5awOc4"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "HU$H",
-          "url": "https://open.spotify.com/artist/6sxubtAMXZBk6Vcm1UNZ6h"
-        },
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 184502,
-      "name": "W H A T (We're Hungry And Thirsty)",
-      "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Becoming A Coward",
-        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Becoming A Coward",
-      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "RFK Stadium, Washington, DC, 6/10/73 (Live)",
-        "url": "https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 374327,
-      "name": "Wave That Flag (Live at RFK Stadium, Washington, DC, 6/10/73)",
-      "url": "https://open.spotify.com/track/5IHnYDMb6S7p7rmUFnMfvH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
@@ -504,36 +620,12 @@
           "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         }
       ],
-      "duration_ms": 293371,
-      "name": "Black Thunder - Acoustic",
-      "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
+      "duration_ms": 212844,
+      "name": "This Is Mongol - Acoustic",
+      "url": "https://open.spotify.com/track/4GnWBQiFNtTRUX5jY8bb5B"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Fine Tune",
-        "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Allakoi Peete",
-          "url": "https://open.spotify.com/artist/5XgV0HMw1iiWYLoqknOhge"
-        },
-        {
-          "name": "Ben Wendel",
-          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
-        }
-      ],
-      "duration_ms": 285048,
-      "name": "Mind Your Business (feat. Ben Wendel & Allakoi Peete)",
-      "url": "https://open.spotify.com/track/7fdMae2A1vfPAvXl8EGN8y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Freestyle Canal",
         "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
@@ -549,7 +641,7 @@
       "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Making The Band (Danity Kane)",
         "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
@@ -565,7 +657,7 @@
       "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Take Time",
         "url": "https://open.spotify.com/album/75oDNijUIXFwO1m6FyxBDI"

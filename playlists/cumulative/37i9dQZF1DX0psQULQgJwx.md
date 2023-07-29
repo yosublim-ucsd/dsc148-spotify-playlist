@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2022-09-30 |  |
+| [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2022-09-30 | 2023-07-29 |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-09-02 |  |
 | [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 | 2022-11-12 |
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
@@ -57,7 +57,7 @@
 | [La Terre, Ensoleilée 432](https://open.spotify.com/track/6fRO6nmjyxvkbdX3R3f664) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [La Terre, Ensoleilée 432](https://open.spotify.com/album/2y4rKMOgR3E2Gv8jEGUdTS) | 3:23 | 2022-09-02 |  |
 | [Last Night](https://open.spotify.com/track/2Vym0Tv6thUuR2a3TP3d1N) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Last Night](https://open.spotify.com/album/4sYHodiEVNoJljEE7mVfFt) | 3:30 | 2022-09-02 |  |
 | [Let Go](https://open.spotify.com/track/34f1o7dGsjDbYZloJ5d5zM) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:14 | 2022-09-02 |  |
-| [Lidia's Song](https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK) | [Snow Orchid](https://open.spotify.com/artist/4IA09oabGSDGrVzs9cQyRF) | [Lidia's Song](https://open.spotify.com/album/5OYV4MgU4EYervsWemH396) | 4:14 | 2022-09-02 |  |
+| [Lidia's Song](https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK) | [Snow Orchid](https://open.spotify.com/artist/4IA09oabGSDGrVzs9cQyRF) | [Lidia's Song](https://open.spotify.com/album/5OYV4MgU4EYervsWemH396) | 4:14 | 2022-09-02 | 2023-07-29 |
 | [Lightness](https://open.spotify.com/track/4H2G70RcWqs2flfAAHzaZT) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Lightness](https://open.spotify.com/album/3aSBJNmy9uKEisAza3qOkQ) | 4:04 | 2023-03-10 |  |
 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-09-02 | 2022-12-01 |
 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-11-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,168 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,226 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 6 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 |
 | 7 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 | 8 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
-| 9 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 |
+| 9 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 |
 | 10 | [BLUE SUMMERTIME BLUES](https://open.spotify.com/track/3q7ZMjN5YmRlpXFEMWtXeA) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [BLUE SUMMERTIME BLUES](https://open.spotify.com/album/5LOEXezau5aKQhGP8OW7Ry) | 3:50 |
 | 11 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 |
 | 12 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 |
 | 100 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
 
-Snapshot ID: `MCxjMWNmMDA1ZjVmN2VlZjM5ODM4YjZlYTA2MzdhMWUwNjE0ZDdmZWU3`
+Snapshot ID: `MCxlZmUzYjQyNmYyZWE0OWVlZThkZDIxZjU2ZTcwMzllOTUyYjI1MDE4`

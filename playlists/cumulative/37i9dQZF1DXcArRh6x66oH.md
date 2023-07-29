@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-164 songs - 9 hr 54 min
+165 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2023-02-24 |  |
 | [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 |  |
 | [Chronically Cautious \- Country Version](https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Chronically Cautious \(Country Version\)](https://open.spotify.com/album/6MEZWd1dc8o5hvtmYP8M3s) | 2:12 | 2023-06-30 |  |
+| [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-07-28 |  |
 | [Coal River](https://open.spotify.com/track/1feNxzKDVyqTkGuJMrAzVF) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Coal River](https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL) | 3:41 | 2023-03-24 |  |
 | [Come Back Down](https://open.spotify.com/track/0I9huwsNKzSzkXy7MW6ujw) | [JB and The Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW), [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Come Back Down](https://open.spotify.com/album/0l8v1sHgKl84eEQUpaKoXs) | 4:42 | 2023-02-24 |  |
 | [Come Back Down](https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr) | 4:33 | 2023-02-24 |  |

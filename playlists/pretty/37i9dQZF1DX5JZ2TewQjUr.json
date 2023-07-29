@@ -1,13 +1,29 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Joya",
-  "num_followers": 10733,
+  "num_followers": 10751,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQ1ODZiMzhhOWZhMTNjNmUyN2Y1ZjUyNjBkMWI2YTUyNDdmYWQ0",
+  "snapshot_id": "MCwwNjNkMDc3NzlmYjBiZTZkYjk3MjI0Yjc4YTc4ZWEwMDQ0M2Y3NjZj",
   "tracks": [
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "Lost Boy, Lost City",
+        "url": "https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "duration_ms": 143318,
+      "name": "Lost Boy, Lost City",
+      "url": "https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1"
+    },
     {
       "added_at": "2023-07-27 16:00:00",
       "album": {
@@ -147,6 +163,22 @@
       "duration_ms": 192000,
       "name": "Swimming Upwards",
       "url": "https://open.spotify.com/track/7ElIakirHUE5ZtSbkTf7g7"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "\u9f4b\u5561",
+        "url": "https://open.spotify.com/album/3EuCiGjBgwI1c5LBZD1azc"
+      },
+      "artists": [
+        {
+          "name": "SINK!",
+          "url": "https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si"
+        }
+      ],
+      "duration_ms": 120619,
+      "name": "\u9f4b\u5561",
+      "url": "https://open.spotify.com/track/11KWczNFNykV8w12zTLi6V"
     },
     {
       "added_at": "2023-07-27 16:00:00",

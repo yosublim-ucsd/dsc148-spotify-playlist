@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 47065,
+  "num_followers": 47254,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzZhYTUyNmExZTA0YzVjNmFjNzkzZjBiMTc3MGQ5OGY5YjFmODNl",
+  "snapshot_id": "MCxhZGMwNzU4MmU5OGQ1MzlkZjkxMjE5N2FiZmRiYjk1NmI2ODYyNDI2",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -579,30 +579,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "call and i'll answer",
-        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
-      },
-      "artists": [
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        },
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "call and i'll answer",
-      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "call and i'll answer",
+        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        },
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "call and i'll answer",
+      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 192715,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 192715,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
     },
     {
       "added_at": "2023-06-02 04:00:00",

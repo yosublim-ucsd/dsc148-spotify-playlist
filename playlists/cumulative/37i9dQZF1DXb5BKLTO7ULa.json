@@ -3624,7 +3624,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 156000,
       "name": "Bando",
       "url": "https://open.spotify.com/track/1K3XVvNhCBRp0AmZZUmCvc"
@@ -8563,6 +8563,40 @@
     },
     {
       "album": {
+        "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Dance (with Stefflon Don)",
+      "url": "https://open.spotify.com/track/1akAa8qSlSPUrPVwXNNfyO"
+    },
+    {
+      "album": {
         "name": "Dance (with Stefflon Don)",
         "url": "https://open.spotify.com/album/6F5GEoz6JVRc4aFTpUWMjm"
       },
@@ -8590,7 +8624,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192613,
       "name": "Dance (with Stefflon Don)",
       "url": "https://open.spotify.com/track/2y3c8r4jQh3WX7fSfKx2Xe"
@@ -9756,6 +9790,24 @@
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {
       "album": {
@@ -12734,7 +12786,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141750,
-      "name": "Everest (feat. Yung Gravy)",
+      "name": "Everest (with Yung Gravy)",
       "url": "https://open.spotify.com/track/3uFyGFedpjU3wspnWFPQte"
     },
     {
@@ -14680,6 +14732,28 @@
       "duration_ms": 151705,
       "name": "Geen Spijt",
       "url": "https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk"
+    },
+    {
+      "album": {
+        "name": "Gek Op Jou (feat. Koen)",
+        "url": "https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC"
+      },
+      "artists": [
+        {
+          "name": "Yes-R",
+          "url": "https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ"
+        },
+        {
+          "name": "Koen",
+          "url": "https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Gek Op Jou (feat. Koen)",
+      "url": "https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw"
     },
     {
       "album": {
@@ -20698,6 +20772,28 @@
       "duration_ms": 129748,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/7xMZix45UoyZiS40vHC8oy"
+    },
+    {
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "album": {
@@ -27198,6 +27294,24 @@
     {
       "album": {
         "name": "Nieuwe Case",
+        "url": "https://open.spotify.com/album/3CFYx0tFjHmjXSdynDEAJh"
+      },
+      "artists": [
+        {
+          "name": "DODO",
+          "url": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223632,
+      "name": "Nieuwe Case",
+      "url": "https://open.spotify.com/track/6SZoJ0lQeBX8jY6Lf3NGiI"
+    },
+    {
+      "album": {
+        "name": "Nieuwe Case",
         "url": "https://open.spotify.com/album/3AyrcEZcvsh7OIq5EmlSNA"
       },
       "artists": [
@@ -27208,7 +27322,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225619,
       "name": "Nieuwe Case",
       "url": "https://open.spotify.com/track/60JcdHeFumIUHWvoFauSrT"
@@ -35630,13 +35744,17 @@
         {
           "name": "MORTEN",
           "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175748,
-      "name": "Something To Hold On To",
+      "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
     },
     {
@@ -37308,7 +37426,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
+      "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {

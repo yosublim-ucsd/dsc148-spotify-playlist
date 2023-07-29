@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154777,
       "name": "COME WITH ME",
       "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
@@ -1630,6 +1630,24 @@
       "duration_ms": 231693,
       "name": "Could I Be Somebody",
       "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
+    },
+    {
+      "album": {
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
     },
     {
       "album": {

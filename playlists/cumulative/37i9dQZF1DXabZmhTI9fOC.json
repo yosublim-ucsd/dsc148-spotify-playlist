@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 216569,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/0Mt96dOcOqcvjNM07OSUVv"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Bang a Gong (Get It On) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/1P1NwZkprQPUmVs65JQ1lJ"
       },
@@ -544,6 +562,24 @@
       "duration_ms": 181707,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/28DeebbtRZEcOLeVCzMhCo"
+    },
+    {
+      "album": {
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/1Qbh6UdiFpmdwRwNty6ISh"
     },
     {
       "album": {
@@ -736,7 +772,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 172986,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK"
@@ -766,6 +802,46 @@
       "duration_ms": 172986,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq"
+    },
+    {
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131013,
+      "name": "Boy's a Liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "album": {
@@ -984,6 +1060,24 @@
       "duration_ms": 200434,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4X7ZR0vFM3vrYUJnBLUeuY"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/7raYQByfFE8OnA3g89arLU"
+      },
+      "artists": [
+        {
+          "name": "Lyvia",
+          "url": "https://open.spotify.com/artist/2zbosLLeFJF4cf2XRvXy02"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209885,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/77YgmqQXVJ9atdeQFwCRWK"
     },
     {
       "album": {
@@ -1491,6 +1585,36 @@
     },
     {
       "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -1557,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "How To Talk To Strangers",
+        "url": "https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW"
+      },
+      "artists": [
+        {
+          "name": "TWIN XL",
+          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/2KHGb3VDOKcbLjz57NXNtA"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn"
       },
@@ -1572,6 +1714,24 @@
       "duration_ms": 183887,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy"
+    },
+    {
+      "album": {
+        "name": "Everything Must Change",
+        "url": "https://open.spotify.com/album/4Nt2W57QHaCKepzcBMAJJy"
+      },
+      "artists": [
+        {
+          "name": "Rich Jacques",
+          "url": "https://open.spotify.com/artist/7lfr6IB4ON92ftruMOZTPR"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228436,
+      "name": "Everything Must Change",
+      "url": "https://open.spotify.com/track/74nGwkp4meaIuKwX4Bivdr"
     },
     {
       "album": {
@@ -1723,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/6dIK7kYIYkjRy5qrjaoA6x"
       },
@@ -1778,6 +1960,24 @@
       "duration_ms": 180185,
       "name": "Foreign Things",
       "url": "https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS"
+    },
+    {
+      "album": {
+        "name": "Forever and Ever and Always",
+        "url": "https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140038,
+      "name": "Forever and Ever and Always",
+      "url": "https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK"
     },
     {
       "album": {
@@ -2046,6 +2246,24 @@
       "duration_ms": 183724,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/2RRcrKBVEwEah7H0Ym6qNN"
+    },
+    {
+      "album": {
+        "name": "Dedication: The Start - EP",
+        "url": "https://open.spotify.com/album/6KPsOy4kFUDDpQTlYVOJ2K"
+      },
+      "artists": [
+        {
+          "name": "7kingZ",
+          "url": "https://open.spotify.com/artist/2lYNHrkuZrcJVgagIlyaTA"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "Gloves Are Comin' Off",
+      "url": "https://open.spotify.com/track/7lLMGY0OppwyTcMsmvnaa3"
     },
     {
       "album": {
@@ -2517,6 +2735,32 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6ewifpOYzSQ1vcmleiWfek"
+      },
+      "artists": [
+        {
+          "name": "Christian Reindl",
+          "url": "https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB"
+        },
+        {
+          "name": "Lloren",
+          "url": "https://open.spotify.com/artist/6BXnCNvWCmFRvlMazWAomB"
+        },
+        {
+          "name": "Lucie Paradis",
+          "url": "https://open.spotify.com/artist/62IE8780a3EQi3hqeKVZFJ"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207954,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4ApfaVddaKWeeOSwaQ6T7I"
+    },
+    {
+      "album": {
         "name": "Honeymoon Phase",
         "url": "https://open.spotify.com/album/1ni7569njFsd9Txac3J0zB"
       },
@@ -2739,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "All the Feels",
+        "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207925,
+      "name": "I Just Wanna Shine",
+      "url": "https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g"
+    },
+    {
+      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
@@ -2754,6 +3016,24 @@
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
     },
     {
       "album": {
@@ -3173,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Spiraling",
+        "url": "https://open.spotify.com/album/5WqFRK56XhmH4hFd8vQEaK"
+      },
+      "artists": [
+        {
+          "name": "Norml",
+          "url": "https://open.spotify.com/artist/3FIuLDnTevy3DrnzYFKL8Y"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225756,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1gd9fJw9CxaLxvDAv0FgdJ"
+    },
+    {
+      "album": {
         "name": "In the Morning",
         "url": "https://open.spotify.com/album/1DJuHHnjcXPXO8nhOiRVIb"
       },
@@ -3296,6 +3594,24 @@
       "duration_ms": 300640,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi"
+    },
+    {
+      "album": {
+        "name": "From the Ashes",
+        "url": "https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y"
+      },
+      "artists": [
+        {
+          "name": "Astyria",
+          "url": "https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232285,
+      "name": "It's a Mad World",
+      "url": "https://open.spotify.com/track/7JGvaq4PST5XlYZnbjRjSC"
     },
     {
       "album": {
@@ -3595,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Lemon Trees",
+        "url": "https://open.spotify.com/album/7cWlJMRD8fEa4u54gF6dRE"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221605,
+      "name": "Lemon Trees",
+      "url": "https://open.spotify.com/track/60aJeYvUKIFzAv3Vu3R9Db"
+    },
+    {
+      "album": {
         "name": "LESS U KNOW",
         "url": "https://open.spotify.com/album/4iPgnBANr1syVKhEYSgAI9"
       },
@@ -3756,7 +4090,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 215811,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/54aWi8Afw2HYtKfPHxuGSW"
@@ -4183,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/75Cps520layAjj3UTUMC9v"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179772,
+      "name": "Love You and Let You Go",
+      "url": "https://open.spotify.com/track/5Wp3XkvVBhd0J9xT3hAbyA"
+    },
+    {
+      "album": {
         "name": "Lovefool",
         "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
@@ -4441,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "Walk Me Home...",
+        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "NIGHTS LIKE THESE",
+      "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
+    },
+    {
+      "album": {
         "name": "Reawakenings Vol. 2",
         "url": "https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD"
       },
@@ -4634,6 +5004,24 @@
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+    },
+    {
+      "album": {
+        "name": "Warcub EP",
+        "url": "https://open.spotify.com/album/4DMqdop4Qc4l4441EHipUs"
+      },
+      "artists": [
+        {
+          "name": "Warcub",
+          "url": "https://open.spotify.com/artist/3PwkBLtR0b4m6NcdnLrim9"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/7zQYsDCMYhXNcG3SbDQvHR"
     },
     {
       "album": {
@@ -5965,6 +6353,24 @@
     },
     {
       "album": {
+        "name": "This Is How the World Ends",
+        "url": "https://open.spotify.com/album/5pKdXJrvFJTAJPO9u3pY7x"
+      },
+      "artists": [
+        {
+          "name": "Kat Leon",
+          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222517,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/1uW7xeiMdxcWkZusWv3MBQ"
+    },
+    {
+      "album": {
         "name": "Thinking",
         "url": "https://open.spotify.com/album/6ba6t2QiNOTPDft0CLToQ4"
       },
@@ -6100,6 +6506,24 @@
       "duration_ms": 200160,
       "name": "Tomorrow We Fight",
       "url": "https://open.spotify.com/track/5qIswLybSuwnkcKHYsclPN"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "album": {
@@ -6270,6 +6694,24 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/6sHhc2rZ31pLTCeLyLir04"
+      },
+      "artists": [
+        {
+          "name": "Di Napoli",
+          "url": "https://open.spotify.com/artist/0ztqBP31RGo3uJPFno3odf"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150186,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7ufZVRIsVK6shxfRtgsMve"
     },
     {
       "album": {

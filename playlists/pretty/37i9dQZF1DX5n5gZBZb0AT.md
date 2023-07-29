@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,106 likes - 40 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,657 likes - 40 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 | 40 | [Spinnin](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 1:50 |
 
-Snapshot ID: `MCwyMjY4ODQyYTdhMmRkMTg1MTVhODI5NGZhNjEzNzhiNjM3MTBmNjMz`
+Snapshot ID: `MCxiNDNjOTY5ZTU4YzA4OGEyNGIwNDY3MGY0Y2JjNDM1OGM5NjU4YTU0`

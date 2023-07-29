@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,712 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,742 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 23 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 |
 | 24 | [Tudo Bem](https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Nova](https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin) | 1:56 |
 | 25 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 |
-| 26 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
-| 27 | [Viento de Arrabal](https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:07 |
+| 26 | [Viento de Arrabal](https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:07 |
+| 27 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
 | 28 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 |
-| 29 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
-| 30 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 |
+| 29 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 |
+| 30 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
 | 31 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 |
 | 32 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 |
 | 33 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 49 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 |
 | 50 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 
-Snapshot ID: `MCxhZmIyOWEzNDIzOGRjMzFhMDZkMjcwNDQyMmQyMGFiMjIyYzJkZGM3`
+Snapshot ID: `MCw3YWE3MTYxNTgzMzM1Yjk0ZTY2ZTQ0OWUzMWJkMmY5ZmIwNjYxNWU3`

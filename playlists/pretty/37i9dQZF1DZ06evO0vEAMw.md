@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,069 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,119 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 26 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
 | 27 | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9) | 3:45 |
 | 28 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
-| 29 | [Dream Girl \- Global Remix](https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dream Girl \(Global Remix\)](https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD) | 3:32 |
-| 30 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 |
+| 29 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 |
+| 30 | [Dream Girl \- Global Remix](https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dream Girl \(Global Remix\)](https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD) | 3:32 |
 | 31 | [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 |
 | 32 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 33 | [Lie for You \(feat\. A Boogie Wit Da Hoodie & Davido\)](https://open.spotify.com/track/6HMgvWVw3yHmFsmpyb864i) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lie for You \(feat\. A Boogie Wit Da Hoodie & Davido\)](https://open.spotify.com/album/35AiG6czs0vooB8Om58tbx) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 51 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDA5NjBlM2JkMmNmN2YxMzY4ODJkYmEyMmU3MzA4MWU3Mg==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBjZTIxNGY0MjBjMDI3ZDNjNDI4YjE0NDQ2ZGQ2YmEwOQ==`

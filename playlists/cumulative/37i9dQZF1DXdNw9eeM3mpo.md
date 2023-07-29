@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-292 songs - 17 hr 56 min
+294 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,8 @@
 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 | 2021-12-21 | 2023-07-22 |
 | [Demencia](https://open.spotify.com/track/3hms0jV0Us7m2IReVFoZjt) | [Los Skaterrestres](https://open.spotify.com/artist/4t2NDEU8KTAPTR5hjv2dbs) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 2:38 | 2021-12-21 | 2022-03-05 |
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-21 | 2023-04-22 |
+| [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-07-28 |  |
+| [Donde Sale el Sol](https://open.spotify.com/track/1YFUC79dwh8uGQYITn2xNB) | [Renzo Cintas](https://open.spotify.com/artist/3KXeCYOcExzEcBE8WyZtNn), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Cuyoman](https://open.spotify.com/artist/2K9nbaNo6gGVMKmYjYS5um) | [Donde Sale el Sol](https://open.spotify.com/album/5CYB8wY9CNNVpa3nifb2IY) | 2:52 | 2023-07-28 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-21 | 2022-03-16 |
 | [Dormir Soñando](https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Serie Verde \- El Gran Silencio](https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG) | 3:09 | 2021-12-21 |  |
 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 | 2021-12-21 |  |
@@ -81,7 +83,7 @@
 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 | 2021-12-21 | 2023-05-05 |
 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 | 2021-12-21 | 2022-07-15 |
 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 |  |
-| [El Rey](https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV) | [Eskina Opuesta](https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq) | [El Rey](https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL) | 2:51 | 2023-05-05 |  |
+| [El Rey](https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV) | [Eskina Opuesta](https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq) | [El Rey](https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL) | 2:51 | 2023-05-05 | 2023-07-29 |
 | [El Ska de Lolo Mario](https://open.spotify.com/track/3lMV5bSZOavnLlWXXNi8fx) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 2:13 | 2021-12-21 | 2022-07-26 |
 | [El Super Heroe](https://open.spotify.com/track/0LIvsHX7pShjl2fpHHSAL5) | [Cafe Con Tequila](https://open.spotify.com/artist/62aU5j4IyKvoyOw7Sh27ZZ) | [Cafe Con Tequila](https://open.spotify.com/album/1hPYk1JG3LK0Bv5k1xcnv7) | 3:57 | 2021-12-21 | 2022-04-19 |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-21 | 2023-04-22 |
@@ -119,7 +121,7 @@
 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 | 2021-12-21 |  |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [20 Años: El Show Más Feliz del Mundo \(En Vivo\)](https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj) | 5:04 | 2021-12-21 | 2023-07-01 |
 | [Konfesión](https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Ací Estem](https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79) | 4:11 | 2021-12-21 | 2022-07-22 |
-| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 |  |
+| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 | 2023-07-29 |
 | [La Banda Borracha](https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [La Banda Borracha](https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM) | 3:33 | 2021-12-21 | 2022-08-19 |
 | [LA BESTIA](https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [LA BESTIA](https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh) | 3:17 | 2023-06-30 |  |
 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 | 2023-05-05 |  |

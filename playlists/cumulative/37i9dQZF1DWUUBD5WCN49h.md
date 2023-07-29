@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc?si=LOLdFQtbQLCmbOCCj1U6\-A"> Dayonthetrack </a>
 
-508 songs - 1 day 0 hr 54 min
+509 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Real Love](https://open.spotify.com/track/1cM0KjvbAjvSOZakmOK2NA) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Real Love](https://open.spotify.com/album/12flURqPmncSp4H3RgI71k) | 2:52 | 2022-09-16 | 2022-12-09 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2023-07-14 |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 | 2023-02-24 |
+| [Reggae & Calypso](https://open.spotify.com/track/4H2xDMnEgjuJv6SkRo3RHj) | [Tvylor](https://open.spotify.com/artist/13TOlDqkrS4LZb0F8Sq8za), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv) | [Reggae & Calypso](https://open.spotify.com/album/3YtHfkiDCKwYJ7silwhoFA) | 3:02 | 2023-07-28 |  |
 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 | 2023-03-03 | 2023-03-18 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 |  |
 | [Reset](https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/73hyqkKdESZxZTmlJ8Per4) | 3:08 | 2023-05-04 | 2023-05-07 |

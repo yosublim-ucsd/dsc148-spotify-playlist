@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Enrique Bunbury en Portada.
 
-330 songs - 19 hr 57 min
+333 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 | 2021-12-17 | 2022-07-23 |
 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 | 2021-12-17 |  |
 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 | 2023-07-21 |  |
+| [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 | 2023-07-28 |  |
 | [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 | 2023-06-16 | 2023-06-24 |
 | [Hielo](https://open.spotify.com/track/2YiqBesMJpszYU6raDOG0R) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 5:02 | 2021-12-17 | 2023-06-24 |
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-14 | 2023-06-24 |
@@ -252,6 +253,7 @@
 | [Pasiflorine](https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Borregos En La Niebla](https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I) | 4:09 | 2021-12-17 |  |
 | [Pendejo](https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Pendejo](https://open.spotify.com/album/77yiQPiK9LOQtP4cUzb0sY) | 3:06 | 2022-11-25 | 2023-02-18 |
 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 | 2023-07-14 |  |
+| [Perdí Mi Ojo De Venado \- cover](https://open.spotify.com/track/4m49EPX2vxIqJk9ARSEaqs) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/51sH6z68UgMTi1AqwFUyyV) | 4:40 | 2023-07-28 |  |
 | [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-03-03 | 2023-03-11 |
 | [Piel De Luna](https://open.spotify.com/track/57NtJwiDGoCgcXVs6yi16N) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Piel De Luna](https://open.spotify.com/album/3OfRXND8qp1xQECuNgxsr3) | 4:58 | 2022-11-25 | 2022-12-17 |
 | [Playa Privada](https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW) | 3:28 | 2022-08-13 | 2022-09-29 |
@@ -305,6 +307,7 @@
 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 | 2023-03-17 | 2023-04-22 |
 | [Todo Cuenta](https://open.spotify.com/track/25ayfrtkcSJfE93B8mnhRT) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Primario](https://open.spotify.com/album/2ATnlNdhTGBHX9SYn3UoL0) | 3:52 | 2021-12-17 |  |
 | [Todo el Día de Hoy](https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Lapeste](https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN) | 4:30 | 2022-12-16 | 2023-01-07 |
+| [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 | 2023-07-28 |  |
 | [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 | 2021-12-17 |  |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-07 | 2023-07-22 |
 | [Transforma](https://open.spotify.com/track/6wBIOgxmVa68TxzBvROZnU) | [Pequeño Fénix](https://open.spotify.com/artist/0fuWp7kffdhZk9XrQdF7Sb) | [SUPERALMA](https://open.spotify.com/album/00aqqoS6QTBSnQmnoemdkf) | 4:04 | 2022-09-02 | 2022-09-28 |

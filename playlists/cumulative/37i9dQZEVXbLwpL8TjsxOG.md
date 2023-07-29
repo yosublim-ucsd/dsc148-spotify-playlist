@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-654 songs - 1 day 15 hr 10 min
+655 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-31 | 2021-06-13 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2023-01-18 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-25 | 2022-12-29 |
-| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 |  |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 | 2023-07-29 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-02-04 | 2023-02-19 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-02 | 2023-01-03 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-04-03 |
@@ -519,6 +519,7 @@
 | [我們不 Chok](https://open.spotify.com/track/4bC4inBYZpOZFvZVJ27RM5) | [Error](https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ) | [我們不 Chok](https://open.spotify.com/album/2SWKHKhlGJZKq5tvcUvEWo) | 2:58 | 2021-07-14 | 2021-08-29 |
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2021-03-27\* | 2021-06-24 |
 | [抱抱無尾熊](https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [抱抱無尾熊](https://open.spotify.com/album/27ht56bpzBhmQfjSjgoAmI) | 3:45 | 2023-04-13 |  |
+| [抽](https://open.spotify.com/track/7mz4dDKFWSwj7cjnJeITBH) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [抽](https://open.spotify.com/album/10V1AMk8bWSBjuok9ZD3lJ) | 4:02 | 2023-07-28 |  |
 | [拼命無恙 in Bb major](https://open.spotify.com/track/24tzRRz8r26gOmQB8PEZwv) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 4:01 | 2021-03-27\* | 2022-08-25 |
 | [搞不懂](https://open.spotify.com/track/4GAyYOUggQb4gxp3PGKcHc) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂](https://open.spotify.com/album/6SspNBNITxDU3nB1izeQ24) | 3:06 | 2021-08-15 | 2022-04-09 |
 | [搞不懂 acoustic version](https://open.spotify.com/track/6I7fYI02GkZuWarRGL8MRH) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂 acoustic version](https://open.spotify.com/album/0I7VX6tBGkz1knZZCSz62I) | 3:43 | 2021-10-08 | 2021-11-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 31 songs - 43 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 30 songs - 42 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 23 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 |
 | 24 | [Bathtime For George](https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:23 |
 | 25 | [Wolf Watcher](https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:24 |
-| 26 | [Buscando Trabajo](https://open.spotify.com/track/0MjgwZTsMxJ79gsD10Fll2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:28 |
+| 26 | [Toughen Up Jordan](https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:04 |
 | 27 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
-| 28 | [Toughen Up Jordan](https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:04 |
+| 28 | [Buscando Trabajo](https://open.spotify.com/track/0MjgwZTsMxJ79gsD10Fll2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:28 |
 | 29 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 |
-| 30 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 |
-| 31 | [Zoe's Snow Globes](https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:21 |
+| 30 | [Zoe's Snow Globes](https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:21 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDBlMzE1OGIxZjlmY2E4NmJiNTU1ODQ2ZDQzNjM1OWZhMg==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBhNDJkODIyYzZjOWVkZWQ0MDg5NDM1ZWFlOGVkODZkMw==`

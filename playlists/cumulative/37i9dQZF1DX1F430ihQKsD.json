@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180682,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/2VBfOkav0VmyMSws6Jzbpl"
@@ -1126,6 +1126,24 @@
       "duration_ms": 193432,
       "name": "Choker",
       "url": "https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma Paradiso",
+        "url": "https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272322,
+      "name": "Cin\u00e9ma Paradiso",
+      "url": "https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi"
     },
     {
       "album": {
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 198485,
       "name": "Duel",
       "url": "https://open.spotify.com/track/6Bop5sTWP6R5YfBFquPM0K"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 201052,
       "name": "Janet Planet",
       "url": "https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL"
@@ -4335,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Illusoire",
+        "url": "https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Proulx",
+          "url": "https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "Panneaux",
+      "url": "https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN"
+    },
+    {
+      "album": {
         "name": "Papa Wemba",
         "url": "https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V"
       },
@@ -5180,6 +5216,24 @@
       "duration_ms": 213892,
       "name": "Sentiments nouveaux",
       "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
+    },
+    {
+      "album": {
+        "name": "Settle & Fly / O(O)O",
+        "url": "https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R"
+      },
+      "artists": [
+        {
+          "name": "Jesse Mac Cormack",
+          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "Settle & Fly",
+      "url": "https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14"
     },
     {
       "album": {

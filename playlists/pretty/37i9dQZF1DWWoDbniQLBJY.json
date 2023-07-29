@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2017230,
+  "num_followers": 2017280,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmRmNTAxMzZmYjQwNmI3NzY3MTY5OWMzYmI1OGIxMTI4MjFiNGEx",
+  "snapshot_id": "MCw0ZWZhYmJkZTk2YmFhNmU3N2VjYTFkZTE2ZjJjMjI0NTI1NDY1YTAx",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Soldadito de Hierro",
         "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 142964,
       "name": "Soldadito de Hierro",
       "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Pablo Albor\u00e1n Spotify Sessions",
-        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 266104,
-      "name": "Pasos de cero - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+        "name": "Pablo Albor\u00e1n Spotify Sessions",
+        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
       },
       "artists": [
         {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+      "duration_ms": 266104,
+      "name": "Pasos de cero - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -1255,34 +1255,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Matadero 5 (Live)",
-        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 152355,
-      "name": "Cuando Se Apaga la Luz (Live)",
-      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 195917,
       "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Matadero 5 (Live)",
+        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 152355,
+      "name": "Cuando Se Apaga la Luz (Live)",
+      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Jaguayano",
-          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 198213,
       "name": "Souvenir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "no vuelvas a mirar atr\u00e1s",
+        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 245945,
+      "name": "no vuelvas a mirar atr\u00e1s",
+      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Velero",
         "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 136595,
       "name": "Velero",
       "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "no vuelvas a mirar atr\u00e1s",
-        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 245945,
-      "name": "no vuelvas a mirar atr\u00e1s",
-      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
     },
     {
       "added_at": "2023-07-07 04:00:00",

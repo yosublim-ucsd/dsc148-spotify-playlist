@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "A Healthy Forest",
+        "url": "https://open.spotify.com/album/7i3atB68hdjVVKh7dP1qrs"
+      },
+      "artists": [
+        {
+          "name": "Spectacular Diagnostics",
+          "url": "https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a"
+        },
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "A Healthy Forest",
+      "url": "https://open.spotify.com/track/76eVDkA8mDeHvRe8EYKxO4"
+    },
+    {
+      "album": {
         "name": "A Horse Made Of Caramel",
         "url": "https://open.spotify.com/album/7FXLzl54H1WCmE0hXc8bXt"
       },
@@ -9742,7 +9764,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 124285,
       "name": "Belly",
       "url": "https://open.spotify.com/track/17A2pixrMOoZ94iE7FHNPe"
@@ -15308,7 +15330,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129567,
       "name": "Cali Orange",
       "url": "https://open.spotify.com/track/49wwuD2AaUobN7ue4k0gmB"
@@ -53252,7 +53274,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213750,
       "name": "lantern flies",
       "url": "https://open.spotify.com/track/6MsBZrAKgNLUJEYYOV6WiQ"
@@ -56920,7 +56942,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 164079,
       "name": "Long Havel Beach",
       "url": "https://open.spotify.com/track/5rjKTV3kwTTjt3GZ4If1Wh"
@@ -81183,6 +81205,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/6TCyI0UIhnvQp4snaZ1gbd"
+      },
+      "artists": [
+        {
+          "name": "Raz-One",
+          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/7IOjCUl7RBwXDHSmheWbvK"
+    },
+    {
+      "album": {
         "name": "Revisit",
         "url": "https://open.spotify.com/album/25T9rksQF7n0KXLlA8Xxfq"
       },
@@ -82636,7 +82676,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 89600,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3sF5Kl4KSwJGmnCtKMsnHE"
@@ -102370,6 +102410,24 @@
       "duration_ms": 216000,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/7yDIAyiDEMwl1rNCtbB8w6"
+    },
+    {
+      "album": {
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/4k8p26GB638Zye7Gu9PmDD"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152471,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/19149I6PBFYHJEq0JZx274"
     },
     {
       "album": {

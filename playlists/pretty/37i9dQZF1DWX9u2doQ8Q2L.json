@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 373619,
+  "num_followers": 373627,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjNlZjk4ODI3NTRiNjljMGM5MTZmZDhmMTI1ODgyYTU1ZWNkODQ4",
+  "snapshot_id": "MCw1NzBmMTA5MWJhN2ZlMTMwNWUxNmUwNmYxNTk5ZGEyNjc2MDUyMjBm",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u81ea\u7531",
-        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
-      },
-      "artists": [
-        {
-          "name": "tofubeats",
-          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "\u81ea\u7531",
-      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "\u81ea\u7531",
+      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
         "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 200754,
       "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
       "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
+        "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
+      },
+      "artists": [
+        {
+          "name": "Tomggg",
+          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
+        },
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
+      "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
-        "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Tomggg",
-          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         },
         {
-          "name": "ena mori",
-          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 157924,
-      "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
-      "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
-      },
-      "artists": [
-        {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Running In The Dark (Image Song for Arknights mobile game)",
         "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 217428,
       "name": "The Swallow (feat. Midories)",
       "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1607,34 +1607,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+      "duration_ms": 191826,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u7b11\u3044\u8a71\u306e\u591c",
-        "url": "https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY"
-      },
-      "artists": [
-        {
-          "name": "OYAT",
-          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
-        }
-      ],
-      "duration_ms": 280779,
-      "name": "\u7b11\u3044\u8a71\u306e\u591c - album ver.",
-      "url": "https://open.spotify.com/track/2x953wBThParvOKoGF0XBR"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Mo ai ni",
         "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 178673,
       "name": "Mo ai ni",
       "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "\u7b11\u3044\u8a71\u306e\u591c",
+        "url": "https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY"
+      },
+      "artists": [
+        {
+          "name": "OYAT",
+          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
+        }
+      ],
+      "duration_ms": 280779,
+      "name": "\u7b11\u3044\u8a71\u306e\u591c - album ver.",
+      "url": "https://open.spotify.com/track/2x953wBThParvOKoGF0XBR"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1763,26 +1763,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
-        "url": "https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR"
+        "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
+        "url": "https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        },
-        {
-          "name": "MELRAW",
-          "url": "https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N"
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
         }
       ],
-      "duration_ms": 285306,
-      "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
-      "url": "https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR"
+      "duration_ms": 196958,
+      "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
+      "url": "https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd"
     }
   ],
   "unique_name": "Tokyo Rising",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,789 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,808 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 7 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
 | 8 | [Granita](https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Granita](https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj) | 2:51 |
 | 9 | [Domani ci passa](https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Domani ci passa](https://open.spotify.com/album/1CxqsMftYqwpHFyV0llE5q) | 2:25 |
-| 10 | [ORIGAMI ALL'ALBA \- CLARA](https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g) | [Matteo Paolillo](https://open.spotify.com/artist/6bNXr3NXSqUffahoaqdgSL), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:33 |
+| 10 | [ORIGAMI ALL'ALBA \- CLARA](https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:33 |
 | 11 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
 | 12 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 |
 | 13 | [Tulipani Blu](https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b), [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tulipani Blu](https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxjZDExOGFlMjdkZDUzNTk0ZWRhNmE3YjYyY2Q5M2JjN2M2NTVjNzFh`
+Snapshot ID: `MCxmM2QxNDRjZDkzNDM0ZmJiOWQyOTUxZmJiYTk2ZTI3MTJhYjk5ZWEy`

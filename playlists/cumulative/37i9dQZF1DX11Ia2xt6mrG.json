@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Nortec: Bostich + Fussible en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
   "name": "mint MX",
   "tracks": [
     {
@@ -111,6 +111,32 @@
     },
     {
       "album": {
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
+      },
+      "artists": [
+        {
+          "name": "Seith",
+          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
+        },
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "B Kush",
+          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
@@ -126,6 +152,28 @@
       "duration_ms": 171707,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+    },
+    {
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "album": {
@@ -382,6 +430,24 @@
       "duration_ms": 224010,
       "name": "Camellos",
       "url": "https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP"
+    },
+    {
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "album": {
@@ -746,7 +812,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165250,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6"
@@ -1467,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
@@ -1534,7 +1622,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187390,
       "name": "Inv\u00edtame A Un Caf\u00e9",
       "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
@@ -2784,7 +2872,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168400,
       "name": "Playa",
       "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
@@ -3139,6 +3227,32 @@
     },
     {
       "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "album": {
         "name": "Say Goodnight",
         "url": "https://open.spotify.com/album/4zJblKXvYzvYWe7jXBeyf5"
       },
@@ -3254,6 +3368,32 @@
       "duration_ms": 394918,
       "name": "Senses",
       "url": "https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS"
+    },
+    {
+      "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "album": {
@@ -3672,7 +3812,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194163,
       "name": "Switch It - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
@@ -3829,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "album": {
         "name": "This Generation",
         "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
       },
@@ -3880,7 +4038,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/2faIJVTSxTOkZmM4rjv81q"
@@ -4024,7 +4182,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 222556,
       "name": "Triste Canci\u00f3n de Amor - Remix",
       "url": "https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J"
@@ -4424,7 +4582,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129399,
       "name": "\u00bfDe Qu\u00e9n Chon? - Remix",
       "url": "https://open.spotify.com/track/7BL2mp6t6a1IlwpvJubRua"

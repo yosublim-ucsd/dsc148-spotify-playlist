@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
+    },
+    {
+      "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
@@ -2488,7 +2510,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
+      "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {

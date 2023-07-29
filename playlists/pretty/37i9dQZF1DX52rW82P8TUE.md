@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,114 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,177 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 41 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 |
 | 42 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 43 | [Daniel, o Profeta](https://open.spotify.com/track/5C0j4okqm1pd9CBVXmJBZ5) | [Projeto Vida Nova de Irajá](https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP), [Tati Teixeira Campos](https://open.spotify.com/artist/2TQJSBWhqZjuGRieOyBCAM), [Diego Campos](https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC) | [Daniel, o Profeta](https://open.spotify.com/album/6AfVvz0xDRmWlKMGF0McxK) | 3:52 |
-| 44 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
-| 45 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
-| 46 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 |
-| 47 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
-| 48 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
-| 49 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
-| 50 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
+| 44 | [Aleluia](https://open.spotify.com/track/5uOTuH6m5hn98ATHq8BX67) | [Jessyca Kids](https://open.spotify.com/artist/5EpOx5y4zpvyXMBFGIugRb) | [Amor Diferente](https://open.spotify.com/album/45R0EnUDMoQs4PYaTYsuMD) | 3:28 |
+| 45 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
+| 46 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
+| 47 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 |
+| 48 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
+| 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
+| 50 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 
-Snapshot ID: `MCxlZTBiYzU1ZTZlZTM2NDc5Y2E1YTUxMGM4Mzg4Yjc5NmRjMDkwMmNm`
+Snapshot ID: `MCxlNThlNGU0ZGE5N2Q5YzRmYTgyOWE3OTM2NDQ5ZjA5NmU0YjdlNzE4`

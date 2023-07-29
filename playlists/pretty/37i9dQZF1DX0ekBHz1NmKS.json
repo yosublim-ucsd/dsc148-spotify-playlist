@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195168,
+  "num_followers": 195187,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMThhN2NkZTE4NGVjZjZkZTQ0N2RkMGJjNDY0MmM4MGRiM2EwZjY0",
+  "snapshot_id": "MCxkMzhhYmU5MjQyNjgyNzM1NDlmYWFkMGRlNTY0YzU1NzgzZmQzMmVj",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Shadowman",
+      "url": "https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "THRILLER (with Clara Mae)",
         "url": "https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 161124,
       "name": "THRILLER (with Clara Mae)",
       "url": "https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Fluent Stutter",
-        "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Shadowman",
-      "url": "https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
-      },
-      "artists": [
-        {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
       },
@@ -1275,26 +1259,6 @@
       "duration_ms": 238053,
       "name": "Undantag",
       "url": "https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1319,6 +1283,42 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Notre-Dame",
         "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
       },
@@ -1331,54 +1331,6 @@
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 192496,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Magic Stone",
-        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Magic Stone",
-      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Sover du sj\u00e4lv?",
-        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 183391,
-      "name": "Sover du sj\u00e4lv?",
-      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1399,34 +1351,34 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Wonderchild - Spotify Singles",
-        "url": "https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9"
+        "name": "Magic Stone",
+        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 221580,
-      "name": "Wonderchild - Spotify Singles",
-      "url": "https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG"
+      "duration_ms": 213106,
+      "name": "Magic Stone",
+      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
     },
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Salt och socker",
-        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
       },
       "artists": [
         {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 171995,
-      "name": "Salt och socker",
-      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1443,6 +1395,54 @@
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Wonderchild - Spotify Singles",
+        "url": "https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 221580,
+      "name": "Wonderchild - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Sover du sj\u00e4lv?",
+        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "Sover du sj\u00e4lv?",
+      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Salt och socker",
+        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 171995,
+      "name": "Salt och socker",
+      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Sand i min hand",
-        "url": "https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ"
-      },
-      "artists": [
-        {
-          "name": "Alex J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Sand i min hand",
-      "url": "https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 189529,
       "name": "Julia",
       "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Sand i min hand",
+        "url": "https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ"
+      },
+      "artists": [
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sand i min hand",
+      "url": "https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
         }
       ],
-      "duration_ms": 247471,
-      "name": "Slugs of Love",
-      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
       },
       "artists": [
         {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Thank God These Walls Can\u2019t Talk",
-        "url": "https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 155255,
-      "name": "Thank God These Walls Can\u2019t Talk",
-      "url": "https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Symfoni",
         "url": "https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 178706,
       "name": "Symfoni",
       "url": "https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Thank God These Walls Can\u2019t Talk",
+        "url": "https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 155255,
+      "name": "Thank God These Walls Can\u2019t Talk",
+      "url": "https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi"
     }
   ],
   "unique_name": "Made in Sweden",

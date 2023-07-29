@@ -2390,10 +2390,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 212600,
       "name": "A Simple Act",
       "url": "https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9"
+    },
+    {
+      "album": {
+        "name": "Where The Mind Wanders",
+        "url": "https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts"
+      },
+      "artists": [
+        {
+          "name": "Slowe",
+          "url": "https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "A Simple Act",
+      "url": "https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx"
     },
     {
       "album": {
@@ -18421,6 +18439,40 @@
     },
     {
       "album": {
+        "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Dance (with Stefflon Don)",
+      "url": "https://open.spotify.com/track/1akAa8qSlSPUrPVwXNNfyO"
+    },
+    {
+      "album": {
         "name": "Dance (with Stefflon Don)",
         "url": "https://open.spotify.com/album/6F5GEoz6JVRc4aFTpUWMjm"
       },
@@ -18448,7 +18500,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192613,
       "name": "Dance (with Stefflon Don)",
       "url": "https://open.spotify.com/track/2y3c8r4jQh3WX7fSfKx2Xe"
@@ -20138,6 +20190,24 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {
       "album": {
@@ -23093,7 +23163,7 @@
         },
         {
           "name": "Mathandos",
-          "url": "https://open.spotify.com/artist/3G5QEBG3RuUD5cOqaGJ54m"
+          "url": "https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK"
         }
       ],
       "date_added": "2023-07-27",
@@ -33455,7 +33525,7 @@
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179555,
+      "duration_ms": 158222,
       "name": "Go Getter (feat. M Huncho)",
       "url": "https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt"
     },
@@ -45535,6 +45605,28 @@
     },
     {
       "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "album": {
         "name": "Jejely",
         "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
       },
@@ -46081,6 +46173,24 @@
     },
     {
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182937,
+      "name": "Just 4 Me",
+      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
+    },
+    {
+      "album": {
         "name": "Just 4 Me",
         "url": "https://open.spotify.com/album/1sinCUHakJEMtSt4RFPW5W"
       },
@@ -46092,7 +46202,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182937,
       "name": "Just 4 Me",
       "url": "https://open.spotify.com/track/5wuOfyKleXygq3F3IhRnSC"
@@ -47134,10 +47244,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 230138,
       "name": "Killer Line",
       "url": "https://open.spotify.com/track/1IKU94nzYTpZO4VMIOxLr1"
+    },
+    {
+      "album": {
+        "name": "Killer Line",
+        "url": "https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Sermanni",
+          "url": "https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230138,
+      "name": "Killer Line",
+      "url": "https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf"
     },
     {
       "album": {
@@ -57671,7 +57799,7 @@
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175846,
+      "duration_ms": 178953,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ"
     },
@@ -65718,7 +65846,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
@@ -80984,7 +81112,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
+      "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {
@@ -93424,6 +93552,24 @@
       "duration_ms": 195452,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5ZuMDliM4Kf7XYybWxj2mP"
+    },
+    {
+      "album": {
+        "name": "What Am I To Do?",
+        "url": "https://open.spotify.com/album/0R1fYwHlGDd6RNnMT3VZa9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141244,
+      "name": "What Am I To Do?",
+      "url": "https://open.spotify.com/track/0zGeIgRstzkwQrdCUOp82W"
     },
     {
       "album": {

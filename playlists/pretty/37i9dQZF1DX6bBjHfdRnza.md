@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: ilykimchi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,708 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,771 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Can't Be Stopped](https://open.spotify.com/track/1z7RJrdeNk3do0znCWNiBT) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Can't Be Stopped](https://open.spotify.com/album/7vMPCUvEzNeAWhJz0ryAf7) | 3:27 |
 | 100 | [The Wonderlightskin Condition](https://open.spotify.com/track/0o6wBUf9Qj8Vb6IadjsQWv) | [François X](https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu) | [The Wonderlightskin Condition](https://open.spotify.com/album/4qa81DTQ6o6sTBCtpiHrhP) | 5:06 |
 
-Snapshot ID: `MCw3OTVhODQ1YTNlMTNmOTYzMGI4ZWY2NjJjN2RkYmJkNzAxNTYxNTNi`
+Snapshot ID: `MCw4YTg5NDM2YWU5MzgyZDA3ZGI3ODJhMjAzZGI5MjczMWE1Y2U4OTNh`

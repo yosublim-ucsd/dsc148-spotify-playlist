@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-302 songs - 19 hr 1 min
+303 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Don't Cry](https://open.spotify.com/track/2LciJyqCfI8mHGy1moiHZv) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:21 | 2022-10-14 | 2023-05-16 |
 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 | 2022-07-15 | 2022-11-16 |
 | [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 | 2022-04-15 | 2022-07-29 |
+| [Don't You Worry](https://open.spotify.com/track/64E7Uomo77yvmBsjcscFFk) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Don't You Worry](https://open.spotify.com/album/5fjTlX605RKxA3m9TUqAmO) | 2:54 | 2023-07-28 |  |
 | [Dreamer](https://open.spotify.com/track/4U0HjWz3SImM5P5S24OBUk) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:41 | 2021-10-01 | 2022-10-01 |
 | [Drink or Two](https://open.spotify.com/track/0YGNs4jKdzqRch5Yu0pydH) | [Ely Jaffe](https://open.spotify.com/artist/2DfCn97Kdl5ilKL5dMcTDZ) | [Drink or Two \(Acoustic Sessions\)](https://open.spotify.com/album/4MLvv5Xyg8q4UcHTorE99x) | 2:30 | 2023-04-21 |  |
 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 | 2023-03-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Sally Cruz in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,392 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,393 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 89 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 90 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 
-Snapshot ID: `MCw3ZTIzOGIxZTllMDhiOGU4YzlkZDdjMTQ1MjYwNDkzMjBkODNlN2E2`
+Snapshot ID: `MCw1NGMyN2Y2MjA2YzU2YjU1NDM4YmNiZTJjNTEzMjlmMjcwNWMzOTk1`

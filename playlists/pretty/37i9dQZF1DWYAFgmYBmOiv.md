@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you're finding yourself in a new country\. Cover: Anna Cathcart
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,146 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,365 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 25 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
 | 26 | [They Don't Know About Us](https://open.spotify.com/track/6M31fPFCYB8Job3MCjjrDV) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 |
 | 27 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
-| 28 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 |
+| 28 | [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 |
 | 29 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
 | 30 | [Older](https://open.spotify.com/track/4r6lnU74031FEZU6vxKgCn) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [成长 \(Older\)](https://open.spotify.com/album/669snHkGUxtc0a7JHJT0pb) | 2:44 |
 
-Snapshot ID: `MCw1MjU1MjY1NTMzYjE4MDNiNjZmMzdiOGE5MjIwYmE4YmE0NTJmMzkw`
+Snapshot ID: `MCw5ZGFjMGUyYTQ1NmVmYTVkY2ExMjUxMjRmYmEyMmY1MjA3YzljNDc0`

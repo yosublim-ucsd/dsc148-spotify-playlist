@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-255 songs - 18 hr 33 min
+256 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Very Hush Hush](https://open.spotify.com/track/4uQWRd4rBrfAvLpB7Ko9lu) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [All Very Hush Hush](https://open.spotify.com/album/0aiLVnRli26t5BibveAXXt) | 6:22 | 2021-12-03 | 2022-03-17 |
 | [Amaya](https://open.spotify.com/track/7F4dTMrS9rmtUqaXR5zBdQ) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya](https://open.spotify.com/album/0R78EHws9OL6UhtFqZ4joz) | 4:42 | 2021-12-03 | 2022-07-25 |
 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 | 2022-06-24 | 2022-12-18 |
-| [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO) | 2:18 | 2022-08-16 |  |
+| [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO) | 2:18 | 2022-08-16 | 2023-07-29 |
 | [Another Girl](https://open.spotify.com/track/0GREcaqrfl68u5hW5FeL8p) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [ANTH01](https://open.spotify.com/album/5ZscjYDLx3luVuDWPMkT3x) | 6:43 | 2022-02-25 | 2022-03-09 |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2022-06-24 | 2022-09-16 |
 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 | 2021-12-03 |  |
@@ -198,6 +198,7 @@
 | [Raw Chef](https://open.spotify.com/track/3KfNOSIKV6kBpx6yesYEkC) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [2X1=4](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM) | 5:41 | 2021-12-03 | 2022-07-28 |
 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 | 2021-12-03 |  |
 | [Revelation Dub](https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Fantastic Freeriding the Next Chapter](https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE) | 3:34 | 2022-09-15 | 2023-06-26 |
+| [Revelation Dub](https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Café del Mar Ibiza Chillout Mix III \(DJ Mix\)](https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm) | 3:35 | 2023-07-18 |  |
 | [Romeo](https://open.spotify.com/track/2IhXds0wZkbklKo12XGhb4) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 2:46 | 2022-09-15 |  |
 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir) | 2:46 | 2021-12-03 | 2022-12-01 |
 | [Safe In My Arms](https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 3:38 | 2021-12-03 | 2023-06-07 |

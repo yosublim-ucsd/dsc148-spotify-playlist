@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Mau y Ricky",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: DEKKO",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
@@ -548,6 +548,24 @@
       "duration_ms": 163043,
       "name": "Cuando La Noche Est\u00e1 Fr\u00eda",
       "url": "https://open.spotify.com/track/3r3DLqM43NMEYhWYL15uOt"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "album": {
@@ -876,6 +894,24 @@
       "duration_ms": 124687,
       "name": "Espina De Rosa - Spotify Singles",
       "url": "https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat"
+    },
+    {
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs"
+      },
+      "artists": [
+        {
+          "name": "Isabel Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW"
     },
     {
       "album": {
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180000,
       "name": "Mi Plan de Vida (with Abel Pintos) - con Abel Pintos",
       "url": "https://open.spotify.com/track/1rpaScS4bRHqqNwu7Nr2iw"
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205082,
       "name": "No S\u00e9 Querer",
       "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 164874,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa"
@@ -2517,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 33",
+        "url": "https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156402,
+      "name": "Ula Ula",
+      "url": "https://open.spotify.com/track/6zcP0uMWuYgQua6WOKfBZm"
+    },
+    {
+      "album": {
         "name": "Un Reel",
         "url": "https://open.spotify.com/album/46oK5w1Y9tEAC8423CWKkb"
       },
@@ -2634,6 +2688,28 @@
       "duration_ms": 188125,
       "name": "Vida",
       "url": "https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z"
+    },
+    {
+      "album": {
+        "name": "Vuela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Q4WJj9Pm7kLHNGCWUYQal"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Vuela - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5XCeOuCw12Mdu1NcVpkJVd"
     },
     {
       "album": {

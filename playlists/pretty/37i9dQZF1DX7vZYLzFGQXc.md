@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: ID:Earth \(아이디얼스\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,065 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,107 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [FEELING!](https://open.spotify.com/track/5bZTJrKo5s3Ph5vY4kf2fg) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [FEELING!](https://open.spotify.com/album/2zHI8axGj1wMB02EmDVKRI) | 2:48 |
 | 100 | [Per](https://open.spotify.com/track/1Kp9qkgGOB0nXrXdsW6w8o) | [ADYA](https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW) | [ADYA](https://open.spotify.com/album/399ty1ZZfuwQ5vbzFPCPmP) | 3:20 |
 
-Snapshot ID: `MCxiZGZjMTFmOGRjODBmOTdmNzY0NjNlZDYxMDc1NGRjMDNhYWYzM2Uy`
+Snapshot ID: `MCwzYzM1MjY0ZGRlYjY5ODI2OTZlNzQ5OTc2M2VjODU5MjE1ZmUxNGU1`

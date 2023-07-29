@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: LANA + Awich + JP THE WAVY \*👉 <a href="https://spice.eplus.jp/articles/320527?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-2,424 songs - 6 day 2 hr 42 min
+2,426 songs - 6 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,8 @@
 | [DRIVE ME CRAZY](https://open.spotify.com/track/2KYPLE1BlSihYog3Z9mccv) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [DRIVE ME CRAZY](https://open.spotify.com/album/4fbYLizAvREVxEAmLJhw3i) | 3:22 | 2023-06-21 | 2023-06-28 |
 | [DROP](https://open.spotify.com/track/1CdAwTRMzcNRYGFh3tpRIK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [DROP That](https://open.spotify.com/album/1fzeGOTjfDLQ5vZU5MWpDt) | 3:29 | 2023-05-24 | 2023-05-31 |
 | [DubStory](https://open.spotify.com/track/7rnbYYEaz20FaXfpzUHkqq) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [TOKYO OLD SCHOOL](https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb) | 4:30 | 2023-02-21 | 2023-03-01 |
-| [DURARA](https://open.spotify.com/track/0HxnxaGAtHmGs2W9FNJHtB) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1ahHr0x8oLKdtnSNq2gXnZ) | 3:13 | 2023-07-25 |  |
+| [DURARA](https://open.spotify.com/track/0HxnxaGAtHmGs2W9FNJHtB) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1ahHr0x8oLKdtnSNq2gXnZ) | 3:13 | 2023-07-25 | 2023-07-29 |
+| [DURARA](https://open.spotify.com/track/5sjMYTyQnrDixy5R19SYjN) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1jGRkHKkoYkHjxt3cBWD9C) | 3:13 | 2023-07-28 |  |
 | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/track/18mcIcXC3YMnF1akgaYGDR) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR) | 3:53 | 2023-06-28 | 2023-07-05 |
 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 | 2023-02-21 | 2023-03-01 |
 | [Easy come, easy go](https://open.spotify.com/track/2K86bbtVwFu3i7QoWRYK5u) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Easy come, easy go](https://open.spotify.com/album/1StKLiOe1dNomBIonIPx5d) | 3:17 | 2023-02-28 | 2023-03-08 |
@@ -685,6 +686,7 @@
 | [Inori](https://open.spotify.com/track/45RVt1QEw92zIv7pFwYJ7j) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Inori](https://open.spotify.com/album/4owR8s4kYTyqTM995UaXOf) | 3:35 | 2023-04-19 | 2023-04-26 |
 | [Insane \(feat\. Ant Clemons\)](https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Insane \(feat\. Ant Clemons\)](https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2) | 2:53 | 2023-03-08 | 2023-03-15 |
 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 | 2023-07-04 | 2023-07-12 |
+| [Into The Light](https://open.spotify.com/track/5TPDWOzyKD6aiFAQttvnU5) | [SHINJIRO ATAE \(from AAA\)](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [Into The Light](https://open.spotify.com/album/0Q8akDFyF0I2GAKfEm7Aza) | 3:10 | 2023-07-28 |  |
 | [into the wind](https://open.spotify.com/track/0a2WejIJG88gLWQBEPU3FZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/2xGC6Mv4mT0Mb1G4d0BgG9) | 3:30 | 2023-05-24 | 2023-05-31 |
 | [Invitation](https://open.spotify.com/track/5PXmlurbnMtI1Dt9ZOg5M1) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf) | [Invitation](https://open.spotify.com/album/1t9hrnuMwsuJ2BvJJigpRt) | 3:14 | 2023-03-29 | 2023-04-05 |
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-21 | 2023-03-29 |

@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 248774,
       "name": "Barbaric",
       "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
@@ -2734,6 +2734,24 @@
       "duration_ms": 246837,
       "name": "Spellbinding",
       "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
+    },
+    {
+      "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
     },
     {
       "album": {

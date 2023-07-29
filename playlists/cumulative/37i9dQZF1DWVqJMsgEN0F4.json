@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Blur along with the best alternative songs of today.",
+  "description": "Holly Humberstone & d4vd along with the best alternative songs of today.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/77F6ryVdeVe0ZabzhpCad2"
@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183410,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/7jvtmQ3onpWeUm7dyFSSSc"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155202,
       "name": "Never Ending Song",
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 259868,
       "name": "Normalize",
       "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
@@ -4129,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Time Will Wait For No One",
+        "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/187xDDU8WnqZVXm3oQVYPc"
+    },
+    {
+      "album": {
         "name": "October Passed Me By",
         "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
       },
@@ -4147,7 +4183,7 @@
     },
     {
       "album": {
-        "name": "Odyssey (Spotify Only)",
+        "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
       "artists": [
@@ -4202,7 +4238,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213855,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
@@ -4534,6 +4570,24 @@
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
+    },
+    {
+      "album": {
+        "name": "Pull Me Through",
+        "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188708,
+      "name": "Pull Me Through",
+      "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
     },
     {
       "album": {
@@ -5393,6 +5447,28 @@
     },
     {
       "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159241,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -5411,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+    },
+    {
+      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -5422,7 +5520,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
@@ -5534,6 +5632,24 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185831,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
     },
     {
       "album": {
@@ -6602,6 +6718,24 @@
       "duration_ms": 210405,
       "name": "Unlovable (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/1XnLnMy8COxIVudGbLuoiH"
+    },
+    {
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "album": {

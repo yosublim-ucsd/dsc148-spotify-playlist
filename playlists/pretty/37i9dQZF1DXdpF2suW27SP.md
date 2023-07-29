@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Van Zee entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,690 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,751 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [CHAMA ACESA](https://open.spotify.com/track/601OmwJ2gooPbZO16h8xy3) | [Kush](https://open.spotify.com/artist/0CwAQrSu25Y0N4l7APfHKj) | [EKLIPSE](https://open.spotify.com/album/4yEYSYeHyAwpLVGPnpSNOR) | 2:44 |
 | 75 | [Viana Gaia](https://open.spotify.com/track/6CrtvGDQ0Nww9AfX2RR8fN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [David Bruno](https://open.spotify.com/artist/4LOV7E9ZHPnxIDeFWtA6N9) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:15 |
 
-Snapshot ID: `MCw2NDdkZTI3YmVlNDYyZTUxZWI1ZTlkNWI5NTMyMGRkNGNlM2MxMGFm`
+Snapshot ID: `MCw0M2U5MGM3NWQwZDgzZjQwNWFhY2RkODFmZWU1NWU1OWRhMzk3YWVh`

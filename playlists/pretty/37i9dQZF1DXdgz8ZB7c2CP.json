@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 758602,
+  "num_followers": 758691,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTYyZTE5N2EyNDg1ZWI0OWFjNWQzY2I0NjI4MTZkMjI1ZTRiMWRk",
+  "snapshot_id": "MCxjNmQ2NDAyMDgyNjE5ZThjZmQxY2QxMjY4YjQ3MWQ0NjgwNTQxYTY5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -759,38 +775,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pale Blue Dot",
-      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 167619,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -835,22 +835,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Empty Room - Cabu Remix",
+      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Daybreak (with Zachary Knowles)",
         "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
@@ -955,30 +979,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        }
-      ],
-      "duration_ms": 226978,
-      "name": "Empty Room - Cabu Remix",
-      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "I like u (ELIO Remix)",
-        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 152557,
-      "name": "I like u (ELIO Remix)",
-      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+        "name": "I like u (ELIO Remix)",
+        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         }
       ],
-      "duration_ms": 197386,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
+      "duration_ms": 152557,
+      "name": "I like u (ELIO Remix)",
+      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
+      "duration_ms": 197386,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "SKY SKY 1.3 [2016 Export Wav]",
-      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Kid Calamity",
-        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
-      },
-      "artists": [
-        {
-          "name": "Oski",
-          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
-        },
-        {
-          "name": "The Arcturians",
-          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Go My Way",
-      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Microworlds",
         "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Kid Calamity",
+        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Go My Way",
+      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Electric Feel",
         "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
       },
@@ -1307,30 +1307,6 @@
       "duration_ms": 192729,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Beyond The Veil (Remixes)",
-        "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        }
-      ],
-      "duration_ms": 260470,
-      "name": "Stop Thinking (feat. Lights) - MitiS Remix",
-      "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1367,6 +1343,30 @@
       "duration_ms": 231803,
       "name": "I Can't Tell (feat. LAUREL)",
       "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Beyond The Veil (Remixes)",
+        "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        }
+      ],
+      "duration_ms": 260470,
+      "name": "Stop Thinking (feat. Lights) - MitiS Remix",
+      "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Feeble Games",
-        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Feeble Games",
-      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
         "url": "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 184919,
       "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
       "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Feeble Games",
+        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Feeble Games",
+      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1567,6 +1567,26 @@
       "duration_ms": 169050,
       "name": "Feelings Plain",
       "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1615,22 +1635,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 287546,
-      "name": "No Other 1.2.2 [2021 Export Wav]",
-      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "TALK2MUCH",
         "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
       },
@@ -1643,6 +1647,22 @@
       "duration_ms": 133846,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1835,42 +1855,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
-      },
-      "artists": [
-        {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
-        }
-      ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "A Mere Blip In Your Timeline",
         "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
@@ -1903,6 +1887,38 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1951,18 +1967,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
       "artists": [
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 172991,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
+      "duration_ms": 92307,
+      "name": "And then it came together",
+      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2007,22 +2023,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 92307,
-      "name": "And then it came together",
-      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
       },
@@ -2051,6 +2051,22 @@
       "duration_ms": 159252,
       "name": "Fuck Right Off",
       "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2107,22 +2123,6 @@
       "duration_ms": 303750,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "skyscraper",
+      "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "THIS IS THE END.",
         "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 170320,
       "name": "THIS IS THE END.",
       "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "kinder opposites",
-        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 85000,
-      "name": "skyscraper",
-      "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Run Away!",
-        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Run Away!",
-      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "am i dreaming?",
         "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
       },
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Run Away!",
+        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Run Away!",
+      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
       },
@@ -2351,6 +2351,22 @@
       "duration_ms": 169003,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "catalyst",
+      "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2395,26 +2411,6 @@
       "duration_ms": 159769,
       "name": "Ironheart - Polar Youth Remix",
       "url": "https://open.spotify.com/track/4rBYV0MKhwAag98L13goF0"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "CHAMELEON",
-        "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
-      },
-      "artists": [
-        {
-          "name": "Saint Sinner",
-          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
-        },
-        {
-          "name": "ATYYA",
-          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "CHAMELEON",
-      "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
     }
   ],
   "unique_name": "creamy",

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-175 songs - 16 hr 13 min
+176 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adaaein](https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/2nsN1K7V7l2QrxsLcwzAty) | 4:09 | 2023-07-21 |  |
 | [Ae Ri Sakhi](https://open.spotify.com/track/5p54INLXgza6Do7nTsFPpG) | [kSaya](https://open.spotify.com/artist/4N8z2CTrbGkT50OoGj3Z2P), [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Prasad Gaitonde](https://open.spotify.com/artist/6OKKST2lo5Q4zOpmOLS7ja) | [Ae Ri Sakhi](https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH) | 4:14 | 2022-05-17 | 2023-05-24 |
 | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/track/5a40BRFDUlmbv5P9F6IIXs) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/album/4r8Xz5RxDO7MV0oG50tSdQ) | 3:08 | 2022-05-17 |  |
-| [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 | 2022-05-17 |  |
+| [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 | 2022-05-17 | 2023-07-29 |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2022-05-17 | 2023-03-23 |
 | [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 |  |
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
@@ -144,6 +144,7 @@
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 | 2023-05-24 |
 | [Raske Bhare](https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4) | [Ivy Banerjee](https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC), [Anindita Ganguli](https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt) | [Raske Bhare](https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m) | 4:35 | 2022-12-09 | 2023-04-25 |
 | [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 | 2023-05-19 |
+| [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-07-28 |  |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 | 2023-06-03 |
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 | 2023-07-14 |

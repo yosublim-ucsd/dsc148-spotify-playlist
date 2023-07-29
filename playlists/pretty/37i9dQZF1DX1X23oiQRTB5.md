@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo x Damso au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,682 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,426,329 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 8 | [Capitaine](https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1 & 2\)](https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS) | 2:35 |
 | 9 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 |
 | 10 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 |
-| 11 | [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 |
+| 11 | [Ciao](https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:36 |
 | 12 | [Urus](https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Urus](https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ) | 2:28 |
 | 13 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 |
 | 14 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 16 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 |
 | 17 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 |
 | 18 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 |
-| 19 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 |
+| 19 | [Escorte](https://open.spotify.com/track/4cj9dhfsdN71e2gBgCP8Ho) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:14 |
 | 20 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 |
 | 21 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 |
 | 22 | [Guapa](https://open.spotify.com/track/3Gl6hZ2HU7IRqPOF3r7xPd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Guapa](https://open.spotify.com/album/11TrUfGHx1vsh3FsJuVYur) | 2:49 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 |
 | 40 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 |
 
-Snapshot ID: `MCxiMWUwMjVhNjYwM2VlZDJjMDkyMjE3YmZjMzg2MDUzMDBiNTg5MWU3`
+Snapshot ID: `MCw1NTc2NGE3OTc5ZWZjN2FmZmI5MmUzZTFiNDk3MzJjZWJmOWI2YzI5`

@@ -2,7 +2,7 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
+> Groove to music from your Netflix Kids favorites! Cover: Miraculous: Ladybug & Cat Noir
 
 119 songs - 4 hr 57 min
 

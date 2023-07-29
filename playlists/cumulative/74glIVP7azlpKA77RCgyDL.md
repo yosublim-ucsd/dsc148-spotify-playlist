@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Code Orange
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Dying Wish
 
-463 songs - 1 day 5 hr 52 min
+469 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Drag Me Down](https://open.spotify.com/track/7wKMu791rHrzACbWJsWUBF) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol II](https://open.spotify.com/album/0OwiJiLrtRsf99XRl2atFA) | 4:32 | 2022-02-11 | 2023-07-15 |
 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 | 2023-06-09 |  |
 | [Dreamkiller](https://open.spotify.com/track/5z0Y6jwTDwH6YbhH0DLWRR) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Dreamkiller](https://open.spotify.com/album/7p3f8b0cCBnrHmP7VpGZgw) | 5:11 | 2022-07-22 | 2023-07-15 |
+| [Drift](https://open.spotify.com/track/5ErepV2f7SUReTdqOzG0Qk) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Drift](https://open.spotify.com/album/2jMchpUyuxd5Px65MxKeZT) | 4:05 | 2023-07-28 |  |
 | [Driponomics](https://open.spotify.com/track/7yRrhhWwU9tOYYVKHiHpZD) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Mother Maryrose](https://open.spotify.com/artist/2nCvXCwODRmVexITlXalio) | [Driponomics](https://open.spotify.com/album/1H60jal6uXilRIsgZDwhJM) | 2:49 | 2022-03-04 | 2023-07-15 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 |  |
 | [Dust](https://open.spotify.com/track/3U8ZeW7SCWMEJ5OCJ1Pp6c) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Dust](https://open.spotify.com/album/34YoSbT5nxTAFBMcc6rlHZ) | 5:39 | 2022-07-01 | 2023-07-15 |
@@ -247,6 +248,7 @@
 | [Mandatory Malevolence](https://open.spotify.com/track/7JzHzguxd5yaK66LX17dol) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Mandatory Malevolence](https://open.spotify.com/album/6YxRaWPGIa2CNk6TgLDh3K) | 4:04 | 2022-06-03 | 2023-07-15 |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2023-07-15 |
 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 | 2023-05-05 |  |
+| [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 |  |
 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 | 2022-08-05 | 2023-07-15 |
 | [Misery](https://open.spotify.com/track/718kW5adekn5hC9lF7ZED4) | [Author & Punisher](https://open.spotify.com/artist/4QtqJ5KVIhBruJWEhWjnsv) | [Krüller](https://open.spotify.com/album/6RVqlSdUv4Mj79zYuCWw7a) | 4:49 | 2022-02-11 | 2023-07-15 |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-11 | 2023-07-15 |
@@ -342,6 +344,7 @@
 | [Shaken \(not stirred\)](https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Shaken \(not stirred\)](https://open.spotify.com/album/3pDXkhMOLNggMubMljdkRJ) | 5:19 | 2022-09-02 | 2023-07-15 |
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 | 2023-07-15 |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 |  |
+| [Shroud of Gnarled Tongues](https://open.spotify.com/track/2VQEOgF0v5eNcvmKsX89pA) | [Serration](https://open.spotify.com/artist/5y0AgqzUHo3RjOYVCTmyRD) | [Shroud of Gnarled Tongues](https://open.spotify.com/album/3WIsfcmJPmhu4ovDl4MLzD) | 1:46 | 2023-07-28 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 | 2023-07-15 |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-21 |  |
 | [Siren Song](https://open.spotify.com/track/0HCHJZ0inruYnyCDC0PtPN) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Siren Song](https://open.spotify.com/album/13eHcKjVc3pMv0LeMPZW03) | 3:33 | 2023-06-16 |  |
@@ -367,6 +370,7 @@
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 | 2023-07-15 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-07-15 |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
+| [Tail Wags Dog](https://open.spotify.com/track/6tfhn8hVVb9XC4O8Sz07MD) | [Rabbit](https://open.spotify.com/artist/1Lblv1KOAqW5tnh00cscWy) | [BARDO](https://open.spotify.com/album/7qtzAcIhb1cAN497UF6DY7) | 2:35 | 2023-07-28 |  |
 | [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 | 2023-03-10 |  |
 | [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-05-19 |  |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 |  |
@@ -428,6 +432,7 @@
 | [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 |  |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 | 2023-07-15 |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-16 |  |
+| [VIKING](https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [VIKING](https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG) | 4:31 | 2023-07-28 |  |
 | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/track/1soD4IaI1iibVmQXwbyY7R) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/album/3fqekMyypWqmySaVMdToi6) | 3:54 | 2023-01-27 |  |
 | [Violent Compulsion for Conquest](https://open.spotify.com/track/1OB49XpJ0oTfGqTJFEBzjo) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Violent Compulsion for Conquest](https://open.spotify.com/album/4NpkaZpM336JMTwG8rNDI5) | 4:32 | 2022-10-07 | 2023-07-15 |
 | [Visions In The Mist](https://open.spotify.com/track/4cPJ4tDwsjUOfBaLgiRftu) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 3:00 | 2023-03-10 |  |
@@ -438,6 +443,7 @@
 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL) | 3:43 | 2022-04-01 | 2023-07-15 |
 | [War Not Beef](https://open.spotify.com/track/6kSMJDGU9Lho9HFrw8kukI) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 3:47 | 2022-10-28 | 2023-07-15 |
 | [War Of Being](https://open.spotify.com/track/7Giyxds8jh7TVluP93eC5C) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [War Of Being](https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd) | 11:02 | 2023-07-14 |  |
+| [Watch My Promise Die](https://open.spotify.com/track/4vCj7mYJOOykNbQkD49XiP) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Watch My Promise Die](https://open.spotify.com/album/2aM8toJRNFVuDmj3MEPwUq) | 2:58 | 2023-07-28 |  |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-03-11 | 2023-07-15 |
 | [Watchtower](https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Watchtower](https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb) | 2:48 | 2022-02-04 | 2023-07-15 |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-02-18 | 2023-07-15 |

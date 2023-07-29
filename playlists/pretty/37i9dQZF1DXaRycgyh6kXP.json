@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 186144,
+  "num_followers": 186279,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk",
+  "snapshot_id": "MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "My Lights Kiss Your Thoughts Every Moment",
-      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "ANTH01",
         "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 403080,
       "name": "Another Girl",
       "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "My Lights Kiss Your Thoughts Every Moment",
+      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 340276,
-      "name": "As Much as Possible",
-      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1247,6 +1231,22 @@
       "duration_ms": 246706,
       "name": "Kodomotachi",
       "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 340276,
+      "name": "As Much as Possible",
+      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "\u2665",
-      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "\u2665",
+      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "White Flower, Dark Hill",
-        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 148396,
-      "name": "White Flower, Dark Hill",
-      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     }
   ],
   "unique_name": "Electronica Romantica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,328 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,983 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 7 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 |
 | 8 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 |
 | 9 | [hep bir şeyler eksik](https://open.spotify.com/track/5LADOmbui5XFOpCk9n67RE) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [hep bir şeyler eksik](https://open.spotify.com/album/237jXHICSyd66ncjz3LIZ8) | 3:15 |
-| 10 | [DEFOL](https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [DEFOL](https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm) | 2:53 |
-| 11 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 |
-| 12 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 |
-| 13 | [Özlesen Beni](https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlesen Beni](https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7) | 2:18 |
-| 14 | [Sen Oyna](https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Tuğberk Işık](https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p) | [Bi Taksi Çağırın](https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn) | 2:56 |
-| 15 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
-| 16 | [Asosyal](https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Asosyal](https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK) | 2:10 |
-| 17 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
-| 18 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
+| 10 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
+| 11 | [DEFOL](https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [DEFOL](https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm) | 2:53 |
+| 12 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 |
+| 13 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 |
+| 14 | [Özlesen Beni](https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlesen Beni](https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7) | 2:18 |
+| 15 | [Sen Oyna](https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Tuğberk Işık](https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p) | [Bi Taksi Çağırın](https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn) | 2:56 |
+| 16 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
+| 17 | [Asosyal](https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Asosyal](https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK) | 2:10 |
+| 18 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
 | 19 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 |
 | 20 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 |
 | 21 | [Yine Edemedik Dans](https://open.spotify.com/track/44WqaNeApwZN0KxMVhY8P2) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [Yine Edemedik Dans](https://open.spotify.com/album/7EOugSG5ValkBxcSNADSEj) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 |
 | 49 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 |
 
-Snapshot ID: `MCw2NzA2YzE5MmNkZThjZGQ2Yzg0NDAyOGUwYTI1NDNlZDM5YTJiMTFj`
+Snapshot ID: `MCxjY2E4NWJhMWQ1NTVmMjNhYWUyZTc5ZmYyYmFjN2Q1ODAyNjk2YjE2`

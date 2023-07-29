@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-158 songs - 7 hr 7 min
+159 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Night Drive](https://open.spotify.com/track/3dEiXRHTDuBsG1C3An4aP2) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/3CCeB3HbTc1UjhOEFBN2J2) | 2:51 | 2023-03-10 | 2023-06-24 |
 | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/track/331H6137RMXrWPqdoinXfA) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/album/6im4iD0gt2vezgk3xhyrhh) | 2:17 | 2022-10-10 |  |
 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-10-10 |  |
+| [NIGHT PHONK](https://open.spotify.com/track/6JI7mIk8CtD4R8BbhK3u1v) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/25acPZp9Yma25jbnJhmyIx) | 1:22 | 2023-07-28 |  |
 | [NIGHT RIDE](https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [NIGHT RIDE](https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ) | 3:12 | 2022-10-10 | 2023-06-10 |
 | [nightexpress](https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightexpress](https://open.spotify.com/album/0306P7Fec99VYmoSguS97S) | 2:40 | 2022-10-10 |  |
 | [nightriders](https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [nightriders](https://open.spotify.com/album/0WvOrokciCcRELMBURq18R) | 2:02 | 2022-12-16 |  |
@@ -117,7 +118,7 @@
 | [No Forget Her](https://open.spotify.com/track/47kmL7wc4XojdpxJ7ZR6ql) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF), [Goto Eight](https://open.spotify.com/artist/363VYEgnv8VQ1hIn9Fz7pB) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:46 | 2022-10-10 |  |
 | [NO HOPE](https://open.spotify.com/track/6lpqmnhoM6fxVg52c7azTp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 1:31 | 2022-10-10 |  |
 | [No Witness](https://open.spotify.com/track/0GGepyK375cp1jN8Z9ZTK8) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE) | [No Witness](https://open.spotify.com/album/0HsG2moofrvt0hGo2iYuLb) | 2:48 | 2022-10-10 | 2023-01-21 |
-| [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 | 2022-10-10 |  |
+| [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 | 2022-10-10 | 2023-07-29 |
 | [NOVA](https://open.spotify.com/track/5Rnv7W5R1eh6VIvBGbgIqd) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [NOVA](https://open.spotify.com/album/4YK3evtfb0ECUIP4PYPXJM) | 2:20 | 2022-10-10 | 2022-11-19 |
 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 | 2022-11-25 |  |
 | [OCCUPATION](https://open.spotify.com/track/2TubhcsSDcCpJWyXiGEKPZ) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [OCCUPATION](https://open.spotify.com/album/00pHqxRbtuMXzMfbT5AA9z) | 3:30 | 2022-11-03 |  |

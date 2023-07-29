@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 |
 | 2 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
-| 3 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
-| 4 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
+| 3 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
+| 4 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 5 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 |
 | 6 | [Sl\*t Him Out Again \(feat\. Kaliii\)](https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:53 |
 | 7 | [Do A Bitch](https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:44 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 37 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
 | 38 | [Where They At \(Intro\)](https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate: Area Codes Edition](https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD) | 0:25 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDBhMzhhZjk2OGMwZWM3YWY5YzYyNGVlY2YyMmJmM2I0MQ==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBhZDczZDY4NmY0NmFmZGQ1YWFmOGRiMDk5MWU2N2FhZA==`

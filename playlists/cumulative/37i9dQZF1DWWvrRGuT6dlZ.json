@@ -5981,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "Paid For",
+        "url": "https://open.spotify.com/album/42rxaiT8eq7n0Ud10tRQUj"
+      },
+      "artists": [
+        {
+          "name": "Saint Kylo",
+          "url": "https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Paid For",
+      "url": "https://open.spotify.com/track/2X6Kd0M5mqWfznL4V7YOdG"
+    },
+    {
+      "album": {
         "name": "party",
         "url": "https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW"
       },
@@ -8382,7 +8400,7 @@
       },
       "artists": [
         {
-          "name": "Goth Mystery Mafia",
+          "name": "GOTHMYSTERYMAFIA",
           "url": "https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB"
         }
       ],

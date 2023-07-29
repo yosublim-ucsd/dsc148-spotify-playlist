@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Surf Club",
+        "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101776,
+      "name": "Surf Club",
+      "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
+    },
+    {
+      "album": {
         "name": "Taste the Blood of Guitaracula",
         "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
       },
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 394213,
       "name": "Third Stone From The Sun",
       "url": "https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1"

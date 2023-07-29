@@ -782,7 +782,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 188240,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
@@ -952,6 +952,28 @@
       "duration_ms": 201302,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/0UiT5xx59J7XIWaaZalxVu"
+    },
+    {
+      "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        },
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201302,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/540DkRIAjWwRwON3v9ll6M"
     },
     {
       "album": {

@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 214913,
       "name": "7 in the Morning",
       "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 198347,
       "name": "Feeling Funny",
       "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
@@ -2464,6 +2464,28 @@
       "duration_ms": 194400,
       "name": "FIREGUN",
       "url": "https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De"
+    },
+    {
+      "album": {
+        "name": "FIREGUN (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
     },
     {
       "album": {
@@ -2818,7 +2840,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
@@ -3162,6 +3184,28 @@
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
+    },
+    {
+      "album": {
+        "name": "Chequemate",
+        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163184,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
     },
     {
       "album": {
@@ -4423,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+    },
+    {
+      "album": {
         "name": "MY WAY (feat. Joey B)",
         "url": "https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y"
       },
@@ -5106,7 +5168,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 143086,
       "name": "Open Your Mind",
       "url": "https://open.spotify.com/track/4xdexoL0fs2yljXSzVrnYj"
@@ -6341,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162603,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -6474,7 +6554,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"

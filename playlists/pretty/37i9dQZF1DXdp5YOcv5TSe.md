@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CSGO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,487 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,667 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Elixir](https://open.spotify.com/track/7f8pN9ldPuaQN1BJOgYd2L) | [Caneras](https://open.spotify.com/artist/3fUJRJVTuLiDGLXk0TBPuS) | [Elixir](https://open.spotify.com/album/5VNQc3xuLM1uks7LdCqeI6) | 3:08 |
 | 50 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 
-Snapshot ID: `MCxmZmM2ZDczOThkY2NiNDQwNmRiNGM2ODc3NGU5NjA4OTU5OGI5OWU3`
+Snapshot ID: `MCw2MTY0MWNiYjQ1N2U2ZTJhYWVlMjMzMWZhMDYwZTM1YTdiMDUzYTEz`

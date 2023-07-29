@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-392 songs - 23 hr 37 min
+393 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Ti No](https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [La Moda](https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz) | 3:32 | 2021-12-17 |  |
 | [Abusadora](https://open.spotify.com/track/5nR0AuLqlOHoHZ7fehUYuF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 3:00 | 2021-12-17 | 2022-07-29 |
 | [Abusadora](https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:00 | 2022-07-27 |  |
+| [Acechándote](https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Clase Aparte](https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y) | 3:32 | 2023-07-24 |  |
 | [Agresivo](https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Calle Vol\. 1](https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME) | 3:49 | 2021-12-17 |  |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2021-12-17 |  |
 | [Agárrale el Pantalón \(feat\. Zion & Lennox\)](https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:09 | 2021-12-17 | 2023-01-12 |
@@ -61,7 +62,7 @@
 | [Caile](https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 3:11 | 2021-12-17 |  |
 | [Calentamiento](https://open.spotify.com/track/0qdtqLSltKJK7TXtXca2zr) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw) | [El Tsunami](https://open.spotify.com/album/04P2E4ZJalvqAZGeQCI2OB) | 3:38 | 2022-07-27 | 2022-12-31 |
 | [Calentamiento](https://open.spotify.com/track/3WG9ylk2JJmGcYeyxkRgFS) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/2lOim5kBvhZBmC3C2BhPYw) | 3:38 | 2022-12-16 | 2023-02-27 |
-| [Calentamiento](https://open.spotify.com/track/6bKLzIH6wdyX4y1cl0O2fN) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/50P9Kc9hBUuyNiozCKMDTo) | 3:38 | 2022-12-16 |  |
+| [Calentamiento](https://open.spotify.com/track/6bKLzIH6wdyX4y1cl0O2fN) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/50P9Kc9hBUuyNiozCKMDTo) | 3:38 | 2022-12-16 | 2023-07-29 |
 | [Cantinero](https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Cantinero](https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1) | 3:41 | 2022-05-13 | 2022-06-09 |
 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 | 2022-10-12 |  |
 | [Chambonea](https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Vida Escante](https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ) | 2:51 | 2023-04-20 |  |

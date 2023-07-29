@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. SPEAKEASY in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,073 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 50 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 |
 | 51 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |
 
-Snapshot ID: `MCxjZDVjNWQxNDk2NGQ3MzkxMjM2ZmY5YTkyOWQ0NzA2MDFlMDYyY2I0`
+Snapshot ID: `MCwxMDY4ZDViYjcxMjM5ZWFkNDAzYjFiMDAwMjZkM2MyOTE1MTdhMWI3`

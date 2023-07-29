@@ -1539,6 +1539,32 @@
     },
     {
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
@@ -1798,6 +1824,10 @@
         {
           "name": "Diarra Sylla",
           "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
       "date_added": "2023-07-21",
@@ -3312,6 +3342,28 @@
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
+    },
+    {
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "album": {
@@ -5081,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Get Shaky",
+        "url": "https://open.spotify.com/album/4t3Vyk87itkLUKJyFHxdbN"
+      },
+      "artists": [
+        {
+          "name": "B.O.M",
+          "url": "https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150344,
+      "name": "Get Shaky",
+      "url": "https://open.spotify.com/track/4SpNPuNZ1wXN8tixk1Jgc4"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/304KuKPW1G3RjomSy8FgGD"
       },
@@ -5228,6 +5298,24 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "album": {
+        "name": "GOOD 4 ME",
+        "url": "https://open.spotify.com/album/3jyK3yiOmTvqwPIDmBBLkK"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123851,
+      "name": "GOOD 4 ME",
+      "url": "https://open.spotify.com/track/4bw47acyYPbG0DOzszsE4u"
     },
     {
       "album": {
@@ -5508,7 +5596,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 127180,
       "name": "gutter",
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
@@ -5640,6 +5728,28 @@
       "duration_ms": 356271,
       "name": "Have It All (feat. Age.Sex.Location) - Omar S Remix",
       "url": "https://open.spotify.com/track/7ApvNKnBlPOHXvxEFQCkMT"
+    },
+    {
+      "album": {
+        "name": "Hear My Call (Neil MacLeod Remix)",
+        "url": "https://open.spotify.com/album/3WQ8SY7HEAlYm465FSWmHA"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        },
+        {
+          "name": "Neil MacLeod",
+          "url": "https://open.spotify.com/artist/0bs0c30dj49UK6UjY3U7ZG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279111,
+      "name": "Hear My Call - Neil MacLeod Remix",
+      "url": "https://open.spotify.com/track/3ZVtEnhAKoCR6qjPOiUCnh"
     },
     {
       "album": {
@@ -7768,7 +7878,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147673,
       "name": "Lost My Mind (Wake Up)",
       "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
@@ -8054,7 +8164,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
@@ -8076,7 +8186,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 204545,
       "name": "Make Me Happy (feat. Might Delete Later)",
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
@@ -8200,7 +8310,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161801,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
@@ -8664,7 +8774,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159772,
       "name": "Mother - Ellis Remix",
       "url": "https://open.spotify.com/track/6WY22j29zVyVOEsOoqjH26"
@@ -11229,7 +11339,7 @@
     },
     {
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -11254,7 +11364,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
@@ -11476,6 +11586,28 @@
       "duration_ms": 148023,
       "name": "SNAP - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/318aZ99vbKrMbjQwm6y2E3"
+    },
+    {
+      "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322526,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA"
     },
     {
       "album": {

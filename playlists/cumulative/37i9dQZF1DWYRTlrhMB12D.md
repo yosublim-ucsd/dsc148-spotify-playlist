@@ -2,7 +2,7 @@
 
 ### [Old is Gold](https://open.spotify.com/playlist/37i9dQZF1DWYRTlrhMB12D)
 
-> Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
+> Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
 157 songs - 11 hr 58 min
 

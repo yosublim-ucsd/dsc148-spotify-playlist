@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 164533,
       "name": "Baby Why",
       "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
@@ -1694,6 +1694,24 @@
       "duration_ms": 186569,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220827,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi"
     },
     {
       "album": {
@@ -2142,6 +2160,24 @@
       "duration_ms": 191826,
       "name": "better with you",
       "url": "https://open.spotify.com/track/0OPIBKjAYBFzNpo1HzjqzQ"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
     },
     {
       "album": {
@@ -5107,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -5798,7 +5852,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 211171,
       "name": "Drivin",
       "url": "https://open.spotify.com/track/6vD7mpMAbMqtUCwcXII7BP"
@@ -5994,6 +6048,24 @@
       "duration_ms": 230379,
       "name": "Enough",
       "url": "https://open.spotify.com/track/5C8Y0e4YnmWUcKwWFAHnZ6"
+    },
+    {
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "album": {
@@ -6262,7 +6334,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -7555,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5OqDTCl0cicYgB031QCNAe"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219161,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap"
+    },
+    {
+      "album": {
         "name": "Young Fel 2",
         "url": "https://open.spotify.com/album/265rgx93RpuQmpok31gynl"
       },
@@ -8536,6 +8626,24 @@
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "album": {
+        "name": "growing up sucks",
+        "url": "https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mecca",
+          "url": "https://open.spotify.com/artist/4ghJVwRz768E9qiSzQACGe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213366,
+      "name": "growing up sucks",
+      "url": "https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7"
     },
     {
       "album": {
@@ -10028,7 +10136,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 203888,
       "name": "I Don't Feel Alive",
       "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
@@ -15395,6 +15503,28 @@
     },
     {
       "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Longer Bound",
+      "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"
+    },
+    {
+      "album": {
         "name": "No Matter the Season",
         "url": "https://open.spotify.com/album/21h561IKNmqArDobXsiFTH"
       },
@@ -16406,6 +16536,24 @@
       "duration_ms": 220285,
       "name": "Out Of Love With You",
       "url": "https://open.spotify.com/track/6lgsomVovwlUFHZgA73To0"
+    },
+    {
+      "album": {
+        "name": "OUT OF THE BLUE",
+        "url": "https://open.spotify.com/album/0V98B5GIb9b1hNRVorShnV"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158545,
+      "name": "OUT OF THE BLUE",
+      "url": "https://open.spotify.com/track/0Lx8zfZWAcMM3xH17kEv8j"
     },
     {
       "album": {
@@ -18116,7 +18264,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160500,
       "name": "running shoes",
       "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
@@ -20948,7 +21096,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 176557,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo"
@@ -22662,7 +22810,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -23060,7 +23208,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -23082,6 +23230,24 @@
       "duration_ms": 215388,
       "name": "Vampire At The Swimming Pool",
       "url": "https://open.spotify.com/track/0vHTSJYkN0U0Q6JR9fUV6I"
+    },
+    {
+      "album": {
+        "name": "Visible",
+        "url": "https://open.spotify.com/album/1S3IW5HpbpZ21n0VwizcJN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nealon",
+          "url": "https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201856,
+      "name": "Visible",
+      "url": "https://open.spotify.com/track/0n9iRYwxMckBU4Y22FbDPf"
     },
     {
       "album": {
@@ -24108,7 +24274,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177139,
       "name": "Where Do All The Diamonds Go?",
       "url": "https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja"
@@ -24752,6 +24918,28 @@
       "duration_ms": 152714,
       "name": "You",
       "url": "https://open.spotify.com/track/7M8UQUHTlaNmlmX06wyvbc"
+    },
+    {
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Sain",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: pumapjl, SonoTWS",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -353,6 +353,32 @@
     },
     {
       "album": {
+        "name": "A Saga",
+        "url": "https://open.spotify.com/album/73jKnyZzzFxqVIok4PndlU"
+      },
+      "artists": [
+        {
+          "name": "Mcn",
+          "url": "https://open.spotify.com/artist/1MQPP13rE3YIhRKuGZJMp2"
+        },
+        {
+          "name": "limanobeat",
+          "url": "https://open.spotify.com/artist/0udVuflDygn247ZrE4F196"
+        },
+        {
+          "name": "Lado Sujo da Frequ\u00eancia",
+          "url": "https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125246,
+      "name": "A Saga",
+      "url": "https://open.spotify.com/track/6drEflBWAyIxK3m31uuCSA"
+    },
+    {
+      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr"
       },
@@ -502,7 +528,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 347742,
       "name": "Alquimistas #3",
       "url": "https://open.spotify.com/track/2vwho2NnjD5xuozUObvASF"
@@ -882,7 +908,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 386658,
       "name": "Boombap Gold",
       "url": "https://open.spotify.com/track/60FUbcsCoJB5GyYsFkvpZm"
@@ -956,7 +982,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183970,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow"
@@ -2119,6 +2145,32 @@
     },
     {
       "album": {
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/7GvXcdiRirluFzLuve7FS3"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "VIETN\u00c3",
+          "url": "https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo"
+        },
+        {
+          "name": "A286",
+          "url": "https://open.spotify.com/artist/3RthcYXSVeGMXxBAFTPBGY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201595,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/2A0F2KKO5DxY820WLDVHj7"
+    },
+    {
+      "album": {
         "name": "Estrela Guia",
         "url": "https://open.spotify.com/album/1roQNX4VTgwuNrEf1i9a10"
       },
@@ -3140,6 +3192,24 @@
       "duration_ms": 193875,
       "name": "Jogo De Cintura",
       "url": "https://open.spotify.com/track/0e3k9LiMYTuO6IjGsFyUGr"
+    },
+    {
+      "album": {
+        "name": "Jovem Suburbano",
+        "url": "https://open.spotify.com/album/1L0D1X2bpZGPbdRg3rkw8E"
+      },
+      "artists": [
+        {
+          "name": "chamat",
+          "url": "https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Jovem Suburbano",
+      "url": "https://open.spotify.com/track/5RlXvYQ6ZC7wZ2CnIQjO5F"
     },
     {
       "album": {
@@ -4234,7 +4304,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205492,
       "name": "O Balan\u00e7o Do Efeito Dunning-Kruger",
       "url": "https://open.spotify.com/track/7j0dEbHnE35BaVC7y5RnlT"
@@ -4364,6 +4434,36 @@
       "duration_ms": 183624,
       "name": "O Rap Nacional N\u00e3o Morre",
       "url": "https://open.spotify.com/track/57k4LCgoc1IcxJHSpVzWuI"
+    },
+    {
+      "album": {
+        "name": "ERREJOTACULTDRILL, Vol. 2 - Esquema Novo",
+        "url": "https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134831,
+      "name": "O Retorno do Boombap - B\u00f4nus",
+      "url": "https://open.spotify.com/track/6kSQTkWxLhDUbfVCBU8NSc"
     },
     {
       "album": {
@@ -4960,7 +5060,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 618000,
       "name": "R.U.A 12 Batalha de Vida",
       "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"
@@ -5166,6 +5266,28 @@
       "duration_ms": 198019,
       "name": "Reduto das Ideias",
       "url": "https://open.spotify.com/track/1j4hrfXFmNhoBGssb2q4Fp"
+    },
+    {
+      "album": {
+        "name": "KTT ZOO",
+        "url": "https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141829,
+      "name": "Rel\u00edquia Do Boom Bap",
+      "url": "https://open.spotify.com/track/0ZmO2El2L8gh8PeAP2XHUb"
     },
     {
       "album": {
@@ -5869,6 +5991,28 @@
     },
     {
       "album": {
+        "name": "Autodom\u00ednio",
+        "url": "https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc"
+      },
+      "artists": [
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Solta Minha Blusa",
+      "url": "https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc"
+    },
+    {
+      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
@@ -6320,7 +6464,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 341333,
       "name": "Ubc",
       "url": "https://open.spotify.com/track/0g7HV8vyFH4csGSZGECNbZ"
@@ -6600,7 +6744,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189479,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS"
@@ -7066,6 +7210,28 @@
       "duration_ms": 242880,
       "name": "Zona On\u00edrica",
       "url": "https://open.spotify.com/track/3Lrt8z151fA47FbHJjRvaZ"
+    },
+    {
+      "album": {
+        "name": "Autodom\u00ednio",
+        "url": "https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc"
+      },
+      "artists": [
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121379,
+      "name": "Zona Sul",
+      "url": "https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue"
     },
     {
       "album": {

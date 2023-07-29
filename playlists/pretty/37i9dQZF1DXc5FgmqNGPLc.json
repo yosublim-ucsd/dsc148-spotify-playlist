@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: John Coltrane & Eric Dolphy",
-  "num_followers": 6419,
+  "num_followers": 6436,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc5ZjczMWMyNjM3NDg3NzRiNjRhZDA4Y2U4OWJhYTE0NTlkMmVh",
+  "snapshot_id": "MCw5ZWI4MDAxYmE5NGRjYzhhYTI3OGE2MGJmZWIwYTU2ZjVmOWNjZGFl",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -75,6 +75,22 @@
       "duration_ms": 222000,
       "name": "I Cried For You",
       "url": "https://open.spotify.com/track/3CB1D8GtpOxRE0ZhrKZXwg"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Time Is Right (2023 Remastered)",
+        "url": "https://open.spotify.com/album/3M7eoCG3iZzMEUTiqtjunL"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 732261,
+      "name": "Time Is Right - 2023 Remastered",
+      "url": "https://open.spotify.com/track/3QPzqEUmlKQ4VkfWvRQRy8"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -291,22 +307,6 @@
       "duration_ms": 572093,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/7rfKGmNCu9wK0dfShVcOzt"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "You Gotta Move (Live)",
-        "url": "https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 841913,
-      "name": "You Gotta Move - Live",
-      "url": "https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l"
     },
     {
       "added_at": "2022-10-07 04:01:00",

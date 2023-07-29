@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Smiley",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Eva Shaw, G Milla, Jaay Cee",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -486,6 +486,24 @@
       "duration_ms": 206027,
       "name": "7am on Court St",
       "url": "https://open.spotify.com/track/1LtTY0P07HlRgcoFJVeHuX"
+    },
+    {
+      "album": {
+        "name": "8AM FLIGHTS",
+        "url": "https://open.spotify.com/album/1pqfKg3FNopnK6kEHxFB6r"
+      },
+      "artists": [
+        {
+          "name": "Portion",
+          "url": "https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152273,
+      "name": "8AM FLIGHTS",
+      "url": "https://open.spotify.com/track/4rKIx2lRFIxDQiK1tIjj2r"
     },
     {
       "album": {
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144000,
       "name": "Back In",
       "url": "https://open.spotify.com/track/1PEc0cEEq30WXZmV82tqoa"
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 113016,
       "name": "Beam",
       "url": "https://open.spotify.com/track/6cLnWqr4JNSAPoNmLUPe5a"
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192180,
       "name": "Believe it or Not",
       "url": "https://open.spotify.com/track/7nD3QDXQXsGj7KeuftxiPP"
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 134452,
       "name": "Casper TNG Solid 16s, Pt. 1",
       "url": "https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg"
@@ -3588,7 +3606,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187742,
       "name": "Champion",
       "url": "https://open.spotify.com/track/1NqotoOdhbCWquCz6Vuv9U"
@@ -4158,7 +4176,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187626,
       "name": "COOL ME DOWN",
       "url": "https://open.spotify.com/track/2qJNYYNY4eg7FeBWE7vzjp"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 143054,
       "name": "Demon Mode 2",
       "url": "https://open.spotify.com/track/1ZGktG0ml5D9q2eSvdRLD3"
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 123297,
       "name": "DO U SUCK",
       "url": "https://open.spotify.com/track/4WZpKxgzvbfWHU8k8OLnl3"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 134161,
       "name": "DOWNFALL",
       "url": "https://open.spotify.com/track/57J5vAPypiMzlVzEc0VztW"
@@ -6755,6 +6773,32 @@
     },
     {
       "album": {
+        "name": "FREEZE (with Kap G & Merkules)",
+        "url": "https://open.spotify.com/album/40QoqeMzGITA3Z4uHUBpaC"
+      },
+      "artists": [
+        {
+          "name": "Just Juice",
+          "url": "https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222753,
+      "name": "FREEZE (with Kap G & Merkules)",
+      "url": "https://open.spotify.com/track/4NgId2PVsopE9Lwb3JteDC"
+    },
+    {
+      "album": {
         "name": "Fresh Out (Freestyle)",
         "url": "https://open.spotify.com/album/57wA9nHOhNTGkz8NYOjQCa"
       },
@@ -7770,7 +7814,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 258411,
       "name": "Guillotine Dreams",
       "url": "https://open.spotify.com/track/25ZH4Gdkv29iuh8E1PlMuQ"
@@ -8086,6 +8130,24 @@
       "duration_ms": 109823,
       "name": "Head Space Freestyle",
       "url": "https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP"
+    },
+    {
+      "album": {
+        "name": "HEARTTHROB",
+        "url": "https://open.spotify.com/album/6gXGwUsnLexh9FJw9EtQS8"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "HEARTTHROB",
+      "url": "https://open.spotify.com/track/78oMoQOlMbl4n3Qqhbwhp2"
     },
     {
       "album": {
@@ -8463,6 +8525,28 @@
     },
     {
       "album": {
+        "name": "HOOD MUSICAL",
+        "url": "https://open.spotify.com/album/0TvqqbXQbCGEcElEI4wj3G"
+      },
+      "artists": [
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "HOOD MUSICAL",
+      "url": "https://open.spotify.com/track/0WTsFSArACKkIUmJrqX8FB"
+    },
+    {
+      "album": {
         "name": "HOOD RAT SHIT",
         "url": "https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut"
       },
@@ -8762,7 +8846,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 140800,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga"
@@ -10943,6 +11027,28 @@
     },
     {
       "album": {
+        "name": "LOOK AT WHAT WE STARTED",
+        "url": "https://open.spotify.com/album/1oWsqdWsdYpMS4Juosqezj"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        },
+        {
+          "name": "SEGA",
+          "url": "https://open.spotify.com/artist/1ZJR8ElAadZZhXLRxYLbA2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156747,
+      "name": "LOOK AT WHAT WE STARTED",
+      "url": "https://open.spotify.com/track/31oVZv7s0HQCNDX7LQTC9w"
+    },
+    {
+      "album": {
         "name": "Look Like This",
         "url": "https://open.spotify.com/album/48A4d3Q7UZmTyLBxYOUTRV"
       },
@@ -11649,6 +11755,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "MELTDOWN",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
         "name": "Hope You Notice",
         "url": "https://open.spotify.com/album/0LrQrBWMWYRUET3YDLZrdu"
       },
@@ -11838,6 +11962,32 @@
       "duration_ms": 191100,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/71zHKuuBERvztn2SESZE5L"
+    },
+    {
+      "album": {
+        "name": "MIX IT UP",
+        "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        },
+        {
+          "name": "Jaay Cee",
+          "url": "https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147153,
+      "name": "MIX IT UP",
+      "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
     },
     {
       "album": {
@@ -13525,6 +13675,24 @@
     },
     {
       "album": {
+        "name": "Off Camera",
+        "url": "https://open.spotify.com/album/5n8nPN42AWfFHOl9dCqixZ"
+      },
+      "artists": [
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99555,
+      "name": "Off Camera",
+      "url": "https://open.spotify.com/track/57BOA3bSVd0F1Uj3U0W2F7"
+    },
+    {
+      "album": {
         "name": "Off the Map",
         "url": "https://open.spotify.com/album/1mn2sW41D429Ar0WJ0acTp"
       },
@@ -14450,7 +14618,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 284801,
       "name": "PARANO",
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
@@ -15192,7 +15360,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 107573,
       "name": "Racks Blue",
       "url": "https://open.spotify.com/track/7evoJVkktXH36rhbBw95pC"
@@ -18113,6 +18281,24 @@
     },
     {
       "album": {
+        "name": "Hood Olympics",
+        "url": "https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135650,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo"
+    },
+    {
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/53jnONEkLhCRYvuaxcqTsw"
       },
@@ -18282,6 +18468,24 @@
       "duration_ms": 195000,
       "name": "The Empty Man",
       "url": "https://open.spotify.com/track/4TmzkFvaVtscot5ohf5Rrb"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb"
+      },
+      "artists": [
+        {
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191871,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN"
     },
     {
       "album": {
@@ -20212,7 +20416,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: Quevedo",
+  "description": "The hottest Latin pop tracks right now. Cover: Ramon Vega & Christian Nodal",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -1979,6 +1979,28 @@
     },
     {
       "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168286,
       "name": "Disculpa Amiga",
       "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
@@ -4166,6 +4188,50 @@
       "duration_ms": 202250,
       "name": "Me He Pillao x Ti",
       "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "me jodi...",
+      "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
+    },
+    {
+      "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179372,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
     },
     {
       "album": {
@@ -6310,7 +6376,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180619,
       "name": "TU VALOR",
       "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
@@ -6328,7 +6394,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167786,
       "name": "TUS GAFITAS",
       "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"

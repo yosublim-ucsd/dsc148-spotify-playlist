@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 48281,
+  "num_followers": 48280,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTg5OCwxNzMyNmM3ZDYyN2Y3OWRkMTU3M2ZjM2E5NGZhYTFkNDI2NDM1NjYz",
+  "snapshot_id": "MTg5OSwwNzgzZmNhMGYzNWI3ZTA0MWIwNzNhNmZmODBiNThhZDk2MTdkNmU4",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -253,24 +253,20 @@
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
     },
     {
-      "added_at": "2023-05-26 10:24:03",
+      "added_at": "2023-07-28 10:24:04",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/1Y5jNZslnvW8uMgEptVJVW"
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/7oJdDMmmrW57bjKyebjL61"
       },
       "artists": [
         {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Georgie Keller",
-          "url": "https://open.spotify.com/artist/1PWLRaLj3BjJ5L8iUkRJqa"
+          "name": "Chris Viviano",
+          "url": "https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/4kvFMJRafwFonQNkvUqNal"
+      "duration_ms": 160000,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/5XR3FbFVt6ybWoWmtPCE9X"
     },
     {
       "added_at": "2023-04-06 10:09:03",
@@ -291,22 +287,6 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
-    },
-    {
-      "added_at": "2023-06-30 09:59:04",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/775tSWlNSJImTlHKf6f6gm"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/42vH69GV9nOnivrHPDEWtr"
     },
     {
       "added_at": "2023-04-10 10:11:03",
@@ -333,6 +313,26 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
+      "added_at": "2023-05-26 10:24:03",
+      "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/1Y5jNZslnvW8uMgEptVJVW"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Georgie Keller",
+          "url": "https://open.spotify.com/artist/1PWLRaLj3BjJ5L8iUkRJqa"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/4kvFMJRafwFonQNkvUqNal"
+    },
+    {
       "added_at": "2023-04-22 10:12:04",
       "album": {
         "name": "GENESIS",
@@ -349,24 +349,20 @@
       "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
     },
     {
-      "added_at": "2023-07-07 10:03:03",
+      "added_at": "2023-06-30 09:59:04",
       "album": {
-        "name": "Far Away From You",
-        "url": "https://open.spotify.com/album/5gmAddMUvCpmbSKzzI5l2E"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/775tSWlNSJImTlHKf6f6gm"
       },
       "artists": [
         {
-          "name": "Sanzach",
-          "url": "https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
         }
       ],
-      "duration_ms": 220898,
-      "name": "Far Away From You",
-      "url": "https://open.spotify.com/track/6iCANgGBQ4lfW9JgFhRh4x"
+      "duration_ms": 145161,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/42vH69GV9nOnivrHPDEWtr"
     },
     {
       "added_at": "2023-05-04 09:23:04",
@@ -387,22 +383,6 @@
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
-    },
-    {
-      "added_at": "2023-06-16 09:57:03",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/1CAdQDqZxrDd1kbXE5S80b"
-      },
-      "artists": [
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        }
-      ],
-      "duration_ms": 138358,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2Qtd3KQaxn83CVVZgS3e90"
     },
     {
       "added_at": "2023-05-04 09:23:04",
@@ -429,24 +409,24 @@
       "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
     },
     {
-      "added_at": "2023-02-24 10:36:03",
+      "added_at": "2023-07-07 10:03:03",
       "album": {
-        "name": "Satellites (VIP Mix)",
-        "url": "https://open.spotify.com/album/157tfg8CdFCHLYBht8x3oB"
+        "name": "Far Away From You",
+        "url": "https://open.spotify.com/album/5gmAddMUvCpmbSKzzI5l2E"
       },
       "artists": [
         {
-          "name": "AISKA",
-          "url": "https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI"
+          "name": "Sanzach",
+          "url": "https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD"
         },
         {
-          "name": "PAUL PARKER",
-          "url": "https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa"
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
         }
       ],
-      "duration_ms": 140163,
-      "name": "Satellites - VIP Mix",
-      "url": "https://open.spotify.com/track/70KGS9jaQKPxgJSRYVU1vA"
+      "duration_ms": 220898,
+      "name": "Far Away From You",
+      "url": "https://open.spotify.com/track/6iCANgGBQ4lfW9JgFhRh4x"
     },
     {
       "added_at": "2023-05-05 09:55:03",
@@ -473,6 +453,22 @@
       "url": "https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy"
     },
     {
+      "added_at": "2023-06-16 09:57:03",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/1CAdQDqZxrDd1kbXE5S80b"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        }
+      ],
+      "duration_ms": 138358,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2Qtd3KQaxn83CVVZgS3e90"
+    },
+    {
       "added_at": "2023-04-06 10:09:03",
       "album": {
         "name": "Feel Again",
@@ -497,28 +493,24 @@
       "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
     },
     {
-      "added_at": "2023-05-05 09:55:03",
+      "added_at": "2023-02-24 10:36:03",
       "album": {
-        "name": "Best Friend (hey oli Remix)",
-        "url": "https://open.spotify.com/album/3svb8wP6hR3yWGEpUaXFxF"
+        "name": "Satellites (VIP Mix)",
+        "url": "https://open.spotify.com/album/157tfg8CdFCHLYBht8x3oB"
       },
       "artists": [
         {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+          "name": "AISKA",
+          "url": "https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI"
         },
         {
-          "name": "Maye Slade",
-          "url": "https://open.spotify.com/artist/0LhtCvcnRtsqx4CRdkvM8l"
-        },
-        {
-          "name": "hey oli",
-          "url": "https://open.spotify.com/artist/3MU39V7DTOI1o37jFqvqvH"
+          "name": "PAUL PARKER",
+          "url": "https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa"
         }
       ],
-      "duration_ms": 197817,
-      "name": "Best Friend - hey oli Remix",
-      "url": "https://open.spotify.com/track/1z8LVPuQE84bSmeFjwKxLm"
+      "duration_ms": 140163,
+      "name": "Satellites - VIP Mix",
+      "url": "https://open.spotify.com/track/70KGS9jaQKPxgJSRYVU1vA"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -565,20 +557,28 @@
       "url": "https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG"
     },
     {
-      "added_at": "2023-04-21 10:43:03",
+      "added_at": "2023-05-05 09:55:03",
       "album": {
-        "name": "Wasted On You",
-        "url": "https://open.spotify.com/album/57Y0gE7olEuWCMoQvYsfyP"
+        "name": "Best Friend (hey oli Remix)",
+        "url": "https://open.spotify.com/album/3svb8wP6hR3yWGEpUaXFxF"
       },
       "artists": [
         {
-          "name": "Colin Crooks",
-          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Maye Slade",
+          "url": "https://open.spotify.com/artist/0LhtCvcnRtsqx4CRdkvM8l"
+        },
+        {
+          "name": "hey oli",
+          "url": "https://open.spotify.com/artist/3MU39V7DTOI1o37jFqvqvH"
         }
       ],
-      "duration_ms": 177096,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/0WDz1X0zEV2HRwVk8icMtW"
+      "duration_ms": 197817,
+      "name": "Best Friend - hey oli Remix",
+      "url": "https://open.spotify.com/track/1z8LVPuQE84bSmeFjwKxLm"
     },
     {
       "added_at": "2022-03-13 15:47:02",
@@ -609,30 +609,6 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
-      "added_at": "2023-04-28 10:01:03",
-      "album": {
-        "name": "Too Good To Be True",
-        "url": "https://open.spotify.com/album/7v73acij4sg4HSBfyZOo6n"
-      },
-      "artists": [
-        {
-          "name": "REA",
-          "url": "https://open.spotify.com/artist/4lkrwEmfTJBDsrilxRxCjk"
-        },
-        {
-          "name": "Kevin Ocean",
-          "url": "https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT"
-        },
-        {
-          "name": "JAIKO",
-          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Too Good To Be True",
-      "url": "https://open.spotify.com/track/6WPyv55LjI56sBgjOTJ5aG"
-    },
-    {
       "added_at": "2023-04-26 09:24:04",
       "album": {
         "name": "Diamonds",
@@ -657,20 +633,20 @@
       "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
     },
     {
-      "added_at": "2023-04-26 09:24:04",
+      "added_at": "2023-04-21 10:43:03",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5v0dptM6szUcXPI9A0HSyF"
+        "name": "Wasted On You",
+        "url": "https://open.spotify.com/album/57Y0gE7olEuWCMoQvYsfyP"
       },
       "artists": [
         {
-          "name": "Justin Irby",
-          "url": "https://open.spotify.com/artist/6LwxQLAxu5MAwFxkpcCl9j"
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6pMLutmRSowT7M7SHNJOWi"
+      "duration_ms": 177096,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/0WDz1X0zEV2HRwVk8icMtW"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -693,20 +669,28 @@
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
     },
     {
-      "added_at": "2023-04-14 10:37:03",
+      "added_at": "2023-04-28 10:01:03",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/6CNEb1uU4OCFSZ3gFczl4y"
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/7v73acij4sg4HSBfyZOo6n"
       },
       "artists": [
         {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/4lkrwEmfTJBDsrilxRxCjk"
+        },
+        {
+          "name": "Kevin Ocean",
+          "url": "https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/7B9MVyZ1LRumspf0iLnSwh"
+      "duration_ms": 171428,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/6WPyv55LjI56sBgjOTJ5aG"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -729,20 +713,20 @@
       "url": "https://open.spotify.com/track/24x3hnr7GvtMo3KXOszHmY"
     },
     {
-      "added_at": "2023-03-17 10:32:03",
+      "added_at": "2023-04-26 09:24:04",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5DnDxf2IIknCYRYzIY5BYH"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5v0dptM6szUcXPI9A0HSyF"
       },
       "artists": [
         {
-          "name": "Loran",
-          "url": "https://open.spotify.com/artist/3lYJhHEuDIKj2rqXeNFHxD"
+          "name": "Justin Irby",
+          "url": "https://open.spotify.com/artist/6LwxQLAxu5MAwFxkpcCl9j"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6I5DbN0LH6VpPGPeGSnYj5"
+      "duration_ms": 180480,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6pMLutmRSowT7M7SHNJOWi"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -765,6 +749,22 @@
       "url": "https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH"
     },
     {
+      "added_at": "2023-04-14 10:37:03",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/6CNEb1uU4OCFSZ3gFczl4y"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/7B9MVyZ1LRumspf0iLnSwh"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "How Do You Love",
@@ -785,6 +785,58 @@
       "url": "https://open.spotify.com/track/63GqGqWStpNXV6ucxlLbHi"
     },
     {
+      "added_at": "2023-03-17 10:32:03",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5DnDxf2IIknCYRYzIY5BYH"
+      },
+      "artists": [
+        {
+          "name": "Loran",
+          "url": "https://open.spotify.com/artist/3lYJhHEuDIKj2rqXeNFHxD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6I5DbN0LH6VpPGPeGSnYj5"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
       "added_at": "2023-04-07 10:09:03",
       "album": {
         "name": "Filanga",
@@ -803,18 +855,18 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 185522,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
     },
     {
       "added_at": "2023-04-07 10:09:03",
@@ -839,66 +891,6 @@
       "duration_ms": 146000,
       "name": "Dream of You - Miami Sunset Mix",
       "url": "https://open.spotify.com/track/5W6OzOQZB0xKDfNwVjSA6p"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Glue",
-        "url": "https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
-    },
-    {
-      "added_at": "2023-03-31 10:24:04",
-      "album": {
-        "name": "Your Love (9PM) (Bikini Bandits UK Piano House Edit)",
-        "url": "https://open.spotify.com/album/2LnmkwPCRZ8T6T3WsYW62x"
-      },
-      "artists": [
-        {
-          "name": "Teddy Beats",
-          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
-        },
-        {
-          "name": "Coral Reef",
-          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Your Love (9PM) - Bikini Bandits UK Piano House Edit",
-      "url": "https://open.spotify.com/track/1NnT4KACmFT03E9vkyH3s1"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -937,20 +929,28 @@
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
     },
     {
-      "added_at": "2023-01-27 10:08:04",
+      "added_at": "2023-03-31 10:24:04",
       "album": {
-        "name": "Dead Weight",
-        "url": "https://open.spotify.com/album/3Vp1UDSHfYzAgYbHRwYriV"
+        "name": "Your Love (9PM) (Bikini Bandits UK Piano House Edit)",
+        "url": "https://open.spotify.com/album/2LnmkwPCRZ8T6T3WsYW62x"
       },
       "artists": [
         {
-          "name": "John Castel & Xan Castel",
-          "url": "https://open.spotify.com/artist/1WtxjGwpDbs6O0lvhtAMCe"
+          "name": "Teddy Beats",
+          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
+        },
+        {
+          "name": "Coral Reef",
+          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
         }
       ],
-      "duration_ms": 145831,
-      "name": "Dead Weight",
-      "url": "https://open.spotify.com/track/40du7qcLwLcZzZ3T6qcuf4"
+      "duration_ms": 152000,
+      "name": "Your Love (9PM) - Bikini Bandits UK Piano House Edit",
+      "url": "https://open.spotify.com/track/1NnT4KACmFT03E9vkyH3s1"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1005,6 +1005,58 @@
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
     },
     {
+      "added_at": "2023-01-27 10:08:04",
+      "album": {
+        "name": "Dead Weight",
+        "url": "https://open.spotify.com/album/3Vp1UDSHfYzAgYbHRwYriV"
+      },
+      "artists": [
+        {
+          "name": "John Castel & Xan Castel",
+          "url": "https://open.spotify.com/artist/1WtxjGwpDbs6O0lvhtAMCe"
+        }
+      ],
+      "duration_ms": 145831,
+      "name": "Dead Weight",
+      "url": "https://open.spotify.com/track/40du7qcLwLcZzZ3T6qcuf4"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo"
+      },
+      "artists": [
+        {
+          "name": "MOUNT",
+          "url": "https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz"
+        },
+        {
+          "name": "Nicolas Haelg",
+          "url": "https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
+    },
+    {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "D\u00e9sol\u00e9e (Paris/Paname)",
+        "url": "https://open.spotify.com/album/380jows5YkchH1mDjAHdk4"
+      },
+      "artists": [
+        {
+          "name": "SHANGUY",
+          "url": "https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs"
+        }
+      ],
+      "duration_ms": 207821,
+      "name": "D\u00e9sol\u00e9e (Paris/Paname)",
+      "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
+    },
+    {
       "added_at": "2023-07-07 10:03:03",
       "album": {
         "name": "Need You",
@@ -1029,24 +1081,24 @@
       "url": "https://open.spotify.com/track/0IB7vkSglqLFWr004zdMBH"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
+      "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo"
+        "name": "By My Side (feat. Anthony Valadez)",
+        "url": "https://open.spotify.com/album/5SaunZEkzpXuY7R8GKpFkV"
       },
       "artists": [
         {
-          "name": "MOUNT",
-          "url": "https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Nicolas Haelg",
-          "url": "https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd"
+          "name": "Anthony Valadez",
+          "url": "https://open.spotify.com/artist/1q6CJpl89vkfPuYnRqKl5H"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
+      "duration_ms": 157949,
+      "name": "By My Side (feat. Anthony Valadez)",
+      "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
     },
     {
       "added_at": "2023-03-03 10:21:03",
@@ -1073,20 +1125,20 @@
       "url": "https://open.spotify.com/track/2qke9XCPFgSBTZX6YIP1Te"
     },
     {
-      "added_at": "2023-06-12 09:23:03",
+      "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "D\u00e9sol\u00e9e (Paris/Paname)",
-        "url": "https://open.spotify.com/album/380jows5YkchH1mDjAHdk4"
+        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
       },
       "artists": [
         {
-          "name": "SHANGUY",
-          "url": "https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 207821,
-      "name": "D\u00e9sol\u00e9e (Paris/Paname)",
-      "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
+      "duration_ms": 165773,
+      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
     },
     {
       "added_at": "2023-03-03 10:21:03",
@@ -1109,58 +1161,6 @@
       "url": "https://open.spotify.com/track/3rVoCpZTVtoPmpVxO97wen"
     },
     {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "By My Side (feat. Anthony Valadez)",
-        "url": "https://open.spotify.com/album/5SaunZEkzpXuY7R8GKpFkV"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Anthony Valadez",
-          "url": "https://open.spotify.com/artist/1q6CJpl89vkfPuYnRqKl5H"
-        }
-      ],
-      "duration_ms": 157949,
-      "name": "By My Side (feat. Anthony Valadez)",
-      "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
-    },
-    {
-      "added_at": "2021-10-01 15:41:05",
-      "album": {
-        "name": "Chase My Dreams",
-        "url": "https://open.spotify.com/album/0RJVkan0517aI58ByyC68x"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Chase My Dreams",
-      "url": "https://open.spotify.com/track/2Ur28ctyS9JFizaZ1oK82a"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Lavandia",
@@ -1179,22 +1179,6 @@
       "duration_ms": 148333,
       "name": "Lavandia",
       "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
-    },
-    {
-      "added_at": "2023-02-16 10:22:05",
-      "album": {
-        "name": "Faultline",
-        "url": "https://open.spotify.com/album/5bvLqbOs0CC1Yf7GswiIXK"
-      },
-      "artists": [
-        {
-          "name": "Pink Miller",
-          "url": "https://open.spotify.com/artist/3vpYqMdQOj4tqQkPdb7cbo"
-        }
-      ],
-      "duration_ms": 157514,
-      "name": "Faultline",
-      "url": "https://open.spotify.com/track/7FDRUu9bh7I9QT2Fbwb03I"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1217,6 +1201,22 @@
       "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
     },
     {
+      "added_at": "2021-10-01 15:41:05",
+      "album": {
+        "name": "Chase My Dreams",
+        "url": "https://open.spotify.com/album/0RJVkan0517aI58ByyC68x"
+      },
+      "artists": [
+        {
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Chase My Dreams",
+      "url": "https://open.spotify.com/track/2Ur28ctyS9JFizaZ1oK82a"
+    },
+    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Be Kind (with Halsey)",
@@ -1235,6 +1235,22 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2023-02-16 10:22:05",
+      "album": {
+        "name": "Faultline",
+        "url": "https://open.spotify.com/album/5bvLqbOs0CC1Yf7GswiIXK"
+      },
+      "artists": [
+        {
+          "name": "Pink Miller",
+          "url": "https://open.spotify.com/artist/3vpYqMdQOj4tqQkPdb7cbo"
+        }
+      ],
+      "duration_ms": 157514,
+      "name": "Faultline",
+      "url": "https://open.spotify.com/track/7FDRUu9bh7I9QT2Fbwb03I"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1369,30 +1385,6 @@
       "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
     },
     {
-      "added_at": "2023-01-20 10:08:04",
-      "album": {
-        "name": "Foreign Love",
-        "url": "https://open.spotify.com/album/1FzZw9aoYXPH0rgSgJu6V9"
-      },
-      "artists": [
-        {
-          "name": "Axway",
-          "url": "https://open.spotify.com/artist/7MqVNyaK3i0wcUEVVRoxNx"
-        },
-        {
-          "name": "SBSTN",
-          "url": "https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq"
-        },
-        {
-          "name": "Joseph",
-          "url": "https://open.spotify.com/artist/5NNg9PAmoxFdJZZWeRegty"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Foreign Love",
-      "url": "https://open.spotify.com/track/1sWFp17iId62YwP3SjIDvp"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Erase You",
@@ -1429,24 +1421,28 @@
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
-      "added_at": "2022-09-30 15:42:03",
+      "added_at": "2023-01-20 10:08:04",
       "album": {
-        "name": "Fool Me",
-        "url": "https://open.spotify.com/album/0Ad3MJqhBA1acgeWLp4YNw"
+        "name": "Foreign Love",
+        "url": "https://open.spotify.com/album/1FzZw9aoYXPH0rgSgJu6V9"
       },
       "artists": [
         {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+          "name": "Axway",
+          "url": "https://open.spotify.com/artist/7MqVNyaK3i0wcUEVVRoxNx"
         },
         {
-          "name": "OCEANS",
-          "url": "https://open.spotify.com/artist/6fUGQU8tAq01xMG7Qzjy8O"
+          "name": "SBSTN",
+          "url": "https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq"
+        },
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/5NNg9PAmoxFdJZZWeRegty"
         }
       ],
-      "duration_ms": 134516,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/6MYzyVOT8sxgwYhCJZYPpp"
+      "duration_ms": 143606,
+      "name": "Foreign Love",
+      "url": "https://open.spotify.com/track/1sWFp17iId62YwP3SjIDvp"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1487,6 +1483,26 @@
       "duration_ms": 230318,
       "name": "Run",
       "url": "https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8"
+    },
+    {
+      "added_at": "2022-09-30 15:42:03",
+      "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/0Ad3MJqhBA1acgeWLp4YNw"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "OCEANS",
+          "url": "https://open.spotify.com/artist/6fUGQU8tAq01xMG7Qzjy8O"
+        }
+      ],
+      "duration_ms": 134516,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6MYzyVOT8sxgwYhCJZYPpp"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1689,26 +1705,6 @@
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
-      "added_at": "2021-08-27 15:43:05",
-      "album": {
-        "name": "Desperados",
-        "url": "https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Anica Russo",
-          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
-        }
-      ],
-      "duration_ms": 140322,
-      "name": "Desperados",
-      "url": "https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Turn On the Bass",
@@ -1743,6 +1739,26 @@
       "duration_ms": 222720,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
+    },
+    {
+      "added_at": "2021-08-27 15:43:05",
+      "album": {
+        "name": "Desperados",
+        "url": "https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Anica Russo",
+          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
+        }
+      ],
+      "duration_ms": 140322,
+      "name": "Desperados",
+      "url": "https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -2007,26 +2023,6 @@
       "duration_ms": 225813,
       "name": "Roses (feat. ROZES)",
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
-    },
-    {
-      "added_at": "2023-07-24 09:32:04",
-      "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     }
   ],
   "unique_name": "EDM Top 100",

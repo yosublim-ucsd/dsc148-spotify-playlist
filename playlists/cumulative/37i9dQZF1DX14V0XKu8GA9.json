@@ -477,6 +477,32 @@
     },
     {
       "album": {
+        "name": "Back Into It",
+        "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        },
+        {
+          "name": "Jenny69",
+          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
+        },
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Back Into It",
+      "url": "https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au"
+    },
+    {
+      "album": {
         "name": "BACK TO THE BAG",
         "url": "https://open.spotify.com/album/0Jgd4OepFYqWrCegjNVmhK"
       },
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 131563,
       "name": "FENDI",
       "url": "https://open.spotify.com/track/0R810JwhuTEiU495n620FZ"
@@ -2290,6 +2316,32 @@
       "duration_ms": 135154,
       "name": "High",
       "url": "https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6"
+    },
+    {
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
       "album": {
@@ -3028,6 +3080,28 @@
       "duration_ms": 288648,
       "name": "Mama Tried (feat. Stalker Loco & Lil Traieso)",
       "url": "https://open.spotify.com/track/3orEJ1s4SVseJeF0QvtgME"
+    },
+    {
+      "album": {
+        "name": "Mane",
+        "url": "https://open.spotify.com/album/1h6SyoolhqDulQnaKuWGQI"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "OMB Bloodbath",
+          "url": "https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242468,
+      "name": "Mane",
+      "url": "https://open.spotify.com/track/6rYIwEwzrWiI1C2COpCzcI"
     },
     {
       "album": {
@@ -5584,7 +5658,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166000,
       "name": "Up For It",
       "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
@@ -5788,7 +5862,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149080,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"

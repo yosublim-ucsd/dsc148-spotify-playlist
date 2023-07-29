@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,841 likes - 90 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,887 likes - 90 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 15 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
 | 16 | [I Need Your Love](https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:22 |
 | 17 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
-| 18 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
-| 19 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
+| 18 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
+| 19 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
 | 20 | [Loneliest Road That I Know](https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Give In Kind](https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW) | 4:17 |
 | 21 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 | 22 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 38 | [A Fool No More](https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Man of the World: The Anthology 1968\-1988](https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o) | 7:44 |
 | 39 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 40 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
-| 41 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 |
-| 42 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
+| 41 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
+| 42 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 |
 | 43 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
 | 44 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 |
 | 45 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
-| 46 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
-| 47 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 |
+| 46 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 |
+| 47 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
 | 48 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 |
 | 49 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
 | 50 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 80 | [Wrong Kind of Lovin](https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af) | [Dan Kearney](https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6) | [Wrong Kind of Lovin](https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX) | 5:20 |
 | 81 | [Blues Stay Away From Me](https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY) | [Mamie Minch](https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW), [Tamar Korn](https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF) | [The Best of the 5th Annual Brooklyn Folk Festival](https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw) | 4:12 |
 | 82 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 |
-| 83 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
-| 84 | [Love & Gravity](https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR) | [Matt Katsis](https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv) | [Love & Gravity](https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB) | 3:48 |
+| 83 | [Love & Gravity](https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR) | [Matt Katsis](https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv) | [Love & Gravity](https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB) | 3:48 |
+| 84 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 | 85 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
 | 86 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
 | 87 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 | 90 | [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 |
 
-Snapshot ID: `MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm`
+Snapshot ID: `MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh`

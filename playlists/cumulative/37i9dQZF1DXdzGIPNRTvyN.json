@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 157314,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP"
@@ -182,6 +182,24 @@
       "duration_ms": 137789,
       "name": "Ascension (Sound Bath)",
       "url": "https://open.spotify.com/track/5QhHxzGiHveCh5ul5UAz4Q"
+    },
+    {
+      "album": {
+        "name": "Asterism (Sound Bath)",
+        "url": "https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9"
+      },
+      "artists": [
+        {
+          "name": "Tristan Motuo",
+          "url": "https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146014,
+      "name": "Asterism (Sound Bath)",
+      "url": "https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4"
     },
     {
       "album": {
@@ -308,6 +326,24 @@
       "duration_ms": 164000,
       "name": "Canola Morning",
       "url": "https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet"
+    },
+    {
+      "album": {
+        "name": "Casuarina Calm",
+        "url": "https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Casuarina Calm",
+      "url": "https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl"
     },
     {
       "album": {
@@ -628,7 +664,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 136838,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3Mny81g2sohJnkeG2Cesdh"
@@ -650,6 +686,24 @@
       "duration_ms": 144344,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e"
+    },
+    {
+      "album": {
+        "name": "Forest Dream",
+        "url": "https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN"
+      },
+      "artists": [
+        {
+          "name": "Sacred Bansuri",
+          "url": "https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156035,
+      "name": "Forest Dream",
+      "url": "https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR"
     },
     {
       "album": {
@@ -700,7 +754,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147192,
       "name": "Glitching",
       "url": "https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI"
@@ -916,7 +970,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 109951,
       "name": "Jours Heureux",
       "url": "https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM"
@@ -1283,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw"
+      },
+      "artists": [
+        {
+          "name": "Moon Swan",
+          "url": "https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws"
+    },
+    {
+      "album": {
         "name": "Open Windows",
         "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
       },
@@ -1370,6 +1442,24 @@
       "duration_ms": 77544,
       "name": "Part 2, Trailside Rivulet and Birdsong",
       "url": "https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU"
+    },
+    {
+      "album": {
+        "name": "Peaceful Nature",
+        "url": "https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peaceful Nature",
+      "url": "https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq"
     },
     {
       "album": {
@@ -1514,6 +1604,42 @@
       "duration_ms": 244858,
       "name": "Practicing Zen",
       "url": "https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd"
+    },
+    {
+      "album": {
+        "name": "Prakrti",
+        "url": "https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM"
+      },
+      "artists": [
+        {
+          "name": "Hashree",
+          "url": "https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Prakrti",
+      "url": "https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja"
+    },
+    {
+      "album": {
+        "name": "Quiet Soul",
+        "url": "https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz"
+      },
+      "artists": [
+        {
+          "name": "The Sun Door",
+          "url": "https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Quiet Soul",
+      "url": "https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo"
     },
     {
       "album": {
@@ -1676,7 +1802,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 135144,
       "name": "Song from the meadow",
       "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
@@ -1910,7 +2036,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 229000,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"

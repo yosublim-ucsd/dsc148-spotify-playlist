@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142560,
+  "num_followers": 142561,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl",
+  "snapshot_id": "MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
-      },
-      "artists": [
-        {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Para Que Baile Mi Pueblo",
         "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 187600,
       "name": "Se Me Antoja",
       "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+      },
+      "artists": [
+        {
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Estoy Encari\u00f1ado",
-        "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
-      },
-      "artists": [
-        {
-          "name": "Magnifico 7",
-          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Estoy Encari\u00f1ado",
-      "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Dame Un Besito",
         "url": "https://open.spotify.com/album/1UsFXTfhEuJPhwz0VEFgaT"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 186453,
       "name": "Dame Un Besito",
       "url": "https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Estoy Encari\u00f1ado",
+        "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
+      },
+      "artists": [
+        {
+          "name": "Magnifico 7",
+          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Estoy Encari\u00f1ado",
+      "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Amigo Fiel",
-        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Amigo Fiel",
-      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Amigo Fiel",
+        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Amigo Fiel",
+      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Increible",
-        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
-      },
-      "artists": [
-        {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Increible",
-      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Necesito Borrarte",
         "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 254586,
       "name": "Necesito Borrarte",
       "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Increible",
+        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
+      },
+      "artists": [
+        {
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Increible",
+      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Bustamante",
-          "url": "https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "Tiempo Sin Mi",
-      "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX"
       },
       "artists": [
         {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+          "name": "Cynthia Bustamante",
+          "url": "https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g"
         }
       ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
+      "duration_ms": 192937,
+      "name": "Tiempo Sin Mi",
+      "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -995,6 +979,22 @@
       "duration_ms": 195291,
       "name": "Contigo Corazon",
       "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+      },
+      "artists": [
+        {
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Como Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+      },
+      "artists": [
+        {
+          "name": "Genyva",
+          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+        }
+      ],
+      "duration_ms": 188265,
+      "name": "Como Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "La Buena Vida",
         "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Como Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
       },
       "artists": [
         {
-          "name": "Genyva",
-          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
         }
       ],
-      "duration_ms": 188265,
-      "name": "Como Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
       },
       "artists": [
         {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1291,22 +1307,6 @@
       "duration_ms": 202346,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-03-10 18:43:28",

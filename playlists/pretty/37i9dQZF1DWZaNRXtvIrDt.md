@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: STÜM
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,407 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,438 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 16 | [Heaven](https://open.spotify.com/track/5S0PClhaLy468Leuk4tvoS) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Heaven](https://open.spotify.com/album/0BMJU1hQzIaL4HreKN2xH7) | 5:32 |
 | 17 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 |
 | 18 | [Strange Sounds](https://open.spotify.com/track/62dLbHvGjxAOwWt38CwQ2w) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 5:51 |
-| 19 | [Right Here It's Only Love](https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 3:26 |
+| 19 | [Right Here It's Only Love](https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 3:26 |
 | 20 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 |
 | 21 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 |
 | 22 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
 | 70 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 
-Snapshot ID: `MCwwODVkZjBlNGYwYmU0YmIwNGY5YzZlM2QyYjE1NGYzOGQxMzIzNjM1`
+Snapshot ID: `MCxiMzdiZTE1ZWQ4MDE2YjQ5NTFhNTZjMzY4YzA3ZjJkYTQ4NmQ3YzUy`

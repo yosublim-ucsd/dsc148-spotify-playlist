@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Teven",
-  "num_followers": 27705,
+  "num_followers": 27710,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
+  "snapshot_id": "MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "God give me a car",
         "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 147188,
       "name": "Rosen",
       "url": "https://open.spotify.com/track/2TyuOJvhy9mBFIXwB1TOhT"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Flasche und Zeit",
-        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
-      },
-      "artists": [
-        {
-          "name": "DenniJasmin",
-          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Flasche und Zeit",
-      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Wiederg\u00e4nger",
         "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 185513,
       "name": "Wiederg\u00e4nger",
       "url": "https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Flasche und Zeit",
+        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
+      },
+      "artists": [
+        {
+          "name": "DenniJasmin",
+          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Flasche und Zeit",
+      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nie nach Paris",
-        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Nie nach Paris",
-      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Nie nach Paris",
+        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Nie nach Paris",
+      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Idaho",
-        "url": "https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "Idaho",
-      "url": "https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "vision$$",
         "url": "https://open.spotify.com/album/6Zm46AoNgp8cLCWzuqWMKD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216000,
       "name": "vision$$",
       "url": "https://open.spotify.com/track/2R40Mf4ntKNb1B2ZqOBmIo"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Idaho",
+        "url": "https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "Idaho",
+      "url": "https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY"
     },
     {
       "added_at": "2023-07-04 22:00:00",

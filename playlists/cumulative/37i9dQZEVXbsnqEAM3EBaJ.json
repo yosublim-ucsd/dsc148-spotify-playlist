@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "A Love",
+        "url": "https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205723,
+      "name": "A Love",
+      "url": "https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY"
+    },
+    {
+      "album": {
         "name": "Echoes (Seven24 & Rediit Acoustic Remix)",
         "url": "https://open.spotify.com/album/1uUbnvnV8u3lgN6VjymTaY"
       },
@@ -6682,7 +6700,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 366282,
       "name": "Mystique Voyage (Outlanders Remix 2015)",
       "url": "https://open.spotify.com/track/76jSAal20IizDaSI97fBwO"
@@ -10249,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "The Unforgiven (Live at Metal Church)",
+        "url": "https://open.spotify.com/album/5QyFNVsuF68vxRkiWNHv0t"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382186,
+      "name": "The Unforgiven - Live at Metal Church",
+      "url": "https://open.spotify.com/track/4cyCR8VZK0r9by3qBA4BG6"
+    },
+    {
+      "album": {
         "name": "Therapy session",
         "url": "https://open.spotify.com/album/2oKPQSu3BD4MU19aIU2KWo"
       },
@@ -11000,6 +11036,28 @@
       "duration_ms": 189544,
       "name": "Verso Por Saludo",
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
+    },
+    {
+      "album": {
+        "name": "Vulindlela",
+        "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        },
+        {
+          "name": "Styles Bambiso",
+          "url": "https://open.spotify.com/artist/1s5q6X1GZ0SzX4YJOh4jhe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206318,
+      "name": "Vulindlela",
+      "url": "https://open.spotify.com/track/4WoaqIsdUJmjPXHA4udr0P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Tini y Tiago PZK en portada.
 
-122 songs - 6 hr 33 min
+124 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Conexión](https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 | 2023-04-07 |  |
 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 | 2023-02-24 | 2023-07-22 |
 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 |  |
+| [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-07-28 |  |
 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 | 2023-07-22 |
 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 | 2023-01-20 |  |
 | [Cómo Te Olvido?](https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq) | 3:08 | 2022-04-25 | 2023-02-16 |
@@ -85,7 +86,7 @@
 | [No Fui Capaz](https://open.spotify.com/track/6BPh0b1180nZsN3C9LJ8PN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:33 | 2022-07-23 |  |
 | [No Inventes](https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU) | [Peps Milflores](https://open.spotify.com/artist/4L5GEUMr41snQ1eTlbLNwo), [Geovanni Leon](https://open.spotify.com/artist/0XvbQt3qMLLJw8jDES1x9D), [Jizz](https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab) | [Lealtad](https://open.spotify.com/album/5jwMSAfyCpV5sNkp7eXPnb) | 3:16 | 2022-04-25 | 2023-01-21 |
 | [No Le Llames Amor](https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [No Le Llames Amor](https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE) | 3:08 | 2023-06-23 |  |
-| [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-21 |  |
+| [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-21 | 2023-07-29 |
 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 | 2022-04-25 |  |
 | [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 |  |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
@@ -115,6 +116,7 @@
 | [Si Tu Supieras](https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tu Supieras](https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD) | 3:45 | 2023-03-31 | 2023-07-22 |
 | [Solo Tu Y Yo](https://open.spotify.com/track/79IcxcNr3Ddgwi5ux9UiAQ) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Solo Tu Y Yo](https://open.spotify.com/album/2Pswi6V4achDoAG7S6EtBy) | 2:28 | 2023-04-21 |  |
 | [Suave](https://open.spotify.com/track/17N1MnXZFLsv1tlGBNxFuW) | [Primoroso](https://open.spotify.com/artist/5n4Xu444iA1jWNbKnD545N), [Def Rabbit](https://open.spotify.com/artist/0z78KTlQp3IHGdAp9XqdIz) | [Suave](https://open.spotify.com/album/7yoJNr3DxenGB2TKDfS8Ai) | 3:19 | 2022-04-25 |  |
+| [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2023-07-28 |  |
 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 | 2022-04-25 |  |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-04-25 |  |
 | [Todo lo que es Bueno](https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Todo lo que es Bueno](https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy) | 3:00 | 2023-06-23 |  |

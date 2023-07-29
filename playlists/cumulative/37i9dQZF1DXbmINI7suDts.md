@@ -4,14 +4,14 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-87 songs - 4 hr 56 min
+88 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-11-17 |  |
 | [A Thing](https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [1947](https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U) | 3:45 | 2022-06-06 |  |
 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 |  |
-| [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 |  |
+| [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 | 2023-07-29 |
 | [Aluru](https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC) | [Ouma Myko](https://open.spotify.com/artist/1Hi1Y9xFG8qiUbBrVDVLm1) | [Ouma Myko: The Smooth Ugandan](https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq) | 3:32 | 2022-06-06 |  |
 | [Angel of Mine](https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 3:15 | 2022-11-17 | 2023-04-27 |
 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 | 2023-03-31 |  |
@@ -79,6 +79,7 @@
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 |  |
 | [Sing For You \- Acoustic version](https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Sing For You \(Acoustic version\)](https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7) | 2:53 | 2022-12-09 | 2023-02-17 |
+| [Sivawo \- Acoustic](https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Sivawo \(Acoustic\)](https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL) | 3:43 | 2023-07-28 |  |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
 | [Ssemusajja](https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Ssemusajja](https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ) | 3:32 | 2023-02-16 |  |
 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 | 2023-01-26 |  |

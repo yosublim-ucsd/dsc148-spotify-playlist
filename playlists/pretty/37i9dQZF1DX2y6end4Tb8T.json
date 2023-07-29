@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 53290,
+  "num_followers": 53353,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M2YjE3MDU4YTFjOGMxYjM5ZTA3NjIzN2JlOTNiNmQ3NGRmNDY1",
+  "snapshot_id": "MCw4NmM2MTM3NWE2Y2Y0MjEyOWY5Nzc3NDNiMTM0OGNmMmY2ZjQ1MmJl",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -435,58 +435,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Killshot",
-        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 253579,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "What\u2019s Next",
-      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -507,6 +455,58 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 253579,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Teca",
         "url": "https://open.spotify.com/album/7xBdmaoynBoXOm6dI4skKt"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 201698,
       "name": "Teca",
       "url": "https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
     },
     {
       "added_at": "2021-11-12 16:22:17",

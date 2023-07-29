@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/4ZS72CW48tIEqgMRIHGT4R"
+      },
+      "artists": [
+        {
+          "name": "GLADE",
+          "url": "https://open.spotify.com/artist/20XycE4QYZIKItSVkGu0Gl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/12cv99jtRwMqsEnRuUYUNL"
+    },
+    {
+      "album": {
         "name": "Alluvium",
         "url": "https://open.spotify.com/album/5M4J7f0PV8AtDrYVkyPkV6"
       },
@@ -632,7 +650,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 114195,
       "name": "Bayybe 07",
       "url": "https://open.spotify.com/track/4ahEI4QjOwmT4z8PuZZYDk"
@@ -938,7 +956,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 105956,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/7hYgGeMBarMRK5iGPqKGsb"
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 115443,
       "name": "Distant Star",
       "url": "https://open.spotify.com/track/1J0hsOJoJA2GuY1Yd08owz"
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 107905,
       "name": "Getting Closer",
       "url": "https://open.spotify.com/track/7kfCTnxt6irtsSWWbFib62"
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 111304,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm"
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 109770,
       "name": "Levare",
       "url": "https://open.spotify.com/track/6XDJJwtxkhbqYWteeKS20P"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 116635,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dcOprxauIydtyWGbRY7aF"
@@ -5836,7 +5854,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 104993,
       "name": "Morpheus",
       "url": "https://open.spotify.com/track/580SKYBPZ2vQQRcQogBF9N"
@@ -6232,7 +6250,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 103177,
       "name": "Nuraxi",
       "url": "https://open.spotify.com/track/0jgfH1TWoXIC0Qk5x0Uerw"
@@ -6484,7 +6502,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 118260,
       "name": "Orion's Belt",
       "url": "https://open.spotify.com/track/2p36nzolzAlLbaFAQiqfPd"
@@ -6704,7 +6722,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 118321,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B"
@@ -7226,7 +7244,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 109469,
       "name": "Resolutions",
       "url": "https://open.spotify.com/track/6zUDEI1myhSL5mAHRlKrIo"
@@ -8306,7 +8324,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 119700,
       "name": "Steady Walk",
       "url": "https://open.spotify.com/track/1eEHpyWT5AOAFbgqAGSMns"
@@ -9556,7 +9574,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 107095,
       "name": "transparency",
       "url": "https://open.spotify.com/track/05FuhMHmo0gi65Sotwj01c"
@@ -10698,7 +10716,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 106290,
       "name": "you're just visiting",
       "url": "https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv"

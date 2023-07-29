@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Annrain Artwork: Isu Kim
 
-1,507 songs - 3 day 17 hr 53 min
+1,510 songs - 3 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Babae](https://open.spotify.com/track/6mTgPW91cwaa5iSFHtAMV5) | [Maro Ignacio](https://open.spotify.com/artist/6jE4xHJbmYMz6uqY8b15xk), [LeMon Traxx](https://open.spotify.com/artist/0CKv1MqvZqzPCh14gGN4iT), [Denver B.](https://open.spotify.com/artist/2cWrw6jTuThA1UGOaLVxq4) | [Babae](https://open.spotify.com/album/2ujRxyIYP972OmRuxZ1ooy) | 4:28 | 2022-04-21 | 2022-09-23 |
 | [Babaero](https://open.spotify.com/track/16mZla3wp4ckHajB4yyuxa) | [Rich Valencia](https://open.spotify.com/artist/3ZnXiCDFRGeq3izc01zLHk) | [Babaero](https://open.spotify.com/album/1P2cSo2i3qrNpXkvLQ5KVv) | 3:45 | 2022-06-02 | 2023-01-13 |
 | [Babalik](https://open.spotify.com/track/1AYAFbw3OOWO2k7QnA30xl) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Babalik](https://open.spotify.com/album/1U6zPwgVM9UAQyoBBLmcsA) | 3:33 | 2023-04-13 | 2023-05-05 |
+| [Babalik ako](https://open.spotify.com/track/3qzpOGTa6DvEmLYk8FYV4o) | [Wyn Arciaga](https://open.spotify.com/artist/1IeAF50g3i1GgGimmEu549) | [Babalik ako](https://open.spotify.com/album/33g5p8GoFN6cYsU7O2UwhC) | 3:50 | 2023-07-27 |  |
 | [babalik?](https://open.spotify.com/track/1d8Mq4KzvL0mdQeITZkXPn) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2), [hxshina](https://open.spotify.com/artist/6gnIlsWxzRVZkZ0Vgr31v6), [shehatestracy](https://open.spotify.com/artist/2QSHnEcy37JztLywrvTZ80), [xavi+\*](https://open.spotify.com/artist/7niGesGRQ9XWrzThOHmUlp) | [babalik?](https://open.spotify.com/album/6Lu5h1bKCSRIMzD9ZfNtun) | 2:49 | 2023-05-18 | 2023-06-09 |
 | [Baby](https://open.spotify.com/track/0KygFY4OZFVO7QV0sq1UVL) | [Jettas](https://open.spotify.com/artist/6vyNCEE7NU6vZ1bb3cHp1D) | [Baby](https://open.spotify.com/album/5HZvQ6lUji5avOVTtkrWov) | 2:47 | 2023-03-30 | 2023-04-21 |
 | [Baby Face](https://open.spotify.com/track/3ZAevfJtQlbFGJVf5sW2z8) | [William Cash](https://open.spotify.com/artist/1Av7d07hyzT3RCsezS0WHl), [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki), [Crystol](https://open.spotify.com/artist/5nMQAGAHjdmUiK4mPCWH6A) | [Baby Face](https://open.spotify.com/album/75tQoF4kcyw1mf364aghpP) | 3:52 | 2022-06-16 | 2022-07-15 |
@@ -706,6 +707,7 @@
 | [Kawayan](https://open.spotify.com/track/23h0ANChBv0kWnwaEZsGqO) | [Niño Vasquez](https://open.spotify.com/artist/6oyhXZ7eZsXKakCcCVS18y) | [Kawayan](https://open.spotify.com/album/0QJh3Itb398SQ8cRWlRnDn) | 4:18 | 2023-06-08 | 2023-06-23 |
 | [Kaya Ko Din](https://open.spotify.com/track/5tIguflPCT1cK7KvVKUbuC) | [Don Gab](https://open.spotify.com/artist/5DdSIE3q3m121yjE3eKFcz), [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Kaya Ko Din](https://open.spotify.com/album/5CeB12jgiWko45W6ZfeDHl) | 3:37 | 2022-07-07 | 2022-07-22 |
 | [Kaya Ko Pa](https://open.spotify.com/track/2D3Zo3D5IbJuvu25uGmIZA) | [Petsanity](https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Kaya Ko Pa](https://open.spotify.com/album/4jIHdqllIL6DN5zLU0Bhne) | 3:24 | 2023-02-16 | 2023-03-03 |
+| [Keep It Honest](https://open.spotify.com/track/1M33bqChlyBy3tALHZX5ma) | [JVDAH.](https://open.spotify.com/artist/2fbbwiWXGR94XeFqiUbCKf) | [Keep It Honest](https://open.spotify.com/album/0BLlVepjsuGAKKJQTakpGV) | 3:31 | 2023-07-27 |  |
 | [Keep It Safe](https://open.spotify.com/track/49JUKbsBIaEvqtKg8ghFOY) | [Chase](https://open.spotify.com/artist/0w4F75vgGrvhlU2mLDZ5pJ) | [Keep It Safe](https://open.spotify.com/album/3n6gHlV4MuMUSiu9IfliEU) | 3:52 | 2023-04-20 | 2023-05-12 |
 | [Keep on Believing](https://open.spotify.com/track/1XhYiJTfBZIrMTa6dlPxqP) | [Wannie](https://open.spotify.com/artist/0mOiuuztwqbpqBiI1hiAZ3) | [Keep on Believing](https://open.spotify.com/album/5OpQgJq4MXwnyGdgjBiDny) | 3:39 | 2022-01-27 | 2022-02-11 |
 | [Kiliti](https://open.spotify.com/track/6tC3nxrn0O9tN1fk9AE3NJ) | [ALYSON](https://open.spotify.com/artist/0TkeMndS0mrWcPcQzbfIp5) | [Kiliti](https://open.spotify.com/album/0TZeB40MDjWUVnVz3wKyHq) | 3:21 | 2023-05-25 | 2023-06-09 |
@@ -1498,6 +1500,7 @@
 | [You](https://open.spotify.com/track/4bo2lCA1iUYVEo8lY3hUk7) | [La Crema](https://open.spotify.com/artist/14rN9CCEd6amLJxcnRpnph) | [You](https://open.spotify.com/album/75xlBb4PuFaIALFZ3xIlNK) | 2:29 | 2023-01-26 | 2023-02-17 |
 | [YOU](https://open.spotify.com/track/5U4nDUjCvEkmZcoqO4L1KB) | [Mooz PH](https://open.spotify.com/artist/3AOdFw44iEpHiRNKpIevAm), [DonMigs](https://open.spotify.com/artist/2NbfcnDFxnlvnHEQXLdYaV), [Not Your Crew](https://open.spotify.com/artist/1X5bdDsh2hnZS2aPmZlqJG) | [YOU](https://open.spotify.com/album/3aofA0KShiJxagg3lXnZ61) | 2:44 | 2023-02-09 | 2023-02-24 |
 | [You](https://open.spotify.com/track/1rKfQ7uAl2x3oQVgZqHscb) | [Sean Andrae](https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj) | [You](https://open.spotify.com/album/752J8aQhoJ33Yz6VuXIfUq) | 2:36 | 2023-04-20 | 2023-05-12 |
+| [You and I](https://open.spotify.com/track/1El8CuwsE4hEBeIt0STyc4) | [Genesis Anne](https://open.spotify.com/artist/4JWGf3EuvUNVvHHioy08Rs) | [You and I](https://open.spotify.com/album/7wscq4oAF0vRuE09M32XmQ) | 3:54 | 2023-07-27 |  |
 | [You Are Worthy](https://open.spotify.com/track/6krSQHydVy8wmManGeMoyt) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [You Are Worthy](https://open.spotify.com/album/3JVv3H1kx7MdNJNKQe5kqw) | 2:16 | 2023-03-30 | 2023-04-21 |
 | [You Know It](https://open.spotify.com/track/1K7LeLfz6QrJFnRK7z2lNg) | [Mami Mia](https://open.spotify.com/artist/3RMHJ4MSASEwXx7LoKSiXj) | [You Know It](https://open.spotify.com/album/0RgBVOFMfA0TJMGvukP6Sz) | 2:44 | 2023-03-09 | 2023-03-25 |
 | [You Look So Pretty](https://open.spotify.com/track/6imMafGDAsnDhkb46WeVSc) | [Off To Neverland!](https://open.spotify.com/artist/0qRRkcXmQsPEhiPPDGm4Qq) | [You Look So Pretty](https://open.spotify.com/album/3EwsuVuPjTL0X5HY55WuYM) | 2:16 | 2023-02-23 | 2023-03-18 |

@@ -2,9 +2,9 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> Celebrating the powerful voices of Latin music\. Cover: RaiNao
+> Celebrating the powerful voices of Latin music\. Cover: Bad Gyal, Tokischa & Young Miko
 
-272 songs - 14 hr 55 min
+273 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-03-14 | 2023-02-16 |
 | [Chapón](https://open.spotify.com/track/1cGV0rlZNYereLO600ldK2) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Chapón](https://open.spotify.com/album/54NAVfZaIPHieSe2UHeonK) | 2:33 | 2023-04-14 | 2023-06-10 |
 | [CHILL](https://open.spotify.com/track/4nj7NcgKbJk4yLfQvWwVhG) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [CHILL](https://open.spotify.com/album/27NpFm9IMURWBKYNChlELH) | 2:50 | 2022-03-14 | 2023-02-16 |
+| [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-28 |  |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2022-03-14 | 2023-02-16 |
 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 | 2022-03-14 | 2023-02-16 |
 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2023-02-16 |  |
@@ -196,7 +197,7 @@
 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 | 2022-03-14 | 2023-02-16 |
 | [Oye Mujer](https://open.spotify.com/track/22CAp1h36MSmQ7RzZVXQX4) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Oye](https://open.spotify.com/album/265u6tVOlOS84llEEXEgBc) | 3:51 | 2022-03-14 | 2023-02-16 |
 | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 | 2022-03-14 | 2023-02-16 |
-| [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/track/78RtgeXImxVCNZ1MfTTEer) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:36 | 2023-02-16 |  |
+| [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/track/78RtgeXImxVCNZ1MfTTEer) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:36 | 2023-02-16 | 2023-07-29 |
 | [Pa Ti \(For You\)](https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:49 | 2022-03-14 | 2023-02-16 |
 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 | 2023-02-16 | 2023-06-10 |
 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 | 2022-03-14 | 2023-02-16 |

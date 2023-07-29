@@ -1426,10 +1426,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 475271,
       "name": "Time Is The Healer - Armin van Buuren Extended Remix",
       "url": "https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO"
+    },
+    {
+      "album": {
+        "name": "Time Is The Healer",
+        "url": "https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY"
+      },
+      "artists": [
+        {
+          "name": "Riva",
+          "url": "https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476853,
+      "name": "Time Is The Healer - Armin van Buuren Extended Remix",
+      "url": "https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO"
     },
     {
       "album": {

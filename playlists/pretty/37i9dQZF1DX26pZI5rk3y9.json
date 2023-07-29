@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5937,
+  "num_followers": 5944,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
+  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -123,22 +123,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -159,18 +155,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "What Goes Around (Comes Around)",
-        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 216845,
-      "name": "What Goes Around (Comes Around)",
-      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -243,26 +243,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "FLorida Man",
         "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 237120,
       "name": "Hey God",
       "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
-      },
-      "artists": [
-        {
-          "name": "Nathan Cavaleri",
-          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
-        }
-      ],
-      "duration_ms": 322743,
-      "name": "Broken Lines",
-      "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
+      },
+      "artists": [
+        {
+          "name": "Nathan Cavaleri",
+          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
+        }
+      ],
+      "duration_ms": 322743,
+      "name": "Broken Lines",
+      "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Take My Rider",
-        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
-      },
-      "artists": [
-        {
-          "name": "Douglas Avery",
-          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Take My Rider",
-      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "A Good Thing",
         "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 214666,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Take My Rider",
+        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
+      },
+      "artists": [
+        {
+          "name": "Douglas Avery",
+          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Take My Rider",
+      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Porcelain God",
+        "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
+      },
+      "artists": [
+        {
+          "name": "Ingrid and the Ministers",
+          "url": "https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "Porcelain God",
+      "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Old Road",
         "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 237613,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Porcelain God",
-        "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
-      },
-      "artists": [
-        {
-          "name": "Ingrid and the Ministers",
-          "url": "https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Porcelain God",
-      "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Bound To Get The Blues",
+        "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
+      },
+      "artists": [
+        {
+          "name": "Ray Beadle",
+          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
+        }
+      ],
+      "duration_ms": 300548,
+      "name": "Got To Get Out",
+      "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Cassanova Kirk Daniel",
         "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Bound To Get The Blues",
-        "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
       "artists": [
         {
-          "name": "Ray Beadle",
-          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
         }
       ],
-      "duration_ms": 300548,
-      "name": "Got To Get Out",
-      "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -1039,22 +1055,6 @@
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-07-21 15:58:03",

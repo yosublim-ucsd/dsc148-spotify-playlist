@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 214542,
+  "num_followers": 214559,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWY4NGIyNzA4NDYzYTg5MzBjNGIzOWE5ZDcyM2QwYTFmMDAxYzBk",
+  "snapshot_id": "MCxiZDk2ZGI0OGQ1MzE5ODM1YTVmNDdmZGM4OTBmZDRjOWM3ZDdhY2E0",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -171,6 +171,26 @@
       "duration_ms": 308826,
       "name": "A Summer Night's Dream",
       "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "New Lives",
+        "url": "https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        },
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
+        }
+      ],
+      "duration_ms": 251219,
+      "name": "New Lives",
+      "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1667,22 +1687,6 @@
       "duration_ms": 410753,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Live Performance Saxx In The City",
-        "url": "https://open.spotify.com/album/1lsSxw2uw1HMgnZLpKmF5c"
-      },
-      "artists": [
-        {
-          "name": "Saxx in the City",
-          "url": "https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG"
-        }
-      ],
-      "duration_ms": 296875,
-      "name": "Fonk In The City - Live Performance",
-      "url": "https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn"
     },
     {
       "added_at": "2021-07-12 18:23:33",

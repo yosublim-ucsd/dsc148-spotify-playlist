@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-365 songs - 19 hr 29 min
+366 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,9 +221,10 @@
 | [Meet Again](https://open.spotify.com/track/0RBabLLjDBWUResDuvf24V) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Meet Again](https://open.spotify.com/album/1tpjTLdjuiLlokIPtN9faZ) | 3:41 | 2021-12-03 | 2022-01-08 |
 | [Miami Love](https://open.spotify.com/track/53OEYbMYlGvqnS8aOko969) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Miami Love](https://open.spotify.com/album/3PrtvErGo7CLsU59xdcyHM) | 3:36 | 2021-12-03 | 2022-01-08 |
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2021-12-03 |  |
+| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 | 2023-07-28 |  |
 | [Milo](https://open.spotify.com/track/1usrbjjrEiiiSh8zQXCeFi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Armada Unites \(The Official Album\)](https://open.spotify.com/album/1hzCdej7lteL5VkrF7iaZt) | 3:41 | 2021-12-03 | 2022-01-08 |
 | [Money Money](https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Exotica](https://open.spotify.com/album/1gQVJuNTz3pu93tO8EM4Yr) | 3:30 | 2021-12-03 | 2022-07-29 |
-| [Moon Groove](https://open.spotify.com/track/0TAIIxetpsMUEPOHZkQO9J) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/19OOCxedf9ejRmbGV83P5x) | 2:49 | 2023-07-14 |  |
+| [Moon Groove](https://open.spotify.com/track/0TAIIxetpsMUEPOHZkQO9J) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/19OOCxedf9ejRmbGV83P5x) | 2:49 | 2023-07-14 | 2023-07-29 |
 | [Moon Groove](https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R) | 2:49 | 2022-07-22 | 2022-07-29 |
 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-12 |  |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2022-01-07 |  |

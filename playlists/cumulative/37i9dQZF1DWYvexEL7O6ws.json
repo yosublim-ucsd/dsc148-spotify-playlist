@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 222655,
       "name": "Balance (feat. dvsn & PnB Rock)",
       "url": "https://open.spotify.com/track/6qL6Pj04xtBpT6GNWoEn3P"
@@ -784,6 +784,28 @@
       "duration_ms": 246293,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "album": {
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187066,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1vScfhgwjsSWwaL8Mlllxc"
@@ -1786,6 +1808,28 @@
       "duration_ms": 154075,
       "name": "Test What I Know",
       "url": "https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "That Thang (feat. Jada Kingdom)",
+      "url": "https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT"
     },
     {
       "album": {

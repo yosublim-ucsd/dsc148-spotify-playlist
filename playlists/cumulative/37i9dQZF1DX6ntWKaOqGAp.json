@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "DO THE DANCE",
+        "url": "https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F"
+    },
+    {
+      "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196199,
       "name": "DO THE DANCE",
       "url": "https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM"

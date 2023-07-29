@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195265,
       "name": "Good",
       "url": "https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225884,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
@@ -1112,6 +1112,24 @@
       "duration_ms": 228535,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/472INKIBYOfxaYOagwN1f6"
+    },
+    {
+      "album": {
+        "name": "Mahaba Yatatuua",
+        "url": "https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA"
+      },
+      "artists": [
+        {
+          "name": "Ndung'u Mbithi",
+          "url": "https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mahaba Yatatuua",
+      "url": "https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz"
     },
     {
       "album": {
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170033,
       "name": "See Me - Remix",
       "url": "https://open.spotify.com/track/7nYcbjV7zOrwHaXU1Qzqio"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207029,
       "name": "Waxtu",
       "url": "https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT"

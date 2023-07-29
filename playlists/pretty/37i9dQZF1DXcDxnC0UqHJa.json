@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 472980,
+  "num_followers": 473009,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjgxZjNkODhkN2VjOTk0ODY0YjVkNmM1M2QzODQ3OGZiZjA4MDg3",
+  "snapshot_id": "MCxhYWQ0MzQxNDhmM2UwZjAyZjkxNGY0NDFiZGI4NmMzODdkYWZkYWVm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Anti-Hero (Country Version)",
+        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 190470,
+      "name": "Anti-Hero - Country Version",
+      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Anti-Hero (Country Version)",
-        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 190470,
-      "name": "Anti-Hero - Country Version",
-      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Pine Hollow (Live)",
         "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 239643,
       "name": "Come Give Me Love",
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Other People's Songs Volume One",
         "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 206796,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
       },
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
-        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 187724,
-      "name": "Walking on Sunshine",
-      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -1863,18 +1847,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
+        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "duration_ms": 187724,
+      "name": "Walking on Sunshine",
+      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1891,6 +1875,22 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1959,22 +1959,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/6RdrUdV7XEKtAZbpfBLn91"
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
       },
       "artists": [
         {
-          "name": "Garrison Starr",
-          "url": "https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 238125,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/51DjymVxbnYciOY1355Y0Z"
+      "duration_ms": 243448,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1995,18 +1991,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mr. Bojangles",
-        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
+        "name": "Southern Family",
+        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
         }
       ],
-      "duration_ms": 243448,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
     }
   ],
   "unique_name": "Folksy Covers",

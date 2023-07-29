@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q">Yadah</a>
 
-428 songs - 1 day 9 hr 50 min
+430 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-23 | 2023-07-07 |
 | [Ke sikiloe ke Jesu \- Radio\-Edit](https://open.spotify.com/track/7g7mt6FBEwl16O5FmC8jPL) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Venomous V2](https://open.spotify.com/album/4GABnSea2cOenZQh8TYKrf) | 4:08 | 2023-06-23 | 2023-06-30 |
 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 | 2023-07-14 | 2023-07-28 |
+| [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 |  |
 | [Kelerem chimo](https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 7:15 | 2023-07-28 |  |
 | [Kese Ke Utloile](https://open.spotify.com/track/1W1aOqAwLn5IWQmGYheDM2) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Kese Ke Utloile](https://open.spotify.com/album/3U8JY9U80hoWGREzaJ9z0I) | 3:33 | 2023-07-14 | 2023-07-28 |
 | [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 | 2023-07-28 |
@@ -317,6 +318,7 @@
 | [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 | 2023-06-09 |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 | 2023-07-28 |
 | [Otuekong](https://open.spotify.com/track/4lzQbfxgryATPaKUKxK7c5) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW) | [Otuekong](https://open.spotify.com/album/5WC7MQ7twruvfZeLn0EoHg) | 5:42 | 2023-06-23 | 2023-06-30 |
+| [Out of My Belly](https://open.spotify.com/track/2N2pqxvTJQJsOWuqIRRN1O) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [Out of My Belly](https://open.spotify.com/album/3iVoSOZsOG48nWk1AgxJrI) | 1:08:26 | 2023-07-28 |  |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-05-26 | 2023-06-09 |
 | [Oya Oh](https://open.spotify.com/track/4vIiy7ynZY4VIP1Pn2NIbD) | [Deborah Paul\-Enenche](https://open.spotify.com/artist/5Lm9VbH0ETOU3HnmEvhBEu), [Daniella Paul\-Enenche](https://open.spotify.com/artist/5cdE8RbLbG6QiQUzYZegRV) | [Oya Oh](https://open.spotify.com/album/1NCRHz9ucMTaBiYU3YteC1) | 2:34 | 2023-07-28 |  |
 | [Papa](https://open.spotify.com/track/1L95FAkZLM4pHa5kBBdU94) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB) | [Papa](https://open.spotify.com/album/3AwufbA3n1Vx8fdhlkOXI3) | 3:27 | 2023-07-21 |  |

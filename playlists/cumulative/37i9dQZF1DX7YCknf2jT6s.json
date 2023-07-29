@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Cautious Clay",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 473890,
       "name": "Audience Am\u00e9ricain",
       "url": "https://open.spotify.com/track/4GqaViuPZGR5184P1NOS11"
@@ -2147,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "Bark Out Thunder Roar Out Lightning",
+        "url": "https://open.spotify.com/album/4hDXyL2ja7MKltRAUqo40g"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 922658,
+      "name": "Bark Out Thunder Roar Out Lightning",
+      "url": "https://open.spotify.com/track/0f32CcNYyYuoLtl83BXWPL"
+    },
+    {
+      "album": {
         "name": "4th Feb (Stay Awake) / BC",
         "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
       },
@@ -2224,6 +2246,28 @@
       "duration_ms": 118375,
       "name": "Beach Comber",
       "url": "https://open.spotify.com/track/5jC0c33jEW3arPHykQnyNQ"
+    },
+    {
+      "album": {
+        "name": "Beat Hopper (The 3rd Session)",
+        "url": "https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "Excursions",
+          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "Beat Hopper - The 3rd Session",
+      "url": "https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD"
     },
     {
       "album": {
@@ -2710,7 +2754,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 460254,
       "name": "Blood Calls Blood",
       "url": "https://open.spotify.com/track/2C9Uh8Pti9JzgZ65ihsVf0"
@@ -3958,7 +4002,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144000,
       "name": "Come True",
       "url": "https://open.spotify.com/track/5KA5IN3DAQjymlLZ56tHVn"
@@ -4741,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Frontier's Edge",
+        "url": "https://open.spotify.com/album/3xn1tJ5SQlOHt96ltaKH4P"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Devil Doesn't Dance",
+      "url": "https://open.spotify.com/track/1xMSayO9HnbfvyHqqDW5mm"
+    },
+    {
+      "album": {
         "name": "Dezember",
         "url": "https://open.spotify.com/album/4oJAn0QWfuMQnFzreE3NsN"
       },
@@ -4800,7 +4862,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 234906,
       "name": "Did You Know",
       "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
@@ -6538,7 +6600,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 338000,
       "name": "For Horace",
       "url": "https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX"
@@ -7310,6 +7372,28 @@
       "duration_ms": 402195,
       "name": "Grand Mesa",
       "url": "https://open.spotify.com/track/5XgKmvuYSEkXwPJ3a0LbIJ"
+    },
+    {
+      "album": {
+        "name": "Greek Honey Slick",
+        "url": "https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        },
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273653,
+      "name": "Greek Honey Slick",
+      "url": "https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D"
     },
     {
       "album": {
@@ -12524,6 +12608,28 @@
       "duration_ms": 177212,
       "name": "NEW JUICE",
       "url": "https://open.spotify.com/track/33w565e67DOq4RgLhpffXE"
+    },
+    {
+      "album": {
+        "name": "Run The World: Season 2 (Music from the STARZ Original Series)",
+        "url": "https://open.spotify.com/album/2Q7HIpBQni6hlMKHk4ufqv"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Derrick Hodge",
+          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "New Potential",
+      "url": "https://open.spotify.com/track/1wyuwXGn0gPzCPxiPDmNHc"
     },
     {
       "album": {
@@ -20668,6 +20774,40 @@
       "duration_ms": 373953,
       "name": "Us - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
+    },
+    {
+      "album": {
+        "name": "Curly",
+        "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Robert \u2018Sput\u2019 Searight",
+          "url": "https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456114,
+      "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
+      "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODk0M2ZkODgyNjM2NWRlMjQwZWNlMmJhNWYzNDk5NzcwYmRmODU1",
+  "snapshot_id": "MCwxYjA1YjA3YWYzOWMzM2FmYjY4YzIyNWQ1ZGViNzMwMmRjODYzYTYz",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -67,18 +67,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 255377,
-      "name": "United In Grief",
-      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+      "duration_ms": 220487,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -103,22 +107,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 220487,
-      "name": "Chicago Freestyle (feat. Giveon)",
-      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -895,22 +895,30 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
         }
       ],
-      "duration_ms": 201520,
-      "name": "honda (feat. pa salieu)",
-      "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
     }
   ],
   "unique_name": "Ziwe's Taste ",

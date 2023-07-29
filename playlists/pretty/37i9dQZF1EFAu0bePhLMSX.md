@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507 likes - 147 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 147 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 27 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 |
 | 28 | [World Watching \(feat\. Lil Tjay & Yung Bleu\)](https://open.spotify.com/track/6HDe7ITVyXYBZWJ2SaBU0x) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:31 |
 | 29 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
-| 30 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
-| 31 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
+| 30 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
+| 31 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
 | 32 | [Heartbreak \(Make Me A Dancer\)](https://open.spotify.com/track/6caxigputNu7W9SXMTt31O) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:28 |
 | 33 | [Move Over](https://open.spotify.com/track/3P50dC4GwZYiToIXQGWIAC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:46 |
 | 34 | [If U Can't Dance](https://open.spotify.com/track/6bh25NILjNfJnIvGRT2emC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:48 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 118 | [You Make Me Feel](https://open.spotify.com/track/6f5FALKEMFyzlHtFg3cMaE) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/49Wlbfa4PgIdDpiQUqcl4d) | 4:18 |
 | 119 | [I Don't Know What It Is](https://open.spotify.com/track/3MJnTuDz55mdvbqGxc55u4) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/0OrHGmFklZgRtjgJuiaLAb) | 3:17 |
 | 120 | [I Can't Wait](https://open.spotify.com/track/398JRb74efCO1xDxb36DTI) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Forever Is Over](https://open.spotify.com/album/6dIKn7KD9OTrNnqoPIt9bH) | 3:43 |
-| 121 | [Roll With Me](https://open.spotify.com/track/5rt3zm8GPlWCUo3RHRbXm3) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 3:44 |
-| 122 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 121 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 122 | [Roll With Me](https://open.spotify.com/track/5rt3zm8GPlWCUo3RHRbXm3) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 3:44 |
 | 123 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
 | 124 | [Connect](https://open.spotify.com/track/47MMhJCw8HIv5aOteBoTCI) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:10 |
 | 125 | [City Games](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 146 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 147 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `MjgxNzM3NDAsMDAwMDAwMDBhY2I0YTQzZjRmZDZhODhkMWM1MDk0NGIzZDA5NDc5Zg==`
+Snapshot ID: `MjgxNzY2MjAsMDAwMDAwMDBiMmRkNjMxNjE2NjdlOGYyOTdjYTlhZWMwN2RkOWYwZg==`

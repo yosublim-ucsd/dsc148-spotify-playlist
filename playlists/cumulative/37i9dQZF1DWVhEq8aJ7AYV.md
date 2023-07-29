@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-234 songs - 11 hr 37 min
+235 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 | 2021-09-03 |  |
 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 | 2021-09-03 | 2022-07-29 |
 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 | 2023-07-21 |  |
+| [Surf Club](https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Surf Club](https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL) | 1:41 | 2023-07-28 |  |
 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 | 2021-09-03 |  |
 | [Surf Doll Dance](https://open.spotify.com/track/4Isv98YdD3jeYax5FBcm2r) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Thalasses](https://open.spotify.com/album/2LvESFreiSdHXkc2QSCfi6) | 2:54 | 2021-09-03 | 2022-07-10 |
 | [Surf Mongol](https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:37 | 2021-09-03 |  |
@@ -225,7 +226,7 @@
 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 | 2021-09-03 |  |
 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 | 2021-09-03 |  |
 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 | 2021-09-03 |  |
-| [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 |  |
+| [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 | 2023-07-29 |
 | [Thompson & Richardson](https://open.spotify.com/track/5V6IpJRwPcddIgBtRkWdMl) | [Los Oxidados](https://open.spotify.com/artist/3OlKkG7n2HiLZieo4p8AFS) | [Death Man](https://open.spotify.com/album/5QRcivcTEBxWURU97CLdEL) | 2:11 | 2021-09-03 | 2022-07-09 |
 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 | 2021-09-03 | 2022-10-08 |
 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 | 2021-09-03 |  |

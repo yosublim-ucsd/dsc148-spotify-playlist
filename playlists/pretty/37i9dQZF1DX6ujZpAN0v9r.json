@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 524420,
+  "num_followers": 524693,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzZhYWFhZDJhZWY2ZmMxMzk5NmFlMWMxMGUxNGQ1OTYxOWZjYTEz",
+  "snapshot_id": "MCw1MThiZWYzNGE1YTM2ZDE1NjAwYmVkOTEyOGY2MGRhYjdlYWU4ZjEz",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -883,6 +883,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/7cdeIVN0qTwcpO7uq3ASYR"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/3pkju2uZWb1chH7n2AgbU3"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
-    },
-    {
-      "added_at": "2023-01-11 15:25:58",
-      "album": {
-        "name": "Forgotten 90's Alternative",
-        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
-      },
-      "artists": [
-        {
-          "name": "Adorable",
-          "url": "https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv"
-        }
-      ],
-      "duration_ms": 305387,
-      "name": "Sunshine Smile",
-      "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
     },
     {
       "added_at": "2022-09-28 23:01:40",
@@ -929,20 +929,20 @@
       "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
+      "added_at": "2023-01-11 15:25:58",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/7cdeIVN0qTwcpO7uq3ASYR"
+        "name": "Forgotten 90's Alternative",
+        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "Adorable",
+          "url": "https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv"
         }
       ],
-      "duration_ms": 236000,
-      "name": "What Lies Beneath",
-      "url": "https://open.spotify.com/track/3pkju2uZWb1chH7n2AgbU3"
+      "duration_ms": 305387,
+      "name": "Sunshine Smile",
+      "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Find Yourself Along The Way",
         "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 242066,
       "name": "Now I Know You Could Never Be The One",
       "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/5KT4ZH8pedhCgI1OjaKEVb"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "May",
+      "url": "https://open.spotify.com/track/0GmGXgCPDyA0wx108g6ipV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Ultra Vivid Scene",
         "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 262946,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Encounters",
-        "url": "https://open.spotify.com/album/5KT4ZH8pedhCgI1OjaKEVb"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "May",
-      "url": "https://open.spotify.com/track/0GmGXgCPDyA0wx108g6ipV"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+        "name": "Expect the Best",
+        "url": "https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+      "duration_ms": 282557,
+      "name": "When I Tried",
+      "url": "https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Expect the Best",
-        "url": "https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
       "artists": [
         {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 282557,
-      "name": "When I Tried",
-      "url": "https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8"
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "S-M 2: Abyss In B Minor",
-        "url": "https://open.spotify.com/album/2qCJQYcEt0GgAv9dWMDGzx"
-      },
-      "artists": [
-        {
-          "name": "Serena-Maneesh",
-          "url": "https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb"
-        }
-      ],
-      "duration_ms": 138746,
-      "name": "I Just Want To See Your Face",
-      "url": "https://open.spotify.com/track/3F24QvIwDIpYWNN3V7TfEN"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "bloweyelashwish",
         "url": "https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 231133,
       "name": "babysbreath",
       "url": "https://open.spotify.com/track/37I8y5acJyPT7BRtoiVH3S"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "S-M 2: Abyss In B Minor",
+        "url": "https://open.spotify.com/album/2qCJQYcEt0GgAv9dWMDGzx"
+      },
+      "artists": [
+        {
+          "name": "Serena-Maneesh",
+          "url": "https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb"
+        }
+      ],
+      "duration_ms": 138746,
+      "name": "I Just Want To See Your Face",
+      "url": "https://open.spotify.com/track/3F24QvIwDIpYWNN3V7TfEN"
     },
     {
       "added_at": "2021-06-03 02:39:04",

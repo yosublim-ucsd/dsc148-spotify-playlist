@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MISAMO
 
-662 songs - 1 day 12 hr 14 min
+665 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 | 2023-01-24 | 2023-05-17 |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-20 |  |
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
+| [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 |  |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-25 | 2023-07-26 |
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-11 | 2022-10-19 |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-07-28 | 2022-08-20 |
@@ -162,6 +163,7 @@
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-03 | 2022-10-12 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-01 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
+| [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0) | 2:34 | 2023-07-28 |  |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-06 | 2022-03-16 |
 | [Do It Like This \- English Version](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Do It Like This \(English Version\)](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) | 3:12 | 2022-03-10 | 2022-05-11 |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 |  |
@@ -187,6 +189,7 @@
 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/1tP7SiJE8uQ7fs2LQaPDbP) | 2:58 | 2022-09-18 | 2022-12-07 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-28 | 2023-06-02 |
 | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) | 3:06 | 2023-07-07 |  |
+| [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 | 2023-07-28 |  |
 | [EXCEL](https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [UNCHARTED DRIFT](https://open.spotify.com/album/61W392PxSk764yUZnI8eyR) | 2:50 | 2023-06-27 |  |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-10 | 2023-07-26 |
 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-15 | 2022-04-06 |

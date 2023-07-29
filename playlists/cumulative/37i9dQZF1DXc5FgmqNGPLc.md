@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-123 songs - 18 hr 16 min
+124 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [The Past Intact \- Live at the Village Vanguard](https://open.spotify.com/track/4DZUyHMnOfbvYPvf2i9Nuk) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Eric Revis](https://open.spotify.com/artist/5ElMqnHWxDT7rA7WuwDFs3), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o) | [The Past Intact \(Live at the Village Vanguard\)](https://open.spotify.com/album/5rwaTR3829ZCSIeVO9Zbri) | 7:03 | 2023-06-23 |  |
 | [The Prophet \- Live](https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Eric Dolphy At The Five Spot \- Vol\. 1](https://open.spotify.com/album/2QmssU0RNrWDa0YIJwDcb7) | 21:25 | 2021-11-12 |  |
 | [Theme From M\*A\*S\*H \- Live](https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Joe LaBarbera](https://open.spotify.com/artist/6cNZnJFHmf0jFAiXFo1L2F) | [Theme From M\*A\*S\*H \(Live\)](https://open.spotify.com/album/7s5CjcnG4ecB9z1FV3rkvy) | 4:56 | 2022-03-18 |  |
+| [Time Is Right \- 2023 Remastered](https://open.spotify.com/track/3QPzqEUmlKQ4VkfWvRQRy8) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Time Is Right \(2023 Remastered\)](https://open.spotify.com/album/3M7eoCG3iZzMEUTiqtjunL) | 12:12 | 2023-07-28 |  |
 | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY) | 5:24 | 2023-04-28 |  |
 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2CaSvJjrI52lwbbNwpmc9V) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [live from the archives \* BOOTLEG JUNE 15, 2000](https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP) | 13:42 | 2022-09-23 |  |
 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 | 2022-09-23 | 2023-05-01 |
@@ -128,7 +129,7 @@
 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 | 2022-10-21 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
-| [You Gotta Move \- Live](https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [You Gotta Move \(Live\)](https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI) | 14:01 | 2023-01-13 |  |
+| [You Gotta Move \- Live](https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [You Gotta Move \(Live\)](https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI) | 14:01 | 2023-01-13 | 2023-07-29 |
 | [Your Smile \- Live](https://open.spotify.com/track/5dF9OuGFO1rtDfpbULTpL0) | [Victor Feldman](https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Trevor Feldman](https://open.spotify.com/artist/2e44l2JbTpsjkrk97ji0A1) | [Your Smile \(Live\)](https://open.spotify.com/album/6lHTZb9TcHVd2qKE7QDilR) | 8:54 | 2023-04-07 |  |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |
 

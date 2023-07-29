@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 
 > Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,660 likes - 90 songs - 6 hr 29 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,612 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 64 | [Around The Way Girl](https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out \(Deluxe Edition\)](https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe) | 4:06 |
 | 65 | [Can't You See \(feat\. The Notorious B.I.G.\) \- 2016 Remaster](https://open.spotify.com/track/3vHCKWXrrqjkUJrh394Tou) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:39 |
 | 66 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
-| 67 | [Anywhere \- 2016 Remaster](https://open.spotify.com/track/2dsNLJTPuPCk43rJapunJn) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Lil' Zane](https://open.spotify.com/artist/61mwtI8FCpYa9G2NuThRhI) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:07 |
+| 67 | [Anywhere \- 2016 Remaster](https://open.spotify.com/track/2dsNLJTPuPCk43rJapunJn) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:07 |
 | 68 | [Very Special \(feat\. Spinderella, Laree Williams and Karen Anderson\)](https://open.spotify.com/track/2xjg1z0HGKmOT400mju8En) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Looks Like A Job For...](https://open.spotify.com/album/0WpSwxcB37PBzS9a9U2UNQ) | 5:05 |
 | 69 | [Just a Friend](https://open.spotify.com/track/3yNVfRQlUPViUh8O2V9SQn) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 3:58 |
 | 70 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 89 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 90 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 
-Snapshot ID: `MTI5MCxjMmE4NjI4MjZmNDVmNTgyNTJjMmZkMmIyYWE0MTExZTdkZDM2Y2Yx`
+Snapshot ID: `MTI5Miw3Y2M0NDVjZWNkZjI0YmRhYzM5ZGM4YmZhY2JjNzc2OGE5YTE1NzU4`

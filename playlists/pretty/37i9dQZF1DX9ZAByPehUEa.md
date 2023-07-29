@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,185 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,409 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 11 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 12 | [Oh Honey](https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC) | 2:29 |
 | 13 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
-| 14 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
-| 15 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
+| 14 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
+| 15 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 16 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 |
 | 17 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 |
 | 18 | [Let Me Love U](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/62nvVdhCk001EdiodfzunA) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 |
 | 50 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 |
 
-Snapshot ID: `MCxjODQwODhmMDQyZDhjYjM4MGUyYWUwMzc2ZmY5ZGIyOWJkYTk2YzE4`
+Snapshot ID: `MCxjYTEyNTA4MGZkZjVhYWUwYzI5Y2JhNTkzNGNmZjJjODc5NGRlY2U3`

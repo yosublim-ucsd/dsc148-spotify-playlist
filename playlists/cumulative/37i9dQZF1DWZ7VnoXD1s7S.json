@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318378,
+      "name": "Between All Things",
+      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
+    },
+    {
+      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 356571,
       "name": "heart held",
       "url": "https://open.spotify.com/track/36cPSm8bZSvnVHp0rqla87"
@@ -1271,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "last promise",
+        "url": "https://open.spotify.com/album/7kG4760gTaRXxzzfa2DLOB"
+      },
+      "artists": [
+        {
+          "name": "seen twice",
+          "url": "https://open.spotify.com/artist/39keBJgLqxOZbZNStbbYAn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148656,
+      "name": "last promise",
+      "url": "https://open.spotify.com/track/7w1jMzO4BMwlT6nz1u53p1"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn"
       },
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 62874,
       "name": "Outro",
       "url": "https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT"
@@ -2160,7 +2196,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 340000,
       "name": "terrarium",
       "url": "https://open.spotify.com/track/0XPhX8Uaw9sx3HGqB629X1"

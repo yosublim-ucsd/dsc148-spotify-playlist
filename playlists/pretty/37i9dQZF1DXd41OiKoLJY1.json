@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Annrain Artwork: Isu Kim\n",
-  "num_followers": 56280,
+  "num_followers": 56328,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDI3YWE2NTMyYjlkYjNmMGU1NjE1MzM2MDY5NTlmMjI1NDQ0YjI0",
+  "snapshot_id": "MCw3YjllY2E1ZjhjNjRhOTM4YWE5ZTkwMzRmMmUxMTdiYWMzZTk0MDJi",
   "tracks": [
     {
       "added_at": "2023-07-27 16:00:00",
@@ -43,6 +43,22 @@
       "duration_ms": 123756,
       "name": "Brown Line",
       "url": "https://open.spotify.com/track/5M3IEnL1AwdRpkdZ4fUEtx"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/7wscq4oAF0vRuE09M32XmQ"
+      },
+      "artists": [
+        {
+          "name": "Genesis Anne",
+          "url": "https://open.spotify.com/artist/4JWGf3EuvUNVvHHioy08Rs"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1El8CuwsE4hEBeIt0STyc4"
     },
     {
       "added_at": "2023-07-27 16:00:00",
@@ -251,6 +267,22 @@
     {
       "added_at": "2023-07-27 16:00:00",
       "album": {
+        "name": "Keep It Honest",
+        "url": "https://open.spotify.com/album/0BLlVepjsuGAKKJQTakpGV"
+      },
+      "artists": [
+        {
+          "name": "JVDAH.",
+          "url": "https://open.spotify.com/artist/2fbbwiWXGR94XeFqiUbCKf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Keep It Honest",
+      "url": "https://open.spotify.com/track/1M33bqChlyBy3tALHZX5ma"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
         "name": "bad bih!",
         "url": "https://open.spotify.com/album/2Yqa7eBmcrbaNJUQw5RkCm"
       },
@@ -387,6 +419,22 @@
       "duration_ms": 144000,
       "name": "HOY EX!",
       "url": "https://open.spotify.com/track/6HBbw3lpQyZVKa6O7VF5pv"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "Babalik ako",
+        "url": "https://open.spotify.com/album/33g5p8GoFN6cYsU7O2UwhC"
+      },
+      "artists": [
+        {
+          "name": "Wyn Arciaga",
+          "url": "https://open.spotify.com/artist/1IeAF50g3i1GgGimmEu549"
+        }
+      ],
+      "duration_ms": 230268,
+      "name": "Babalik ako",
+      "url": "https://open.spotify.com/track/3qzpOGTa6DvEmLYk8FYV4o"
     },
     {
       "added_at": "2023-07-27 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,068 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,146 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
 | 60 | [Embrujo](https://open.spotify.com/track/3DH72cjjj9nx1jKhvP2bhq) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Embrujo](https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP) | 3:19 |
 
-Snapshot ID: `MCwzODg4YzQwYWU2NDI3N2I3NDY5ZTM1NjI3MzNiYjQ0NmViNzNmMTQ2`
+Snapshot ID: `MCxjMmRkNzRhOTFkMjFjZjc5YzE4MWQzMDQ5N2M5YjE4ZmNlMWEyZmYw`

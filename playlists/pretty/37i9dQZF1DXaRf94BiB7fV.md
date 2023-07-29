@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Joell , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,405 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,439 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 | 100 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 
-Snapshot ID: `MCxjNDczMTIxMTU5MTMxN2U3ZjNlZjdiODhkMzhkZWZkNTJmNGViMmQx`
+Snapshot ID: `MCxiMGZkYjU4MDEyZDg0NGZiZGU3ZDYyODJmMzFhZmE2YzExYTVhZGNh`

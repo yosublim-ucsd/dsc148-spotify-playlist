@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.",
-  "num_followers": 274259,
+  "num_followers": 274278,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmFkMzMyY2M0OWRhZDg3ZTRiMDNmM2U4NThmZTI4MTMyNzhmMTgw",
+  "snapshot_id": "MCw0YjhkZTA1ZTcyMzg5Mzk5YjllMjk1Zjk0YTBlZjAxYWY4ZDFiNmI3",
   "tracks": [
     {
       "added_at": "2023-07-21 14:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "duration_ms": 156292,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        }
-      ],
-      "duration_ms": 156292,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212660,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "Have We Met Before (with Eric Nam)",
         "url": "https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 158174,
       "name": "Have We Met Before (with Eric Nam)",
       "url": "https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212660,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "Want It All (feat. Evalyn)",
         "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "bad note",
+        "url": "https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 166771,
+      "name": "bad note",
+      "url": "https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "The Show (with JJ Lin)",
         "url": "https://open.spotify.com/album/5GJCAZCsQS8hCQsxjrVdvo"
       },
@@ -1887,22 +1903,6 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "bad note",
-        "url": "https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 166771,
-      "name": "bad note",
-      "url": "https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
         "name": "Crush(ed)",
         "url": "https://open.spotify.com/album/1DxzjcYARjxOldyHkrX7sp"
       },
@@ -1915,22 +1915,6 @@
       "duration_ms": 150645,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/3yCf5wq33Tjd1aWjVHQ192"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -1967,6 +1951,22 @@
       "duration_ms": 118526,
       "name": "Silly Love Songs",
       "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "grass is greener",
+        "url": "https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "grass is greener",
+      "url": "https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "playing tricks",
         "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
       },
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "grass is greener",
-        "url": "https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR"
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/3qa53IyUxtxuCiyD1gPZj0"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
         }
       ],
-      "duration_ms": 199700,
-      "name": "grass is greener",
-      "url": "https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv"
+      "duration_ms": 141365,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2075,22 +2091,6 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
       },
@@ -2107,38 +2107,18 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "Momentary Sweetheart",
-        "url": "https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Momentary Sweetheart",
-      "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2155,6 +2135,22 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
+        "name": "Momentary Sweetheart",
+        "url": "https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Momentary Sweetheart",
+      "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2211,18 +2207,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/3qa53IyUxtxuCiyD1gPZj0"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
           "name": "Stephanie Poetri",
           "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 141365,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA"
+    },
+    {
+      "added_at": "2023-07-21 14:00:00",
+      "album": {
         "name": "MAGIC MAN",
         "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
       },
@@ -2451,22 +2467,6 @@
       "duration_ms": 168209,
       "name": "Any Other Way",
       "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
-    },
-    {
-      "added_at": "2023-07-21 14:00:00",
-      "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA"
     },
     {
       "added_at": "2023-07-21 14:00:00",
@@ -2623,18 +2623,18 @@
     {
       "added_at": "2023-07-21 14:00:00",
       "album": {
-        "name": "COME WITH ME",
-        "url": "https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN"
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 154777,
-      "name": "COME WITH ME",
-      "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
+      "duration_ms": 183800,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
     }
   ],
   "unique_name": "Jasmine",

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,799 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,841 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 |
-| 2 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |
-| 3 | [Aba Bagulya](https://open.spotify.com/track/0B7qukFPnTbVyPfypiHJ2X) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Anything](https://open.spotify.com/album/4kVpCP7DgPreQRptRKCSlk) | 3:58 |
-| 4 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 |
+| 1 | [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 |
+| 2 | [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 |
+| 3 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |
+| 4 | [Aba Bagulya](https://open.spotify.com/track/0B7qukFPnTbVyPfypiHJ2X) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Anything](https://open.spotify.com/album/4kVpCP7DgPreQRptRKCSlk) | 3:58 |
 | 5 | [One More Time](https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [One More Time](https://open.spotify.com/album/2oW4uG3cuWhOAgJwuw6gZO) | 3:04 |
 | 6 | [Mountain Song](https://open.spotify.com/track/03onfUgdnPT4p2XoxUdH95) | [Space Owl](https://open.spotify.com/artist/5BSAR7n5jEDO6XUBodH7qG), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Bob Lovelace](https://open.spotify.com/artist/6VFjf95afawayBKTfJFkyT), [John Ewing](https://open.spotify.com/artist/2LpxqQxZZQyq6Ycp9t1HJf), [David Appelbaum](https://open.spotify.com/artist/65sIM68yHAbuFn8cZztqnP) | [Mountain Song](https://open.spotify.com/album/4A4ovKPnaakHcRxksFMFMi) | 6:56 |
-| 7 | [Ishmael](https://open.spotify.com/track/4cXii3eY0wiLiMYXJXHjpc) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Ishmael](https://open.spotify.com/album/1H38Z8Ck6kaSbnghLJ9HxT) | 4:39 |
-| 8 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
-| 9 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 |
-| 10 | [Smoke on the Shoulder](https://open.spotify.com/track/6VhKlQjE2fOgnX1pTdS0Ow) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Smoke on the Shoulder](https://open.spotify.com/album/0IqZzNKnF55j1gi0TL9zqi) | 3:36 |
-| 11 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
-| 12 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 |
-| 13 | [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 |
+| 7 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 |
+| 8 | [Ishmael](https://open.spotify.com/track/4cXii3eY0wiLiMYXJXHjpc) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Ishmael](https://open.spotify.com/album/1H38Z8Ck6kaSbnghLJ9HxT) | 4:39 |
+| 9 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
+| 10 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 |
+| 11 | [Smoke on the Shoulder](https://open.spotify.com/track/6VhKlQjE2fOgnX1pTdS0Ow) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Smoke on the Shoulder](https://open.spotify.com/album/0IqZzNKnF55j1gi0TL9zqi) | 3:36 |
+| 12 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
+| 13 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 |
 | 14 | [Al's Anti\-Gravity Machine](https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Al's Anti\-Gravity Machine](https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go) | 4:27 |
 | 15 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
 | 16 | [Fire And Brimstone](https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Fire And Brimstone](https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCw4MzUxYjcyM2VkZThkNzg3ZmFhZmQxY2JjNmU1NjE5ODBkYmVmMGE5`
+Snapshot ID: `MCxhNjM0YjMxZTQ4MGFlZWFkYjM5ODQ2MDkzZWNhOWM2OWNhYzA1MjEy`

@@ -4,7 +4,7 @@
 
 > Trap de la isla, con YOVNGCHIMI en portada.
 
-53 songs - 3 hr 32 min
+54 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 | 2023-06-09 |  |
 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 | 2023-06-09 |  |
 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 | 2023-06-09 |  |
-| [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 | 2023-06-09 |  |
+| [Pacto \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Pacto \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 | 2023-07-28 |  |
+| [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 | 2023-06-09 | 2023-07-29 |
 | [Quien Es Dei V?](https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Es Dei V?](https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC) | 2:42 | 2023-06-09 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-06-09 |  |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2023-06-09 |  |

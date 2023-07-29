@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 247350,
       "name": "All Gas No Brakes",
       "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 349211,
       "name": "Fester",
       "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
@@ -3124,10 +3124,40 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197613,
       "name": "Look Like That",
       "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "album": {
+        "name": "Los Angeles (with James Murphy)",
+        "url": "https://open.spotify.com/album/0wkq0uUOugMMFdaAAGoUpG"
+      },
+      "artists": [
+        {
+          "name": "Lol Tolhurst",
+          "url": "https://open.spotify.com/artist/0dpt5MouO4U9l189E5CIoN"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/4LEp9FrNKTk9zqAjBdg6ql"
+        },
+        {
+          "name": "Jacknife Lee",
+          "url": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
+        },
+        {
+          "name": "James Murphy",
+          "url": "https://open.spotify.com/artist/03XnX4XEVVtZNUBSdUlzsB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384186,
+      "name": "Los Angeles (feat. James Murphy)",
+      "url": "https://open.spotify.com/track/0sueSpJiVi3YT5t1KGuEJw"
     },
     {
       "album": {
@@ -3434,6 +3464,24 @@
       "duration_ms": 183792,
       "name": "Month",
       "url": "https://open.spotify.com/track/2Ywh6o1lKsdFQsivAb8Rgt"
+    },
+    {
+      "album": {
+        "name": "Nah, That Ain't It / Phone Lines Down",
+        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166390,
+      "name": "Nah, That Ain't It",
+      "url": "https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI"
     },
     {
       "album": {
@@ -4198,7 +4246,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 187280,
       "name": "Pure Mode",
       "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
@@ -5035,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Stumbling Still",
+        "url": "https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279870,
+      "name": "Stumbling Still",
+      "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
+    },
+    {
+      "album": {
         "name": "Sunglasses",
         "url": "https://open.spotify.com/album/5mfH9Qe9rtjrLBpLE6zL2P"
       },
@@ -5252,6 +5318,24 @@
       "duration_ms": 151533,
       "name": "Talking Pictures",
       "url": "https://open.spotify.com/track/41rEc1qxuC6RSD9Kmgrokw"
+    },
+    {
+      "album": {
+        "name": "TELL ME WHEN I'M TELLING LIES",
+        "url": "https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "TELL ME WHEN I'M TELLING LIES",
+      "url": "https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA"
     },
     {
       "album": {

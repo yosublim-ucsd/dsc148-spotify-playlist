@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1221237,
+  "num_followers": 1221243,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjYyYjJlOWVlODkyZjRiOGJhMDZlMmI3ODY3YTMwMWZlMDg4NTRk",
+  "snapshot_id": "MCxlNzk2NGNiMWYxYmFkOGEzYThkNWYxMzNiNjcxNTUyOTU3ZTA3Yzlk",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 128634,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 326156,
       "name": "Red Bird Pt. 2 (Morning)",
       "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     }
   ],
   "unique_name": "Morning Acoustic",

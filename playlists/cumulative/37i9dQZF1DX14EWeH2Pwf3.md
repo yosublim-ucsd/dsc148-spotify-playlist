@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Vale Pain
 
-334 songs - 16 hr 30 min
+335 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-05-09 | 2022-10-28 |
 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 | 2023-02-09 | 2023-04-21 |
 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 | 2023-05-25 |  |
+| [TOP G \(feat\. Sacky\)](https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:40 | 2023-07-28 |  |
 | [TOPBOY \(feat\. Noyz Narcos\)](https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:26 | 2022-05-09 | 2022-05-28 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-10-27 | 2023-05-19 |
 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 | 2022-05-09 | 2022-10-04 |
@@ -338,7 +339,7 @@
 | [WEED, SOLDI, SESSO \(feat\. Gemitaiz\)](https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 3:13 | 2022-06-02 | 2022-06-17 |
 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 | 2023-05-18 | 2023-07-28 |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 |  |
-| [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-03-07 |  |
+| [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-03-07 | 2023-07-29 |
 | [ye@h \(feat\. Shiva\)](https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:36 | 2022-09-29 | 2022-11-08 |
 | [ZONDA](https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [ZONDA](https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK) | 3:37 | 2023-03-30 | 2023-05-26 |
 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/2VyZWWKamfq7kVnh5gMgPd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:38 | 2022-05-09 | 2022-05-13 |

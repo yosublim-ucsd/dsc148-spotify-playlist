@@ -4,7 +4,7 @@
 
 > Os grandes hits do momento estão aqui! Foto: IZA, Mc Carol
 
-185 songs - 8 hr 58 min
+186 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 | 2022-09-23 | 2022-12-09 |
 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 | 2022-05-20 | 2022-06-30 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2023-07-18 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-08 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-08 | 2023-07-29 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-05-20 | 2022-12-14 |
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-05-20 | 2022-06-23 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2023-04-14 |
@@ -81,6 +81,7 @@
 | [Evoque Prata](https://open.spotify.com/track/6TYZ8bvIGM0HuSVlsHDhoS) | [MC Menor HR](https://open.spotify.com/artist/6snA6Etiw0tiYZaTAoIf5k), [MC Menor SG](https://open.spotify.com/artist/26cXdFW2i1PE5HuCzxYvC1), [DJ Escobar](https://open.spotify.com/artist/1YYDS54YoZeR7WTokK7eEf) | [Evoque Prata](https://open.spotify.com/album/3qA6U2HnNfpkBhJlDw03V1) | 1:47 | 2023-07-06 |  |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-05-20 | 2022-06-30 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-06-28 |
+| [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 | 2023-07-28 |  |
 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 | 2023-01-19 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-20 | 2022-10-01 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-07-28 |

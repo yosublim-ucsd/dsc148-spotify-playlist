@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 29261,
+  "num_followers": 29281,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQzNDFkNzY0N2EzN2U0OTA1OWVjZWZjODFiNjExYzc2NTJlMTlj",
+  "snapshot_id": "MCxiMmVlNmIwYjY2OGRhNTg3N2RmYWExMmU5NjkwZjk0NzdmNmExMzA2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "B2B / Black Roses",
+        "url": "https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 224541,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "B2B / Black Roses",
-        "url": "https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 224541,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 178652,
       "name": "Banter",
       "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1407,6 +1407,30 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Ride It (SBF17)",
+        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
+      },
+      "artists": [
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Feadz",
+          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Ride It - SBF17",
+      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1459,30 +1483,6 @@
       "duration_ms": 188000,
       "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
       "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Ride It (SBF17)",
-        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
-      },
-      "artists": [
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Feadz",
-          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Ride It - SBF17",
-      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 193500,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
-      },
-      "artists": [
-        {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
-        }
-      ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1855,42 +1855,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
       },
@@ -1911,6 +1875,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 146311,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "sunscreen",
+        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 247236,
+      "name": "sunscreen",
+      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1999,6 +1999,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
+        }
+      ],
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "I Like The Gangstas",
         "url": "https://open.spotify.com/album/2B4uGRwT5w8s73dsq2nj3e"
       },
@@ -2019,26 +2039,6 @@
       "duration_ms": 153317,
       "name": "I Like The Gangstas",
       "url": "https://open.spotify.com/track/4emERQBWLwVutRtgygswTU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     }
   ],
   "unique_name": "Global Club Music",

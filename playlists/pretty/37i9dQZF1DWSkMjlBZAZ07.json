@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1968301,
+  "num_followers": 1968449,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2EyMWVmNjZmMzdjNjBmMzFkZDMxYmQ2YjkzMDQ2MzU1NzE1YTNi",
+  "snapshot_id": "MCw4NmY3M2ZlYjUzNjJlYWUxMjUwNzRlNDA3NGFkMGI2OWVmODVhNjBh",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Skinny Dipping & Mimosas",
+        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Skinny Dipping & Mimosas",
-        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 163717,
-      "name": "Skinny Dipping & Mimosas",
-      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 195160,
       "name": "Put It Together",
       "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "firekid",
+        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
+      },
+      "artists": [
+        {
+          "name": "firekid",
+          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Lay by Me",
+      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "firekid",
-        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
-      },
-      "artists": [
-        {
-          "name": "firekid",
-          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Lay by Me",
-      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "hello my son",
-        "url": "https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "hello my son",
-      "url": "https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
     },
     {
       "added_at": "2023-07-21 04:00:00",

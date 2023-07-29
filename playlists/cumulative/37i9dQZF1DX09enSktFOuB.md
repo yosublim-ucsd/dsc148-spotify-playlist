@@ -4,7 +4,7 @@
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-71 songs - 5 hr 6 min
+72 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Takkunu Takkunu \- From "Mr\. Local"](https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Takkunu Takkunu \(From "Mr\. Local"\)](https://open.spotify.com/album/6X9im2EjoC80L7GXPV2tdj) | 3:32 | 2022-05-10 |  |
 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 | 2022-05-10 |  |
 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-07-19 |  |
-| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2022-05-10 |  |
+| [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 | 2022-05-10 |  |
+| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2022-05-10 | 2023-07-29 |
 | [Two Two Two](https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 2:56 | 2022-05-10 |  |
 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 | 2022-11-10 |  |
 

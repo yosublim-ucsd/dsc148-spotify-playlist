@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190365,
       "name": "Coraz\u00f3n Herido",
       "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
@@ -652,6 +652,24 @@
       "duration_ms": 169880,
       "name": "Cruel Condena",
       "url": "https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "album": {

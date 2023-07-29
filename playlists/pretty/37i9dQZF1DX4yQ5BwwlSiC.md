@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Relive the fun of CMA Fest on July 19th at 8/7c on ABC! Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,384 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,388 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 81 | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/track/3NfLxTFZRLb8WGVeeG3e8i) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/album/0YzBztGGfR2i1TucxB2K0x) | 2:53 |
 | 82 | [Rich Man](https://open.spotify.com/track/2QUqxiiYJw4cg2HUCnfYLa) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:30 |
 | 83 | [Truth Is](https://open.spotify.com/track/02G3c8DxZgp6dLbDqd7aw3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Truth Is](https://open.spotify.com/album/6yYPEmDiTpTMzZdsD3NqGT) | 2:44 |
-| 84 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
+| 84 | [Freedom Was A Highway](https://open.spotify.com/track/28suql59B0WWfWtL3rZfDy) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:32 |
 | 85 | [Stand Down](https://open.spotify.com/track/666e8lZbjtYQegom3Q8WmZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Stand Down](https://open.spotify.com/album/2hjV8s2vSNTT4mqdJtXvNa) | 3:25 |
 | 86 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 87 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 99 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 |
 | 100 | [Try Losing One](https://open.spotify.com/track/2rNAuVUZPkQfKBJPbE2eJT) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Try Losing One \(with Sydney Sierota of Echosmith\)](https://open.spotify.com/album/0P04vHiQfLGSvgJ8wIS3iG) | 3:39 |
 
-Snapshot ID: `MCw4MGM5NzE3MWRkNzU5ZTcxNTMxOTY1MzJiZTAyZDg1YTE3ZTE1ZmU1`
+Snapshot ID: `MCxlOWY1ZWQ1MWE1OGE5MjI1NjYwYjc3YzUzMzQyNmIxMTE4MjNhODU4`

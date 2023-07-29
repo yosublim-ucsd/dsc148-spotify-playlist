@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Chris Stapleton
+> Today's top country hits\. Cover: Lainey Wilson
 
-658 songs - 1 day 11 hr 28 min
+659 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-06-24 | 2022-09-10 |
 | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 | 2020-06-03 |
 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 | 2020-06-06 | 2020-09-17 |
+| [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-07-28 |  |
 | [Dig](https://open.spotify.com/track/3GTsEcu7HyKyQiGHNdIl6K) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Dig](https://open.spotify.com/album/2HRrIXBpgVRxGESFsl479i) | 3:45 | 2023-03-31 | 2023-06-01 |
 | [Dig](https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:45 | 2023-05-26 | 2023-07-01 |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2021-01-27 | 2021-03-27 |
@@ -664,7 +665,7 @@
 | [You Time](https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [You Time](https://open.spotify.com/album/3v5EfqlUMolY1RR5GNnMYx) | 3:12 | 2021-08-14 | 2021-10-02 |
 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 | 2023-03-24 |  |
 | [Younger Me](https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Younger Me](https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2) | 3:26 | 2021-11-13 | 2022-02-05 |
-| [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2022-11-25 |  |
+| [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2022-11-25 | 2023-07-29 |
 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 | 2021-11-13 | 2022-01-08 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Get into the spirit of New Orleans
 
-68 songs - 4 hr 10 min
+69 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Joshua Fit De Battle of Jericho](https://open.spotify.com/track/6mhzK4YvxzG2MQseaazRGt) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [Runnin' Wild](https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh) | 3:21 | 2021-04-26 |  |
 | [Keep Your Head Up](https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Keep Your Head Up](https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm) | 3:05 | 2021-04-26 |  |
 | [Keep Your Head Up](https://open.spotify.com/track/3uq2fANGj5awEgr1q8R8R3) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Keep Your Head Up](https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y) | 3:05 | 2021-04-26 | 2022-07-29 |
-| [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 | 2021-04-26 |  |
+| [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 | 2021-04-26 | 2023-07-29 |
 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 | 2021-04-26 |  |
 | [Milenberg Joys](https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ) | [Lu Watters](https://open.spotify.com/artist/3vCSKqDwmD2rf9v4t1hhwv) | [The Ultimate Jazz Archive 8 \- Jacks Hit The Road \(1 Of 4\)](https://open.spotify.com/album/7LLJ7dgXSj7NIVfMVOqeIT) | 3:25 | 2021-04-26 |  |
 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/65sPImCpuvhK21doidXxS0) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans](https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU) | 4:36 | 2021-04-26 | 2022-07-29 |
@@ -58,6 +58,7 @@
 | [Saratoga Drag](https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv) | [Luis Russell](https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP), [Albert Nicholas](https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY), [Henry](https://open.spotify.com/artist/2JXBvjlBB0Qu7MJ1XblhSM), [J\. C\. Higginbotham](https://open.spotify.com/artist/5Qp4GPKEa8t2iM6ZDkg86Y), [Charlie Holmes](https://open.spotify.com/artist/5dhfT2nL6RlvrQ1E7E9QE9), [George](https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA) | [The Luis Russell Story](https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ) | 3:07 | 2021-04-26 |  |
 | [Short Dressed Gal](https://open.spotify.com/track/5LIn72haoobRVZg0cELDad) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 2:38 | 2021-04-26 |  |
 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 | 2021-04-26 |  |
+| [Six Feet Down](https://open.spotify.com/track/5KXn73ZV6VFCoOpdQCpXB0) | [Tuba Skinny](https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5) | [Magnolia Stroll](https://open.spotify.com/album/21LfD4XS0jCKseccGHcNKK) | 2:57 | 2023-07-28 |  |
 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 | 2021-04-26 |  |
 | [Stompin' Ground](https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB) | 4:31 | 2022-01-28 |  |
 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 | 2021-04-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Kizz Daniel & Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,803 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,856 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 58 | [Yoyo](https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ) | [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P) | [Yoyo](https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR) | 2:36 |
 | 59 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 |
 | 60 | [lo siento](https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:25 |
-| 61 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
-| 62 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
+| 61 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
+| 62 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 63 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
 | 64 | [MENÚ \- Radio Edit](https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [MENÚ \(Radio Edit\)](https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36) | 2:34 |
 | 65 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 |
 | 70 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 
-Snapshot ID: `MCw5MTc5OTE0MTY1MzQyMGM5ZDFiNGY1NzU4ZGM2ZDQ5ZDQyOTE0OWQ5`
+Snapshot ID: `MCw0YjllMmI1NmJhMWI2OTU0OGJlOWM4MTU1NzIzODY0YmQ2MzgzMzdl`

@@ -4,13 +4,14 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-241 songs - 15 hr 46 min
+243 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2023-05-23 |  |
 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 | 2023-07-11 |  |
-| [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 | 2023-07-27 |  |
+| [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 | 2023-07-27 | 2023-07-29 |
+| [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 | 2023-07-27 |  |
 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-06 |  |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-14 | 2023-04-01 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-28 |  |
@@ -85,7 +86,8 @@
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-03-21 | 2023-03-31 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 |  |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-05-17 |
-| [I Hate Myself](https://open.spotify.com/track/4o3MnZozzXONhO8hkB58Vn) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/2uB92XqtrzI9tf2J0wIzgQ) | 3:13 | 2023-07-27 |  |
+| [I Hate Myself](https://open.spotify.com/track/0oW8vPVlQ0qeQeiJT8VSKx) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2) | 3:13 | 2023-07-27 |  |
+| [I Hate Myself](https://open.spotify.com/track/4o3MnZozzXONhO8hkB58Vn) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/2uB92XqtrzI9tf2J0wIzgQ) | 3:13 | 2023-07-27 | 2023-07-29 |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 | 2023-07-12 |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-24 | 2023-06-30 |
 | [If I Knew \(feat\. Burniss Travis & Mark Guiliana\)](https://open.spotify.com/track/4IIc906zptQIdB6S9lyM4w) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [If I Knew \(feat\. Burniss Travis & Mark Guiliana\)](https://open.spotify.com/album/6zRfxt8Gca0NVO8MJ7c3NG) | 4:26 | 2023-03-18 | 2023-04-07 |

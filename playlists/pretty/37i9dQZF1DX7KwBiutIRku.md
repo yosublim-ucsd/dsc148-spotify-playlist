@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,858 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,944 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 22 | [I Don't Need You No More](https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:35 |
 | 23 | [Going Back Home](https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG) | [Dr\. Feelgood](https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV) | [Malpractice](https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO) | 4:00 |
 | 24 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
-| 25 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
-| 26 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
+| 25 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
+| 26 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
 | 27 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 28 | [Charming Mess](https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Charming Mess](https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W) | 3:33 |
 | 29 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
 | 50 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 
-Snapshot ID: `MCxlZTYxMTg3MzBiMzQ0ODU0NjIyZWRmNWViNjc1MWJkMjgzYmYwNjkx`
+Snapshot ID: `MCwwZThlMjQzY2RiYzIxZDk1Mjg0YzBkNTU4ODhjMjMyMTQ1NzllOWQw`

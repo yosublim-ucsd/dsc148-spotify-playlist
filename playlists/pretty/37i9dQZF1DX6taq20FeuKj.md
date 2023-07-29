@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073,851 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,182 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 |
 | 100 | [Love Scars](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/7ae73nWyKrrH9wwGm97RIA) | 2:23 |
 
-Snapshot ID: `MCxiYTNlMmFmODk1MjA3MzU4MDk3MjJmYWU5OWRkYjNmMmM0ZGI0ZTU4`
+Snapshot ID: `MCwzODE4NGY2NGY5OGU1ZDMyNWUxMmY2NmQwZmQ3OGVkYWQzZWM2NGJl`

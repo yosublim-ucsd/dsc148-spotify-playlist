@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "The Magic of Moonlight",
+        "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399558,
+      "name": "The Magic of Moonlight",
+      "url": "https://open.spotify.com/track/02rwBh0v51bUfzaKRJnSqH"
+    },
+    {
+      "album": {
         "name": "The Seed",
         "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
       },

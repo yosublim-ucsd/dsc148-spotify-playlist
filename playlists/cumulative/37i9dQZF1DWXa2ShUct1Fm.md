@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-175 songs - 9 hr 51 min
+177 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2022-05-27 |  |
 | [OMG](https://open.spotify.com/track/1DyOe08LQyJhsLDcSXiNxO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:03 | 2022-05-27 |  |
 | [Our dawn is hotter than day](https://open.spotify.com/track/4YY4hc7Lr7y5QsTdmkm31r) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:32 | 2022-05-27 |  |
+| [Our Vacation](https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [Jee Seok Jin](https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO), [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46), [조세호](https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6), [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/1m6CwgW2I5I5M6v7dHqe4t) | [Bro & Marble OST Part.1](https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ) | 3:06 | 2023-07-28 |  |
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2022-05-27 |  |
 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 | 2022-05-27 |  |
 | [Power of Love](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Power of Love](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2022-05-27 |  |
@@ -151,6 +152,7 @@
 | [Second Life](https://open.spotify.com/track/6RJxJpOaCZ4DamSgJaMoJ8) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:22 | 2022-07-21 |  |
 | [Shadow](https://open.spotify.com/track/2rwJP8OEao5y3xexw52HfD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:32 | 2022-05-27 |  |
 | [Shhh](https://open.spotify.com/track/3XI0t7rD8t7alUaC9bxKsb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:06 | 2022-05-27 |  |
+| [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/1m6CwgW2I5I5M6v7dHqe4t) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 | 2023-07-28 |  |
 | [Shining Diamond](https://open.spotify.com/track/4BHThgh4ODCszIJ6e4YGGw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 | 2022-05-27 |  |
 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 | 2022-05-27 |  |
 | [Side By Side \(Korean Version\)](https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Side By Side](https://open.spotify.com/album/2icreg0F2hBSb6JGpTeOYA) | 2:59 | 2022-05-27 |  |

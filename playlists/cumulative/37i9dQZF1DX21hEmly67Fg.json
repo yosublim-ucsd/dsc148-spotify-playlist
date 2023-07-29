@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "As It Was (arr. string quartet)",
+        "url": "https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Strings",
+          "url": "https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq"
+        },
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231586,
+      "name": "As It Was (arr. string quartet)",
+      "url": "https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f"
+    },
+    {
+      "album": {
         "name": "Baby One More Time",
         "url": "https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv"
       },

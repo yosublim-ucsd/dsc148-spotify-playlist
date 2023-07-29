@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Legallyrxx en portada.
 
-266 songs - 14 hr 6 min
+267 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 | 2021-12-13 |  |
 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-05-05 |  |
 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 | 2021-12-13 |  |
-| [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 | 2022-02-18 |  |
+| [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 | 2022-02-18 | 2023-07-29 |
 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 | 2022-01-28 |  |
 | [A Tu Lado](https://open.spotify.com/track/4FjobZuLYrJvFpeXcn2Ual) | [Manolo Maya](https://open.spotify.com/artist/3iJ4XxthgoaFRFAv44Ed8X) | [A Tu Lado](https://open.spotify.com/album/2gKzIPfmF0tJegCSB1glgY) | 3:11 | 2021-12-13 | 2022-03-27 |
 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 | 2023-03-03 | 2023-06-17 |
@@ -233,6 +233,7 @@
 | [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-12-13 | 2022-09-24 |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/7jiVLuYG7RgzsINDzthEWM) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 2:47 | 2022-05-12 | 2023-01-27 |
 | [Suave](https://open.spotify.com/track/17N1MnXZFLsv1tlGBNxFuW) | [Primoroso](https://open.spotify.com/artist/5n4Xu444iA1jWNbKnD545N), [Def Rabbit](https://open.spotify.com/artist/0z78KTlQp3IHGdAp9XqdIz) | [Suave](https://open.spotify.com/album/7yoJNr3DxenGB2TKDfS8Ai) | 3:19 | 2021-12-13 | 2023-01-27 |
+| [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2023-07-28 |  |
 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-13 |  |
 | [Síntomas](https://open.spotify.com/track/4VdiCHT8lIxfErBgROWxF5) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Síntomas](https://open.spotify.com/album/5qmKYsWyOQDKTH2ry0zpI1) | 3:00 | 2023-06-02 | 2023-06-10 |
 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2021-12-13 | 2022-11-25 |

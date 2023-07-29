@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 284957,
+  "num_followers": 285207,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2NhYjVhNGRkMzg0NjkxNGJjNjgwOGFkMjlmOGNkZTJjOWZkYmEx",
+  "snapshot_id": "MCxlZGMzMDBjMmQ1OGM2MjIzNTZkMDZlODhmMmIxNzNhNDQyMTgzZWMx",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -539,18 +539,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Infinite Skies",
-        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
       "artists": [
         {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
         }
       ],
-      "duration_ms": 157988,
-      "name": "Cupcake Break",
-      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
+      "duration_ms": 128399,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -575,22 +579,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+        "name": "Infinite Skies",
+        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
       },
       "artists": [
         {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
         }
       ],
-      "duration_ms": 128399,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
+      "duration_ms": 157988,
+      "name": "Cupcake Break",
+      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Polygon Beach",
-        "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
-      },
-      "artists": [
-        {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Polygon Beach",
-      "url": "https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pink Dance EP",
         "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 153600,
       "name": "Crazy Nights",
       "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Polygon Beach",
+        "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Polygon Beach",
+      "url": "https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1047,54 +1047,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "R&B",
-        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
-      },
-      "artists": [
-        {
-          "name": "BarbWalters",
-          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "R&B",
-      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Back By Popular Demand",
         "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
@@ -1107,6 +1059,42 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "You Can't Run",
+        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "You Can't Run",
+      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
+      },
+      "artists": [
+        {
+          "name": "BarbWalters",
+          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1143,22 +1131,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "You Can't Run",
-        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 201142,
-      "name": "You Can't Run",
-      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Disco's Revenge",
         "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
@@ -1243,18 +1275,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
       },
       "artists": [
         {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1295,34 +1327,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Plastic",
-        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
       "artists": [
         {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1343,22 +1359,6 @@
       "duration_ms": 195979,
       "name": "Shimmer City",
       "url": "https://open.spotify.com/track/5uwFzyBfdwU6r1JlrGwCRi"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "My Gurl",
-        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
-      },
-      "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        }
-      ],
-      "duration_ms": 197948,
-      "name": "My Gurl",
-      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "NONPLUSULTRA, Vol. 3",
-        "url": "https://open.spotify.com/album/2jgkMcesIlajgbaVDfaA0H"
-      },
-      "artists": [
-        {
-          "name": "Android52",
-          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/2MyhQXOxGt8X0kKUzHV5dw"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Magall\u00e1nica Thunderlove",
         "url": "https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "My Gurl",
+        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        }
+      ],
+      "duration_ms": 197948,
+      "name": "My Gurl",
+      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "NONPLUSULTRA, Vol. 3",
+        "url": "https://open.spotify.com/album/2jgkMcesIlajgbaVDfaA0H"
+      },
+      "artists": [
+        {
+          "name": "Android52",
+          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/2MyhQXOxGt8X0kKUzHV5dw"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sua Noite",
-        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 142612,
-      "name": "Sua Noite",
-      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
       },
@@ -1547,8 +1531,24 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "MOTORWAY",
-        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+        "name": "Sua Noite",
+        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 142612,
+      "name": "Sua Noite",
+      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "PRESSURE PLAY!",
-        "url": "https://open.spotify.com/album/7emGsLmLXHdPMDY0qexcyf"
-      },
-      "artists": [
-        {
-          "name": "That's Matt",
-          "url": "https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo"
-        }
-      ],
-      "duration_ms": 211651,
-      "name": "PRESSURE PLAY!",
-      "url": "https://open.spotify.com/track/2mghQDtF5ilXk1yrESu8dD"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -1655,22 +1639,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Now That I Have You",
-        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
-      },
-      "artists": [
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Unlimited",
-      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -1683,22 +1651,6 @@
       "duration_ms": 173421,
       "name": "Palm Road",
       "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1723,6 +1675,54 @@
       "duration_ms": 250344,
       "name": "Monstruo Japon\u00e9s",
       "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Unlimited",
+      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "MOTORWAY",
+        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "DUCK GROOVE",
+        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
     }
   ],
   "unique_name": "Future Funk",

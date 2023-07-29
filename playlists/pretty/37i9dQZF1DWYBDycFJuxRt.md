@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LANA + Awich + JP THE WAVY \*👉 <a href="https://spice.eplus.jp/articles/320527?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,893 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,977 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [a Tourist](https://open.spotify.com/track/1Dfwt2bEahzCxwwisOQQzZ) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [a Tourist](https://open.spotify.com/album/2vFwXYHUzpHnJdohu7oB0v) | 3:48 |
 | 70 | [downstaires](https://open.spotify.com/track/5h2me2qx3Q8vRfUw0LlRVe) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [downstaires](https://open.spotify.com/album/0lZIYsSv528HVH9yxG61zR) | 4:19 |
 | 71 | [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 |
-| 72 | [SURF'S UP](https://open.spotify.com/track/7jIpZOpsPbGJ2HGJgaFksy) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [SURF'S UP](https://open.spotify.com/album/2hlpQtydkLGcojGw5yJibr) | 3:36 |
-| 73 | [Gi mi di riddim](https://open.spotify.com/track/29mDVPNPJZO5A66b5iXN21) | [RED SPIDER](https://open.spotify.com/artist/0NCbc1ytYVQlGAQh2jG4ET), [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [Japanese Magenese](https://open.spotify.com/artist/0YbxnfnDyzHtDBPOvIMqEq) | [Gi mi di riddim](https://open.spotify.com/album/12J9aGtrUTunKl2XDEOwAN) | 2:59 |
-| 74 | [Summer Breeze](https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [Summer Breeze](https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3) | 3:26 |
-| 75 | [Yasashiku Naritai \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/5Di7mAEctcwaj2HpoW4DAu) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/67rfBRMgQSY4ctr2PAtUJx) | 5:26 |
-| 76 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 |
-| 77 | [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 |
-| 78 | [Let's go!!](https://open.spotify.com/track/6kPxuVQ6l27Q4CuL1ABvne) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [A Day In The Life](https://open.spotify.com/album/2pY6XhlI4t1O6McOlKcpte) | 2:56 |
-| 79 | [ボクらの夏休み戦争](https://open.spotify.com/track/0xbD8MeCmUqSzHPGsOi2gw) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ボクらの夏休み戦争](https://open.spotify.com/album/6pM7HAMeTlwCgq9AVEwF28) | 3:28 |
-| 80 | [DURARA](https://open.spotify.com/track/0HxnxaGAtHmGs2W9FNJHtB) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1ahHr0x8oLKdtnSNq2gXnZ) | 3:13 |
+| 72 | [Into The Light](https://open.spotify.com/track/5TPDWOzyKD6aiFAQttvnU5) | [SHINJIRO ATAE \(from AAA\)](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [Into The Light](https://open.spotify.com/album/0Q8akDFyF0I2GAKfEm7Aza) | 3:10 |
+| 73 | [SURF'S UP](https://open.spotify.com/track/7jIpZOpsPbGJ2HGJgaFksy) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [SURF'S UP](https://open.spotify.com/album/2hlpQtydkLGcojGw5yJibr) | 3:36 |
+| 74 | [Gi mi di riddim](https://open.spotify.com/track/29mDVPNPJZO5A66b5iXN21) | [RED SPIDER](https://open.spotify.com/artist/0NCbc1ytYVQlGAQh2jG4ET), [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [Japanese Magenese](https://open.spotify.com/artist/0YbxnfnDyzHtDBPOvIMqEq) | [Gi mi di riddim](https://open.spotify.com/album/12J9aGtrUTunKl2XDEOwAN) | 2:59 |
+| 75 | [Summer Breeze](https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [Summer Breeze](https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3) | 3:26 |
+| 76 | [Yasashiku Naritai \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/5Di7mAEctcwaj2HpoW4DAu) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/67rfBRMgQSY4ctr2PAtUJx) | 5:26 |
+| 77 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 |
+| 78 | [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 |
+| 79 | [Let's go!!](https://open.spotify.com/track/6kPxuVQ6l27Q4CuL1ABvne) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [A Day In The Life](https://open.spotify.com/album/2pY6XhlI4t1O6McOlKcpte) | 2:56 |
+| 80 | [ボクらの夏休み戦争](https://open.spotify.com/track/0xbD8MeCmUqSzHPGsOi2gw) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ボクらの夏休み戦争](https://open.spotify.com/album/6pM7HAMeTlwCgq9AVEwF28) | 3:28 |
+| 81 | [DURARA](https://open.spotify.com/track/5sjMYTyQnrDixy5R19SYjN) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1jGRkHKkoYkHjxt3cBWD9C) | 3:13 |
 
-Snapshot ID: `MCwwOTkwMDE1NzZlNzY0ZmVmMGY1Y2EwNTQzYWJiNmQ3MzBiMzUzMzZh`
+Snapshot ID: `MCxlOTQwNWRjOGNmYzBjYzVlYzJmNjM0OWQ4ZmJlYTYzMjMyNWIzNDIw`

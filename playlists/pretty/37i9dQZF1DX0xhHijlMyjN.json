@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 352851,
+  "num_followers": 352978,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTFmNDE2YTYwYWNlZjI0NDhhY2QyNjNlNDY0YTcxODhjNmVhMzRm",
+  "snapshot_id": "MCxkOWQwNWFhZTMzZmUzMmI4NWQ0M2VlOTQyNzJhOWFkMGExZTIxMDEx",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1099,6 +1099,34 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
       },
@@ -1127,34 +1155,6 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Lady Marmalade",
-        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Lady Marmalade - Single Edit",
-      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 193920,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Ave Mar\u00eda",
-      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Ave Mar\u00eda",
+      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "Mal De Amores",
-      "url": "https://open.spotify.com/track/2SDFbkrxwLfKg5u7fGCXmh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Mal De Amores",
+      "url": "https://open.spotify.com/track/2SDFbkrxwLfKg5u7fGCXmh"
     },
     {
       "added_at": "2023-06-09 09:38:51",

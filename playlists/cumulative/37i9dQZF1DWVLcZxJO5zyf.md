@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Papatinho
 
-216 songs - 10 hr 3 min
+218 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Funcionária do Mês](https://open.spotify.com/track/7Jr6xISYcYlDMA3IaogzE4) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funcionária do Mês](https://open.spotify.com/album/3spB25PZFR2g6FRa1md26w) | 2:50 | 2022-01-14 | 2022-01-30 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 |  |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-03 |  |
+| [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 | 2022-01-14 | 2023-02-04 |
 | [Garota Infernal](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Garota Infernal](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 | 2022-01-29 | 2022-03-12 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-13 | 2023-02-11 |
@@ -149,6 +150,7 @@
 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 | 2022-09-23 | 2022-10-04 |
 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 | 2022-01-14 | 2022-11-12 |
 | [Peladão](https://open.spotify.com/track/3caNKH8iIGI7ngHwvIm8ee) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Peladão](https://open.spotify.com/album/4dr9NN7voj2HlMym9MNbif) | 2:29 | 2022-01-14 | 2022-02-19 |
+| [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 | 2023-07-28 |  |
 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 | 2022-01-14 | 2022-06-04 |
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-03-13 |  |
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-19 |  |

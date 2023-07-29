@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,403 songs - 3 day 2 hr 28 min
+1,405 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Aluminium](https://open.spotify.com/track/4h1XaZGJm0skvKAzjc8CtJ) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:54 | 2021-03-27\* | 2021-04-04 |
 | [AMARU](https://open.spotify.com/track/5ymYY65E7II6wmpDlE8162) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Sea Dweller](https://open.spotify.com/album/2SHIDLpCnMQZSoD56EV6Ec) | 2:34 | 2022-05-26 | 2022-05-28 |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2022-11-19 | 2023-03-19 |
-| [AMBER](https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:02 | 2023-06-28 |  |
+| [AMBER](https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:02 | 2023-06-28 | 2023-07-29 |
 | [AMBER](https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:02 | 2023-03-18 | 2023-06-29 |
 | [Ambiance vandale](https://open.spotify.com/track/1znTNvYRyf4K7EnSoDSoIV) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/0FZwklnVBdxhcCQLhIgPU2) | 2:50 | 2023-02-25 | 2023-02-27 |
 | [AMF \- Nouvelle École](https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [AMF \- Nouvelle École](https://open.spotify.com/album/5vYdXyKqXVIRKUilj5Lr0h) | 2:59 | 2023-06-02 | 2023-06-09 |
@@ -272,7 +272,8 @@
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-05 | 2022-11-20 |
 | [Château noir](https://open.spotify.com/track/5L09CdaER796cCJOhik0D8) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [2.7.0 : Château Noir](https://open.spotify.com/album/3EDTWgtPkgHRlTMcLX4cUY) | 3:29 | 2021-03-27 | 2021-03-29 |
 | [Château noir](https://open.spotify.com/track/7CAZp2oaUNJ47vtAZDfKn6) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Château Noir](https://open.spotify.com/album/1L0CWMCgCAqe4IUNgVDCk6) | 3:29 | 2021-03-27\* | 2021-03-27 |
-| [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-11 |  |
+| [Ciao](https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:36 | 2023-07-28 |  |
+| [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-11 | 2023-07-29 |
 | [Civilisation](https://open.spotify.com/track/12C6Cy0B1fH7k5Ex0DreRS) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:05 | 2021-11-21 | 2021-12-05 |
 | [Clap Your Hands](https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:09 | 2022-04-03 | 2023-01-03 |
 | [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2022-02-08 | 2023-01-03 |
@@ -716,7 +717,8 @@
 | [La vie d’après](https://open.spotify.com/track/0VVUKYAmACrTR3vYwc9tqz) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 6:48 | 2022-06-25 | 2022-06-27 |
 | [La vie qu'on mène](https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:13 | 2021-10-16 |  |
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
-| [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 |  |
+| [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-28 |  |
+| [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 | 2023-07-29 |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Lakehouse](https://open.spotify.com/track/0nVagMzAdPhIRCyogx0IkG) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 2:36 | 2023-01-28 | 2023-01-30 |
 | [Lampadaire, Pt\. 2](https://open.spotify.com/track/2cPgZizcWA8NkBTnXv68gL) | [Osirus Jack](https://open.spotify.com/artist/3p6dh3Zn4fVXJatMy3Xqzq), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Nouvelle Ère](https://open.spotify.com/album/3oQyml9risLFydUdMy9Ixf) | 3:26 | 2022-02-23 | 2022-02-25 |
@@ -1262,7 +1264,7 @@
 | [Terrible](https://open.spotify.com/track/3M7qiBXcogT8WTZnVOm3aC) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:34 | 2021-09-12 | 2021-09-13 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2022-12-28 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-05-08 |
-| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-04-30 | 2023-07-25 |
+| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-04-30 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-04-05 | 2021-04-17 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-25 | 2022-12-28 |
 | [The Fool](https://open.spotify.com/track/4bArJbevzjgIfbPupg9GEl) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 3:27 | 2023-04-30 | 2023-06-28 |

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-392 songs - 23 hr 15 min
+393 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 | 2022-03-25 | 2022-04-19 |
 | [Meu Verão \(Versão K7\) \- Acústica](https://open.spotify.com/track/3nHKkYCczRfd7y5exRNulV) | [LoFábio](https://open.spotify.com/artist/5UfL2BN66Pa8Rxah2KbhXg) | [Meu Verão \(Versão K7\) \[Acústica\]](https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [Minha Viagem](https://open.spotify.com/track/3qiyRWp6A9GExfXXWKVsoM) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Minha Viagem](https://open.spotify.com/album/1tSaL5DtUZI4yRpbVm0fa3) | 2:47 | 2022-03-25 | 2022-04-12 |
-| [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 |  |
+| [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 | 2023-07-29 |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2021-12-24 |  |
 | [mistério](https://open.spotify.com/track/7iZ1uXYxz7QAxRRDTGmHE2) | [Junin](https://open.spotify.com/artist/4OjzycPL3gEqQjJYZu4Azn) | [músicas para a janela](https://open.spotify.com/album/7cc7t6pfgG3KT7A6ZDOnrf) | 3:12 | 2021-12-24 | 2022-04-21 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-25 |  |
@@ -368,6 +368,7 @@
 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 | 2021-12-24 |  |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2021-12-24 |  |
 | [Trilha](https://open.spotify.com/track/7dBZR6eVPvyTTar9ad9Olz) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Trilha](https://open.spotify.com/album/33x0LLXGTEcualElm8taE2) | 1:08 | 2022-02-18 | 2022-06-09 |
+| [Tua Voz](https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Tua Voz](https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2) | 3:25 | 2023-07-28 |  |
 | [Tão Distraídos](https://open.spotify.com/track/3te1vlFf5mYLXhOWdcadRJ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Tão Distraídos](https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh) | 2:35 | 2023-03-17 | 2023-04-16 |
 | [Um Fim](https://open.spotify.com/track/6NWstKFMrsQIsRX6Os7gxX) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Um Fim](https://open.spotify.com/album/1xBh6y6msgEGUeZMypL83N) | 3:18 | 2022-03-25 | 2022-06-01 |
 | [Um Novo Amor \- Acústica](https://open.spotify.com/track/1s0hTZv5DvzspinUEgZ6Xd) | [Gabriel Piccolo](https://open.spotify.com/artist/1nBuS4ihAezxamZfDFSOfz) | [Um Novo Amor](https://open.spotify.com/album/55s6HcXhR2bagsTzNGVWJQ) | 2:31 | 2022-01-21 | 2022-06-20 |

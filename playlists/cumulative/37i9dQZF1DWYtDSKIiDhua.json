@@ -6483,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "Say It Straight",
+        "url": "https://open.spotify.com/album/0azvZuQc8BTk8mh23Fo3mQ"
+      },
+      "artists": [
+        {
+          "name": "risy",
+          "url": "https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Say It Straight",
+      "url": "https://open.spotify.com/track/2v2GQaYfVnu6BmAjP5Vu3D"
+    },
+    {
+      "album": {
         "name": "Say Yea",
         "url": "https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS"
       },

@@ -2,9 +2,9 @@
 
 ### [Grade A](https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId)
 
-> The highest quality alternative blend ft\. Local Natives
+> The highest quality alternative blend ft\. Bethany Cosentino
 
-809 songs - 2 day 1 hr 27 min
+810 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,8 @@
 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 | 2022-08-26 | 2023-06-03 |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2021-12-10 | 2022-02-26 |
 | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 | 2022-01-07 | 2022-05-07 |
-| [It’s Fine](https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [It's Fine](https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA) | 3:46 | 2023-05-12 |  |
+| [It’s Fine](https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [It's Fine](https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA) | 3:46 | 2023-05-12 | 2023-07-29 |
+| [It’s Fine](https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h) | 3:46 | 2023-07-28 |  |
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-10-28 | 2023-01-28 |
 | [I’m On Your Side](https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:18 | 2022-06-24 | 2023-01-21 |
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 | 2022-04-02 |
@@ -503,7 +504,7 @@
 | [Nsera](https://open.spotify.com/track/5tAljWXMvPVEnEXq1brzLs) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Nsera](https://open.spotify.com/album/7nKicbwgUgTkE9LTw8wj1B) | 3:02 | 2022-11-18 | 2023-01-21 |
 | [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 | 2023-06-23 |  |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-06-02 |  |
-| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey \(Spotify Only\)](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-24 |  |
+| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-24 |  |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 | 2023-07-28 |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2023-01-13 | 2023-02-18 |
 | [Off My Mind \(feat\. K.Flay\)](https://open.spotify.com/track/6lnBjJKUCc7MtYwGcamvns) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Off My Mind \(feat\. K.Flay\)](https://open.spotify.com/album/3asZXme3Y5uxcAHoU7Wt5Q) | 3:33 | 2023-02-17 |  |

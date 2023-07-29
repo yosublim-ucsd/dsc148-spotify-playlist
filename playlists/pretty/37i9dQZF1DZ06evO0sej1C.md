@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,872 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,892 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 30 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
 | 31 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 | 32 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
-| 33 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
-| 34 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
+| 33 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
+| 34 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 35 | [Tequila y Miel](https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB) | 3:31 |
 | 36 | [Otra Oportunidad](https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc) | 3:51 |
 | 37 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 45 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 46 | [Dinero](https://open.spotify.com/track/1LPYZDxFTebhvqwX2gTu0j) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dinero](https://open.spotify.com/album/7oo7MqceHqBozYOfjWPx3r) | 2:31 |
 | 47 | [No Lo Intentes](https://open.spotify.com/track/2xaGi87tVkAXPBpT0qRl7L) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Lo Intentes](https://open.spotify.com/album/50tdaxXkU51BG1BYonYHZx) | 3:16 |
-| 48 | [Ladrón](https://open.spotify.com/track/275p97u74jV8pl7yODx3z0) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ladrón](https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr) | 3:33 |
-| 49 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
+| 48 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
+| 49 | [Ladrón](https://open.spotify.com/track/275p97u74jV8pl7yODx3z0) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ladrón](https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr) | 3:33 |
 | 50 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 |
 | 51 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDA0ZTA1YWFlNGFlYmZlYWRmMzljZmVjODM2N2JiMmFmZg==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDA1MGYwYjI5YmEyM2M0ZGUzMmIwNzAyYjFlZDdhNDIxNQ==`

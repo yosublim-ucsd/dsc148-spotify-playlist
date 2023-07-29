@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,487 likes - 128 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,538 likes - 128 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 3 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 4 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 |
 | 5 | [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 |
-| 6 | [The Witch From Mercury](https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam The Witch From Mercury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy) | 5:00 |
+| 6 | [The Witch From Mercury](https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack \(Incomplete Edition\)](https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3) | 4:59 |
 | 7 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 |
 | 8 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 |
 | 9 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 127 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 128 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCxjM2U1OTM1Y2E2NWMyZDRjZjM3Yjg1Njc2NDhlMjYzMTRmMzZhN2I4`
+Snapshot ID: `MCw3NzM3ZGRlZDUyOWM2ZWIwMWFmYzc2MmY5ODkzYjgyMDllZjk2MWM1`

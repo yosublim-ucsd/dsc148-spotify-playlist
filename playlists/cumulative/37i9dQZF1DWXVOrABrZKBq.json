@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Loud, Ya Cetidon",
+  "description": "Le rap francophone est en forme. Photo: SDM",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 219053,
       "name": "1942",
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
     },
     {
       "album": {
@@ -264,7 +282,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 227547,
       "name": "CC",
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190213,
       "name": "Peur (feat. Ziak)",
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
@@ -1288,6 +1306,24 @@
       "duration_ms": 210296,
       "name": "Pont Champlain",
       "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
+    },
+    {
+      "album": {
+        "name": "Quali",
+        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181649,
+      "name": "Quali",
+      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
     },
     {
       "album": {
@@ -1478,6 +1514,24 @@
       "duration_ms": 167747,
       "name": "SHADOW BOXING",
       "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
+    },
+    {
+      "album": {
+        "name": "Shavkat",
+        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219865,
+      "name": "Shavkat",
+      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
     },
     {
       "album": {

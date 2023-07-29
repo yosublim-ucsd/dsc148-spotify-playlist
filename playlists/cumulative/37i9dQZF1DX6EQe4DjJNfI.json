@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Flavia K",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: YO\u00daN",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
@@ -564,6 +564,24 @@
       "duration_ms": 181084,
       "name": "Codinome",
       "url": "https://open.spotify.com/track/1g4M2OibGjdEsOcu37k14q"
+    },
+    {
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "album": {
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194750,
       "name": "intui\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
@@ -1122,6 +1140,28 @@
       "duration_ms": 170344,
       "name": "Jura pra Mim",
       "url": "https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a"
+    },
+    {
+      "album": {
+        "name": "LAMPEJOS",
+        "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150848,
+      "name": "LAMPEJOS",
+      "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
     },
     {
       "album": {
@@ -1177,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "Liga\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3X4pfBeCpDeMG9vbsAm95e"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Martinz Beats",
+          "url": "https://open.spotify.com/artist/5sssltzFBd0eau0PWim6nc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200210,
+      "name": "Liga\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/4YU8fEqLYvGSnLv2lFVkjF"
+    },
+    {
+      "album": {
         "name": "LIN9ERIE",
         "url": "https://open.spotify.com/album/1kdJQ3yi1SOy33FxWcObAx"
       },
@@ -1192,6 +1254,24 @@
       "duration_ms": 183531,
       "name": "LIN9ERIE",
       "url": "https://open.spotify.com/track/31pFOOZmHH4eLlYFXmlkeN"
+    },
+    {
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "album": {
@@ -1328,7 +1408,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226206,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
@@ -2232,7 +2312,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 230000,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT"

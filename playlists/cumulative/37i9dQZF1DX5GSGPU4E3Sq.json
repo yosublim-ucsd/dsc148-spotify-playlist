@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 81106,
       "name": "Bittern",
       "url": "https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 106666,
       "name": "Deep Forest",
       "url": "https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA"
@@ -2318,6 +2318,24 @@
       "duration_ms": 198750,
       "name": "In the Landscapes of Baertling",
       "url": "https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0"
+    },
+    {
+      "album": {
+        "name": "Complex",
+        "url": "https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16"
+      },
+      "artists": [
+        {
+          "name": "Awake or Asleep",
+          "url": "https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193598,
+      "name": "In the Soul",
+      "url": "https://open.spotify.com/track/2vab5dX4whtnE2W3s6MBMc"
     },
     {
       "album": {
@@ -3801,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185214,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
+    },
+    {
+      "album": {
         "name": "Paradiso (Meditation Mix)",
         "url": "https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH"
       },
@@ -4404,7 +4440,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 300714,
       "name": "Summer Leaves",
       "url": "https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV"
@@ -4908,7 +4944,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 67500,
       "name": "Tronco",
       "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"

@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Back On 74",
+        "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
+    },
+    {
+      "album": {
         "name": "La Velocidad de la Luz",
         "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
       },
@@ -480,6 +498,28 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "album": {
+        "name": "Besos y Pendientes",
+        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
     },
     {
       "album": {
@@ -620,7 +660,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 217012,
       "name": "Bomba At\u00f3mica",
       "url": "https://open.spotify.com/track/6vIh65IeTJEHoVvqLDzHqN"
@@ -757,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "album": {
         "name": "BULER\u00cdAS DE UN CABALLO MALO",
         "url": "https://open.spotify.com/album/5DUyjwN4pKfSZz0ASVqrRi"
       },
@@ -826,7 +884,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
@@ -1054,7 +1112,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
@@ -1142,6 +1200,24 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "album": {
@@ -1444,7 +1520,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246000,
       "name": "Dying Breed",
       "url": "https://open.spotify.com/track/0SieiDcGvj8cZ0K4hcT3Zd"
@@ -1502,7 +1578,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 236569,
       "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara)",
       "url": "https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm"
@@ -1592,7 +1668,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 232283,
       "name": "EL FINAL",
       "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
@@ -2329,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -2384,6 +2482,24 @@
       "duration_ms": 162906,
       "name": "HENTAI",
       "url": "https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh"
+    },
+    {
+      "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
     },
     {
       "album": {
@@ -3644,7 +3760,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178026,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
@@ -4338,7 +4454,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
@@ -4729,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
         "name": "Safe And Sound",
         "url": "https://open.spotify.com/album/5iXfZywYLQWeUjoLr3Oy5J"
       },
@@ -4816,6 +4950,28 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {
@@ -5082,7 +5238,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 318000,
       "name": "SKR",
       "url": "https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img"
@@ -5172,7 +5328,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 288554,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
@@ -5493,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Darren (Deluxe)",
+        "url": "https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/1ibp23MBmCfg2Fs6eIfOgK"
+    },
+    {
+      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -5504,7 +5678,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
@@ -5702,7 +5876,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa"
@@ -5871,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "album": {
         "name": "Todos Enloquecen",
         "url": "https://open.spotify.com/album/5Rv7rLBhta3fpbm9JNn7Q5"
       },
@@ -5922,7 +6114,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
@@ -6289,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
         "name": "Es Mentira",
         "url": "https://open.spotify.com/album/4gSJO6NAABBQT1IjcXnofg"
       },
@@ -6510,6 +6720,42 @@
       "duration_ms": 248133,
       "name": "V\u00eda L\u00e1ctea",
       "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+    },
+    {
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {

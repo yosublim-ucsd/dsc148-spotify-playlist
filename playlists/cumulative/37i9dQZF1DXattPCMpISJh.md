@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-215 songs - 13 hr 36 min
+216 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |
 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 | 2023-04-07 |  |
+| [Fly Away](https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77) | [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH), [Kabrio](https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy) | [Fly Away](https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o) | 3:03 | 2023-07-28 |  |
 | [Forever](https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Forever](https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt) | 3:42 | 2022-06-24 | 2022-10-01 |
 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-04-28 |  |
 | [Free](https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Sledgendary](https://open.spotify.com/artist/5NoEz2x1F5WsQ225GJtvBJ) | [Free](https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ) | 3:50 | 2022-02-18 | 2023-02-11 |
@@ -140,7 +141,7 @@
 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-12 |  |
 | [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 |  |
 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-12 |  |
-| [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 |  |
+| [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 | 2023-07-29 |
 | [Mystery of Love \- Le Flex "Summer Mystery" Remix](https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Mystery of Love \(Le Flex "Summer Mystery" Remix\)](https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w) | 4:13 | 2022-08-19 |  |
 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 | 2023-03-10 | 2023-07-08 |
 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 | 2022-11-18 | 2023-04-01 |

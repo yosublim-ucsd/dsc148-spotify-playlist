@@ -2,7 +2,7 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
+> The home of Latin R&B\. La casa del R&B Latino\. Cover: Maikel Delacalle
 
 319 songs - 16 hr 49 min
 

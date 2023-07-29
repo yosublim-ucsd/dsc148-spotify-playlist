@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Chike
 
-412 songs - 20 hr 45 min
+413 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-06-07 |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-10-14 |  |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-05-05 |
+| [Feran Mi](https://open.spotify.com/track/05iqnP8vkEYkrJLQPRMkyt) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 3:16 | 2023-07-28 |  |
 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 | 2023-05-19 |  |
 | [Figure It Out](https://open.spotify.com/track/4vHIN4313pVSEf7D2ylO3C) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Figure It Out](https://open.spotify.com/album/3ViUMVEFujLAufASaNcuDM) | 2:33 | 2021-10-14 | 2022-01-29 |
 | [Figurine \- A COLORS SHOW](https://open.spotify.com/track/1KI9l7LmnXGvIyry0vqNnk) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Figurine \- A COLORS SHOW](https://open.spotify.com/album/4sZuXwDg2vdiRdoKf2y2BI) | 3:39 | 2021-10-14 | 2022-01-17 |
@@ -252,7 +253,7 @@
 | [Never Let A Man Down](https://open.spotify.com/track/4E5kG2CpwJsW9iAIdSZEaY) | [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn), [Elisa M.](https://open.spotify.com/artist/5jKK9Tj16bdt1NnorZ9Lbs) | [Never Let A Man Down](https://open.spotify.com/album/1gKcDUITpQHePNvCqX7SXR) | 3:07 | 2022-03-31 | 2022-09-10 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2021-11-25 | 2022-02-10 |
 | [Never Strong](https://open.spotify.com/track/0LCz6RWJVHZistEi1JQ3S1) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [19](https://open.spotify.com/album/7Dp8pXGvjCbBIfzwhoo8sE) | 3:39 | 2023-01-12 | 2023-02-04 |
-| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-07-20 |  |
+| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-07-20 | 2023-07-29 |
 | [No Doubt](https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [No Doubt](https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD) | 2:09 | 2023-03-25 | 2023-03-31 |
 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 | 2022-11-25 | 2022-12-19 |
 | [No Stress](https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R) | [BemiSoul](https://open.spotify.com/artist/3plhRccR9ys3hl9ctCPRn8) | [No Stress](https://open.spotify.com/album/7BxNfBhoI2rlXYJeoAjlyx) | 3:06 | 2022-02-10 | 2022-02-17 |
@@ -297,7 +298,7 @@
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-11 | 2022-03-25 |
 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 | 2023-04-27 |  |
 | [Pure Addiction](https://open.spotify.com/track/5oZcubd8fQ1hL0z9aZ2mXz) | [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Pure Addiction](https://open.spotify.com/album/5nwzBIrwY5wftCq6jLKr6j) | 3:15 | 2022-04-07 | 2022-04-21 |
-| [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 | 2023-07-28 |
+| [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 |  |
 | [Real Love](https://open.spotify.com/track/1cM0KjvbAjvSOZakmOK2NA) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Real Love](https://open.spotify.com/album/12flURqPmncSp4H3RgI71k) | 2:52 | 2022-09-16 | 2022-10-29 |
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-20 | 2023-05-01 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-16 |  |
@@ -409,7 +410,7 @@
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-19 | 2022-07-29 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 |  |
 | [Woman](https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Woman](https://open.spotify.com/album/6bqDVBfkBUuMy56zc91rR6) | 2:48 | 2021-10-14 | 2022-02-24 |
-| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 |  |
+| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2023-07-29 |
 | [WYD](https://open.spotify.com/track/13ulmsrmNsMMuqX61yJIU5) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [WYD](https://open.spotify.com/album/50u9TSex0yCf6OEcysr9eN) | 2:55 | 2022-04-21 | 2022-07-29 |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-14 | 2022-07-25 |
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-02-24 |

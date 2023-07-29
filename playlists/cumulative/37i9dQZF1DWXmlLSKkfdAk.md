@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-307 songs - 18 hr 38 min
+309 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2021-11-12 |  |
 | [Landslide](https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6) | [Why Worry: A Collection of Covers](https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT) | 4:05 | 2021-11-12 |  |
 | [Lean On Me](https://open.spotify.com/track/45ieple0970GUnklIqCWd1) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lean On Me](https://open.spotify.com/album/7zRNYMbwHtHuuPiqd9kSep) | 3:53 | 2021-11-12 |  |
-| [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2021-11-12 |  |
+| [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2021-11-12 | 2023-07-29 |
+| [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 | 2023-04-21 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2021-11-12 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-27 |  |
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2021-11-12 |  |
@@ -243,7 +244,8 @@
 | [Soak Up The Sun \- Unplugged](https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & the Lion \(Unplugged\)](https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS) | 4:11 | 2021-11-12 | 2022-10-16 |
 | [Someday](https://open.spotify.com/track/5YeuTTxiFbYSyFGorYKeBx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Someday](https://open.spotify.com/album/4J7pEYLGLaAGwD3xflvOeJ) | 2:39 | 2021-11-12 | 2022-05-28 |
 | [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-05-27 |  |
-| [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2021-11-12 |  |
+| [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2021-11-12 | 2023-07-29 |
+| [Sorry](https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U) | 2:45 | 2023-04-21 |  |
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 | 2022-07-27 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-07-27 |  |

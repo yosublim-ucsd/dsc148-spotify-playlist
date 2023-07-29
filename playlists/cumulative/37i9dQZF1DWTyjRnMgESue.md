@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-403 songs - 23 hr 0 min
+404 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/1sFNKEPNYHzkTO63cQgGdv) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Hush Little Baby](https://open.spotify.com/album/1NGIXygorffIaEpPpFwpgm) | 3:19 | 2022-02-21 | 2022-04-17 |
 | [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2022-07-15 | 2023-02-08 |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-11-19 | 2022-07-29 |
-| [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-19 |  |
+| [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-19 | 2023-07-29 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-22 | 2022-09-15 |
 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 | 2022-08-12 |  |
 | [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 | 2022-08-12 | 2022-11-03 |
@@ -290,6 +290,7 @@
 | [pity season](https://open.spotify.com/track/2YGoL1hWHLGtfyij4zr0hC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [pity season](https://open.spotify.com/album/7KfrW29jCkBjl766QImlg8) | 2:47 | 2022-07-08 | 2023-01-14 |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-11-19 | 2022-07-09 |
 | [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-13 | 2022-07-29 |
+| [Prime Years](https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [The Summer I Lost My Lover](https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK) | 2:43 | 2023-07-21 |  |
 | [Provider](https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [View from the Bridge](https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC) | 3:05 | 2022-01-21 | 2022-04-19 |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2021-11-19 | 2022-02-22 |
 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-05-13 |  |

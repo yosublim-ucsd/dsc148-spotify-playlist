@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 423516,
+  "num_followers": 423704,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTRjMTkyYzk2YjYyNmQyMDI1MzZmNzQ3ZTgyNmRiY2ZiYTUxMmY4",
+  "snapshot_id": "MCw0MGQxYWM5OTFkM2M3ZThmN2RlYWUxZjJjNDU0Njc5MGQ2OWYyYWI2",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -1163,34 +1191,6 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Travesuras",
+        "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195369,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 189440,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Travesuras",
-        "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195369,
-      "name": "Travesuras",
-      "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 230520,
+      "name": "Krippy Kush",
+      "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -1671,30 +1695,6 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 230520,
-      "name": "Krippy Kush",
-      "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1771,6 +1771,22 @@
       "duration_ms": 187461,
       "name": "Bumbum granada",
       "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Obsesionado",
+      "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1883,22 +1899,6 @@
       "duration_ms": 161600,
       "name": "Vamos pra Gaiola",
       "url": "https://open.spotify.com/track/7FiIQXpIeLo3ITfGGpb8PB"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Obsesionado",
-      "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
     },
     {
       "added_at": "2022-08-05 16:22:41",

@@ -1,12 +1,12 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 1017,
+  "num_followers": 1023,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTQzOSwyZmQwMDA4MTU3NGI1MThiNzY4NDdmYTdhY2YyZWM1ZjkyMzk2NjYz",
+  "snapshot_id": "MTQ4NywyOTRhOGYxNmE4M2MzNDIwZWQ4NWI4YWFkNmY5YTM2MWM3MTkzZjg3",
   "tracks": [
     {
       "added_at": "2023-07-06 22:53:39",
@@ -25,10 +25,26 @@
       "url": "https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q"
     },
     {
-      "added_at": "2023-06-24 10:03:47",
+      "added_at": "2023-07-28 22:31:04",
       "album": {
-        "name": "Burn It Up",
-        "url": "https://open.spotify.com/album/4vGzoIttQqqylcJINdjrxj"
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/1xJFAfVPUNLw1LoRZKKjfT"
+      },
+      "artists": [
+        {
+          "name": "Latour",
+          "url": "https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "This Side",
+      "url": "https://open.spotify.com/track/5lWiuYDeBMaI04EtkCZFIy"
+    },
+    {
+      "added_at": "2023-07-28 22:32:57",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4dGWJQRYyJuu7ScBIMvj7B"
       },
       "artists": [
         {
@@ -36,85 +52,53 @@
           "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
         },
         {
-          "name": "Agustina Aliaga",
-          "url": "https://open.spotify.com/artist/79V45UnKkn86CxN6jfi6Lk"
+          "name": "Mart.in",
+          "url": "https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg"
         }
       ],
-      "duration_ms": 204084,
-      "name": "Burn It Up",
-      "url": "https://open.spotify.com/track/6LxlE4D5JrTq75ctsEctMn"
+      "duration_ms": 232722,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1AtwatgWEt1TUdtXsKkFrG"
     },
     {
-      "added_at": "2023-06-24 10:45:24",
+      "added_at": "2023-07-28 22:47:39",
       "album": {
-        "name": "Switch (Alex Stein Remix)",
-        "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
+        "name": "Robotic Arms",
+        "url": "https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR"
       },
       "artists": [
         {
-          "name": "Beckers",
-          "url": "https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Robotic Arms",
+      "url": "https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H"
+    },
+    {
+      "added_at": "2023-07-28 22:39:30",
+      "album": {
+        "name": "Like An Old Dog (Enrico Sangiuliano Remix)",
+        "url": "https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         },
         {
-          "name": "Alex Stein",
-          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
-        }
-      ],
-      "duration_ms": 191363,
-      "name": "Switch - Alex Stein Remix",
-      "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
-    },
-    {
-      "added_at": "2023-06-22 22:50:25",
-      "album": {
-        "name": "Black Triangles (Metodi Hristov Remix)",
-        "url": "https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP"
-      },
-      "artists": [
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+          "name": "Pixx",
+          "url": "https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo"
         },
         {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 344038,
-      "name": "Black Triangles (Metodi Hristov Remix)",
-      "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
-    },
-    {
-      "added_at": "2023-06-24 10:44:00",
-      "album": {
-        "name": "I Want to See",
-        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
-      },
-      "artists": [
-        {
-          "name": "Drunken Kong",
-          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
-        }
-      ],
-      "duration_ms": 241832,
-      "name": "It's Then",
-      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
-    },
-    {
-      "added_at": "2023-06-24 10:42:31",
-      "album": {
-        "name": "L`amore",
-        "url": "https://open.spotify.com/album/4uQ5cpHnL9qcmFJUCUFh3c"
-      },
-      "artists": [
-        {
-          "name": "Luca Gio",
-          "url": "https://open.spotify.com/artist/6Ut850lwOhXnA0pXXG8cAE"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "L`amore",
-      "url": "https://open.spotify.com/track/3ZqcOlShrrpaYFkot3CljS"
+      "duration_ms": 483692,
+      "name": "Like An Old Dog - Enrico Sangiuliano Remix",
+      "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -137,20 +121,64 @@
       "url": "https://open.spotify.com/track/4abyzqyrIihNlS7H81VW3R"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-24 10:03:47",
       "album": {
-        "name": "Asteroid Dream",
-        "url": "https://open.spotify.com/album/2LgRGLta14DnDgodx33lnA"
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/4vGzoIttQqqylcJINdjrxj"
       },
       "artists": [
         {
           "name": "Lautaro Iba\u00f1ez",
           "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+        },
+        {
+          "name": "Agustina Aliaga",
+          "url": "https://open.spotify.com/artist/79V45UnKkn86CxN6jfi6Lk"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Asteroid Dream",
-      "url": "https://open.spotify.com/track/2H7ARzx8OaU9lJmPqBxZEh"
+      "duration_ms": 204084,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/6LxlE4D5JrTq75ctsEctMn"
+    },
+    {
+      "added_at": "2023-07-28 22:32:43",
+      "album": {
+        "name": "CRESCENDO",
+        "url": "https://open.spotify.com/album/1LPhoR8nlHZ5EuDhwd7go0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 218020,
+      "name": "CRESCENDO",
+      "url": "https://open.spotify.com/track/3jVmXFC8HWaCGsXDvsD7Ic"
+    },
+    {
+      "added_at": "2023-07-28 22:42:12",
+      "album": {
+        "name": "Indication",
+        "url": "https://open.spotify.com/album/3c3ok2mhiuZtu2gljBUhqf"
+      },
+      "artists": [
+        {
+          "name": "Advokate",
+          "url": "https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+        }
+      ],
+      "duration_ms": 210225,
+      "name": "Indication",
+      "url": "https://open.spotify.com/track/1UdfUmrTPv4AuchfqzoRn5"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -173,24 +201,100 @@
       "url": "https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-07-28 22:41:26",
       "album": {
-        "name": "Binary Fusion",
-        "url": "https://open.spotify.com/album/5FgP0FVyAhVkU643BjjPWo"
+        "name": "Love & Peace",
+        "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
       },
       "artists": [
         {
-          "name": "Anna Tur",
-          "url": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         },
         {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+        },
+        {
+          "name": "3rd Dale Universe",
+          "url": "https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N"
         }
       ],
-      "duration_ms": 208692,
-      "name": "Binary Fusion",
-      "url": "https://open.spotify.com/track/58JQX9mgorweze1ZDm4SGL"
+      "duration_ms": 360025,
+      "name": "Love & Peace",
+      "url": "https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH"
+    },
+    {
+      "added_at": "2023-07-28 22:36:01",
+      "album": {
+        "name": "Work My Body",
+        "url": "https://open.spotify.com/album/3IPw5KWcHRlUPSzodpUeSq"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 309090,
+      "name": "Work My Body - Extended Mix",
+      "url": "https://open.spotify.com/track/6YL2MYF7U6Ac96BAgRCDZW"
+    },
+    {
+      "added_at": "2023-06-24 10:45:24",
+      "album": {
+        "name": "Switch (Alex Stein Remix)",
+        "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
+      },
+      "artists": [
+        {
+          "name": "Beckers",
+          "url": "https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 191363,
+      "name": "Switch - Alex Stein Remix",
+      "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
+    },
+    {
+      "added_at": "2023-07-28 22:36:32",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
+    },
+    {
+      "added_at": "2023-06-24 10:44:00",
+      "album": {
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "duration_ms": 241832,
+      "name": "It's Then",
+      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -209,28 +313,56 @@
       "url": "https://open.spotify.com/track/06TzfS2sYRaM2adMvJY37y"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-22 22:50:25",
       "album": {
-        "name": "PURA VIDA (Wehbba Remix)",
-        "url": "https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb"
+        "name": "Black Triangles (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
         },
         {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
         }
       ],
-      "duration_ms": 233468,
-      "name": "PURA VIDA - Wehbba Remix",
-      "url": "https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT"
+      "duration_ms": 344038,
+      "name": "Black Triangles (Metodi Hristov Remix)",
+      "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
+    },
+    {
+      "added_at": "2023-05-30 08:11:59",
+      "album": {
+        "name": "Asteroid Dream",
+        "url": "https://open.spotify.com/album/2LgRGLta14DnDgodx33lnA"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Asteroid Dream",
+      "url": "https://open.spotify.com/track/2H7ARzx8OaU9lJmPqBxZEh"
+    },
+    {
+      "added_at": "2023-07-28 22:38:28",
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/5mgmFyQQ7ASwPwgLnyEE6p"
+      },
+      "artists": [
+        {
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+        }
+      ],
+      "duration_ms": 376488,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/4SircgaOfDo7vYWXl40vy6"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -287,22 +419,26 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Outface (30 Yrs Jubilee Edition)",
-        "url": "https://open.spotify.com/album/3RQBzD4YJS8scE9rgPHLVH"
+        "name": "PURA VIDA (Wehbba Remix)",
+        "url": "https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb"
       },
       "artists": [
         {
-          "name": "Komakino",
-          "url": "https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Egbert",
-          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 366870,
-      "name": "Outface - Egbert Rework",
-      "url": "https://open.spotify.com/track/2LzgFHHOcrJ32Gy3qCzFxl"
+      "duration_ms": 233468,
+      "name": "PURA VIDA - Wehbba Remix",
+      "url": "https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -325,24 +461,20 @@
       "url": "https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-07-28 22:42:45",
       "album": {
-        "name": "Simulator",
-        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/4QZzhzqm0YJByFJfZrbZvf"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "MIRA MIRA",
+          "url": "https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC"
         }
       ],
-      "duration_ms": 220375,
-      "name": "Simulator",
-      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+      "duration_ms": 182853,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/4Tb3QzrgNB4oiZaudf0dud"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -359,22 +491,6 @@
       "duration_ms": 298235,
       "name": "Afraid of the Time - Reprise",
       "url": "https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
-        "name": "Smile You're on Acid",
-        "url": "https://open.spotify.com/album/1jDKf465NUOHtFt8QH7hvN"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 234471,
-      "name": "Smile You're On Acid",
-      "url": "https://open.spotify.com/track/1ZrdzMcvmR1s1X0iBa8fxK"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -411,22 +527,6 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/5aJHEqPbOWtideijKd3GBS"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 334173,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/4h3iLK0Ez898pvBylaWUsM"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
         "name": "Rider",
         "url": "https://open.spotify.com/album/4YsU1wmbXYOGT7l7kVmEMr"
       },
@@ -459,22 +559,6 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Touch The Darkness",
-        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 379060,
-      "name": "The Alchemist",
-      "url": "https://open.spotify.com/track/5rSLRPEBdRaqDjdbcLZrUo"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
         "name": "Afraid of the Time",
         "url": "https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5"
       },
@@ -491,22 +575,6 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Liberty",
-        "url": "https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 317083,
-      "name": "Liberty",
-      "url": "https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
         "name": "slash 004 - Leave it to the vibe",
         "url": "https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs"
       },
@@ -519,22 +587,6 @@
       "duration_ms": 418003,
       "name": "Leave it to the vibe",
       "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
-        "name": "Music Made for Aliens",
-        "url": "https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP"
-      },
-      "artists": [
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 398769,
-      "name": "Exeter",
-      "url": "https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -655,26 +707,6 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Yume No Y\u014dna",
-        "url": "https://open.spotify.com/album/0JBkg4Ll6Djf1G3P41arSw"
-      },
-      "artists": [
-        {
-          "name": "Timo Maas",
-          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 400998,
-      "name": "Yume No Y\u014dna",
-      "url": "https://open.spotify.com/track/1FWB7txht6se3zgfeEjikl"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
         "name": "Senso Sounds Level 11",
         "url": "https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw"
       },
@@ -723,22 +755,6 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Came Here For Love EP",
-        "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
-      },
-      "artists": [
-        {
-          "name": "My Friend",
-          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
-        }
-      ],
-      "duration_ms": 266707,
-      "name": "Came Here For Love",
-      "url": "https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
         "name": "30 Something",
         "url": "https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h"
       },
@@ -767,38 +783,6 @@
       "duration_ms": 301928,
       "name": "Silence - Vocal Mix",
       "url": "https://open.spotify.com/track/6rMSQ5RzR4aiP2uRImEEiG"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
-        "name": "Indian Summer EP",
-        "url": "https://open.spotify.com/album/7wdlWSkWBFuvItliqZyopd"
-      },
-      "artists": [
-        {
-          "name": "Filterheadz",
-          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
-        }
-      ],
-      "duration_ms": 399416,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/19HEW23HyFHzSBtyzzJT0D"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
-        "name": "Off Limits",
-        "url": "https://open.spotify.com/album/0UMxjtewdQnCGzXDYRlPnp"
-      },
-      "artists": [
-        {
-          "name": "Rina Mirai",
-          "url": "https://open.spotify.com/artist/5RijUBJ7PAxbOci9F4R4mx"
-        }
-      ],
-      "duration_ms": 308059,
-      "name": "Off Limits",
-      "url": "https://open.spotify.com/track/3w8mOXGZMAY1JIcms9ibmo"
     }
   ],
   "unique_name": "THE TECHNO METHOD",

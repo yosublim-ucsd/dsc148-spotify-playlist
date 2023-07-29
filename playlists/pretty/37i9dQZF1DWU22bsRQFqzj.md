@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,365 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,410 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [Day 'N' Nite \- Martin Jensen Edit](https://open.spotify.com/track/0ou367q5bmco9pZNxq80iD) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Ben Hamilton](https://open.spotify.com/artist/1Rqa3ZF83zo3rKGrKMM0iD), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Day 'N' Nite \(Martin Jensen Edit\)](https://open.spotify.com/album/4edGK565BSJL2C8wwZAnDh) | 2:46 |
 | 75 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 |
 
-Snapshot ID: `MCw5MDVjODU4YTczN2E1Yzc3OTBiZGUzNmVlOTExOWY4NWM3YTk0ZTU0`
+Snapshot ID: `MCw3OGIxNTg4M2FmZWRjZTQ0YTFkZDIwZDRiMDQ5N2NiNTYwMWJjODkz`

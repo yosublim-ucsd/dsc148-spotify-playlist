@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-115 songs - 6 hr 31 min
+116 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 | 2023-07-25 |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 |  |
 | [Puppy Shame](https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs) | [Niranjan Babu](https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ) | [Puppy Shame](https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u) | 2:26 | 2023-06-30 |  |
+| [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/track/4ZoDl4LLSQfAnXkdO6OlXC) | [JHANU](https://open.spotify.com/artist/0L1IXK07lAo0FQ2wfij2k7), [Muthu](https://open.spotify.com/artist/4qDuBS2e3XRO3LOFm8niSY), [Mutthammaal](https://open.spotify.com/artist/2k5kyg530rSRhTd0EbyJl7), [JK & Crew](https://open.spotify.com/artist/59ehEIM4v5mpHMy9so6vRW) | [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/album/54gCOKcdYFvl0sRhHUj87u) | 4:14 | 2023-07-28 |  |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 |  |
 | [Rawberry](https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Rawberry](https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1) | 2:48 | 2023-04-24 |  |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-20 |  |

@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes! Cover: Frsh
+> Motion en good vibes! Cover: JZyNo, Lasmid
 
 638 songs - 1 day 4 hr 42 min
 
@@ -73,7 +73,7 @@
 | [Ban Pami](https://open.spotify.com/track/36T2XdhpmLFocIvJT7CafN) | [Ori](https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1), [Boykii](https://open.spotify.com/artist/3j62Is7UouiuIWT5c3ykmH), [Kevin Key](https://open.spotify.com/artist/0Icgh2uA5f0EBzvGZWSeUU) | [Ban Pami](https://open.spotify.com/album/3YQwlzf40HSktZ8hMSw2DF) | 2:55 | 2023-06-22 |  |
 | [Banana](https://open.spotify.com/track/7Mish8vZYeOPFHizC3pnpE) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Banana](https://open.spotify.com/album/0CidSPfyHc1IogMn39b8fv) | 3:15 | 2022-07-14 | 2022-09-02 |
 | [Banana](https://open.spotify.com/track/6IbHxN543uDJ31Y8wpiHgZ) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Banana](https://open.spotify.com/album/76cChFmTxUn0kQVX7Asimp) | 2:21 | 2023-06-29 |  |
-| [Bando](https://open.spotify.com/track/1K3XVvNhCBRp0AmZZUmCvc) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Bando](https://open.spotify.com/album/5j16VXpniICEem03e7MyGd) | 2:36 | 2023-07-27 |  |
+| [Bando](https://open.spotify.com/track/1K3XVvNhCBRp0AmZZUmCvc) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Bando](https://open.spotify.com/album/5j16VXpniICEem03e7MyGd) | 2:36 | 2023-07-27 | 2023-07-29 |
 | [BANDZ \(feat\. Emms\)](https://open.spotify.com/track/42OHLSBaf8MQMOzJf2oBlq) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [BANDZ \(feat\. Emms\)](https://open.spotify.com/album/1Eg4xGkEqragj73c36aJ9P) | 2:06 | 2023-06-15 |  |
 | [Bandz Up \(feat\. BKO\)](https://open.spotify.com/track/4Qg9rqLvxFga814H9UfJTT) | [Jamily Jordan](https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [Bandz Up \(feat\. BKO\)](https://open.spotify.com/album/7B7BC1U1DrXu3I0sJFYA4c) | 2:23 | 2023-07-27 |  |
 | [Bay Bin Bay](https://open.spotify.com/track/7ucmoxflHZKJOmw9RKsAPP) | [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb) | [Bay Bin Bay](https://open.spotify.com/album/5j9oYJzz1jl9TVZElO2HFD) | 2:04 | 2023-02-09 | 2023-02-23 |

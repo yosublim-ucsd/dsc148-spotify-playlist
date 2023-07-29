@@ -3683,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "You Talking To Me?",
+        "url": "https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Trip Beats",
+          "url": "https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140752,
+      "name": "You Talking To Me?",
+      "url": "https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ"
+    },
+    {
+      "album": {
         "name": "Dreamworld",
         "url": "https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj"
       },

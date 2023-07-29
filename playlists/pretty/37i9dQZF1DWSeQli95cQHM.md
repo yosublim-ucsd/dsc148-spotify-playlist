@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,191 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,219 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 21 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
 | 22 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
 | 23 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
-| 24 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 |
-| 25 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 |
-| 26 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
+| 24 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 |
+| 25 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 |
+| 26 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
 | 27 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
-| 28 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
-| 29 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
+| 28 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
+| 29 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
 | 30 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 |
 | 31 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
 | 32 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 45 | [Madame Kabukicho](https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5) | 6:05 |
 | 46 | [A Man Called Cory](https://open.spotify.com/track/7eJCJWjhGtTdk6gwoDdZLk) | [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [Escola da Rua](https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R) | 5:09 |
 | 47 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
-| 48 | [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 |
+| 48 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
 | 49 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
 | 50 | [Festa](https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 3:58 |
 
-Snapshot ID: `MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5`
+Snapshot ID: `MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4`

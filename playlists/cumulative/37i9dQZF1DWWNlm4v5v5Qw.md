@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: IDK
 
-384 songs - 17 hr 35 min
+386 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [CHECK IN](https://open.spotify.com/track/5IkL3uOBNhkXoyG8NkSNHY) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t), [Ky$hia](https://open.spotify.com/artist/5g3QyuruqPVJplxTxIxAyK) | [CHECK IN](https://open.spotify.com/album/1SYTg7nRTnrI3lFz9QqxPk) | 2:38 | 2022-10-07 | 2023-04-16 |
 | [Cheeks](https://open.spotify.com/track/45jdyOIqPkuBFNy1jaBxe2) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Cheeks](https://open.spotify.com/album/25u938gsY0Rfm9GTe1MXvu) | 2:50 | 2023-04-15 |  |
 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 | 2023-04-15 |  |
+| [close to you](https://open.spotify.com/track/1fPsmQlbaXMkMwCeKm07hb) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [close to you](https://open.spotify.com/album/7HR40txWDxULClDzuddcLw) | 2:46 | 2023-07-28 |  |
 | [Coal](https://open.spotify.com/track/6C8QkuZhwVknE18TvGD0iR) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Coal](https://open.spotify.com/album/4pljXbOadkliUMb3mOuWJc) | 3:49 | 2022-12-02 | 2023-04-16 |
 | [Coffee](https://open.spotify.com/track/5ikW7aM45iWvNaaLpXEUAQ) | [KLARK](https://open.spotify.com/artist/2igg2IuRyaa7X3k6VnqRnP) | [Coffee](https://open.spotify.com/album/7y10TZGOgCpdE7YFJn7n4m) | 3:27 | 2022-07-01 | 2022-09-10 |
 | [Company](https://open.spotify.com/track/6l01TTR29QJ7pu5ztP2KSi) | [CADEEM LAMARR](https://open.spotify.com/artist/7AyAX5opE17qBcq56nqd1L), [Martin j\. Ballou](https://open.spotify.com/artist/3ECr5e1xllHnl6gGzmymPT), [GirlYouCrazy](https://open.spotify.com/artist/4hDWfVHztidgZ4YewXPJtq) | [Company](https://open.spotify.com/album/5UHuuRwcfK9D4dbd5MPGU2) | 2:40 | 2022-03-18 | 2022-06-08 |
@@ -237,6 +238,7 @@
 | [Much More](https://open.spotify.com/track/4wYTTvOrC56pRkqjGIDq5b) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Sound Is Like Water](https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i) | 4:42 | 2022-09-09 | 2022-12-03 |
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-04 | 2022-04-23 |
 | [My Baby](https://open.spotify.com/track/1IcdFK0dWHzuPHmFYfWjFm) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [I'll Be There](https://open.spotify.com/album/5tBDLhAa8bAhbU16SdQI4x) | 2:33 | 2022-09-09 | 2022-12-03 |
+| [MY FAVORITE DRUG](https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG) | [MY FAVORITE DRUG](https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5) | 3:03 | 2023-07-28 |  |
 | [My Level](https://open.spotify.com/track/1Z9rBDVCdQSnL8ExSU79L3) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [My Level](https://open.spotify.com/album/6wSN6KxFGNG8avrcz2SSfX) | 3:19 | 2022-06-24 | 2022-10-01 |
 | [My Mother](https://open.spotify.com/track/2AJWZxquAwGVwIqkFnJYfx) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Glass Paradise \(Deluxe\)](https://open.spotify.com/album/66Ll7oWTbdIqxWyo1TkiQG) | 3:56 | 2022-02-25 | 2022-04-02 |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 | 2022-04-08 | 2022-08-13 |

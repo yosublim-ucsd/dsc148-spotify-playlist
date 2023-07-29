@@ -96,7 +96,7 @@
     {
       "album": {
         "name": "Caff\u00e9 Italiano: Instrumental Italian Favorites",
-        "url": "https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX"
+        "url": "https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29"
       },
       "artists": [
         {
@@ -107,6 +107,24 @@
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Arrivederci Roma",
+      "url": "https://open.spotify.com/track/2wRvA2LS1apB9MYV2QzA01"
+    },
+    {
+      "album": {
+        "name": "Caff\u00e9 Italiano: Instrumental Italian Favorites",
+        "url": "https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX"
+      },
+      "artists": [
+        {
+          "name": "Jack Jezzro",
+          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
       "duration_ms": 215626,
       "name": "Arrivederci roma",
       "url": "https://open.spotify.com/track/75L4NLXJjuDxE5HOrElDg5"

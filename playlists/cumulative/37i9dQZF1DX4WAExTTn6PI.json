@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Wagon Girl",
+        "url": "https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS"
+      },
+      "artists": [
+        {
+          "name": "Dee White",
+          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190431,
+      "name": "Wagon Girl",
+      "url": "https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR"
       },
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 240333,
       "name": "Whooped If You Will",
       "url": "https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T"
@@ -3216,6 +3234,24 @@
       "duration_ms": 251487,
       "name": "Wild-Eyed George Bailey Heebie Jeebies",
       "url": "https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU"
+    },
+    {
+      "album": {
+        "name": "Won't Fence Us In",
+        "url": "https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154657,
+      "name": "Won't Fence Us In",
+      "url": "https://open.spotify.com/track/37y1NnmxdPUm2DbkY77ReI"
     },
     {
       "album": {

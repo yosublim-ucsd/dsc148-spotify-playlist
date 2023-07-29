@@ -4808,10 +4808,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155200,
       "name": "Cuerno Asulado - Marcogta Music Remix",
       "url": "https://open.spotify.com/track/342YTjxByX0g6p1PDZqhMF"
+    },
+    {
+      "album": {
+        "name": "Cuerno Asulao",
+        "url": "https://open.spotify.com/album/5YtmKDRWi1vzn5QZ52943N"
+      },
+      "artists": [
+        {
+          "name": "Marcogta Music",
+          "url": "https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154805,
+      "name": "Cuerno Asulao",
+      "url": "https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M"
     },
     {
       "album": {
@@ -12170,7 +12188,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
@@ -12698,7 +12716,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175192,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
@@ -18528,7 +18546,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Reina Leona",
       "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
@@ -20249,6 +20267,24 @@
     },
     {
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/0KrKL1FwQMiqMMqX5tBUvy"
+      },
+      "artists": [
+        {
+          "name": "Willian",
+          "url": "https://open.spotify.com/artist/01UTnAQSAFwvG7ZRfSnrNK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139278,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/791SeQLJ0mcwZALYEIlb2V"
+    },
+    {
+      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -21584,6 +21620,10 @@
         {
           "name": "DJ RICK 013",
           "url": "https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2023-07-11",
@@ -21660,7 +21700,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170790,
       "name": "The Lamp Is Low",
       "url": "https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo"
@@ -21718,7 +21758,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"

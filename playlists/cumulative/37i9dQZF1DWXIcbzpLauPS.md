@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Imminence
+> Metalcore at its finest\. Cover: Silent Planet
 
-720 songs - 1 day 21 hr 12 min
+724 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 | 2022-05-27 | 2022-12-17 |
 | [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 | 2023-05-22 |  |
 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 | 2023-03-10 |  |
+| [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 | 2023-07-28 |  |
 | [Antipathy](https://open.spotify.com/track/5P7QFVkK4kSlS32Ue1JaOe) | [Pridelands](https://open.spotify.com/artist/33IjrsSZFfDC0ZE0cZXtOR) | [Antipathy](https://open.spotify.com/album/56YMEcm1AOvJ6i9EaSEvUe) | 4:12 | 2022-01-14 | 2022-03-18 |
 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 | 2022-07-13 | 2022-07-23 |
@@ -99,6 +100,7 @@
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2022-07-13 | 2022-07-22 |
 | [Black Ink](https://open.spotify.com/track/7AlsIxffk4FHQ7geSUxLOE) | [As I May](https://open.spotify.com/artist/6RK7Xn39VaxdJNqhYVhVEk) | [Karu](https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa) | 3:22 | 2022-01-07 | 2022-02-17 |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2022-07-13 | 2022-07-16 |
+| [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-28 |  |
 | [BLACK\_WAVE](https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [BLACK\_WAVE](https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI) | 3:06 | 2023-04-24 |  |
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2022-07-13 | 2022-07-21 |
 | [Bleed When You Ask Me](https://open.spotify.com/track/4Pfclw9uhRXenUImApmAgG) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:18 | 2021-12-17 | 2022-01-22 |
@@ -208,7 +210,7 @@
 | [Disappear](https://open.spotify.com/track/1c04Lv2KJB8gs5Szgf48yo) | [Annalynn](https://open.spotify.com/artist/3VBnJPcfaEGWPpON1aaVIX) | [Disappear](https://open.spotify.com/album/5gYmaHKa0j8GHgpnCqonWz) | 4:19 | 2023-07-14 |  |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-04-02 |
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2022-07-13 | 2022-07-23 |
-| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-24 |  |
+| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-24 | 2023-07-29 |
 | [Don't Fix Me](https://open.spotify.com/track/7jMgTfAnjxgYJFBL9fKlJj) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Don't Fix Me](https://open.spotify.com/album/5eh22H5dI8tHG6aknnl80L) | 2:53 | 2022-06-10 | 2022-07-21 |
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
@@ -253,6 +255,7 @@
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-02-18 |
 | [Fail Me](https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Fail Me](https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl) | 2:59 | 2021-12-17 | 2022-01-22 |
 | [Fake](https://open.spotify.com/track/3mRzGcJEALdNzIAtB6zNGC) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Fake](https://open.spotify.com/album/1ZpQ90fibmw05I0xYADvAL) | 3:35 | 2022-07-13 | 2022-07-23 |
+| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-28 |  |
 | [Falling Out](https://open.spotify.com/track/2TUYYkcaeJnvrMhuPCChPd) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Falling Out](https://open.spotify.com/album/223iUCGmxUNpQK2F8gK4qt) | 3:53 | 2022-04-15 | 2022-06-11 |
 | [False Divinity](https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr) | [Texas In July](https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya) | [False Divinity](https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0) | 3:48 | 2023-06-30 |  |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-18 | 2022-07-23 |
@@ -350,7 +353,7 @@
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [In The Void](https://open.spotify.com/track/2OanznSyGiNf4hHoNUETh3) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [In The Void](https://open.spotify.com/album/4Y47Q5AwzYWSqHiE9TwEsQ) | 3:09 | 2022-06-17 | 2022-07-29 |
 | [In Your Head](https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/16L3AoU7WMBz2rvS9kzIvV) | 3:33 | 2021-12-17 | 2022-07-23 |
-| [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 |  |
+| [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 | 2023-07-29 |
 | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/track/6tjKpMR5jdN2WZL13Y65vA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Jason Evans](https://open.spotify.com/artist/2fEKFTw6F4cCFae5fkw2JL) | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/album/0W55655OGizdrkUanACsoO) | 3:50 | 2022-07-13 | 2022-07-23 |
 | [Intergalactic Casanova](https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Intergalactic Casanova](https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr) | 4:03 | 2021-12-17 | 2022-01-15 |
 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 | 2022-09-02 | 2023-01-06 |
@@ -694,6 +697,7 @@
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-05-26 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
+| [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-07-28 |  |
 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 | 2023-03-10 |  |
 | [Watch Me Burn](https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Watch Me Burn](https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A) | 3:38 | 2023-03-17 |  |
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |

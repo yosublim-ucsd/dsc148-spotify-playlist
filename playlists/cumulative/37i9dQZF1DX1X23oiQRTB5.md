@@ -4,7 +4,7 @@
 
 > Gazo x Damso au top de la première playlist de rap français !
 
-180 songs - 9 hr 15 min
+182 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-30 | 2022-11-17 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-11-10 | 2022-12-09 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-10 | 2023-05-05 |
-| [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-23 |  |
+| [Ciao](https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:36 | 2023-07-27 |  |
+| [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-23 | 2023-07-29 |
 | [Codéine 19](https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:23 | 2023-03-09 |  |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-22 |  |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-23 | 2023-06-23 |
@@ -57,7 +58,8 @@
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 | 2022-01-06 | 2022-07-15 |
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-15 |  |
-| [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-04-06 |  |
+| [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-04-06 | 2023-07-29 |
+| [Escorte](https://open.spotify.com/track/4cj9dhfsdN71e2gBgCP8Ho) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:14 | 2023-07-27 |  |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-06 |  |
 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 | 2022-07-28 | 2023-02-17 |
 | [Fendi love](https://open.spotify.com/track/1tQRE9DOEtDzMSGRsGYqFM) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:34 | 2022-01-06 | 2022-01-14 |

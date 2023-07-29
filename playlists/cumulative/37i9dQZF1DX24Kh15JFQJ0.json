@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Rough Around the Edges",
+        "url": "https://open.spotify.com/album/0ESEOWpuy84Dya72GY3uaL"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216898,
+      "name": "Rough Around the Edges",
+      "url": "https://open.spotify.com/track/4pmAnbdh8LvGxSh93AhPR3"
+    },
+    {
+      "album": {
         "name": "Sad Songs and Waltzes (with Willie Nelson)",
         "url": "https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28"
       },
@@ -4084,10 +4102,40 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221773,
       "name": "When This Is Over (feat. The Oak Ridge Boys)",
       "url": "https://open.spotify.com/track/6U1MkhLKg0j00z9ZiWcl46"
+    },
+    {
+      "album": {
+        "name": "Bettie James Gold Edition",
+        "url": "https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Rita Wilson",
+          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
+        },
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "When This Is Over (feat. The Oak Ridge Boys)",
+      "url": "https://open.spotify.com/track/6skO8okwsS5uwXF4Q3bQSk"
     },
     {
       "album": {

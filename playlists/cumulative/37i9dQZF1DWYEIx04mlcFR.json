@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166246,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149657,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
+    },
+    {
+      "album": {
         "name": "deja de estudiar",
         "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
       },
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199433,
       "name": "Hospital Sentimental",
       "url": "https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y"
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180565,
       "name": "LO LOGR\u00c9",
       "url": "https://open.spotify.com/track/46WF4Sv3OOpxuoK4kFqXiC"
@@ -4308,6 +4326,24 @@
       "duration_ms": 209891,
       "name": "Noche en LA",
       "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
+    },
+    {
+      "album": {
+        "name": "Noches",
+        "url": "https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169012,
+      "name": "Noches",
+      "url": "https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt"
     },
     {
       "album": {
@@ -6154,6 +6190,24 @@
       "duration_ms": 235458,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/6Ei43WF7g5ZOrtV5W52IIA"
+    },
+    {
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "album": {

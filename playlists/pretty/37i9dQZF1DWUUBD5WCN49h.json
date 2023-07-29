@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc?si=LOLdFQtbQLCmbOCCj1U6-A\"> Dayonthetrack </a> ",
-  "num_followers": 11023,
+  "num_followers": 11046,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc2ZGViYWRmM2NkYWRlNTE4YWI1NTNiNjI2ZWVhN2VlMWIxMWU3",
+  "snapshot_id": "MCw3MjJhYjkwYzg0YjJmYjZmYTQwNjViMDFiNzZkNzE1MzMzNzg4YWE1",
   "tracks": [
     {
       "added_at": "2023-07-28 00:00:00",
@@ -723,6 +723,26 @@
       "duration_ms": 176590,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/0waLu5oG6nSUBfNHlkYMNH"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
+        "name": "Reggae & Calypso",
+        "url": "https://open.spotify.com/album/3YtHfkiDCKwYJ7silwhoFA"
+      },
+      "artists": [
+        {
+          "name": "Tvylor",
+          "url": "https://open.spotify.com/artist/13TOlDqkrS4LZb0F8Sq8za"
+        },
+        {
+          "name": "Rie Osei",
+          "url": "https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Reggae & Calypso",
+      "url": "https://open.spotify.com/track/4H2xDMnEgjuJv6SkRo3RHj"
     },
     {
       "added_at": "2023-07-28 00:00:00",

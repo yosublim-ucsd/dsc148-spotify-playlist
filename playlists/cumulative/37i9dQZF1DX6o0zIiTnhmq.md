@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-81 songs - 23 hr 34 min
+82 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 | 2022-08-05 | 2022-11-13 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 |  |
 | [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 |  |
-| [Shiva Raksha Stotram](https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc) | [Malola Kannan](https://open.spotify.com/artist/1Wi5YCCmYwr9AYRniY68po), [J Bhakthavatsalam](https://open.spotify.com/artist/4HX4R2UVRv6y3z9BtaVWxk) | [Indrakshi Shiva Kavacham](https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq) | 3:06 | 2023-05-23 |  |
+| [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 | 2023-07-28 |  |
+| [Shiva Raksha Stotram](https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc) | [Malola Kannan](https://open.spotify.com/artist/1Wi5YCCmYwr9AYRniY68po), [J Bhakthavatsalam](https://open.spotify.com/artist/4HX4R2UVRv6y3z9BtaVWxk) | [Indrakshi Shiva Kavacham](https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq) | 3:06 | 2023-05-23 | 2023-07-29 |
 | [Shree Ganapati Atharvashirsha](https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:28 | 2023-05-23 |  |
 | [Sri Krishnam Sharanam](https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [My Krishna Favourites](https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX) | 11:48 | 2023-05-23 |  |
 | [Surya Namaskar Mantra](https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ) | 6:33 | 2022-01-24 | 2022-07-29 |

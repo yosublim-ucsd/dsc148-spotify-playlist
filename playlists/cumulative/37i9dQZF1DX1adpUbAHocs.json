@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+    },
+    {
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1434,6 +1452,28 @@
       "duration_ms": 231880,
       "name": "Dried Up River",
       "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "album": {
+        "name": "Drivin (feat. Field Medic)",
+        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Drivin (feat. Field Medic)",
+      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
     },
     {
       "album": {
@@ -1940,7 +1980,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225470,
       "name": "Frightened By The Sound",
       "url": "https://open.spotify.com/track/3fp778baYgJ5gDcXtZgGm5"
@@ -2784,7 +2824,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200946,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
@@ -4032,6 +4072,24 @@
       "duration_ms": 267962,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "album": {
@@ -5632,7 +5690,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 241023,
       "name": "Where'd All the Time Go",
       "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"

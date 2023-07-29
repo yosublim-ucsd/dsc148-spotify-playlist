@@ -4,16 +4,18 @@
 
 > Rock tranqui para concentrarse.
 
-70 songs - 4 hr 9 min
+72 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abarajame](https://open.spotify.com/track/0CNAg3D3Ox1MggIed6Ktcs) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Abarajame](https://open.spotify.com/album/2nBayLIl2VnOCQo7EdCsbw) | 3:04 | 2021-05-13 |  |
 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 | 2021-05-13 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2021-05-13 |  |
+| [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-19 |  |
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
+| [Buen Fantasma](https://open.spotify.com/track/7dnVu3VTbBp37jsoQ1WbxE) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Buen Fantasma](https://open.spotify.com/album/2jlATWZpSabSiPbgKsl3Ps) | 3:49 | 2023-07-28 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
 | [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando Pase El Temblor](https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Cuando Pase El Temblor](https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d) | 4:56 | 2021-05-13 |  |

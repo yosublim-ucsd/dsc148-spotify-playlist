@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bloc Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,562 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,573 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 4 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 |
 | 5 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
 | 6 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 |
-| 7 | [Lanterna Dos Afogados](https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [No Trabalho](https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM) | 3:09 |
+| 7 | [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 |
 | 8 | [Partida](https://open.spotify.com/track/48nzMbyU9MoeRWu28riJoi) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Partida](https://open.spotify.com/album/33wHpnNbVOa32uMESWgg0u) | 3:46 |
 | 9 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 10 | [Coleção](https://open.spotify.com/track/1ZWyjMAEL7Pgbfj3gOw1ot) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Coleção](https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 |
 | 75 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 |
 
-Snapshot ID: `MCw4MmY0NzAyYzBlYzRiNDZkNTgxYmIxZmQzOTM2YTZlNjg2NmViZmFi`
+Snapshot ID: `MCw3NGJhNDgwZmRlZDQzZmJhZjM4NzM5N2UwNjdlYWI5N2Y5YzBkY2Rh`

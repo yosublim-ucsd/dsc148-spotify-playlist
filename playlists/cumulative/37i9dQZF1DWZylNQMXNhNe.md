@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark, Pabllo Vittar
 
-109 songs - 4 hr 52 min
+110 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2022-07-22 | 2022-12-10 |
 | [boca](https://open.spotify.com/track/0whBldSuTpdP1UrjhdngQl) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [boca](https://open.spotify.com/album/4NFrmdrkTIuY3FNZJts5UE) | 3:11 | 2023-06-23 | 2023-07-15 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-04-29 |  |
-| [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 | 2023-06-23 |  |
+| [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 | 2023-06-23 | 2023-07-29 |
 | [BOTA](https://open.spotify.com/track/52LzOfNNcxLjXfSBYfUwl4) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [BOTA](https://open.spotify.com/album/0k83d2uJt6cGPUMkipkNNw) | 2:35 | 2022-04-29 | 2022-06-25 |
 | [Brazindia](https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8) | [Brazindia](https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ) | 2:38 | 2022-09-23 | 2023-04-01 |
 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 | 2022-09-23 |  |
@@ -76,6 +76,7 @@
 | [Parabéns](https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Parabéns](https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd) | 2:16 | 2022-04-29 |  |
 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 | 2022-04-29 |  |
 | [Peligrosa](https://open.spotify.com/track/1aZLYlrxEvqhaUoNTimiDQ) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:29 | 2022-04-29 | 2022-09-24 |
+| [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 | 2023-07-28 |  |
 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 | 2022-04-29 | 2022-12-03 |
 | [Periferia](https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Periferia](https://open.spotify.com/album/3RELpLOZYzEOalB4O1MZGd) | 2:43 | 2022-06-03 | 2022-07-23 |
 | [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 | 2023-06-16 |  |

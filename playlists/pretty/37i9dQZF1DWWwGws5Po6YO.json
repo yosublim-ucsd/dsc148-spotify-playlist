@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 29949,
+  "num_followers": 29967,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDk4NzQxM2MwOWE3YTgzYTQ4NzJlMzU1ZGJhNDI4M2NmOTNlNzRm",
+  "snapshot_id": "MCxiMTIxODNkZmMwZmI3OWEwYjYwYmJmNmY4ZDQ3YmQwNmQzYzc4ZTU2",
   "tracks": [
     {
       "added_at": "2023-06-09 12:35:28",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "is this nature escape",
+        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
+      },
+      "artists": [
+        {
+          "name": "Katharine Petkovski",
+          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
+        }
+      ],
+      "duration_ms": 212848,
+      "name": "is this nature escape",
+      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "is this nature escape",
-        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
-      },
-      "artists": [
-        {
-          "name": "Katharine Petkovski",
-          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "is this nature escape",
-      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "Marina`s Song",
+        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 303828,
+      "name": "Marina`s Song",
+      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 478488,
       "name": "Moderato Cantabile",
       "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "Marina`s Song",
-        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
-      },
-      "artists": [
-        {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
-        }
-      ],
-      "duration_ms": 303828,
-      "name": "Marina`s Song",
-      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 243232,
+      "name": "The Eighteen Beautiful Memories",
+      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "The Spring of Dreams",
         "url": "https://open.spotify.com/album/5RByB1SOfHYoRaG2HHa8xT"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 243232,
-      "name": "The Eighteen Beautiful Memories",
-      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Eyes Set Against The Sun",
         "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 78373,
       "name": "A Cereus Night",
       "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Maquishti",
-        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Brennan",
-          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
-        }
-      ],
-      "duration_ms": 343594,
-      "name": "Sonnet",
-      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Evensong: Canticles for the Earth",
         "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 351493,
       "name": "Berceuse for a Star Child",
       "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Maquishti",
+        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        }
+      ],
+      "duration_ms": 343594,
+      "name": "Sonnet",
+      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "The Harmonic Series Volume 2",
+        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 868000,
+      "name": "Pipe Inversions",
+      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
         "url": "https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 465107,
       "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
       "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 868000,
-      "name": "Pipe Inversions",
-      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     },
     {
       "added_at": "2023-06-09 12:35:28",

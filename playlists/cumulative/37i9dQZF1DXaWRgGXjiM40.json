@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202066,
       "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
@@ -588,6 +588,24 @@
       "duration_ms": 192725,
       "name": "Ficha Limpa",
       "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+    },
+    {
+      "album": {
+        "name": "Flor E O Beija-Flor",
+        "url": "https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Flor E O Beija-Flor",
+      "url": "https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH"
     },
     {
       "album": {

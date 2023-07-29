@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Aline Brasil
+> Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-111 songs - 8 hr 45 min
+112 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 | 2023-03-24 |  |
 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 | 2022-12-04 |  |
 | [Ele Não Perde Batalhas](https://open.spotify.com/track/5OmNg2zBWb61x2QxxPwldC) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Ele Não Perde Batalhas](https://open.spotify.com/album/4SsKBPyKq3uVm4NKzGo5J0) | 7:37 | 2023-04-28 |  |
+| [Ele Vem](https://open.spotify.com/track/1Okz2hMkYKZcR4eur9yqR6) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Ele Vem](https://open.spotify.com/album/3DudCmTbB56mU0KjFAexvG) | 5:31 | 2023-07-28 |  |
 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 | 2022-09-02 |  |
 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 | 2022-09-02 |  |
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 | 2023-01-14 |
@@ -71,7 +72,7 @@
 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/6VFM6XUg0rUGUNhMyQYSuL) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/album/6eO1dMo1F82Nky8dh0IbXP) | 4:13 | 2022-10-14 | 2022-11-13 |
 | [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 | 2023-02-25 |
 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 | 2022-09-02 |  |
-| [Minha Voz Te Louva](https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Minha Voz Te Louva](https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm) | 3:20 | 2023-03-11 |  |
+| [Minha Voz Te Louva](https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Minha Voz Te Louva](https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm) | 3:20 | 2023-03-11 | 2023-07-29 |
 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 | 2023-02-10 |  |
 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 | 2022-09-02 |  |
 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 | 2022-09-02 |  |

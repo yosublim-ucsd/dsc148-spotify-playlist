@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the 2023 nominees in one playlist! More info on this year's event can be found at <a href="https://www.thestellarawards.com/index.html">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,734 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,743 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will See \(And Live\)](https://open.spotify.com/track/3umd1TDZK4D00NGVuVRarW) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Transitions \(Live\)](https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV) | 8:04 |
-| 2 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 9:25 |
+| 2 | [Kingdom](https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 9:25 |
 | 3 | [Hello God](https://open.spotify.com/track/2cO9GYM6EVmwDDvoIT4r5J) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Overcomer \(Deluxe\)](https://open.spotify.com/album/08cvalavBpPKGh23e97pt3) | 4:19 |
 | 4 | [Remember Jesus](https://open.spotify.com/track/2dyYOYfc1hrwsezsHQ4Kek) | [Teddy & Tina Campbell](https://open.spotify.com/artist/7tiQCMQwy1I3vIOyIrqrfa), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Christmas at Our House](https://open.spotify.com/album/5dDjjpENxdS5tNTsXk2BZV) | 5:42 |
 | 5 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 69 | [I Will Rejoice](https://open.spotify.com/track/0dbeFxQu8T7h3sgxZihKMl) | [Dulaneyland Music](https://open.spotify.com/artist/4lPHaqNFHpsvmZqggig0dq), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Morning Songs](https://open.spotify.com/album/0RDeruMTKlnOL1BoUwWTem) | 4:10 |
 | 70 | [Confidence \- Live](https://open.spotify.com/track/2VfZzYhwL2OwmPlXPNrkvJ) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:55 |
 
-Snapshot ID: `MCxkYjJiNDRhMWQ0OTYzNmI2NDE5YzUzMWYyZGFjMTIzYmE4MmE2MDc0`
+Snapshot ID: `MCw5MzM5MTFmNGNhZmM0ZmE4OTVjYWIwY2I1MDMxMmZjYzU3YjZkMDY3`

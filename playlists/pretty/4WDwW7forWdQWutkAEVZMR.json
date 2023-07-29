@@ -1,13 +1,101 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Diplo, Lil Tjay, Harry Styles &amp; more! Cover: Diplo, Jessie Murph, Polo G.",
-  "num_followers": 8676,
+  "description": "Your go-to playlist for this week's hottest music featuring Calvin Harris, Lil Tjay, Harry Styles &amp; more! Cover: Calvin Harris &amp; Sam Smith",
+  "num_followers": 8677,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjMyOCw0ODMwM2E0M2JlOTdhYjY3NDMzOGExNTFmNjA5NmI5MjA1YjQwM2Zj",
+  "snapshot_id": "NjM0Miw0MDMwMDFlMzYwYTZmMjI1YWE0YzRhYThhNjFhNGQ5Y2NhNmU4MWU3",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:16:56",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-07-28 04:17:11",
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "added_at": "2023-07-28 04:17:42",
+      "album": {
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "added_at": "2023-07-28 04:18:30",
+      "album": {
+        "name": "flounder (deluxe)",
+        "url": "https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "gold ring (flounder bonus track)",
+      "url": "https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU"
+    },
+    {
+      "added_at": "2023-07-28 04:18:44",
+      "album": {
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/3MQydUeTQjd1jjVTikawoq"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 165649,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/3jXd0vfbaY99gpqBthXnQJ"
+    },
     {
       "added_at": "2023-07-21 23:26:57",
       "album": {
@@ -49,92 +137,20 @@
       "url": "https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7"
     },
     {
-      "added_at": "2023-07-21 23:27:28",
+      "added_at": "2023-07-28 04:20:52",
       "album": {
-        "name": "BUCKLE BUNNY",
-        "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 192444,
-      "name": "Buckle Bunny",
-      "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
-    },
-    {
-      "added_at": "2023-07-21 23:27:37",
-      "album": {
-        "name": "God's Eyes",
-        "url": "https://open.spotify.com/album/6OK5AWd7zWg4wJrY3dPrMe"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "God's Eyes",
-      "url": "https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R"
-    },
-    {
-      "added_at": "2023-07-21 23:27:50",
-      "album": {
-        "name": "Boyfriends",
-        "url": "https://open.spotify.com/album/4WTlyYWvkNmhbGxJwvyt7n"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 241318,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw"
-    },
-    {
-      "added_at": "2023-07-21 23:28:04",
-      "album": {
-        "name": "Off Top",
-        "url": "https://open.spotify.com/album/7a6G6hSYut799MiI5gT7xs"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 184296,
-      "name": "Off Top",
-      "url": "https://open.spotify.com/track/4B9W5xGHs5cJp47xOUBqeN"
-    },
-    {
-      "added_at": "2023-07-21 23:28:18",
-      "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
     },
     {
       "added_at": "2023-07-14 05:09:02",
@@ -155,58 +171,6 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": "2023-07-14 05:09:02",
-      "album": {
-        "name": "TWENTY SOMETHING: Figuring It Out",
-        "url": "https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "ghost in my guitar (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe"
-    },
-    {
-      "added_at": "2023-07-14 05:09:02",
-      "album": {
-        "name": "A Gradual Decline In Morale",
-        "url": "https://open.spotify.com/album/45WClE3DWN48xIhU0iwijV"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 163179,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/43cFVWSlrBkrNEd307UpV5"
-    },
-    {
-      "added_at": "2023-07-14 05:09:02",
-      "album": {
-        "name": "The In Between",
-        "url": "https://open.spotify.com/album/1ICOOpiX4vubSzKvxYzTIp"
-      },
-      "artists": [
-        {
-          "name": "Khloe Rose",
-          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "The In Between",
-      "url": "https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO"
     },
     {
       "added_at": "2023-07-14 05:09:02",
@@ -245,74 +209,6 @@
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
-      "added_at": "2023-07-07 18:55:27",
-      "album": {
-        "name": "Project Walls (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "Project Walls (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
-    },
-    {
-      "added_at": "2023-07-07 18:55:37",
-      "album": {
-        "name": "Ceiling Fan/Piggy",
-        "url": "https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Ceiling Fan/Piggy",
-      "url": "https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp"
-    },
-    {
-      "added_at": "2023-07-07 18:55:47",
-      "album": {
-        "name": "SUNDAY",
-        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "SUNDAY",
-      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
-    },
-    {
-      "added_at": "2023-07-07 18:56:02",
-      "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Everybody's Got to Learn",
-      "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
-    },
-    {
       "added_at": "2023-07-07 18:56:11",
       "album": {
         "name": "Wagging Tongue (Remixes)",
@@ -347,154 +243,6 @@
       "duration_ms": 208314,
       "name": "MOVE (T5)",
       "url": "https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "Trailer Park Barbie.",
-        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 170087,
-      "name": "Trailer Park Barbie",
-      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "En El Calor\u00f3n",
-        "url": "https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        }
-      ],
-      "duration_ms": 159625,
-      "name": "En El Calor\u00f3n",
-      "url": "https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "Leave it at That",
-        "url": "https://open.spotify.com/album/5qZE3FDaYGUsjhc9CYzXdl"
-      },
-      "artists": [
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Leave it at That",
-      "url": "https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "Land Of The Sun",
-        "url": "https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "Land Of The Sun",
-      "url": "https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "Flooding the Gates",
-        "url": "https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Ouse",
-          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 145503,
-      "name": "welcome to my world",
-      "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "\u0425\u041c\u0410\u0420\u0418 (feat. Leo Mantis)",
-        "url": "https://open.spotify.com/album/4e7oVYfz2etFccIJf9DTIU"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Leo Mantis",
-          "url": "https://open.spotify.com/artist/2UjbBdwpFMsdGmih0cgp6V"
-        }
-      ],
-      "duration_ms": 172141,
-      "name": "\u0425\u041c\u0410\u0420\u0418 (feat. Leo Mantis)",
-      "url": "https://open.spotify.com/track/42BnNSAR84JP6PzPsOIy1O"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "Without You (feat. Elle King)",
-        "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Without You (feat. Elle King)",
-      "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "added_at": "2023-06-30 04:17:27",
-      "album": {
-        "name": "June 22nd",
-        "url": "https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "June 22nd",
-      "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
     },
     {
       "added_at": "2023-06-30 04:17:27",

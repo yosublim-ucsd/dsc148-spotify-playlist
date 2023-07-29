@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o"
+      },
+      "artists": [
+        {
+          "name": "Billy Otto",
+          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
+        },
+        {
+          "name": "Kabrio",
+          "url": "https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183363,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt"
       },
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186000,
       "name": "My Only",
       "url": "https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh"

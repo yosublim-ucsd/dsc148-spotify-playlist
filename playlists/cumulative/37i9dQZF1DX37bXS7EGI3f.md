@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-546 songs - 1 day 17 hr 56 min
+547 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bulletproof](https://open.spotify.com/track/3fW5bM0HE0C6SjmATeMhOp) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Seven](https://open.spotify.com/album/7BmZ8XbskH7qzoBux13TZb) | 3:42 | 2021-08-28 | 2022-04-02 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2022-07-13 | 2022-07-29 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-13 | 2022-07-30 |
+| [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 | 2023-07-28 |  |
 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2023-04-16 |
 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 |  |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
@@ -214,7 +215,7 @@
 | [Heart of Steel](https://open.spotify.com/track/3MyANWSUWkYyEUqMSZl3jO) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Heart of Steel](https://open.spotify.com/album/4pVcx7JLwNVQL6TstlF4W8) | 4:52 | 2021-09-04 | 2022-04-29 |
 | [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 | 2021-02-19 |
 | [Heavy Feather \- Instrumental](https://open.spotify.com/track/76x5nwldCeYU31phA3LkUB) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Epicenter \(Instrumental\)](https://open.spotify.com/album/0TJAjBZ7U52aZvfeyPMl4W) | 4:31 | 2022-07-13 | 2022-07-15 |
-| [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 | 2022-02-11 |  |
+| [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 | 2022-02-11 | 2023-07-29 |
 | [Heroes Die](https://open.spotify.com/track/2CGVvNMRqHjy57VxYMN6zG) | [Watch Out Stampede](https://open.spotify.com/artist/4l7aT8cxtdfmUoxd2s7A94) | [Heroes Die](https://open.spotify.com/album/35kceTLzgl1A9Hz8ickQUu) | 4:05 | 2022-01-21 | 2022-03-18 |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-11-29\* | 2021-05-21 |
 | [Heroes out of Time](https://open.spotify.com/track/3R8rYXcluJWC0oAQDRki7S) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Heroes out of Time](https://open.spotify.com/album/0L9IXczpIBhsr8h22Iept6) | 3:42 | 2021-06-11 | 2021-09-04 |

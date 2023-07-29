@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-251 songs - 13 hr 53 min
+252 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [I Saw Three Ships](https://open.spotify.com/track/556WbQbFI94lJCiPY8981h) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Christmas](https://open.spotify.com/album/65ubsfvf66iJTF0jTKQqgX) | 4:20 | 2021-12-24 | 2022-07-29 |
 | [I Want It Bad](https://open.spotify.com/track/2kDPCtHDXDhvC8epJJ3KnB) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3), [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [I Want It Bad](https://open.spotify.com/album/1IF2RnFShtveK7O0bJBdC7) | 3:45 | 2021-12-24 | 2022-07-24 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 | 2021-12-24 | 2022-12-13 |
+| [I'll Be There Christmas Eve](https://open.spotify.com/track/5o0IMPMQXJH6EBQ2MBKDtj) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [I'll Be There Christmas Eve](https://open.spotify.com/album/2fakcoxrAy38qBMoa8uocm) | 4:14 | 2022-12-16 |  |
 | [I'll Be There Christmas Eve](https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [I'll Be There Christmas Eve](https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD) | 4:14 | 2021-12-24 | 2023-01-19 |
 | [I'm Ready For Christmas](https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [I'm Ready For Christmas](https://open.spotify.com/album/7aiiUn98kVj0zp0ZQf6pSO) | 2:25 | 2022-12-02 |  |
 | [If Christmas Comes This Year](https://open.spotify.com/track/1n89cEk1qmayPDVUlEwejQ) | [Bend Sinister](https://open.spotify.com/artist/0M8upUM1eHBV8q34qCbqSq) | [If Christmas Comes This Year](https://open.spotify.com/album/4nghqvirqhtoelbyFkgfYr) | 4:10 | 2021-12-24 | 2022-07-29 |
@@ -212,7 +213,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Sleigh Ride](https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop) | 3:05 | 2022-10-29 |  |
 | [Slide On Christmas](https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Slide On Christmas](https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ) | 3:56 | 2021-12-24 |  |
 | [Snow Place Like Home](https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Snow Place Like Home](https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8) | 3:20 | 2021-12-24 |  |
-| [Someday at Christmas](https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Someday at Christmas](https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0) | 3:06 | 2021-12-24 |  |
+| [Someday at Christmas](https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Someday at Christmas](https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0) | 3:06 | 2021-12-24 | 2023-07-29 |
 | [Sometimes A Whisper](https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Amero Little Christmas](https://open.spotify.com/album/0jXf1Ua0zJdfKgOo4dLGCy) | 3:41 | 2021-12-24 | 2022-07-29 |
 | [Sometimes A Whisper](https://open.spotify.com/track/2eK7jQ79l60Pdnuv9lWu4C) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Amero Little Christmas](https://open.spotify.com/album/7Eun4E53zX1dZGDFIIDTKz) | 3:41 | 2021-12-24 | 2022-10-30 |
 | [Song for a Winter's Night](https://open.spotify.com/track/4ajgMDTE5a7HTcw4EsYTgC) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Song for a Winter's Night](https://open.spotify.com/album/5PVZrAbO6wchccRFf5HnWm) | 3:08 | 2021-12-24 | 2022-07-29 |

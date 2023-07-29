@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: CLUBZ",
+  "description": "Fresh Latin Indie. Cover: Ramona",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167843,
       "name": "Aunque nunca te lo diga",
       "url": "https://open.spotify.com/track/3bknyaIwxNamskujz37Gom"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199402,
       "name": "Fuego - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
@@ -3396,6 +3396,28 @@
       "duration_ms": 173320,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7KgYdNJpqOGhtZMCWLHwgz"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "The Citie",
+          "url": "https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0lDFMgOWHOBziopIEPUEX2"
     },
     {
       "album": {
@@ -7431,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "UN A\u00d1O DE MIERDA",
+        "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170362,
+      "name": "UN A\u00d1O DE MIERDA",
+      "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda",
         "url": "https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK"
       },
@@ -7500,7 +7540,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 329068,
       "name": "Un lazo rojo, un agujero (feat. Kase O)",
       "url": "https://open.spotify.com/track/4tHXURNyAQZewk2LQI0YCE"
@@ -7746,6 +7786,24 @@
       "duration_ms": 242000,
       "name": "Volves",
       "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
+    },
+    {
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "album": {

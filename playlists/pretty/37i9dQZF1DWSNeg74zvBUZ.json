@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj",
+  "snapshot_id": "MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
-    },
-    {
       "added_at": "2022-05-18 01:33:16",
       "album": {
         "name": "Point Zero",
@@ -795,6 +775,26 @@
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
     },
     {
       "added_at": "2022-08-03 03:18:13",

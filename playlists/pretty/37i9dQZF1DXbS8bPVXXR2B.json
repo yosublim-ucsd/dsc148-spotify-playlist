@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 212541,
+  "num_followers": 212655,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
+  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
-      },
-      "artists": [
-        {
-          "name": "Joe Smooth",
-          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
-        }
-      ],
-      "duration_ms": 331706,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
+      },
+      "artists": [
+        {
+          "name": "Joe Smooth",
+          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
+        }
+      ],
+      "duration_ms": 331706,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Leon Ware",
         "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 250173,
       "name": "Why I Came to California",
       "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Summertime Groove",
-        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
-      },
-      "artists": [
-        {
-          "name": "Bohannon",
-          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
-        }
-      ],
-      "duration_ms": 352106,
-      "name": "Let's Start The Dance",
-      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Funk / Soul / Disco",
         "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 177653,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Summertime Groove",
+        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
+      },
+      "artists": [
+        {
+          "name": "Bohannon",
+          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
+        }
+      ],
+      "duration_ms": 352106,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",

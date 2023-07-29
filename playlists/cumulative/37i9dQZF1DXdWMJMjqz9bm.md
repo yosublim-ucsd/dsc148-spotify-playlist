@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-558 songs - 1 day 1 hr 35 min
+559 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-05 | 2023-07-22 |
 | [Euphoria](https://open.spotify.com/track/3OO9piUhjFmPRlKv4AM7sl) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Euphoria](https://open.spotify.com/album/0xJXXwBEoMSWowPIs3iGIm) | 2:52 | 2023-04-07 |  |
 | [Every Season](https://open.spotify.com/track/0Z1RYues9se6bzT0Fnaptb) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [Every Season](https://open.spotify.com/album/3SdqNIbAVIDXSyBd3Igkon) | 2:41 | 2023-02-03 | 2023-04-09 |
-| [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-29 |  |
+| [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-29 | 2023-07-29 |
+| [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2022-11-29 |  |
 | [eyes wide, open air](https://open.spotify.com/track/2JGppZ6R7S8dOIuHqxI07y) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [eyes wide, open air](https://open.spotify.com/album/0gZVaHoQdcTRT71sSJ2QnA) | 1:51 | 2023-05-26 |  |
 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 | 2022-04-04 | 2022-04-07 |
 | [Fall Again](https://open.spotify.com/track/7sYwBsZQ775DglPjuz8p3S) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3) | 2:12 | 2022-05-06 | 2022-07-07 |

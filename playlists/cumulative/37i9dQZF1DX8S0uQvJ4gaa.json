@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Tiera Kennedy",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Mitchell Tenpenny",
   "name": "New Boots",
   "tracks": [
     {
@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Introducing: Lauren Watkins",
+        "url": "https://open.spotify.com/album/7xZb3Il98QIiag803YmofH"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185938,
+      "name": "Anybody But You",
+      "url": "https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g"
+    },
+    {
+      "album": {
         "name": "State I'm In",
         "url": "https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj"
       },
@@ -2849,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Bigger Mistakes",
+        "url": "https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179228,
+      "name": "Bigger Mistakes",
+      "url": "https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4"
+    },
+    {
+      "album": {
         "name": "Black and White",
         "url": "https://open.spotify.com/album/3AT1nne2mrjNoLgEMl7KyA"
       },
@@ -3274,7 +3310,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181746,
       "name": "Brain On Love",
       "url": "https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d"
@@ -5902,7 +5938,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
@@ -8704,7 +8740,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190533,
       "name": "Get Her Back",
       "url": "https://open.spotify.com/track/09SgFIKRvyQG8AvmdLWFhR"
@@ -11217,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/5NdYqiRuJdRIyHZU0OIEYy"
+    },
+    {
+      "album": {
         "name": "Heart's In Your Head",
         "url": "https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf"
       },
@@ -11344,10 +11398,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197803,
+      "name": "Heartbroken - Jessie Version",
+      "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
     },
     {
       "album": {
@@ -14610,6 +14686,24 @@
       "duration_ms": 183933,
       "name": "In The Car",
       "url": "https://open.spotify.com/track/2OVTLNxAYXQbvgORjadFE5"
+    },
+    {
+      "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
     },
     {
       "album": {
@@ -22798,7 +22892,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177720,
       "name": "Sad Ass Country Song",
       "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
@@ -23134,7 +23228,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189782,
       "name": "Second Guessing",
       "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
@@ -25239,6 +25333,28 @@
     },
     {
       "album": {
+        "name": "Dive Bars & Broken Hearts EP",
+        "url": "https://open.spotify.com/album/5GdX1cmOWhsYhbtAiIY5de"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Spirits and Demons (with Meghan Patrick)",
+      "url": "https://open.spotify.com/track/50EGsYVI4bC5AmfYp5KFvl"
+    },
+    {
+      "album": {
         "name": "Spring Cleaning",
         "url": "https://open.spotify.com/album/6PlNsNribLuTRMqzsD2l7h"
       },
@@ -25542,6 +25658,24 @@
       "duration_ms": 222400,
       "name": "Stereotype",
       "url": "https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5"
+    },
+    {
+      "album": {
+        "name": "Strait Two Stepping",
+        "url": "https://open.spotify.com/album/52eg7C6rpSu8wG6oi7ZBG7"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "Stetson",
+      "url": "https://open.spotify.com/track/5jQICwvgUzWQhUB94SsJU8"
     },
     {
       "album": {
@@ -29256,7 +29390,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 204626,
       "name": "Wasted Prayers",
       "url": "https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx"

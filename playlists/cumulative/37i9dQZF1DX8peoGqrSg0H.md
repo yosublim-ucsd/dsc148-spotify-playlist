@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Patrickananda
 
-360 songs - 21 hr 43 min
+361 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Jackpot](https://open.spotify.com/track/4rRdf1zm1Iqjznlbrml2GZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Jackpot](https://open.spotify.com/album/7iNT2d7jvOVtqwZYxPlJ3O) | 3:28 | 2022-09-15 | 2022-09-30 |
 | [JUST DANCE](https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [JUST DANCE](https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs) | 3:32 | 2023-01-26 | 2023-02-03 |
 | [KNOCK KNOCK](https://open.spotify.com/track/2GCrGVTyymC8vXphc3uyep) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [JORIN](https://open.spotify.com/artist/4bKVuNT3nWDxl0Flezx1rj) | [KNOCK KNOCK](https://open.spotify.com/album/2ODK98p3Xfg56ZSGWkl6a4) | 3:12 | 2023-06-22 |  |
+| [LaLaLook](https://open.spotify.com/track/2j5fCX90N2VKYmX9PnMI1T) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LaLaLook](https://open.spotify.com/album/6mH83F5NmCOkTcnJ3jMkdA) | 2:50 | 2023-07-28 |  |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-07-01 | 2022-07-15 |
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 | 2022-08-26 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 |  |
@@ -66,7 +67,7 @@
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 |  |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 | 2022-07-24 |
-| [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 | 2023-07-21 |  |
+| [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 | 2023-07-21 | 2023-07-29 |
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |

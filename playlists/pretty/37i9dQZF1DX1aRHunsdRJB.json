@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9628,
+  "num_followers": 9637,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy",
+  "snapshot_id": "MCxhN2I0MDVlNzQ3YTgyZDA5ZWZiN2E1OTkxYTMwMmM5ZDY1MDA2ZDVh",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
-      },
-      "artists": [
-        {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
+      },
+      "artists": [
+        {
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Wedding Album",
-        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 219846,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stage Gone Bad",
         "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
       },
@@ -543,22 +527,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bottle over Head",
-        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
+        "name": "The Wedding Album",
+        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
       },
       "artists": [
         {
-          "name": "Triniboi Joocie",
-          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
-        },
-        {
-          "name": "Wetty Beatz",
-          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Bottle over Head",
-      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
+      "duration_ms": 219846,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -575,6 +555,26 @@
       "duration_ms": 210806,
       "name": "Up Top Boss",
       "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bottle over Head",
+        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
+      },
+      "artists": [
+        {
+          "name": "Triniboi Joocie",
+          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
+        },
+        {
+          "name": "Wetty Beatz",
+          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bottle over Head",
+      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Arch & Bend Riddim Reloaded",
         "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
       },
@@ -703,6 +683,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 230711,
       "name": "Captain",
       "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2011",
+        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Guh Down",
+      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 126458,
       "name": "Man with Ride (Big Ride)",
       "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2011",
-        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Guh Down",
-      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Ba Ba Ben (Remix)",
         "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 205139,
       "name": "Ba Ba Ben - Remix",
       "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
       "artists": [
         {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -971,22 +971,6 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 175216,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
     },
     {
       "added_at": "2022-02-24 18:00:00",

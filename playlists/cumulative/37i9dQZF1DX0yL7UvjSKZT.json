@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Don't You Worry",
+        "url": "https://open.spotify.com/album/5fjTlX605RKxA3m9TUqAmO"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174512,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/64E7Uomo77yvmBsjcscFFk"
+    },
+    {
+      "album": {
         "name": "Bright Shadow",
         "url": "https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO"
       },

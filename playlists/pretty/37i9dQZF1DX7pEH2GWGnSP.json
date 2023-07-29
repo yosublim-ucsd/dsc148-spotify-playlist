@@ -1,15 +1,35 @@
 {
   "description": "Hear all of LE SSERAFIM's biggest and best hits in one playlist.",
-  "num_followers": 65346,
+  "num_followers": 65919,
   "original_name": "This Is LE SSERAFIM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTFkNzcxYTEzNzQzODFkNDEwZWQ4ZTlkYmMyYmZhYjQxOGRjNjc0",
+  "snapshot_id": "MCw5ODkwN2RmNWJmOTVmNTc1NzRmNzU5ZWVhZTQyNjYzZDc2OTU1M2Zm",
   "tracks": [
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
+    },
+    {
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
         "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "BASTIONS OST Part.4",
         "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. UPSAHL)",
         "url": "https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
         "url": "https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS (Japanese ver.)",
         "url": "https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN"
     },
     {
-      "added_at": "2023-07-25 09:00:00",
+      "added_at": "2023-07-28 09:13:29",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"

@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=0XmLSTPMRw28DgCCiBeQkw\">Kingdmusic</a>\n",
-  "num_followers": 28126,
+  "num_followers": 28256,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmI0MzlkY2M4NjVjMjJlYzY4N2Q2ZWJmNThiZDFhOWJiZDFiMDQz",
+  "snapshot_id": "MCwxNGI2ZWJlM2UxMGYyNzAwZjRiMjIwNGIxYThhODUwM2I2MWFlZGZi",
   "tracks": [
     {
       "added_at": "2023-05-05 07:24:36",
@@ -59,6 +59,26 @@
       "duration_ms": 246252,
       "name": "Messiah - Live",
       "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Keep me",
+        "url": "https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Keep me",
+      "url": "https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI"
     },
     {
       "added_at": "2023-07-21 00:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Cosculluela en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Trueno y Cypress Hill en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -188,6 +188,32 @@
       "duration_ms": 178349,
       "name": "A Mi Lado",
       "url": "https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6"
+    },
+    {
+      "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210148,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
     },
     {
       "album": {
@@ -644,7 +670,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 541931,
       "name": "Bajo y Bater\u00eda",
       "url": "https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz"
@@ -1759,6 +1785,28 @@
     },
     {
       "album": {
+        "name": "FUCK EL POLICE (REMIX)",
+        "url": "https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142916,
+      "name": "FUCK EL POLICE - REMIX",
+      "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
+    },
+    {
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -2143,6 +2191,40 @@
     },
     {
       "album": {
+        "name": "La Gracia De Dios",
+        "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Polakan",
+          "url": "https://open.spotify.com/artist/66Q0sKoITOwDGz49FOVlBa"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270897,
+      "name": "La Gracia De Dios",
+      "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
+    },
+    {
+      "album": {
         "name": "La Jaula De Los Vivos",
         "url": "https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o"
       },
@@ -2484,7 +2566,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181765,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
@@ -2726,7 +2808,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178064,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
@@ -3056,7 +3138,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186598,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE"
@@ -3509,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "Quiero Ser Baladista",
+        "url": "https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342142,
+      "name": "Quiero Ser Baladista",
+      "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n No Llora",
         "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
       },
@@ -3666,7 +3770,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225542,
       "name": "Se Fue la Luz",
       "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
@@ -4600,7 +4704,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 153624,
       "name": "Whos That B!Tch?",
       "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
@@ -4670,7 +4774,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 258100,
       "name": "\u00daltimo Adi\u00f3s",
       "url": "https://open.spotify.com/track/62NGexdWmThjmnnlobPev4"

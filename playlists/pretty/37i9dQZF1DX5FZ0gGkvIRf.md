@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,455 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,609 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Without Me](https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:44 |
 | 100 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/1kZN785OeP13ZUkFYdBGC8) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia \(Remixed & Remastered\)](https://open.spotify.com/album/5MqN56Ebc9XAkrHqK6aH8X) | 5:22 |
 
-Snapshot ID: `MCwxNTE2OGVhZjc2YjAxYTQ0Y2FiNTFiNzM2MDE3ODBhOWRmNjNhYmIw`
+Snapshot ID: `MCxiODZhN2ZiM2JmOWI3NGExMzliOGJhNGM3NTQ3NzBmZjY3YTcyZDM1`

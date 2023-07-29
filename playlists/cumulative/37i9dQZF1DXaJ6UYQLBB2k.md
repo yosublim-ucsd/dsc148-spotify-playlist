@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-93 songs - 9 hr 13 min
+96 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Laika](https://open.spotify.com/track/7zFv2VmCMIQR2S9bTJ5KEY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 14:34 | 2021-12-23 |  |
 | [Landscape of Watermill](https://open.spotify.com/track/53hib0jvi2IwcrHuOJPgG2) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 3:29 | 2023-03-17 |  |
 | [Lanzarote](https://open.spotify.com/track/328Dtn2EjoTCPuULdZGmod) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 8:39 | 2021-12-23 | 2023-02-02 |
-| [Lanzarote](https://open.spotify.com/track/4m3PCeereQNS2gm7jGiS1P) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 8:39 | 2022-12-30 |  |
+| [Lanzarote](https://open.spotify.com/track/4m3PCeereQNS2gm7jGiS1P) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 8:39 | 2022-12-30 | 2023-07-29 |
+| [Lanzarote](https://open.spotify.com/track/5kHqUtqCFaq9EESbrZw5gP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 8:39 | 2023-03-17 |  |
 | [Longing for Daydreams](https://open.spotify.com/track/0lPoWjJaNfHm16girMZV7v) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/2e8sm7FQGeZYHWEUVS5SbY) | 5:22 | 2022-05-27 | 2023-04-29 |
 | [Longing for Daydreams](https://open.spotify.com/track/3eMaSyw62uUrKDO9OvvDPK) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/4gfW4tGcxI80enNnTt1JBz) | 5:22 | 2021-12-23 | 2022-07-29 |
 | [Longing for Daydreams](https://open.spotify.com/track/5EfmoZ1zdBQpMzdph5fB4m) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/6wRk2945jQMiIZ6li2VAuk) | 5:22 | 2023-03-17 |  |
@@ -84,8 +85,9 @@
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2021-12-23 |  |
 | [Shinsen](https://open.spotify.com/track/00J8P1V7Vbwyh8QLnvbGAL) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:33 | 2021-12-23 |  |
 | [Shipgate](https://open.spotify.com/track/46H94greW63poe7V2ixSsx) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:27 | 2021-12-23 |  |
-| [Slip, Dip](https://open.spotify.com/track/0WEw3j0294lP22HJsePQLJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop \(Expanded Edition\)](https://open.spotify.com/album/4sZvfu1CSNQg7qbYWLKyb5) | 2:18 | 2022-12-30 |  |
+| [Slip, Dip](https://open.spotify.com/track/0WEw3j0294lP22HJsePQLJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop \(Expanded Edition\)](https://open.spotify.com/album/4sZvfu1CSNQg7qbYWLKyb5) | 2:18 | 2022-12-30 | 2023-07-29 |
 | [Slip, Dip](https://open.spotify.com/track/2YyXej3Cwztlc8ijBDh5vR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/6Fb5fYghhLgnEniAMICvjA) | 2:18 | 2021-12-23 | 2023-02-03 |
+| [Slip, Dip](https://open.spotify.com/track/6ojsXeD3w20xqo5mviF7fg) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/5WqLE2reJ9FXUyiYuBx4h7) | 2:18 | 2023-03-17 |  |
 | [Store Check](https://open.spotify.com/track/7c0T2g54R3Ig28W57TCXKy) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:00 | 2021-12-23 |  |
 | [Surfacing](https://open.spotify.com/track/6YATWkNk120ofMCau5ePPx) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 13:17 | 2021-12-23 |  |
 | [Teimo \(Schluss\)](https://open.spotify.com/track/6LYfs6v1boQ62a8NxdXYhX) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Teimo](https://open.spotify.com/album/76FkQcJMz7ichnvIUZoYRm) | 4:22 | 2021-12-23 |  |
@@ -94,7 +96,8 @@
 | [The Tower](https://open.spotify.com/track/2Ew9aqhpxnNLxZgLdgdoki) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:43 | 2021-12-23 |  |
 | [The Well of Sadness](https://open.spotify.com/track/6UGe3souOEyLAGTPk5KJNe) | [Raison D'être](https://open.spotify.com/artist/0NOdtBd6AUb9WLGfVU1yDR) | [In Sadness, Silence and Solitude \(Expanded\)](https://open.spotify.com/album/0P45LydyGcy4a2MK0peptI) | 8:19 | 2021-12-23 | 2022-03-11 |
 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-23 | 2023-02-03 |
-| [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 | 2022-12-30 |  |
+| [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 | 2022-12-30 | 2023-07-29 |
+| [Triennale](https://open.spotify.com/track/4Ly1RN4O1aBZruEPJtxfjC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 4:06 | 2023-03-17 |  |
 | [Uds](https://open.spotify.com/track/0loEkNLUcvea4FK4yFEtni) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Hotel Paral.lel](https://open.spotify.com/album/1dE84ei4z2SdzcQIbQIfwX) | 3:33 | 2021-12-23 |  |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-12-23 |  |
 | [Waveform \- 1996 Remix](https://open.spotify.com/track/3YfaYTexBvb3O3lqYVcBER) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 7:32 | 2021-12-23 |  |

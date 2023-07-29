@@ -1,12 +1,12 @@
 {
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
-  "num_followers": 3942,
+  "num_followers": 4057,
   "original_name": "Top Gaming Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTFhMzNlM2M1MGJjNjVmYjllZDVjOTBjZjIxZjM2OGM4N2I5N2Fi",
+  "snapshot_id": "MCxlM2FmNjlkMWJkNWFiY2ZjOWI3NWI5NDRhOTAzYmFkNmRjYzE3MTc4",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Rockport Espacial",
+        "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "duration_ms": 233300,
+      "name": "Ma Vie (feat. Yay)",
+      "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Gasolina (feat. Myke Towers) [Safari Riot Remix]",
         "url": "https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 152295,
       "name": "Gasolina (feat. Myke Towers) - Safari Riot Remix",
       "url": "https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Rockport Espacial",
-        "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        },
-        {
-          "name": "Yay",
-          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
-        }
-      ],
-      "duration_ms": 233300,
-      "name": "Ma Vie (feat. Yay)",
-      "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "12x3",
-        "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
     },
     {
       "added_at": "2023-06-16 06:00:00",

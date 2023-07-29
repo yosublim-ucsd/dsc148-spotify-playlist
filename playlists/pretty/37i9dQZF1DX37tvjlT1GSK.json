@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. El Fantasma en portada. ",
-  "num_followers": 734778,
+  "num_followers": 734915,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDZlN2IzZDY0N2EyNjdmMGZjY2VkODliZWY0MWIwMzA3ZTgxNjBi",
+  "snapshot_id": "MCw4YzVlNWVkYzlkY2Y2MDg2NzcwMDgzY2I2ZmU2MGM5Y2NhNmU2NTU3",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Duro Le Chingamos",
-        "url": "https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 147213,
-      "name": "Duro Le Chingamos",
-      "url": "https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Ni\u00f1a Fiel",
         "url": "https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 191259,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Duro Le Chingamos",
+        "url": "https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 147213,
+      "name": "Duro Le Chingamos",
+      "url": "https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Efecto Al Corazon",
+      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Hasta el D\u00eda de Hoy (En Vivo)",
         "url": "https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5"
       },
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Efecto Al Corazon",
-      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1767,22 +1783,6 @@
       "duration_ms": 235742,
       "name": "Cuando Te Ame - En Vivo",
       "url": "https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Qui\u00e9n Se Apunta",
         "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1999,6 +1999,22 @@
       "duration_ms": 212004,
       "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Empezar de Nuevo",
+        "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 227509,
+      "name": "Empezar de Nuevo",
+      "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -2071,22 +2087,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Empezar de Nuevo",
-        "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 227509,
-      "name": "Empezar de Nuevo",
-      "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
@@ -2137,6 +2137,22 @@
       "url": "https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO"
     },
     {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "duration_ms": 214987,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br"
+    },
+    {
       "added_at": "2023-06-30 06:00:00",
       "album": {
         "name": "M\u00eda Un A\u00f1o",
@@ -2171,22 +2187,6 @@
       "duration_ms": 130375,
       "name": "Era El \u00danico",
       "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        }
-      ],
-      "duration_ms": 214987,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br"
     },
     {
       "added_at": "2023-06-30 06:00:00",

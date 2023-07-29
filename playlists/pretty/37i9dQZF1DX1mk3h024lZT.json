@@ -1,15 +1,35 @@
 {
   "description": "set your intentions at the highest of vibrations. ",
-  "num_followers": 60253,
+  "num_followers": 60347,
   "original_name": "supermoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODgzYjA0ZTcwOTg0ZDkwODcwYmRlN2JiMGQ4NDVhODg1MjhlODU2",
+  "snapshot_id": "MCxmNTA1MGIxNjAwNzI5MzQwYjhmNzk5ODM3MTkwZjQ1NGVhNjA5ZGQ1",
   "tracks": [
     {
-      "added_at": "2022-12-14 20:46:51",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/3jJNg3l3NoZwQKESfr04VS"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2022-11-08 20:12:28",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -73,23 +93,7 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-11-08 20:12:28",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
@@ -109,7 +113,7 @@
       "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
@@ -125,7 +129,7 @@
       "url": "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "SUPERBLOOM",
         "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
@@ -141,23 +145,23 @@
       "url": "https://open.spotify.com/track/5icIdyBlKaRbhzPJU68xMu"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
@@ -177,7 +181,7 @@
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2022-11-08 20:12:28",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD"
@@ -193,7 +197,7 @@
       "url": "https://open.spotify.com/track/0I4658wYMK45Ffx1IlKRjG"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]",
         "url": "https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv"
@@ -221,7 +225,7 @@
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
     },
     {
-      "added_at": "2022-11-08 20:12:28",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
@@ -241,7 +245,7 @@
       "url": "https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5fM4du8mdVKzG1hZDAfazY"
@@ -257,23 +261,23 @@
       "url": "https://open.spotify.com/track/7rc6L3UtM0uvwfpsl07GBL"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         }
       ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
@@ -289,23 +293,23 @@
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Mental Health",
         "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
@@ -321,23 +325,23 @@
       "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
@@ -353,7 +357,23 @@
       "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Where the Light Is",
         "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
@@ -781,23 +801,7 @@
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257840,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
-    },
-    {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
     },
     {
-      "added_at": "2022-08-09 22:19:15",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"

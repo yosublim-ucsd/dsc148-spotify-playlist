@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1361,
+  "num_followers": 1365,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzI2NWY1YTRmN2QxNzliZjUxNTE2MzA2MGI0OWQ2YTgyN2QyZmYz",
+  "snapshot_id": "MCwwNjIzMDNiNGE4ZDMwZjdmNjcyMjQwZTI4YTEyODgyMmVjMWQxZTY0",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
         "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "9 5 . s o u t h",
+      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 214214,
       "name": "Commercial (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "9 5 . s o u t h",
-      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -639,22 +623,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "High Off Life",
-        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Hard To Choose One",
-      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -675,22 +643,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 246666,
-      "name": "2 Of Amerikaz Most Wanted",
-      "url": "https://open.spotify.com/track/6S5SJlNXgrUBTLa58NMwGk"
+      "duration_ms": 193656,
+      "name": "Hard To Choose One",
+      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -711,6 +675,26 @@
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "2 Of Amerikaz Most Wanted",
+      "url": "https://open.spotify.com/track/6S5SJlNXgrUBTLa58NMwGk"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -755,22 +739,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
       },
@@ -799,6 +767,22 @@
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -871,6 +855,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "I Hate YoungBoy",
         "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
       },
@@ -887,18 +887,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Detail",
+          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
+      "duration_ms": 222866,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -963,22 +967,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         },
         {
-          "name": "Detail",
-          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 222866,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
+      "duration_ms": 192000,
+      "name": "My Window (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

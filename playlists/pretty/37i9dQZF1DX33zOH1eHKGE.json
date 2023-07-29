@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 54927,
+  "num_followers": 54949,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVlZDQzOTkxODIxNjEyMzVkNTA5ZWMyMDhkOGFmY2UxMTU0OGE3",
+  "snapshot_id": "MCwyZDI5NjMxM2Q0ODNmYTkzYzkxODhmODdhZjNhYjE2ZDg4ZjAzZTEx",
   "tracks": [
     {
       "added_at": "2023-05-19 16:54:38",
@@ -767,26 +767,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -815,22 +811,26 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Rave Out",
+        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 148155,
+      "name": "Rave Out",
+      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Wasted Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
       },
@@ -1055,30 +1079,6 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "Rave Out",
-        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 148155,
-      "name": "Rave Out",
-      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Ready To Fly (Sub Focus & Dimension)",
-        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Ready To Fly - Sub Focus & Dimension",
-      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Drive (feat. Wes Nelson)",
         "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 179374,
       "name": "Drive (feat. Wes Nelson)",
       "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Ready To Fly (Sub Focus & Dimension)",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Ready To Fly - Sub Focus & Dimension",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
     },
     {
       "added_at": "2023-05-19 16:54:38",

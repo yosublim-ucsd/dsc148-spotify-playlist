@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-403 songs - 23 hr 6 min
+404 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Call Your Girlfriend](https://open.spotify.com/track/1P0h5mzonDDnntjobrHJsw) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Call Your Girlfriend](https://open.spotify.com/album/1ET8uKlskrO9yfPOL654UU) | 3:07 | 2022-03-11 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/6dLJcxHBJvift9UIKwMy55) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Can't Feel My Face](https://open.spotify.com/album/0Olhook3bctGZesshPROlZ) | 2:32 | 2021-12-24 | 2022-04-16 |
 | [Can't Feel My Face](https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:21 | 2021-12-24 |  |
+| [Can't Get You Out Of My Head](https://open.spotify.com/track/1oaXPKmEw2VS2ZlYvbSN14) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Can't Get You Out Of My Head](https://open.spotify.com/album/4dUf9aiNvwqVLQIhjGebto) | 3:29 | 2023-07-28 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2022-06-24 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-07-08 | 2022-12-30 |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-12-17 | 2022-07-29 |

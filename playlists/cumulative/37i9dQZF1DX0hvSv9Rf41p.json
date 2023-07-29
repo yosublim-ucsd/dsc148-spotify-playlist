@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147169,
       "name": "333",
       "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175135,
       "name": "ACHROMATIC (YOI)",
       "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197647,
       "name": "Angels",
       "url": "https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246394,
       "name": "Bass Music",
       "url": "https://open.spotify.com/track/3VAVQJDBGPDfseEJ1dqbVO"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147529,
       "name": "BDASWY",
       "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 140645,
       "name": "Be Here (La La La)",
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191120,
       "name": "Colors (feat. Eyelar) - REAPER Remix",
       "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213722,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152776,
       "name": "dashstar* - Yellow Claw Trap Edit",
       "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196800,
       "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 294340,
       "name": "Falling Fast (feat. GG Magree)",
       "url": "https://open.spotify.com/track/3TSk2ns9rVF8kiYOSuNx3r"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210666,
       "name": "FUNKONAUT",
       "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
@@ -4260,6 +4260,24 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "album": {
@@ -4806,7 +4824,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224000,
       "name": "HEAVENS DOOR",
       "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
@@ -5574,7 +5592,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 198400,
       "name": "KARMA (With Jazz Cartier)",
       "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226400,
       "name": "Laserbeam - Sullivan King Remix",
       "url": "https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX"
@@ -5922,7 +5940,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 231724,
       "name": "Let That Go",
       "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
@@ -6278,7 +6296,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 163764,
       "name": "MEGAZORD",
       "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
@@ -6462,7 +6480,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -6872,7 +6890,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
@@ -7022,7 +7040,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
@@ -7150,7 +7168,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202285,
       "name": "Nothing Hurts Like Goodbye (with Kiiara)",
       "url": "https://open.spotify.com/track/4328XbWYtIcN546IoHyZjh"
@@ -7176,6 +7194,28 @@
       "duration_ms": 220221,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d6jheZrGY0xNFNDeIGDrY"
+    },
+    {
+      "album": {
+        "name": "Novaform / Blueshift",
+        "url": "https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180531,
+      "name": "Novaform",
+      "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
     },
     {
       "album": {
@@ -7804,7 +7844,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155555,
       "name": "Party Jumpin'",
       "url": "https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc"
@@ -7950,7 +7990,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192009,
       "name": "Post-Rave Heist",
       "url": "https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6"
@@ -8725,6 +8765,24 @@
     },
     {
       "album": {
+        "name": "SABERNETIKS",
+        "url": "https://open.spotify.com/album/5mQf8iu5tgay5ySpa4Es0N"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195414,
+      "name": "SABERNETIKS",
+      "url": "https://open.spotify.com/track/6GiCwfKusZTPy6COKbNsQi"
+    },
+    {
+      "album": {
         "name": "Sad Robot",
         "url": "https://open.spotify.com/album/46uWZVzvLzeXGDHRTdCmjm"
       },
@@ -8908,7 +8966,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190053,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV"
@@ -9344,7 +9402,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 141951,
       "name": "Shoyu",
       "url": "https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA"
@@ -9520,7 +9578,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152083,
       "name": "Skydive",
       "url": "https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01"
@@ -9666,7 +9724,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172857,
       "name": "Space Candy",
       "url": "https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg"
@@ -9758,7 +9816,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
@@ -9864,7 +9922,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 292633,
       "name": "Stop Thinking (feat. Lights)",
       "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
@@ -10154,7 +10212,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162356,
       "name": "The Dead March",
       "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
@@ -10718,7 +10776,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 132051,
       "name": "Transport God",
       "url": "https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp"
@@ -10788,7 +10846,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 171470,
       "name": "Trials - NGHTMRE & SPACE LACES Club Mix",
       "url": "https://open.spotify.com/track/4Kh9qDoM7pDAYI5M0uAC8p"
@@ -10974,7 +11032,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168148,
       "name": "Unity",
       "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
@@ -11368,7 +11426,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205714,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"

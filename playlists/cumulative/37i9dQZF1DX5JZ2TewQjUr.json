@@ -3745,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "Lost Boy, Lost City",
+        "url": "https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143318,
+      "name": "Lost Boy, Lost City",
+      "url": "https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1"
+    },
+    {
+      "album": {
         "name": "lost you twice",
         "url": "https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx"
       },
@@ -11734,6 +11752,24 @@
       "duration_ms": 180372,
       "name": "\u9ebb\u5009",
       "url": "https://open.spotify.com/track/4oGGzCOYb2z7SLlIqGteSi"
+    },
+    {
+      "album": {
+        "name": "\u9f4b\u5561",
+        "url": "https://open.spotify.com/album/3EuCiGjBgwI1c5LBZD1azc"
+      },
+      "artists": [
+        {
+          "name": "SINK!",
+          "url": "https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120619,
+      "name": "\u9f4b\u5561",
+      "url": "https://open.spotify.com/track/11KWczNFNykV8w12zTLi6V"
     },
     {
       "album": {

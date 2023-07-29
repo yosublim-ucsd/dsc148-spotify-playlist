@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Invisible Things",
+        "url": "https://open.spotify.com/album/3zqeV3WO1Hphtv9wjHcr8h"
+      },
+      "artists": [
+        {
+          "name": "Aurora Dee Raynes",
+          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209509,
+      "name": "Crazy That You Love",
+      "url": "https://open.spotify.com/track/0DHKSn5QwJj6SB4lJVzBWV"
+    },
+    {
+      "album": {
         "name": "Crazy That You Love",
         "url": "https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"

@@ -1,13 +1,265 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=qsqmr240Tz2lC8OEr3UJVA\">Vrede</a> ",
-  "num_followers": 13730,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=LPtyeJVuQRGv3ijbtZJVHQ\">Rooksein</a> ",
+  "num_followers": 13744,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzA1ZWE3ZjRhY2M0NjY4ZDgzY2NjODVkOWVkYTZkNThlZDRiMDI4",
+  "snapshot_id": "MCwxNjJhNTk5NThiMTYwM2RmNjRjZGY2MjQ5M2E3NmU5MDUyN2I5MDM1",
   "tracks": [
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Hey Jy",
+        "url": "https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 200129,
+      "name": "Hey Jy",
+      "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        }
+      ],
+      "duration_ms": 175619,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Haunting You",
+        "url": "https://open.spotify.com/album/2Qf78FHmRbc3Qf34eTMPXY"
+      },
+      "artists": [
+        {
+          "name": "Oceans of Angels",
+          "url": "https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Haunting You",
+      "url": "https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Sosiaal Gebreek",
+        "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
+      },
+      "artists": [
+        {
+          "name": "Groot Oom John Tenoor",
+          "url": "https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Baby Tjoklits",
+      "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "duration_ms": 248684,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "All-Killer-Filler",
+        "url": "https://open.spotify.com/album/638YvHWgJnf6thTpWOCrUQ"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "duration_ms": 260626,
+      "name": "Escape (The Pi\u00f1a Colada Song)",
+      "url": "https://open.spotify.com/track/0r6cNe1xXtVjUYixphdXd1"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Black Magic Girl",
+        "url": "https://open.spotify.com/album/6vrQ3TNrEFgpWMD2nk5mET"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "duration_ms": 172502,
+      "name": "Black Magic Girl",
+      "url": "https://open.spotify.com/track/2wjI5Q9TSimAX41nzy3J24"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Almal Baklei",
+        "url": "https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 145694,
+      "name": "Almal Baklei",
+      "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "My Obsession",
+        "url": "https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE"
+      },
+      "artists": [
+        {
+          "name": "Jack Stone",
+          "url": "https://open.spotify.com/artist/1fuZsUTxoFVifBfXGSTOxh"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "My Obsession",
+      "url": "https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "When You Say",
+        "url": "https://open.spotify.com/album/2Z9HE6WmXtgjKUbBRpD7F7"
+      },
+      "artists": [
+        {
+          "name": "King Kind",
+          "url": "https://open.spotify.com/artist/0XWdYb3jMiE1h2V2NOudN1"
+        }
+      ],
+      "duration_ms": 238538,
+      "name": "When You Say",
+      "url": "https://open.spotify.com/track/5zPZTwAsUftw5Nqr47aCBE"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d"
+      },
+      "artists": [
+        {
+          "name": "Avolver",
+          "url": "https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Vreemd",
+        "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
+      },
+      "artists": [
+        {
+          "name": "Skelm",
+          "url": "https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD"
+        }
+      ],
+      "duration_ms": 222433,
+      "name": "Goue Lokke",
+      "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/6M9JzDweqMHPheeErDFWRm"
+      },
+      "artists": [
+        {
+          "name": "Broke 'n Free",
+          "url": "https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5"
+        }
+      ],
+      "duration_ms": 214662,
+      "name": "Drinking Alone",
+      "url": "https://open.spotify.com/track/0PvTuzW3IxIFZM7LwIRXR7"
+    },
+    {
+      "added_at": "2023-07-28 06:52:23",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt"
+      },
+      "artists": [
+        {
+          "name": "Gaz",
+          "url": "https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS"
+        }
+      ],
+      "duration_ms": 197438,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2"
+    },
     {
       "added_at": "2023-07-13 21:59:00",
       "album": {
@@ -39,58 +291,6 @@
       "duration_ms": 211227,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Vreemd",
-        "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
-      },
-      "artists": [
-        {
-          "name": "Skelm",
-          "url": "https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD"
-        }
-      ],
-      "duration_ms": 222433,
-      "name": "Goue Lokke",
-      "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Sosiaal Gebreek",
-        "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
-      },
-      "artists": [
-        {
-          "name": "Groot Oom John Tenoor",
-          "url": "https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Baby Tjoklits",
-      "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hoer In Beton",
-        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        },
-        {
-          "name": "Koos Kombuis",
-          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
-        }
-      ],
-      "duration_ms": 280248,
-      "name": "Hoer In Beton",
-      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -139,26 +339,6 @@
       "duration_ms": 246721,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3LA6VbrzapzPrBl7VaNyoD"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Almal Baklei",
-        "url": "https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 145694,
-      "name": "Almal Baklei",
-      "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -259,22 +439,6 @@
       "duration_ms": 196093,
       "name": "Old-fashioned Liefde",
       "url": "https://open.spotify.com/track/0f1shqFGToy3RJzZBojBli"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5Ok4qSR9XObWzkpgZlyK0B"
-      },
-      "artists": [
-        {
-          "name": "Yorxe",
-          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
-        }
-      ],
-      "duration_ms": 165221,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -397,22 +561,6 @@
       "url": "https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB"
     },
     {
-      "added_at": "2023-04-20 21:59:00",
-      "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/37wsV9XmhCSKIYMi9d7wf2"
-      },
-      "artists": [
-        {
-          "name": "West Coast Wolves",
-          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
-        }
-      ],
-      "duration_ms": 170896,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
-    },
-    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "C'est La Vie",
@@ -497,54 +645,6 @@
       "url": "https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R"
     },
     {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "Fuzz Machine EP",
-        "url": "https://open.spotify.com/album/06IXnbdQxlYFYi7Ve7wB2F"
-      },
-      "artists": [
-        {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
-        }
-      ],
-      "duration_ms": 200788,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j"
-    },
-    {
-      "added_at": "2023-05-05 04:14:59",
-      "album": {
-        "name": "Verby",
-        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
-      },
-      "artists": [
-        {
-          "name": "Swerwer",
-          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Verby",
-      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Redgrave",
-        "url": "https://open.spotify.com/album/77dtolOhRvRmsPHpu2FuIY"
-      },
-      "artists": [
-        {
-          "name": "Mann Friday",
-          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Redgrave",
-      "url": "https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ"
-    },
-    {
       "added_at": "2023-06-01 21:59:00",
       "album": {
         "name": "BEAUTIFUL LIES",
@@ -559,22 +659,6 @@
       "duration_ms": 232653,
       "name": "BEAUTIFUL LIES",
       "url": "https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI"
-    },
-    {
-      "added_at": "2023-05-05 04:14:59",
-      "album": {
-        "name": "Die Lig",
-        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
-      },
-      "artists": [
-        {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
-        }
-      ],
-      "duration_ms": 145528,
-      "name": "Die Lig",
-      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -607,70 +691,6 @@
       "duration_ms": 142045,
       "name": "The Monday Song",
       "url": "https://open.spotify.com/track/1xjVX1qvj8x8vNC86hMmuR"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "H.F.A.Y. (How Fake Are You)",
-        "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Hunter",
-          "url": "https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "H.F.A.Y. (How Fake Are You)",
-      "url": "https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Elektrik Ram",
-        "url": "https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 172003,
-      "name": "Rave to the Grave",
-      "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Love in Space",
-        "url": "https://open.spotify.com/album/1pNogA5UJLNJo8Eo0t6xyI"
-      },
-      "artists": [
-        {
-          "name": "The Color Blew",
-          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
-        }
-      ],
-      "duration_ms": 221006,
-      "name": "Love in Space",
-      "url": "https://open.spotify.com/track/1OXQqXkx0Nz3lheIrL5YWP"
-    },
-    {
-      "added_at": "2023-05-05 04:14:59",
-      "album": {
-        "name": "Good Little Girl",
-        "url": "https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A"
-      },
-      "artists": [
-        {
-          "name": "Saturn Return",
-          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
-        }
-      ],
-      "duration_ms": 205100,
-      "name": "Good Little Girl",
-      "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
     },
     {
       "added_at": "2023-06-08 21:59:00",
@@ -755,22 +775,6 @@
       "duration_ms": 291529,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Partners in Crime",
-        "url": "https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D"
-      },
-      "artists": [
-        {
-          "name": "Marene",
-          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Partners in Crime",
-      "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
     },
     {
       "added_at": "2023-06-08 21:59:00",

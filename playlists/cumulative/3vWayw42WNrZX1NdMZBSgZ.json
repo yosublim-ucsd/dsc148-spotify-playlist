@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Nicky Jam, Maluma &amp; The Chainsmokers",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Ramon Vega, Christian Nodal",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -2980,6 +2980,28 @@
       "duration_ms": 217627,
       "name": "Deprimida",
       "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
+    },
+    {
+      "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     },
     {
       "album": {
@@ -6750,7 +6772,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175175,
       "name": "Man\u00edaca",
       "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
@@ -7080,6 +7102,24 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
+    },
+    {
+      "album": {
+        "name": "Me Quieres Cuando No Estas Bien",
+        "url": "https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Me Quieres Cuando No Estas Bien",
+      "url": "https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2"
     },
     {
       "album": {
@@ -11698,7 +11738,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"

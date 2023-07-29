@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,483 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,757 likes - 90 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [B2K Presents "You Got Served" Soundtrack](https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT) | 3:52 |
 | 90 | [Ugly](https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Dark Days, Bright Nights](https://open.spotify.com/album/5k0DIwQUjfFWxxliiWVzxr) | 4:25 |
 
-Snapshot ID: `MCw4MDI5Y2MwZmVjZWNlOTAwNWZkZmZlNjE4MThjNDU2NDViMzdmYTBh`
+Snapshot ID: `MCw1NzgwZmVhYjg5Yjc0NDNkN2UzODcxNGViYmVjOTE4OWY4NGYwMTJi`

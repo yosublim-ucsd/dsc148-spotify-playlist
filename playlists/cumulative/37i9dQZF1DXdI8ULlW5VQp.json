@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Cantamores en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170542,
       "name": "Anclada",
       "url": "https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT"
@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
         "name": "chanteo sad",
         "url": "https://open.spotify.com/album/1pMF153QaeKfsn93KRfQTT"
       },
@@ -1385,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Despeinada",
+        "url": "https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A"
+      },
+      "artists": [
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209167,
+      "name": "Despeinada",
+      "url": "https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s De Ti",
         "url": "https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu"
       },
@@ -1504,7 +1544,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152483,
       "name": "Donde Nadie",
       "url": "https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a"
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192500,
       "name": "Lecciones De Una Vida Cag\u00e1ndola En El Amor - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU"
@@ -2563,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+    },
+    {
+      "album": {
         "name": "Mares De Miel",
         "url": "https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba"
       },
@@ -2665,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov"
+    },
+    {
+      "album": {
         "name": "Mi Imaginaci\u00f3n",
         "url": "https://open.spotify.com/album/5N0zV3M707G0WgKpiRT1yF"
       },
@@ -2748,10 +2824,32 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189932,
       "name": "Migas de Pan",
       "url": "https://open.spotify.com/track/0BHkbp6rhWlfNTsDagl1ib"
+    },
+    {
+      "album": {
+        "name": "moneda sin valor",
+        "url": "https://open.spotify.com/album/4Qwp5iSfODw3HnJZsLwFM7"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "moneda sin valor",
+      "url": "https://open.spotify.com/track/1NfGatqpE4QWyLg1VzWRbD"
     },
     {
       "album": {
@@ -2832,6 +2930,28 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/1ZVS5m3dsaPIWBzbeLFG8y"
+    },
+    {
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "album": {
@@ -3582,7 +3702,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161981,
       "name": "Retrato",
       "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"
@@ -3894,7 +4014,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182506,
       "name": "Tauro Con Leo",
       "url": "https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3"
@@ -4460,6 +4580,24 @@
       "duration_ms": 197120,
       "name": "Vuelves",
       "url": "https://open.spotify.com/track/3LWVY4DMOKW2JpOttms6Q6"
+    },
+    {
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "album": {

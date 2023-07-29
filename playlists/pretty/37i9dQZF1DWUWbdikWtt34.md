@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Lesti
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,312 likes - 76 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,391 likes - 76 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 75 | [Ada Dia Antara Kita](https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ada Dia Antara Kita](https://open.spotify.com/album/60eciJ0xs7alQ8NhJFz9pc) | 3:43 |
 | 76 | [Ada Cerita](https://open.spotify.com/track/3UQldVp9e0dWy72Kb6pQW6) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Cerita](https://open.spotify.com/album/6U9TkrXKstXYQjcBqAHCJR) | 3:42 |
 
-Snapshot ID: `MCw3OWVmN2NiM2RjMjM5NGYxYmE2NjdjMzIzMzZiODNiMzY1NGRhZTk1`
+Snapshot ID: `MCxkNDQ3ZTc1ZDEwYWRlZmY3YWUzNDgxYWU2MTJlY2VhNDQ3NGMxMjNi`

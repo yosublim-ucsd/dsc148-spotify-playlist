@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Knock2 & NGHTMRE
 
-515 songs - 1 day 3 hr 12 min
+516 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bad B](https://open.spotify.com/track/0umdCFKMzLzSBiMMh3Tuze) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Bad B EP](https://open.spotify.com/album/73ncERCky1avlxnqiE0HN1) | 3:04 | 2022-03-18 | 2022-04-20 |
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2021-10-29 | 2022-07-30 |
 | [Bad Habits](https://open.spotify.com/track/4vHD0COWoTJaM3n7fjZxUh) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Bad Habits](https://open.spotify.com/album/4YBnsXCxihliyjta7YFaIO) | 3:33 | 2021-10-29 | 2022-05-28 |
+| [Bad Ideas](https://open.spotify.com/track/6JldodvJhq2bQYeY1cAktQ) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Bad Ideas](https://open.spotify.com/album/0734OZBYsKOcfj9cod4dNq) | 3:27 | 2023-07-28 |  |
 | [Bad Things](https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0), [Fox'd](https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS) | [Bad Things](https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz) | 2:48 | 2023-03-31 | 2023-04-23 |
 | [Badder](https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Badder](https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB) | 3:28 | 2023-04-21 | 2023-05-21 |
 | [Badman](https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Badman](https://open.spotify.com/album/7sxpxDeIV46p5amup1Wrcq) | 3:18 | 2021-10-29 | 2022-01-20 |
@@ -90,7 +91,7 @@
 | [Burner](https://open.spotify.com/track/4eD02ae441W9cFnRahfJG8) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Burner](https://open.spotify.com/album/5PMT6HNrpMoR2cJLLdrkGU) | 4:09 | 2021-10-29 | 2022-08-13 |
 | [Buss It](https://open.spotify.com/track/5UNZKAMoyFI58haxqyFoaH) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Buss It](https://open.spotify.com/album/2rUM4l1MrQnauFqO0QyMMC) | 3:40 | 2021-10-29 | 2022-05-07 |
 | [Bust It](https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Bust It](https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO) | 3:18 | 2021-10-29 | 2022-07-16 |
-| [Call Me](https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Call Me](https://open.spotify.com/album/3oCS0kj9EWXwUU0wcM5FKt) | 1:55 | 2023-07-14 |  |
+| [Call Me](https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Call Me](https://open.spotify.com/album/3oCS0kj9EWXwUU0wcM5FKt) | 1:55 | 2023-07-14 | 2023-07-29 |
 | [Candy Shop](https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [MKJAY](https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC), [Daft Hill](https://open.spotify.com/artist/2FLikYDFIrdVwOVDdWg8Mx) | [Candy Shop](https://open.spotify.com/album/6wPYHAowFfbzP2KQf2vh4r) | 2:40 | 2021-10-29 | 2022-05-28 |
 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 |  |
 | [Chamas](https://open.spotify.com/track/5DI4LqsvoASl2UELkJJaM9) | [Eauki](https://open.spotify.com/artist/2HCfBRvtzjEf2tH0kGKfxi) | [Chamas](https://open.spotify.com/album/4zbTKf2c0HTriXKuMBM2f6) | 2:45 | 2021-10-29 | 2022-01-15 |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3466,
+  "num_followers": 3469,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTBlNzk1YjUwYzFkMTM3MzcxYjJiMmM5MGVkMjA5YmYyYjg0NmQ1",
+  "snapshot_id": "MCwyZjQzYmFjY2IwMmE4ZjYzMGNkMjg3ZmM2MDhmN2Q4OTViYjg0MjJi",
   "tracks": [
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
+        "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
+      "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 102753,
       "name": "Till I Die",
       "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
-        "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
-      "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1379,26 +1359,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "SAVED MY LIFE",
-        "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
       },
       "artists": [
         {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
         },
         {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 229106,
-      "name": "SAVED MY LIFE (Prod. Kidstone)",
-      "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1435,6 +1411,30 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "SAVED MY LIFE",
+        "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "SAVED MY LIFE (Prod. Kidstone)",
+      "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "Korean Dream",
         "url": "https://open.spotify.com/album/1CIUot979SnDkIqZVRkER2"
       },
@@ -1447,6 +1447,26 @@
       "duration_ms": 214860,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/4hUvGXjDaSR47jAD5S8Xx6"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1471,26 +1491,6 @@
       "duration_ms": 214000,
       "name": "Press F5 (Feat. GRAY)",
       "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 162901,
       "name": "24 Hours (Feat. Chin, SC4F & MADII)",
       "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1807,30 +1807,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1855,6 +1831,30 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+      },
+      "artists": [
+        {
+          "name": "DO HAN SE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 215546,
       "name": "Infectious (Til Infinity)",
       "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "Show Me the Money 9 Episode 2",
-        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
-      },
-      "artists": [
-        {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Upgrade 2020",
-      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

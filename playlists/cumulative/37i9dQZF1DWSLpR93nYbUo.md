@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Santti
 
-69 songs - 3 hr 54 min
+72 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,13 +62,16 @@
 | [Sacrifice](https://open.spotify.com/track/5yDjrOfCUPzCrPWUFB1QST) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Sacrifice](https://open.spotify.com/album/6hr9MiOKUoFxcXXeyG7JCS) | 2:58 | 2023-07-21 |  |
 | [San Andreas](https://open.spotify.com/track/4aogNwcaLdqWPxnXc420oU) | [The Contraband](https://open.spotify.com/artist/0DMtZYoJGC80SJeB6uJXCk), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [San Andreas](https://open.spotify.com/album/3QSrPYxT5qQokiOsURRfjd) | 4:13 | 2023-07-21 |  |
 | [Sax Honest](https://open.spotify.com/track/3jIG0AquVw4B6yYpzBsQ3C) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [Di Paulo](https://open.spotify.com/artist/3mV32t6fsjAGWdzSOjHzW8) | [Sax Honest](https://open.spotify.com/album/2HccPq97AWbHJkKo7vEZ1r) | 2:46 | 2023-07-21 |  |
-| [Sex Machine \- Kyllow Remix](https://open.spotify.com/track/1T1sIglDHaPMPWtczutAhX) | [Drago](https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo), [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Sex Machine \(Kyllow Remix\)](https://open.spotify.com/album/4PS3spbdBtqPtcgKyLm51W) | 3:07 | 2023-07-21 |  |
+| [Sex Machine \- Kyllow Remix](https://open.spotify.com/track/1T1sIglDHaPMPWtczutAhX) | [Drago](https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo), [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Sex Machine \(Kyllow Remix\)](https://open.spotify.com/album/4PS3spbdBtqPtcgKyLm51W) | 3:07 | 2023-07-21 | 2023-07-29 |
+| [Sex Machine \- Kyllow Remix](https://open.spotify.com/track/1WMJEW05FNecZJJAtcq5nO) | [Drago](https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo), [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Sex Machine \(Kyllow Remix\)](https://open.spotify.com/album/3qKsw6avM2vqH4QMg52Eim) | 3:07 | 2023-07-28 |  |
 | [Show You](https://open.spotify.com/track/3Prgb5oHGJpaVanWZUHODc) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Show You](https://open.spotify.com/album/6Y3EKiOO4EVu4if9Ge0KMr) | 2:39 | 2023-07-21 |  |
+| [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 |  |
-| [The Vibe On My Body](https://open.spotify.com/track/44entUtJxwthnsERSn3G8n) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/0mc1EHZENay9IbvkBBrbKY) | 2:19 | 2023-07-21 |  |
+| [The Vibe On My Body](https://open.spotify.com/track/0NYBlJUxRnCp6rlwG4E5F0) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/2yKnkHBnvbe94sGDNh9Jmv) | 2:19 | 2023-07-28 |  |
+| [The Vibe On My Body](https://open.spotify.com/track/44entUtJxwthnsERSn3G8n) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/0mc1EHZENay9IbvkBBrbKY) | 2:19 | 2023-07-21 | 2023-07-29 |
 | [There For You \- Radio Edit](https://open.spotify.com/track/7e9mhQqRu9dPjTIfffgJaV) | [LIGHTZ](https://open.spotify.com/artist/0IqAThyLT2MteUe21m7r2U) | [There For You](https://open.spotify.com/album/2qpK0mH0n319wqvTkyIBUh) | 3:05 | 2023-07-21 |  |
 | [Till the World Knows Me](https://open.spotify.com/track/1NFPtZARcv2bpQ9Z4Bycfy) | [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F) | [Till the World Knows Me](https://open.spotify.com/album/0jkxbj3vxFSbOMvU0NFGMl) | 4:12 | 2023-07-21 |  |
 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 | 2023-07-21 |  |

@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-105 songs - 7 hr 9 min
+106 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 | 2023-03-03 |  |
 | [La Chupilca](https://open.spotify.com/track/75N9uODWcbYhwYoayo7879) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [La Chupilca](https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2) | 2:55 | 2023-03-03 |  |
 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 | 2023-03-03 |  |
-| [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 | 2023-03-03 |  |
+| [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 | 2023-03-03 | 2023-07-29 |
 | [La Guaracha del Fay Fay](https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt) | [Rene Inostroza](https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O) | [Lo Mejor 25 Éxitos](https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4) | 2:34 | 2023-03-03 |  |
 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 | 2023-03-03 |  |
 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 |  |
@@ -101,6 +101,7 @@
 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 | 2023-03-03 |  |
 | [Tenemos Sed](https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Con Más Sed, Sed, Sed](https://open.spotify.com/album/36JZENel0gYjI758f7wdDL) | 3:31 | 2023-03-03 |  |
 | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut) | 11:24 | 2023-03-03 |  |
+| [Tu Amor Barato](https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g), [Incondicionales](https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog) | [Tu Amor Barato](https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA) | 3:16 | 2023-05-29 |  |
 | [Tu Me Estrujaste](https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:32 | 2023-03-03 |  |
 | [Tus Maletas Ya Estás en la Puerta](https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 5:03 | 2023-03-03 |  |
 | [Tus Mentiras](https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:33 | 2023-03-03 |  |

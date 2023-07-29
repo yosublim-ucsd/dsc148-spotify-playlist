@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Power to Play (Deluxe)",
+        "url": "https://open.spotify.com/album/2UbVeYyraCseKNgBgVNl9K"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "Forever's Not Enough - Edit",
+      "url": "https://open.spotify.com/track/6ZUpIedN0WXOx0yhS433GW"
+    },
+    {
+      "album": {
         "name": "Live In Maui",
         "url": "https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy"
       },

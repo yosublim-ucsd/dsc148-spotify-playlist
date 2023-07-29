@@ -1126,10 +1126,36 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 502969,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY"
+    },
+    {
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/5dojUE6TOTTuuq9yFSzWPq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/6l6JLklTHqQ3mJ5FUvj9j7"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503041,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/5AET7qAVhzCZDJbcbmP41r"
     },
     {
       "album": {

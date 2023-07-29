@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184813,
       "name": "Armistice",
       "url": "https://open.spotify.com/track/4Xj1c80iHxUeog2hHB55iw"
@@ -442,6 +442,24 @@
     {
       "album": {
         "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
         "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
       },
       "artists": [
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 248213,
       "name": "J-Boy",
       "url": "https://open.spotify.com/track/3yw4kKq5dcfCEV6lvIwwPx"
@@ -488,10 +506,28 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 241546,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "album": {
@@ -560,7 +596,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 116720,
       "name": "Love Like a Sunset, Pt. 2",
       "url": "https://open.spotify.com/track/373z7Xe1jiRIuUxolaH10q"

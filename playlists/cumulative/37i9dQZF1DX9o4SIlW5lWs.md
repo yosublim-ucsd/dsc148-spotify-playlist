@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-322 songs - 18 hr 33 min
+324 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 | 2022-01-14 |  |
 | [Cicatrices](https://open.spotify.com/track/2LFMTbg0ZbHiY62Egds0Cl) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk), [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Cicatrices](https://open.spotify.com/album/52O7lz8Y4dnFUxHEPQFGCD) | 3:07 | 2022-04-15 | 2022-05-29 |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2022-01-14 |  |
+| [Como Le Digo](https://open.spotify.com/track/3PmZrwXhZBSddyZDuquxl0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Como Le Digo](https://open.spotify.com/album/4pfSy7j1TkILRBw1ENpeYp) | 3:12 | 2023-07-28 |  |
 | [Como Me Sucedió](https://open.spotify.com/track/5e4dnuR2V6XPBs9hzVyTiB) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP), [Malakate](https://open.spotify.com/artist/7BxGo6C3TLVWkQhBso7ERD) | [Contrapunto Sesión \#1 \(En Vivo\)](https://open.spotify.com/album/6EXf0KuiWcJNUZQroDjcYB) | 3:01 | 2022-04-08 | 2022-06-07 |
 | [Como Olvidarme](https://open.spotify.com/track/25eEjroohxuR7g241EoEPh) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Como Olvidarme](https://open.spotify.com/album/3HzCitRCpUbr5nLcwiEPa5) | 4:40 | 2022-12-24 | 2023-01-06 |
 | [Como Olvidarme](https://open.spotify.com/track/7wfHOQ7kr5gkDGlHBjR6X6) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Como Olvidarme](https://open.spotify.com/album/4ZdkRAQxfw37eBG0XDRiE3) | 3:34 | 2022-04-01 | 2022-07-06 |
@@ -100,7 +101,7 @@
 | [Ella Es Mi Todo](https://open.spotify.com/track/7MLFa0eKyW4FfDjXNY4Qnr) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Ella Es Mi Todo](https://open.spotify.com/album/2Diitd6eEo8ttiRAK9KJdL) | 3:22 | 2022-01-14 | 2022-07-27 |
 | [En El Lugar Menos Pensado](https://open.spotify.com/track/3hGNU1G9uQA1WpiXeLFXAT) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [En El Lugar Menos Pensado](https://open.spotify.com/album/261UsKjHjZoPKo3u919VoG) | 2:48 | 2022-04-01 | 2022-07-17 |
 | [En la Misma Esquina](https://open.spotify.com/track/3QvX0ExumGKvefsU04ymsU) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [En la Misma Esquina](https://open.spotify.com/album/5aTWebXpWnJnhR88DP5eGh) | 3:35 | 2022-04-01 | 2022-04-21 |
-| [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 | 2022-01-21 |  |
+| [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 | 2022-01-21 | 2023-07-29 |
 | [Enemigos](https://open.spotify.com/track/1hP5LmFzOEKXI2l1UsQK7w) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Aye Jaime](https://open.spotify.com/artist/7Bru0w5SCg7ME73iHX8ygf) | [Enemigos](https://open.spotify.com/album/2bq7t9l0uWDLjRGWJF9HGZ) | 2:24 | 2022-04-01 | 2022-06-12 |
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2022-01-14 |  |
 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 | 2022-01-21 | 2022-07-29 |
@@ -199,7 +200,7 @@
 | [No Quiero Dinero](https://open.spotify.com/track/7ddkLfySvrxyzExSnPp1Jw) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [No Quiero Dinero](https://open.spotify.com/album/51s2yUCDhWFxIjJU5bcpwv) | 3:02 | 2022-06-03 | 2022-08-13 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 | 2022-10-28 | 2022-11-19 |
 | [No Te Olvidare](https://open.spotify.com/track/446WLzUW7xxRSeRuWYAudn) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [No Te Olvidare](https://open.spotify.com/album/0KJYWPNO23a2BuBUR9lOD9) | 3:01 | 2022-03-11 | 2022-06-07 |
-| [No Te Voy a Perdonar](https://open.spotify.com/track/0QyGJpwW61fesHxFFv2zBr) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [No Te Voy a Perdonar](https://open.spotify.com/album/4Qnm2AoEO534SATuTqElux) | 2:46 | 2023-06-30 |  |
+| [No Te Voy a Perdonar](https://open.spotify.com/track/0QyGJpwW61fesHxFFv2zBr) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [No Te Voy a Perdonar](https://open.spotify.com/album/4Qnm2AoEO534SATuTqElux) | 2:46 | 2023-06-30 | 2023-07-29 |
 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-01-14 | 2023-03-12 |
 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2023-03-10 |  |
 | [Nunca volveras](https://open.spotify.com/track/1OIWkgEPj4QiZykulYMSYD) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:50 | 2022-02-04 | 2022-07-22 |
@@ -228,6 +229,7 @@
 | [Que Vuelvas](https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Que Vuelvas](https://open.spotify.com/album/4WovYXrsDxqaUgtMLF9LUq) | 2:43 | 2023-06-02 | 2023-06-10 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 |  |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |
+| [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 |  |
 | [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor y Vida](https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X) | 4:03 | 2022-07-22 | 2023-02-27 |
 | [Recuerdos](https://open.spotify.com/track/1AtZwXCl3sjqdD66j39g9Q) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Recuerdos](https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB) | 2:42 | 2022-03-18 | 2022-04-19 |
 | [Sabrás](https://open.spotify.com/track/7vZS3nIRZYjKY2KONHBi3A) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Sabrás](https://open.spotify.com/album/30ttzkpomPtTktP06x89ZE) | 3:08 | 2022-07-22 | 2022-08-13 |

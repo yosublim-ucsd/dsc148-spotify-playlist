@@ -6,10 +6,62 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBiMjQ5NzdhNWRiOTUwOWQ2OWRiNzI2MmY3ZGQ5NzliYQ==",
+  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDA1NDZhMmQ0Y2RhNzU0ODdkNjA1MWRlODQ3OTc4YWYyYg==",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Vulindlela",
+        "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        },
+        {
+          "name": "Styles Bambiso",
+          "url": "https://open.spotify.com/artist/1s5q6X1GZ0SzX4YJOh4jhe"
+        }
+      ],
+      "duration_ms": 206318,
+      "name": "Vulindlela",
+      "url": "https://open.spotify.com/track/4WoaqIsdUJmjPXHA4udr0P"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "The Unforgiven (Live at Metal Church)",
+        "url": "https://open.spotify.com/album/5QyFNVsuF68vxRkiWNHv0t"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "The Unforgiven - Live at Metal Church",
+      "url": "https://open.spotify.com/track/4cyCR8VZK0r9by3qBA4BG6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "A Love",
+        "url": "https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "A Love",
+      "url": "https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "skin in the game",
         "url": "https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
@@ -41,31 +93,7 @@
       "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "1971",
-        "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
-      },
-      "artists": [
-        {
-          "name": "Outlanders",
-          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
-        },
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Torsten Stenzel",
-          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
-        }
-      ],
-      "duration_ms": 366282,
-      "name": "Mystique Voyage (Outlanders Remix 2015)",
-      "url": "https://open.spotify.com/track/76jSAal20IizDaSI97fBwO"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "White Line Frankenstein",
         "url": "https://open.spotify.com/album/5XodKvil0Thw2XAMBFAuxv"
@@ -81,7 +109,7 @@
       "url": "https://open.spotify.com/track/00RqWw41Rtiwu43KPWEucZ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "A Veces Bien a Veces Mal",
         "url": "https://open.spotify.com/album/20OrFsDu55gkVr7dY5JUjy"
@@ -105,7 +133,7 @@
       "url": "https://open.spotify.com/track/1py1Q70o23MDIghZWTVzE9"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/1rzck41dXGPFnOnLcN66Sr"
@@ -121,7 +149,7 @@
       "url": "https://open.spotify.com/track/7AeooPeVsCx5CZdsGuFXLJ"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "July: Reaper's Song from The Seasons, Op. 37a",
         "url": "https://open.spotify.com/album/6hSGHwJohK7KZjb3amiVaI"
@@ -141,7 +169,7 @@
       "url": "https://open.spotify.com/track/5Kqgvp1YuW7vxMyYaIZc9i"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Mercedes Florecida",
         "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
@@ -273,7 +301,7 @@
       "url": "https://open.spotify.com/track/2t3gWLQHM4ef0aOREBvcNA"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "I Ran (So Far Away) (BENZI & Remy Heart Remix)",
         "url": "https://open.spotify.com/album/2KqOaWlS4KZP45QRaIq5bs"
@@ -297,7 +325,7 @@
       "url": "https://open.spotify.com/track/6BzW96h3u4OlaVCMndXRYb"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Give It To Me (Demo)",
         "url": "https://open.spotify.com/album/7oOYddAiFE10K6tmXvVIGa"
@@ -313,7 +341,7 @@
       "url": "https://open.spotify.com/track/3Am8LuNaOHc9nPnBSZZIc5"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Moon River / How Could We Know",
         "url": "https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT"
@@ -341,7 +369,7 @@
       "url": "https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Rigor Mortis Radio",
         "url": "https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv"
@@ -357,7 +385,7 @@
       "url": "https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Verbal Style",
         "url": "https://open.spotify.com/album/5eLRKuyiFHlkgLWwRM575h"
@@ -377,7 +405,7 @@
       "url": "https://open.spotify.com/track/167WExAUvXCcsBadPA8Rzy"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
@@ -397,7 +425,7 @@
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Something Changed (Water From Your Eyes Interpolation)",
         "url": "https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3"
@@ -417,7 +445,7 @@
       "url": "https://open.spotify.com/track/2rf3akXQqFEu41Ca3bJyNV"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "It's a Man's World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4mXTpvVCAnAsDjdI2Pe9vr"
@@ -437,7 +465,7 @@
       "url": "https://open.spotify.com/track/6pDCfwTeLNAbzhKJlue7Qx"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "I Inside the Old Year Dying",
         "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
@@ -453,7 +481,7 @@
       "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Just Keep Walking",
         "url": "https://open.spotify.com/album/08EghP7gePBZhPDcHrCOoz"
@@ -473,7 +501,7 @@
       "url": "https://open.spotify.com/track/2eJpVwx1uaVHsx7gSPEuml"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
         "url": "https://open.spotify.com/album/0l7IWuiamXvc38w2U7qfOA"
@@ -493,7 +521,7 @@
       "url": "https://open.spotify.com/track/2NBiXi2nSS40Y1e73wlM7q"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Necromanteum",
         "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
@@ -525,7 +553,7 @@
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Cities (Live) [2023 Remaster]",
         "url": "https://open.spotify.com/album/03Fwgxoot2pqsSaPcyxKcu"
@@ -541,7 +569,7 @@
       "url": "https://open.spotify.com/track/7kco4eWA4nien0eAwroiDe"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Wagging Tongue (Remixes)",
         "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
@@ -561,7 +589,7 @@
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Ni\u00f1os de Pl\u00e1stico (Cover)",
         "url": "https://open.spotify.com/album/1m4oMUOvb9jwd28xf9Md1S"
@@ -581,7 +609,7 @@
       "url": "https://open.spotify.com/track/5j6Y7dpMOqYOPcXPm9rjPd"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
@@ -597,7 +625,7 @@
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "When Love Sucks (feat. Dido) [Sped Up Version]",
         "url": "https://open.spotify.com/album/4ZPxcyIqtcrgUY7WL7b5p9"
@@ -621,7 +649,7 @@
       "url": "https://open.spotify.com/track/0TwD0t7Pxl8fgzxibbaa9B"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "\u30b5\u30fc\u30d5 \u30d6\u30f3\u30ac\u30af \u30ab\u30de\u30af\u30e9 (\u5b8c\u5168\u7248)",
         "url": "https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu"
@@ -637,7 +665,7 @@
       "url": "https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Oh, Dolores (From \"The Horror of Dolores Roach\")",
         "url": "https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU"
@@ -653,7 +681,7 @@
       "url": "https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "On The Cross",
         "url": "https://open.spotify.com/album/6KeevQoFEu21avBwQxlbrb"
@@ -677,7 +705,7 @@
       "url": "https://open.spotify.com/track/25xrdLy1EL8uj3cyPKbmWK"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Werewolf (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
@@ -697,7 +725,7 @@
       "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "So Much (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/03rXk4298DiG9hCaIbrdO8"
@@ -713,7 +741,7 @@
       "url": "https://open.spotify.com/track/45GmfZojjnWbfgYyEk0txR"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "All A Share Together Now",
         "url": "https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Plein D'Amour",
         "url": "https://open.spotify.com/album/13CuZhFz03sBZ0pGP1guLM"
@@ -745,7 +773,7 @@
       "url": "https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Cheers To Goodbye (feat. Spencer Charnas)",
         "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
@@ -769,7 +797,7 @@
       "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Love Me Two Times",
         "url": "https://open.spotify.com/album/45NdY0ZL7x51DvIxQhO5IJ"
@@ -793,7 +821,7 @@
       "url": "https://open.spotify.com/track/041siYMLiKaHk8F9sgRuhF"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Got Me All Wrong",
         "url": "https://open.spotify.com/album/0PqyD9lzmBCY7SfmLqd5BN"
@@ -809,7 +837,7 @@
       "url": "https://open.spotify.com/track/2d9A8njtdFo4MOI3v17kpw"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Three Little Birds (Feat. Teni and Oxlade)",
         "url": "https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU"
@@ -833,7 +861,7 @@
       "url": "https://open.spotify.com/track/3Jm1XardcGOdw3A65RcwSv"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Lifeline (Drowning)",
         "url": "https://open.spotify.com/album/1T2MF3dsVYDJsGyXI0ZZsy"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/4DtoWdGQMt22FdSimXadCF"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Amor & Paz",
         "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Solstice Kiss",
         "url": "https://open.spotify.com/album/6ihYiCl6WdpP6ezri0SfW3"
@@ -885,7 +913,7 @@
       "url": "https://open.spotify.com/track/76LCIaNYeDAFoXLL5LrPEw"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"

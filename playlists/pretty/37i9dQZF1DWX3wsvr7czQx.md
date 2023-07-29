@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Michael Bolton
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,268 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,282 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 39 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 |
 | 40 | [Superwoman](https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV) | 3:41 |
 | 41 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 |
-| 42 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 |
+| 42 | [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 |
 | 43 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 |
 | 44 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 |
 | 45 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCxjZWE5ZWNlNDlhZWZlYThlOGQ4N2RjM2M3NGVlNGQ0MGNmNDc0ZWJi`
+Snapshot ID: `MCw4MmZlMjY1NDlhY2U1N2VlNzM0YTZkZmIzYzVlOTM3MGE1ZDlhZDQ3`

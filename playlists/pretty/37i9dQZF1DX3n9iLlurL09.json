@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 74950,
+  "num_followers": 75008,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl",
+  "snapshot_id": "MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 181400,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue Jeans - Remastered 2011",
-      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue Jeans - Remastered 2011",
+      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 175773,
       "name": "This Head I Hold",
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
     },
     {
       "added_at": "2022-05-19 08:11:23",

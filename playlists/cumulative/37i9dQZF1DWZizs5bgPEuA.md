@@ -2,14 +2,15 @@
 
 ### [Viva Latino Artists To Watch](https://open.spotify.com/playlist/37i9dQZF1DWZizs5bgPEuA)
 
-> Music by our 2023 Artists To Watch\. Cover: Emilia
+> Music by our 2023 Artists To Watch\. Cover: Young Miko
 
-31 songs - 1 hr 43 min
+33 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-07-14 | 2023-07-20 |
 | [Aquí Sigo](https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX) | 2:38 | 2023-07-14 |  |
+| [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 | 2023-07-14 |  |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-07-14 |  |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2023-07-14 |  |
@@ -20,7 +21,7 @@
 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 | 2023-07-14 |  |
 | [Full of Diamonds](https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Full of Diamonds](https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx) | 4:24 | 2023-07-14 |  |
 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 | 2023-07-14 |  |
-| [J\. \- Deluxe](https://open.spotify.com/track/7malI73fIoRhybC4zmSE5G) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:54 | 2023-07-14 |  |
+| [J\. \- Deluxe](https://open.spotify.com/track/7malI73fIoRhybC4zmSE5G) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:54 | 2023-07-14 | 2023-07-29 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-07-14 |  |
 | [La Curiosidad \- Deluxe](https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:36 | 2023-07-14 |  |
 | [La Jaula Perfecta](https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:24 | 2023-07-14 |  |
@@ -32,12 +33,13 @@
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-14 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-07-14 |  |
 | [noches largas, faldas cortas](https://open.spotify.com/track/3So3rUrTEA5PT5lJCNXFe4) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-07-14 |  |
-| [Putero](https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:39 | 2023-07-14 |  |
+| [Putero](https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:39 | 2023-07-14 | 2023-07-29 |
 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 | 2023-07-14 |  |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-07-14 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2023-07-14 |  |
 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 | 2023-07-14 |  |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-07-14 |  |
+| [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-07-28 |  |
 | [Yo Tengo un Novio](https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:37 | 2023-07-14 |  |
 
 \*This playlist was first scraped on 2023-07-15. Prior content cannot be recovered.

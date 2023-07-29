@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,573 likes - 120 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,593 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 17 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 |
 | 18 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 |
 | 19 | [SPARKS!](https://open.spotify.com/track/6j6fzTcFM7ZqJGVfDyRXXX) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:55 |
-| 20 | [FRAGILE!](https://open.spotify.com/track/4x6WpVdBQq9FGXccHMHM9w) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:26 |
+| 20 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 |
 | 21 | [G CITY! \(You & Me\)](https://open.spotify.com/track/4h8tDVzQReiDPPugrDttrT) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [G CITY! \(You & Me\)](https://open.spotify.com/album/4hPy9ICn1Dpq20q4ZLWEuB) | 3:17 |
 | 22 | [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 |
 | 23 | [Polydream](https://open.spotify.com/track/6HNgyf3EW5WHSOPkHBbo0Q) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 6:41 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 119 | [Why Tears](https://open.spotify.com/track/5YIdE5lgN8UGlQpfjJv4wc) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:36 |
 | 120 | [Michelle](https://open.spotify.com/track/2DBJYcnnbtC4TZ1Kow4PaA) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:08 |
 
-Snapshot ID: `MCxmNjAwMDBjZTEyNjIzZjEzZTY5OWJiMGZlZDRhZjY3NmFlYTY3MDY5`
+Snapshot ID: `MCxmODA2MTQzZGUzZTNjNWY4YzU1MWUxMzMyM2ZiNTZhYTA1NmZlYzY0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-03",
-  "description": "Here is a playlist of all our songs released so far. Our new single 'Bootleg Firecracker' is out now!",
+  "description": "Here is a playlist of all our songs released so far. Our new single 'Highlands' is out now!",
   "name": "Middle Kids - Complete Collection",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 223746,
       "name": "Golden Star",
       "url": "https://open.spotify.com/track/3NRdY5rosPh2A0QPjeP9BY"
+    },
+    {
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I"
     },
     {
       "album": {

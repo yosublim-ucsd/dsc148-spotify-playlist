@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2263312,
+  "num_followers": 2264035,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDFlYmQyNmYxZDY2MmVjY2Q3ZjM5ZjIwOGM4NmVhYjhiYjk3NDc5",
+  "snapshot_id": "MCxhODIzOGFmMWU1OGEzYjI3NmQyNWZjM2EyYmJmN2NlN2M0MjMzODg5",
   "tracks": [
     {
       "added_at": "2023-07-25 16:36:34",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Might Love Myself",
+        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Parasite Eve",
         "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Might Love Myself",
-        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 250792,
       "name": "Judas",
       "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 233533,
       "name": "Gold Cobra",
       "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223653,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 321161,
-      "name": "Until the World Goes Cold",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "STRENGTH IN NUMB333RS",
-        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
       "artists": [
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 232053,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
+      "duration_ms": 223546,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+        "name": "STRENGTH IN NUMB333RS",
+        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
+      "duration_ms": 232053,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Above It All",
+        "url": "https://open.spotify.com/album/2jxgnbGZr6SPMkwvFYQHVi"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 199433,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/5AKfYnfxrnTTU77z69Zb7K"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Laugh Tracks",
         "url": "https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Above It All",
-        "url": "https://open.spotify.com/album/2jxgnbGZr6SPMkwvFYQHVi"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 199433,
-      "name": "Above It All",
-      "url": "https://open.spotify.com/track/5AKfYnfxrnTTU77z69Zb7K"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Anesthetic",
         "url": "https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR"
       },
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 234774,
-      "name": "California Dreaming",
-      "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 183437,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 234774,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 191440,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Feels Like Forever",
+      "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 218274,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Restoring Force",
-        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
         }
       ],
-      "duration_ms": 193493,
-      "name": "Feels Like Forever",
-      "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+      "duration_ms": 218274,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 164990,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 239600,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     }
   ],
   "unique_name": "Adrenaline Workout",

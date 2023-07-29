@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "1-800-JOHNNY",
+        "url": "https://open.spotify.com/album/2p4M3xyZCaTRJL4MlKxIZc"
+      },
+      "artists": [
+        {
+          "name": "Johnny 2 Phones",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96846,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/5ul07bbfW3RermPHUM0wzS"
+    },
+    {
+      "album": {
         "name": "26AR \"On The Radar\" Freestyle, Pt. 2",
         "url": "https://open.spotify.com/album/0qsVupTaDnbWmhcRVYr6xV"
       },
@@ -42,6 +64,24 @@
       "duration_ms": 132313,
       "name": "26AR \"On The Radar\" Freestyle, Pt. 2",
       "url": "https://open.spotify.com/track/4DfbcSH0kGI2jlQqdRHkCJ"
+    },
+    {
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
       "album": {
@@ -148,6 +188,32 @@
       "duration_ms": 130000,
       "name": "Avocado",
       "url": "https://open.spotify.com/track/5y1x8b3CwmHGFo9wKiO5gl"
+    },
+    {
+      "album": {
+        "name": "Sounds Of A Menace (Jersey Club)",
+        "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
+      },
+      "artists": [
+        {
+          "name": "Dj Darknite",
+          "url": "https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg"
+        },
+        {
+          "name": "Groove The Producer",
+          "url": "https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1"
+        },
+        {
+          "name": "Mattknight",
+          "url": "https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "Back Stabbers Jersey Club Mix",
+      "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
     },
     {
       "album": {
@@ -407,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "album": {
         "name": "Wormhole",
         "url": "https://open.spotify.com/album/1DVmWDWVqVUCsTa1Vl4A0Y"
       },
@@ -470,6 +554,24 @@
       "duration_ms": 162089,
       "name": "Day Ones",
       "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
+    },
+    {
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "album": {
@@ -546,7 +648,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183457,
       "name": "Enough Is Enough (feat. Rayy Balla & Cito Blick)",
       "url": "https://open.spotify.com/track/0HRa1A7vxuVVxL2g85EkKD"
@@ -856,7 +958,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -881,6 +983,28 @@
     },
     {
       "album": {
+        "name": "K Toven",
+        "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126581,
+      "name": "K Toven",
+      "url": "https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1"
+    },
+    {
+      "album": {
         "name": "Keep It Cute",
         "url": "https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW"
       },
@@ -892,10 +1016,32 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 171474,
       "name": "Keep It Cute",
       "url": "https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs"
+    },
+    {
+      "album": {
+        "name": "Kn0 (with skaiwater)",
+        "url": "https://open.spotify.com/album/0ljGQPF6WCq9zteTvDPFJe"
+      },
+      "artists": [
+        {
+          "name": "keltiey",
+          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153671,
+      "name": "Kn0 (with skaiwater)",
+      "url": "https://open.spotify.com/track/5ysCycevQO2bHuxsL6T2LF"
     },
     {
       "album": {
@@ -958,6 +1104,28 @@
       "duration_ms": 186656,
       "name": "Love Drugs",
       "url": "https://open.spotify.com/track/7hLUesOSeZpIy0dFeKE4hL"
+    },
+    {
+      "album": {
+        "name": "Luv U Better",
+        "url": "https://open.spotify.com/album/4Lr3S155wTSEXnTmu119kN"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148522,
+      "name": "Luv U Better",
+      "url": "https://open.spotify.com/track/5mptX9ZQT0n8tUY4kPAH6R"
     },
     {
       "album": {
@@ -1066,7 +1234,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 138946,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
@@ -1106,7 +1274,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 111428,
       "name": "No Secrets",
       "url": "https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3"
@@ -1158,6 +1326,28 @@
       "duration_ms": 168196,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "album": {
@@ -1246,7 +1436,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205402,
       "name": "Petty",
       "url": "https://open.spotify.com/track/1Tk4wX36rFsZZbwbIsS6t6"
@@ -1334,7 +1524,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192981,
       "name": "Posture (feat. Fetty Luciano & Fivio Foreign)",
       "url": "https://open.spotify.com/track/1ubO4gCUQgRFWOj9fVHlBS"
@@ -1360,7 +1550,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/1SCDI12hzxaU4EJ0Ysh9mb"
@@ -1422,10 +1612,32 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152217,
+      "name": "Project Walls (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/0wdlLb695gFP3CSiUAqxls"
     },
     {
       "album": {
@@ -1495,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4gUrqh788A5tkRmtzVfdhs"
       },
@@ -1510,7 +1744,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180340,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3JXEVWUhPmZb5Z35kOzUgr"
@@ -1586,6 +1820,24 @@
       "duration_ms": 210479,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/4hDpTSr3NZUkcyCp512fXj"
+    },
+    {
+      "album": {
+        "name": "Slizzy Talk",
+        "url": "https://open.spotify.com/album/5lnwBxTSlY9xY8Im5yWvIZ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142183,
+      "name": "Slizzy Talk",
+      "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
     },
     {
       "album": {
@@ -1750,6 +2002,24 @@
       "duration_ms": 135000,
       "name": "SWEET DISEASE",
       "url": "https://open.spotify.com/track/1Mkmfkox2uJmb29RdF7OF7"
+    },
+    {
+      "album": {
+        "name": "Talk To Me (TTM)",
+        "url": "https://open.spotify.com/album/3ncET9ZWe677GGeDS37F57"
+      },
+      "artists": [
+        {
+          "name": "Tray Bndo",
+          "url": "https://open.spotify.com/artist/0THC0xGU3MlvCnNUWbLQAq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132310,
+      "name": "Talk To Me (TTM)",
+      "url": "https://open.spotify.com/track/3gtvLTDr4PsfGqSWPbNDOb"
     },
     {
       "album": {

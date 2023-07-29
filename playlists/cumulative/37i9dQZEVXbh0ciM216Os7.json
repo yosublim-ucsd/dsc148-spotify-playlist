@@ -361,6 +361,28 @@
     },
     {
       "album": {
+        "name": "After Life",
+        "url": "https://open.spotify.com/album/0aVrValFOz9pWW5B3aD9d6"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "U-God",
+          "url": "https://open.spotify.com/artist/5BTCT2jN49F72yz6en438O"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309655,
+      "name": "After Life",
+      "url": "https://open.spotify.com/track/0Y7ckTWfXhSTbsy4MI3Qyw"
+    },
+    {
+      "album": {
         "name": "Aged Eyes",
         "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
       },
@@ -902,7 +924,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225906,
       "name": "Becoming A Coward",
       "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 293371,
       "name": "Black Thunder - Acoustic",
       "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 248506,
       "name": "Dreams - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL"
@@ -2874,6 +2896,24 @@
       "duration_ms": 228990,
       "name": "Extreme Ways - Resound NYC Version / Edit",
       "url": "https://open.spotify.com/track/0aj27E2UXku6ael5ti7g7H"
+    },
+    {
+      "album": {
+        "name": "Eyes of the World (Demo)",
+        "url": "https://open.spotify.com/album/22W6QWjYvS4xtpWwfvzyov"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342933,
+      "name": "Eyes of the World - Demo",
+      "url": "https://open.spotify.com/track/4YThrJ7huSPzOK4Pu6cBzC"
     },
     {
       "album": {
@@ -4809,6 +4849,36 @@
     },
     {
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324083,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/3OFmFAEAfxNyJRAW0wLmfb"
+    },
+    {
+      "album": {
         "name": "Abbado: Schumann \u2013 Tchaikovsky",
         "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
       },
@@ -4872,6 +4942,28 @@
       "duration_ms": 257733,
       "name": "Last and Beautiful",
       "url": "https://open.spotify.com/track/4FHM1Jv01RI8KbQq0eJkN6"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/6EykTUDQkubk9ulqnXC7tJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Freedom Young",
+          "url": "https://open.spotify.com/artist/6KnqqJYSVpw3c3LSMg3b9n"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251542,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5l6Cux32pNTbKCENbTzUba"
     },
     {
       "album": {
@@ -5128,6 +5220,24 @@
       "duration_ms": 490614,
       "name": "Look at the Birds",
       "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Losin' My Touch - Remastered 2023",
+      "url": "https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1"
     },
     {
       "album": {
@@ -5554,7 +5664,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 285048,
       "name": "Mind Your Business (feat. Ben Wendel & Allakoi Peete)",
       "url": "https://open.spotify.com/track/7fdMae2A1vfPAvXl8EGN8y"
@@ -6370,7 +6480,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 262429,
       "name": "Patience (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
@@ -6832,6 +6942,32 @@
       "duration_ms": 154368,
       "name": "Pusha Man",
       "url": "https://open.spotify.com/track/5K5GXyTEzjsB8RbMC1UZhb"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/48ONBOMWc3UOh1IF3G3O37"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        },
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6kuX5RIJjoMCQmhKqN0PgC"
     },
     {
       "album": {
@@ -7524,6 +7660,32 @@
       "duration_ms": 156000,
       "name": "Soca Music",
       "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
+    },
+    {
+      "album": {
+        "name": "Soft Inside",
+        "url": "https://open.spotify.com/album/54MVKy1OCMFazlvlIDrYPu"
+      },
+      "artists": [
+        {
+          "name": "Dea Galore",
+          "url": "https://open.spotify.com/artist/7ApqbqvttZPJ5u4kcZ1yLE"
+        },
+        {
+          "name": "The Melodiks",
+          "url": "https://open.spotify.com/artist/0BKSrGWkUwEUHaUdJGffUN"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186516,
+      "name": "Soft Inside",
+      "url": "https://open.spotify.com/track/3Uzm3GpyYHjUm0mq8EAxU5"
     },
     {
       "album": {
@@ -8284,7 +8446,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 157090,
       "name": "Taste of Honey",
       "url": "https://open.spotify.com/track/2l6SKrXqsGiyyc6G9dyILK"
@@ -8850,7 +9012,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 212844,
       "name": "This Is Mongol - Acoustic",
       "url": "https://open.spotify.com/track/4GnWBQiFNtTRUX5jY8bb5B"
@@ -9363,6 +9525,58 @@
     },
     {
       "album": {
+        "name": "Untitled Moon Song",
+        "url": "https://open.spotify.com/album/0EMXrRQPShDjHkjUoFQIJd"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210708,
+      "name": "Untitled Moon Song",
+      "url": "https://open.spotify.com/track/5vgqhsZv7a8nLVQEEGv97s"
+    },
+    {
+      "album": {
+        "name": "Curly",
+        "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Robert \u2018Sput\u2019 Searight",
+          "url": "https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456114,
+      "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
+      "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
+    },
+    {
+      "album": {
         "name": "Vibrant",
         "url": "https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1"
       },
@@ -9448,7 +9662,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184502,
       "name": "W H A T (We're Hungry And Thirsty)",
       "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"
@@ -9518,6 +9732,24 @@
       "duration_ms": 208312,
       "name": "Walking on Sunshine (Metal Version)",
       "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+    },
+    {
+      "album": {
+        "name": "Warpaint",
+        "url": "https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH"
     },
     {
       "album": {
@@ -9632,7 +9864,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 374327,
       "name": "Wave That Flag (Live at RFK Stadium, Washington, DC, 6/10/73)",
       "url": "https://open.spotify.com/track/5IHnYDMb6S7p7rmUFnMfvH"
@@ -9726,7 +9958,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"

@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-61 songs - 3 hr 23 min
+62 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Bíblia](https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Amigo de Deus](https://open.spotify.com/album/6Ks1nDyBm9wyusj94wCSox) | 5:29 | 2022-09-02 | 2022-10-15 |
 | [A História dos Animais](https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Társis Iraídes](https://open.spotify.com/artist/0p942FANsPACepQGy7HuF7), [Elson Gollub](https://open.spotify.com/artist/4CnTjFbM00kSSgLddqNgqh), [José Barbalho](https://open.spotify.com/artist/3nTd1c0vX2OvYS4cF6otAo), [Ronaldo Fagundes](https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj) | [Arautos do Rei pra Baixinhos e Grandões](https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK) | 3:54 | 2022-09-02 |  |
 | [A Tua Graça](https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [A Tua Graça](https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj) | 2:25 | 2022-10-14 | 2023-06-03 |
+| [Aleluia](https://open.spotify.com/track/5uOTuH6m5hn98ATHq8BX67) | [Jessyca Kids](https://open.spotify.com/artist/5EpOx5y4zpvyXMBFGIugRb) | [Amor Diferente](https://open.spotify.com/album/45R0EnUDMoQs4PYaTYsuMD) | 3:28 | 2023-07-28 |  |
 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 | 2022-10-14 |  |
 | [Aos Olhos do Pai](https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 4:32 | 2022-09-02 |  |
 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 | 2022-09-02 |  |
@@ -39,7 +40,7 @@
 | [Eu Canto pra Jesus](https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei) | 3:02 | 2022-09-02 | 2022-11-10 |
 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 | 2022-09-02 |  |
 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 | 2022-09-02 |  |
-| [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 | 2022-09-02 |  |
+| [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 | 2022-09-02 | 2023-07-29 |
 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 | 2022-09-02 |  |
 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 | 2022-09-02 |  |
 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 | 2022-09-02 |  |

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-157 songs - 8 hr 38 min
+159 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Love The Way It Hurts \(So Good\)](https://open.spotify.com/track/1SmEMvjRkff8V9mORj25g3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:21 | 2023-06-22 |  |
 | [Make You Mine \- Bergie Remix](https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Bergie](https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9) | [The Bergie Remixes](https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb) | 3:25 | 2022-10-14 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:53 | 2021-12-10 |  |
+| [Match For My Memory \- Fired Up](https://open.spotify.com/track/0SuNsEC7A6fZBORw4b7tOd) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Ken Gao](https://open.spotify.com/artist/4aDGUknMCdJCisXyn0kTgU) | [Match For My Memory \(Fired Up\)](https://open.spotify.com/album/4XAmbiaoCMwjJVZKcnNCPf) | 3:04 | 2023-07-28 |  |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2021-12-10 |  |
 | [Memory \- GOLDHOUSE x Mokita Remix](https://open.spotify.com/track/4XZ8YGsNIF4UqE324Mbgfg) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Memory Remixes](https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK) | 2:57 | 2023-06-09 |  |
 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 | 2021-12-10 |  |
@@ -164,6 +165,7 @@
 | [Yeehaw](https://open.spotify.com/track/3h7Ftxcsch5Vf9gudChXCR) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Yeehaw](https://open.spotify.com/album/42iCh9VeEuvdweymnrZydN) | 2:26 | 2021-12-10 |  |
 | [You Broke Up with Me \- Remix](https://open.spotify.com/track/6oWjS5jBcEEr3GedlcfwfI) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [remixed](https://open.spotify.com/album/5RDzXCt8pM1p7qJ0DViwXj) | 3:08 | 2021-12-10 |  |
 | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl) | [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/album/1DsmQZl8jJrNAoJq12RzHj) | 2:35 | 2022-03-25 |  |
+| [You're Still The One \- Frank Walker Remix](https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [You're Still The One \(Frank Walker Remix\)](https://open.spotify.com/album/7yCMIRLkgNrLRVnRSTyE4o) | 3:00 | 2023-07-28 |  |
 | [You're Still The One \- Soul Solution Extended Club Mix](https://open.spotify.com/track/3jFSIacWpvXqr8oYXa0xI4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [When](https://open.spotify.com/album/0ip7usbONC8i58g7scoFr5) | 8:43 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

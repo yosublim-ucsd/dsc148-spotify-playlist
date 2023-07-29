@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28185,
+  "num_followers": 28193,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQxNyxjNjUxZjAyZDllMmYxODQ4MzM3NGVjODM4ZDU4YmU3MDczNmU0ZDZi",
+  "snapshot_id": "MzQxOSw3NTZiMmY0ZWMzYTE3ZGFiZWE4OGE3YzkzNWExZjhjMzhiMWU0MmJi",
   "tracks": [
     {
       "added_at": "2023-07-18 16:19:25",
@@ -27,6 +27,22 @@
       "duration_ms": 436484,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
+    },
+    {
+      "added_at": "2023-07-28 15:51:50",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-07-25 12:23:56",
@@ -615,22 +631,6 @@
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
-    },
-    {
-      "added_at": "2023-03-24 22:49:30",
-      "album": {
-        "name": "Exodus the North Star",
-        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 162813,
-      "name": "munerah",
-      "url": "https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE"
     },
     {
       "added_at": "2023-03-17 17:54:10",

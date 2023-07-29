@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 45068,
+  "num_followers": 45098,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj",
+  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
-      },
-      "artists": [
-        {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
-        }
-      ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Hyna Ruje",
         "url": "https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 338431,
       "name": "Hyna Ruje",
       "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+      },
+      "artists": [
+        {
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+        }
+      ],
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Novu Hisy",
+        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Novu Hisy",
+      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Novu Hisy",
-        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Novu Hisy",
-      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Home Stories",
-        "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
-      },
-      "artists": [
-        {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
-        }
-      ],
-      "duration_ms": 333604,
-      "name": "Home Stories",
-      "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Vu Hijera",
         "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 261333,
       "name": "Vu Hijera",
       "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Home Stories",
+        "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 333604,
+      "name": "Home Stories",
+      "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Kosmic Headroom",
         "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
@@ -1095,38 +1079,6 @@
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Pax Aurora",
-        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
-      },
-      "artists": [
-        {
-          "name": "Nadia Struiwigh",
-          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
-        }
-      ],
-      "duration_ms": 418064,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1151,6 +1103,54 @@
       "duration_ms": 462088,
       "name": "Snow Ritual (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Pax Aurora",
+        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
+      },
+      "artists": [
+        {
+          "name": "Nadia Struiwigh",
+          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+        }
+      ],
+      "duration_ms": 418064,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Sleep to Dream",
+        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 263142,
+      "name": "Sleep to Dream",
+      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Five Steps",
         "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
     },
     {
       "added_at": "2023-03-10 00:01:00",

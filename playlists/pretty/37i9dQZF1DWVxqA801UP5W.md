@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,840 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,917 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 46 | [Save Room For Us \(Remix\)](https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Save Room For Us \(Remix\)](https://open.spotify.com/album/6g5pWr4B5gwxjQjFCv84pW) | 2:41 |
 | 47 | [Rasputin \- Majestic Club VIP Remix](https://open.spotify.com/track/6FO4K7MrMoYkc5BlpX5LNV) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin \(Remixes\)](https://open.spotify.com/album/19TzoU9GkP6UpHGMgZaUdJ) | 5:45 |
 | 48 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
-| 49 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
-| 50 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt) | 3:35 |
+| 49 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt) | 3:35 |
+| 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCwyZDI4NDlkNDA1MGE3NDZlNDAwNDYzYjM4YmJkM2FkM2UyZjFlZjU5`
+Snapshot ID: `MCxmMTMzYmRlYWMwOTU2MzdmNDkwMWE0MGE2YzdjOGMzNzVhYmE3NDk5`

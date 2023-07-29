@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Wesley Safadão
+> O melhor do sertanejo em uma só playlist! Foto: Ana Castela
 
-150 songs - 7 hr 8 min
+151 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 | 2021-12-31 | 2022-01-22 |
 | [Fulano \- Ao Vivo](https://open.spotify.com/track/5TnsVrA7pQn3HgL3XBcX7J) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Ao Vivo em Rio Preto \(Vol\. 2\)](https://open.spotify.com/album/6kev2WgBPYG1h5riJGQ7cH) | 2:49 | 2023-04-07 |  |
 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 | 2022-03-23 | 2023-07-01 |
+| [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/1V4l4h7kYaKyXJk74g6ilu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp) | 2:33 | 2023-07-28 |  |
 | [Hackearam\-me](https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 3:21 | 2023-03-24 |  |
 | [Haja Colírio \(feat\. Hugo & Guilherme\) \- Ao Vivo](https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Haja Colírio \(feat\. Hugo & Guilherme\) \[Ao Vivo\]](https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU) | 2:53 | 2022-07-01 |  |
 | [ILHA](https://open.spotify.com/track/2zvfMwpBdm9zC4zwLWq1Wg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [THE COMEBACK](https://open.spotify.com/album/4mQpXudi3KmfvZOgWLTi2g) | 3:02 | 2021-12-31 | 2022-02-12 |
@@ -110,7 +111,7 @@
 | [Não Me Recomendo \- Ao Vivo](https://open.spotify.com/track/6YGC1K8FOpTOIZApTtmmA1) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:44 | 2022-01-21 | 2022-01-29 |
 | [Não Parei De Sofrer](https://open.spotify.com/track/4zN7Kfk6s75jBOEehLHzV2) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Não Parei De Sofrer](https://open.spotify.com/album/6uUkwRbRO8rTxPXDBIW0e9) | 2:56 | 2021-12-31 | 2022-07-23 |
 | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/album/74QtfHHV8sXA7CUKzRHfk2) | 2:55 | 2022-06-14 | 2022-09-10 |
-| [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 |  |
+| [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 | 2023-07-29 |
 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 | 2023-02-10 |  |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 |  |

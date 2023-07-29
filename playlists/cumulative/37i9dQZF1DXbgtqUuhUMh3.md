@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-505 songs - 1 day 5 hr 28 min
+506 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Bad Trip](https://open.spotify.com/track/5Yn8SZfv3IYoS49jpomqS3) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Bad Trip](https://open.spotify.com/album/6LZMuljvaHpZKQx8raK0Zq) | 2:32 | 2021-12-23 | 2022-03-02 |
 | [Badal Madi](https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Badal Madi](https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv) | 2:48 | 2023-03-16 | 2023-07-14 |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 | 2022-11-08 |
-| [Baghanny](https://open.spotify.com/track/6268FVFOesGcamWngDzyqv) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA), [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Baghanny](https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o) | 4:16 | 2023-05-25 |  |
+| [Baghanny](https://open.spotify.com/track/6268FVFOesGcamWngDzyqv) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA), [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Baghanny](https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o) | 4:16 | 2023-05-25 | 2023-07-29 |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 | 2022-11-16 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2023-03-18 |
 | [Batalet Haiatik](https://open.spotify.com/track/3uOTeUzSg0pBIx5xDd2ARv) | [Alia Awwe](https://open.spotify.com/artist/67tXfOypohX8DzjnZDDXOm) | [Batalet Haiatik](https://open.spotify.com/album/7CvbpdJR1gk1Q3TnluIWkZ) | 3:01 | 2021-12-23 | 2022-03-02 |
@@ -359,6 +359,7 @@
 | [Stylo warqa](https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d) | 2:57 | 2023-01-25 | 2023-05-13 |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2022-03-01 | 2023-01-24 |
 | [Superstar](https://open.spotify.com/track/1ujDSWTQvn3WPkgJE7aaSC) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Superstar](https://open.spotify.com/album/5kflETaCOTX19lMKDUlEwW) | 4:26 | 2021-12-23 | 2022-03-01 |
+| [Ta'lan](https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta'lan](https://open.spotify.com/album/4a8SJ5uy1axuUEarsnqEV7) | 3:34 | 2023-07-28 |  |
 | [Taahod Lel Bachariyye](https://open.spotify.com/track/7czRja1ENXg26jtlQcNctY) | [Manel Mallat](https://open.spotify.com/artist/7bObjqtDpzyr6ge9MyM4ov) | [Taahod Lel Bachariyye](https://open.spotify.com/album/5YkA9Rs1FyzoDXrhjkNMFJ) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 | 2021-12-30 | 2022-03-02 |
 | [tab eh](https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:13 | 2023-05-08 | 2023-07-07 |

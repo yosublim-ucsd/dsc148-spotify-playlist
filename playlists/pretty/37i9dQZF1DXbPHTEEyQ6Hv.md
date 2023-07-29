@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,558 likes - 83 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,546 likes - 83 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 66 | [Last Christmas](https://open.spotify.com/track/5LenSKghLjYnM6CVIbUu9M) | [Vittoria Emanuelle](https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q) | [Last Christmas](https://open.spotify.com/album/2osHsjjJFWmlYFUWsQVl3N) | 2:37 |
 | 67 | [Give Love on Christmas Day](https://open.spotify.com/track/3HR02rSU7gsGvtvOijzty3) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Give Love on Christmas Day](https://open.spotify.com/album/1HBIv61a3Oie3DC7BhAFoS) | 2:45 |
 | 68 | [Baby It's Cold Outside](https://open.spotify.com/track/70DzALhYqq7Qji8LS6qInD) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [It's Christmas Time](https://open.spotify.com/album/4GuawcNKN8u5XaSSOvjqvH) | 2:07 |
-| 69 | [The Holly and the Ivy](https://open.spotify.com/track/0YrtmukmxadUiL71QmYavc) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Piano Christmas](https://open.spotify.com/album/5DzeLiTyNyuJWq5kJkjaVV) | 1:52 |
+| 69 | [The Holly And The Ivy](https://open.spotify.com/track/0Z56bFna9S2pNcWM3dQ0P4) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Home For Christmas](https://open.spotify.com/album/155DIBTJApyx01CHnBUdB8) | 1:50 |
 | 70 | [The Night Before Christmas](https://open.spotify.com/track/40BxkceWiGC2D37Iv3PqQS) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [It's Christmas Every Day](https://open.spotify.com/album/3lHNVUvVKOZvjuA6VkpCIN) | 2:36 |
 | 71 | [Jingle Bells](https://open.spotify.com/track/4E42u4CFeuIyFdaEWN7Wty) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Jingle Bells](https://open.spotify.com/album/5MsKGEDUhXdPo1DirR0pa4) | 3:59 |
 | 72 | [Home for the Holidays](https://open.spotify.com/track/5K5igtw94jv30oLWwv3bMg) | [Amelie Voss](https://open.spotify.com/artist/2Ccygrq1MNC7OTTjQneXBK) | [Home for the Holidays](https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH) | 2:39 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 82 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 | 83 | [Star Of The East](https://open.spotify.com/track/4TYn4M3KJyug0LjSgSuTIe) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:54 |
 
-Snapshot ID: `MCxhOWI1YTkwZGM4Yjk5NWVlNmNjNGQ0ZTY4NWU5YTI3YWZmOWEwMWNi`
+Snapshot ID: `MCw3YmY1OTU1Y2JkMzM3MjdmM2EyYjJjNTU4ZDc5Zjk1YjQ2MTc2Njk5`

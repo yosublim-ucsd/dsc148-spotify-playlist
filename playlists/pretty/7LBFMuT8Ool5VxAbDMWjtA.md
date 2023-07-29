@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain]
 
 > Dark trap beats and ethereal synth arpeggios.
 
-[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 6,143 likes - 44 songs - 2 hr 40 min
+[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 6,142 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain]
 | 15 | [Ether](https://open.spotify.com/track/76DAkogdxJEPQnWk9kzewp) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Substances EP](https://open.spotify.com/album/4oxqfZ4aQv4mIHf59W3X1S) | 4:28 |
 | 16 | [Asphyxia](https://open.spotify.com/track/1efaNOKQVHof1w74x83RHu) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Vice](https://open.spotify.com/album/642uT502ud4QsY9ZLL4Vkh) | 4:24 |
 | 17 | [Grey Veils](https://open.spotify.com/track/1lXbVK6pYYRxcDcBLaPME2) | [Chainless](https://open.spotify.com/artist/40lgCyfmz6zJKM0Ab2dHFi) | [Grey Veils](https://open.spotify.com/album/4j6yGm02EmhjmVoCwdGRJZ) | 3:10 |
-| 18 | [Simulation](https://open.spotify.com/track/3ZEyIY5i9m86hJjF14UqvV) | [Wevlth](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Simulation](https://open.spotify.com/album/2jeK8ZALtJP3ZK9aR4mcmT) | 3:31 |
+| 18 | [Simulation](https://open.spotify.com/track/3ZEyIY5i9m86hJjF14UqvV) | [WEVLTH](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Simulation](https://open.spotify.com/album/2jeK8ZALtJP3ZK9aR4mcmT) | 3:31 |
 | 19 | [Woodlands](https://open.spotify.com/track/7oPl7r8kLdjpeXlWg7LDc1) | [BITWVLF](https://open.spotify.com/artist/7hAxi36lF6tUTw06MSrY2F) | [Woodlands](https://open.spotify.com/album/5Mgnaoc0bFOQThw2uYWIAR) | 2:56 |
-| 20 | [Higher](https://open.spotify.com/track/0HHdsqqY9qbgUV0EstbDqU) | [Wevlth](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Higher](https://open.spotify.com/album/19CvZyxiBvd3dVzWpT5C10) | 4:47 |
+| 20 | [Higher](https://open.spotify.com/track/0HHdsqqY9qbgUV0EstbDqU) | [WEVLTH](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Higher](https://open.spotify.com/album/19CvZyxiBvd3dVzWpT5C10) | 4:47 |
 | 21 | [Your Heart at Mind](https://open.spotify.com/track/3uniDSxZDaZe2mKIFWGqqf) | [CROW CVLT](https://open.spotify.com/artist/2lW6mrsfcujnwKb2dKWaNj) | [Vacancy](https://open.spotify.com/album/2H2VFjX8zeRRcx1JZdIR4u) | 3:40 |
 | 22 | [Моя любовь](https://open.spotify.com/track/0cXCYCv1SL38Q5oSkNONvy) | [Радость Моя](https://open.spotify.com/artist/7p9Fl9DbB7mdSKcOOWA22J) | [Настрой мальчика](https://open.spotify.com/album/415HjS8iHMERp7eib3wxGA) | 2:56 |
 | 23 | [Moonlight Flit](https://open.spotify.com/track/279fvscy31X441ZtoVb4BT) | [Nocow](https://open.spotify.com/artist/37fdkkiylsDkoVwyK7WvzK) | [Ruins Tape](https://open.spotify.com/album/3GNRY3C2HO8zIeTWPhiQww) | 3:30 |

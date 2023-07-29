@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: ROYAL ESTATE\. Artwork: Isu Kim.
 
-492 songs - 1 day 2 hr 59 min
+493 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Over Overthinking](https://open.spotify.com/track/4pnbyipG5l8dTE1tnMc24d) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Over Overthinking](https://open.spotify.com/album/4oOyFDgWnKk1HhPLoUuHx0) | 2:00 | 2022-01-13 | 2022-06-17 |
 | [Over The Moon](https://open.spotify.com/track/7MFMicI9kiV2QKmhSzhGTr) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Over The Moon](https://open.spotify.com/album/76ggCBGXOVOf3nru9bFccp) | 3:23 | 2022-03-24 | 2022-07-08 |
 | [Over You](https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [Joshua Wong](https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK) | [Over You](https://open.spotify.com/album/549aG93aYXXywD71wj36Sw) | 3:32 | 2023-03-09 | 2023-03-25 |
+| [Paid For](https://open.spotify.com/track/2X6Kd0M5mqWfznL4V7YOdG) | [Saint Kylo](https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA) | [Paid For](https://open.spotify.com/album/42rxaiT8eq7n0Ud10tRQUj) | 3:52 | 2023-07-28 |  |
 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 | 2022-04-21 | 2022-09-23 |
 | [party](https://open.spotify.com/track/3lg8fTLCOWxgaudZXCyG3P) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [GUARDIAN](https://open.spotify.com/album/6x7r7EgOxslreS1bEa8aPF) | 3:38 | 2022-11-30 | 2023-01-13 |
 | [patterns](https://open.spotify.com/track/3tDY2gPHumQcyQc98Rnno5) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx) | [patterns](https://open.spotify.com/album/0tNRfOMisa2o4GRlRXQ92H) | 4:08 | 2023-06-22 |  |
@@ -448,7 +449,7 @@
 | [Utopia](https://open.spotify.com/track/60hiLsYGpC5RnyKZQ6aaY4) | [Pokok](https://open.spotify.com/artist/4MoiOz6WZwMyW1RXR0wHW9) | [Utopia](https://open.spotify.com/album/7xKHffhGr9fRADalZdKkjg) | 5:02 | 2022-01-13 | 2022-06-17 |
 | [Utopia Reimagined: These Corners](https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Utopia Reimagined: These Corners](https://open.spotify.com/album/6YB9B98Kmum6oN6jqoIlxv) | 5:09 | 2023-02-23 | 2023-05-12 |
 | [Venus](https://open.spotify.com/track/0VJh933Nhkk8VEUzqp74b0) | [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Venus](https://open.spotify.com/album/5cpB46g92ndv8OtQVoVoFK) | 4:04 | 2023-07-27 |  |
-| [VISITOR](https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk) | [Goth Mystery Mafia](https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB) | [VISITOR](https://open.spotify.com/album/17G2nrijiEDT3w0bSNM1Qp) | 3:30 | 2023-05-26 |  |
+| [VISITOR](https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk) | [GOTHMYSTERYMAFIA](https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB) | [VISITOR](https://open.spotify.com/album/17G2nrijiEDT3w0bSNM1Qp) | 3:30 | 2023-05-26 |  |
 | [WAGMI](https://open.spotify.com/track/4ZC9FJH7b9MsmQR9DowTjM) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [WAGMI](https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx) | 2:22 | 2022-01-13 | 2022-01-21 |
 | [wait.](https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [wait.](https://open.spotify.com/album/5CxHl5N0JJsYazJAc7MDAq) | 3:20 | 2023-01-12 | 2023-05-12 |
 | [Waiting](https://open.spotify.com/track/2WmeK8YevGN4zs7427Aq0q) | [So, I'm Jenn](https://open.spotify.com/artist/73c7HcRTKPKu9ldhTs91D4), [Jon Liddell](https://open.spotify.com/artist/3T1l7enD11jIjUMGfiifH8) | [Waiting](https://open.spotify.com/album/5LvOuWcwwMIEoqbP8gE3HS) | 2:31 | 2023-06-15 |  |

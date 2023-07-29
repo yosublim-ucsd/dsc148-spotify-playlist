@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aruna Dawn
 
-2,259 songs - 5 day 18 hr 24 min
+2,262 songs - 5 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Benci Jadi Cinta](https://open.spotify.com/track/6h6LD8tO7F1u6sH8VGzQmj) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Benci Jadi Cinta](https://open.spotify.com/album/4JGsSl1gCe11YBzrsVEmW6) | 3:56 | 2022-05-05 | 2022-05-20 |
 | [Bended](https://open.spotify.com/track/7G8zqih6Zjxq0Imu4ixNov) | [Salsa Larasati](https://open.spotify.com/artist/5jULnbCAyIaAtROH1rvBRD) | [Bended](https://open.spotify.com/album/6BqZUS6d2Q5nctCS8rpn3R) | 4:16 | 2023-01-19 | 2023-02-10 |
 | [Bended Heart](https://open.spotify.com/track/7tl9i80HMYjfRPD7bGZJkh) | [Radinal](https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg) | [Bended Heart](https://open.spotify.com/album/2phirIa8lcTiQOGf4dYtDY) | 3:12 | 2022-05-19 | 2022-06-03 |
+| [Benderang](https://open.spotify.com/track/2fRKCDrWSDqnVupR7p0E7G) | [Sauh](https://open.spotify.com/artist/0jfX0mffJyicxlMBB1IS2f) | [Benderang](https://open.spotify.com/album/2y3KKI2I3CZ0Gdah2zilgq) | 4:16 | 2023-07-28 |  |
 | [Berakhir](https://open.spotify.com/track/74vuGUc4NtHqqOjnJGLaCD) | [Wetbox](https://open.spotify.com/artist/0Rv518aK56GVppmTefGITz) | [Berakhir](https://open.spotify.com/album/1NKCBEjPFABgeIZl8Sumqt) | 3:35 | 2022-01-20 | 2022-02-04 |
 | [Beranda Rumahmu](https://open.spotify.com/track/28Hv3sF0BYgZtB3Cjduhkm) | [Tropical Flower](https://open.spotify.com/artist/5vMByzSDmyn6WvIRewJ7Qj) | [Beranda Rumahmu](https://open.spotify.com/album/1utJjOVoFA0nVFJJwjqVXx) | 3:27 | 2023-03-16 | 2023-03-31 |
 | [Berani Buktikan Beda](https://open.spotify.com/track/2hzXS8qQRiJTSW0NFDtUWB) | [Avia Athalia](https://open.spotify.com/artist/5TT4XW9r3HNJ4elktvvzUE), [Fatya Biya](https://open.spotify.com/artist/5fLa60wbGDWGpHESwXJYW7) | [Berani Buktikan Beda](https://open.spotify.com/album/0bMo06NisyBwi0QQpFoXzt) | 3:23 | 2022-04-21 | 2022-05-13 |
@@ -906,6 +907,7 @@
 | [Ingat Ini Saat Menepi](https://open.spotify.com/track/3h3BYR9KYP5n6O1Pz8BGLm) | [Ansito Rini](https://open.spotify.com/artist/5R6u420q145LO47P7VrcIF) | [Ingat Ini Saat Menepi](https://open.spotify.com/album/5xjmkFwiDb1ORMOsMu2kGA) | 3:09 | 2023-03-30 | 2023-04-14 |
 | [Ingin Jadi Cintamu](https://open.spotify.com/track/35ksuG4WEDlLgHrI0FW7Vp) | [Dewanda Pratama](https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV) | [Ingin Jadi Cintamu](https://open.spotify.com/album/1yXw5bD2Ge1zkGWp9xvEmD) | 3:48 | 2023-01-19 | 2023-02-10 |
 | [Ingin Kamu](https://open.spotify.com/track/4zNCVWkRTxVoWeUDeAnMOT) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Ingin Kamu](https://open.spotify.com/album/5aTWdrQyASV9yjdc9Q7dEa) | 4:03 | 2023-03-02 | 2023-03-18 |
+| [Ingin Slalu Bersamamu](https://open.spotify.com/track/68ma9OxOGYNYbaS8Fj3RDX) | [DEFITREES](https://open.spotify.com/artist/6YrY9O5z5VhpgSqXGGYe0z) | [SamaRasa](https://open.spotify.com/album/6L3XkpCAXIntT8OdmQCe1a) | 3:44 | 2023-07-28 |  |
 | [Inginnya Egois](https://open.spotify.com/track/4EPjS9ZRtsirRvmRXoubfq) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Inginnya Egois](https://open.spotify.com/album/3L8lQPC1EAaYhY89PudEB3) | 3:51 | 2023-01-12 | 2023-01-27 |
 | [Ini Jakarta](https://open.spotify.com/track/7MJ0ZGDlTUbdFKOnnVWPdh) | [SIMALODRA](https://open.spotify.com/artist/2lP3leAVjgokeD8quqctzM) | [Ini Jakarta](https://open.spotify.com/album/4ybzlCBWcvGXk84Emuuaul) | 3:00 | 2023-05-11 | 2023-05-26 |
 | [Insecure](https://open.spotify.com/track/4KFrckYUh8sHt4ZhSV3AUt) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn), [Kid JD](https://open.spotify.com/artist/3EeuvO0Tpxy2nUwidKb1L8) | [Insecure](https://open.spotify.com/album/01S6h4jOtU1loPzg1Cy61z) | 3:08 | 2023-03-09 | 2023-03-25 |
@@ -1033,6 +1035,7 @@
 | [Kehilangan Kamu](https://open.spotify.com/track/0cYfE3WrVWSVstVdQ17ok4) | [Indah Angraini](https://open.spotify.com/artist/0a2k2lPiVUgkKEr9vOSd3B) | [Kehilangan Kamu](https://open.spotify.com/album/6ozPHIOm9Z0zDzcmJW8YPI) | 3:49 | 2022-01-06 | 2022-01-14 |
 | [Kejamnya Dunia](https://open.spotify.com/track/3QyGXC6AkNFMyv74JayHou) | [Sepijak](https://open.spotify.com/artist/0M5ZqgCaOD50mhV4TLJ7YG) | [Kembali Menyapa](https://open.spotify.com/album/5kEvUfXSrGhJH6vEeUL6BL) | 3:46 | 2022-07-28 | 2022-08-12 |
 | [Kejar](https://open.spotify.com/track/7rBowoPIX1R8Lj6cm1qfKy) | [Mariani](https://open.spotify.com/artist/2d8VU9F9peezh9QgVPZmxj) | [Kejar](https://open.spotify.com/album/452WK0GoOgprj8VZpuBEEO) | 4:26 | 2022-11-11 | 2022-12-01 |
+| [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-07-28 |  |
 | [Kelam Kujalani](https://open.spotify.com/track/24aPjGtFMztxrlPSI0brM3) | [Vikry Satria Nugraha](https://open.spotify.com/artist/6FFDQrDjRRHMFJfsGK3kQb) | [Kelam Kujalani](https://open.spotify.com/album/4KDH5UrDKkBOogPlrNJtwL) | 4:35 | 2023-04-27 | 2023-05-19 |
 | [Kelas Pekerja](https://open.spotify.com/track/05zAsmJDV9LEzQpxBUTaXr) | [Normatif](https://open.spotify.com/artist/4WWtpEd8AB8RBkyGlpJnG1) | [Kelas Pekerja](https://open.spotify.com/album/23TFGOz94r5hoWTHl433kT) | 3:14 | 2023-06-15 | 2023-06-30 |
 | [Kelepasan](https://open.spotify.com/track/0fgSaE6HD1FKINO8hvpGdg) | [Man Nala](https://open.spotify.com/artist/0BZN1mLAWOYnfAGm7Vs2zR) | [Kelepasan](https://open.spotify.com/album/2DqsdgLnBFt4adQFOv0cZC) | 2:52 | 2023-04-06 | 2023-04-28 |

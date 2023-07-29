@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=0XmLSTPMRw28DgCCiBeQkw">Kingdmusic</a>
 
-134 songs - 13 hr 27 min
+135 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ke Mang \- Live](https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 6:47 | 2018-10-15 |  |
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 |  |
 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 | 2023-07-14 |  |
+| [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 |  |
 | [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 |  |
 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 | 2022-01-06 |  |
 | [Lion of Judah \(Live\)](https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 5:09 | 2018-09-24 |  |

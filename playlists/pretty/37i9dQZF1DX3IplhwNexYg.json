@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: The Last Dinner Party",
-  "num_followers": 111537,
+  "num_followers": 111535,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDNiMWVkMDA3ODFjYTU5NjQ0M2M0MTcyMTRmOTkwNjdhY2E0M2I3",
+  "snapshot_id": "MCxmMTkzZjM4YWExMTYxOGZkN2FlMmVmZjk4MTkwN2IwYzUxODRkYjI5",
   "tracks": [
     {
       "added_at": "2023-07-21 11:53:08",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "added_at": "2023-07-21 11:53:08",
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2023-07-21 11:53:08",
-      "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
+        "name": "dazies",
+        "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 264854,
+      "name": "dazies",
+      "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
+    {
+      "added_at": "2023-07-21 11:53:08",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "dazies",
-        "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 264854,
-      "name": "dazies",
-      "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "Prophecy of the Dragon",
-        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 293631,
-      "name": "Prophecy of the Dragon",
-      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
-    },
-    {
-      "added_at": "2023-07-21 11:53:08",
-      "album": {
         "name": "in my room",
         "url": "https://open.spotify.com/album/6htcXAU5WurWe4bKWYEJUJ"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 224592,
       "name": "in my room",
       "url": "https://open.spotify.com/track/5Agp3RTISLHx8KlWibUsU5"
+    },
+    {
+      "added_at": "2023-07-21 11:53:08",
+      "album": {
+        "name": "Prophecy of the Dragon",
+        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 293631,
+      "name": "Prophecy of the Dragon",
+      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -627,34 +643,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
-    },
-    {
-      "added_at": "2023-07-21 11:53:08",
-      "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "Better (Edit)",
-        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Better - Edit",
-      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2023-07-21 11:53:08",
-      "album": {
         "name": "Follow You Down",
         "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2023-07-21 11:53:08",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 242737,
-      "name": "I Was Neon",
-      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
-    },
-    {
-      "added_at": "2023-07-21 11:53:08",
-      "album": {
         "name": "Soft Like a Flower",
         "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 196273,
       "name": "Soft Like a Flower",
       "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
+    },
+    {
+      "added_at": "2023-07-21 11:53:08",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 242737,
+      "name": "I Was Neon",
+      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
     },
     {
       "added_at": "2023-07-21 11:53:08",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2023-07-21 11:53:08",
       "album": {
-        "name": "I've Never Been To LA",
-        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
       "artists": [
         {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 159129,
-      "name": "I've Never Been To LA (Edit)",
-      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     }
   ],
   "unique_name": "pulp",

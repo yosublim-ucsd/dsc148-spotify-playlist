@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Amor Vuelve (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZvVnbkeEfL8N9zzgICFEP"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226877,
+      "name": "Amor Vuelve - (En Vivo)",
+      "url": "https://open.spotify.com/track/23cpMr5CaZ4JcfYQ6oZ5Lb"
+    },
+    {
+      "album": {
         "name": "Los Reyes de la Cumbia Playera (Versi\u00f3n 2015)",
         "url": "https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS"
       },
@@ -248,6 +270,36 @@
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "album": {
+        "name": "BANDIDO",
+        "url": "https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Estani",
+          "url": "https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "BANDIDO",
+      "url": "https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV"
     },
     {
       "album": {
@@ -552,7 +604,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
@@ -722,7 +774,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -1064,7 +1116,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 239823,
       "name": "H\u00e9roe Favorito",
       "url": "https://open.spotify.com/track/6BdAwMv1YorLfkBWlE493X"
@@ -1194,7 +1246,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226285,
       "name": "La Mushasha Shula",
       "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
@@ -1400,7 +1452,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160988,
       "name": "Los Dos Fallamos",
       "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
@@ -1520,6 +1572,32 @@
       "duration_ms": 206063,
       "name": "MENTIRAS - Remix",
       "url": "https://open.spotify.com/track/2kbRM4FucljvdauaGl0Oad"
+    },
+    {
+      "album": {
+        "name": "Mentiras | CROSSOVER #3",
+        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mentiras | CROSSOVER #3",
+      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
     },
     {
       "album": {
@@ -1677,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+      "url": "https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h"
+    },
+    {
+      "album": {
         "name": "No Se Va (EN VIVO)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
@@ -1762,6 +1862,28 @@
       "duration_ms": 125000,
       "name": "Nuestro Amor Regresa",
       "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
+    },
+    {
+      "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "album": {
@@ -2353,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -2482,7 +2622,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 240056,
       "name": "Yo no lloro por llorar - Versi\u00f3n salsa",
       "url": "https://open.spotify.com/track/6zYxJWxCl4SofXiffXk0kV"

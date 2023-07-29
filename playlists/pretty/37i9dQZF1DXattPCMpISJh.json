@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 93775,
+  "num_followers": 93862,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2U0MjdmZjRlYjU1MWQ4MWUxYmEzMzRiOTkyNjhhNDFhOWZkNTQz",
+  "snapshot_id": "MCw3MGUyNzA5N2U3MWYyZjYzNTM3YzdhOGFiYTA0ZDE3YWYxMjEyZDQw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -139,6 +139,26 @@
       "duration_ms": 339562,
       "name": "Undone - Dave Lee's Disco Blend",
       "url": "https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o"
+      },
+      "artists": [
+        {
+          "name": "Billy Otto",
+          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
+        },
+        {
+          "name": "Kabrio",
+          "url": "https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy"
+        }
+      ],
+      "duration_ms": 183363,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1235,26 +1255,6 @@
       "duration_ms": 217299,
       "name": "Another Day Gone",
       "url": "https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "My Only",
-        "url": "https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8"
-      },
-      "artists": [
-        {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Ashley Slater",
-          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "My Only",
-      "url": "https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh"
     },
     {
       "added_at": "2022-10-14 04:00:00",

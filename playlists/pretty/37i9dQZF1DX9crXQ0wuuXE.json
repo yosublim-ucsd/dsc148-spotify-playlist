@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 618587,
+  "num_followers": 618687,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OThlMjI4ZjY1YTNhOGZjZDhjNGZhMmEwOWQzMjAzNjQ1OTJkODJi",
+  "snapshot_id": "MCw0ODczNTNhMTYyZmQ2NTUwOWRiZWQyY2FhMTc1YmVjOTQ1ZmM3NWE5",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -263,8 +263,8 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -375,8 +375,8 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 157040,
       "name": "Stronger Than That",
       "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232690,
-      "name": "40 Day Dream - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232690,
+      "name": "40 Day Dream - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Junky Star",
-        "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "The Weary Kind",
-      "url": "https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "North Hills",
         "url": "https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 308373,
       "name": "When My Time Comes",
       "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Junky Star",
+        "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "The Weary Kind",
+      "url": "https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "The Lion's Roar",
-        "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Emmylou",
-      "url": "https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9"
     }
   ],
   "unique_name": "Roots Revival",

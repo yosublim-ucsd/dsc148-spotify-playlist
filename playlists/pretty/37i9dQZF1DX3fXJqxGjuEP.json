@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 658128,
+  "num_followers": 658320,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWRiY2ZkMmIyYTZhZTU0MmFmM2UxMTExZTE2YjJkMDhhZWViZmM2",
+  "snapshot_id": "MCw4MmQ1MDlmOTQ2NmM2NmRjODU2NDAxMzFmNzJjMTdmNjg2ZGI5NWI5",
   "tracks": [
     {
       "added_at": "2021-10-20 20:06:54",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 302613,
       "name": "Bossa & People",
       "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -555,26 +555,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "So\u00f1\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 268280,
       "name": "T\u00fa S\u00ed Sabes Quererme",
       "url": "https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -805,26 +805,6 @@
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
     },
     {
-      "added_at": "2023-05-26 18:31:17",
-      "album": {
-        "name": "cumbia aesthetic",
-        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "cumbia aesthetic",
-      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Aloha",
@@ -843,6 +823,26 @@
       "duration_ms": 187392,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
+    },
+    {
+      "added_at": "2023-05-26 18:31:17",
+      "album": {
+        "name": "cumbia aesthetic",
+        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "cumbia aesthetic",
+      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
     },
     {
       "added_at": "2022-07-01 02:47:32",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
-    },
-    {
       "added_at": "2022-02-11 02:34:16",
       "album": {
         "name": "Pupilas Lejanas",
@@ -927,6 +911,22 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d"
       },
       "artists": [
         {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I"
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq"
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1501,38 +1501,6 @@
       "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
     },
     {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Paradiso",
@@ -1555,18 +1523,34 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Aguacate",
-        "url": "https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh"
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y"
       },
       "artists": [
         {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 207313,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1583,6 +1567,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Aguacate",
+        "url": "https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1725,26 +1725,6 @@
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
-      "added_at": "2023-05-09 00:19:26",
-      "album": {
-        "name": "Poco a Poco (Remix)",
-        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Poco a Poco - Remix",
-      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
-    },
-    {
       "added_at": "2022-09-02 05:59:54",
       "album": {
         "name": "La Matanza",
@@ -1763,6 +1743,26 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2023-05-09 00:19:26",
+      "album": {
+        "name": "Poco a Poco (Remix)",
+        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Poco a Poco - Remix",
+      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
     },
     {
       "added_at": "2022-06-08 03:35:19",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Con la Fiesta a Cuestas",
-        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 237244,
       "name": "Maz Paz",
       "url": "https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Con la Fiesta a Cuestas",
+        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
     }
   ],
   "unique_name": "Vibra Tropical",

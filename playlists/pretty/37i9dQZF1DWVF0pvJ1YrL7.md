@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,284 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,325 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 13 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
 | 14 | [0°C](https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:01 |
 | 15 | [Step](https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2) | [Hotel Silk](https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd) | [Step](https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc) | 7:11 |
-| 16 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 16 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
 | 17 | [Bright Curse](https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Fenella](https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg) | 3:50 |
-| 18 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
+| 18 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
 | 19 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
 | 20 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
 | 21 | [Senzu Beans](https://open.spotify.com/track/0DMYvAkliivrzUOOyTR2G0) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np), [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD) | [Dragonball Wave II](https://open.spotify.com/album/3XohsFcMxMN44U25fqTqF4) | 2:19 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 39 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
 | 40 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
 | 41 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
-| 42 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
+| 42 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
 | 43 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
-| 44 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
+| 44 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
 | 45 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
 | 46 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 |
 | 47 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCwwYzY1NjU1ZTU0NWMwZmQ3NDdjZDg2YmM3ZDExYmU0MTI3YmEzZDQ0`
+Snapshot ID: `MCw3NzFiNzEyYTRjYThiZTY5YzJhOGM5YjNlOWQyODRhNjc4Mzk5M2U0`

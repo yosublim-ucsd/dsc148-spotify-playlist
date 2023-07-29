@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Gera MX",
+  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Residente",
   "name": "Mucho Rap",
   "tracks": [
     {
@@ -4014,10 +4014,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 157553,
       "name": "FUCK EL POLICE",
       "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
+    },
+    {
+      "album": {
+        "name": "FUCK EL POLICE (REMIX)",
+        "url": "https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142916,
+      "name": "FUCK EL POLICE - REMIX",
+      "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
     },
     {
       "album": {
@@ -7354,7 +7376,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 133333,
       "name": "No Boss",
       "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
@@ -8864,6 +8886,28 @@
       "duration_ms": 143759,
       "name": "Quede Claro",
       "url": "https://open.spotify.com/track/459BwlbMwmHKyuLp4ajisX"
+    },
+    {
+      "album": {
+        "name": "Quiero Ser Baladista",
+        "url": "https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342142,
+      "name": "Quiero Ser Baladista",
+      "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
     },
     {
       "album": {

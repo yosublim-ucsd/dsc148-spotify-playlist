@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,031 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,030 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 18 | [Even So Come \- Radio Version/Live](https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Even So Come \(Radio Version/Live\)](https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P) | 4:14 |
 | 19 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 20 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
-| 21 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
-| 22 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
+| 21 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
+| 22 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
 | 23 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 |
 | 24 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 |
 | 25 | [Love Has A Name \- Studio Version](https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Love Has A Name \(Studio Version\)](https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ) | 4:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 39 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
 | 40 | [O, the Blood \- Live](https://open.spotify.com/track/3ERd26mAJIOgdCGzKe1Q7U) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C) | 5:28 |
 | 41 | [How Great Is Your Love \- Live](https://open.spotify.com/track/4707B6flOJWZSBXqqVsvPI) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 6:06 |
-| 42 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
-| 43 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
+| 42 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
+| 43 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 | 44 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
 | 45 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 46 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCxmNzU5ZjE4ZDgxOTBjOTc5MTAwMTdmZTlmMjQ5MTQxNWFiODUxNjMy`
+Snapshot ID: `MCw5ZDA4ODBkMmU4ODljZTYyMDQxOGI2MDU2YzM1NmU3MGUyNzE2Y2Qx`

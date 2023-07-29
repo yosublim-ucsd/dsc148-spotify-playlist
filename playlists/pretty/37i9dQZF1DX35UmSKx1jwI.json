@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 95388,
+  "num_followers": 95477,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDEzMWQ2Y2ZmMjYwM2I5ZDJhMWM4YWJmMDZhYzhmOTg3ODM4MjEz",
+  "snapshot_id": "MCxhMmYyOTMzZDk2NTQ2MjBmZmFjOWFlMWNiNmNlMjgyYzFlMTJkNWM0",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Born To Love (feat. SHELLS)",
         "url": "https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 162295,
       "name": "Born To Love (feat. SHELLS)",
       "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
     },
     {
       "added_at": "2023-04-13 21:59:00",

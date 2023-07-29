@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
@@ -730,6 +730,24 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Belize",
+      "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 176000,
       "name": "Desamor Feliz - Remix",
       "url": "https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2"
@@ -2413,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "Oversize",
+        "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "La Segura",
+      "url": "https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz"
+    },
+    {
+      "album": {
         "name": "La Tarea",
         "url": "https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp"
       },
@@ -2674,7 +2714,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 223800,
       "name": "LQPM 360",
       "url": "https://open.spotify.com/track/0LttQXynOe91xF8xHFhuhr"
@@ -3785,6 +3825,28 @@
     },
     {
       "album": {
+        "name": "POKE FREESTYLE",
+        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "POKE FREESTYLE",
+      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+    },
+    {
+      "album": {
         "name": "Ponte Pa' Mi",
         "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
       },
@@ -4625,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "album": {
         "name": "SU\u00c9LTATE",
         "url": "https://open.spotify.com/album/49UiQIdZCwPpf3KVo7RO2C"
       },
@@ -4750,7 +4830,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"

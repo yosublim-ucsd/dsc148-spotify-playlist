@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 99560,
+  "num_followers": 99642,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdhZGQwNGU1ODZkMzdjMmM2MjNiOTk1Y2RjNTE5YTk0MWJhZDlm",
+  "snapshot_id": "MCxlM2M2ZjIwNGQwMzUxMjhiZWE4OTdjOWE0ZjFmMDhhNzdkN2UxODkw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Decksandrumsandrockandroll 20th anniversary",
         "url": "https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Exit Planet Dust",
         "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 332788,
       "name": "Leave Home",
       "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2021-07-14 17:36:34",

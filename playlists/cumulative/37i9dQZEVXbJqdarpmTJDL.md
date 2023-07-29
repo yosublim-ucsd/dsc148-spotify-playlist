@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,232 songs - 2 day 17 hr 51 min
+1,233 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Mono Me Sena](https://open.spotify.com/track/4YysyLjz6SRP3GrHErygST) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Mono Me Sena](https://open.spotify.com/album/123zD5RnsLnh3jHqPkMNSO) | 3:36 | 2023-04-29 | 2023-05-21 |
 | [Monokyalo Freestyle](https://open.spotify.com/track/4Lu4o7ha0oFyzi0v5tAyEf) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [Monokyalo Freestyle](https://open.spotify.com/album/7200YEXuQhN3c8T6Me7d4p) | 3:05 | 2023-05-13 | 2023-05-15 |
 | [Monopoly](https://open.spotify.com/track/0evRxPVMjvGCIXWsslUVKv) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 3:24 | 2022-04-27 | 2022-04-29 |
+| [MONOS](https://open.spotify.com/track/6104vmH44puCfW9cDqh0ET) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [MONOS](https://open.spotify.com/album/3dOVV0NFY12IASzngB411y) | 2:35 | 2023-07-28 |  |
 | [Montecristo](https://open.spotify.com/track/0g3fKXiX2AANAX3k6FnKib) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [Montecristo](https://open.spotify.com/album/65OW7hRhL8EiG1NfhkERqC) | 4:23 | 2021-09-04 | 2021-09-06 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-10-07 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-27 | 2021-04-14 |
@@ -921,7 +922,7 @@
 | [PROSEUXES](https://open.spotify.com/track/5mdj90yso7kPyy2foXjeDY) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 2:54 | 2022-05-21 | 2022-05-31 |
 | [Proseuxes](https://open.spotify.com/track/3asZPLim1bn0tqWoSDQW1b) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Proseuxes](https://open.spotify.com/album/2GDjAzIFFW7qnIQuRHMHez) | 3:06 | 2021-08-21 | 2021-08-23 |
 | [Proseuxi](https://open.spotify.com/track/4W1zxKEcYEC9a87mX3jaQ2) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Timima](https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU) | 3:27 | 2021-11-21 | 2021-11-28 |
-| [PROSOPIKA FREESTYLE](https://open.spotify.com/track/2eS6fdksuCn96wuWTKzrfc) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [PROSOPIKA FREESTYLE](https://open.spotify.com/album/7FABAQHGFooCljEuVMNLG4) | 3:14 | 2023-06-17 |  |
+| [PROSOPIKA FREESTYLE](https://open.spotify.com/track/2eS6fdksuCn96wuWTKzrfc) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [PROSOPIKA FREESTYLE](https://open.spotify.com/album/7FABAQHGFooCljEuVMNLG4) | 3:14 | 2023-06-17 | 2023-07-29 |
 | [Protevousa](https://open.spotify.com/track/7nkPt2fzmlQzXcZGSoTAnh) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997) | [Protevousa](https://open.spotify.com/album/5KXmZAgsa67mKaUNHBJTFg) | 3:35 | 2021-06-25 | 2021-06-26 |
 | [Proti Thesi](https://open.spotify.com/track/5Ag6ggLk5bdlJNvD88FZAV) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Proti Thesi](https://open.spotify.com/album/6n1BdVRl12hU1VDGncyloK) | 3:37 | 2021-06-13 | 2021-06-16 |
 | [PROVLIMATA](https://open.spotify.com/track/3mFp9xedXeyDrvnEW3CAiC) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [RACKATTACK 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 3:27 | 2022-07-16 | 2022-07-21 |

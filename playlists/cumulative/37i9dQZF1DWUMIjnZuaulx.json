@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202951,
       "name": "Done It For Me",
       "url": "https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI"
@@ -1864,6 +1864,28 @@
       "duration_ms": 347794,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3EWjy5dS9CdNQl01P45yMl"
+    },
+    {
+      "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX"
+      },
+      "artists": [
+        {
+          "name": "Freddy Washington Jr.",
+          "url": "https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE"
+        },
+        {
+          "name": "Myron Butler & Levi",
+          "url": "https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236797,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc"
     },
     {
       "album": {

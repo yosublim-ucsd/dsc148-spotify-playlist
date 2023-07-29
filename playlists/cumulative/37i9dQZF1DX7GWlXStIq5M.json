@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145635,
       "name": "ainda te busco",
       "url": "https://open.spotify.com/track/6BqSezyatD0GzqjQGbJ2g0"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "7 Estrelas | quem arrancou o c\u00e9u?",
+        "url": "https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165698,
+      "name": "Cobras na sua Mesa",
+      "url": "https://open.spotify.com/track/5BsVi9L7F1LKQuB5QQacAg"
+    },
+    {
+      "album": {
         "name": "Depois do Fim",
         "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
       },
@@ -1922,6 +1940,24 @@
       "duration_ms": 139649,
       "name": "Coisa Boa",
       "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
+    },
+    {
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "album": {
@@ -2053,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
+      },
+      "artists": [
+        {
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141484,
+      "name": "Cora\u00e7\u00e3o Solto",
+      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
+    },
+    {
+      "album": {
         "name": "A Rua e Seus Encantos",
         "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
       },
@@ -2152,7 +2206,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161587,
       "name": "danos colaterais",
       "url": "https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC"
@@ -2268,7 +2322,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162563,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
@@ -2348,7 +2402,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 116378,
       "name": "Desculpa te Ligar",
       "url": "https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP"
@@ -2670,6 +2724,28 @@
       "duration_ms": 162507,
       "name": "elevador",
       "url": "https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5"
+    },
+    {
+      "album": {
+        "name": "Escala de D\u00f3",
+        "url": "https://open.spotify.com/album/4oI2poa1RjCuob6xPxE665"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Escala de D\u00f3",
+      "url": "https://open.spotify.com/track/4yM4uFB0hm2nWL6DzaWphz"
     },
     {
       "album": {
@@ -3284,7 +3360,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206524,
       "name": "fugitivos :)",
       "url": "https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6"
@@ -3336,6 +3412,28 @@
       "duration_ms": 135813,
       "name": "Fuuga",
       "url": "https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI"
+    },
+    {
+      "album": {
+        "name": "F\u00e9 nas Maluca",
+        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143221,
+      "name": "F\u00e9 nas Maluca",
+      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
     },
     {
       "album": {
@@ -4168,6 +4266,32 @@
       "duration_ms": 190153,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 Era",
+        "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
+      },
+      "artists": [
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "J\u00e1 Era",
+      "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
     },
     {
       "album": {
@@ -5143,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "MEU 1\u00ba APARTAMENTO",
+        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "MEU 1\u00ba APARTAMENTO",
+      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
+    },
+    {
+      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -5842,7 +5984,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213333,
       "name": "Nos Meus Sonhos",
       "url": "https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof"
@@ -6384,7 +6526,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 219438,
       "name": "Olho no Gato",
       "url": "https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX"
@@ -6684,6 +6826,32 @@
       "duration_ms": 157317,
       "name": "Passarinho",
       "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "O Kannalha",
+          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Penetra - Pedro Sampaio Remix",
+      "url": "https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA"
     },
     {
       "album": {
@@ -7450,7 +7618,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193125,
       "name": "Primeira Vez",
       "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
@@ -7770,7 +7938,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 136888,
       "name": "Reflexx",
       "url": "https://open.spotify.com/track/1eG9yQZwmaMRVvAwhiEl51"
@@ -8970,7 +9138,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 233600,
       "name": "Te quero mais",
       "url": "https://open.spotify.com/track/3ISIvh8jSR6xlO3N2BdlmZ"
@@ -9706,7 +9874,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154263,
       "name": "T\u00e3o Bem",
       "url": "https://open.spotify.com/track/3i6wNOdHuDFCQQQqOFcxgE"
@@ -9818,7 +9986,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 198000,
       "name": "universo de coisas que eu desconhe\u00e7o",
       "url": "https://open.spotify.com/track/4f7phfIoOpIhSI8tIK11f6"
@@ -9858,7 +10026,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 132413,
       "name": "vc n gosta de garotas",
       "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"

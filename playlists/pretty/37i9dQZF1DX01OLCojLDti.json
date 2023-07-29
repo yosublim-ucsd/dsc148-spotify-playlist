@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Superstar!!\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!",
-  "num_followers": 6764,
+  "num_followers": 6773,
   "original_name": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!  -Love Live! Superstar!!-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGIzZDBjYjc4ZDQ3NDk1MDkzNTkxM2RkOGM2MzYyNTM5MzY0OWYy",
+  "snapshot_id": "MCw3ZDdlMzAzYTc3NDEyZWQ5ODVlZmI0ZTJmMDIwZjM2YWIwYTEzOGJj",
   "tracks": [
     {
       "added_at": "2023-03-14 15:01:00",
@@ -191,18 +191,26 @@
     {
       "added_at": "2023-03-14 15:01:00",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+        "name": "LIVE with a smile!",
+        "url": "https://open.spotify.com/album/2TbDgwTApzwmfmXmqgjVT8"
       },
       "artists": [
         {
-          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
-          "url": "https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD"
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        },
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        },
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
         }
       ],
-      "duration_ms": 194869,
-      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
-      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
+      "duration_ms": 313413,
+      "name": "LIVE with a smile!",
+      "url": "https://open.spotify.com/track/3REaDXuOd66KycLJJDMheV"
     },
     {
       "added_at": "2023-03-14 15:01:00",
@@ -255,26 +263,18 @@
     {
       "added_at": "2023-03-14 15:01:00",
       "album": {
-        "name": "LIVE with a smile!",
-        "url": "https://open.spotify.com/album/2TbDgwTApzwmfmXmqgjVT8"
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
       "artists": [
         {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
-        },
-        {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        },
-        {
-          "name": "Liella!",
-          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD"
         }
       ],
-      "duration_ms": 313413,
-      "name": "LIVE with a smile!",
-      "url": "https://open.spotify.com/track/3REaDXuOd66KycLJJDMheV"
+      "duration_ms": 194869,
+      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
+      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
     },
     {
       "added_at": "2023-03-14 15:01:00",

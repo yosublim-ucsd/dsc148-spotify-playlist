@@ -4,7 +4,7 @@
 
 > PANIA is our new RADAR artist to watch!
 
-240 songs - 12 hr 28 min
+241 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 | 2023-03-02 |  |
 | [High Again](https://open.spotify.com/track/4XcWqGBXUjLGTqPqIFqk3M) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [High Again](https://open.spotify.com/album/2pXLICjn51Qj1YwfwdfT9N) | 3:42 | 2021-10-15 | 2022-08-16 |
 | [Hollywood](https://open.spotify.com/track/5cpkSEJ1TH2TeRp2eNMrlL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Diamond](https://open.spotify.com/album/4kDP3fZt29eW9rsATj7llc) | 3:34 | 2022-08-15 | 2023-03-02 |
-| [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-22 |  |
+| [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-22 | 2023-07-29 |
+| [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 | 2023-06-27 |  |
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-03-02 |  |
 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [How We Livin'](https://open.spotify.com/track/35KDwZwYeUx1BUgFINesrz) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/1bDPrkh5p65SjANp8sqK6Q) | 3:38 | 2021-10-15 | 2022-08-16 |

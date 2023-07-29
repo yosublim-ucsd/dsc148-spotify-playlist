@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 566763,
+  "num_followers": 566920,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTI0MmU4NDFjYmEzOGZlOWI4YTZkMDlhMjMxZWZhM2VlNTA2Nzg2",
+  "snapshot_id": "MCwyMTUyZDM5MTZlYzRkZjM1NDFjMzIzMDQ3OWMyNWJjNGU3Mzc2MmQ4",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -499,8 +499,8 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+        "name": "Apricosa",
+        "url": "https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
+      "duration_ms": 158400,
+      "name": "Apricosa",
+      "url": "https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "life goes by",
+        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "life goes by",
+      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -583,24 +599,8 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "life goes by",
-        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "life goes by",
-      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Apricosa",
-        "url": "https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH"
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Apricosa",
-      "url": "https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr"
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1511,22 +1531,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        }
-      ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Shot Shot Cherry",
         "url": "https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg"
       },
@@ -1543,18 +1547,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
       "artists": [
         {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
         }
       ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+      "duration_ms": 159454,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1575,6 +1579,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Road",
         "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
       },
@@ -1591,22 +1611,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1619,6 +1623,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1671,22 +1691,6 @@
       "duration_ms": 193013,
       "name": "Slow (feat. Henjila)",
       "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     }
   ],
   "unique_name": "Feelgood Indie",

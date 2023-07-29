@@ -1,13 +1,77 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 305891,
+  "num_followers": 306001,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGI4ZjI0MTlkYzc5MTY4ZmE1NjQzYTJmODEzMDg3YTMxOGZlMGEw",
+  "snapshot_id": "MCxjZmE5MmJjYTg4YjViYmY4NjExZDJmNDRmMDI0YjllYTZiOTI0OTE5",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Higher (Escalators)",
+        "url": "https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Higher (Escalators)",
+      "url": "https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
+        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
+      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
@@ -275,22 +339,6 @@
       "duration_ms": 207194,
       "name": "Glad I'm Not Alone",
       "url": "https://open.spotify.com/track/4ziqjT3E0fbwEnfkAJ7sbf"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Nickel & Dime",
-        "url": "https://open.spotify.com/album/7nX4K9FAGdDGu662bdl8oI"
-      },
-      "artists": [
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Nickel & Dime",
-      "url": "https://open.spotify.com/track/60Cert2E9OwA9rnl67Y2vj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -655,42 +703,6 @@
       "duration_ms": 183243,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/6nidjaDjgfQSN42dWkAYOM"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Brutal Funk - Xtended Mix",
-        "url": "https://open.spotify.com/album/7tD0G6dKYhC5DuCQWRBCx3"
-      },
-      "artists": [
-        {
-          "name": "Smudge All Stars",
-          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
-        },
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        },
-        {
-          "name": "Niara Scarlett",
-          "url": "https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3"
-        },
-        {
-          "name": "Richie Stevens",
-          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
-        },
-        {
-          "name": "Mary Pearce",
-          "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
-        },
-        {
-          "name": "DJ D-Zire",
-          "url": "https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "Brutal Funk - Xtended Mix",
-      "url": "https://open.spotify.com/track/2O7i0UkosdvDe8QJngHShB"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1131,22 +1143,6 @@
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Unshakable",
-        "url": "https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK"
-      },
-      "artists": [
-        {
-          "name": "Tom McGuire & the Brassholes",
-          "url": "https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp"
-        }
-      ],
-      "duration_ms": 331093,
-      "name": "Unshakable",
-      "url": "https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu"
     },
     {
       "added_at": "2023-03-10 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 199078,
+  "num_followers": 199152,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjg2NDRlYTZhZTM0YjRhYjgzZTI1NDcxMjc5ZWFhNmFlNzQ5Yjky",
+  "snapshot_id": "MCw2ZjJmNjRlYzUxZDM4MGY1Nzc0NWRhNDkzM2NmODkwMjhmYWExZTQw",
   "tracks": [
     {
       "added_at": "2023-02-17 13:36:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Arabic Trap, Pt. 2",
-        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
-      },
-      "artists": [
-        {
-          "name": "VFM Style",
-          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Maqlooba",
-      "url": "https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Raqsni",
         "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154666,
       "name": "Raqsni",
       "url": "https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Arabic Trap, Pt. 2",
+        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
+      },
+      "artists": [
+        {
+          "name": "VFM Style",
+          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Maqlooba",
+      "url": "https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Nouba",
+        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
+      },
+      "artists": [
+        {
+          "name": "RAMSSEY",
+          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
+        }
+      ],
+      "duration_ms": 178187,
+      "name": "Nouba",
+      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Steady Stackin 4",
         "url": "https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Nouba",
-        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
-      },
-      "artists": [
-        {
-          "name": "RAMSSEY",
-          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
-        }
-      ],
-      "duration_ms": 178187,
-      "name": "Nouba",
-      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "In Peace",
         "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
       },
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
+        "name": "Token Baashi",
+        "url": "https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde"
       },
       "artists": [
         {
-          "name": "Gillionaire",
-          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "TH3 DARP",
+          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
         }
       ],
-      "duration_ms": 139043,
-      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
+      "duration_ms": 221192,
+      "name": "Token Baashi",
+      "url": "https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -683,6 +687,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
+      },
+      "artists": [
+        {
+          "name": "Gillionaire",
+          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+        }
+      ],
+      "duration_ms": 139043,
+      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Token Baashi",
-        "url": "https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde"
-      },
-      "artists": [
-        {
-          "name": "CryJaxx",
-          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
-        },
-        {
-          "name": "TH3 DARP",
-          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
-        }
-      ],
-      "duration_ms": 221192,
-      "name": "Token Baashi",
-      "url": "https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Ankh",
         "url": "https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 200056,
       "name": "Ankh",
       "url": "https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Outlaws",
-        "url": "https://open.spotify.com/album/3VqqDh5hse1mGK6Vi7HMxV"
-      },
-      "artists": [
-        {
-          "name": "Adro",
-          "url": "https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN"
-        },
-        {
-          "name": "SVRRIC",
-          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
-        }
-      ],
-      "duration_ms": 180004,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -815,18 +795,38 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Mazikah",
-        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
+        "name": "Outlaws",
+        "url": "https://open.spotify.com/album/3VqqDh5hse1mGK6Vi7HMxV"
       },
       "artists": [
         {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+          "name": "Adro",
+          "url": "https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN"
+        },
+        {
+          "name": "SVRRIC",
+          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
         }
       ],
-      "duration_ms": 213956,
-      "name": "Mazikah",
-      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
+      "duration_ms": 180004,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Desert Lord",
+        "url": "https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK"
+      },
+      "artists": [
+        {
+          "name": "AxLi",
+          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Desert Lord",
+      "url": "https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Desert Lord",
-        "url": "https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK"
+        "name": "Mazikah",
+        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
       },
       "artists": [
         {
-          "name": "AxLi",
-          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
         }
       ],
-      "duration_ms": 125400,
-      "name": "Desert Lord",
-      "url": "https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L"
+      "duration_ms": 213956,
+      "name": "Mazikah",
+      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -927,34 +927,34 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Arabic Trap, Pt. 3",
-        "url": "https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v"
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig"
       },
       "artists": [
         {
-          "name": "FG",
-          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
         }
       ],
-      "duration_ms": 185225,
-      "name": "\u0130z",
-      "url": "https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9"
+      "duration_ms": 176491,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
     },
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Sargon",
-        "url": "https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl"
+        "name": "ALMAZAT",
+        "url": "https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ"
       },
       "artists": [
         {
-          "name": "AxLi",
-          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Sargon",
-      "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"
+      "duration_ms": 188722,
+      "name": "ALMAZAT",
+      "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
     }
   ],
   "unique_name": "Arabic Trap",

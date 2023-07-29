@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 41723,
+  "num_followers": 41833,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjgxZDYwNTM1Nzc2NWE2OWIyNTFhNDc2OWRlNWJjNDE5YWZlOGE1",
+  "snapshot_id": "MCw4MWRhYTlkNGZhYjQwMjIzOTBhOTdlZTg0NDU2OGM5NDQxZWZmZmRm",
   "tracks": [
     {
       "added_at": "2023-07-05 22:15:45",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193666,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Summer School Mixtape, Vol. 1",
         "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Desde El Cant\u00f3n (en Vivo)",
-        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 173663,
-      "name": "Me Estoy Enamorando - en Vivo",
-      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -835,22 +851,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "El Problema",
-        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "15 Besos",
-      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Sin Sentimientos",
         "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 178431,
       "name": "Quiero Darte",
       "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "15 Besos",
+      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Lo Raro de Mi Libreta",
-        "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 177399,
-      "name": "Lo Tienes Todo",
-      "url": "https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "MMXX's",
         "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 179583,
       "name": "MMXX's",
       "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Lo Raro de Mi Libreta",
+        "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 177399,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI"
     },
     {
       "added_at": "2023-07-05 22:15:45",

@@ -151,6 +151,32 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0zAQv1hc37NQG9ElPjP7Ki"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146049,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZUbGRsTPyvdlJt91T4akw"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/6MbknM6zcZbV4K5by86DQu"
       },
@@ -2863,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "album": {
         "name": "I Can't See",
         "url": "https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA"
       },
@@ -4042,7 +4086,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210988,
       "name": "Love's Not Over - Dawn Edit",
       "url": "https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx"
@@ -5774,7 +5818,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162500,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/6UoAg3Gv2I8PmNBThwZzek"
@@ -6232,6 +6276,28 @@
       "duration_ms": 168625,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0IDGbb3NY9pJoMzfkI4Jt4"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/7CHlEFrIfo1OCq7iIMQnUQ"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6V1vqiEYqCM9202G61gzkQ"
     },
     {
       "album": {

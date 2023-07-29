@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 334321,
       "name": "After The Flash",
       "url": "https://open.spotify.com/track/4eJ8NYk3p9lx5I0q9xt3rI"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221360,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 77113,
       "name": "bite>chew",
       "url": "https://open.spotify.com/track/6TrG5IUHKV3lTZ6RNViIzs"
@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Play What's Not There",
+        "url": "https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq"
+    },
+    {
+      "album": {
         "name": "coastline",
         "url": "https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy"
       },
@@ -3914,6 +3932,24 @@
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9"
     },
     {
       "album": {
@@ -6006,7 +6042,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210840,
       "name": "Fear Evil Like Fire",
       "url": "https://open.spotify.com/track/1ddJPebD74sac45SLvdmWp"
@@ -9375,6 +9411,24 @@
     },
     {
       "album": {
+        "name": "iwantthis2last!",
+        "url": "https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194656,
+      "name": "iwantthis2last!",
+      "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+    },
+    {
+      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/4vXRBaqweSWbVF5v8nMfcv"
       },
@@ -11295,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "My Dog Died",
+        "url": "https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225708,
+      "name": "My Dog Died",
+      "url": "https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB"
+    },
+    {
+      "album": {
         "name": "my favorite things",
         "url": "https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5"
       },
@@ -12346,6 +12418,24 @@
       "duration_ms": 372773,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
+    },
+    {
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV"
+      },
+      "artists": [
+        {
+          "name": "Route 500",
+          "url": "https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196269,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
     },
     {
       "album": {
@@ -17890,7 +17980,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 254573,
       "name": "Where Did Love Go",
       "url": "https://open.spotify.com/track/4z39J7DIRryqxOV8O4gzzB"

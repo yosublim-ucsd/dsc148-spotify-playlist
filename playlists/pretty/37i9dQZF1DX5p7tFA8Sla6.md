@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,160 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,191 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 69 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
 | 70 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
 | 71 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
-| 72 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
-| 73 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
-| 74 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 |
-| 75 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
+| 72 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
+| 73 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
+| 74 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
+| 75 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 |
 | 76 | [Take What You Need](https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:11 |
 | 77 | [Take It Back \(feat\. Doc Brown\)](https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Doc Brown](https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 3:31 |
 | 78 | [Shake Your Money](https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [Shake Your Money](https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r) | 3:20 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 80 | [Superstatic](https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Life In The City](https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio) | 4:05 |
 | 81 | [Night Time](https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d) | [Mr President](https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR), [Sabba MG](https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl) | [Going to a Go Go](https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9) | 6:42 |
 | 82 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
-| 83 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
-| 84 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
+| 83 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
+| 84 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
 | 85 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
 | 86 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 |
 | 87 | [Losin' Streak \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Vs.](https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy`
+Snapshot ID: `MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3`

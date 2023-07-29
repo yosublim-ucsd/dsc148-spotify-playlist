@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-261 songs - 15 hr 56 min
+262 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2022-02-26 |
 | [Evil](https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Evil](https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb) | 2:43 | 2023-03-03 | 2023-03-11 |
 | [Exército de Zumbis](https://open.spotify.com/track/4DMbgo8xkyBuSWUHUxv7O6) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Looking For An Answer](https://open.spotify.com/album/1puSALARUdrEKSZrCp7Jw5) | 2:52 | 2022-03-11 | 2022-04-23 |
-| [Eyes Wide Shut \(feat\. Travis Barker\) \- Sickick Remix](https://open.spotify.com/track/05aOehHcLLV6iFKhE0KQsf) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Eyes Wide Shut \(feat\. Travis Barker\) \[Sickick Remix\]](https://open.spotify.com/album/4Bt8V9IUywrDQCqcJWO3Ko) | 2:37 | 2023-07-14 |  |
+| [Eyes Wide Shut \(feat\. Travis Barker\) \- Sickick Remix](https://open.spotify.com/track/05aOehHcLLV6iFKhE0KQsf) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Eyes Wide Shut \(feat\. Travis Barker\) \[Sickick Remix\]](https://open.spotify.com/album/4Bt8V9IUywrDQCqcJWO3Ko) | 2:37 | 2023-07-14 | 2023-07-29 |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-04-01 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-01 | 2023-05-27 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2022-01-14 |  |
@@ -201,6 +201,7 @@
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-02-19 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-01-14 | 2023-07-15 |
 | [STAY](https://open.spotify.com/track/6zYsGB0XlAAsHIm7uSgt0J) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [STAY](https://open.spotify.com/album/76OC7HQKwiJQgVDSP8AgOG) | 2:27 | 2022-01-14 | 2022-02-05 |
+| [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-28 |  |
 | [Strange Days](https://open.spotify.com/track/2zoO9kUqxejDqQGcdP38eP) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Strange Days](https://open.spotify.com/album/27fKpwziVUn7s7kOM3xp1h) | 3:22 | 2022-02-18 | 2022-03-05 |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2022-01-14 | 2022-09-03 |
 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 | 2022-09-30 |  |

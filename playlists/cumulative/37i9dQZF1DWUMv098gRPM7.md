@@ -2,7 +2,7 @@
 
 ### [R&B Rewind](https://open.spotify.com/playlist/37i9dQZF1DWUMv098gRPM7)
 
-> A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Aqyila
+> A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Idman
 
 83 songs - 4 hr 40 min
 

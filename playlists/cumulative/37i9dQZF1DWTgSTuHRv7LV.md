@@ -2,9 +2,9 @@
 
 ### [Mucho Rap](https://open.spotify.com/playlist/37i9dQZF1DWTgSTuHRv7LV)
 
-> Lo mejor del Hip\-Hop y Rap en español\. Cover: Gera MX
+> Lo mejor del Hip\-Hop y Rap en español\. Cover: Residente
 
-558 songs - 1 day 7 hr 51 min
+560 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Freestyle 15](https://open.spotify.com/track/0hR5ZTx3IexoOJLBcsh1x3) | [Fariana](https://open.spotify.com/artist/65z77qETTTAyCrniVuHxu1), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Freestyle 15](https://open.spotify.com/album/3X9CTnU2UNfL9kfIP2MvUQ) | 1:55 | 2022-01-06 | 2022-12-10 |
 | [Fresh](https://open.spotify.com/track/1LSXvcrYKwFPnC7wK8onj8) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Las Que No Estaban](https://open.spotify.com/album/4LaTa9lDGLKUPqIlpbEzDg) | 3:34 | 2022-01-06 | 2022-01-20 |
 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 | 2022-01-19 | 2022-05-14 |
-| [FUCK EL POLICE](https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-10-07 |  |
+| [FUCK EL POLICE](https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-10-07 | 2023-07-29 |
+| [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 | 2023-07-28 |  |
 | [Fuma Fuma](https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/30trwGtGi8FYIzElXyqPdR) | 3:10 | 2022-01-06 | 2022-10-16 |
 | [Fuma Fuma](https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2) | 3:10 | 2022-10-07 | 2023-05-27 |
 | [Fumala](https://open.spotify.com/track/3hveYmQDkG4C531ghqPRhd) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Crónicas de un Marihuano, Vol\. 1](https://open.spotify.com/album/2QEejqH1fOG5fr5Jg0XWoM) | 2:39 | 2022-01-19 | 2022-10-08 |
@@ -343,7 +344,7 @@
 | [Nexus](https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Nexus](https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq) | 2:25 | 2022-02-14 | 2022-10-08 |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-05-26 |  |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2023-05-26 |  |
-| [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 | 2022-01-19 |  |
+| [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 | 2022-01-19 | 2023-07-29 |
 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 | 2022-01-19 | 2023-05-27 |
 | [NO LO SÉ](https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NO LO SÉ](https://open.spotify.com/album/1Br5WXUWmSDjUL6eoMnMXc) | 3:59 | 2023-01-25 | 2023-05-27 |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2022-01-06 | 2023-03-18 |
@@ -413,6 +414,7 @@
 | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2022-12-30 | 2023-05-27 |
 | [Quedate Sola](https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Quedate Sola](https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl) | 4:30 | 2022-01-19 | 2022-05-14 |
 | [Quede Claro](https://open.spotify.com/track/459BwlbMwmHKyuLp4ajisX) | [Scrizzy Santana](https://open.spotify.com/artist/3z8J9qXn5QVHY5Y6PG4ooZ) | [Quede Claro](https://open.spotify.com/album/5wNz7kq0PxEFJ0KfFpkqRM) | 2:23 | 2022-07-15 | 2022-10-08 |
+| [Quiero Ser Baladista](https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Quiero Ser Baladista](https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL) | 5:42 | 2023-07-28 |  |
 | [Quédate Un Ratito Más](https://open.spotify.com/track/4MbjSazMBRQlnurwr2qLuH) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:37 | 2022-01-06 | 2022-10-08 |
 | [Rap Real](https://open.spotify.com/track/0KQ8p68z7SxYLZVkqxGST0) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Rap Real](https://open.spotify.com/album/1JJUAAKZTXMCiL4xVExIr1) | 4:14 | 2023-05-26 |  |
 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 | 2022-01-19 | 2022-10-08 |

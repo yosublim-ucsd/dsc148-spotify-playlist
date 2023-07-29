@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Chance Peña
+> Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-374 songs - 23 hr 19 min
+376 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [bike again](https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [bike again](https://open.spotify.com/album/0BPzUTfIjnEmv7nIg1RRxl) | 3:04 | 2022-11-11 | 2023-04-23 |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-04-04 |  |
 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 | 2022-01-21 |  |
+| [bloomington](https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [what we leave behind](https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM) | 4:19 | 2023-07-28 |  |
 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 | 2022-12-16 |  |
 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 | 2023-05-12 |  |
 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 | 2022-04-29 | 2022-12-08 |
@@ -74,7 +75,7 @@
 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-05-26 |  |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 | 2023-04-29 |
-| [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 |  |
+| [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 | 2023-07-29 |
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2022-04-13 | 2023-03-11 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 |  |
@@ -152,6 +153,7 @@
 | [Holding You There](https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU) | [Georgia Duncan](https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG) | [The Light](https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU) | 2:47 | 2022-04-13 | 2022-07-22 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-05 |  |
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 | 2023-06-26 |
+| [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 | 2023-07-28 |  |
 | [Hoops](https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Less Ready to Go](https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa) | 4:27 | 2022-01-21 | 2023-06-03 |
 | [Hotline](https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Hotline](https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5) | 2:50 | 2022-01-21 | 2023-04-06 |
 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 | 2022-04-29 | 2023-05-28 |
@@ -379,7 +381,7 @@
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 | 2023-01-02 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-10 |  |
-| [Your Garden](https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Your Garden](https://open.spotify.com/album/7xyXzKF6OBhyZ69XiRztYi) | 3:27 | 2023-06-16 |  |
+| [Your Garden](https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Your Garden](https://open.spotify.com/album/7xyXzKF6OBhyZ69XiRztYi) | 3:27 | 2023-06-16 | 2023-07-29 |
 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 | 2022-04-13 | 2023-05-28 |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2022-01-21 |  |
 

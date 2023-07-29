@@ -2501,6 +2501,32 @@
     },
     {
       "album": {
+        "name": "Claudio Monteverdi: Vespro della beata Vergine, SV 206: Hymnus \"Ave maris stella\"",
+        "url": "https://open.spotify.com/album/2vDo3uvmYcIqRd4sNC2mN1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Monteverdi",
+          "url": "https://open.spotify.com/artist/5iAhVgz6P8Nylxijb0C65v"
+        },
+        {
+          "name": "Raphael Pichon",
+          "url": "https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr"
+        },
+        {
+          "name": "Ensemble Pygmalion",
+          "url": "https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568320,
+      "name": "Vespro della Beata Vergine, SV 206: Hymnus \"Ave maris stella\"",
+      "url": "https://open.spotify.com/track/2jJQ1uwPEcHxtKnDnmQ9Zm"
+    },
+    {
+      "album": {
         "name": "Eric Whitacre: The Complete A Cappella Works, 1991-2001",
         "url": "https://open.spotify.com/album/2IzQJaEAATl6nJFeNUa51C"
       },

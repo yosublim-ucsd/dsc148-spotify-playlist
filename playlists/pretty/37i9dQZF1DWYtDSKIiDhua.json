@@ -1,12 +1,12 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: CLAUDIA",
-  "num_followers": 105323,
+  "num_followers": 105455,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzY2NjBjNjFjYTBlNDRhNDQxNDg1MzE3MTZkOWZjODlmNGJmYWYy",
+  "snapshot_id": "MCw3OWFkZDI4ZDZlM2JmYzQ3Y2MyZWE5NjYzNGRhNTJlYzU2ZjA0ZTMw",
   "tracks": [
     {
       "added_at": "2023-07-27 16:00:00",
@@ -127,6 +127,22 @@
       "duration_ms": 140506,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "Say It Straight",
+        "url": "https://open.spotify.com/album/0azvZuQc8BTk8mh23Fo3mQ"
+      },
+      "artists": [
+        {
+          "name": "risy",
+          "url": "https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Say It Straight",
+      "url": "https://open.spotify.com/track/2v2GQaYfVnu6BmAjP5Vu3D"
     },
     {
       "added_at": "2023-07-27 16:00:00",

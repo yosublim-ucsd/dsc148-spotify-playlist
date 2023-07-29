@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 653691,
+  "num_followers": 654050,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFmNTE2YzNiMmVmYzA4NjA5YWRmOTM3ZWY1OGRjNTJhYjBjNGUz",
+  "snapshot_id": "MCxkOWRjOWQ2YTQxZWY3M2Q1MWIzMTJkZGNhOWMzMjI0MTdmY2E1NTVl",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
     },
     {
-      "added_at": "2022-09-28 22:53:03",
-      "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
-    },
-    {
       "added_at": "2022-04-29 00:00:00",
       "album": {
         "name": "Bar Mediterraneo",
@@ -91,6 +75,22 @@
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "added_at": "2022-09-28 22:53:03",
+      "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -325,20 +325,20 @@
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
     },
     {
-      "added_at": "2023-05-24 02:18:54",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Spiky Boi",
-        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+        "name": "Mr Bongo Record Club, Vol. 1",
+        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 119510,
-      "name": "Spiky Boi",
-      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
+      "duration_ms": 127773,
+      "name": "Esperar pra Ver",
+      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
     },
     {
       "added_at": "2021-10-28 03:11:06",
@@ -373,6 +373,22 @@
       "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
+      "added_at": "2023-05-24 02:18:54",
+      "album": {
+        "name": "Spiky Boi",
+        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 119510,
+      "name": "Spiky Boi",
+      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "S\u00e9rie Samba Soul",
@@ -387,22 +403,6 @@
       "duration_ms": 152733,
       "name": "Hei! Voc\u00ea",
       "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Mr Bongo Record Club, Vol. 1",
-        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Esperar pra Ver",
-      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
     },
     {
-      "added_at": "2023-05-24 02:05:49",
-      "album": {
-        "name": "Samba em Kigali",
-        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
-      },
-      "artists": [
-        {
-          "name": "Tapioca",
-          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
-        }
-      ],
-      "duration_ms": 226416,
-      "name": "Terra Preta",
-      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
-    },
-    {
       "added_at": "2022-04-17 18:22:38",
       "album": {
         "name": "Gnawa EP",
@@ -1011,6 +995,22 @@
       "duration_ms": 219906,
       "name": "Gnawa (feat. The Atlas Collective)",
       "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
+    },
+    {
+      "added_at": "2023-05-24 02:05:49",
+      "album": {
+        "name": "Samba em Kigali",
+        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
+      },
+      "artists": [
+        {
+          "name": "Tapioca",
+          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
+        }
+      ],
+      "duration_ms": 226416,
+      "name": "Terra Preta",
+      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Wahala Wahala",
         "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
     },
     {
-      "added_at": "2023-05-24 02:05:49",
-      "album": {
-        "name": "Yarait (Habibi Funk 022)",
-        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Ben Ali",
-          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Yarait - Habibi Funk 022",
-      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
-    },
-    {
       "added_at": "2022-09-02 06:01:15",
       "album": {
         "name": "La Matanza",
@@ -1349,6 +1333,26 @@
       "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
+      "added_at": "2022-03-29 03:12:27",
+      "album": {
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Pat Kalla",
+          "url": "https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj"
+        }
+      ],
+      "duration_ms": 384383,
+      "name": "On te l'avait dit",
+      "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
@@ -1369,24 +1373,20 @@
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
     },
     {
-      "added_at": "2022-03-29 03:12:27",
+      "added_at": "2023-05-24 02:05:49",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Yarait (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Pat Kalla",
-          "url": "https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj"
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
         }
       ],
-      "duration_ms": 384383,
-      "name": "On te l'avait dit",
-      "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+      "duration_ms": 237500,
+      "name": "Yarait - Habibi Funk 022",
+      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Voiciii",
+        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "duration_ms": 288569,
+      "name": "Ben Bene La",
+      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "The Rabbit That Hunts Tigers",
         "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
@@ -1557,42 +1577,6 @@
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Voiciii",
-        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
-      },
-      "artists": [
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        }
-      ],
-      "duration_ms": 288569,
-      "name": "Ben Bene La",
-      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Sun Khosi",
-        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 236886,
-      "name": "Sun Khosi",
-      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
-    },
-    {
       "added_at": "2023-03-31 18:13:52",
       "album": {
         "name": "Dubby Sunday",
@@ -1611,6 +1595,22 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Sun Khosi",
+        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 236886,
+      "name": "Sun Khosi",
+      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
     },
     {
       "added_at": "2023-02-23 03:12:43",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1705,48 +1725,20 @@
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
     },
     {
-      "added_at": "2023-05-24 02:18:54",
-      "album": {
-        "name": "El Tiempo (Captain Planet Remix)",
-        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 223888,
-      "name": "El Tiempo (Captain Planet Remix)",
-      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
       },
       "artists": [
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+      "duration_ms": 284070,
+      "name": "Musa Paradisa",
+      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1769,20 +1761,28 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2023-05-24 02:18:54",
       "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
+        "name": "El Tiempo (Captain Planet Remix)",
+        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
       },
       "artists": [
         {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 284070,
-      "name": "Musa Paradisa",
-      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
+      "duration_ms": 223888,
+      "name": "El Tiempo (Captain Planet Remix)",
+      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
     }
   ],
   "unique_name": "Global Groove",

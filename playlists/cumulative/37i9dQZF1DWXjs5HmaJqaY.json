@@ -1009,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "Home (Nusha Remix)",
+        "url": "https://open.spotify.com/album/1iaN5A5BuRQlMLUq2Dpvlk"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/7h6r54f4n9PtgfWIDqhsmM"
+        },
+        {
+          "name": "The Space Brothers",
+          "url": "https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5"
+        },
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230222,
+      "name": "Home - Nusha Remix",
+      "url": "https://open.spotify.com/track/78EH7GvqU5AvrPNv4NmzBo"
+    },
+    {
+      "album": {
         "name": "Hot Dance",
         "url": "https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts"
       },
@@ -1448,7 +1474,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 220000,
       "name": "Legend",
       "url": "https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P"
@@ -1484,7 +1510,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 470400,
       "name": "Level One",
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
@@ -1542,6 +1568,24 @@
       "duration_ms": 446400,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT"
+    },
+    {
+      "album": {
+        "name": "Lord George",
+        "url": "https://open.spotify.com/album/516Cx3Hp8V0bVKmlGVfjI8"
+      },
+      "artists": [
+        {
+          "name": "Axel N.",
+          "url": "https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398740,
+      "name": "Lord George",
+      "url": "https://open.spotify.com/track/7sb6D8som4z3QMmrtA6jj4"
     },
     {
       "album": {
@@ -2332,7 +2376,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 491953,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C"
@@ -2408,7 +2452,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185430,
       "name": "Sleepless Mind - Edit",
       "url": "https://open.spotify.com/track/3z737qBlgokgOqHUG4KSDW"
@@ -2705,6 +2749,46 @@
     },
     {
       "album": {
+        "name": "Time Of My Life (Edit) + Remixes",
+        "url": "https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Cherry (UA)",
+          "url": "https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378240,
+      "name": "Time Of My Life - Cherry (UA) Remix",
+      "url": "https://open.spotify.com/track/6nCa2xyV6szWUq2mXi7gV2"
+    },
+    {
+      "album": {
+        "name": "Time Of My Life (Edit) + Remixes",
+        "url": "https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Time Of My Life - Edit",
+      "url": "https://open.spotify.com/track/1fuOLh6glZaxNvDxU6vXp4"
+    },
+    {
+      "album": {
         "name": "Katermukke Playground XI",
         "url": "https://open.spotify.com/album/3AEn2yhRRCVW3CqzBrke8k"
       },
@@ -2894,7 +2978,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 462148,
       "name": "What This",
       "url": "https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8"

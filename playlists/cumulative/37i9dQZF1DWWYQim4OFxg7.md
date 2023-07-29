@@ -4,7 +4,7 @@
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-36 songs - 1 hr 21 min
+37 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [The Appliance of Science](https://open.spotify.com/track/72sa7baeB5edYoxLotlFo2) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Odd Socks Calling!](https://open.spotify.com/album/3W4Njm0c2juSr1A0rOcR6Y) | 3:01 | 2022-04-08 | 2022-07-29 |
 | [The Ballad of Davy Crockett \(in Outer Space\)](https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:17 | 2022-04-08 |  |
 | [The Brain Song](https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:31 | 2022-04-08 |  |
-| [The Elements \(Music By Sir Arthur Sullivan\)](https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [More Of Tom Lehrer](https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi) | 1:26 | 2022-04-08 |  |
+| [The Elements](https://open.spotify.com/track/1O7jntBJTdX7HPoZOwjmaS) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 1:23 | 2022-04-08 |  |
+| [The Elements \(Music By Sir Arthur Sullivan\)](https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [More Of Tom Lehrer](https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi) | 1:26 | 2022-04-08 | 2023-07-29 |
 | [The Planets](https://open.spotify.com/track/49fHq1JGgELi2dAWZFzFhz) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Songs for Chickens](https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W) | 3:00 | 2022-04-08 |  |
 | [The Save The Planet Song](https://open.spotify.com/track/4TO4twNfRwHYylLt3AgJWl) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:07 | 2022-04-08 |  |
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2022-04-08 |  |

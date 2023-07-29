@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-423 songs - 21 hr 1 min
+424 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-09-30 |  |
 | [Call My Name](https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Call My Name](https://open.spotify.com/album/5Cl4bEvaikvxdPzQJSZrwG) | 3:11 | 2022-04-22 | 2022-07-29 |
 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2022-01-07 | 2022-03-12 |
+| [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2023-07-28 |  |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-22 | 2022-10-14 |
 | [Can't Come To The Phone](https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [Can't Come To The Phone](https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H) | 2:55 | 2022-01-07 | 2022-06-11 |
 | [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-22 | 2022-06-07 |
@@ -172,7 +173,7 @@
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-01-07 | 2022-04-16 |
 | [Higher Love](https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Higher Love](https://open.spotify.com/album/4yKC4uD981O8oCPzowwOjl) | 3:58 | 2022-01-07 | 2022-03-12 |
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 |  |
-| [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-07-14 |  |
+| [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-07-14 | 2023-07-29 |
 | [Honey](https://open.spotify.com/track/6xMb0wjwc0jaW4jUEBFCJp) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Honey](https://open.spotify.com/album/4GY8ZAs5XRfTkjvcGTkBBH) | 3:39 | 2022-01-07 | 2022-03-11 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Horizon](https://open.spotify.com/track/5TYxn30EokgCbHXdr0fp8M) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Horizon](https://open.spotify.com/album/6YXuJbuPH2EODwWt5LSWQa) | 3:00 | 2022-01-07 | 2022-03-12 |

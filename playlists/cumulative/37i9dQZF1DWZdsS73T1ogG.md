@@ -2,9 +2,9 @@
 
 ### [el nuevo urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Young Miko
+> Descubre lo más nuevo del movimiento\. Cover: Alex Rose
 
-679 songs - 1 day 12 hr 34 min
+680 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A MI LADO](https://open.spotify.com/track/4Oou88tB7V7uo8n6tdYm5C) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 3:12 | 2022-03-21 | 2022-04-16 |
 | [Aborrecio](https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Aborrecio](https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg) | 4:28 | 2023-02-17 | 2023-04-09 |
 | [ACERCATE](https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz) | [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [ACERCATE](https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm) | 2:56 | 2022-11-25 | 2023-02-16 |
-| [ACHO MAMI](https://open.spotify.com/track/0RzYHfzAH2dNLvDpVa5HGD) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRIP 21](https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS) | 3:42 | 2023-07-21 |  |
+| [ACHO MAMI](https://open.spotify.com/track/0RzYHfzAH2dNLvDpVa5HGD) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRIP 21](https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS) | 3:42 | 2023-07-21 | 2023-07-29 |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2022-10-14 | 2023-01-21 |
 | [Adelantah](https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Adelantah](https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P) | 3:24 | 2022-11-25 | 2023-02-05 |
 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 | 2022-12-02 | 2023-02-18 |
@@ -320,6 +320,7 @@
 | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/track/1Pf1qN0amPFq5CrZlB60bl) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/album/48sEphlTqkEdGgqwQfJu2B) | 4:36 | 2022-03-21 | 2022-06-04 |
 | [La Parranda \- RMX](https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Parranda \(RMX\)](https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P) | 3:00 | 2023-07-07 | 2023-07-22 |
 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 | 2022-10-07 | 2022-12-17 |
+| [La Segura](https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Oversize](https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu) | 3:29 | 2023-07-28 |  |
 | [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 |  |
 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 | 2022-10-07 | 2023-01-10 |
 | [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2022-10-07 | 2023-01-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
+  "description": "The hardest songs, loud. Very loud. Cover: Sevendust",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 249650,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4ka9ZXISzjnajUbwMvzJVw"
@@ -1482,6 +1482,36 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
+    },
+    {
+      "album": {
+        "name": "Rumble of Thunder (Deluxe)",
+        "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
     },
     {
       "album": {
@@ -4639,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "Truth Killer",
+        "url": "https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
       },
@@ -4650,7 +4698,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
@@ -5786,7 +5834,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172426,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7lJ0CEmlSdD2TUt0PVshMb"
@@ -6638,7 +6686,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174868,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/1PEswZbSgJOEhMGY4FFLPE"
@@ -7170,7 +7218,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
@@ -7869,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
+    },
+    {
+      "album": {
         "name": "Last Surrender (Remix)",
         "url": "https://open.spotify.com/album/1Y04xAVlXEoNSlWdrdz7Fz"
       },
@@ -8522,6 +8588,24 @@
     {
       "album": {
         "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279737,
+      "name": "Love From The Other Side",
+      "url": "https://open.spotify.com/track/2W0ML0bVXNew4Jmc40Rpzj"
+    },
+    {
+      "album": {
+        "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
       },
       "artists": [
@@ -8532,7 +8616,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 279737,
       "name": "Love From The Other Side",
       "url": "https://open.spotify.com/track/5zqdoQXjMmqb1GyzTKa4E9"
@@ -9062,7 +9146,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139428,
       "name": "Missile",
       "url": "https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu"
@@ -9272,7 +9356,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 273173,
       "name": "Mother Nature (feat. LP)",
       "url": "https://open.spotify.com/track/04WnFdVesT0VLu1Fc57VoI"
@@ -10776,7 +10860,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 264546,
       "name": "Pity Sex",
       "url": "https://open.spotify.com/track/5IbSfGOpPGcpeKn6lPaMFr"
@@ -11072,7 +11156,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
@@ -11682,7 +11766,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr"
@@ -12620,7 +12704,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183197,
       "name": "Someone You Don't Know",
       "url": "https://open.spotify.com/track/4UOd2lvPt4bUfpIwht4Guk"
@@ -14301,6 +14385,24 @@
     },
     {
       "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+    },
+    {
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -14548,7 +14650,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
@@ -15163,6 +15265,28 @@
     },
     {
       "album": {
+        "name": "The Call of the Void",
+        "url": "https://open.spotify.com/album/6v472xKTGoBedRClrXfY45"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221502,
+      "name": "Victorious (feat. Dorothy)",
+      "url": "https://open.spotify.com/track/2BZsYwFz6ohrbeURxUzTv9"
+    },
+    {
+      "album": {
         "name": "Victory (Feat. Matt B. of From Ashes To New)",
         "url": "https://open.spotify.com/album/1fRGTgUynPbZkBzB969cyb"
       },
@@ -15654,7 +15778,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 222640,
       "name": "We're Not OK",
       "url": "https://open.spotify.com/track/3BgIHl1amTesJlLGytQ4Gm"
@@ -16128,7 +16252,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166222,
       "name": "Win Win",
       "url": "https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q"

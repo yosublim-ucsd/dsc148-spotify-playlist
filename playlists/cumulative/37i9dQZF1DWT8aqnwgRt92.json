@@ -6495,6 +6495,32 @@
     },
     {
       "album": {
+        "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e (\u30e2\u30ea\u30fcVer.)",
+        "url": "https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b3(CV:\u9234\u6728\u307f\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s"
+        },
+        {
+          "name": "\u30ed\u30a4(CV:\u5bfa\u5d0e\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi"
+        },
+        {
+          "name": "\u30e2\u30ea\u2015(CV:\u771f\u5802\u572d)",
+          "url": "https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e - \u30e2\u30ea\u30fcVer.",
+      "url": "https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9"
+    },
+    {
+      "album": {
         "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e (\u30e9\u30f3\u30c9\u30a6Ver.)",
         "url": "https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV"
       },
@@ -6514,7 +6540,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 89000,
       "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e - \u30e9\u30f3\u30c9\u30a6Ver.",
       "url": "https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con ICON y Maxiolly.",
+  "description": "Perreando toda la noche con Darell, Nicky Jam, Wisin y Luar La L.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+    },
+    {
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -1186,7 +1208,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213658,
       "name": "Bellaker\u00eda",
       "url": "https://open.spotify.com/track/5W8Bl46FPBi9r1fKf3iArD"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146980,
       "name": "BIKINI",
       "url": "https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM"
@@ -1722,7 +1744,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202888,
       "name": "Carita De Beb\u00e9",
       "url": "https://open.spotify.com/track/5cqFqVsaVdMhLQUb66UQe4"
@@ -1990,6 +2012,32 @@
       "duration_ms": 120413,
       "name": "Chulo",
       "url": "https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo"
+    },
+    {
+      "album": {
+        "name": "Chulo pt.2",
+        "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Chulo pt.2",
+      "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
     },
     {
       "album": {
@@ -3005,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Deshidrato",
+      "url": "https://open.spotify.com/track/6Sbv9Zabrkjt07ifGx4Qj0"
+    },
+    {
+      "album": {
         "name": "Reggaet\u00f3n Sex",
         "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },
@@ -3479,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "EL RELOJ (con Maluma)",
+        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180521,
+      "name": "EL RELOJ (con Maluma)",
+      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
+    },
+    {
+      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/2YYzqek3w2LadxlC27BUd1"
       },
@@ -3576,6 +3664,24 @@
       "duration_ms": 222245,
       "name": "EMPELICULADOS - Spotify Singles",
       "url": "https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne"
+    },
+    {
+      "album": {
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "EN 4",
+      "url": "https://open.spotify.com/track/2xBuDFGbFc3NbUzCI8W4RW"
     },
     {
       "album": {
@@ -3698,7 +3804,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225054,
       "name": "En La Intimidad",
       "url": "https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d"
@@ -4266,6 +4372,24 @@
       "duration_ms": 237627,
       "name": "Fragancia (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP"
+    },
+    {
+      "album": {
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "Friendly",
+      "url": "https://open.spotify.com/track/56Gvbmp0WEZG0xiZBXr9ho"
     },
     {
       "album": {
@@ -4906,6 +5030,24 @@
       "duration_ms": 159158,
       "name": "Hola Beb\u00e9",
       "url": "https://open.spotify.com/track/3zTFAxm7XvrKu9GVOKt6rR"
+    },
+    {
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "album": {
@@ -6908,7 +7050,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246315,
       "name": "Mi Gata - Remix",
       "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
@@ -8646,7 +8788,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206666,
       "name": "Perre\u00e1ndote",
       "url": "https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO"
@@ -9678,7 +9820,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 173975,
       "name": "RE\u00d1ACA",
       "url": "https://open.spotify.com/track/3MioiUQSZ9rUWHhIxypQQH"
@@ -10742,7 +10884,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
@@ -12026,6 +12168,36 @@
       "duration_ms": 197434,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
+    },
+    {
+      "album": {
+        "name": "Wait Deh Man (feat. Luar La L)",
+        "url": "https://open.spotify.com/album/6psh7wg5ikbIgDLl0uBIPk"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246280,
+      "name": "Wait Deh Man (feat. Luar La L)",
+      "url": "https://open.spotify.com/track/63fSkia27CbTlytTKxnNqD"
     },
     {
       "album": {

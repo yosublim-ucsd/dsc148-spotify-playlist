@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 61528,
+  "num_followers": 61560,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM3NDU2NzhkMzdkNTBjMzY0MTFmM2FmYjhkNDVjMDY0ZjNjMTE4",
+  "snapshot_id": "MCxiMjRiN2JkZTFlY2MyYzJjOWI1YzhlZWFjYWI2YzU5YjU4NjQzZTA3",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Elementary Doctor Watson",
-        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
-      },
-      "artists": [
-        {
-          "name": "Doc & Merle Watson",
-          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Extraordinary Times (The Duo Sessions)",
         "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 206606,
       "name": "Sweet Goddess Blues",
       "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Elementary Doctor Watson",
+        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+      },
+      "artists": [
+        {
+          "name": "Doc & Merle Watson",
+          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 294032,
-      "name": "Walking My Troubles Away",
-      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 294032,
+      "name": "Walking My Troubles Away",
+      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 202840,
       "name": "Shine on Moon (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 174313,
-      "name": "Foolin'",
-      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "The Cause of It All",
         "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
+      "duration_ms": 174313,
+      "name": "Foolin'",
+      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 244506,
       "name": "I Know the Blues",
       "url": "https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 180066,
       "name": "Fussin' and Fightin' (Blues)",
       "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
         }
       ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Throw That Stone",
-        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 178668,
-      "name": "Throw That Stone",
-      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 186317,
       "name": "Two Step Too",
       "url": "https://open.spotify.com/track/3qFPfJOLQanNyGcvduvG6p"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 336280,
-      "name": "Forever On My Mind",
-      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1871,6 +1855,22 @@
       "duration_ms": 194346,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 336280,
+      "name": "Forever On My Mind",
+      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Pray For Rain",
-        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Trying to Hold On",
         "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 249626,
       "name": "Be for Me",
       "url": "https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Mission Creep",
+        "url": "https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we"
+      },
+      "artists": [
+        {
+          "name": "Damian Lewis",
+          "url": "https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue"
+        }
+      ],
+      "duration_ms": 180793,
+      "name": "My Little One",
+      "url": "https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1955,22 +1955,6 @@
       "duration_ms": 236720,
       "name": "Good, Good Man",
       "url": "https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Mission Creep",
-        "url": "https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we"
-      },
-      "artists": [
-        {
-          "name": "Damian Lewis",
-          "url": "https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue"
-        }
-      ],
-      "duration_ms": 180793,
-      "name": "My Little One",
-      "url": "https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -2003,6 +1987,22 @@
       "duration_ms": 197237,
       "name": "Meet Me In The City",
       "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Pray For Rain",
+        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
     }
   ],
   "unique_name": "Morning Blues",

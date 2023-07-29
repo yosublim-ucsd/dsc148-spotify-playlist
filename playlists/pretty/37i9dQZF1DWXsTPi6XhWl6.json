@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGI1ZmVhOTJhMTY0Y2Q3NTgzMjZhYjZjZThmZGIyMDQ5OTM5YjQx",
+  "snapshot_id": "MCxmYjkzODExOWYwYzFiY2Q1Y2JjYTc5YmI5NDA1N2ZjNzg3ODVlYWNh",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "Ragged Wood",
-      "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Orange Blood",
         "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 223626,
       "name": "Johnson Song",
       "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Ragged Wood",
+      "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 279240,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-06-17 04:02:00",

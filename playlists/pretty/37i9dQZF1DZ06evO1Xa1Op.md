@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,858 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,869 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 33 | [I Go Ka \- 2017 Remastered Version](https://open.spotify.com/track/6J2fUEVtSk5oDxJnloWs7g) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 4:01 |
 | 34 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/08GUN9ZldEFK7tUjEE4wcA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 6:32 |
 | 35 | [Ledi Coumbe](https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 3:14 |
-| 36 | [Pieter Botha](https://open.spotify.com/track/0CvXpSINDjnhWI8YCzNOMp) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 3:20 |
-| 37 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
+| 36 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
+| 37 | [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 |
 | 38 | [Sambadio \- Acoustic](https://open.spotify.com/track/1JgCWF9ECm5wR5Ws6nIBE6) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 5:12 |
-| 39 | [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 |
+| 39 | [Pieter Botha](https://open.spotify.com/track/0CvXpSINDjnhWI8YCzNOMp) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 3:20 |
 | 40 | [Safari](https://open.spotify.com/track/0ypEcB9ug8CUMUcVw4xRa9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 5:48 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDAxMTEyZTgzNTMyYzg0YjAwMzMyNmVkZjM1ZDc5ZTBjZQ==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBkYjY5ODJmZDg4OWFhZmMzZDgxODVlNzBkODkxMzY1Zg==`

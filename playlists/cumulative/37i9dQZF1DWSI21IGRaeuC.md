@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-187 songs - 15 hr 57 min
+188 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
-| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 |  |
+| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 | 2023-07-29 |
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
@@ -156,6 +156,7 @@
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-08-30 |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-17 |  |
+| [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 | 2023-07-28 |  |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-17 | 2022-11-28 |
 | [Take Me Back](https://open.spotify.com/track/6rMDUHBXp1yYr3qftxfXG5) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/4ZAMiJSXpoZeXZkRGxrJt4) | 3:17 | 2023-05-12 | 2023-05-27 |
 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 | 2023-03-17 |  |

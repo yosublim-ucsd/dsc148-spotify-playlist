@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Pretty Pink
 
-2,200 songs - 8 day 5 hr 34 min
+2,201 songs - 8 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Atmosferic](https://open.spotify.com/track/5eCCDEJhr3gh8WsXAulpjK) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Atmosferic](https://open.spotify.com/album/29Qn0SP5IBqrZyK7pXjJ0K) | 7:18 | 2023-06-16 | 2023-06-30 |
 | [Atmosphere](https://open.spotify.com/track/1qG3LdimuO44VAMFv7p1hy) | [Cook Strummer](https://open.spotify.com/artist/44HPJ6PibkaZKYVdPaHnyV) | [Atmosphere](https://open.spotify.com/album/323lZAMm9aibv1fh3HGrjl) | 4:43 | 2022-06-02 | 2022-06-24 |
 | [Atomic Heart](https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Yana Blinder](https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R) | [Atomic Heart](https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf) | 7:13 | 2023-02-23 | 2023-03-18 |
-| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 |  |
+| [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 | 2023-07-27 |  |
+| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 | 2023-07-29 |
 | [Auryn](https://open.spotify.com/track/6qW39YyjxKzO5wp4JhIcnu) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Auryn](https://open.spotify.com/album/0bzlmX6llFoqRXXLHS0Tvp) | 5:50 | 2022-09-08 | 2022-09-30 |
 | [Australia \- Edit](https://open.spotify.com/track/2CFRljcEG8JR4JpgP4A56X) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Alex Banks](https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE) | [LNOE TEN, Vol\. II](https://open.spotify.com/album/5NtdTVdUFfJMdgfIqcDS37) | 3:53 | 2022-05-05 | 2022-05-20 |
 | [Autobahn](https://open.spotify.com/track/3S3ApUC98oFhwIpHAg1JVo) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Ditties](https://open.spotify.com/album/4jenD9Y7H3fiRsxV7HZkto) | 4:38 | 2022-08-04 | 2022-08-19 |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, Rvfv, AVA e tanti altri.
 
-2,157 songs - 4 day 2 hr 18 min
+2,158 songs - 4 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1922,7 +1922,8 @@
 | [TAXY](https://open.spotify.com/track/1ZmzXfsNaQrOQSeY2xkHOx) | [Inamos](https://open.spotify.com/artist/5FCEwEMCP5iSEZJelZ0hbH), [Chosen1](https://open.spotify.com/artist/2dQGMVpkIdOyxQrqKlIVnt) | [TAXY](https://open.spotify.com/album/6Ly1J92g0FVmAxexlNrN1L) | 3:01 | 2023-05-04 | 2023-05-19 |
 | [Tchikita](https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tchikita](https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE) | 2:36 | 2022-10-07 | 2022-11-11 |
 | [TCHOP](https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [TCHOP](https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW) | 3:01 | 2023-02-03 | 2023-03-03 |
-| [TE PERDON’ ‘O STESS’](https://open.spotify.com/track/36YGPubdyX3Srf35IcT4HM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [TE PERDON’ ‘O STESS’](https://open.spotify.com/album/0Ry89Zc7pl3uJQBIyxLFGZ) | 2:27 | 2023-07-27 |  |
+| [TE PERDON' 'O STESS'](https://open.spotify.com/track/1pijftSGopSBglwy3vDyH1) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [TE PERDON' 'O STESS'](https://open.spotify.com/album/1dq2Xe9BvDCHxaLg8nwSzp) | 2:27 | 2023-07-27 |  |
+| [TE PERDON’ ‘O STESS’](https://open.spotify.com/track/36YGPubdyX3Srf35IcT4HM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [TE PERDON’ ‘O STESS’](https://open.spotify.com/album/0Ry89Zc7pl3uJQBIyxLFGZ) | 2:27 | 2023-07-27 | 2023-07-29 |
 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 | 2022-07-21 | 2022-09-09 |
 | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK) | 2:54 | 2023-07-20 |  |
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-06 | 2022-11-11 |

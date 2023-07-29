@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-779 songs - 2 day 3 hr 20 min
+780 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-20 |  |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-06-07 | 2022-07-25 |
 | [コガネゾラ \(TV size\)](https://open.spotify.com/track/0lINpdNxhDeWmPseWeKJJX) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ \(TV size\)](https://open.spotify.com/album/7BUZqoyy6UjD8XqL7HXyJs) | 1:30 | 2022-06-07 | 2022-07-28 |
+| [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 | 2023-07-07 |  |
 | [サイカ](https://open.spotify.com/track/5KeBlrUAZVEh4A0TeUUfKl) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [サイカ](https://open.spotify.com/album/4VI8I3XQhiKhVDXqXImOox) | 4:15 | 2022-06-07 | 2022-06-28 |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2022-06-07 | 2022-07-17 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-06-07 | 2022-06-21 |
@@ -641,7 +642,7 @@
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 |  |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 | 2023-02-01 |
 | [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-05-01 | 2023-07-10 |
-| [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 |  |
+| [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 | 2023-07-29 |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2022-06-07 | 2022-07-29 |
 | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/track/3trDDFEgtDSKB0jKP1h4TA) | [LUPIN THE THIRD JAM CREW](https://open.spotify.com/artist/456hbu6d4Jcfdo1xWH5iJc), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/album/61F5JVKzCzupihtfq51T3k) | 3:57 | 2022-06-07 | 2022-07-23 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-08-11 |  |

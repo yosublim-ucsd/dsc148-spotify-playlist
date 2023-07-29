@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,249 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,414 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 37 | [Été Amer](https://open.spotify.com/track/3fTPbjj12M5Ih0130yR8VH) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Été Amer](https://open.spotify.com/album/0kzoSiPvtQnu93fR3gr0K3) | 3:19 |
 | 38 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 |
 | 39 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 |
-| 40 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey \(Spotify Only\)](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
+| 40 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 41 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 |
 | 42 | [KicéKicé](https://open.spotify.com/track/2MPZECEDHleHucVAsDdeoD) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Libre](https://open.spotify.com/album/5ecCBIKQYag4emCVBAPcBX) | 3:01 |
 | 43 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 |
 | 50 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 
-Snapshot ID: `MCxhNGEwMzJiNjg5MTc2YTZmODhiYTAwNWNiOWY4ZmUwYjk5ZWRjY2I3`
+Snapshot ID: `MCw4NTgwZjlmNmNmYjYxNGY5OTI5OGNkMzZjYTUzN2RmZTEyNTM2ZWZm`

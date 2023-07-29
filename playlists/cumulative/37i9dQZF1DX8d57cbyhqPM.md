@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Ninho
+> Du Congo, au monde\. 🌍 Photo: DJ Bens, Naza
 
-248 songs - 15 hr 49 min
+249 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Oyo Ekoya Eya](https://open.spotify.com/track/3aC0TpWqBfOO8acqAPSJx6) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Oyo Ekoya Eya](https://open.spotify.com/album/2gQegZmZ38IA8LY1HddSPt) | 5:24 | 2023-03-24 | 2023-07-22 |
 | [Ozo Boudé](https://open.spotify.com/track/2UvshUHx3r2B4LE5e97iE6) | [Marvin jazz](https://open.spotify.com/artist/7c2JCztJLkANRIdOMgrkeQ), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [Ozo Boudé](https://open.spotify.com/album/29b5aeLyAG05vAKmggdiLV) | 3:29 | 2022-12-30 | 2023-06-24 |
 | [Paka](https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Paka](https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F) | 3:14 | 2022-06-30 |  |
+| [Palavé \(feat\. Tiakola\)](https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3) | 2:39 | 2023-07-28 |  |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-06-30 | 2023-03-25 |
 | [Par Terre – A COLORS SHOW](https://open.spotify.com/track/0vm0LYhr2BdhZ3tYFIxeRx) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Par Terre – A COLORS SHOW](https://open.spotify.com/album/1VDtSNMukAMgQbiSrKFQ9X) | 3:30 | 2022-11-18 | 2023-03-25 |
 | [Pays de merveilles](https://open.spotify.com/track/3kDm6WcoCPHjvucG5mv3dY) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Pays de merveilles](https://open.spotify.com/album/4QuGEJxOOYCbvj3S5cR5up) | 5:31 | 2022-12-16 | 2023-02-18 |
@@ -224,7 +225,7 @@
 | [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 | 2022-06-30 | 2022-12-25 |
 | [Toleka](https://open.spotify.com/track/2i3RY72siSsRLffssw2boS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/1FUtfN6N0YQJkMRzqqrT9n) | 3:18 | 2022-12-16 |  |
 | [TOUCHE MOI \- Tindidi](https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5) | [5 car ecco](https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N), [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [TOUCHE MOI \(Tindidi\)](https://open.spotify.com/album/557ibuoURcCgf5uONft8el) | 3:22 | 2023-07-14 |  |
-| [Tout Ira Bien \(Be Alright\)](https://open.spotify.com/track/3ZcgdYyOGpQ0yBP2Sus183) | [Landry M](https://open.spotify.com/artist/6edaSYUIB0eQCKuY4dgIVz) | [Tout Ira Bien \(Be Alright\)](https://open.spotify.com/album/5ZGCTVAdgLgfr4FyLqj2Dd) | 3:06 | 2023-04-14 |  |
+| [Tout Ira Bien \(Be Alright\)](https://open.spotify.com/track/3ZcgdYyOGpQ0yBP2Sus183) | [Landry M](https://open.spotify.com/artist/6edaSYUIB0eQCKuY4dgIVz) | [Tout Ira Bien \(Be Alright\)](https://open.spotify.com/album/5ZGCTVAdgLgfr4FyLqj2Dd) | 3:06 | 2023-04-14 | 2023-07-29 |
 | [Tout Seul](https://open.spotify.com/track/3ETl0dMkjKvj71qUWrX6gj) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7), [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb) | [Tout Seul](https://open.spotify.com/album/0ev6B9C8CVY8cvAcb01vo9) | 4:24 | 2023-01-27 | 2023-04-09 |
 | [Trahison](https://open.spotify.com/track/6RC7oaI1RhDG0JBAKavI5L) | [Stone Komo](https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye) | [Trahison](https://open.spotify.com/album/4UG3B136vnRC8XNOag024L) | 4:25 | 2023-07-21 |  |
 | [Trop c'est trop](https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw) | [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Trop c'est trop](https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW) | 6:43 | 2022-06-30 | 2023-04-29 |

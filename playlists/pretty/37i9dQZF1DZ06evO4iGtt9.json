@@ -1,15 +1,15 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 5510,
+  "num_followers": 5516,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzI5ODEsMDAwMDAwMDBjZDUzZGQzYjA0NzIxNTBiMDJhOTUxZWIzNDUxMTNlOA==",
+  "snapshot_id": "MjgxNzU4MzgsMDAwMDAwMDA0MjJlNjlkNmNjZGMwODEzMDE0MDEwZDc3ODJkN2U2MQ==",
   "tracks": [
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "SWEET US",
         "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -113,43 +113,7 @@
       "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "My Moto",
-        "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 134321,
-      "name": "My Moto",
-      "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chop Life",
         "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
@@ -169,7 +133,43 @@
       "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "My Moto",
+        "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 134321,
+      "name": "My Moto",
+      "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Best Of Timaya",
         "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "I Like The Way",
         "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Gbagam (feat. Deettii & Phyno)",
         "url": "https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Igbalode",
         "url": "https://open.spotify.com/album/5D1kgcGV5HEs2OiC8IKLIj"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7gywnmiiHFGaGadY27UJ8X"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Appreciation (feat. 2face)",
         "url": "https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL"
@@ -373,7 +373,23 @@
       "url": "https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Better Than Them",
         "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
@@ -393,23 +409,7 @@
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Mind over Matter (feat. D'banj)",
         "url": "https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Get Serious",
         "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -529,27 +529,7 @@
       "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "CITIZEN OF THE WORLD",
-        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Get the Money",
-      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Telli Person",
         "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
@@ -573,7 +553,7 @@
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
@@ -593,7 +573,27 @@
       "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "CITIZEN OF THE WORLD",
+        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Get the Money",
+      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
@@ -609,23 +609,7 @@
       "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
@@ -649,7 +633,23 @@
       "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Best Of Timaya",
         "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "I Concur",
         "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Erima",
         "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
@@ -785,63 +785,7 @@
       "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "Hip Hop Mafia",
-        "url": "https://open.spotify.com/album/10fn5C8XnQ46Lt3aas7VI0"
-      },
-      "artists": [
-        {
-          "name": "Obesere",
-          "url": "https://open.spotify.com/artist/3zCVI8q382lEWM4JwLJ8P9"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 262478,
-      "name": "Gbo Se Wo (feat. Timaya)",
-      "url": "https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
@@ -865,7 +809,43 @@
       "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "Hip Hop Mafia",
+        "url": "https://open.spotify.com/album/10fn5C8XnQ46Lt3aas7VI0"
+      },
+      "artists": [
+        {
+          "name": "Obesere",
+          "url": "https://open.spotify.com/artist/3zCVI8q382lEWM4JwLJ8P9"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 262478,
+      "name": "Gbo Se Wo (feat. Timaya)",
+      "url": "https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
@@ -881,23 +861,7 @@
       "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
-      "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
-    },
-    {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
@@ -913,7 +877,23 @@
       "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "To U",
         "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
@@ -929,7 +909,27 @@
       "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
     },
     {
-      "added_at": "2023-07-26 13:41:52",
+      "added_at": "2023-07-28 13:18:44",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "added_at": "2023-07-28 13:18:44",
       "album": {
         "name": "Best Of Timaya",
         "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"

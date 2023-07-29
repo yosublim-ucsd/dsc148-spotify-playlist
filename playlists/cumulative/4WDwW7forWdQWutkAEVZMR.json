@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Diplo, Lil Tjay, Harry Styles &amp; more! Cover: Diplo, Jessie Murph, Polo G.",
+  "description": "Your go-to playlist for this week's hottest music featuring Calvin Harris, Lil Tjay, Harry Styles &amp; more! Cover: Calvin Harris &amp; Sam Smith",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 241318,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192444,
       "name": "Buckle Bunny",
       "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 259000,
       "name": "Ceiling Fan/Piggy",
       "url": "https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp"
@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "album": {
         "name": "De Selby (Part 2)",
         "url": "https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM"
       },
@@ -2116,6 +2134,28 @@
       "duration_ms": 249259,
       "name": "Depression",
       "url": "https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5"
+    },
+    {
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "album": {
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159625,
       "name": "En El Calor\u00f3n",
       "url": "https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B"
@@ -2750,7 +2790,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 233266,
       "name": "Everybody's Got to Learn",
       "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
@@ -3264,7 +3304,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe"
@@ -3376,10 +3416,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185806,
       "name": "God's Eyes",
       "url": "https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R"
+    },
+    {
+      "album": {
+        "name": "flounder (deluxe)",
+        "url": "https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "gold ring (flounder bonus track)",
+      "url": "https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU"
     },
     {
       "album": {
@@ -4215,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "album": {
         "name": "Icy Asab",
         "url": "https://open.spotify.com/album/5XdW5IwVysChfTwiAKKeq0"
       },
@@ -4552,7 +4628,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -4816,7 +4892,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 234626,
       "name": "Land Of The Sun",
       "url": "https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2"
@@ -4910,7 +4986,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 156734,
       "name": "Leave it at That",
       "url": "https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e"
@@ -5723,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -6226,7 +6324,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184296,
       "name": "Off Top",
       "url": "https://open.spotify.com/track/4B9W5xGHs5cJp47xOUBqeN"
@@ -6306,7 +6404,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170000,
       "name": "Ole (feat. BNXN)",
       "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
@@ -6826,7 +6924,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 151142,
       "name": "Project Walls (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
@@ -7459,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/3MQydUeTQjd1jjVTikawoq"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165649,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/3jXd0vfbaY99gpqBthXnQJ"
+    },
+    {
+      "album": {
         "name": "So Far So Good (lofi remixes)",
         "url": "https://open.spotify.com/album/3Fpxa7OUrdGmqEebgoAF1E"
       },
@@ -7742,7 +7858,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 124133,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
@@ -7804,7 +7920,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 163179,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/43cFVWSlrBkrNEd307UpV5"
@@ -8094,7 +8210,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193866,
       "name": "The In Between",
       "url": "https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO"
@@ -8438,7 +8554,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170087,
       "name": "Trailer Park Barbie",
       "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
@@ -9138,7 +9254,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145503,
       "name": "welcome to my world",
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
@@ -9554,7 +9670,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181978,
       "name": "Without You (feat. Elle King)",
       "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
@@ -9724,7 +9840,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172141,
       "name": "\u0425\u041c\u0410\u0420\u0418 (feat. Leo Mantis)",
       "url": "https://open.spotify.com/track/42BnNSAR84JP6PzPsOIy1O"

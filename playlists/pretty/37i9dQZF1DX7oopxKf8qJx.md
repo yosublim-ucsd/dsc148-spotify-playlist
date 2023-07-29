@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,013 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,114 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 74 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 |
 | 75 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
 
-Snapshot ID: `MCwzNWY1OWFlNmU4MTIyZWIzZTVhYmQ0M2M5ZTQxNDZiNTg0MWE5M2Vj`
+Snapshot ID: `MCw5YjcyNjdmMzViYTBjY2ZkNTM1ZWU3MzAwY2NjMzkxNDZiYjViZGE5`

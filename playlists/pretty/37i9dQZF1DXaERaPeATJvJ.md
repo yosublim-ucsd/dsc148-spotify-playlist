@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,202 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,219 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 98 | [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 |
 | 99 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
 
-Snapshot ID: `MCxkYzYwYzFlMDdjNmQwNjk0MzMxYTdkMGQxMmFmM2MzMDgyZmE3MTkx`
+Snapshot ID: `MCwyMzBhYjQ4NmQxOTFiMmExOTRiZDc3ZTRlMGQ2ZDVmZGY4YTM2Y2Jl`

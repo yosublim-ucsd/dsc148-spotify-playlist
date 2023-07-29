@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWhBhYl3ZMvY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY)
 
-### [This Is Rihanna](https://open.spotify.com/playlist/37i9dQZF1DWWhBhYl3ZMvY)
+### [This Is Rihanna \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWhBhYl3ZMvY)
 
 > Catch all the essential tracks by the multitalented Rihanna.
 

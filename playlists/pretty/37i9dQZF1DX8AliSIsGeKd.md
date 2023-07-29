@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,946 likes - 86 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,186 likes - 86 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Sexuality \(My Reality\)](https://open.spotify.com/track/6K8MEkyv4cR6LPngDmsq20) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Fusion](https://open.spotify.com/album/55KpRN5uOM2EhyoHcQSBsI) | 6:26 |
 | 79 | [Faces \- Edit](https://open.spotify.com/track/2wKJ04d6cZv5idwMQFHRwu) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [Faces](https://open.spotify.com/album/1aoauhpTZDrayjaxD3ZJwG) | 5:51 |
 | 80 | [You](https://open.spotify.com/track/5GxGbqzO7k4PDwrA67uzEn) | [Dentso](https://open.spotify.com/artist/1tpCvTXdigEZWAl29gB5NX), [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [You](https://open.spotify.com/album/5lQQjXJ2sI9xZ5wVTVJtcJ) | 5:02 |
-| 81 | [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 |
+| 81 | [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 |
 | 82 | [Without You](https://open.spotify.com/track/6vSK0Slnmc3foldAiUu0Hs) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Without You](https://open.spotify.com/album/1C5x49gZQvSvMd6C14cQes) | 2:26 |
 | 83 | [Blasphemy \- Xinobi Remix](https://open.spotify.com/track/5gAYiP4uZQsvdFDz0N7EFv) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Triangle Remixes](https://open.spotify.com/album/7dne1MHE8VqfWdPM2KFUO3) | 6:31 |
 | 84 | [Time To Run](https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Time To Run](https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq) | 4:13 |
 | 85 | [Silly Walk](https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Silly Walk](https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr) | 3:21 |
 | 86 | [Maya Said](https://open.spotify.com/track/0wY785Vr2t5jLrg8KvKRYD) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Ghetto Carnival](https://open.spotify.com/album/2S0QSL0J60zQOKPoGg4dz5) | 4:17 |
 
-Snapshot ID: `MCw4OTVkNmEzNGIxOTBjYzA4MWVmMmE5ZmYwN2UwZjk0MWNhZWEwMWEy`
+Snapshot ID: `MCw3YTUxYzI2ZWE5NjY4ZGI0MjBlOTBiYTFiYTE2N2NkYTU1ZjJhOTkx`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 288788,
+  "num_followers": 288935,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzVlMTQ2OGFjMjU3NmM5YTQwNTI4Yjk3MjQxMmI4NGQxOWQyY2Rl",
+  "snapshot_id": "MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
         "name": "Rock Ain't Dead",
         "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 229512,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2023-07-14 02:37:32",

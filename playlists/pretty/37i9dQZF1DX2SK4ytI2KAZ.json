@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 698850,
+  "num_followers": 698920,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQ2NjYzMTY5NzE3ZjA4Zjc3ZTU3NzBhZjE3NzUzNTA3ODI5Mjcz",
+  "snapshot_id": "MCwzODBkYjY1NzJmODZhZWJjYmQzNjA4MjMyZTFkYzBlZTA2ZTE2MGUz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -423,8 +423,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "What Could Be Better",
-        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
-      },
-      "artists": [
-        {
-          "name": "The Happy Fits",
-          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Live A Little",
         "url": "https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 184910,
       "name": "ALL CAPS (feat. John the Ghost)",
       "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nobody (feat. dodie)",
-        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Nobody (feat. dodie)",
-      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Nobody (feat. dodie)",
+        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Nobody (feat. dodie)",
+      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bright Blues",
-        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
-      },
-      "artists": [
-        {
-          "name": "Ripe",
-          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Settling",
-      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 190447,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bright Blues",
+        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LP3",
-        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 210608,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/42lN1I6cvcBIo9h4VxyTHE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 169386,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/1UlzV1f5t8mFKMG2JwGBKZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 210608,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
     },
     {
       "added_at": "2023-06-30 04:00:00",

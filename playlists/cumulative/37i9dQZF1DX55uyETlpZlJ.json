@@ -386,7 +386,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145201,
       "name": "Cash Race",
       "url": "https://open.spotify.com/track/0fyj6lCdRmakvild3EyarH"
@@ -674,6 +674,28 @@
       "duration_ms": 228000,
       "name": "Free",
       "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Eshani",
+          "url": "https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185309,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
     },
     {
       "album": {
@@ -2660,7 +2682,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 217936,
       "name": "Sangaathiye",
       "url": "https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk"
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 82500,
       "name": "Sutta Mutta Fake",
       "url": "https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po"

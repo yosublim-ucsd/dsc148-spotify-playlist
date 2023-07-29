@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 186105,
+  "num_followers": 186206,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDcyM2VkNWUyMDdiZDMwNDZhN2E0NTk2MzVjMWNiOTRkNDI3MzBi",
+  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Layers",
@@ -241,22 +257,6 @@
       "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Black Market",
@@ -271,6 +271,22 @@
       "duration_ms": 390640,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -319,22 +335,6 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -417,28 +417,20 @@
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
+      "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Projekt 13",
-        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
       },
       "artists": [
         {
-          "name": "Markus Venehsalo",
-          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
-        },
-        {
-          "name": "Mavon Safia",
-          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
-        },
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         }
       ],
-      "duration_ms": 251490,
-      "name": "Projekt 13",
-      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
+      "duration_ms": 281946,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -481,20 +473,28 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "From The Top",
-        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
       },
       "artists": [
         {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
         }
       ],
-      "duration_ms": 281946,
-      "name": "From The Top",
-      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Galaxias",
@@ -707,22 +723,6 @@
       "duration_ms": 236905,
       "name": "Galaxias (Radio Edit)",
       "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Vtt2",
+        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
+      },
+      "artists": [
+        {
+          "name": "Vital Techtones",
+          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "In These Times",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Vtt2",
-        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
-      },
-      "artists": [
-        {
-          "name": "Vital Techtones",
-          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Gimme 5",
         "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
       },
@@ -1199,30 +1199,6 @@
       "duration_ms": 235106,
       "name": "Gimme 5",
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "VHS Fireplace Love (Live)",
-        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "SmokeFace",
-          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
-        },
-        {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "VHS Fireplace Love - Live",
-      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1259,6 +1235,30 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",

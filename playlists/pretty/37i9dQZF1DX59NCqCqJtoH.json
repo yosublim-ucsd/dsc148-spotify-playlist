@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1145364,
+  "num_followers": 1145581,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZiNDU4YTM0ODYwYjRiNjBlZTExZDI3ODE0NTcxYmZmNjBmMjY2",
+  "snapshot_id": "MCwzYWMyNTJiZGZjYzJjNWZmZjFiMTY2NWZhYzk1MjhjZWJhYTkyMmFi",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 93871,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
     },
     {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "is your bedroom ceiling bored? (feat. Cavetown)",
@@ -677,22 +693,6 @@
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Kenny",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 107369,
       "name": "i'll never fall in love with myself - demo",
       "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Smoke Signals (feat. Tessa Violet)",
-        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 208966,
-      "name": "Smoke Signals (feat. Tessa Violet)",
-      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 222803,
       "name": "Teen Mom",
       "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Smoke Signals (feat. Tessa Violet)",
+        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 208966,
+      "name": "Smoke Signals (feat. Tessa Violet)",
+      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1161,6 +1161,26 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "If I Really Love You",
@@ -1175,6 +1195,22 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1207,42 +1243,6 @@
       "duration_ms": 178303,
       "name": "Tired",
       "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "DnD (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "DnD (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 231700,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "VERY ALONE",
         "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 231700,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 207955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
-    },
-    {
       "added_at": "2023-06-15 16:30:18",
       "album": {
         "name": "I Didn't Mean To Haunt You",
@@ -1435,6 +1419,22 @@
       "duration_ms": 304613,
       "name": "tell me a joke",
       "url": "https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "freckles,",
-        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 230615,
-      "name": "freckles,",
-      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "freckles,",
+        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 230615,
+      "name": "freckles,",
+      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "emma, u up?",
         "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
       "added_at": "2023-06-23 17:17:26",
@@ -1559,38 +1559,6 @@
       "duration_ms": 254114,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -1611,6 +1579,38 @@
       "duration_ms": 80000,
       "name": "canine teeth",
       "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
       "added_at": "2023-06-02 04:00:00",

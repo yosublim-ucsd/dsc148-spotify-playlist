@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,444 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,571 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 11 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
 | 12 | [Adolescent Sex](https://open.spotify.com/track/0IlsQYGSobFtgrW3JZbKJX) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Adolescent Sex](https://open.spotify.com/album/2k8fOUWgxRHtzhN1sgOrMz) | 3:43 |
 | 13 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
-| 14 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
+| 14 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 15 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |
 | 16 | [Far Far Away](https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slade in Flame](https://open.spotify.com/album/0LmjoS42wberY6QHYm6k5E) | 3:34 |
 | 17 | [Cum on Feel the Noize](https://open.spotify.com/track/1agVrzicFWExgEiAtk8lmr) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 4:24 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 34 | [Living Next Door to Alice](https://open.spotify.com/track/57TaM8GozkJBz90xvQ1xME) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [Midnight Café \(New Extended Version\)](https://open.spotify.com/album/48zxNvHBPIFmeFweMGalgL) | 3:27 |
 | 35 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
 | 36 | [Rock On](https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Rock On](https://open.spotify.com/album/4yMLfb3f5fo7lPgHAUqx8P) | 3:24 |
-| 37 | [Pinball Wizard](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 |
+| 37 | [Pinball Wizard \- Remastered 1995](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 |
 | 38 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 |
 | 39 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 40 | [The Jean Genie \- 2013 Remaster](https://open.spotify.com/track/6uZtMNTfU5u8w6fsnXeOdb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 74 | [Baby Strange \(Alternate Mix\) \[Live at Wembley 1972\]](https://open.spotify.com/track/0EQfV3tozqwFDg2cyrZAiX) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Baby Strange \(Alternate Mix\) \(Live at Wembley 1972\)](https://open.spotify.com/album/0z27xzqf8LCZKpweS8UDpH) | 5:21 |
 | 75 | [In Every Dream Home A Heartache](https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [For Your Pleasure](https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29) | 5:29 |
 
-Snapshot ID: `MCw1NjgwMWM1M2U2MDY2NDMxMWFlN2EwYWNhZTBkNWFhZTRmZmM2ZDNj`
+Snapshot ID: `MCxhZGIzYjk3YjI5NDRjZTNkNGJhZjI3M2I4ZDFiMmRhYWVkMmNkOWNl`

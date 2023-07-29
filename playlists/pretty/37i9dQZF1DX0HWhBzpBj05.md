@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,588 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,578 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 27 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 |
 | 28 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 29 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 |
-| 30 | [Step Into Christmas](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
+| 30 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
 | 31 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 |
 | 32 | [Joy To The World](https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:06 |
 | 33 | [Silver Bells](https://open.spotify.com/track/745vzVj6vhA5LqfqOfqBci) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:16 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 85 | [Don't Save It All for Christmas Day](https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:37 |
 | 86 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MCxkZjMyODJiNTdlMGRlMDMzZTQ2NmJjNDc2ZDg1MDkyNjNiNmU2MTU4`
+Snapshot ID: `MCxmMzRiZDRkZTcyODQ4MGQ0NDU5MmNiNjQ1YWM5YWU2MzIxMzg3NTc3`

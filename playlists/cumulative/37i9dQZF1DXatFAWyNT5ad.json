@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-18",
-  "description": "Let's mix it. Cover: Bishop Briggs",
+  "description": "Let's mix it. Cover: Imagine Dragons",
   "name": "Pop Rock",
   "tracks": [
     {
@@ -858,6 +858,24 @@
       "duration_ms": 213880,
       "name": "Back In Love City",
       "url": "https://open.spotify.com/track/4XZBtvIXApjQ75xG7RUzwu"
+    },
+    {
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "album": {
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165672,
       "name": "Broken In All The Right Places",
       "url": "https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO"
@@ -1832,6 +1850,24 @@
       "duration_ms": 189613,
       "name": "Bury Us",
       "url": "https://open.spotify.com/track/4lOVXhEtawEzHtYE9exnoK"
+    },
+    {
+      "album": {
+        "name": "butterflies (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "butterflies (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
     },
     {
       "album": {
@@ -2473,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "album": {
         "name": "Dance Of The Clairvoyants",
         "url": "https://open.spotify.com/album/2J2ZoKPtJneBtFoSkl8yJy"
       },
@@ -2804,7 +2858,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 173132,
       "name": "Don't Get Me Wrong",
       "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
@@ -4682,7 +4736,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175937,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
@@ -5684,7 +5738,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
@@ -10358,6 +10412,24 @@
       "duration_ms": 245864,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/5UKww4m7PM5FQPWEelIjaE"
+    },
+    {
+      "album": {
+        "name": "THE OUTSIDE",
+        "url": "https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244465,
+      "name": "THE OUTSIDE",
+      "url": "https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Ewan McVicar
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,482 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,576 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 31 | [When I'm With You](https://open.spotify.com/track/30wDywCIhgLgseIJEYoDCI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [When I'm With You](https://open.spotify.com/album/74ValgCpozFtv4j4cDmWGa) | 3:41 |
 | 32 | [I Want You](https://open.spotify.com/track/5eNS4osb7X3oIKcguRkr3Z) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [I Want You / Windmill](https://open.spotify.com/album/0LLhmfIp9PjTwBXGUOcDPu) | 3:26 |
 | 33 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 |
-| 34 | [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 |
+| 34 | [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 |
 | 35 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
 | 36 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 |
 | 37 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 89 | [One Of A Kind](https://open.spotify.com/track/0kVERdA5KiHfK9j9TXnasd) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [One Of A Kind](https://open.spotify.com/album/7IkgeMzxtjC9kdihJYmj2J) | 3:01 |
 | 90 | [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 |
 
-Snapshot ID: `MCxhZWQwZGRiNzk1MjVmMGMzMjI0OWRiNzRhYzU4MmZkNGM0NWI4YzU0`
+Snapshot ID: `MCw1MWQxNDRkODlhNzliYzQyMjYxNjA5MjNhNWM1NDJkOTY4MzIxMTYw`

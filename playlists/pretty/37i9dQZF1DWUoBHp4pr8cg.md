@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Gunna \(pictured\), Young Thug, Drake, Dave, K.O and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,469 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,522 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 50 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 |
 
-Snapshot ID: `MCxkOGJlNzRjZDIwZWU3NWIwMTBlZmRhN2FmMDI0YzBmMWMxY2IyNjQw`
+Snapshot ID: `MCw4ZWZhYjExNzViOTdhNTUwNWQ0MThiZjAwZTk4Y2VjN2VmMzM4YjU1`

@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-294 songs - 16 hr 10 min
+295 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Aquí Algo Cambió](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 | 2022-12-16 |  |
 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2022-01-07 | 2023-04-18 |
 | [Así Ya No](https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Fenómeno](https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs) | 2:42 | 2022-05-23 |  |
-| [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 | 2023-05-05 |  |
+| [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 | 2023-05-05 | 2023-07-29 |
 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 | 2022-01-07 |  |
 | [Besos En Guerra](https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62) | [Dictado](https://open.spotify.com/artist/63lBUBggyKgjjZHsAxR3Tp) | [Dictado \(En Vivo\)](https://open.spotify.com/album/54aJmBef4WwpQfDxYNBoJF) | 3:22 | 2022-11-07 | 2023-04-15 |
 | [Borracho de Amor](https://open.spotify.com/track/1VeZsmUCLkYJT55c2nqg9b) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Borracho de Amor](https://open.spotify.com/album/73IWNJv6zpTOBxKGqAkclB) | 3:22 | 2022-11-07 | 2022-11-13 |
@@ -116,6 +116,7 @@
 | [Ella Qué Te Dio](https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Ella Qué Te Dio](https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe) | 3:48 | 2022-01-07 | 2022-03-30 |
 | [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 | 2022-01-07 |  |
 | [En Donde Esta Tu Amor](https://open.spotify.com/track/6jweSpMwhhNpfILeZ3kLso) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Vida Eres Tú](https://open.spotify.com/album/2RvN3fb5MsKXKYjhmpToAF) | 3:37 | 2022-01-07 | 2023-07-22 |
+| [En Donde Esta Tu Amor](https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Vida Eres Tú](https://open.spotify.com/album/3azaq42L9KN7ivVeETobzt) | 3:37 | 2023-05-05 |  |
 | [En Esta Vida No Se Pudo](https://open.spotify.com/track/4VepTqzlmZvNAAjUhdBhOP) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [25 Años Vol\. 1](https://open.spotify.com/album/1KFSWUORRh8TeDlhnTbt9Z) | 4:26 | 2022-01-07 | 2022-03-30 |
 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 | 2023-04-10 |  |
 | [En Realidad \- En Vivo](https://open.spotify.com/track/5qMcCmuqBDvE6iVxeuqunC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/4FEP3Mcoimrhbv0o7Oe34u) | 3:28 | 2022-01-07 | 2022-07-29 |

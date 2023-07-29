@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,823 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,838 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 41 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
 | 42 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
 | 43 | [Tighten Up](https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 1:59 |
-| 44 | [Take Money](https://open.spotify.com/track/120nygI7DcxAXigooArYKy) | [Cashflow Harlem](https://open.spotify.com/artist/46e4kw7Ahn7VwRaVcXiLlZ), [Jaleel Knight](https://open.spotify.com/artist/2xiVuPWzSoDtVRcOQxNNGK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Take Money](https://open.spotify.com/album/3VHKbIoAqthCRMJ3ZtRpQX) | 2:08 |
+| 44 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
 | 45 | [You Tried It](https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [You Tried It](https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz) | 2:06 |
-| 46 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
+| 46 | [Come On \(City Girls, Saweetie feat\. DJ Durel\)](https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:07 |
 | 47 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
-| 48 | [Come On \(City Girls, Saweetie feat\. DJ Durel\)](https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:07 |
-| 49 | [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 |
-| 50 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
+| 48 | [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 |
+| 49 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
+| 50 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDA2YzhhMTNkODYwYjM2ODdkNWU4MTA4YjhlZmYzNTc2YQ==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDAzNzA4YzQ1NTE1YjhkM2FlMmIzYzk2YThlNjYwMDY0MA==`

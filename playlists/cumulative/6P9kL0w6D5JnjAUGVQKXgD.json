@@ -12120,7 +12120,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
@@ -13184,6 +13184,24 @@
       "duration_ms": 178074,
       "name": "I Dare You - Eden Prince Remix",
       "url": "https://open.spotify.com/track/73JfzQN1wHtw5uJYjMtNSA"
+    },
+    {
+      "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/7oJdDMmmrW57bjKyebjL61"
+      },
+      "artists": [
+        {
+          "name": "Chris Viviano",
+          "url": "https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/5XR3FbFVt6ybWoWmtPCE9X"
     },
     {
       "album": {

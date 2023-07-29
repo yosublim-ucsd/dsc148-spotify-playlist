@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Hozier",
+  "description": "A laid-back trip in the folk scene. Cover: Tim Baker",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "album": {
         "name": "Buzz Cut",
         "url": "https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs"
       },
@@ -1497,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Consider Me A Winner",
+        "url": "https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163317,
+      "name": "Consider Me A Winner",
+      "url": "https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1878,6 +1914,24 @@
       "duration_ms": 213817,
       "name": "Dial Drunk",
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "album": {
+        "name": "Didn't Say",
+        "url": "https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206514,
+      "name": "Didn't Say",
+      "url": "https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt"
     },
     {
       "album": {
@@ -3292,7 +3346,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213312,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M"
@@ -4149,6 +4203,42 @@
     },
     {
       "album": {
+        "name": "Cerulean (Extended Edition)",
+        "url": "https://open.spotify.com/album/52fkritKdBBtkRXpiietLQ"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "In Light of My Absence",
+      "url": "https://open.spotify.com/track/6an32da1YNcGJTrKJjuMP8"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/4UXTYwFb2x5tv6xVAbP7Pj"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200857,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/7pLbQqyLFRtC4GjS58feiI"
+    },
+    {
+      "album": {
         "name": "In Two",
         "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
       },
@@ -4836,7 +4926,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 284680,
       "name": "Let Her Feel the Rain (Sparrow Version)",
       "url": "https://open.spotify.com/track/2qiymz95HURaZ7YE1yTEzJ"
@@ -4948,7 +5038,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195884,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
@@ -5654,10 +5744,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 203046,
       "name": "My Old Man",
       "url": "https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi"
+    },
+    {
+      "album": {
+        "name": "Yarrow Lover",
+        "url": "https://open.spotify.com/album/3ayNhLRIDKjMADyYTPqgSz"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231636,
+      "name": "Nature Song For The Time Being",
+      "url": "https://open.spotify.com/track/72HNZVAFnutuwYfOAwu78z"
     },
     {
       "album": {
@@ -5877,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4FoR1PgHPljHSkVrGDc5aG"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3iKmFRb80BCvLHqRsxFdJc"
+    },
+    {
+      "album": {
         "name": "october",
         "url": "https://open.spotify.com/album/0HEqMMj4JU99fqyDAk112t"
       },
@@ -5982,7 +6108,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 211440,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
@@ -6216,7 +6342,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199653,
       "name": "Ordinary Life",
       "url": "https://open.spotify.com/track/6WglLNlpso0q61JbpmdczH"
@@ -6544,7 +6670,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 163468,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/1jNVZmVkhhIcmnmj8Y1RNb"
@@ -7212,7 +7338,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177946,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP"
@@ -7614,6 +7740,24 @@
       "duration_ms": 147500,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3ryEZ60IkF7ZblUxrS4cr9"
+    },
+    {
+      "album": {
+        "name": "If I Was, I Am",
+        "url": "https://open.spotify.com/album/648zHL2TdKCfvMmTPFlEGl"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189043,
+      "name": "Suitcases By The Door",
+      "url": "https://open.spotify.com/track/4pY5T1a0Py3JJjZLHtkD9Q"
     },
     {
       "album": {
@@ -8302,7 +8446,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195373,
       "name": "This Far South",
       "url": "https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU"
@@ -8686,6 +8830,24 @@
       "duration_ms": 193133,
       "name": "Turpentine",
       "url": "https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc"
+    },
+    {
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/5XrD1Ct0t5ZLOdduhNAyWW"
+      },
+      "artists": [
+        {
+          "name": "Tim Baker",
+          "url": "https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303781,
+      "name": "Twenty Twenty",
+      "url": "https://open.spotify.com/track/3PwNuvZHqvkflzOQkDyBuA"
     },
     {
       "album": {

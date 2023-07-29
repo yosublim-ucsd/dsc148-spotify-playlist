@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-115 songs - 3 hr 48 min
+116 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Spinosaurus Song](https://open.spotify.com/track/3Iv6FnnVSOZRPlm6yR8Doi) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 2:41 | 2022-01-14 |  |
 | [Stack up the Dinosaurs](https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 3:23 | 2022-01-14 |  |
 | [Stomp Stomp Stomp Like A Dinosaur](https://open.spotify.com/track/6flehrW6bvOEjgKnh0mAls) | [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1), [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS) | [Stomp Stomp Stomp Like A Dinosaur](https://open.spotify.com/album/2nws6EE5XnutZte6uH6zGF) | 1:08 | 2022-01-14 |  |
+| [Stomp! Soar! Swish!](https://open.spotify.com/track/5qJi35QJrauAR3aGABurwr) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Stomp! Soar! Swish!](https://open.spotify.com/album/68VW9HyYfm0u4eVEJeKarN) | 1:47 | 2023-07-28 |  |
 | [T\-Rex Has Big Feet \- Tyrannosaurus Rex Song](https://open.spotify.com/track/52s0HzJRBNauo9GduiTnqU) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 4:04 | 2022-01-14 |  |
 | [The Best Hunter, Tyrannosaurus](https://open.spotify.com/track/6DiAaMqHinjIYgwPZfcb8J) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 0:59 | 2022-01-14 |  |
 | [The Dino Dance!](https://open.spotify.com/track/3UmbpHb6wSstg3JjcUQwhP) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 3](https://open.spotify.com/album/2hHYn4OtrO7CWesvPQJhRf) | 3:34 | 2022-01-14 |  |

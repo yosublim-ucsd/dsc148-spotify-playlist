@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD?si=aw6tgB3fSyefy2OQ9fJ6qQ\">Tinashe</a>",
+  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER?si=aa07e4f23640494a\">BIA</a>",
   "name": "This is Frequency",
   "tracks": [
     {
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 124808,
       "name": "B.T.W",
       "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
@@ -4361,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "SCARLET (Deluxe)",
+        "url": "https://open.spotify.com/album/5tEScQJvMZmUIqMt3DHISF"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143361,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/3TL3UrGWuIS8e8FXhO7qK6"
+    },
+    {
+      "album": {
         "name": "Big 14 (feat. Offset & Moneybagg Yo)",
         "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
       },
@@ -4384,6 +4402,24 @@
       "duration_ms": 247458,
       "name": "Big 14 (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
+    },
+    {
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "album": {
@@ -6230,6 +6266,28 @@
       "duration_ms": 163277,
       "name": "BREAK STUFF - Cover",
       "url": "https://open.spotify.com/track/0cKLDHdqHos9GYl674FDQN"
+    },
+    {
+      "album": {
+        "name": "Breaking Point Remix (feat. Victoria Mon\u00e9t)",
+        "url": "https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310892,
+      "name": "Breaking Point Remix (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
     },
     {
       "album": {
@@ -10535,6 +10593,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "album": {
         "name": "Demon Time (with Ari Lennox) [Remix]",
         "url": "https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b"
       },
@@ -13583,6 +13659,32 @@
     },
     {
       "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199313,
+      "name": "Falling Up (with Pharrell Williams & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1"
+    },
+    {
+      "album": {
         "name": "Family Affair",
         "url": "https://open.spotify.com/album/6OJIe5aPOwz1vniNG3jdum"
       },
@@ -15391,6 +15493,24 @@
     },
     {
       "album": {
+        "name": "Fruit Loop",
+        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137263,
+      "name": "Fruit Loop",
+      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
+    },
+    {
+      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -16234,7 +16354,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
@@ -17654,6 +17774,28 @@
       "duration_ms": 254608,
       "name": "Harder (with Busta Rhymes) - Nick Bike x Ian Wallace Remix",
       "url": "https://open.spotify.com/track/5tHlEp6cBw5oHSEPQfnavp"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "album": {
@@ -21008,7 +21150,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 117791,
       "name": "InstaKill",
       "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
@@ -22628,7 +22770,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 214789,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
@@ -26095,6 +26237,24 @@
     },
     {
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "album": {
         "name": "Mind Games.",
         "url": "https://open.spotify.com/album/4RuPSYj750tA7tiWElq7Pc"
       },
@@ -28402,7 +28562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 79488,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/4D2vt3fDELk1gNQpUGucZ1"
@@ -34008,7 +34168,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189011,
       "name": "RIOT (Rowdy Pipe'n)",
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
@@ -34510,6 +34670,28 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "1SRAEL",
+          "url": "https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
     },
     {
       "album": {
@@ -36482,7 +36664,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
@@ -36816,6 +36998,24 @@
       "duration_ms": 114503,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/5kpnRQwXCNSpQTa91tO0Ql"
+    },
+    {
+      "album": {
+        "name": "Slow Low",
+        "url": "https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184364,
+      "name": "Slow Low",
+      "url": "https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO"
     },
     {
       "album": {
@@ -40958,7 +41158,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 227633,
       "name": "THE FORMULA",
       "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
@@ -44338,6 +44538,24 @@
       "duration_ms": 116162,
       "name": "Watch Your Man (feat. Marshmello)",
       "url": "https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

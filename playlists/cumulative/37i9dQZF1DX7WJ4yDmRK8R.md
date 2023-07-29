@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-246 songs - 12 hr 59 min
+247 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [Confession Obsession](https://open.spotify.com/track/36Z7sgxX5uPII38f21gwya) | [Kill Lincoln](https://open.spotify.com/artist/6vw3QQUYW5TSxqsEvI28W6) | [Confession Obsession](https://open.spotify.com/album/2MeBP6wdOKSGfJdHV2brdc) | 2:25 | 2021-09-02 | 2022-07-08 |
 | [Crocodile](https://open.spotify.com/track/4eEK1bzaARHBik8zQbtLv4) | [Arrows to Fire](https://open.spotify.com/artist/4br1yh8u3jTsvKkeSESW5M) | [Crocodile](https://open.spotify.com/album/5mxNNvbl6SKNHbLXr5FFwU) | 2:38 | 2022-04-14 | 2022-04-19 |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/6bcnIiOiDS3YxgqV93bXjY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/0yTSmlPjXIW5CsOFaqJT8r) | 2:43 | 2021-09-02 | 2022-07-24 |
-| [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 |  |
+| [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 | 2023-07-29 |
 | [Detonate](https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM) | [Joystick!](https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF) | [I Can't Take It Anymore](https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w) | 1:19 | 2021-09-02 | 2022-07-09 |
 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 | 2021-09-02 |  |
+| [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-07-28 |  |
 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 | 2021-09-02 | 2022-12-10 |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2022-12-09 |  |
 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 | 2021-09-02 | 2023-04-23 |

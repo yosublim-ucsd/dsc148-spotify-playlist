@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Ncis: The Official Tv Soundtrack - Vol. 2",
+        "url": "https://open.spotify.com/album/576fyLLci8j617RWwYX54O"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83280,
+      "name": "The Elements",
+      "url": "https://open.spotify.com/track/1O7jntBJTdX7HPoZOwjmaS"
+    },
+    {
+      "album": {
         "name": "More Of Tom Lehrer",
         "url": "https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 86453,
       "name": "The Elements (Music By Sir Arthur Sullivan)",
       "url": "https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ"

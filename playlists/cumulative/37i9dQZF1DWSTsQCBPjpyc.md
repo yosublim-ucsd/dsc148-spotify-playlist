@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-79 songs - 5 hr 26 min
+80 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 | 2021-12-10 |  |
 | [Leave Me Alone](https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Leave Me Alone](https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB) | 4:38 | 2021-12-10 | 2022-07-29 |
 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 | 2020-12-01 |  |
+| [Love Is a Simple Thing](https://open.spotify.com/track/3c7uIxCmV1OTcSCNwSJOaT) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T) | [Love Is a Simple Thing](https://open.spotify.com/album/43IcXDQeid37UJyedcReq8) | 4:09 | 2023-07-28 |  |
 | [Lover's Plea](https://open.spotify.com/track/6zG4wQZTNFrYJ1XXjzc5M8) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Lover's Plea](https://open.spotify.com/album/5ltNYfYnEzOq2z7a1Ctcd1) | 3:27 | 2020-12-01 |  |
 | [Lover's Plea](https://open.spotify.com/track/0v2dnxnmHxKy8HGrKuLCes) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Lover's Plea](https://open.spotify.com/album/1eyGJC7Mk4pLwKD6LsK4ce) | 3:29 | 2020-12-01 | 2022-07-29 |
 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 | 2020-12-01 |  |

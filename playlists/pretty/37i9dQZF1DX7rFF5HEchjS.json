@@ -1,12 +1,12 @@
 {
   "description": "and so the lion fell in love with the lamb. ",
-  "num_followers": 75802,
+  "num_followers": 76191,
   "original_name": "twilight vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTg5NzNjMGIzMmNlMDcyMjVlOWM1MTliYWI3ZDczYTg4N2ViYWEy",
+  "snapshot_id": "MCw2NGEzNzc4MjI5OWQyNWZjYzNmZTY3OTRhMmMwZTcxZWYxZGEwZTJl",
   "tracks": [
     {
       "added_at": "2023-01-12 18:54:54",
@@ -155,6 +155,26 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {
       "added_at": "2023-01-12 18:54:54",
@@ -803,22 +823,6 @@
       "duration_ms": 221533,
       "name": "This Night Has Opened My Eyes - 2011 Remaster",
       "url": "https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD"
-    },
-    {
-      "added_at": "2023-01-12 18:54:54",
-      "album": {
-        "name": "Damsel (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4U4S2ffQIxLyDOkjgMeSbZ"
-      },
-      "artists": [
-        {
-          "name": "Robert Pattinson",
-          "url": "https://open.spotify.com/artist/75KTAav1WR1jVujozDcu9l"
-        }
-      ],
-      "duration_ms": 131508,
-      "name": "Honeybun",
-      "url": "https://open.spotify.com/track/5iSvrakT6yy7oUrCtTJCsZ"
     }
   ],
   "unique_name": "twilight vibes",

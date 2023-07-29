@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 474389,
+  "num_followers": 474566,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
+  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 221413,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Black Pistol Fire",
         "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 161053,
       "name": "Suffocation Blues",
       "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Skinny",
-        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "Skinny",
-      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 234466,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 248132,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 179447,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "In The Wild (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 248132,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu"
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Double Life",
-        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 143712,
-      "name": "Double Life",
-      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 324786,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
         }
       ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "ROCKISDEAD",
-        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Dark Nights",
-      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 215093,
       "name": "I Can't Hear You",
       "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 246932,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "LUCKY PENNY",
         "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "S.I.D.E.S.",
-        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+      "duration_ms": 246932,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 187390,
       "name": "Cross The Line",
       "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "\"Filthy\"",
-        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "\"Filthy\"",
-      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Young Blood",
         "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176373,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "\"Filthy\"",
+        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "\"Filthy\"",
+      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
     },
     {
       "added_at": "2023-07-07 04:01:00",

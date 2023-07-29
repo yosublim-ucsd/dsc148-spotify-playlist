@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Ali AKA Mind y Proof
 
-74 songs - 4 hr 1 min
+75 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Parranda](https://open.spotify.com/track/503KFr0p94w4WUwjyv2yGT) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Parranda](https://open.spotify.com/album/1pcu6vSGqVUICkF3npodUe) | 1:51 | 2023-05-26 | 2023-07-01 |
 | [Plan A](https://open.spotify.com/track/0MlRfim8Rt55CvDyZ7Cdou) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Plan A](https://open.spotify.com/album/4XdddMcUuv7JoHh8JpIWSA) | 2:34 | 2023-05-26 |  |
 | [QUI$IERA NO $ER A$I](https://open.spotify.com/track/5M1XCJIt5QANojn09f30Gv) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3) | [RINDIENDO CUENTA$$$](https://open.spotify.com/album/2F9pYzjGVHrl6SRPDoBKzC) | 3:49 | 2023-07-14 |  |
+| [Quiero Ser Baladista](https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Quiero Ser Baladista](https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL) | 5:42 | 2023-07-28 |  |
 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 | 2023-05-26 |  |
 | [Redundancia](https://open.spotify.com/track/5i8GlPFnvADXn8Q4UVKd82) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Redundancia](https://open.spotify.com/album/0zz0IURLbLlqT5ktM8OQSY) | 2:06 | 2023-05-26 |  |
 | [Rostros](https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Rostros](https://open.spotify.com/album/1lhMLJ6dQ8mvdT0bT7ZG3i) | 4:35 | 2023-05-26 |  |

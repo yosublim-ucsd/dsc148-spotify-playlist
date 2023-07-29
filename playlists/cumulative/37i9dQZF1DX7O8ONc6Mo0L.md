@@ -2,7 +2,7 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: Israel Salazar
+> Relaxe com hinos acústicos\. Foto: Maria Marçal
 
 122 songs - 9 hr 0 min
 

@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+    },
+    {
+      "album": {
         "name": "Big Business",
         "url": "https://open.spotify.com/album/0A5jkPBv9CHh422XJJQVGi"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126720,
       "name": "Bumper Heavy",
       "url": "https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq"
@@ -3237,6 +3255,32 @@
     },
     {
       "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199313,
+      "name": "Falling Up (with Pharrell Williams & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
       },
@@ -4216,7 +4260,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 230437,
       "name": "Hard Fete",
       "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
@@ -4994,7 +5038,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129557,
       "name": "Jiggaban",
       "url": "https://open.spotify.com/track/5x39zjb5i0h8IeG39Yi00U"
@@ -6693,6 +6737,24 @@
     },
     {
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
       },
@@ -7262,7 +7324,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168610,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
@@ -8586,7 +8648,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
@@ -8688,6 +8750,24 @@
       "duration_ms": 156998,
       "name": "Rihanna (Umbrella)",
       "url": "https://open.spotify.com/track/1oQLS1Guu4Vb1NstarqeEc"
+    },
+    {
+      "album": {
+        "name": "Ring-a-Ling",
+        "url": "https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Ring-a-Ling",
+      "url": "https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns"
     },
     {
       "album": {
@@ -9314,7 +9394,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139377,
       "name": "Shu-Peru",
       "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
@@ -10043,6 +10123,24 @@
     },
     {
       "album": {
+        "name": "Summa Hot",
+        "url": "https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136736,
+      "name": "Summa Hot",
+      "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
+    },
+    {
+      "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
         "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
@@ -10598,6 +10696,28 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "That Thang (feat. Jada Kingdom)",
+      "url": "https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30724,
+  "num_followers": 30736,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzA5NDI4ZGQxNDQ3OWY4ZDU3ZTg2ZWFjODNmZGM0NGNkM2FhNTAz",
+  "snapshot_id": "MCwwYzQwNDQ0ZGFkZjU5Yjk0OTkyZDlmOGE5NDkyNWFiMDFjYmVhYjQz",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Vo!!",
-        "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        }
-      ],
-      "duration_ms": 353520,
-      "name": "A Night in Tunisia",
-      "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 104195,
       "name": "Brilliant Corners",
       "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Vo!!",
+        "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        }
+      ],
+      "duration_ms": 353520,
+      "name": "A Night in Tunisia",
+      "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Acto 2",
-        "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
+        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
+        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
       "artists": [
         {
-          "name": "Fabio Cadore",
-          "url": "https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
         }
       ],
-      "duration_ms": 353220,
-      "name": "Mi Elemento",
-      "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+      "duration_ms": 198960,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
-        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
+        "name": "Acto 2",
+        "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
       "artists": [
         {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+          "name": "Fabio Cadore",
+          "url": "https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
+      "duration_ms": 353220,
+      "name": "Mi Elemento",
+      "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 436414,
+      "name": "Kua Nalu",
+      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
-      },
-      "artists": [
-        {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        }
-      ],
-      "duration_ms": 436414,
-      "name": "Kua Nalu",
-      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Danza",
         "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -815,6 +815,30 @@
       "duration_ms": 306999,
       "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
       "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -843,30 +867,6 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
         }
       ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+      "duration_ms": 364453,
+      "name": "Full Glasses",
+      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
       "artists": [
         {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 364453,
-      "name": "Full Glasses",
-      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1203,34 +1219,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
       },
       "artists": [
         {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
         }
       ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
       },
       "artists": [
         {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+        }
+      ],
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "El Drag\u00f3n Blanco",
         "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
       },
@@ -1339,42 +1359,6 @@
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Afropuertas",
-        "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        },
-        {
-          "name": "Carlos Michelini",
-          "url": "https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        },
-        {
-          "name": "Marcelo Mayor",
-          "url": "https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV"
-        },
-        {
-          "name": "Ezequiel \"Chino\" Piazza",
-          "url": "https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6"
-        },
-        {
-          "name": "Beto Merino",
-          "url": "https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT"
-        }
-      ],
-      "duration_ms": 362066,
-      "name": "Do\u00f1a Cha Cha",
-      "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
     }
   ],
   "unique_name": "Jazz Argentino",

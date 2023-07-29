@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,903 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,010 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 53 | [Tycon](https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO) | [Vinu Gaur](https://open.spotify.com/artist/7JWbFnKxCRL2EJOtIPTrXo), [Yudhveer Dagar](https://open.spotify.com/artist/1Wxml6YQ0bNEMbDuTEW5AC) | [Tycon](https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w) | 3:03 |
 | 54 | [Hashtag](https://open.spotify.com/track/24zHwk9jgxzOHnOPuYIqAJ) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Hashtag](https://open.spotify.com/album/3bGxx8NysaqVYt3pR6r7de) | 3:09 |
 
-Snapshot ID: `MCw1MzQxZGU1M2U5OWY2ZjA0MzVlMDYzZjk5NjVlNjAyMzljMmQyYjZk`
+Snapshot ID: `MCwwNzdkNTkxODgyODk0YzZhZGZkNDg0ODg5NjIwNmI1YTZhYTEwYTA1`

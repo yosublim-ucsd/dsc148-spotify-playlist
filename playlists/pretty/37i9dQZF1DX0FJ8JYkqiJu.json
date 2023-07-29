@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 378005,
+  "num_followers": 378088,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODdjM2ViM2YyN2VkNmVlN2ZlMTVjZTc5ZmY3OTE3NjVjZWQ3ZDdm",
+  "snapshot_id": "MCwzOTlmYmY4MjY2MmI2NDc4NjJlMDgxZmI3NzgwYjViYjIwYWI0MDQ4",
   "tracks": [
     {
       "added_at": "2023-07-27 14:55:00",
@@ -28,7 +28,7 @@
       "added_at": "2023-07-27 14:55:00",
       "album": {
         "name": "Under Utopia",
-        "url": "https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9"
+        "url": "https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 206722,
       "name": "Right Here It's Only Love",
-      "url": "https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA"
+      "url": "https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -251,18 +251,22 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         }
       ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
-    },
-    {
-      "added_at": "2023-07-27 14:55:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-07-27 14:55:00",
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-07-27 14:55:00",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-07-27 14:55:00",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-07-27 14:55:00",
-      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-07-27 14:55:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-07-27 14:55:00",
-      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2023-07-27 14:55:00",
+      "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-07-27 14:55:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-27 14:55:00",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
-    },
-    {
-      "added_at": "2023-07-27 14:55:00",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 184906,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2023-07-27 14:55:00",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2023-07-27 14:55:00",

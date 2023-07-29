@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: 落日飛車 Sunset Rollercoaster
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Subsonic Eye
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,438 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,532 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,17 +80,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 70 | [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 |
 | 71 | [Tsuki \- พระจันทร์](https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Tsuki \(พระจันทร์\)](https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x) | 3:36 |
 | 72 | [để quên](https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [để quên](https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2) | 2:50 |
-| 73 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
+| 73 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
 | 74 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 |
-| 75 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
+| 75 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 76 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 77 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
 | 78 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
-| 79 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
-| 80 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
-| 81 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
-| 82 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 83 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 79 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
+| 80 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
+| 81 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 82 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
+| 83 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
 | 84 | [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 |
 | 85 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 |
 | 86 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 93 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 94 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 | 95 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
-| 96 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
-| 97 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 |
-| 98 | [Bon Voyage](https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 2:09 |
+| 96 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 |
+| 97 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
+| 98 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 |
 | 99 | [berkelana dalam ruang dan mimpi](https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [berkelana dalam ruang dan mimpi](https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4) | 2:36 |
-| 100 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 |
+| 100 | [Bon Voyage](https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 2:09 |
 
-Snapshot ID: `MCw5ZjM4YTllOTMxMGYwNTZhMjAxMjI5MTE2ZDJkODNiY2I5ZmY5ZTVk`
+Snapshot ID: `MCxlOTNiYTNkOTIwZTQyMmFmMDY4MWE2ODM3NTM4NzVlYTMzNTdkMGNl`

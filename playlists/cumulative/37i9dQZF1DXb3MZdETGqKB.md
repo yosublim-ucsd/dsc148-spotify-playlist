@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-232 songs - 13 hr 36 min
+233 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 | 2023-04-02 |
 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-31 |  |
 | [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 | 2022-05-20 |  |
-| [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 |  |
+| [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 | 2023-07-29 |
 | [Ten Toes Down](https://open.spotify.com/track/2oqOVs5FVAyMWQhT5Bpdsa) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Ten Toes Down](https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf) | 4:21 | 2021-02-05 | 2022-03-26 |
 | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3DZ5bcFFhOvKMNxR6Pp4vD) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/album/5LMd10PTBVkd9a16l1LDVd) | 2:55 | 2023-02-24 | 2023-03-25 |
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 | 2022-06-19 |
@@ -212,6 +212,7 @@
 | [The Truth](https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG) | [Cory Young](https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg) | [The Truth](https://open.spotify.com/album/3YBphoBChUZZa490iIB62T) | 2:03 | 2022-02-18 |  |
 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 | 2022-05-06 |  |
 | [They Go Low \- Acoustic](https://open.spotify.com/track/5aKArVxYbCjkJrUIHfLKCo) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Grandfather Courage \(Acoustic\)](https://open.spotify.com/album/6sM7djEM6jfXIo1TpDgYZj) | 4:09 | 2023-02-03 | 2023-02-14 |
+| [Throw This Rope](https://open.spotify.com/track/1MbszgW431CEH2bik2ct6J) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Throw This Rope](https://open.spotify.com/album/5JELtrZUiqwmwQd98bJ2vG) | 2:30 | 2023-07-28 |  |
 | [Too Bold \- Diamond Remix \(Radio Edit\)](https://open.spotify.com/track/1y7jhEe6UsTYIFnu3a0Mmu) | [Shingai](https://open.spotify.com/artist/7woNunWFUYvNqvaBxOEGUJ), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Tawiah](https://open.spotify.com/artist/4KGv7zG47u8hMcFGj5xhJV), [Celisse Henderson](https://open.spotify.com/artist/177oBO6n9Xu3vJBRLFgepH), [Ala.Ni](https://open.spotify.com/artist/6ezEFZpvL8TqZrVUAQRov4), [MVM](https://open.spotify.com/artist/4yTMehdrfNS5my16yd2qYr), [Jelly Cleaver](https://open.spotify.com/artist/7brjzhmgOWCGkdEI2AIRzl), [Megan Coleman](https://open.spotify.com/artist/3UwGCYZVzMRKiNQHrtLy8m) | [Too Bold \(Diamond Remix\)](https://open.spotify.com/album/00Y0pCGuMYeO5GudIcBoEv) | 3:31 | 2021-03-12 | 2022-03-26 |
 | [Trudoo](https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Trudoo](https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3) | 3:37 | 2022-04-08 | 2022-06-19 |
 | [Two Plus Two Is Five](https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC) | [Jon Kenzie](https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA) | [Two Plus Two Is Five](https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy) | 2:58 | 2023-03-03 |  |

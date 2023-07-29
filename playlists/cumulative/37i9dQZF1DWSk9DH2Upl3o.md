@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-151 songs - 14 hr 21 min
+152 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [East West \- Tchad Blake Remix](https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H) | [The Third Mind](https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD), [Tchad Blake](https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp) | [East West \(Tchad Blake Remix\)](https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D) | 17:03 | 2023-06-23 |  |
 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 | 2022-06-23 |  |
 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 | 2022-06-23 |  |
-| [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 |  |
+| [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 | 2023-07-29 |
 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 | 2023-04-22 |
 | [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 |  |
@@ -141,6 +141,7 @@
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 |  |
 | [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 | 2023-04-30 |
+| [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 | 2023-07-28 |  |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 | 2023-06-24 |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 | 2023-04-22 |

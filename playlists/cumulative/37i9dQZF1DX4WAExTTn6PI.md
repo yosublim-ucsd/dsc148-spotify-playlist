@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Gabe Lee
 
-179 songs - 10 hr 58 min
+181 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,12 +177,14 @@
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |
 | [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
 | [Varnado](https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Varnado](https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU) | 4:02 | 2023-07-14 |  |
+| [Wagon Girl](https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Wagon Girl](https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS) | 3:10 | 2023-07-28 |  |
 | [Waltz Across Texas](https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 2:47 | 2023-06-23 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 |  |
-| [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 | 2023-06-16 |  |
+| [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 | 2023-06-16 | 2023-07-29 |
 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 | 2022-02-25 |  |
+| [Won't Fence Us In](https://open.spotify.com/track/37y1NnmxdPUm2DbkY77ReI) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Won't Fence Us In](https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ) | 2:34 | 2023-07-28 |  |
 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 | 2023-03-24 |  |
 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-01-28 | 2023-03-25 |
 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 | 2023-04-07 |  |

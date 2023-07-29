@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, Rvfv, AVA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,001 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,019 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 33 | [STILOGRAFICA \(feat\. BRESCO, MarZa, Caesar, Flus Brain & TOLKA\)](https://open.spotify.com/track/47B0T4hAtNvKkH6SzZgSaz) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [FUORI CONTESTO](https://open.spotify.com/album/3X3BkbkM2LWkCS3txlTPh6) | 3:04 |
 | 34 | [POSSESSIVA](https://open.spotify.com/track/4eBr8d1QaWnsiHs9durMSV) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [POSSESSIVA](https://open.spotify.com/album/4ML9hFDI6zrasEmSJX27qE) | 2:59 |
 | 35 | [C VUO](https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [C VUO](https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk) | 2:42 |
-| 36 | [TE PERDON’ ‘O STESS’](https://open.spotify.com/track/36YGPubdyX3Srf35IcT4HM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [TE PERDON’ ‘O STESS’](https://open.spotify.com/album/0Ry89Zc7pl3uJQBIyxLFGZ) | 2:27 |
+| 36 | [TE PERDON' 'O STESS'](https://open.spotify.com/track/1pijftSGopSBglwy3vDyH1) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [TE PERDON' 'O STESS'](https://open.spotify.com/album/1dq2Xe9BvDCHxaLg8nwSzp) | 2:27 |
 | 37 | [Ora Posso \(feat\. O'Tsunami\)](https://open.spotify.com/track/1xYqGA3Bg33YFMPNhrfQBE) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [Ora Posso \(feat\. O'Tsunami\)](https://open.spotify.com/album/5I6fGSoJiSMzYWsdRtAxp6) | 2:29 |
 | 38 | [POTO](https://open.spotify.com/track/52Z2uZEWw75QL8P4BDRinp) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [LYSSAVIRUS](https://open.spotify.com/album/3MV2PMen1RMpu6CIcFHJJc) | 2:22 |
 | 39 | [Pampano \(feat\. Guesan\)](https://open.spotify.com/track/5OEIk9sx6cAam8OXzIbBgm) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F), [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD) | [Pampano \(feat\. Guesan\)](https://open.spotify.com/album/5M5mt8xuU3O2BK9yF5xqYy) | 2:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Mondo](https://open.spotify.com/track/59X6H3MkreCKMEIxxwgkt1) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP) | [Mondo](https://open.spotify.com/album/3h0Dm7yp5T6GEtIrJ2Yebt) | 3:13 |
 | 80 | [DALLA BOCCA DEL LEONE](https://open.spotify.com/track/7pJi1PluxYw3yUdQHI1Kmp) | [A1](https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK) | [DALLA BOCCA DEL LEONE](https://open.spotify.com/album/0OKdhCbU3xKAEM8GhdMh58) | 3:09 |
 
-Snapshot ID: `MCw4YWQ5OWE0ZGU0MjExMmVlOTNkOGJmMzFlYTg1ODUxNTA4ZmU4MmQ3`
+Snapshot ID: `MCxiNGRhODFmNjE5MThiMzg2NTE1NGY3YmIxYjEwZGI5ZjRlNTljMmU4`

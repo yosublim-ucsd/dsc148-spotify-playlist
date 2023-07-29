@@ -4,10 +4,11 @@
 
 > Ist nur einmal im Jahr!
 
-70 songs - 3 hr 33 min
+71 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 |  |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 |  |
 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 |  |
@@ -76,7 +77,7 @@
 | [Vamos a la Playa](https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [Stars](https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO) | 2:59 | 2023-07-14 |  |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 |  |
 | [Wir eskalieren](https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Wir eskalieren](https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA) | 3:36 | 2023-07-14 |  |
-| [You're My Mate](https://open.spotify.com/track/7N0ds009y5ZNY90KGPuegE) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Fredhead](https://open.spotify.com/album/3tusImScmJ0KI6SYJgSbNR) | 3:17 | 2023-07-14 |  |
+| [You're My Mate](https://open.spotify.com/track/7N0ds009y5ZNY90KGPuegE) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Fredhead](https://open.spotify.com/album/3tusImScmJ0KI6SYJgSbNR) | 3:17 | 2023-07-14 | 2023-07-29 |
 | [Zum Greifen nah](https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Zum Greifen nah](https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf) | 2:47 | 2023-07-14 |  |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

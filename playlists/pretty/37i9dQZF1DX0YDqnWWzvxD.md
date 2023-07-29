@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,106 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,171 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [Spacious Offerings](https://open.spotify.com/track/77CbRgJsY87tQWii7V24tG) | [Desert Dwellers](https://open.spotify.com/artist/6EN5zX1Q2W7qcesyatdUfO), [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS) | [Asudha Yoga Dub Grooves](https://open.spotify.com/album/4RYvyhP0UExyak9l2mUcmy) | 5:52 |
 | 100 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 
-Snapshot ID: `MCwzNDk1NjQ3MzJkMzA3NDc3OTg1NWE1ZmJmZjA2YmQ1ZWVlYmUyNTUz`
+Snapshot ID: `MCwxOTg4ZDFiMTU2NGRhYmUyYzRkZDY5MWE3YWY1YzJlYzE5ZTA4NjU3`

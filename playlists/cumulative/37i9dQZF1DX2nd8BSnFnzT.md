@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-355 songs - 19 hr 58 min
+357 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-05-13 | 2023-01-28 |
 | [Antes do Café da Manhã](https://open.spotify.com/track/3GKIFtFwTy0HZZjRXyuzjT) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Antes do Café da Manhã](https://open.spotify.com/album/6PfgLe8cF6aNgMmvGubrqV) | 4:04 | 2023-02-24 |  |
 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 | 2022-04-15 | 2022-08-06 |
+| [Anticorpos](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Anticorpos](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 | 2023-07-28 |  |
 | [Aos Poucos](https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Aos Poucos](https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI) | 3:37 | 2022-11-25 | 2023-04-09 |
 | [Apocalipse Só](https://open.spotify.com/track/3QLs0Z5L9aXhbXAXLn5RUB) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Olho Furta\-Cor](https://open.spotify.com/album/29dpVqKyiV7IHzaBdU2ZhK) | 3:31 | 2022-09-02 | 2022-09-24 |
 | [Aquário](https://open.spotify.com/track/6ZIRB5Ms01u1GiVTZCSrzE) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Aquário](https://open.spotify.com/album/7yxxEZGcOwhbA7UV01x8Nx) | 4:34 | 2022-02-04 | 2022-03-26 |
@@ -48,7 +49,7 @@
 | [Baby Doll](https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [Baby Doll](https://open.spotify.com/album/0FbgpvCJvyBdUWfqVHI4Xf) | 2:48 | 2022-01-14 | 2022-01-22 |
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 | 2022-09-17 | 2022-10-29 |
-| [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 | 2023-04-14 |  |
+| [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 | 2023-04-14 | 2023-07-29 |
 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 | 2022-07-29 |  |
 | [Billy Dog](https://open.spotify.com/track/0igu5G376i4B2QQUSaxmjZ) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Billy Dog](https://open.spotify.com/album/5lYmZUIPKwHfnrsZ9UduIb) | 3:01 | 2022-11-25 | 2023-02-11 |
 | [Blue Gin e os Seres \(De Vidro\)](https://open.spotify.com/track/6vIK7qABdW4JhqWzrFcwG3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Walking Dead Folia \(Sorria Você Teve Alta!\)](https://open.spotify.com/album/2pWSnr9tNXJsdSmVGLGdRe) | 4:39 | 2022-01-21 | 2022-02-05 |
@@ -245,6 +246,7 @@
 | [O Sol da Liberdade](https://open.spotify.com/track/3t2NlLa4WN491vjAxmh5yI) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Sol da Liberdade](https://open.spotify.com/album/022w0C97MryvMRZSlPiP4n) | 4:21 | 2023-04-28 |  |
 | [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 | 2022-06-10 | 2022-06-25 |
 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 | 2023-03-10 |  |
+| [Oq Sou pra Vc?](https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Plástico](https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S) | 2:59 | 2023-07-28 |  |
 | [ousadia](https://open.spotify.com/track/515xHX1Jv1hMDc9XdWp1Hv) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [ousadia](https://open.spotify.com/album/7cvBGkj0PeuIMmJco8zu7J) | 3:09 | 2022-03-11 | 2022-04-02 |
 | [Outono](https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Outono](https://open.spotify.com/album/4cm6Omv3PJEVPQmQmjrNfz) | 4:15 | 2022-01-14 | 2022-11-12 |
 | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/track/0YxoElqRCPLeIzWW34DWA5) | [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3) | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/album/33WgImZgWqrsiMiizY1cJ2) | 2:41 | 2022-02-04 | 2022-07-29 |
@@ -332,7 +334,7 @@
 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 | 2023-07-21 |  |
 | [Todo Dia é Dia de Comemorar \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH) | 3:40 | 2022-02-18 | 2022-05-14 |
 | [Todo Mundo Quer Pirar](https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V) | [Sem Hora NA GO](https://open.spotify.com/artist/1qR9fwjTlE4Sn29AJaLbFZ) | [Todo Mundo Quer Pirar](https://open.spotify.com/album/7nxU4nxZPodejcGUCUsAcd) | 3:12 | 2022-03-18 | 2022-05-20 |
-| [Transa Amarrada](https://open.spotify.com/track/0qUF7pBT4G2KU9OmUgbBWV) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla e os Punks de Boutique](https://open.spotify.com/album/655eN18FDXJhTEghMeVFZP) | 2:30 | 2023-06-30 |  |
+| [Transa Amarrada](https://open.spotify.com/track/0qUF7pBT4G2KU9OmUgbBWV) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla e os Punks de Boutique](https://open.spotify.com/album/655eN18FDXJhTEghMeVFZP) | 2:30 | 2023-06-30 | 2023-07-29 |
 | [Trem](https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Trem](https://open.spotify.com/album/6DUBL8znMB5eXC9NVbZ04t) | 5:10 | 2022-01-14 | 2022-04-23 |
 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 | 2023-07-14 |  |
 | [Troglomitus Broncossaurus](https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ), [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI), [Rodrigo Lima](https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s) | [Troglomitus Broncossaurus](https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL) | 2:58 | 2022-09-17 | 2022-10-08 |

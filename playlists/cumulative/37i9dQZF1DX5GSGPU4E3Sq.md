@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-285 songs - 16 hr 5 min
+287 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2022-06-29 |  |
 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 | 2022-07-19 |  |
 | [Bittern](https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 1:21 | 2022-07-19 | 2022-07-23 |
-| [Bittern](https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 1:21 | 2023-01-13 |  |
+| [Bittern](https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 1:21 | 2023-01-13 | 2023-07-29 |
 | [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 | 2023-01-28 |
 | [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 | 2023-03-09 |  |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2022-07-29 |
@@ -76,7 +76,7 @@
 | [Dazed](https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa) | [Diskret](https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH) | [Dazed](https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO) | 3:30 | 2022-06-29 | 2023-02-18 |
 | [Dazzle Ships](https://open.spotify.com/track/0i6aTPr964TYjgmXzRAdkp) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Dazzle Ships](https://open.spotify.com/album/5VxkdxCc2agKg0kTJZFoQS) | 2:35 | 2022-07-19 | 2022-07-29 |
 | [Dazzle Ships](https://open.spotify.com/track/6XkwLtL1E0lK0ZM134DOnc) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Dazzle Ships](https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ) | 2:35 | 2022-07-19 |  |
-| [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2022-07-19 |  |
+| [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2022-07-19 | 2023-07-29 |
 | [Deep Sea](https://open.spotify.com/track/7uoiqKH36x5Nn2yph78eOz) | [Balearic Sea](https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6) | [Deep Sea](https://open.spotify.com/album/3jNoHVHicdJJo68ACeppgC) | 3:05 | 2022-06-29 |  |
 | [Desert Moon](https://open.spotify.com/track/4QUPASaxoGtDWU1ltT68zZ) | [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [The Sounds of Peaks, Plateaus & Canyons](https://open.spotify.com/album/4VlCyVOH30CSyDEjwggcRs) | 6:18 | 2022-06-29 |  |
 | [Diaphanous Dreamcoats](https://open.spotify.com/track/0gfMlE9godHnSRphmYtg5f) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Diaphanous Dreamcoat](https://open.spotify.com/album/6VDaP5BJ5OjE3T57TIuKHO) | 2:16 | 2022-07-19 | 2022-07-25 |
@@ -136,6 +136,7 @@
 | [Immovable As The Mountain](https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [A True Master](https://open.spotify.com/album/3rkcHBayORKTNjpUyIY0Rw) | 2:08 | 2022-07-19 |  |
 | [In the Landscapes of Baertling](https://open.spotify.com/track/3tbWT2vjQzFRN5j2rOyFae) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [In the Landscapes of Baertling](https://open.spotify.com/album/2e9d8lHyuHjB5tGRn6qjDj) | 3:18 | 2022-07-19 | 2022-07-29 |
 | [In the Landscapes of Baertling](https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [In the Landscapes of Baertling](https://open.spotify.com/album/7q68B1RkYD3MVoGn03pmFB) | 3:18 | 2022-07-19 |  |
+| [In the Soul](https://open.spotify.com/track/2vab5dX4whtnE2W3s6MBMc) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 3:13 | 2023-07-28 |  |
 | [Inner Destination](https://open.spotify.com/track/380cFd0oU93qGwnQRyJtnl) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Inner Destination](https://open.spotify.com/album/6m5laRGGdZqVzlx70ZSjXI) | 3:44 | 2022-07-19 |  |
 | [Interleave](https://open.spotify.com/track/6ZnsxbEa2FgKkEjoRNNlV7) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Interleave](https://open.spotify.com/album/1Om5Rcf3WFuR8oGmKctx9z) | 3:27 | 2022-06-29 | 2023-06-16 |
 | [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2022-06-29 |  |
@@ -218,6 +219,7 @@
 | [Senseful](https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A) | [Eternal Ocean](https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f) | [Miracle](https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS) | 2:53 | 2022-06-29 |  |
 | [Sequel](https://open.spotify.com/track/3SuFqv9coNjBTkRrPLlr2Q) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/0K9TZl9c0ZQuETSELTQvxu) | 3:38 | 2022-09-13 | 2023-03-18 |
 | [Sequel](https://open.spotify.com/track/6jxhYCjs0eeu3lUrkNDvyG) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/4ioPSkVm13kcY5a6ISSYD4) | 3:38 | 2022-06-29 | 2022-07-28 |
+| [Serenity](https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Serenity](https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm) | 3:05 | 2023-07-28 |  |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-06-29 |  |
 | [Shimmer](https://open.spotify.com/track/6LiWx65mI4iqEFGc3uy5c0) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/5lQhD4YmcY2xKifPFzSilr) | 2:09 | 2022-06-29 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv) | 2:09 | 2022-07-19 |  |
@@ -250,7 +252,7 @@
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [Stillsamhet](https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:27 | 2023-02-25 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
-| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2023-07-26 |
+| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 |  |
 | [Summit](https://open.spotify.com/track/4kFccgoog68IEf6dS2VMqA) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Summit](https://open.spotify.com/album/4kpcfT6kxbHwfsE8PQHgrl) | 2:48 | 2023-05-19 |  |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |
 | [Sunrise.](https://open.spotify.com/track/6kv7h8wQzFq9gJDkR8AR24) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/26vgL2Xkr7FyYAe57aCWR4) | 2:58 | 2022-06-29 | 2022-07-29 |
@@ -278,7 +280,7 @@
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq) | 2:21 | 2022-07-19 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-21 |  |
-| [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 |  |
+| [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 | 2023-07-29 |
 | [Tronco](https://open.spotify.com/track/36LHOPIIkvB3Erf9mofRHr) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/0h3wrye3q4pHAkQXkPW1rJ) | 1:07 | 2022-06-29 | 2022-07-28 |
 | [Vendrán Lluvias Suaves](https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B) | [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [The Order Of Change](https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ) | 4:04 | 2022-06-29 | 2023-04-19 |
 | [Warm Summer Rain](https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Warm Summer Rain](https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH) | 3:31 | 2022-06-29 |  |

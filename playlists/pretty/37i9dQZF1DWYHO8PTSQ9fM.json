@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 317744,
+  "num_followers": 318324,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY3ZGFlMDgzMTA3MWFkZThmZGQ3NzRlM2VjMTFlZjgyNjc0Nzcw",
+  "snapshot_id": "MCw2MTBkNDM3MDM2YjA0NDhjOWE1YzA0NzYyNzlhNGVkMDcwNjE1NzFm",
   "tracks": [
     {
       "added_at": "2023-07-27 09:57:31",
@@ -307,18 +307,38 @@
     {
       "added_at": "2023-07-27 09:57:31",
       "album": {
-        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
-        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
       "artists": [
         {
-          "name": "Cravata",
-          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 201600,
-      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
-      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2023-07-27 09:57:31",
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 148062,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
       "added_at": "2023-07-27 09:57:31",
@@ -343,18 +363,18 @@
     {
       "added_at": "2023-07-27 09:57:31",
       "album": {
-        "name": "Dawk Lya",
-        "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
+        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
+        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
       },
       "artists": [
         {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
         }
       ],
-      "duration_ms": 148062,
-      "name": "Dawk Lya",
-      "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+      "duration_ms": 201600,
+      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
+      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
     },
     {
       "added_at": "2023-07-27 09:57:31",
@@ -375,22 +395,42 @@
     {
       "added_at": "2023-07-27 09:57:31",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "added_at": "2023-07-27 09:57:31",
+      "album": {
+        "name": "Arabesque Vol. 3",
+        "url": "https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "duration_ms": 166154,
+      "name": "Diali",
+      "url": "https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m"
     },
     {
       "added_at": "2023-07-27 09:57:31",
@@ -479,62 +519,6 @@
     {
       "added_at": "2023-07-27 09:57:31",
       "album": {
-        "name": "Ghazali (feat. Bryan Mg)",
-        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Ghazali (feat. Bryan Mg)",
-      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
-    },
-    {
-      "added_at": "2023-07-27 09:57:31",
-      "album": {
-        "name": "D\u017eanum",
-        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
-      },
-      "artists": [
-        {
-          "name": "Teya Dora",
-          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "D\u017eanum",
-      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
-    },
-    {
-      "added_at": "2023-07-27 09:57:31",
-      "album": {
-        "name": "Arabesque Vol. 3",
-        "url": "https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX"
-      },
-      "artists": [
-        {
-          "name": "Nassi",
-          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
-        },
-        {
-          "name": "Tawsen",
-          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
-        }
-      ],
-      "duration_ms": 166154,
-      "name": "Diali",
-      "url": "https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m"
-    },
-    {
-      "added_at": "2023-07-27 09:57:31",
-      "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "added_at": "2023-07-27 09:57:31",
+      "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
     },
     {
       "added_at": "2023-07-27 09:57:31",

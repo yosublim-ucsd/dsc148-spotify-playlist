@@ -1455,6 +1455,32 @@
     },
     {
       "album": {
+        "name": "Ent\u00e3o Desce",
+        "url": "https://open.spotify.com/album/5y4p9HJ8UghXvk3nQpYTTP"
+      },
+      "artists": [
+        {
+          "name": "J a u m",
+          "url": "https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Abakio",
+          "url": "https://open.spotify.com/artist/2MGMAE8ZUNgqJmR1d4wOft"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157218,
+      "name": "Ent\u00e3o Desce",
+      "url": "https://open.spotify.com/track/6ezd5rDZS43LljKJITbdkj"
+    },
+    {
+      "album": {
         "name": "Equa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
       },
@@ -3917,6 +3943,28 @@
     },
     {
       "album": {
+        "name": "Preta",
+        "url": "https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Martins",
+          "url": "https://open.spotify.com/artist/5lcYXhAfA5WoaCtUXIzwNb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210569,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/57w75cw5ROGxHeDmZ9S0mS"
+    },
+    {
+      "album": {
         "name": "Probleminha Di\u00e1rio (Papasessions #7)",
         "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
       },
@@ -4989,7 +5037,7 @@
         },
         {
           "name": "Victor Sabri",
-          "url": "https://open.spotify.com/artist/65BNPzH3ox6GJkSImgR59E"
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
         }
       ],
       "date_added": "2023-06-16",

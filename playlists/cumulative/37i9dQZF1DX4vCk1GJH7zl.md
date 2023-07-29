@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bloc Party
 
-75 songs - 4 hr 31 min
+76 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I Can't Live Without Your Love](https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig) | [Dan Torres](https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd) | [I Can't Live Without Your Love](https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B) | 3:34 | 2023-07-21 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-07-21 |  |
 | [Jogados na Areia](https://open.spotify.com/track/3rdcayLAinZ31kWyREpWwJ) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Jogados na Areia](https://open.spotify.com/album/62Zg61iFQXcItuCuSYdTlH) | 3:12 | 2023-07-21 |  |
-| [Lanterna Dos Afogados](https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [No Trabalho](https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM) | 3:09 | 2023-07-21 |  |
+| [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 | 2023-07-21 |  |
+| [Lanterna Dos Afogados](https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [No Trabalho](https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM) | 3:09 | 2023-07-21 | 2023-07-29 |
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2023-07-21 |  |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2023-07-21 |  |
 | [Lá Fora](https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ) | [Rafa Valle](https://open.spotify.com/artist/0OcnZHMbddFEVbOxNPG5l2) | [Lá Fora](https://open.spotify.com/album/6sSnpqf9EEo1Nz0yBwvzjx) | 3:22 | 2023-07-21 |  |

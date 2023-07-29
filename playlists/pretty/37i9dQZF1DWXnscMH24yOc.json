@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 438425,
+  "num_followers": 438511,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGU0NTg0NDMzM2E1YTAwY2I2NGY0NjgwODQ5MzAwMmMwNDRjMjFj",
+  "snapshot_id": "MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183333,
       "name": "What Would You Do",
       "url": "https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I'll Stand by You",
-        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
-      },
-      "artists": [
-        {
-          "name": "Jake Wesley Rogers",
-          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I'll Stand by You",
+        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 179386,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 227276,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Whatever You Like [Digital 45]",
         "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Bang Bang (My Baby Shot Me Down)",
         "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2022-03-22 14:40:29",

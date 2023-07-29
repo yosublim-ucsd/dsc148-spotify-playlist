@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-175 songs - 8 hr 29 min
+176 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Whose Like Me?](https://open.spotify.com/track/5lll5binzbUZayl3Mejxah) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Whose Like Me?](https://open.spotify.com/album/09kYxPLZNnPt0NUWDXEl0C) | 2:41 | 2023-07-20 |  |
 | [Winnipeg](https://open.spotify.com/track/0bErpkWdMqlXPJZfTEdbE9) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Winnipeg](https://open.spotify.com/album/3M42ugNB65SAMYKZRJ0F2F) | 3:23 | 2023-04-26 | 2023-05-06 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-03-29 | 2023-07-15 |
+| [You Talking To Me?](https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [You Talking To Me?](https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58) | 2:20 | 2023-07-28 |  |
 | [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-29 | 2023-04-09 |
 | [Zehr Lagde](https://open.spotify.com/track/0WpAe6J79iViy1egcw2CyR) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Zehr Lagde](https://open.spotify.com/album/0thYIbzcXoqiJWGxuZyuPb) | 4:22 | 2023-03-29 | 2023-07-15 |
 

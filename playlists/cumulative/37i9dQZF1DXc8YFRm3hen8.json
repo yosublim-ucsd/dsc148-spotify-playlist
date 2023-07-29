@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
@@ -570,6 +592,24 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182599,
+      "name": "Claro Ma",
+      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
     },
     {
       "album": {
@@ -1753,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145530,
+      "name": "Junto Boludeces",
+      "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
+    },
+    {
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -2638,7 +2696,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209893,
       "name": "Mi Caramelo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
@@ -3351,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Preso en un Comp\u00e1s",
+        "url": "https://open.spotify.com/album/68Bfxww4zT5h3cwPSmuxKr"
+      },
+      "artists": [
+        {
+          "name": "REOT",
+          "url": "https://open.spotify.com/artist/4g6UBfhSci5JLutunDJUl4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189092,
+      "name": "Preso en un Comp\u00e1s",
+      "url": "https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc"
+    },
+    {
+      "album": {
         "name": "Rocanroles Sin Destino",
         "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
@@ -3680,7 +3756,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
@@ -3792,7 +3868,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182217,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
@@ -4520,7 +4596,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"

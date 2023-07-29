@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "This is what folk sounds like en espa\u00f1ol. Cover: SNENiE",
+  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Caloncho",
   "name": "Latin Folk",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 279333,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
@@ -88,10 +88,46 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 235531,
       "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
       "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Todav\u00eda",
+        "url": "https://open.spotify.com/album/3nJWIVCpCrQ1f44DkEjwe8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Aqu\u00ed Todav\u00eda",
+      "url": "https://open.spotify.com/track/2EQ8d3y7aJVWf1EFv8eUcl"
     },
     {
       "album": {
@@ -204,7 +240,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
@@ -244,7 +280,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
@@ -316,7 +352,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
@@ -403,6 +439,24 @@
     },
     {
       "album": {
+        "name": "El Faro",
+        "url": "https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "El Faro",
+      "url": "https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od"
+    },
+    {
+      "album": {
         "name": "Desaparezca Aqu\u00ed",
         "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
       },
@@ -432,7 +486,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
@@ -468,10 +522,50 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 215791,
       "name": "Entre Los Dos",
       "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+    },
+    {
+      "album": {
+        "name": "Estrellas En El Mar",
+        "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Estrellas En El Mar",
+      "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
+      },
+      "artists": [
+        {
+          "name": "Ayzak Ewan",
+          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231878,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
     },
     {
       "album": {
@@ -743,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Me Empiezo a Enamorar",
+        "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202090,
+      "name": "Me Empiezo a Enamorar",
+      "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
+    },
+    {
+      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
       },
@@ -772,7 +884,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 229524,
       "name": "Mi otra mitad",
       "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
@@ -826,10 +938,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "album": {
@@ -862,7 +996,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 190312,
       "name": "Norte",
       "url": "https://open.spotify.com/track/1oro7qxc5WjpcOGhaE0yA3"
@@ -880,7 +1014,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
@@ -974,7 +1108,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Perd\u00ed",
       "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
@@ -1089,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Uno De Nosotros",
+        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
+    },
+    {
+      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -1118,7 +1270,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 201861,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
@@ -1248,7 +1400,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
@@ -1306,7 +1458,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
@@ -1328,6 +1480,24 @@
       "duration_ms": 217609,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX18t8d8JUxUC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop Cover: Nessa Barrett",
+  "description": "next gen pop Cover: Olivia Rodrigo",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -3490,6 +3490,24 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "album": {
@@ -14259,6 +14277,24 @@
     },
     {
       "album": {
+        "name": "The Ride: Part 1",
+        "url": "https://open.spotify.com/album/3lNfx7ftaV1O1OOQbmhYOZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "July",
+      "url": "https://open.spotify.com/track/182uGchKGo895i2gKMuxTu"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE"
       },
@@ -15764,6 +15800,24 @@
       "duration_ms": 151800,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5lihA9sAWJeBFLbbHjEYWV"
+    },
+    {
+      "album": {
+        "name": "Lonely & Horny",
+        "url": "https://open.spotify.com/album/3tpzGkK9rD0k3o9VPSYWIf"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193459,
+      "name": "Lonely & Horny",
+      "url": "https://open.spotify.com/track/15NiYgz7uwQZaiPrHLNVG5"
     },
     {
       "album": {
@@ -23479,6 +23533,24 @@
     },
     {
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168714,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS"
+    },
+    {
+      "album": {
         "name": "space girl (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/2NoIqUCasIQfkQOTUPiJtt"
       },
@@ -25680,7 +25752,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193866,
       "name": "The In Between",
       "url": "https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO"
@@ -26664,6 +26736,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "trigger warning",
+        "url": "https://open.spotify.com/album/5V3eGHKTjsDoYz9582coiK"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167385,
+      "name": "trigger warning",
+      "url": "https://open.spotify.com/track/6v72z6eFessDmcm3a2ZgPk"
     },
     {
       "album": {
@@ -27666,7 +27756,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 140826,
       "name": "Walls (with Claire Rosinkranz)",
       "url": "https://open.spotify.com/track/33xA8M79Zulen0Ms3ljqp5"

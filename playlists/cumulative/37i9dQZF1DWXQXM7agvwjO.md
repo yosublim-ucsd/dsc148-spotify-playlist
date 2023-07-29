@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: 落日飛車 Sunset Rollercoaster
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Subsonic Eye
 
 897 songs - 2 day 5 hr 48 min
 

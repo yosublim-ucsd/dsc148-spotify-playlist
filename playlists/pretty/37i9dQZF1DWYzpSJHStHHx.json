@@ -1,12 +1,12 @@
 {
   "description": "All new surf rock.",
-  "num_followers": 490766,
+  "num_followers": 490739,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGQ1NGM4ZDZhZGE3NzZmMGQ4ODkxNTRlYmE1MWIzNzZhNDAzZGU5",
+  "snapshot_id": "MCxjMmU2NjAwY2Y4YTdjNDk4OTBjZjdkYmRlNWE0NGNiMTQ0MzBmYzgy",
   "tracks": [
     {
       "added_at": "2023-07-13 19:28:41",
@@ -23,6 +23,38 @@
       "duration_ms": 204342,
       "name": "Recycle",
       "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+    },
+    {
+      "added_at": "2023-07-13 19:28:41",
+      "album": {
+        "name": "Santino Surfers",
+        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
+      },
+      "artists": [
+        {
+          "name": "Santino Surfers",
+          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
+        }
+      ],
+      "duration_ms": 377556,
+      "name": "Sun Rise Swell",
+      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "added_at": "2023-07-13 19:28:41",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+    },
+    {
       "added_at": "2023-07-13 19:28:41",
       "album": {
         "name": "Love Sick",
@@ -71,6 +119,22 @@
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2023-07-13 19:28:41",
@@ -103,6 +167,22 @@
       "duration_ms": 217413,
       "name": "Naga Damai",
       "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-07-13 19:28:41",
@@ -153,6 +233,30 @@
       "url": "https://open.spotify.com/track/3mWdEEm8cwipwYgLBy4dHO"
     },
     {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
+        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
+      },
+      "artists": [
+        {
+          "name": "Mac Krol",
+          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
+        },
+        {
+          "name": "Mike Krol",
+          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
+        },
+        {
+          "name": "Mac McCaughan",
+          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fair Warning",
+      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
+    },
+    {
       "added_at": "2023-07-13 19:28:41",
       "album": {
         "name": "(The Ballad of) Buddy Kid",
@@ -167,38 +271,6 @@
       "duration_ms": 239066,
       "name": "(The Ballad of) Buddy Kid",
       "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
-        "name": "\u00c1rboles de la Barranca",
-        "url": "https://open.spotify.com/album/2Lunv26lK5s1z6S6wfyU4b"
-      },
-      "artists": [
-        {
-          "name": "Globos Tristes",
-          "url": "https://open.spotify.com/artist/11qWSq91SH7fC2L6CfOG01"
-        }
-      ],
-      "duration_ms": 193254,
-      "name": "\u00c1rboles de la Barranca",
-      "url": "https://open.spotify.com/track/1e1BPcImb3JXuFQQsLLzxi"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
-        "name": "Santino Surfers",
-        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
-      },
-      "artists": [
-        {
-          "name": "Santino Surfers",
-          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
-        }
-      ],
-      "duration_ms": 377556,
-      "name": "Sun Rise Swell",
-      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
     },
     {
       "added_at": "2023-07-13 19:28:41",
@@ -263,6 +335,22 @@
       "duration_ms": 197523,
       "name": "Ainda Est\u00e1 No Ar",
       "url": "https://open.spotify.com/track/5f8QJkqmKJUiOA31G1oNEB"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+      },
+      "artists": [
+        {
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+        }
+      ],
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
       "added_at": "2023-07-13 19:28:41",
@@ -559,38 +647,6 @@
     {
       "added_at": "2023-07-13 19:28:41",
       "album": {
-        "name": "Belly Flop",
-        "url": "https://open.spotify.com/album/35hSLwMNQYLaGqR1RoTh1C"
-      },
-      "artists": [
-        {
-          "name": "Swimwear Department",
-          "url": "https://open.spotify.com/artist/3azMQJObOMUPUEDBX8cyVD"
-        }
-      ],
-      "duration_ms": 142342,
-      "name": "Belly Flop",
-      "url": "https://open.spotify.com/track/2jYCOrVA4h3dtFDKsDj1Vc"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
-        "name": "LIP BOMB",
-        "url": "https://open.spotify.com/album/0A7BHjbjqOCRojpJRlCFUX"
-      },
-      "artists": [
-        {
-          "name": "Lloyd's Money",
-          "url": "https://open.spotify.com/artist/7EGrNOOlqwaxnO1NEkJuRa"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "LIP BOMB",
-      "url": "https://open.spotify.com/track/6tRXA3zKmqHHNFPpjtnbtX"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
         "name": "Wrong Orange County",
         "url": "https://open.spotify.com/album/6YK5cxmblsgGpN94WDLKm5"
       },
@@ -735,22 +791,6 @@
     {
       "added_at": "2023-07-13 19:28:41",
       "album": {
-        "name": "AUTOMATED",
-        "url": "https://open.spotify.com/album/79o5YYulpzEe2rOdxYtzQP"
-      },
-      "artists": [
-        {
-          "name": "Duckblockers",
-          "url": "https://open.spotify.com/artist/32ddgCA0JOyQIpq42h4tYP"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "AUTOMATED",
-      "url": "https://open.spotify.com/track/2TW2kFAAMpeOAIz0IrTurd"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
         "name": "El Pollo Loco",
         "url": "https://open.spotify.com/album/2HhlSKDNrG0mtp3HN1p9UW"
       },
@@ -779,38 +819,6 @@
       "duration_ms": 160375,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
-        "name": "Lonely Edinburgh",
-        "url": "https://open.spotify.com/album/7532lQ3Vsz1EeMW5cSnizc"
-      },
-      "artists": [
-        {
-          "name": "Gamma Ray",
-          "url": "https://open.spotify.com/artist/2CdMQ0UoytYQZtNqiwlJRD"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Lonely Edinburgh",
-      "url": "https://open.spotify.com/track/5mFwUCoZyiQ1qHvtIwfPwX"
-    },
-    {
-      "added_at": "2023-07-13 19:28:41",
-      "album": {
-        "name": "Bread For Your Broth",
-        "url": "https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak"
-      },
-      "artists": [
-        {
-          "name": "Ben Cook",
-          "url": "https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV"
-        }
-      ],
-      "duration_ms": 186544,
-      "name": "...Anyway",
-      "url": "https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

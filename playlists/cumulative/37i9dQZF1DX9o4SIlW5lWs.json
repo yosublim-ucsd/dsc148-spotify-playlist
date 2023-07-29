@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Como Le Digo",
+        "url": "https://open.spotify.com/album/4pfSy7j1TkILRBw1ENpeYp"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Como Le Digo",
+      "url": "https://open.spotify.com/track/3PmZrwXhZBSddyZDuquxl0"
+    },
+    {
+      "album": {
         "name": "Contrapunto Sesi\u00f3n #1 (En Vivo)",
         "url": "https://open.spotify.com/album/6EXf0KuiWcJNUZQroDjcYB"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197474,
       "name": "En Una de Esas",
       "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166797,
       "name": "No Te Voy a Perdonar",
       "url": "https://open.spotify.com/track/0QyGJpwW61fesHxFFv2zBr"
@@ -4202,6 +4220,24 @@
       "duration_ms": 219093,
       "name": "Quitame Ese Hombre",
       "url": "https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
     },
     {
       "album": {

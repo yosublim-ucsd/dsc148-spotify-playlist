@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
+  "description": "como en una nube. Bedroom pop vibes featuring L'Imperatrice & Cuco.",
   "name": "\u2728 dreamy \u2728",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 255000,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
+    },
+    {
+      "album": {
+        "name": "Antena",
+        "url": "https://open.spotify.com/album/2OlsEM2Gqfj9K0gEhEuhuB"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172655,
+      "name": "Antena",
+      "url": "https://open.spotify.com/track/7xK9SJKjRWKcUPjlWTkAWl"
     },
     {
       "album": {
@@ -1955,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "FXNGXR",
+        "url": "https://open.spotify.com/album/7kTQ92tSlXOrEsffKLmX9P"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171689,
+      "name": "FXNGXR",
+      "url": "https://open.spotify.com/track/4muxcrszgWJZZJBaqqq8mc"
+    },
+    {
+      "album": {
         "name": "g i r l s",
         "url": "https://open.spotify.com/album/5mfagHBRLjTC6L5mz1aB9B"
       },
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144170,
       "name": "galleta de la suerte",
       "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
@@ -2176,6 +2212,28 @@
       "duration_ms": 240682,
       "name": "Heartbeats - Live",
       "url": "https://open.spotify.com/track/1363UI5rmosAWo73aLY2bl"
+    },
+    {
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "album": {
@@ -2842,7 +2900,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155533,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
@@ -3208,7 +3266,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 148607,
       "name": "No Quiero Ser Tu Amiga",
       "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
@@ -4231,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R"
+    },
+    {
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -4558,7 +4634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192000,
       "name": "TODO LO QUE SIENTO",
       "url": "https://open.spotify.com/track/69Vd4QzGVEP9r3ayG346cn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,647 likes - 124 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,809 likes - 124 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 91 | [たんぽぽ\(さらにいくつものversion\)](https://open.spotify.com/track/0aNksFQU8gnbmpxs8MhZJS) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 5:08 |
 | 92 | [悲しくてやりきれない](https://open.spotify.com/track/5VO9PtiWH5KgldpYrQWwIx) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:58 |
 | 93 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 |
-| 94 | [History Maker](https://open.spotify.com/track/3QjIdDDKoZRyfWDKZC4Ayb) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/2kJJe8xSLSgh5i61Ra5MQE) | 3:10 |
+| 94 | [History Maker](https://open.spotify.com/track/6XUQElkODYTnMXjmUDD0G6) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Stars of the Lid](https://open.spotify.com/album/4KsWTElvGlR40InOGT9QrG) | 3:13 |
 | 95 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 |
 | 96 | [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 |
 | 97 | [Days](https://open.spotify.com/track/1MjjER946kNwgvM1zSJYrb) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [Seinen no Syuchou](https://open.spotify.com/album/63IbVHIvYW0YpyadETb95a) | 3:09 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 123 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 124 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
 
-Snapshot ID: `MCxkNmRiOGM1MjQ2MjFmMThiYTkyY2MyM2FlODk3Mjg4YjgzOWZlNjY4`
+Snapshot ID: `MCwwNjQ0OTRlNGIwODc4NzE2YWE1MzBmNjBiNjJkNjE2MzQwYzRiZjk4`

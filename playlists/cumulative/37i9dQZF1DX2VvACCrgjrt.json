@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Bad Ideas",
+        "url": "https://open.spotify.com/album/0734OZBYsKOcfj9cod4dNq"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        },
+        {
+          "name": "Hadar Adora",
+          "url": "https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207763,
+      "name": "Bad Ideas",
+      "url": "https://open.spotify.com/track/6JldodvJhq2bQYeY1cAktQ"
+    },
+    {
+      "album": {
         "name": "Bad Things",
         "url": "https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz"
       },
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 115000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z"

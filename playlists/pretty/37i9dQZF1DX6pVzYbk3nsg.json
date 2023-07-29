@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2121,
+  "num_followers": 2129,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3",
+  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
-      },
-      "artists": [
-        {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
-        }
-      ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 194760,
       "name": "Palo'e bandera",
       "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+      },
+      "artists": [
+        {
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+        }
+      ],
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+      },
+      "artists": [
+        {
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+        }
+      ],
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Para Todos Ustedes",
         "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 383000,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
-      },
-      "artists": [
-        {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
-        }
-      ],
-      "duration_ms": 261386,
-      "name": "Preparate Reparada (Guembe) [Live]",
-      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
-      },
-      "artists": [
-        {
-          "name": "Plena Adentro",
-          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Timba Timbo",
-      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
         "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 223293,
       "name": "Plena De San Anton",
       "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+      },
+      "artists": [
+        {
+          "name": "Plena Adentro",
+          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Timba Timbo",
+      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
     },
     {
       "added_at": "2023-06-13 22:15:19",

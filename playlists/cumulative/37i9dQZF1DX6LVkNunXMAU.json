@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Miau Tr\u00edo.",
+  "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Francisca Valenzuela & Ximena Sari\u00f1ana.",
   "name": "mandarina",
   "tracks": [
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207872,
+      "name": "19",
+      "url": "https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u"
+    },
     {
       "album": {
         "name": "2:42",
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Amar al Mar",
+        "url": "https://open.spotify.com/album/3erEYkSwOCffOXdwnaCmR8"
+      },
+      "artists": [
+        {
+          "name": "Leil\u00e9n",
+          "url": "https://open.spotify.com/artist/5ee7mOQEjMoEZyLVXrm3QG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245673,
+      "name": "Amar al Mar",
+      "url": "https://open.spotify.com/track/1ljAkjjUioQUcLzPrIoFw3"
+    },
+    {
+      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
       },
@@ -428,7 +464,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 216098,
       "name": "Atajo",
       "url": "https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc"
@@ -958,7 +994,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 215979,
       "name": "Cruzandonos",
       "url": "https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185305,
       "name": "D\u00edas En Casa",
       "url": "https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK"
@@ -1609,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "album": {
         "name": "Hasta La Mitad",
         "url": "https://open.spotify.com/album/2RL5AFi6NcwhEnxRZ9e2BV"
       },
@@ -1678,10 +1732,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 161531,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
     },
     {
       "album": {
@@ -2585,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -2614,7 +2708,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 150841,
       "name": "Nena",
       "url": "https://open.spotify.com/track/0zGiP8h7GMV2W1aIqq4mJz"
@@ -3052,7 +3146,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 247636,
       "name": "Paredes Finas",
       "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
@@ -4402,6 +4496,24 @@
       "duration_ms": 242755,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW"
+    },
+    {
+      "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "y las flores? (en bruto 1/2)",
+      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
     },
     {
       "album": {

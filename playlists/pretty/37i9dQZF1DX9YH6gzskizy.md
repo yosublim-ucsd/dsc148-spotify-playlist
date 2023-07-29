@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Shreya Jain, Nakul Chugh
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,951 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,971 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 | 50 | [Diamonds](https://open.spotify.com/track/1bGLQeP5eziWWrMWBrHTEE) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:05 |
 | 51 | [Midnight Disco](https://open.spotify.com/track/2kMCDXew7ONxhkFUTot07Z) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Midnight Disco](https://open.spotify.com/album/6GHfYg0BMtMN2mQpKlCcIh) | 3:41 |
 
-Snapshot ID: `MCw2NmUzYTE1NWU5ZWZjZDIzZTlkNWYyMzQ5OWY4MDA2OTA4MDNhOTVh`
+Snapshot ID: `MCw3NmFjOGY2MmZlZmFiMzFkZmFkY2ZhYTU2MDViOTFiYTcyMjkwYjM2`

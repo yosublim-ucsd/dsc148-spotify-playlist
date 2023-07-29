@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,795 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,897 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 38 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 |
 | 39 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 |
 | 40 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
-| 41 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |
-| 42 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 |
+| 41 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 |
+| 42 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |
 | 43 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 |
 | 44 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 |
 | 45 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 80 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 |
 | 81 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
 | 82 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
-| 83 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 |
-| 84 | [Tuxedo and top hat](https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Tuxedo and top hat](https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz) | 2:28 |
+| 83 | [Tuxedo and top hat](https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Tuxedo and top hat](https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz) | 2:28 |
+| 84 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 |
 | 85 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 |
 | 86 | [Ducks for cover](https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Ducks for cover](https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz) | 2:40 |
 | 87 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 |
 | 100 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 |
 
-Snapshot ID: `MCwxODQ3Y2Q1MzQ3MTlkYmMzODQyZjUwMDZhYmVmOTBjMzhhMmU1ZGZj`
+Snapshot ID: `MCxiZGM5NzZlODE5YzA3YTQ0OTVjMjU4NTcxMTYyZjFjMDYyNmJiZGNl`

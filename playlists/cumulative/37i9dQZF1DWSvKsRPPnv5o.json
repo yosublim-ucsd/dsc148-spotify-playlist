@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: YG & Tyga",
+  "description": "Holdin' it down for the westside. Cover: Zoe Osama",
   "name": "Westside Story",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145034,
       "name": "3 aGAinSt thE wOrLd",
       "url": "https://open.spotify.com/track/0weLm5VbQzeo9kn2jFknhd"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 156969,
       "name": "ALRIGHT",
       "url": "https://open.spotify.com/track/5GgsKq6ZOwwu0a7DNFiNqf"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174720,
       "name": "At It Again - Remix",
       "url": "https://open.spotify.com/track/1MIZIHmz0oW142sZTfIQZw"
@@ -1266,6 +1266,32 @@
       "duration_ms": 241587,
       "name": "Big Subwoofer - Single Version",
       "url": "https://open.spotify.com/track/3U84GeKG4tUHhimhie1aDK"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
     },
     {
       "album": {
@@ -3327,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Fliccin Up",
+        "url": "https://open.spotify.com/album/18q7rbEpdQCRzmPrTVcsQy"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139833,
+      "name": "Fliccin Up",
+      "url": "https://open.spotify.com/track/04VlyRdjaKWs65ZaRnCc8V"
+    },
+    {
+      "album": {
         "name": "2MORE",
         "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
       },
@@ -3430,6 +3474,24 @@
       "duration_ms": 162148,
       "name": "Free My Dawgs",
       "url": "https://open.spotify.com/track/3evZ0KZGKFEVaYpYxw28Wa"
+    },
+    {
+      "album": {
+        "name": "Fresh Cut Friday",
+        "url": "https://open.spotify.com/album/0A6sVCP1ybX7MXzY3dwhuo"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101616,
+      "name": "Fresh Cut Friday",
+      "url": "https://open.spotify.com/track/2rVEASLlH39KNZYccDPuqX"
     },
     {
       "album": {
@@ -3641,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Gangsta Boogie",
+        "url": "https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Gangsta Boogie",
+      "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
+    },
+    {
+      "album": {
         "name": "LA SUMMERS2",
         "url": "https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh"
       },
@@ -3804,7 +3884,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 150000,
       "name": "Give Me That P Word (feat. Lil Vada)",
       "url": "https://open.spotify.com/track/6B3hukLvWSoDJ2MqfNVlyP"
@@ -4244,7 +4324,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 255996,
       "name": "Hell Of A Feeling (feat. LaRussell)",
       "url": "https://open.spotify.com/track/7ijT5izrqUYkiVU7nBmPt9"
@@ -5006,7 +5086,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149393,
       "name": "IT'S OVER",
       "url": "https://open.spotify.com/track/0XzoYkyEvXmeg180c97tWW"
@@ -6016,7 +6096,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 219186,
       "name": "Midnight Oil (feat. Larry June & Jay Worthy)",
       "url": "https://open.spotify.com/track/0xkeObNA3vzp5tzpXNwbbF"
@@ -7119,6 +7199,36 @@
     },
     {
       "album": {
+        "name": "Off Tha Dribble (feat. Swiftchapo 4oe, F.O.E & Bueno da champ)",
+        "url": "https://open.spotify.com/album/4AeY7Zo9yoZhy7uSf2i2HQ"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Swiftchapo 4oe",
+          "url": "https://open.spotify.com/artist/0FMM4EulAUGDGCNTL9qxRh"
+        },
+        {
+          "name": "F.O.E.",
+          "url": "https://open.spotify.com/artist/0YhKXDgtIy2aJqcYQ6IP8s"
+        },
+        {
+          "name": "Bueno da champ",
+          "url": "https://open.spotify.com/artist/4eBmQL3b5w0PkS702oYBjz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138474,
+      "name": "Off Tha Dribble (feat. Swiftchapo 4oe, F.O.E & Bueno da champ)",
+      "url": "https://open.spotify.com/track/5gdqJwuISnyQQTpfP0ZkGp"
+    },
+    {
+      "album": {
         "name": "Off Top Off Rip (Remix) [feat. Mozzy & Fetty Wap]",
         "url": "https://open.spotify.com/album/3oFsM0aaYWbrhSqH9UD1K3"
       },
@@ -7899,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4uQm94AZIS4PBeZ4Jm2Y94"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6CgABqVIcFh12r257y2jey"
+    },
+    {
+      "album": {
         "name": "Private Valet",
         "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
       },
@@ -8148,6 +8276,24 @@
       "duration_ms": 175877,
       "name": "Rocc Climbing (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw"
+    },
+    {
+      "album": {
+        "name": "Rollin",
+        "url": "https://open.spotify.com/album/2byfym8fII5wBjklL2iU9d"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124266,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/5QfAihxGOiFUoD9zzz92x3"
     },
     {
       "album": {
@@ -9120,7 +9266,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144890,
       "name": "Supposed To",
       "url": "https://open.spotify.com/track/2xBNSlEpC2Zih9ubKv4H4h"
@@ -10260,6 +10406,24 @@
       "duration_ms": 150865,
       "name": "What's What (feat. BabyTron)",
       "url": "https://open.spotify.com/track/7DWrnxiwVJ87Kdhzg9IxOx"
+    },
+    {
+      "album": {
+        "name": "Where's Remble?",
+        "url": "https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c"
+      },
+      "artists": [
+        {
+          "name": "Remble",
+          "url": "https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169708,
+      "name": "Where's Remble?",
+      "url": "https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV"
     },
     {
       "album": {

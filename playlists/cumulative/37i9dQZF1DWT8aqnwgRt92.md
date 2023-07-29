@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-822 songs - 2 day 3 hr 59 min
+823 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-28 | 2022-07-27 |
 | [Runaway World](https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Runaway World \(TVアニメ「逃走中」オープニング・テーマ\)](https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T) | 4:06 | 2023-05-30 | 2023-07-12 |
-| [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 |  |
+| [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 | 2023-07-27 |  |
+| [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 | 2023-07-29 |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 | 2023-02-14 | 2023-03-08 |
 | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/track/7v0MgRpifpHrQXvR5vdJlX) | [三森すずこ](https://open.spotify.com/artist/4qpFBSWs6WGn1o5lyWgqdX) | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/album/0do7Fq6G1u8xZvtQYwLU3U) | 5:12 | 2023-02-14 | 2023-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,878 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,897 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 11 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 |
 | 12 | [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 |
 | 13 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 14 | [Superbloodmoon \(feat\. D4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
+| 14 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 15 | [Bounce](https://open.spotify.com/track/6bcjN31l2M7nddJMKBJbDN) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Bounce](https://open.spotify.com/album/07LPwkanZ1mDeR6QZZ1ixo) | 2:46 |
 | 16 | [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 |
 | 17 | [Believe \- Triple J Like A Version](https://open.spotify.com/track/4inJjInWq5Y0YYvLCWUIrg) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(Triple J Like A Version\)](https://open.spotify.com/album/03T183KnaZWUhDr2X6GxeY) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 |
 | 80 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 |
 
-Snapshot ID: `MCw2Nzc4ZTY3YTdjNTIzM2RiYTQ0YTgwN2JmNGNkZjM2YmU4NzQ1OGM0`
+Snapshot ID: `MCw3MTVhYTU4YzgzMTg5ZGU3YzEzYzg3MmUwZjBjNWVjYzQ2NWQyNGMx`

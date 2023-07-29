@@ -4,7 +4,7 @@
 
 > Summertime sadness everyday
 
-427 songs - 23 hr 45 min
+428 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2022-04-01 | 2022-04-15 |
 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 | 2022-04-01 | 2022-04-21 |
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-04-01 | 2022-06-09 |
-| [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-17 |  |
+| [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-17 | 2023-07-29 |
 | [POOL](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 | 2022-04-01 | 2022-07-17 |
 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 | 2022-04-01 | 2022-04-21 |
 | [Pools](https://open.spotify.com/track/1BoewHxVEoBD3zjd3WivhM) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX) | 3:28 | 2022-04-01 | 2022-04-11 |
@@ -332,6 +332,7 @@
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [Summertime \(feat\. P\. Diddy\)](https://open.spotify.com/track/26Pf1AnjT8j25QsGNVQmuE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [The Fighting Temptations \(Music From The Motion Picture\)](https://open.spotify.com/album/3w4b3oRDOCFaig5HfSLRmq) | 3:52 | 2021-10-14 | 2022-04-21 |
 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 | 2022-04-01 | 2022-04-16 |
+| [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 | 2022-09-15 |  |
 | [Summertime Sadness](https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:25 | 2022-04-01 | 2022-04-21 |
 | [Sun](https://open.spotify.com/track/5cIWkWH6xVdEllQ9ksuu2E) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN) | 3:07 | 2022-04-01 | 2022-04-18 |
 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2022-04-01 | 2022-04-20 |

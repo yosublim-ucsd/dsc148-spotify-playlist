@@ -1,15 +1,15 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 68673,
+  "num_followers": 68721,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTVhYTU4MzNmNjcwNWU0NGVmNGI4YzZlZDQ5OThlMjQzYTAwY2Zm",
+  "snapshot_id": "MCwxNTBhYWIxMDViNTc2NDFhZDYzOGNjNDAxNWY2NTBkN2Q2MGUyMzFl",
   "tracks": [
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
         "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
@@ -45,7 +45,39 @@
       "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "30 Grandes De Infante",
+        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
+      },
+      "artists": [
+        {
+          "name": "Infante",
+          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
@@ -65,39 +97,7 @@
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "30 Grandes De Infante",
-        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
-      },
-      "artists": [
-        {
-          "name": "Infante",
-          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Cuba: Bienvenido Granda",
         "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
         "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
@@ -165,7 +165,23 @@
       "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "From Tito With Love",
         "url": "https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "La Tripleta Popular, Vol. 19",
         "url": "https://open.spotify.com/album/6fMrPRvcyU4X80kojIGxHF"
@@ -217,23 +233,7 @@
       "url": "https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        }
-      ],
-      "duration_ms": 171432,
-      "name": "Mil Cosas",
-      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Su Voz, Su Piano Y M\u00e1s \u00c9xitos",
         "url": "https://open.spotify.com/album/6U9q1lj6N3ObWC5TMZmGoa"
@@ -249,7 +249,55 @@
       "url": "https://open.spotify.com/track/6KW49Ii30jvjZV1BBsNspy"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        }
+      ],
+      "duration_ms": 171432,
+      "name": "Mil Cosas",
+      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Una Rockola en el Cielo, Vol. 1",
+        "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
@@ -269,39 +317,7 @@
       "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Una Rockola en el Cielo, Vol. 1",
-        "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
@@ -317,27 +333,7 @@
       "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
@@ -357,7 +353,27 @@
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Esencial Ana y Victor",
         "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
@@ -373,7 +389,39 @@
       "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "La Historia De Jose Feliciano",
+        "url": "https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
+        "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
@@ -393,39 +441,7 @@
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "La Historia De Jose Feliciano",
-        "url": "https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
-        "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Y Siguen Los \u00c9xitos",
         "url": "https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
         "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Canta Sus Exitos",
         "url": "https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
         "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
@@ -505,23 +521,7 @@
       "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Inolvidable (Boleros)",
-        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
-      },
-      "artists": [
-        {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ma\u00f1anas de Carnaval",
-      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Musica...Recuerdo Inolvidable",
         "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
@@ -537,7 +537,23 @@
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
+      },
+      "artists": [
+        {
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Benny Mor\u00e9 M\u00e1gico",
         "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Un Bolero un Vals, Vol. 2",
         "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Poker de Ases",
         "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/2zPJCj2F9ZXyQ7ewMtDFBz"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Toda una Vida",
         "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Una Rockola en el Cielo, Vol. 1",
         "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Los Tres Ases",
         "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Poker de Ases",
         "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
         "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
@@ -717,7 +733,23 @@
       "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
@@ -737,23 +769,7 @@
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Los Triunfadores de la Rockola",
         "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Un Bolero un Vals",
         "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "El Rey de las Cantinas",
         "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
@@ -801,23 +817,7 @@
       "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "50 A\u00f1os Live",
         "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
@@ -833,7 +833,23 @@
       "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+      },
+      "artists": [
+        {
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Mucho Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
@@ -865,7 +881,23 @@
       "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "La Dama del Bolero",
         "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
@@ -917,23 +949,7 @@
       "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
@@ -981,23 +997,7 @@
       "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
     },
     {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
+      "added_at": "2023-07-28 05:01:00",
       "album": {
         "name": "\u00c9poca de Oro",
         "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"

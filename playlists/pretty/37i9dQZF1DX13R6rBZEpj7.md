@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,575 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,626 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 36 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 |
 | 37 | [Fly With Us](https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny) | 4:08 |
 | 38 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 |
-| 39 | [Again \(feat\. Takura\)](https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:51 |
-| 40 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
+| 39 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
+| 40 | [Again \(feat\. Takura\)](https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:51 |
 | 41 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 42 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 43 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 57 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 58 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
 | 59 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
-| 60 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
-| 61 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
+| 60 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
+| 61 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
 | 62 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 | 63 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 | 64 | [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 |
 | 70 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 |
 
-Snapshot ID: `MCwyMThmZDhiNDUxMDk1NGEzNDMzNWQ1NmY0NjgyNzdjZDk1ZThhM2U4`
+Snapshot ID: `MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl`

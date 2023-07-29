@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-261 songs - 15 hr 15 min
+262 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-06-29 | 2023-05-20 |
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-06-29 | 2023-05-20 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-06-29 | 2022-07-20 |
-| [Fornai](https://open.spotify.com/track/6zzkVxSr17jP2B7PbnsoXk) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [Barro](https://open.spotify.com/album/2oUg7X1bWG4JfAkmuSDNMS) | 2:54 | 2023-05-19 |  |
+| [Fornai](https://open.spotify.com/track/6zzkVxSr17jP2B7PbnsoXk) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [Barro](https://open.spotify.com/album/2oUg7X1bWG4JfAkmuSDNMS) | 2:54 | 2023-05-19 | 2023-07-29 |
 | [Frontera](https://open.spotify.com/track/1Do9XJmrqphuNTk3XJ37ah) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Frontera](https://open.spotify.com/album/0EdNh6GwvHJViNFEXdVOBA) | 3:01 | 2022-09-09 | 2023-05-20 |
 | [Fuera de Foco](https://open.spotify.com/track/3HBuXMWVqplKX6GXaQCyrS) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [El Show del Fin del Mundo, Vol\. 1](https://open.spotify.com/album/1NwffYreHko6QEXjoAdSmq) | 3:16 | 2022-07-19 | 2022-09-10 |
 | [Fugaces](https://open.spotify.com/track/3KMzdWj8zpNC6PtFR4sAg3) | [Ricci Nostra](https://open.spotify.com/artist/3EAz9wWHQN5JwG5K1FqdMs) | [Fugaces](https://open.spotify.com/album/6rXurRSqTKOsFEsfMRr5aA) | 3:27 | 2022-06-29 | 2022-07-20 |
@@ -153,7 +153,7 @@
 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2023-05-30 | 2023-06-09 |
 | [Llave](https://open.spotify.com/track/6GIJNt8kpPdvviJTEUT83u) | [Cu4tro Cu4rtos](https://open.spotify.com/artist/2afoXYN0RY5wWIJCSydf2v), [Damián Palacios](https://open.spotify.com/artist/6cAzrlKrcDZE6afA3ksm2S), [Gabriel Simonet](https://open.spotify.com/artist/4JyTKHn394pexqe2CFPt9q), [Hernán Romero](https://open.spotify.com/artist/3IFe0nS1QsWfow70RzaAaH) | [Llave](https://open.spotify.com/album/31emrUvnCBsaL1UO9xmKeh) | 2:53 | 2022-06-29 | 2022-07-20 |
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-07-19 | 2022-08-13 |
-| [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2023-05-19 |  |
+| [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2023-05-19 | 2023-07-29 |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-08 |  |
 | [Lo Que Soy](https://open.spotify.com/track/77dNHLJRvzinTeSz7X7eLH) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 3:01 | 2023-06-09 |  |
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-07-19 | 2023-05-20 |
@@ -175,6 +175,7 @@
 | [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 | 2022-09-24 |
 | [Mil Ballenas](https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Mil Ballenas](https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI) | 3:53 | 2022-09-23 | 2023-05-20 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2023-05-19 |  |
+| [MISSIN CHILDREN](https://open.spotify.com/track/7k5s8zIy5dkKwSHEumOTcq) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [MISSIN CHILDREN](https://open.spotify.com/album/1QeC2pee09euMrbAWBxVpm) | 3:13 | 2023-07-28 |  |
 | [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 | 2023-05-19 | 2023-06-10 |
 | [Mundo de Hoy](https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 4:21 | 2022-07-29 | 2023-05-20 |
 | [Mundo Entero](https://open.spotify.com/track/6xZR3mbvw2UwZOaYs2bSz7) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Mundo Entero](https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak) | 3:22 | 2022-06-29 | 2022-08-13 |

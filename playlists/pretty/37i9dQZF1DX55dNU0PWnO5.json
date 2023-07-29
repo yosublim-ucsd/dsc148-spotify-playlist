@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 560051,
+  "num_followers": 560085,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDIwODdlMDgyZTk2NjM4MzgwN2UyNTkxMDgxYzk5MmIzNDJkY2Ew",
+  "snapshot_id": "MCxlNmQwMjQwNmNmYjJjZjIxMzFlNjQ0ZjZjZmI0MGVlZmE2OGMyNzkw",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Beat Hopper (The 3rd Session)",
+        "url": "https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "Excursions",
+          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Beat Hopper - The 3rd Session",
+      "url": "https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD"
+    },
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
@@ -252,7 +272,7 @@
           "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
         }
       ],
-      "duration_ms": 316146,
+      "duration_ms": 316400,
       "name": "Fuck Yeah",
       "url": "https://open.spotify.com/track/0XRhF206W0IU4dBm95DS37"
     },
@@ -1431,30 +1451,6 @@
       "duration_ms": 197677,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
-    },
-    {
-      "added_at": "2022-11-04 17:39:00",
-      "album": {
-        "name": "Drosa is real! (Lindstr\u00f8m Remix)",
-        "url": "https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln"
-      },
-      "artists": [
-        {
-          "name": "OJKOS",
-          "url": "https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge"
-        },
-        {
-          "name": "Andreas Rotevatn",
-          "url": "https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j"
-        },
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 731840,
-      "name": "Drosa is real! - Lindstr\u00f8m Remix",
-      "url": "https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF"
     },
     {
       "added_at": "2022-10-28 04:01:00",

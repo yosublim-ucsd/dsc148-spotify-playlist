@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422230,
+  "num_followers": 422236,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjQzMzBjZDJjYmQ0NzRiZmM0YzgyYmIyYjlkOGIxMjg1NTMyMWZk",
+  "snapshot_id": "MCw1ZGVhMTljOGYwY2FhNGM4YmI2ODE2MjI5OWRjNTNkZjI5NjBjYzEw",
   "tracks": [
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 149657,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
+    },
     {
       "added_at": "2023-07-27 06:00:00",
       "album": {
@@ -879,26 +895,6 @@
       "duration_ms": 210461,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Horas",
-        "url": "https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a"
-      },
-      "artists": [
-        {
-          "name": "Alexis Play",
-          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 231959,
-      "name": "Horas",
-      "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

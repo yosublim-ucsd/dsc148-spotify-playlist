@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Renata Flores.
 
-217 songs - 12 hr 9 min
+218 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 | 2023-03-03 | 2023-04-06 |
 | [Hasta Que Te Vi](https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Hasta Que Te Vi](https://open.spotify.com/album/74JAnkxv8JvDLpuv2vOPpa) | 2:56 | 2022-05-04 | 2022-08-04 |
 | [Hoy](https://open.spotify.com/track/53H3TaCK8iUC5YSRtSrwn1) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Prisma](https://open.spotify.com/album/3gTgGR1rBXCvDgU9cLIAEW) | 3:10 | 2022-01-05 | 2023-01-05 |
-| [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 | 2023-06-14 |  |
+| [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 | 2023-06-14 | 2023-07-29 |
 | [IGUAL](https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [IGUAL](https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9) | 3:36 | 2023-05-26 | 2023-06-21 |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |
@@ -220,6 +220,7 @@
 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 | 2023-01-04 | 2023-04-06 |
 | [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2023-03-01 | 2023-05-20 |
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-05 | 2022-03-05 |
+| [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 | 2023-07-28 |  |
 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 | 2022-03-08 | 2023-02-02 |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-04-05 |  |
 | [Échale Fuego](https://open.spotify.com/track/0GGFWgHZe4v1dXfHMypHwd) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Échale Fuego](https://open.spotify.com/album/2UGtJRRI2WWkxibKaGqMAO) | 3:00 | 2023-05-26 |  |

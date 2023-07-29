@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Joya
 
-619 songs - 1 day 11 hr 4 min
+621 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 | 2023-02-16 | 2023-07-14 |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2022-09-01 | 2023-02-03 |
 | [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 |  |
+| [Lost Boy, Lost City](https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lost Boy, Lost City](https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9) | 2:23 | 2023-07-27 |  |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Love Forever \(Remixed\)](https://open.spotify.com/track/0UpQMySQxMrcdeJUplFVp8) | [Hector Law](https://open.spotify.com/artist/363rdNViquRLciCJyTI2Zw) | [Love Forever \(Remixed\)](https://open.spotify.com/album/0rIjEzBvH8a08TODyzinGz) | 5:09 | 2022-11-24 | 2023-03-18 |
 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 | 2022-09-08 | 2023-03-18 |
@@ -626,6 +627,7 @@
 | [鳥的晚安歌](https://open.spotify.com/track/48tC6flUTFJEPCwbOnaQuw) | [Hidy Dear](https://open.spotify.com/artist/2ELf7wGy8b9xpRwOscjnJJ) | [鳥的晚安歌](https://open.spotify.com/album/0l8gBPISUk8rcqVVjMXfmL) | 4:08 | 2022-09-08 | 2022-11-04 |
 | [麥田看守員](https://open.spotify.com/track/5oub2K9BFRpTHkvttoTqM1) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [APOLLO\-23](https://open.spotify.com/album/3YAHTZpDYT9lm0pCYHBi9L) | 3:31 | 2023-06-01 |  |
 | [麻倉](https://open.spotify.com/track/4oGGzCOYb2z7SLlIqGteSi) | [Potlim](https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm) | [麻倉](https://open.spotify.com/album/0l2wMg6OJlfr1jPRLxTbK4) | 3:00 | 2023-04-27 |  |
+| [齋啡](https://open.spotify.com/track/11KWczNFNykV8w12zTLi6V) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [齋啡](https://open.spotify.com/album/3EuCiGjBgwI1c5LBZD1azc) | 2:00 | 2023-07-27 |  |
 | [齋烈](https://open.spotify.com/track/0dAp0APiRTh74fT0JZ56Wk) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [齋烈](https://open.spotify.com/album/34fk39dxBaiwI6FFpjQjx0) | 2:50 | 2022-05-26 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

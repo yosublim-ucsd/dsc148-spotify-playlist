@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-321 songs - 1 day 3 hr 27 min
+322 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Future 1](https://open.spotify.com/track/1vKtL5ZdvZXQdOmxBN1YOd) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Ghost Systems Rave](https://open.spotify.com/album/47e9kCgGL0uNZQ6kOTrasF) | 5:01 | 2023-03-17 | 2023-04-15 |
 | [Gallic Message](https://open.spotify.com/track/6x01YKo7IXoVrFi3V0FOaA) | [Dasha Rush](https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4) | [Dark & Filthy](https://open.spotify.com/album/2O0MHBhtTAtTBuxezQgNPK) | 4:33 | 2023-02-10 | 2023-03-18 |
 | [Gemini Leaks](https://open.spotify.com/track/3ErOVcfuz2YTrdFIrawaCx) | [Uncrat](https://open.spotify.com/artist/3XKfetZTa22CDoe06NBA8V) | [Xilo EP](https://open.spotify.com/album/1H35dEHVIclwgfDw7Qjonw) | 5:26 | 2023-02-10 | 2023-03-18 |
+| [Gigantia](https://open.spotify.com/track/2W0okYa253wH35AgMldHDT) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Gigantia](https://open.spotify.com/album/2Eyevi4paab5SHW0pgCRuR) | 5:39 | 2023-07-28 |  |
 | [Gloomy Heart](https://open.spotify.com/track/253ebC89Xzb3Qvy7orOduk) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [Gloomy Heart](https://open.spotify.com/album/3rwYUE8VLBZs7huDoI7gvq) | 4:21 | 2023-05-25 | 2023-07-01 |
 | [Golden Shot](https://open.spotify.com/track/1aNOHoR8akvqGtnXNxNAtD) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [Contract Labour](https://open.spotify.com/album/6tAUO6aHklDT0L3RBdjbTB) | 6:59 | 2023-05-25 | 2023-07-01 |
 | [Goldener Strom \- Gudrun Gut Douru Remix](https://open.spotify.com/track/2gvZ3bVLo4KhwPqJ6XDW2g) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm), [Gudrun Gut](https://open.spotify.com/artist/1T48eW2iZNOo834wEdlopV) | [Goldener Strom Remixes 3](https://open.spotify.com/album/7dNbqenVzX6z2vmROuU9CK) | 4:38 | 2023-05-25 | 2023-07-01 |

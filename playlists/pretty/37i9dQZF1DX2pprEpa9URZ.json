@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 725582,
+  "num_followers": 725639,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh",
+  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        }
+      ],
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Humanidad",
         "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 521547,
       "name": "Tembo",
       "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Facets",
+        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 286746,
+      "name": "Lost Tales",
+      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Facets",
-        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
         }
       ],
-      "duration_ms": 286746,
-      "name": "Lost Tales",
-      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1127,22 +1143,6 @@
       "duration_ms": 387898,
       "name": "Kanasi",
       "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+        "name": "Unsichtbar (Behrooz Zandi Remix)",
+        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
       "artists": [
         {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
         },
         {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+          "name": "Behrooz Zandi",
+          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
         }
       ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 370196,
+      "name": "Unsichtbar - Behrooz Zandi Remix",
+      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
       "artists": [
         {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
         },
         {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
         }
       ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1351,6 +1335,42 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Amonita",
+          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
+        }
+      ],
+      "duration_ms": 478764,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1375,26 +1395,6 @@
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
-      },
-      "artists": [
-        {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
-        },
-        {
-          "name": "Amonita",
-          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
-        }
-      ],
-      "duration_ms": 478764,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     }
   ],
   "unique_name": "Org\u00e1nica",

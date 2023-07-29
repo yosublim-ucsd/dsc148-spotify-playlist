@@ -4,7 +4,7 @@
 
 > A gaming playlist for the whole family.
 
-90 songs - 5 hr 8 min
+91 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dynamite](https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(NightTime Version\)](https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS) | 3:19 | 2021-03-04 | 2022-11-13 |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2021-03-04 |  |
 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 | 2021-03-04 |  |
-| [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-03-04 |  |
+| [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-03-04 | 2023-07-29 |
+| [Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 5:28 | 2021-03-04 |  |
 | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R) | 2:48 | 2021-03-04 |  |
 | [Good as Hell](https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good as Hell](https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq) | 2:39 | 2021-03-04 |  |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2021-03-04 |  |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-403 songs - 1 day 11 hr 28 min
+404 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bring the Heat](https://open.spotify.com/track/4509YwOHu4aDFR8gagFuw1) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Bring the Heat](https://open.spotify.com/album/21oRCK6XtAfsxIbfuEWGRA) | 6:22 | 2021-12-08 |  |
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-04-21 |  |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 |  |
-| [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 |  |
+| [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 | 2023-07-29 |
 | [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 | 2023-04-09 |
 | [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 | 2022-12-04 |
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 |  |
@@ -185,6 +185,7 @@
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-08 | 2023-01-06 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-05 |  |
 | [Letzter](https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4) | [Edraw](https://open.spotify.com/artist/5GBLlXRHRfbIItI9WozeAG), [Keller Flavour](https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ) | [The Files](https://open.spotify.com/album/5r7cdO0ac5Rb8SvXgGAYIf) | 2:27 | 2021-12-08 | 2022-11-20 |
+| [Levitate](https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh) | 3:26 | 2023-07-21 |  |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |
 | [Like This](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Like This](https://open.spotify.com/album/62nbCTAyxJwCgIEMBLBg48) | 2:48 | 2022-10-28 |  |

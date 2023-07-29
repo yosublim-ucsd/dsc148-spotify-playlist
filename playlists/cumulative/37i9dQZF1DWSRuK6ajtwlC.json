@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200386,
       "name": "Eres Lo Que M\u00e1s Quiero",
       "url": "https://open.spotify.com/track/4k7TCyjEL6EptSwliHZuVl"
@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5kWCiK0v5UEbo4pcKkGVJN"
+      },
+      "artists": [
+        {
+          "name": "Cumbre Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200601,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5fNrNPSVTmKzLde7HOIkwV"
+    },
+    {
+      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -860,6 +878,24 @@
       "duration_ms": 174706,
       "name": "Literal",
       "url": "https://open.spotify.com/track/6prwA99WtmjL1InowSZ4Yg"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame A Las Estrellas",
+        "url": "https://open.spotify.com/album/5bCw0LfFO5fhw0djqgFGCd"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148640,
+      "name": "Ll\u00e9vame A Las Estrellas",
+      "url": "https://open.spotify.com/track/34B65VVmjWw3vdIpdZXxL8"
     },
     {
       "album": {
@@ -994,6 +1030,24 @@
       "duration_ms": 208747,
       "name": "Malabares",
       "url": "https://open.spotify.com/track/5rP8LrJDIJX5z1FTq9Z8Dv"
+    },
+    {
+      "album": {
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
     },
     {
       "album": {
@@ -1388,7 +1442,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168923,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/5aZubhYBTy6tWIbRZMxVbF"
@@ -1764,7 +1818,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167666,
       "name": "Yo te quiero",
       "url": "https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R"

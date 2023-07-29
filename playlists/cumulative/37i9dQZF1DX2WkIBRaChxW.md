@@ -2,9 +2,9 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in R&B, right now – featuring Roy Woods.
+> What's happening in R&B, right now – featuring Snoh Aalegra.
 
-571 songs - 1 day 7 hr 30 min
+573 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2022-02-18 | 2022-06-18 |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2023-01-28 |
-| [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 |  |
+| [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 | 2023-07-29 |
 | [Gold](https://open.spotify.com/track/6XubjZaYqg3x1AwZKCf2LO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Gold](https://open.spotify.com/album/0DeHsr9I6BPcQEn3t3G5bh) | 2:46 | 2022-05-13 | 2022-06-18 |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-01 | 2022-09-03 |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2021-12-31 | 2022-01-22 |
@@ -191,6 +191,7 @@
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2022-09-23 | 2022-12-10 |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 | 2022-06-25 |
 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-02-03 | 2023-07-15 |
+| [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 |  |
 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 | 2022-02-04 | 2023-01-06 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-10-01 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-12-31 | 2022-02-05 |
@@ -486,8 +487,9 @@
 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 | 2022-01-28 | 2022-04-29 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-24 | 2023-04-09 |
 | [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-04-07 | 2023-06-10 |
-| [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-21 |  |
+| [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-21 | 2023-07-29 |
 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 | 2022-06-24 | 2022-11-12 |
+| [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 | 2023-07-28 |  |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2021-12-31 | 2022-04-02 |
 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 | 2022-03-11 | 2022-03-26 |
 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |

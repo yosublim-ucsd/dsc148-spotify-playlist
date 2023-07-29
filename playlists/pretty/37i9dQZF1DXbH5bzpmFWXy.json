@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ryan Castro, Peso Pluma & SOG en portada.",
-  "num_followers": 136773,
+  "num_followers": 136964,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmQwODMwMGVjZGNiZWUzYmY0YTExMTM0Njk3ZjVmMzc5YzkzNmQy",
+  "snapshot_id": "MCw0OTVmZjRiN2IzMjI5ZmM5OTUwMDllYzU2MDEzOThhYTE1Yzg1YTM5",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -99,18 +99,22 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "La 701",
-        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
+        "name": "La 701 - Panter Belico",
+        "url": "https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "5 Music MX",
+          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
+        },
+        {
+          "name": "La Fresada Music",
+          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
         }
       ],
-      "duration_ms": 180101,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+      "duration_ms": 183240,
+      "name": "La 701 - Panter Belico",
+      "url": "https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -735,8 +739,8 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -744,13 +748,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+      "duration_ms": 162676,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1715,8 +1723,8 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
       "artists": [
         {
@@ -1724,17 +1732,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 162676,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1861,26 +1865,6 @@
       "url": "https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE"
     },
     {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Delivery",
-        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209367,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
-    },
-    {
       "added_at": "2023-07-14 06:00:00",
       "album": {
         "name": "Cuerno Mio",
@@ -1899,6 +1883,26 @@
       "duration_ms": 167720,
       "name": "Cuerno Mio",
       "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Delivery",
+        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209367,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
       "added_at": "2023-06-30 06:00:00",

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-382 songs - 21 hr 51 min
+383 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-12-17 | 2023-01-21 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-04 | 2023-04-01 |
 | [Casablanca](https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Anti\-Shave EP](https://open.spotify.com/album/6RzKKjfYIvlDPjeMMQLWDB) | 2:06 | 2021-12-17 | 2022-03-12 |
-| [Catchin A Vibe \- Original Mix](https://open.spotify.com/track/6LtPtA337boR9e4bBDuBht) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Catchin A Vibe](https://open.spotify.com/album/3NrET4JIFJGchcM5fsxK0e) | 3:00 | 2023-05-26 |  |
+| [Catchin A Vibe \- Original Mix](https://open.spotify.com/track/6LtPtA337boR9e4bBDuBht) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Catchin A Vibe](https://open.spotify.com/album/3NrET4JIFJGchcM5fsxK0e) | 3:00 | 2023-05-26 | 2023-07-29 |
 | [CHAOS](https://open.spotify.com/track/2rstio2WGmSbZXAYtX1cWR) | [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv), [Edison Cole](https://open.spotify.com/artist/2OJbBoEtM6pqm96ke1vNiY) | [CHAOS](https://open.spotify.com/album/1bTD0WCBtN3Vsl5qBBnBD8) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Chasing Devils \- Audigy Remix](https://open.spotify.com/track/49PusnlAw9zshcQzWux0sI) | [Conrank](https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F), [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Audigy](https://open.spotify.com/artist/02DyjGF6XTaN0H43T1kZzW) | [Chasing Devils \(Audigy Remix\)](https://open.spotify.com/album/5cfQGv7jPAS5x0veFKLa0W) | 2:59 | 2022-08-19 | 2022-10-09 |
 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 | 2021-12-17 | 2023-03-11 |
@@ -139,6 +139,7 @@
 | [Fire Dance](https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 2:38 | 2021-12-17 | 2022-10-23 |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 | 2023-04-01 |
 | [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 | 2023-07-13 |
+| [Fracture](https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Fracture](https://open.spotify.com/album/59WYYNdEKZblqitYK0Nj5H) | 3:05 | 2023-07-28 |  |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [Fuckin'](https://open.spotify.com/track/5DhNPiNSXbQeYkvje3kJf8) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Fuckin' EP](https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6) | 1:20 | 2023-05-12 | 2023-06-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |

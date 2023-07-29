@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 861470,
+  "num_followers": 861747,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGViODMxYmU4ZjJlMGYzMTUyNjBhZmU4MTZhMTA1NzE1OTE1YmZj",
+  "snapshot_id": "MCw2YzNhNmUwZTEyYTI4MGM4OGRmZmM5ZjdjNGZmOTQzMTM1NWY2MzMw",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Between The Buttons",
-        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 196493,
-      "name": "Ruby Tuesday",
-      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+      "duration_ms": 196493,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -967,6 +951,22 @@
       "duration_ms": 211787,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "River Deep-Mountain High",
-        "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -1131,6 +1099,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "River Deep-Mountain High",
+        "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1611,6 +1595,22 @@
       "duration_ms": 195146,
       "name": "Street Fighting Man - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     }
   ],
   "unique_name": "60s Rock Anthems",

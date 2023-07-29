@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 155555,
       "name": "60s Ghost",
       "url": "https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 150508,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS"
@@ -5916,6 +5916,24 @@
       "duration_ms": 238048,
       "name": "Just Know It - Felix Cartal's Sunset Remix",
       "url": "https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX"
+    },
+    {
+      "album": {
+        "name": "Just Let Go",
+        "url": "https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137586,
+      "name": "Just Let Go",
+      "url": "https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU"
     },
     {
       "album": {
@@ -13506,7 +13524,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 148571,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7"

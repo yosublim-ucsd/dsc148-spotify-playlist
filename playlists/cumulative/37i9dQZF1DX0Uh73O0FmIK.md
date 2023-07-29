@@ -2,9 +2,9 @@
 
 ### [metaverses](https://open.spotify.com/playlist/37i9dQZF1DX0Uh73O0FmIK)
 
-> 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
+> 01101110 01100101 01110010 01100100
 
-113 songs - 7 hr 46 min
+114 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2022-05-19 |  |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2022-05-19 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-02-01 | 2023-04-09 |
-| [Deicide](https://open.spotify.com/track/2qMIhahrpJUksR0MuigQV6) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Deicide](https://open.spotify.com/album/5c4BOFn4ycw9NZGmOCv3rY) | 4:54 | 2022-05-19 |  |
+| [Deicide](https://open.spotify.com/track/2qMIhahrpJUksR0MuigQV6) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Deicide](https://open.spotify.com/album/5c4BOFn4ycw9NZGmOCv3rY) | 4:54 | 2022-05-19 | 2023-07-29 |
 | [Derezzed \- From "TRON: Legacy"/Score](https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 1:44 | 2022-05-19 |  |
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-09-03 |  |
 | [Disaster](https://open.spotify.com/track/1xFRymLXeZNa95SHjpcdJZ) | [Hammound](https://open.spotify.com/artist/62Gv0hCZD1VtXunP8qgOKB) | [Disaster](https://open.spotify.com/album/0y7F0A5G3Ryam3ikA9Hcga) | 1:24 | 2022-12-20 | 2023-03-15 |
@@ -61,6 +61,7 @@
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2022-05-19 | 2022-10-13 |
 | [Hypnocurrency](https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P) | 4:52 | 2022-09-03 |  |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-24 | 2022-12-21 |
+| [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-28 |  |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-05-19 | 2023-02-02 |
 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 | 2022-05-19 |  |
 | [In Motion](https://open.spotify.com/track/50CgC2wKmbWm4WLQKY87oP) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 4:56 | 2022-05-19 | 2022-10-14 |
@@ -72,10 +73,10 @@
 | [Klymaxx](https://open.spotify.com/track/7FiRzDwy4NslWvCKiCzLg0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 4:24 | 2022-05-19 |  |
 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 | 2022-05-19 |  |
 | [Le perv](https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:16 | 2022-05-19 |  |
-| [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2022-05-19 |  |
+| [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2022-05-19 | 2023-07-29 |
 | [Luv Deluxe](https://open.spotify.com/track/6NFVMrNI3mHeFSAwdbAYfU) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/4atwagTKLpazdKchxdJEnI) | 4:33 | 2022-05-19 |  |
 | [Make This Right](https://open.spotify.com/track/7mSmt2yar5VUXZNBV4AnpE) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Furi \(Original Game Soundtrack\)](https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA) | 5:48 | 2022-12-20 |  |
-| [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 |  |
+| [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 | 2023-07-29 |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2022-05-19 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-05-19 |  |
 | [Ocean Death](https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG) | 5:29 | 2022-05-19 | 2023-03-18 |
@@ -96,11 +97,11 @@
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2022-05-19 | 2022-10-14 |
 | [Send The Pain On](https://open.spotify.com/track/36b17t2DXiN1lWr9SbsuVR) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 5:37 | 2022-05-19 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-05-19 | 2022-12-21 |
-| [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 | 2022-05-19 |  |
+| [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 | 2022-05-19 | 2023-07-29 |
 | [Someday](https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [The Weight](https://open.spotify.com/album/5zB9HVERRys2UNiyNszxIP) | 5:44 | 2022-05-19 | 2022-10-14 |
 | [Spaced](https://open.spotify.com/track/4dz8WzdifDQPWqHq2jWRKA) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Globe, Vol\. 3](https://open.spotify.com/album/0vSQUrgafUyXCBaDiReL4q) | 4:48 | 2022-05-19 |  |
 | [Spitfire](https://open.spotify.com/track/0ERv9Zf4AJJdQ1sIztb15v) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Always Outnumbered, Never Outgunned](https://open.spotify.com/album/6kjD6MJ95xECin1kxGeAlM) | 5:07 | 2022-10-24 | 2023-02-02 |
-| [Stand\-Upon The Earth](https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft) | [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV), [1rokit](https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ) | [Hyperscapism](https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e) | 4:06 | 2022-07-07 |  |
+| [Stand\-Upon The Earth](https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft) | [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV), [1rokit](https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ) | [Hyperscapism](https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e) | 4:06 | 2022-07-07 | 2023-07-29 |
 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 | 2022-07-02 |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2022-05-19 |  |
 | [Sulk](https://open.spotify.com/track/1CuNAntYhT2j6LNJoIEfF4) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 6:17 | 2022-05-19 |  |

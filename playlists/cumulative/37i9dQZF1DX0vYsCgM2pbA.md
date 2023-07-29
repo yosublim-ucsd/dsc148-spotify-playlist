@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-121 songs - 7 hr 19 min
+122 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2023-02-09 | 2023-04-14 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-12-01 |  |
 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 | 2022-12-01 |  |
-| [Right Here It's Only Love](https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 3:26 | 2023-07-27 |  |
+| [Right Here It's Only Love](https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 3:26 | 2023-07-27 | 2023-07-29 |
+| [Right Here It's Only Love](https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 3:26 | 2023-07-27 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-12-01 |  |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-12-01 | 2023-05-26 |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-01-13 | 2023-06-02 |

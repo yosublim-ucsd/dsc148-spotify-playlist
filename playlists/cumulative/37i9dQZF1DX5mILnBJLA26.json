@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL?si=1x4COpN9TlSrJEPrMHDoKg\">Zan'Ten</a> ",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3?si=0dUBGLxSRbeUy2tKCJB3Aw\">Lebza TheVillain</a> ",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 415831,
       "name": "Amasango (feat. Sjavasdadeejay & TitoM)",
       "url": "https://open.spotify.com/track/3IKb9dsBhceDuKzxvJQdpu"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 392202,
       "name": "Black Spider 2",
       "url": "https://open.spotify.com/track/1PUzDlelcKYriEepAzohR7"
@@ -6648,10 +6648,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 375323,
       "name": "Esangweni",
       "url": "https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w"
+    },
+    {
+      "album": {
+        "name": "Estikini",
+        "url": "https://open.spotify.com/album/6a6Q5Z6ddM4zMYyCyMQHA4"
+      },
+      "artists": [
+        {
+          "name": "Group Chat",
+          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Estikini",
+      "url": "https://open.spotify.com/track/2dDD9Nxrb16Ep7dzCrYqRr"
     },
     {
       "album": {
@@ -10911,6 +10933,40 @@
     },
     {
       "album": {
+        "name": "Son Of The Soil",
+        "url": "https://open.spotify.com/album/4dZLEyVlAIwunoMuYRP1ul"
+      },
+      "artists": [
+        {
+          "name": "HENNYBELIT",
+          "url": "https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP"
+        },
+        {
+          "name": "Spumante",
+          "url": "https://open.spotify.com/artist/7e91LHOm22NlOu4O9n0RvH"
+        },
+        {
+          "name": "Kweku AFro",
+          "url": "https://open.spotify.com/artist/3He2wkpGl19IUnTixjjntu"
+        },
+        {
+          "name": "Dj Nickie Cartel",
+          "url": "https://open.spotify.com/artist/5X1Efft4jn5TppZWwd2YtB"
+        },
+        {
+          "name": "Gampiny",
+          "url": "https://open.spotify.com/artist/0OAnjRkWayJuSs2qglVjn9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428855,
+      "name": "izolo",
+      "url": "https://open.spotify.com/track/2pJ0o93KDCwxF7UMpVeLUx"
+    },
+    {
+      "album": {
         "name": "Amukelani",
         "url": "https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO"
       },
@@ -11158,7 +11214,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 397223,
       "name": "Jig Saw",
       "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
@@ -11308,7 +11364,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 323423,
       "name": "Johnny ke Johnny (feat. Papi_SA)",
       "url": "https://open.spotify.com/track/1vBqDhQhSlwr8rgIWTpCWT"
@@ -13320,7 +13376,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 447103,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/3iYnT9TyDEPmV7ly35NOLs"
@@ -14998,6 +15054,28 @@
       "duration_ms": 437000,
       "name": "Monate Ke Monate",
       "url": "https://open.spotify.com/track/2zpcKVM91HRvbz4k4fysVR"
+    },
+    {
+      "album": {
+        "name": "MONEY COUNTER",
+        "url": "https://open.spotify.com/album/6h3EnAhqYSmMli8eplFSIH"
+      },
+      "artists": [
+        {
+          "name": "Infinity MusiQ",
+          "url": "https://open.spotify.com/artist/1WYoK8ZzO0j3lSmnNRY5KW"
+        },
+        {
+          "name": "uLazi",
+          "url": "https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385862,
+      "name": "MONEY COUNTER",
+      "url": "https://open.spotify.com/track/6NwF4qlLv4eormuKKowaRg"
     },
     {
       "album": {
@@ -18911,6 +18989,36 @@
     },
     {
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/77eQeL7zaUqNlVx0hx0K1S"
+      },
+      "artists": [
+        {
+          "name": "Deeper Phil",
+          "url": "https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N"
+        },
+        {
+          "name": "Shino Kikai",
+          "url": "https://open.spotify.com/artist/6JSU7gW4qNCnKJ2Twfy5jk"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416365,
+      "name": "S'hamba Nabo (feat. Kabza De Small & Young Stunna)",
+      "url": "https://open.spotify.com/track/3bvFeBBIv1ECftSqT1hphX"
+    },
+    {
+      "album": {
         "name": "Cooperville",
         "url": "https://open.spotify.com/album/0HjtqE2jFrzuqwB4rYyyMZ"
       },
@@ -21342,7 +21450,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 314341,
       "name": "Stimela",
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"
@@ -23249,6 +23357,44 @@
     },
     {
       "album": {
+        "name": "TJEYA",
+        "url": "https://open.spotify.com/album/7m9UQRUI0WzZMLt4PmHaPE"
+      },
+      "artists": [
+        {
+          "name": "The Lowkeys",
+          "url": "https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ"
+        },
+        {
+          "name": "Sims Noreng",
+          "url": "https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE"
+        },
+        {
+          "name": "13 Nor Mabena",
+          "url": "https://open.spotify.com/artist/10qTCdKDndG0dh96co25Pd"
+        },
+        {
+          "name": "Ocean Biller",
+          "url": "https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9"
+        },
+        {
+          "name": "Tshego Dee",
+          "url": "https://open.spotify.com/artist/5qxGlpO8OR6FKrK8pENkUQ"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424883,
+      "name": "TJEYA",
+      "url": "https://open.spotify.com/track/3RY7Xboz7N9wErI4WhT7Z4"
+    },
+    {
+      "album": {
         "name": "To Last",
         "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
       },
@@ -25074,7 +25220,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 490161,
       "name": "Unruly Piano",
       "url": "https://open.spotify.com/track/0CVb2b2O0ECUxWJu14tAvx"
@@ -26426,6 +26572,36 @@
       "duration_ms": 360920,
       "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
       "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"
+    },
+    {
+      "album": {
+        "name": "Netha",
+        "url": "https://open.spotify.com/album/4PHeWglPwWKRiuZTbpjUPx"
+      },
+      "artists": [
+        {
+          "name": "Lebza TheVillain",
+          "url": "https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374368,
+      "name": "Wena Wethu (feat. Sino Msolo & Chley)",
+      "url": "https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R"
     },
     {
       "album": {

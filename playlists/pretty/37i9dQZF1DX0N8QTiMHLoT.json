@@ -1,13 +1,29 @@
 {
   "description": "\ud834\udd22Because bass. Cover: Victor Wooten\ud834\udd22",
-  "num_followers": 133039,
+  "num_followers": 133086,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM2MjE0ZTBmZDY3N2JhYTBjOTMyMmMxYjU4YmFjNWNhMjgzZmVm",
+  "snapshot_id": "MCw2NjE4NjJhNTUwMjM5MTVlMTg5NjBlNjQxYmZkNTk1MTU2YjgxNjEy",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Magic of Moonlight",
+        "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 399558,
+      "name": "The Magic of Moonlight",
+      "url": "https://open.spotify.com/track/02rwBh0v51bUfzaKRJnSqH"
+    },
     {
       "added_at": "2021-05-06 21:10:03",
       "album": {

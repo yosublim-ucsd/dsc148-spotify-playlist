@@ -1,29 +1,13 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 270049,
+  "num_followers": 270119,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
+  "snapshot_id": "MCw2ZTI2ODAzNTQ2MzAzYzQ2MzI1NmQ1OTI4MTcyNGFkOGRmNmJjYWZj",
   "tracks": [
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
-      },
-      "artists": [
-        {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
-    },
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 269015,
       "name": "Swing (In A Dream)",
       "url": "https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "Adderall (End of the Line)",
-      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Swampy & Sombre Two",
-        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 213009,
-      "name": "Swampy",
-      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -119,6 +71,34 @@
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
+    },
+    {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "Los Angeles (with James Murphy)",
+        "url": "https://open.spotify.com/album/0wkq0uUOugMMFdaAAGoUpG"
+      },
+      "artists": [
+        {
+          "name": "Lol Tolhurst",
+          "url": "https://open.spotify.com/artist/0dpt5MouO4U9l189E5CIoN"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/4LEp9FrNKTk9zqAjBdg6ql"
+        },
+        {
+          "name": "Jacknife Lee",
+          "url": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
+        },
+        {
+          "name": "James Murphy",
+          "url": "https://open.spotify.com/artist/03XnX4XEVVtZNUBSdUlzsB"
+        }
+      ],
+      "duration_ms": 384186,
+      "name": "Los Angeles (feat. James Murphy)",
+      "url": "https://open.spotify.com/track/0sueSpJiVi3YT5t1KGuEJw"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -187,6 +167,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
@@ -235,18 +231,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
+      "duration_ms": 265183,
+      "name": "Adderall (End of the Line)",
+      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
     },
     {
       "added_at": "2023-03-17 13:08:31",
@@ -263,6 +259,22 @@
       "duration_ms": 189474,
       "name": "American Nightmare",
       "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 216284,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -313,52 +325,20 @@
       "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
-      "added_at": "2023-06-20 22:28:34",
+      "added_at": "2023-07-28 14:24:56",
       "album": {
-        "name": "All Gas No Brakes",
-        "url": "https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9"
+        "name": "TELL ME WHEN I'M TELLING LIES",
+        "url": "https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK"
       },
       "artists": [
         {
-          "name": "Heavy Lungs",
-          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
-      "duration_ms": 247350,
-      "name": "All Gas No Brakes",
-      "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Down in the Basement",
-      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "One Rizla",
-      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
+      "duration_ms": 193684,
+      "name": "TELL ME WHEN I'M TELLING LIES",
+      "url": "https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -375,6 +355,22 @@
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "One Rizla",
+      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
     },
     {
       "added_at": "2023-06-20 22:28:34",
@@ -411,6 +407,38 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+    },
+    {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "Stumbling Still",
+        "url": "https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 279870,
+      "name": "Stumbling Still",
+      "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
@@ -423,6 +451,38 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -443,56 +503,8 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2023-06-20 22:28:34",
-      "album": {
-        "name": "Fester",
-        "url": "https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha"
-      },
-      "artists": [
-        {
-          "name": "Legss",
-          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
-        }
-      ],
-      "duration_ms": 349211,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Stumpwork",
-        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
+        "name": "Swampy & Sombre Two",
+        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
       },
       "artists": [
         {
@@ -500,25 +512,9 @@
           "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 165440,
-      "name": "Kwenchy Kups",
-      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Sun Coming Down",
-        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
-      },
-      "artists": [
-        {
-          "name": "Ought",
-          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
-        }
-      ],
-      "duration_ms": 463545,
-      "name": "Beautiful Blue Sky",
-      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
+      "duration_ms": 213009,
+      "name": "Swampy",
+      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -535,6 +531,22 @@
       "duration_ms": 279817,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Sun Coming Down",
+        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+      },
+      "artists": [
+        {
+          "name": "Ought",
+          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+        }
+      ],
+      "duration_ms": 463545,
+      "name": "Beautiful Blue Sky",
+      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -607,6 +619,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Stumpwork",
+        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Kwenchy Kups",
+      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -653,6 +681,22 @@
       "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "Nah, That Ain't It / Phone Lines Down",
+        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 166390,
+      "name": "Nah, That Ain't It",
+      "url": "https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI"
+    },
+    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "'Til The Stream Runs Dry",
@@ -667,6 +711,22 @@
       "duration_ms": 260665,
       "name": "St. Paul of the Tarantulas",
       "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Auto-Pain",
+        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+      },
+      "artists": [
+        {
+          "name": "Deeper",
+          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "This Heat",
+      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -699,22 +759,6 @@
       "duration_ms": 303133,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Auto-Pain",
-        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
-      },
-      "artists": [
-        {
-          "name": "Deeper",
-          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "This Heat",
-      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -815,22 +859,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Holding Hands with Jamie",
-        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
-      },
-      "artists": [
-        {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
-        }
-      ],
-      "duration_ms": 413721,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Rhythm Is Our Business (Edit)",
         "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
       },
@@ -847,6 +875,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Holding Hands with Jamie",
+        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 413721,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "caroline",
         "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
       },
@@ -859,38 +903,6 @@
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "It's a Myth",
-        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
-      },
-      "artists": [
-        {
-          "name": "Sneaks",
-          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "Look Like That",
-      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Pure Mode",
-      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
     }
   ],
   "unique_name": "Post Punk",

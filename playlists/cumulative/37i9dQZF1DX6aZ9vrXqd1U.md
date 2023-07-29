@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-272 songs - 19 hr 37 min
+273 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [THE BEYOND](https://open.spotify.com/track/40YK0ihNtoog79d9Y9LJf9) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:35 | 2022-07-27 | 2022-07-29 |
 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 | 2022-07-27 | 2023-06-10 |
 | [THE WINNER](https://open.spotify.com/track/6vLWoFMzWecjj5U3DvcmBc) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/0bMfJnt6F8tmHdIErmuV4l) | 4:09 | 2023-04-21 |  |
-| [The Witch From Mercury](https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam The Witch From Mercury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy) | 5:00 | 2022-12-06 |  |
+| [The Witch From Mercury](https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack \(Incomplete Edition\)](https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3) | 4:59 | 2023-07-02 |  |
+| [The Witch From Mercury](https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam The Witch From Mercury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy) | 5:00 | 2022-12-06 | 2023-07-29 |
 | [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 | 2022-08-25 |  |
 | [Tobe! GUNDAM](https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2) | [Tobe! GUNDAM](https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU) | 2:45 | 2023-04-21 |  |
 | [Toi Kioku](https://open.spotify.com/track/7D9OcT1srZnAIW1rI4kAYZ) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Toi Kioku](https://open.spotify.com/album/29VSyq9u2D3j1R1shmlc8V) | 4:14 | 2023-04-21 |  |

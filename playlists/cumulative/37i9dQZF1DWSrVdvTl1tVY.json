@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+    },
+    {
+      "album": {
         "name": "Atomic Sun",
         "url": "https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 251500,
       "name": "Atomic Sun",
       "url": "https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp"

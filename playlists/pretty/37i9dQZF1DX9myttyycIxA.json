@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Geese",
-  "num_followers": 285944,
+  "num_followers": 286024,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTFiMDJkOWUwYWU3NWNhMTYxYzc2MDhjNGQ0MGM3MDRjYjdlMzMy",
+  "snapshot_id": "MCw5YWM0NDNiN2NiYTExYWEzNmY4MmNmNWRkNDQyYWMxOGEyMmYwZmQx",
   "tracks": [
+    {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "My Dog Died",
+        "url": "https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 225708,
+      "name": "My Dog Died",
+      "url": "https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB"
+    },
     {
       "added_at": "2023-07-26 14:00:37",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 314199,
       "name": "Glass Jaw",
       "url": "https://open.spotify.com/track/76koZv1MMQG2p9rypLMMl9"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "3D Country",
-        "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 313577,
-      "name": "3D Country",
-      "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
     },
     {
       "added_at": "2023-07-21 15:32:07",
@@ -57,52 +57,20 @@
       "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-28 17:21:38",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2023-06-15 18:54:28",
-      "album": {
-        "name": "Tin Man",
-        "url": "https://open.spotify.com/album/2zcAU1ZzOSw5c7islwbVZP"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "Tin Man",
-      "url": "https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9"
-    },
-    {
-      "added_at": "2023-07-26 16:11:31",
-      "album": {
-        "name": "Cheetah",
-        "url": "https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF"
-      },
-      "artists": [
-        {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Cheetah",
-      "url": "https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY"
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -121,6 +89,86 @@
       "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
+      "added_at": "2023-07-21 15:32:07",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
+      },
+      "artists": [
+        {
+          "name": "Strange Ranger",
+          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "She's on Fire",
+      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
+    },
+    {
+      "added_at": "2023-06-15 18:54:28",
+      "album": {
+        "name": "Tin Man",
+        "url": "https://open.spotify.com/album/2zcAU1ZzOSw5c7islwbVZP"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Tin Man",
+      "url": "https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9"
+    },
+    {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "iwantthis2last!",
+        "url": "https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 194656,
+      "name": "iwantthis2last!",
+      "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+    },
+    {
+      "added_at": "2023-07-26 16:11:31",
+      "album": {
+        "name": "Cheetah",
+        "url": "https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Cheetah",
+      "url": "https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 231659,
+      "name": "Your Mother's Name",
+      "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
+    },
+    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "Hello Mary",
@@ -137,20 +185,36 @@
       "url": "https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR"
     },
     {
-      "added_at": "2023-07-21 15:32:07",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
       "artists": [
         {
-          "name": "Strange Ranger",
-          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         }
       ],
-      "duration_ms": 265160,
-      "name": "She's on Fire",
-      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "Play What's Not There",
+        "url": "https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "duration_ms": 233272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq"
     },
     {
       "added_at": "2023-07-07 21:30:31",
@@ -235,6 +299,22 @@
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5"
+    },
+    {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV"
+      },
+      "artists": [
+        {
+          "name": "Route 500",
+          "url": "https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz"
+        }
+      ],
+      "duration_ms": 196269,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
     },
     {
       "added_at": "2023-06-15 18:54:28",
@@ -365,22 +445,6 @@
       "url": "https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 231659,
-      "name": "Your Mother's Name",
-      "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
-    },
-    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "Food for Worms",
@@ -395,6 +459,22 @@
       "duration_ms": 265183,
       "name": "Adderall (End of the Line)",
       "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 313577,
+      "name": "3D Country",
+      "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -445,22 +525,6 @@
       "url": "https://open.spotify.com/track/140upcUj9NvEdv19PK4dHc"
     },
     {
-      "added_at": "2023-06-15 18:54:28",
-      "album": {
-        "name": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
-        "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Fear Evil Like Fire",
-      "url": "https://open.spotify.com/track/1ddJPebD74sac45SLvdmWp"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "everything\u2019s been going so well",
@@ -491,22 +555,6 @@
       "duration_ms": 108413,
       "name": "new drugs",
       "url": "https://open.spotify.com/track/3PkNZj1fGr6iUWMui8VjCi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "O Monolith",
-        "url": "https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 334321,
-      "name": "After The Flash",
-      "url": "https://open.spotify.com/track/4eJ8NYk3p9lx5I0q9xt3rI"
     },
     {
       "added_at": "2023-06-15 18:54:28",
@@ -657,22 +705,6 @@
       "url": "https://open.spotify.com/track/5yKYejprpKJ7LaK23LL53q"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
-    },
-    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "My Year (This Is Going To Be)",
@@ -751,26 +783,6 @@
       "duration_ms": 210373,
       "name": "In That Sound",
       "url": "https://open.spotify.com/track/4RUaE3CtYytmgduj79rlX3"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Where Did Love Go",
-        "url": "https://open.spotify.com/album/7yYF23Wts2nEKdUSoEIMq8"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ritual",
-          "url": "https://open.spotify.com/artist/1DbXVMdQqNejIYLU2xsIMi"
-        },
-        {
-          "name": "Mating Ritual",
-          "url": "https://open.spotify.com/artist/4ZeB1hzT2mSZrf7wszOqHs"
-        }
-      ],
-      "duration_ms": 254573,
-      "name": "Where Did Love Go",
-      "url": "https://open.spotify.com/track/4z39J7DIRryqxOV8O4gzzB"
     },
     {
       "added_at": "2023-06-15 18:54:28",
@@ -983,74 +995,6 @@
       "duration_ms": 189000,
       "name": "Heaven Is Your Company",
       "url": "https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj"
-    },
-    {
-      "added_at": "2023-06-15 18:54:28",
-      "album": {
-        "name": "bite>chew",
-        "url": "https://open.spotify.com/album/34ZWURnharBbMxXDFy39oE"
-      },
-      "artists": [
-        {
-          "name": "sai nara",
-          "url": "https://open.spotify.com/artist/4kNEZWghigRYYs07fJWBqb"
-        },
-        {
-          "name": "Ifys",
-          "url": "https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT"
-        },
-        {
-          "name": "Joe Worker",
-          "url": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
-        },
-        {
-          "name": "Drkshdw",
-          "url": "https://open.spotify.com/artist/6XIObThoJNghGJjjN5Cdev"
-        },
-        {
-          "name": "purzs",
-          "url": "https://open.spotify.com/artist/77nPCr1hr3CZFe9JkkvWxU"
-        },
-        {
-          "name": "fadewtf",
-          "url": "https://open.spotify.com/artist/72DLLZbXqjq55h6TWNt3oa"
-        },
-        {
-          "name": "TopConniver",
-          "url": "https://open.spotify.com/artist/2ywwxdoBTSjjGB2bls6Bz4"
-        },
-        {
-          "name": "dyingoutlay",
-          "url": "https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi"
-        },
-        {
-          "name": "coldoutlay",
-          "url": "https://open.spotify.com/artist/6iVZjzQSsPC4iuI1JUV2Zs"
-        },
-        {
-          "name": "Jerm",
-          "url": "https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF"
-        },
-        {
-          "name": "Keltechh",
-          "url": "https://open.spotify.com/artist/0OyK93tUwOD7XAHcEA2Q7L"
-        },
-        {
-          "name": "jahhde",
-          "url": "https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb"
-        },
-        {
-          "name": "vjac0b",
-          "url": "https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer"
-        },
-        {
-          "name": "Rick Owens",
-          "url": "https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2"
-        }
-      ],
-      "duration_ms": 77113,
-      "name": "bite>chew",
-      "url": "https://open.spotify.com/track/6TrG5IUHKV3lTZ6RNViIzs"
     },
     {
       "added_at": "2023-06-15 18:54:28",

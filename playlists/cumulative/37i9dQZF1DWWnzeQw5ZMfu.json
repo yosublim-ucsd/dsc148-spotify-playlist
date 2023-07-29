@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Imagine Dragons",
   "name": "Pop Live",
   "tracks": [
     {
@@ -304,10 +304,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "album": {
+        "name": "Imagine Dragons Live in Vegas",
+        "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243923,
+      "name": "Bones - Live in Vegas",
+      "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
     },
     {
       "album": {
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 212810,
       "name": "Shots - Live From Spotify London",
       "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 367493,
       "name": "Take My Breath Away - Live",
       "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"

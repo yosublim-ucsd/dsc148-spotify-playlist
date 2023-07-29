@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Brain On Love",
+        "url": "https://open.spotify.com/album/4WWRqLivbF5Wy4EE8ey2KM"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "Brain On Love",
+      "url": "https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d"
+    },
+    {
+      "album": {
         "name": "BREAK IT IN A BAR",
         "url": "https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd"
       },
@@ -4820,6 +4838,24 @@
       "duration_ms": 193877,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc"
+    },
+    {
+      "album": {
+        "name": "Wallen On Your Radio",
+        "url": "https://open.spotify.com/album/74TKonwqXqmm5pgvzVNoGt"
+      },
+      "artists": [
+        {
+          "name": "Alli Leighann",
+          "url": "https://open.spotify.com/artist/4OeJYKm6vIFtrORFTjF68v"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192252,
+      "name": "Wallen On Your Radio",
+      "url": "https://open.spotify.com/track/4eWtmopOFSfV93yWdRROnF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Alchemist",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Nas",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154902,
       "name": "Cocaine Spoon feat. Rick Ross",
       "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
@@ -3802,10 +3802,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144140,
       "name": "Guapanese",
       "url": "https://open.spotify.com/track/39xyIJlo7lsDZf3j2oh6vP"
+    },
+    {
+      "album": {
+        "name": "Guapanese",
+        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
     },
     {
       "album": {
@@ -5609,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6L0iHM0jM6pvsTZesuHBWO"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166081,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg"
+    },
+    {
+      "album": {
         "name": "Making The Band (Danity Kane)",
         "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
       },
@@ -5642,6 +5678,24 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "album": {
+        "name": "MARATHON",
+        "url": "https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "MARATHON",
+      "url": "https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY"
     },
     {
       "album": {
@@ -6588,7 +6642,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 163170,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/5W2sWehdlWhq4t0QxmYPYS"

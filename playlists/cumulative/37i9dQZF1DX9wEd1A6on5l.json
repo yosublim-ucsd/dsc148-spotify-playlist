@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151548,
+      "name": "Bankruptcy",
+      "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
+    },
+    {
+      "album": {
         "name": "Begging",
         "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
       },
@@ -674,7 +696,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
@@ -796,7 +818,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 184800,
       "name": "Eh God (Barnabas)",
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -2038,6 +2060,24 @@
       "duration_ms": 173818,
       "name": "Gbefumi",
       "url": "https://open.spotify.com/track/3Ve3uvwlpg1MkH31wmsPeo"
+    },
+    {
+      "album": {
+        "name": "TMX002: X & The Machine.",
+        "url": "https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201769,
+      "name": "GIN & JUICE",
+      "url": "https://open.spotify.com/track/2ep6Y3iyiI8wcoNWdt6vSf"
     },
     {
       "album": {
@@ -2801,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Kristy",
+        "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260058,
+      "name": "Kristy",
+      "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -3148,6 +3206,28 @@
       "duration_ms": 144000,
       "name": "Man of The Year",
       "url": "https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG"
+    },
+    {
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/2fwP0nclEMCLZaYBI6rfYs"
+      },
+      "artists": [
+        {
+          "name": "Phaemous",
+          "url": "https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ"
+        },
+        {
+          "name": "DJames",
+          "url": "https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/1IebTlyuQbihNgzyBHl4ps"
     },
     {
       "album": {

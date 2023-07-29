@@ -1,29 +1,13 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 135478,
+  "num_followers": 135942,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGEzNWUyNzE4ODJmYmE3ZGM2YWU5OWRkMDI2YzA2MmY4ZDgwMzY2",
+  "snapshot_id": "MCwyZjM1YTQ4YjdjYjkwMDljNmM2NGVhOTAyYjA2MTBiNjYyZTE2ZDVj",
   "tracks": [
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "I'm Sprung",
-      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
-    },
     {
       "added_at": "2023-04-22 07:08:23",
       "album": {
@@ -45,6 +29,26 @@
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
     },
     {
+      "added_at": "2023-07-28 04:33:08",
+      "album": {
+        "name": "4 Me (feat. Kali Uchis)",
+        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
+    },
+    {
       "added_at": "2023-04-22 07:08:23",
       "album": {
         "name": "So Far Gone",
@@ -59,42 +63,6 @@
       "duration_ms": 257690,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -119,6 +87,78 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2023-04-22 07:08:23",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2023-07-28 04:33:08",
+      "album": {
+        "name": "Thang For You (feat. No Cap)",
+        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. No Cap)",
+      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+    },
+    {
+      "added_at": "2023-04-22 07:08:23",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "added_at": "2023-04-22 07:08:23",
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "I'm Sprung",
+      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
     },
     {
       "added_at": "2023-06-23 00:57:49",
@@ -183,6 +223,26 @@
       "duration_ms": 224426,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "added_at": "2023-07-28 04:33:08",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -755,42 +815,6 @@
     {
       "added_at": "2023-04-22 07:08:23",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2023-06-05 05:53:37",
-      "album": {
-        "name": "Favorite Song (feat. Future) [Toxic Version]",
-        "url": "https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 208621,
-      "name": "Favorite Song (feat. Future) [Toxic Version]",
-      "url": "https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -883,26 +907,6 @@
       "duration_ms": 219692,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "iSouljaBoyTellem",
-        "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        },
-        {
-          "name": "Sammie",
-          "url": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Kiss Me Thru The Phone",
-      "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21"
     },
     {
       "added_at": "2023-04-22 07:08:23",

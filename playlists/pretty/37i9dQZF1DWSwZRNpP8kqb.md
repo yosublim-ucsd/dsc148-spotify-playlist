@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,006 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,023 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 56 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
 | 57 | [En el Fresco de la Noche](https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Cría](https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8) | 5:40 |
 | 58 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 |
-| 59 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
-| 60 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
+| 59 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
+| 60 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
 | 61 | [El Surco](https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:04 |
 | 62 | [El seclanteño](https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Rosa De Los Vientos](https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy) | 4:46 |
 | 63 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 69 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 70 | [Cuando vuelva a encontrarte](https://open.spotify.com/track/1dudfUw1cw2ou1J7O5OZqZ) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp) | 2:31 |
 | 71 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
-| 72 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 73 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
-| 74 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
-| 75 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
+| 72 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
+| 73 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
+| 74 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
+| 75 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
 
-Snapshot ID: `MCwxNDNmMGY5MmViODBmNTliOGE4MGJmNzQyNTNlYzUxM2UzOWEzOGFj`
+Snapshot ID: `MCxiZWViNDI5ZDY2ZThmMjRkNzRmMmE3Yjg3ZDRjMzUxNjUyMTg5ZGE3`

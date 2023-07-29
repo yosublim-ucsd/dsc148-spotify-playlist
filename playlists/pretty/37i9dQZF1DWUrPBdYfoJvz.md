@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,073 likes - 128 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,138 likes - 128 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 69 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 |
 | 70 | [The Ocean Of Night](https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 7:01 |
 | 71 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 |
-| 72 | [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 |
+| 72 | [Triennale](https://open.spotify.com/track/4Ly1RN4O1aBZruEPJtxfjC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 4:06 |
 | 73 | [Goes By](https://open.spotify.com/track/2Paw6rRs12mZ6AfIhuP9Un) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:10 |
 | 74 | [Atomos VII](https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) | 7:49 |
 | 75 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 127 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 128 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCxkMDRlOWYyYTQyYjY0OWQyMWY0NThiMDAzZjQzMjExZDc5Y2FmNjk5`
+Snapshot ID: `MCxlNTQ0MTQxMWZiZGQ5NmE2MGZhZmZjZGQxZDI2MWJmZjRjYjg3M2U1`

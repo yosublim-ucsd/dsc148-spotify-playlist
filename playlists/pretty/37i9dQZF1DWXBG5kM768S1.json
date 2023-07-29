@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 69750,
+  "num_followers": 69771,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4",
+  "snapshot_id": "MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Jovial",
         "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 170893,
       "name": "Jovial",
       "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -719,18 +719,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Ikkje sei det som det er",
-        "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
       "artists": [
         {
           "name": "Bj\u00f8rn Eidsv\u00e5g",
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 161067,
-      "name": "Ikkje sei det som det er",
-      "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -847,8 +851,8 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
       },
       "artists": [
         {
@@ -856,13 +860,13 @@
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         },
         {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+      "duration_ms": 210173,
+      "name": "Siste sang",
+      "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
     },
     {
       "added_at": "2023-07-06 22:00:00",

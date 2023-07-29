@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-244 songs - 15 hr 44 min
+245 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 | 2023-03-06 |
 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 | 2022-06-30 | 2022-07-12 |
 | [Día De Luz \- 80 Aniversario](https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Día De Luz \(80 Aniversario\)](https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK) | 4:11 | 2023-03-31 | 2023-05-23 |
-| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 | 2023-07-29 |
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2022-09-08 | 2023-03-03 |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2022-06-09 |  |
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-06-09 |  |
@@ -139,6 +139,7 @@
 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 | 2022-06-09 |  |
 | [Me quedo contigo \- Radio Edit](https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 4:08 | 2022-06-09 | 2022-07-29 |
 | [Mechita](https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Vestida De Nit](https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA) | 2:38 | 2022-06-09 | 2023-07-06 |
+| [Mechita](https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Vestida De Nit](https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu) | 2:38 | 2023-07-27 |  |
 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 | 2022-06-09 |  |
 | [Mediterráneo](https://open.spotify.com/track/4ZXldI9CyNjVkXvIL9K487) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Hijos del Mediterráneo](https://open.spotify.com/album/70ncIMgaMk8xOjKvbovSBE) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [Mi Paracaídas](https://open.spotify.com/track/4J2QcplOla4PXNU4zXt3vG) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [Mi Paracaídas](https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT) | 3:53 | 2023-03-02 | 2023-04-14 |

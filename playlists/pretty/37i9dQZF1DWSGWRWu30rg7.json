@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Aruna Dawn",
-  "num_followers": 63055,
+  "num_followers": 63062,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWJiNjcxZmMyYzBiYmVjZDg5YjE2ZGYxMmNlNzMwNmYxMGMyOWFj",
+  "snapshot_id": "MCw3OTgyNjY5YmQ0MDA2MzE5MzUwZmJjM2YwNGIxNjdkZWVkOTI0MjFl",
   "tracks": [
     {
       "added_at": "2023-07-27 17:00:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/008Uv4QCo9BSdntsC6oXxU"
     },
     {
+      "added_at": "2023-07-28 09:55:25",
+      "album": {
+        "name": "Benderang",
+        "url": "https://open.spotify.com/album/2y3KKI2I3CZ0Gdah2zilgq"
+      },
+      "artists": [
+        {
+          "name": "Sauh",
+          "url": "https://open.spotify.com/artist/0jfX0mffJyicxlMBB1IS2f"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Benderang",
+      "url": "https://open.spotify.com/track/2fRKCDrWSDqnVupR7p0E7G"
+    },
+    {
       "added_at": "2023-07-27 17:00:00",
       "album": {
         "name": "Akulah Rumahmu",
@@ -103,6 +119,22 @@
       "duration_ms": 260500,
       "name": "Odp",
       "url": "https://open.spotify.com/track/2TL8ebhjU3ZM6ateAJTTWe"
+    },
+    {
+      "added_at": "2023-07-28 09:56:21",
+      "album": {
+        "name": "Teras Dan Angin Malam",
+        "url": "https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp"
+      },
+      "artists": [
+        {
+          "name": "Hezky Jo",
+          "url": "https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Kejar Terus",
+      "url": "https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5"
     },
     {
       "added_at": "2023-07-27 17:00:00",
@@ -435,6 +467,22 @@
       "duration_ms": 102791,
       "name": "It Is Gonna Be Okay",
       "url": "https://open.spotify.com/track/7kEbmbrBmMnmCXgIeFDfMQ"
+    },
+    {
+      "added_at": "2023-07-28 14:24:05",
+      "album": {
+        "name": "SamaRasa",
+        "url": "https://open.spotify.com/album/6L3XkpCAXIntT8OdmQCe1a"
+      },
+      "artists": [
+        {
+          "name": "DEFITREES",
+          "url": "https://open.spotify.com/artist/6YrY9O5z5VhpgSqXGGYe0z"
+        }
+      ],
+      "duration_ms": 224300,
+      "name": "Ingin Slalu Bersamamu",
+      "url": "https://open.spotify.com/track/68ma9OxOGYNYbaS8Fj3RDX"
     },
     {
       "added_at": "2023-07-27 17:00:00",

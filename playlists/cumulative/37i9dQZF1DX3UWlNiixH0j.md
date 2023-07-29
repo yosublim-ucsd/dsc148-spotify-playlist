@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-665 songs - 1 day 17 hr 39 min
+666 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [summercut](https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e) | [Cruyff](https://open.spotify.com/artist/7lSyPTZ8neNa8NSrRYyx8A) | [lovefullstudentnerdthings](https://open.spotify.com/album/6lqDNJ9mpw2n9LLTtLJFmQ) | 5:49 | 2023-04-11 | 2023-05-24 |
 | [Sunday Eve](https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Sunday Eve](https://open.spotify.com/album/72uKl7a6PC95Fnu6Ew35sX) | 4:24 | 2023-06-13 | 2023-06-28 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-19 | 2023-02-24 |
-| [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-11 |  |
+| [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-11 | 2023-07-29 |
 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 | 2023-07-27 |
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 |  |
 | [SWAG](https://open.spotify.com/track/3lWuQtvl0C3pTcStluTtgj) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [SWAG](https://open.spotify.com/album/6dKzXsTmOV2WNWOWajmaM4) | 2:59 | 2023-07-04 | 2023-07-19 |
@@ -620,6 +620,7 @@
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-01 |
 | [海がきこえる](https://open.spotify.com/track/6SDLJ9Rv5EF91UogxwRvRj) | [THE TREES](https://open.spotify.com/artist/3T2vPCbSCuXduryVIIi2GY) | [海がきこえる](https://open.spotify.com/album/2N7nCxZj9sNB8eTo5ZOj31) | 4:16 | 2023-01-31 | 2023-02-15 |
 | [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 |  |
+| [海へ海へ海へ](https://open.spotify.com/track/3EnTDoXpd45Y96q9NeSbsT) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [海へ海へ海へ](https://open.spotify.com/album/6BNiu85dNukURB7kx4N5LN) | 4:10 | 2023-07-27 |  |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 | 2023-06-14 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 | 2023-05-26 |
 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 | 2023-03-07 | 2023-04-20 |

@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist
+> Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz & Caspian Marvin
 
-160 songs - 8 hr 19 min
+161 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Kiki Kyogamba \- What You Saying Mix](https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ), [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Destiny Nsonga](https://open.spotify.com/artist/5O4hbVUhLfHZqNXoLeOLVi) | [Kiki Kyogamba](https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy) | 4:30 | 2022-08-12 | 2023-04-22 |
 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-05-12 | 2023-06-11 |
 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 | 2022-12-09 | 2023-03-31 |
-| [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 | 2023-06-30 |  |
+| [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 | 2023-06-30 | 2023-07-29 |
 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 | 2023-03-20 |  |
 | [Kiziniro](https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Topic Kasente](https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4), [Lil Pazzo](https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY), [Tip Swizzy](https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv) | [Kiziniro](https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc) | 3:42 | 2022-08-05 | 2022-10-25 |
 | [Kwetega](https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr) | [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z) | [Kwetega](https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc) | 3:36 | 2022-11-17 | 2023-03-18 |
@@ -147,6 +147,7 @@
 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 | 2023-02-03 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 |  |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
+| [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
 | [Ten Over 10](https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ten Over 10 \(Producer Edition\)](https://open.spotify.com/album/5qe99ztflopyhcStRxZHkE) | 3:22 | 2023-04-21 | 2023-07-01 |

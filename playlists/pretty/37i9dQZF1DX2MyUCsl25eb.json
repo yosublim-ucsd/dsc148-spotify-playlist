@@ -1,13 +1,97 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 983547,
+  "num_followers": 983570,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTI2YmRhNDZmNWU0ZTJiYWExNjM2Yjg2NTEyODA2NGU0MDAzMjQx",
+  "snapshot_id": "MCwxYzI2M2IwMDg3MzYyMmRkMmU4NWQwOGVhYWFhOWRhZDY5Mjk2ZjE0",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5OqDTCl0cicYgB031QCNAe"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 219161,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Close To The Edge",
+        "url": "https://open.spotify.com/album/0l1BGa8KszhTBMsXBpxPK2"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Close To The Edge",
+      "url": "https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Didn't Say",
+        "url": "https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 206514,
+      "name": "Didn't Say",
+      "url": "https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt"
+    },
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
@@ -77,22 +161,6 @@
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Overdrive",
@@ -107,22 +175,6 @@
       "duration_ms": 147679,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Close To The Edge",
-        "url": "https://open.spotify.com/album/0l1BGa8KszhTBMsXBpxPK2"
-      },
-      "artists": [
-        {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Close To The Edge",
-      "url": "https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1141,22 +1193,6 @@
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "The Messenger",
-        "url": "https://open.spotify.com/album/4TvZKVQAUSfTmZgrBj9sCU"
-      },
-      "artists": [
-        {
-          "name": "Holden Miller",
-          "url": "https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG"
-        }
-      ],
-      "duration_ms": 185510,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/4K9ZhFfPbXbmznYX5EffPE"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Love You Anyway",
@@ -1537,22 +1573,6 @@
       "url": "https://open.spotify.com/track/4REYfEDOiGi1p6YwY9KjPP"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Chasing The Light",
-        "url": "https://open.spotify.com/album/2dEZ4JlW6nr4GjePSRcxiw"
-      },
-      "artists": [
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Chasing The Light",
-      "url": "https://open.spotify.com/track/6iBSEy2yR8w7wA0FPjRp7f"
-    },
-    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Abington Grove",
@@ -1635,22 +1655,6 @@
       "duration_ms": 214274,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/6dRTgr0gVZB17BEpTvi8gJ"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Blurry",
-        "url": "https://open.spotify.com/album/3EFtNQt6u6dY7AmgIGkuhN"
-      },
-      "artists": [
-        {
-          "name": "Noelle Johnson",
-          "url": "https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ"
-        }
-      ],
-      "duration_ms": 207604,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/3FdwLv9dcB6tkjpY43jrbW"
     },
     {
       "added_at": "2023-01-20 05:00:00",

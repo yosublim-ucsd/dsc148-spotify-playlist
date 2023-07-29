@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,433 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,451 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 16 | [Ágni](https://open.spotify.com/track/6oFeHebu9Jv72wfFrC2wRm) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 5:01 |
 | 17 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
 | 18 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 19 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
-| 20 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 |
+| 19 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 |
+| 20 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
 | 21 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Subxet](https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
 | 22 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
 | 23 | [Feel Like Honey \- Radio Edit](https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ) | [Future Feelings](https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH) | [Feel Like Honey](https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI) | 3:56 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 26 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
 | 27 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
 | 28 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
-| 29 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
-| 30 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
+| 29 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
+| 30 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
 | 31 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
 | 32 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 33 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 42 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
 | 43 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
 | 44 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
-| 45 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
-| 46 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 |
+| 45 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 |
+| 46 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
 | 47 | [K Royal Con Las de Harina](https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ) | [Dietscha Jung](https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg) | [Hola](https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z) | 2:21 |
-| 48 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 |
-| 49 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0) | 3:23 |
-| 50 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
+| 48 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0) | 3:23 |
+| 49 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 |
+| 50 | [Cascada](https://open.spotify.com/track/2J3PY2v0k0VI8sYqrFWND5) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Cascada](https://open.spotify.com/album/4STLoeJFhEpmNYniO1SQI0) | 6:45 |
 
-Snapshot ID: `MCxiNzVlYWY4YmQ5MTdiYTJhZDc0MjRlOWNiZjY1MmQ4OGFmYTg4NTZi`
+Snapshot ID: `MCw3YzA2MmExZDk5Njc2ODg5NDQzYmVmMzY5OGM1MDUyYmE5YzM0M2Jk`

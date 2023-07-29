@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Jay Rock, Anderson. Paak, Latto",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Travis Scott",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -585,6 +585,32 @@
     },
     {
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187237,
+      "name": "BASH BASH - feat. JP THE WAVY & Awich",
+      "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
+    },
+    {
+      "album": {
         "name": "You Still Here, Ho ? (Extended)",
         "url": "https://open.spotify.com/album/67AK26TDyMFb7CA7bKJh0w"
       },
@@ -630,6 +656,32 @@
       "duration_ms": 145700,
       "name": "Beetleborgs",
       "url": "https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
     },
     {
       "album": {
@@ -688,6 +740,28 @@
       "duration_ms": 137806,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
+    },
+    {
+      "album": {
+        "name": "BLOOD ON MY NIKEZ [Feat. Juicy J]",
+        "url": "https://open.spotify.com/album/3yqVwj5ze0hxUt28pFReRC"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "BLOOD ON MY NIKEZ [Feat. Juicy J]",
+      "url": "https://open.spotify.com/track/5JwIMQ0LjjuG2dOVzEvSRw"
     },
     {
       "album": {
@@ -768,6 +842,32 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "album": {
+        "name": "Bordeaux Flow feat. Kidella",
+        "url": "https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU"
+      },
+      "artists": [
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "THAITANIUM",
+          "url": "https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8"
+        },
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200513,
+      "name": "Bordeaux Flow feat. Kidella",
+      "url": "https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp"
     },
     {
       "album": {
@@ -1093,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "album": {
         "name": "DESPECH\u00c1 RMX",
         "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
@@ -1252,6 +1370,28 @@
       "duration_ms": 181909,
       "name": "Drums",
       "url": "https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce"
+    },
+    {
+      "album": {
+        "name": "Eastside Girl ft. Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182272,
+      "name": "Eastside Girl ft. Ty Dolla $ign",
+      "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
     },
     {
       "album": {
@@ -1596,7 +1736,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 106511,
       "name": "Grown Man",
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
@@ -1684,6 +1824,28 @@
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "album": {
@@ -1856,7 +2018,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 178680,
       "name": "HUSTLERS (feat. Tyga)",
       "url": "https://open.spotify.com/track/5LNxpOCHQWtBFH0fAveAEY"
@@ -2118,7 +2280,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 312069,
       "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4"
@@ -2301,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Last Days",
+      "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
+    },
+    {
+      "album": {
         "name": "Leave Her",
         "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
       },
@@ -2444,6 +2624,36 @@
       "duration_ms": 147350,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy"
+    },
+    {
+      "album": {
+        "name": "Likka Sto",
+        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+      },
+      "artists": [
+        {
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234965,
+      "name": "Likka Sto",
+      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
     },
     {
       "album": {
@@ -2641,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "album": {
         "name": "I Showed U So",
         "url": "https://open.spotify.com/album/5iBoGEVrZK4ccXGq8hVgDF"
       },
@@ -2656,7 +2884,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190273,
       "name": "Mind My Business (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3gFE9i2nkdPBSkdjZuz1rO"
@@ -3296,7 +3524,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 175834,
       "name": "Pinot Noir",
       "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
@@ -3402,7 +3630,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170440,
       "name": "PORSCHE TOPLESS",
       "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
@@ -3702,7 +3930,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
@@ -3790,7 +4018,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186833,
       "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2"
@@ -4468,7 +4696,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 132413,
       "name": "Supa Ties (feat. DJ Khaled & Raw Youngin)",
       "url": "https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R"
@@ -4574,7 +4802,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 227633,
       "name": "THE FORMULA",
       "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
@@ -4822,7 +5050,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 239997,
       "name": "Too Gone (ft. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2isEZrfcQCpPsW97VJWwpk"
@@ -5054,7 +5282,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 119314,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg"

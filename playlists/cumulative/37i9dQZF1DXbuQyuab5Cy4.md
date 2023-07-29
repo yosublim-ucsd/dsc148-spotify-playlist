@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-109 songs - 6 hr 33 min
+110 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2021-10-28 |  |
 | [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 | 2022-10-28 |  |
 | [Ghosts](https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Ghosts](https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro) | 2:40 | 2021-10-28 |  |
-| [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-10-28 |  |
+| [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-10-28 | 2023-07-29 |
+| [Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 5:28 | 2022-10-28 |  |
 | [Gore On The Dancefloor](https://open.spotify.com/track/57Y16Yl1Ocu9WC837zQJz1) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Gore On The Dancefloor](https://open.spotify.com/album/1skU1xMU8zPjaoQ7BmI72o) | 3:21 | 2021-10-28 |  |
 | [Got The Blood](https://open.spotify.com/track/0CBfZAFMdQ7gEXIGUjAU8k) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [shYbeast](https://open.spotify.com/artist/3J2VNcCwzeJXNFu40evXPE) | [Got The Blood](https://open.spotify.com/album/5gMaxtk07NkQ41etdnmPx9) | 3:30 | 2021-10-28 |  |
 | [Grave](https://open.spotify.com/track/0qkSTDOUNmyPsMjTJ4jISd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Grave](https://open.spotify.com/album/6nDCvCvEZjvYMWxDoa2lXF) | 4:36 | 2021-10-28 |  |

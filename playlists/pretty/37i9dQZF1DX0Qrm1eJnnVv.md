@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,881 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,887 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 10 | [Top Liner Rag](https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The World Of Scott Joplin](https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl) | 3:53 |
 | 11 | [Maple Leaf Rag](https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Entertainer](https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz) | 3:14 |
 | 12 | [Pastime Rag No\. 4](https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG) | [Artie Matthews](https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL), [Richard Dowling](https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77) | [World's Greatest Piano Rags](https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ) | 2:02 |
-| 13 | [Ragtime Nightingale](https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX) | [William Ogmundson](https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG) | [Ragtime](https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs) | 3:35 |
+| 13 | [Gladiolus Rag](https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F) | [Claude Bolling](https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb) | [Ragtime Bolling & Boogie \(Enregistrements de 1977 & 2003\)](https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz) | 3:17 |
 | 14 | [Harmony Club Waltz](https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [50 Ragtime Classics: The Best of Scott Joplin](https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY) | 6:37 |
-| 15 | [Gladiolus Rag](https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F) | [Claude Bolling](https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb) | [Ragtime Bolling & Boogie \(Enregistrements de 1977 & 2003\)](https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz) | 3:17 |
+| 15 | [Ragtime Nightingale](https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX) | [William Ogmundson](https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG) | [Ragtime](https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs) | 3:35 |
 | 16 | [Castle House Rag \(James Reese Europe, 1914\)](https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL) | [Sue Keller](https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx) | [Ol' Muddy](https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe) | 3:30 |
 | 17 | [Bohemia Rag](https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO) | [Scott Cotton](https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU) | [Ragtime Revival](https://open.spotify.com/album/1PgJncp4RezmMO006IYusf) | 3:20 |
 | 18 | [Reflection Rag](https://open.spotify.com/track/1spkEBNNlnXvdLXPhznynG) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 2:14 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 37 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
 | 38 | [Champagne Rag](https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [The St Louis Rag](https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv) | 3:42 |
 | 39 | [Possum and Taters](https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB) | [Jack & Chris Bradshaw](https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py) | [Takes Two](https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O) | 2:45 |
-| 40 | [Ethiopia](https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [Joseph F\. Lamb: The Complete Stark Rags \(1908\-1919\)](https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv) | 4:11 |
-| 41 | [Broadway Rag](https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb) | [Squeek Steele](https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF) | [Ragtime, Vol\. 1](https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK) | 3:37 |
+| 40 | [Broadway Rag](https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb) | [Squeek Steele](https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF) | [Ragtime, Vol\. 1](https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK) | 3:37 |
+| 41 | [Ethiopia](https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [Joseph F\. Lamb: The Complete Stark Rags \(1908\-1919\)](https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv) | 4:11 |
 | 42 | [Peace and Plenty Rag](https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj) | [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Charleston Rag](https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE) | 3:06 |
 | 43 | [Felicity Rag](https://open.spotify.com/track/3qyqMVspq0B4f3MGZwVG2G) | [John Arpin](https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1) | [The Complete Piano Music Of Scott Joplin](https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ) | 3:26 |
 | 44 | [Harlem Rag](https://open.spotify.com/track/3NcbV4lOWtvMZuyiWk4pt9) | [Tom Turpin \(1982\)](https://open.spotify.com/artist/0fFUpKXdGhkHH9TaPLUqJr) | [Silence](https://open.spotify.com/album/34pIdHeTwx6rNUuIUQ97hP) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCw2MWI1MWNhNTVkNTkwOTc0NWYwYmI3ZDA0NWZmMjhkZTQ2MTIyNmFi`
+Snapshot ID: `MCw5YzFmYjU3NDAzZDQzZWQ5NWVlM2M4MzI5ODVhZWMxMTZiZjc0NWJl`

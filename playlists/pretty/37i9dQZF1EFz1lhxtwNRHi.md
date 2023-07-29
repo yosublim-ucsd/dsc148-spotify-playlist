@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,362 likes - 147 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 147 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 14 | [No Promises](https://open.spotify.com/track/3gnDoaJUgD9Bblzld77Kcp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:46 |
 | 15 | [Patience](https://open.spotify.com/track/0JZ9lcwFcAscMpy1YxUtpW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:55 |
 | 16 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 17 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
-| 18 | [Love Like That](https://open.spotify.com/track/5aYEQLm02WlSlaOv5g6sZo) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:04 |
+| 17 | [Love Like That](https://open.spotify.com/track/5aYEQLm02WlSlaOv5g6sZo) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:04 |
+| 18 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
 | 19 | [Let It Be Me](https://open.spotify.com/track/1LjxmkW3xRQP2HzswhYyyc) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Let It Be Me](https://open.spotify.com/album/6nPJEALAjWKOE1jWPws7jj) | 3:44 |
 | 20 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
 | 21 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3s2FxrA4ZXbTR6SlH6LXh9) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Wonderful Life \(Mi Oh My\) \[From the Angry Birds Movie Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TUIZ6xGn04sMd96KbPVnW) | 3:30 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 67 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
 | 68 | [Sign Language](https://open.spotify.com/track/0gSAbPlRBTOqK0cHFVZYNn) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Almost Real](https://open.spotify.com/album/2xroSp0sydZGhmc9UelPzc) | 3:10 |
 | 69 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
-| 70 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
-| 71 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 |
+| 70 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 |
+| 71 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
 | 72 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/74zx6DUsxIPIAtVe8ymL1y) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/5xTK2m5TrsZGjqd6ixQZrO) | 2:56 |
 | 73 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
 | 74 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 146 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 147 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxNzIyOTAsMDAwMDAwMDBhZmU2OGJlZGFkZDUyNTA3N2YyZDI0YzcxMWIxNzNjNA==`
+Snapshot ID: `MjgxNzY2MTAsMDAwMDAwMDBjYTFjMzY5ZTIyNmY3YzE4NGVmM2IxMWFiNWYzMDU1ZQ==`

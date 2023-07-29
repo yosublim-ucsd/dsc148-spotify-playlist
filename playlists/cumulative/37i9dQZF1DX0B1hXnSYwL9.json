@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
+        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
+    },
+    {
+      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 376706,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/6kYrJTVOGyQGJM7u8xkikc"

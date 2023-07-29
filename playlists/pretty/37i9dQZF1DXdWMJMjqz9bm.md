@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,725 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,866 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 60 | [Fruits of My Labor](https://open.spotify.com/track/3nif7UigG93eWI29DHG8G4) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/2KNW2FurKlJh9gSt268xcx) | 3:18 |
 | 61 | [five year plan](https://open.spotify.com/track/7906VnRknBNK6Eb8ABcUgq) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [five year plan](https://open.spotify.com/album/4saAmbd9zLQIETX9UkkntL) | 2:27 |
 | 62 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 |
-| 63 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
+| 63 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
 | 64 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 65 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 |
 | 66 | [Change My Ways](https://open.spotify.com/track/4Ld572WOXNGJGZpIjDFqft) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Change My Ways](https://open.spotify.com/album/5xmU04lAO5jl1hAJ9rGaOU) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 |
 | 100 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 |
 
-Snapshot ID: `MCw0NjkzMzlmOWE2M2EyYTY1ZTJjY2ExZTM1NzdmYTZmZjY1ZDVkOTk1`
+Snapshot ID: `MCxhYTMzOGJkZTVjOTk1NDFlZjliM2MzYzdiYTNiOTMwM2QzNTc0MDdi`

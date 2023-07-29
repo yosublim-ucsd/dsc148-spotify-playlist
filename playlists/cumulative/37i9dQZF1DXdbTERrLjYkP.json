@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: SkyeChristy",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lily Fitts",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -716,6 +716,24 @@
       "duration_ms": 193049,
       "name": "bad friend",
       "url": "https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220827,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi"
     },
     {
       "album": {
@@ -3089,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "growing up sucks",
+        "url": "https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mecca",
+          "url": "https://open.spotify.com/artist/4ghJVwRz768E9qiSzQACGe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213366,
+      "name": "growing up sucks",
+      "url": "https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7"
+    },
+    {
+      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
       },
@@ -3648,6 +3684,24 @@
       "duration_ms": 126562,
       "name": "Hurt Again",
       "url": "https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph"
+    },
+    {
+      "album": {
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
     },
     {
       "album": {
@@ -7844,7 +7898,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199267,
       "name": "The Cut",
       "url": "https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT"

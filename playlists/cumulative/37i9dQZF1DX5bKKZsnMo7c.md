@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-263 songs - 14 hr 21 min
+265 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 | 2023-05-14 |  |
 | [Better People To Leave On Read](https://open.spotify.com/track/7uHW7QLDmTflVGHN31KBno) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/0NgH4voVLGCHFkQSJ12sNO) | 2:11 | 2023-05-14 | 2023-07-07 |
 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 | 2022-05-17 |  |
+| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 |  |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2022-05-17 | 2022-11-26 |
 | [Blah Blah Blah](https://open.spotify.com/track/5R4OMPuKD1yshMdbk8ibnS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Blah Blah Blah](https://open.spotify.com/album/5a4pTggWbO3quPTamPL5wu) | 3:50 | 2022-06-14 | 2022-07-16 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-05-17 | 2022-12-10 |
@@ -44,6 +45,7 @@
 | [bop it](https://open.spotify.com/track/3AKYihZBUkVTjyVqHsBgqg) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [sometimes i'm a warrior, sometimes i'm a little bird that can't get up off the ground](https://open.spotify.com/album/07soOdkeZA8ODgj7RHkQV4) | 2:53 | 2023-03-16 |  |
 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-05-17 | 2023-05-27 |
 | [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 | 2022-05-17 | 2022-12-03 |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 |  |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2022-05-17 | 2023-01-14 |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2023-05-26 |  |
 | [Bust Your Kneecaps](https://open.spotify.com/track/5QjoIwD2oUBUUlrHpZa1nZ) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Pomplamoose Live](https://open.spotify.com/album/3dA0Ge9uyMIyGrUV2qQg50) | 3:16 | 2022-05-17 |  |

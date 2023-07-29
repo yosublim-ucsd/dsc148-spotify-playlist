@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-312 songs - 17 hr 13 min
+313 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [California Dream](https://open.spotify.com/track/3ulIMvCtahvAmAQHcCbDFs) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 | 2022-11-05 |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-06-30 | 2022-08-11 |
+| [Celebrate](https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 2:46 | 2023-07-26 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-17 |  |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-11-17 |  |
 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 | 2022-06-24 | 2022-07-26 |
@@ -277,7 +278,7 @@
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 |  |
 | [Summer Freak](https://open.spotify.com/track/7MeLFWgbHK8XxiMwvAUyne) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Summer Freak](https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb) | 2:54 | 2022-06-09 | 2022-07-03 |
 | [Summer night](https://open.spotify.com/track/0E2MxOyjc4l5lh4IkX2bZO) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Summer](https://open.spotify.com/album/6UOZ5T5xRdaNitOLDv5hXD) | 3:36 | 2022-07-11 | 2022-07-19 |
-| [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 |  |
+| [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 | 2023-07-29 |
 | [SUMMER PUNCH!](https://open.spotify.com/track/1DS55QyHMFDkNySaPe7hB5) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [BLUE PUNCH](https://open.spotify.com/album/1V1QotYL18t1kflVEcVLxd) | 3:15 | 2021-11-17 | 2022-06-13 |
 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 | 2021-11-17 | 2023-07-26 |
 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 | 2022-06-18 | 2022-11-24 |

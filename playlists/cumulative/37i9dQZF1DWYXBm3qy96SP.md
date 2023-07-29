@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Greta Van Fleet
 
-455 songs - 1 day 2 hr 18 min
+456 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6) | 3:47 | 2023-07-20 | 2023-07-22 |
-| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 | 2023-07-28 |
+| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 |  |
 | [Dead To The World](https://open.spotify.com/track/1HuR4jf1BdzTIba7raFsPR) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Dead To The World](https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn) | 4:13 | 2023-03-23 | 2023-04-21 |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-03-16 | 2023-04-14 |
 | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/track/4lLSGmYY0E8ZGu2SzpmkAB) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/album/5g20tuP4LcpzftTWYsJaZY) | 2:23 | 2023-06-22 | 2023-06-30 |
@@ -102,7 +102,8 @@
 | [Digital Forest](https://open.spotify.com/track/49dxw4snvfZ9DBCceJXPo3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Digital Forest / Sugar Pill](https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9) | 2:48 | 2023-05-04 | 2023-05-12 |
 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 | 2023-04-13 | 2023-04-21 |
 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-23 | 2023-05-01 |
-| [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 |  |
+| [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 |  |
+| [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/track/1ln5j3zS7KDa4IYHJb2HyN) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/album/44WZJyA2WFQyFoXvczQXGc) | 3:36 | 2023-06-01 | 2023-06-09 |
 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 | 2023-05-04 | 2023-05-12 |
 | [Don't Look Back](https://open.spotify.com/track/3ZZBNJZF97eooss2YQZIIY) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Don't Look Back](https://open.spotify.com/album/3hvj8tLSD6VsnE4pLOUnXy) | 3:25 | 2023-05-18 | 2023-05-26 |
@@ -244,7 +245,7 @@
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-16 | 2023-04-14 |
 | [Meet the Star](https://open.spotify.com/track/0XyNVZN0PLXwq3NtGU4bKi) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Meet The Star](https://open.spotify.com/album/6jFN6hTXDjHQ2hgCqfIGYp) | 3:26 | 2023-06-22 | 2023-06-30 |
 | [Meet You There 2.0](https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Meet You There 2.0](https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb) | 3:22 | 2023-05-04 | 2023-05-12 |
-| [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-06 |  |
+| [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-06 | 2023-07-29 |
 | [Mermaid Vampire](https://open.spotify.com/track/4HE6BDc742Jv5cSkLVNXTJ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Mermaid Vampire](https://open.spotify.com/album/6DY1np2mZ7sr1bwVAfisZG) | 2:02 | 2023-07-13 | 2023-07-21 |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-08 | 2023-06-16 |
 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 | 2023-07-20 | 2023-07-28 |

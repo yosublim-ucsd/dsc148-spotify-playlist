@@ -1,13 +1,29 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 88158,
+  "num_followers": 88222,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE5OWZhZDgyNGFkNjY5NDJhYzY2MGNjYWY4OTNiOTMwNDU1Mzg3",
+  "snapshot_id": "MCxlMTE0ODliODljMDEyYzYzMDI1ZjI4Zjg2YTczZDU2NmEwMDE5MzUz",
   "tracks": [
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 13",
+        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 263174,
+      "name": "Soube que me Amava (Supe que me Amabas)",
+      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
+    },
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
@@ -31,18 +47,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 13",
-        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+        "name": "Amo Voc\u00ea Vol. 17",
+        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 263174,
-      "name": "Soube que me Amava (Supe que me Amabas)",
-      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
+      "duration_ms": 202431,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -59,22 +75,6 @@
       "duration_ms": 185448,
       "name": "eu te convido",
       "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 17",
-        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 202431,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 17",
-        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla e Anderson Freire",
-          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
-        }
-      ],
-      "duration_ms": 220357,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Disse Sim",
         "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201874,
       "name": "Disse Sim",
       "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 17",
+        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla e Anderson Freire",
+          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
+        }
+      ],
+      "duration_ms": 220357,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Como da Primeira Vez",
         "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 254676,
       "name": "N\u00e3o H\u00e1 Limites",
       "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        }
-      ],
-      "duration_ms": 174926,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Sobre o Amor",
         "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 172288,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 174926,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
     },
     {
       "added_at": "2023-07-14 16:56:11",

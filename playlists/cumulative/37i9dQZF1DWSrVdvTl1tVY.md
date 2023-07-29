@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Ewan McVicar
 
-563 songs - 1 day 9 hr 38 min
+564 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Anywhere With You](https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:42 | 2022-08-05 | 2022-11-18 |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-07-06 |  |
 | [At Last](https://open.spotify.com/track/3oslPWs0xWbFDHC4tODVx3) | [MEZIAH](https://open.spotify.com/artist/1Bp66CqgKU6Ncq6WoGd6CY), [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [At Last](https://open.spotify.com/album/5wlHLHEaqN7t8aKUTD9vHZ) | 2:35 | 2023-06-16 |  |
-| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-13 |  |
+| [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 | 2023-07-27 |  |
+| [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-13 | 2023-07-29 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-08-18 | 2023-03-09 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/7M1125M74qeHedad25bx4U) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 3:46 | 2022-06-16 | 2022-08-25 |
 | [B.O.T.A\. \(Baddest of Them All\) \[Edit\] \- Radio Edit](https://open.spotify.com/track/0MUVKM0uQXXMtN09oxj9pB) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [BEST WORKOUT BEATS](https://open.spotify.com/album/095gE2jde1eeiAV1fn2Mdd) | 3:46 | 2022-11-11 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : LEO
 
-130 songs - 8 hr 22 min
+131 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-07-13 | 2023-05-04 |
 | [Thaarame Thaarame](https://open.spotify.com/track/1hhLL2eWsnPtYCdDjbiRIU) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Kadaram Kondan](https://open.spotify.com/album/3kb1aQFDtAbPoGqf6X8jh9) | 3:48 | 2022-01-04 | 2022-08-25 |
 | [Thalli Pogathey](https://open.spotify.com/track/6wBXSf1chpnyXGOSvANs0a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8) | [Achcham Yenbadhu Madamaiyada \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aqLIJUbfDODyEmvpi5Fni) | 4:28 | 2022-01-04 | 2022-08-10 |
-| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2022-01-04 |  |
+| [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 | 2022-01-04 |  |
+| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2022-01-04 | 2023-07-29 |
 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 | 2022-12-14 |  |
 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 | 2022-08-24 |  |
 | [Thooriga \- From "Navarasa"](https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thooriga \(From "Navarasa"\)](https://open.spotify.com/album/21xzjyEysKTj6xEdceEa2E) | 3:22 | 2022-01-04 | 2022-06-07 |

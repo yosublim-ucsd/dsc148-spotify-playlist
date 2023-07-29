@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,504 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,631 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 74 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
 | 75 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 |
 | 76 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
-| 77 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
-| 78 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
+| 77 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
+| 78 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
 | 79 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
 | 80 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
 | 81 | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
 | 100 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 |
 
-Snapshot ID: `MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi`
+Snapshot ID: `MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi`

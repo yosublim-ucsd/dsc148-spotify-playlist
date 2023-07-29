@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-120 songs - 6 hr 31 min
+122 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Chacachá del Tren](https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Chacachá del Tren](https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH) | 2:01 | 2023-06-02 |  |
 | [Cielos Que Lloran](https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Una Vida No Es Suficiente](https://open.spotify.com/album/0C7eBRwY63jNnFyqqwrwlj) | 2:53 | 2021-11-26 |  |
 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 | 2021-11-26 |  |
-| [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-07-22 |  |
+| [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-07-22 | 2023-07-29 |
 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 | 2021-11-26 |  |
 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 | 2021-11-26 |  |
 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 | 2022-12-21 |  |
@@ -80,13 +80,14 @@
 | [Match Point](https://open.spotify.com/track/1RI2vKauyCDiNOUhyRVS9f) | [Sullivan](https://open.spotify.com/artist/57ntqarhwfjdilukJRuNAS) | [Match Point](https://open.spotify.com/album/3soDFwi6VpuJ1vVTc7grRi) | 3:14 | 2021-11-26 | 2022-07-15 |
 | [Mentiras](https://open.spotify.com/track/47wLTuzem6hjRlTk4hJe0N) | [Danau](https://open.spotify.com/artist/2UgqMQNyx35YgIehZ5Qmlk) | [Mentiras](https://open.spotify.com/album/6ouwwsu3y9CwwYhSYap7u2) | 3:26 | 2021-11-26 | 2022-07-29 |
 | [Mi Peor Decisión](https://open.spotify.com/track/7jy3aEdzuTuhcwTpxIBX07) | [Reynold](https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS), [Sh4med](https://open.spotify.com/artist/5R3tx9aqBNfc72wszd5Aa6) | [Mi Peor Decisión](https://open.spotify.com/album/7xLcY3LMrzkl81LfnineoU) | 2:28 | 2023-06-30 | 2023-07-22 |
+| [Miedo A Caer \(Opening 3 Latino Sub.amv\)](https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [CRISIS](https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R) | 2:54 | 2023-07-28 |  |
 | [Mientras el Mundo Se Apagaba \(Demo\)](https://open.spotify.com/track/6J19lCB1NnsgyRKUX9zJhI) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Demos y Viejas Historias, Vol\. 1](https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb) | 2:49 | 2021-11-26 | 2022-07-20 |
 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 | 2023-05-19 |  |
 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 | 2022-07-22 |  |
 | [Nada Más de Ti](https://open.spotify.com/track/04RzCX08t3KFGsJiZc7eHV) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Nada Más de Ti](https://open.spotify.com/album/09ybMfVY2bhKcfQE9N5XoT) | 3:16 | 2021-11-26 | 2022-07-23 |
 | [Nada Que Explicar](https://open.spotify.com/track/5ZirdB0vsnLf2MbnySb2Ao) | [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [Nada Que Explicar](https://open.spotify.com/album/6msmTlGD4x32Hc1BY0NPRL) | 3:06 | 2021-11-26 | 2022-07-27 |
 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 | 2022-07-22 |  |
-| [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 | 2021-11-26 |  |
+| [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 | 2021-11-26 | 2023-07-29 |
 | [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2021-11-26 | 2022-07-23 |
 | [No Estoy Roto](https://open.spotify.com/track/77FQkYA5Z9Kt69lYOAUr9j) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Laberinto](https://open.spotify.com/album/6l3lznEmHVDtb2hHae4vPx) | 4:13 | 2022-07-22 | 2022-07-29 |
 | [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 | 2022-07-22 | 2023-06-01 |
@@ -114,6 +115,7 @@
 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 | 2021-11-26 |  |
 | [Siempre la Cago](https://open.spotify.com/track/4iNZvtt1Bn0oCIMf8giWRF) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Interface](https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd) | [Siempre la Cago](https://open.spotify.com/album/5mxQSrhYKGDhsxhMJEi37z) | 3:34 | 2021-11-26 | 2022-07-21 |
 | [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 | 2023-04-28 |  |
+| [Te Seguiré](https://open.spotify.com/track/3jgYSzWBelkdbIT6i5MGYe) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Seguiré](https://open.spotify.com/album/5cQlyZifodz2DMKL78miNf) | 3:59 | 2023-07-28 |  |
 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 | 2022-12-21 |  |
 | [Te Voy a Tener](https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP) | [Adeline](https://open.spotify.com/artist/4io6l8hPhpvszZt29zZXKt) | [Te Voy a Tener](https://open.spotify.com/album/4qus8nd695aj9k2XJXTPme) | 3:06 | 2021-11-26 | 2022-07-13 |
 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 | 2021-11-26 |  |
@@ -123,7 +125,7 @@
 | [Un Año](https://open.spotify.com/track/1qayc8TXkZ54CfBPK4SWd9) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/68enzjVhVN7GNbtkGl5hl2) | 2:46 | 2021-11-26 | 2022-07-29 |
 | [Un Año](https://open.spotify.com/track/3cxNffyduQfuB5W9w9bbv9) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/57zOfuG9zThe5GfGKx97IT) | 2:46 | 2022-07-22 | 2023-01-14 |
 | [Un X100To \- Cover](https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Un X100To \(Cover\)](https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN) | 2:46 | 2023-07-14 |  |
-| [UnoDoce](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UnoDoce](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 | 2023-07-21 |  |
+| [UNODOCE](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UNODOCE](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 | 2023-07-21 |  |
 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 | 2021-11-26 |  |
 | [We're All a Dick Sometimes](https://open.spotify.com/track/6W74li23KmBPGlDPkoNnj5) | [Traits](https://open.spotify.com/artist/03XiGqilVkmYN6zuO89N8i) | [Limits](https://open.spotify.com/album/6E2j4xGEchzSCTSz5Nafur) | 3:21 | 2021-11-26 | 2022-07-23 |
 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 | 2022-07-22 |  |

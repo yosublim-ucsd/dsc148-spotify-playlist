@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,334 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,464 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 43 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 44 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
 | 45 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
-| 46 | [Simple Things \- Piano Version](https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 3:06 |
-| 47 | [Somebody Like That \- Acoustic](https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV) | 3:14 |
+| 46 | [Somebody Like That \- Acoustic](https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV) | 3:14 |
+| 47 | [Simple Things \- Piano Version](https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 3:06 |
 | 48 | [Prayed For You \- Wedding Version](https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed For You \(Wedding Version\)](https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO) | 3:25 |
 | 49 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
 | 50 | [Long Haul \- Stripped](https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul \(Stripped\)](https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq) | 4:02 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 91 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 |
 | 92 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 |
 | 93 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 |
-| 94 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
-| 95 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
+| 94 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
+| 95 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
 | 96 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 |
 | 97 | [She Had Me at Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 |
 | 98 | [Truth About You \- Piano Version](https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You \(Piano Version\)](https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM) | 3:25 |
 | 99 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 |
 | 100 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 
-Snapshot ID: `MCwxNTUwMzQyZWM2MGIwZGU0NGUwNTZjMzYyYmQwOTRkNzJmN2Y1MDg5`
+Snapshot ID: `MCw5ZTcwNzA2NmJlZDBjYzczZTUxMmIzZGI2YTk2ZTM4OWUxNmI0ZWRl`

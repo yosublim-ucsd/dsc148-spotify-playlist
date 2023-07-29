@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from A$AP Rocky, Lil Tecca and Travis Scott. ",
+  "description": "New music from Travis Scott, Drake, Central Cee and Offset. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -11768,7 +11768,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142911,
       "name": "Good Girls Ain't No Fun",
       "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
@@ -13894,7 +13894,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186453,
       "name": "I Can't Lie (with Kodak Black)",
       "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
@@ -14052,6 +14052,24 @@
       "duration_ms": 192137,
       "name": "I KNOW",
       "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
       "album": {
@@ -14858,7 +14876,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 208266,
       "name": "Insane in the Brain",
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
@@ -15219,6 +15237,28 @@
     },
     {
       "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "album": {
         "name": "Jerry Sprunger (with T-Pain)",
         "url": "https://open.spotify.com/album/6F8mOzZgINIIQDjCaegXH4"
       },
@@ -15574,7 +15614,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -15692,7 +15732,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -16270,6 +16310,24 @@
       "duration_ms": 150000,
       "name": "Laneswitch",
       "url": "https://open.spotify.com/track/56Sng0NtW0YYy4Edtpybm8"
+    },
+    {
+      "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Last Days",
+      "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
     },
     {
       "album": {
@@ -18318,7 +18376,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199128,
       "name": "Married with Millions",
       "url": "https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ"
@@ -18635,6 +18693,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "MELTDOWN",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
@@ -18734,6 +18810,24 @@
       "duration_ms": 159840,
       "name": "Million Dollars Worth of Game (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
     },
     {
       "album": {
@@ -20444,7 +20538,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 120939,
       "name": "No Bap",
       "url": "https://open.spotify.com/track/1mSYxiYncRwdKx6cT0bQoP"
@@ -20562,6 +20656,28 @@
       "duration_ms": 163626,
       "name": "NO DRIBBLE (with Stunna 4 Vegas)",
       "url": "https://open.spotify.com/track/69CQe4ekUZ7txcSfEXYFW9"
+    },
+    {
+      "album": {
+        "name": "No Fake Love (Gangsta Grillz Version)",
+        "url": "https://open.spotify.com/album/5zqaF2Nx9d5RbT16jkB4v9"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146976,
+      "name": "No Fake Love (Gangsta Grillz Version)",
+      "url": "https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF"
     },
     {
       "album": {
@@ -21604,6 +21720,28 @@
       "duration_ms": 175448,
       "name": "On the Low (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/3esaWH2z62yl2daClRTk3U"
+    },
+    {
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
       "album": {
@@ -22830,7 +22968,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 164551,
       "name": "Passport Bros (with J. Cole)",
       "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
@@ -32373,6 +32511,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "TOPIA TWINS",
+      "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
+    },
+    {
+      "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t"
       },
@@ -35549,6 +35705,24 @@
     },
     {
       "album": {
+        "name": "Woppenheimer",
+        "url": "https://open.spotify.com/album/4x5WsHqIKB2e88dFdK6cQi"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201547,
+      "name": "Woppenheimer",
+      "url": "https://open.spotify.com/track/66YBofdqc9pF2MbvdjD23I"
+    },
+    {
+      "album": {
         "name": "O.N.I.F.C. (Deluxe)",
         "url": "https://open.spotify.com/album/5S4SuPHbaozi5PDedAONTG"
       },
@@ -36058,7 +36232,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"

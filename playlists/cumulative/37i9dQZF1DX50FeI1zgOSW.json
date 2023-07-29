@@ -1993,6 +1993,36 @@
     },
     {
       "album": {
+        "name": "Puzhudhi | Coke Studio Tamil",
+        "url": "https://open.spotify.com/album/54gCOKcdYFvl0sRhHUj87u"
+      },
+      "artists": [
+        {
+          "name": "JHANU",
+          "url": "https://open.spotify.com/artist/0L1IXK07lAo0FQ2wfij2k7"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/4qDuBS2e3XRO3LOFm8niSY"
+        },
+        {
+          "name": "Mutthammaal",
+          "url": "https://open.spotify.com/artist/2k5kyg530rSRhTd0EbyJl7"
+        },
+        {
+          "name": "JK & Crew",
+          "url": "https://open.spotify.com/artist/59ehEIM4v5mpHMy9so6vRW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254708,
+      "name": "Puzhudhi | Coke Studio Tamil",
+      "url": "https://open.spotify.com/track/4ZoDl4LLSQfAnXkdO6OlXC"
+    },
+    {
+      "album": {
         "name": "Rain Rain Poi Thola",
         "url": "https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR"
       },

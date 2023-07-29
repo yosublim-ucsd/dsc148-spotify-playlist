@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,718 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,767 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 38 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 |
 | 39 | [Body Pump \- Sammy Virji Remix](https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Renaissance \(Kiwi Remixes\)](https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP) | 4:23 |
 | 40 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
-| 41 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
-| 42 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
+| 41 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
+| 42 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
 | 43 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 44 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
 | 45 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 46 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 | 47 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
-| 48 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
+| 48 | [Spend The Night](https://open.spotify.com/track/47S3zvHZpNTj0tgUNYjVOO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/3OZZyvrtjaYP3rsliOZhrs) | 3:30 |
 | 49 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
-| 50 | [Spend The Night](https://open.spotify.com/track/47S3zvHZpNTj0tgUNYjVOO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/3OZZyvrtjaYP3rsliOZhrs) | 3:30 |
+| 50 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
 | 51 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 |
 | 52 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 53 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 | 60 | [Insomnia](https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Channeler / Insomnia](https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E) | 4:38 |
 
-Snapshot ID: `MCw0NzNlN2Q0MmYxM2UyOGZlZmE3ZWYxNTM2M2Q2ZmU1YWQ3YmVhOWIx`
+Snapshot ID: `MCw5ZTdkN2U2YjUwNzg3ZTQ2NjAxMjEyNzM5ZGIxOWQxYTUzNDY3NDhm`

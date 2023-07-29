@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-124 songs - 9 hr 25 min
+125 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Stylish Thamizhachi](https://open.spotify.com/track/3SwCB7tN5NxOrXURK1cx2A) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Rubba Bend.Psycho Unit](https://open.spotify.com/artist/34De0LooTWBuWOFc5DGpkB) | [Arrambam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1F2H9ceSOWf74o5bhs2hCw) | 4:24 | 2022-10-18 |  |
 | [Takkunu Takkunu \- From "Mr\. Local"](https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Takkunu Takkunu \(From "Mr\. Local"\)](https://open.spotify.com/album/6X9im2EjoC80L7GXPV2tdj) | 3:32 | 2021-06-24 | 2023-05-20 |
 | [Thalli Pogathey](https://open.spotify.com/track/6wBXSf1chpnyXGOSvANs0a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8) | [Achcham Yenbadhu Madamaiyada \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aqLIJUbfDODyEmvpi5Fni) | 4:28 | 2021-06-24 | 2022-10-19 |
-| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2021-06-24 |  |
+| [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 | 2021-06-24 |  |
+| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2021-06-24 | 2023-07-29 |
 | [Thavani Pootta \(From "Sandakozhi"\)](https://open.spotify.com/track/7qK0PIinSjWYyBVgCHqPsA) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine's Day Special 2015](https://open.spotify.com/album/1caWEbXGg6jgnSyOgQwtt8) | 4:23 | 2022-10-18 | 2022-11-14 |
 | [Thavani Pootta \(From "Sandakozhi"\)](https://open.spotify.com/track/0CmXnoIhxUwHiaSQab2cnM) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Hits of Harris & Yuvan Isai Thendral](https://open.spotify.com/album/0mID66WWYchIZY5DzafyTr) | 4:23 | 2022-10-18 |  |
 | [Theradi Veeethiyil Devathai \(From "Run"\)](https://open.spotify.com/track/1h9v7Ve7PG9ImyuwAcHodB) | [Manikka Vinayagam](https://open.spotify.com/artist/5sehJiCiH15ihXYCKyEALX), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Best Songs from Lingusamy Direction](https://open.spotify.com/album/6SSWrIU89IYeGfrEvV00WE) | 4:55 | 2022-10-18 | 2022-11-13 |

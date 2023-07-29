@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: LAUF
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,908 likes - 95 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,956 likes - 95 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 94 | [Trouw Met Mij](https://open.spotify.com/track/5Afbp36L9C3MhUh8zapTyH) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Trouw Met Mij](https://open.spotify.com/album/3DxQ6vASImCivW7rAc8AAJ) | 3:17 |
 | 95 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCxkOTNiOTA1N2FmMWNhMzc3OGM4ZDY2MjI1YWQ5OTYwZjk0YjBhNzU3`
+Snapshot ID: `MCxhNjU2MTYyYzcyNWMwYmUyYzQ3ZWExNjkyNTg1ZTRkYzFlODI5YjY2`

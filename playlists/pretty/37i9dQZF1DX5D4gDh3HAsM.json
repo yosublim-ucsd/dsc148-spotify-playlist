@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509839,
+  "num_followers": 509818,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
+  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 299040,
       "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
       "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Big Band Christmas",
         "url": "https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN"
       },
@@ -737,24 +721,20 @@
       "url": "https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Merriest",
-        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        },
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 237613,
-      "name": "That Holiday Feeling",
-      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+      "duration_ms": 178066,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -775,6 +755,26 @@
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Merriest",
+        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "That Holiday Feeling",
+      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
     },
     {
       "added_at": "2021-11-12 15:48:58",

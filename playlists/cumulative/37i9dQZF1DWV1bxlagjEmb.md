@@ -4,7 +4,7 @@
 
 > like a dog with a bird at your door
 
-115 songs - 7 hr 47 min
+116 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-04-20 |  |
 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 | 2023-04-20 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2023-04-20 |  |
+| [bloomington](https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [what we leave behind](https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM) | 4:19 | 2023-07-28 |  |
 | [Bodies](https://open.spotify.com/track/6zMSeU6FeAOeMDdDfLPA9g) | [Salt Water Baby](https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj) | [Bodies](https://open.spotify.com/album/6l5KXz1Jb4x8noYHfriPq3) | 3:04 | 2023-04-20 |  |
 | [Broadripple Is Burning](https://open.spotify.com/track/3EIQofQf9NloNNmvg45MFE) | [Margot & The Nuclear So And So's](https://open.spotify.com/artist/4fw9oPmbbmHW5aAJpkJdlI) | [Not Animal](https://open.spotify.com/album/0am24qfT1RsxWY2bxhcrJB) | 4:33 | 2023-04-20 |  |
 | [Brother](https://open.spotify.com/track/1LZGNpNedhf3wSkyDw2v41) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Brother](https://open.spotify.com/album/7jnW7WICT2VcEx798NlN02) | 2:34 | 2023-06-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: Matcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,742 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,753 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Not Sorry](https://open.spotify.com/track/3OdlFUOQX41biCMp92B7dq) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Not Sorry](https://open.spotify.com/album/0kE76uk7BUTXChOxsAHnJZ) | 2:39 |
 | 50 | [รับรักที \(Say Yes\)](https://open.spotify.com/track/53yviWwlIJIEPUdArJnk5G) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [รับรักที \(Say Yes\)](https://open.spotify.com/album/4Axr0kZYMIdXwMqkoLFQw6) | 3:55 |
 
-Snapshot ID: `MCxlOWU2N2Q2YThjNzU0ZTZjZjg0OTM1NjUwMmMwY2IzZGU5ZGI3MmI3`
+Snapshot ID: `MCwwODE5YTAxNDlmYmI5MjUwNzA4NzZlNjZlZmIzNDNmZTA3NDIwOTJm`

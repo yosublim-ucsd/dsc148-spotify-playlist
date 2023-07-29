@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: SkyeChristy
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Fitts
 
-504 songs - 1 day 2 hr 55 min
+507 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 | 2022-09-16 | 2022-12-24 |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
+| [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 |  |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
 | [Beach Zombies](https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Beach Zombies](https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym) | 2:37 | 2023-03-03 | 2023-07-01 |
@@ -178,6 +179,7 @@
 | [Greek Street](https://open.spotify.com/track/3FOMG322NEExR04jEubVTW) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Greek Street](https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22) | 2:42 | 2023-02-24 |  |
 | [Green](https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Green](https://open.spotify.com/album/2dCjM7gJaLq5hdihS9u1wx) | 3:24 | 2022-11-18 | 2023-02-25 |
 | [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-27 | 2023-05-27 |
+| [growing up sucks](https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7) | [Taylor Mecca](https://open.spotify.com/artist/4ghJVwRz768E9qiSzQACGe) | [growing up sucks](https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA) | 3:33 | 2023-07-28 |  |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2023-02-11 |
 | [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 |  |
@@ -209,6 +211,7 @@
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 |  |
 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-03-11 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
+| [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 | 2023-07-28 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-09-09 | 2022-11-13 |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 | 2022-10-31 |
@@ -440,7 +443,7 @@
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 |  |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 | 2022-07-02 |
-| [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 |  |
+| [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 | 2023-07-29 |
 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-02-24 | 2023-05-06 |
 | [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 | 2022-09-16 | 2022-10-15 |
 | [The End of the World](https://open.spotify.com/track/20UbaFXoGiRFSU1IpFOSAb) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/1xIxBF7LvxRAVehVr6oXKR) | 2:55 | 2022-09-16 | 2022-12-24 |

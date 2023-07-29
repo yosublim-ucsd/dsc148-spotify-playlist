@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,594 songs - 5 day 17 hr 52 min
+3,595 songs - 5 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Chorozinho](https://open.spotify.com/track/209NUwzoKrI55HWQlNgLZ6) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Chorozinho](https://open.spotify.com/album/31E8HYZ2bBPm3nrzV3Meko) | 2:15 | 2022-09-01 | 2022-09-09 |
 | [Chrome](https://open.spotify.com/track/4QwB3OnOhUGuS8kDBEcYb5) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Chrome](https://open.spotify.com/album/6ziGVeyn9fyD29jpFJueTw) | 1:43 | 2019-12-04 | 2020-03-20 |
 | [Chrome](https://open.spotify.com/track/2OefumgVvzNNF1E1w0T1Cq) | [midnight alpha.](https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK), [nogems](https://open.spotify.com/artist/1BKtdC55I0ipTBft6RKMvF) | [Chrome](https://open.spotify.com/album/5rEJafuH9pLYT8gM6cBOgI) | 3:08 | 2022-03-17 | 2022-06-09 |
-| [Chuva](https://open.spotify.com/track/565d7AsrVYxwFGcvXZIlot) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Chuva](https://open.spotify.com/album/1U6wYGci8iOTnJWCZLdKd8) | 2:18 | 2023-07-27 |  |
+| [Chuva](https://open.spotify.com/track/565d7AsrVYxwFGcvXZIlot) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Chuva](https://open.spotify.com/album/1U6wYGci8iOTnJWCZLdKd8) | 2:18 | 2023-07-27 | 2023-07-29 |
 | [Cidade](https://open.spotify.com/track/5EThnlyGxPua0H7YuUbWf2) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Cidade](https://open.spotify.com/album/6maNGK01dHqiWelCJFLWP5) | 2:10 | 2021-04-09 | 2023-07-28 |
 | [cielo](https://open.spotify.com/track/708BmbNyEFsWl0PQXWHknO) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [cielo](https://open.spotify.com/album/11Q6QvFtKFU2CQpfUMSzMH) | 2:30 | 2019-05-26\* | 2020-10-23 |
 | [Cigs on Keys](https://open.spotify.com/track/1MbpfRAe8hlKTAgX1kSVKg) | [Quinte](https://open.spotify.com/artist/4SJgGbyXJspqhUmm6nbvyq) | [Ashtray Diaries](https://open.spotify.com/album/5LcgrLNVeC1OrCqcFptYf4) | 1:45 | 2020-03-04 | 2020-05-25 |
@@ -1726,6 +1726,7 @@
 | [Lights](https://open.spotify.com/track/6PStVF9NRkaGba63BdYVBS) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Lights](https://open.spotify.com/album/0vqdLY4WsIGDSE9xZFcD7t) | 2:12 | 2021-08-07 | 2022-03-25 |
 | [Lights Out](https://open.spotify.com/track/1xYrQE0XStZEJ9Z5QnFsJL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Lights Out](https://open.spotify.com/album/1PjzWg4NKA4MO6a1yN4yMv) | 1:48 | 2022-11-24 |  |
 | [Lights Out](https://open.spotify.com/track/6S9TAvxvhHt3ASUMxcvvCz) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Lights Out](https://open.spotify.com/album/2ZCPxfJJJLdh3EO11edL6C) | 1:48 | 2022-10-06 | 2022-11-24 |
+| [lightworks](https://open.spotify.com/track/6MkBupjsDf6EELEznF7mk3) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [lightworks](https://open.spotify.com/album/3FJHdvk1sbjW0lNIC3tM4m) | 1:32 | 2023-07-27 |  |
 | [Like A Bird](https://open.spotify.com/track/3OTcXmVsChQzflumr0BtK8) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Like A Bird](https://open.spotify.com/album/6jf9OHWeJUmygZeGzkslQS) | 2:13 | 2021-04-30 | 2022-01-21 |
 | [Like Night Owls](https://open.spotify.com/track/6D6WzLKZ0e7qnHsANlslAQ) | [This Is Tomorrow](https://open.spotify.com/artist/3G5wyB2uNUo9x4nFXgPrws) | [Like Night Owls](https://open.spotify.com/album/5iNSTGaMQevZHHL5EzgLhL) | 2:19 | 2021-08-19 | 2021-09-17 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2021-08-13 | 2021-11-12 |

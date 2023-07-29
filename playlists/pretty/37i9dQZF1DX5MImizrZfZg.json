@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 52481,
+  "num_followers": 52515,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk0ZmNhYmIxOTdlZWFiMzc3ZDNlZWQ3YmZlYTc3Mjk3YWM5MWI5",
+  "snapshot_id": "MCxkZmI0ZjNhYzI2MDM3NTFhNzE3ZTAyOWViYmQyNjExNDMwNmVhZjUw",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Both Sides",
-        "url": "https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 295760,
-      "name": "So Divine",
-      "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "110 Degrees and Rising",
         "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 279653,
       "name": "Just Like The First Time",
       "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Both Sides",
+        "url": "https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 295760,
+      "name": "So Divine",
+      "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
     },
     {
       "added_at": "2020-08-19 19:15:51",

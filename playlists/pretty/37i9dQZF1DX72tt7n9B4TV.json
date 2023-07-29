@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for those summer days. ",
-  "num_followers": 31263,
+  "num_followers": 31298,
   "original_name": "Summer Rock 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTEzYzcxM2ViZmU4ZTE0MmNkYmY4YTU4Y2ExNWE4N2JhOTQwMWVj",
+  "snapshot_id": "MCwxZWUxNTJhNjMxN2IwOGFhOTExMmEwZTg2ZGY3NDljMDMwM2QwZWJj",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
+      "added_at": "2023-07-28 14:13:22",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "This Is Why",
@@ -263,22 +279,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Rose-Colored Boy",
-      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 235600,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "PARTY ON MY DEATHBED",
-        "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "PARTY ON MY DEATHBED",
-      "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
         "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "PARTY ON MY DEATHBED",
+        "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "PARTY ON MY DEATHBED",
+      "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
     },
     {
       "added_at": "2023-05-25 20:52:42",

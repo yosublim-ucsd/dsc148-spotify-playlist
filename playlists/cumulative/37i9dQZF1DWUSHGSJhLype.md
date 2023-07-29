@@ -4,7 +4,7 @@
 
 > aquele mexidão envolvente que o brasileiro ama / Foto: Felipe Amorim
 
-118 songs - 5 hr 31 min
+119 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Roça Em Mim](https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Roça Em Mim](https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl) | 2:38 | 2023-05-15 |  |
 | [Safado](https://open.spotify.com/track/37OIusjSUFvt0uqEE6r2Ux) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Safado](https://open.spotify.com/album/70vkNMgE61MGPvgMa04evp) | 2:49 | 2023-05-15 | 2023-06-02 |
 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 | 2023-05-15 | 2023-06-02 |
+| [Sem Sentimento Nenhum](https://open.spotify.com/track/3bIHaq2rziiZyL6xVm7FSG) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Prazer, Eu Sou Kadu Martins](https://open.spotify.com/album/6W4vZKpjvAx1a9BwncWue8) | 2:27 | 2023-07-28 |  |
 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 | 2023-05-15 |  |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2023-05-15 |  |
 | [Só um Pagode \- Ao Vivo](https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Só um Pagode \(Ao Vivo\)](https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ) | 2:21 | 2023-05-15 |  |

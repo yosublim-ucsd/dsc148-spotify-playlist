@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,101 songs - 2 day 9 hr 2 min
+1,102 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2022-07-09 | 2022-07-11 |
 | [Laatste Rondje](https://open.spotify.com/track/5alA8RrqNso76ylzLCs7kg) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 2:46 | 2022-12-03 | 2022-12-12 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
-| [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2022-11-12 |  |
+| [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2022-11-12 | 2023-07-29 |
 | [Lane Assist](https://open.spotify.com/track/09IjgfAdMkRuZ7W0bkkswP) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:56 | 2021-09-05 | 2021-09-10 |
 | [Lang](https://open.spotify.com/track/7kxUp5JrJKWg0bgxvunnI9) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:37 | 2022-01-29 | 2022-02-07 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-28 | 2022-12-31 |
@@ -730,6 +730,7 @@
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2022-08-24 |  |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-20 |  |
 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 | 2022-10-29 | 2022-12-03 |
+| [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-28 |  |
 | [Nu Wij Niet Meer Praten](https://open.spotify.com/track/13UfB1tm7QYrhtW8FhPYmW) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Nu Wij Niet Meer Praten](https://open.spotify.com/album/3PbHh4WEBxiXZj3eXoiRP2) | 3:12 | 2021-03-27\* | 2021-05-16 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-12 | 2022-08-08 |
 | [Oase](https://open.spotify.com/track/0caMN9pj7yQkSs3MM0QXG8) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Talou](https://open.spotify.com/album/5nTBO5C2cKIypuPSleM2IW) | 4:21 | 2021-11-19 | 2021-12-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. Local Natives",
+  "description": "The highest quality alternative blend ft. Bethany Cosentino",
   "name": "Grade A",
   "tracks": [
     {
@@ -6558,10 +6558,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226893,
       "name": "It\u2019s Fine",
       "url": "https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj"
+    },
+    {
+      "album": {
+        "name": "Natural Disaster",
+        "url": "https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h"
+      },
+      "artists": [
+        {
+          "name": "Bethany Cosentino",
+          "url": "https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "It\u2019s Fine",
+      "url": "https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb"
     },
     {
       "album": {
@@ -9155,7 +9173,7 @@
     },
     {
       "album": {
-        "name": "Odyssey (Spotify Only)",
+        "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
       "artists": [

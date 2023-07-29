@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Idman",
-  "num_followers": 39089,
+  "description": "R&B of the moment by the artists of the future. Cover: Saint Harison",
+  "num_followers": 39102,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2M3MDYxOWJkZDVmNTkyN2RkMTQ5NjkzNmQxZTVjYWVhNGI4MzI3",
+  "snapshot_id": "MCwwMzI4NGEyMzcwYzQ4Y2Q0ZTI3NWQxMjMxYWQwZjFjNmU4Y2UwYTU2",
   "tracks": [
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "ego talkin'",
+      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
+    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
     },
     {
-      "added_at": "2023-06-16 05:54:28",
+      "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Don't Get Too Cozy",
-        "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/12WuhKgwN4VUQVkIgzbT1G"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
         }
       ],
-      "duration_ms": 175495,
-      "name": "Luv Songs (Unruly)",
-      "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+      "duration_ms": 141055,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/1VYUd9fdOaOCL47pkGd57z"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "3 of Us",
@@ -187,6 +219,42 @@
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) - Bonus Track",
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
+    },
+    {
+      "added_at": "2023-06-16 05:54:28",
+      "album": {
+        "name": "Don't Get Too Cozy",
+        "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 175495,
+      "name": "Luv Songs (Unruly)",
+      "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 167355,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
     },
     {
       "added_at": "2023-07-23 08:57:12",
@@ -219,6 +287,22 @@
       "duration_ms": 233826,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,26 +603,6 @@
     {
       "added_at": "2023-05-05 05:18:45",
       "album": {
-        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
-        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        },
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
-      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
-    },
-    {
-      "added_at": "2023-05-05 05:18:45",
-      "album": {
         "name": "Sadboy, Vol. 1",
         "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
@@ -663,22 +727,6 @@
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
-    },
-    {
-      "added_at": "2023-05-05 05:18:45",
-      "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "ego talkin'",
-      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,22 +911,6 @@
       "duration_ms": 123966,
       "name": "BLOOD",
       "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1167,38 +1199,6 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Reassurance",
-        "url": "https://open.spotify.com/album/1jd1ze2YWeO2hUR0USOrVG"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 183651,
-      "name": "Reassurance",
-      "url": "https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8"
-    },
-    {
-      "added_at": "2022-12-16 05:32:36",
-      "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 293571,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
     },
     {
       "added_at": "2023-01-20 05:00:00",

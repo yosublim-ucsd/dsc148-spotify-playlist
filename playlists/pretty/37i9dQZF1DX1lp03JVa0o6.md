@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,108 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,172 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 14 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 | 15 | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V) | 2:12 |
 | 16 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
-| 17 | [Something To Hold On To](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Something To Hold On To](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
+| 17 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 18 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 | 19 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
 | 20 | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4jFAyLOFXPqsxb5TmrHWUj) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/2APyxj6pJrqb7H7IHP5Bgd) | 2:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 89 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
 | 90 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 
-Snapshot ID: `MCw3YjQyMjFjNjdhOTRmOTM3YjYzYzUzZjcxNjM1OTY0N2FmYTM0YjI3`
+Snapshot ID: `MCw0YWM5NmYyNDRmYTQzZWFjMmYxNGE1YWQ1NDY5ZTI2NDRjMDkxYjVi`

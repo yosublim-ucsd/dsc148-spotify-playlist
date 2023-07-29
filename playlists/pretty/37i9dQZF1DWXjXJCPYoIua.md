@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,356 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,522 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 86 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
 | 87 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
 | 88 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
-| 89 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
-| 90 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 |
+| 89 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 |
+| 90 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
 | 91 | [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 |
 | 92 | [Pimp on \(feat\. Aleman, Jarabe Kidd, Robot, Poofer & iQlover\)](https://open.spotify.com/track/3GPSvZvRl9clDZi0doxPQM) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Jarabe kidd](https://open.spotify.com/artist/5absue45Q798sotcg1d0FD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Poofer](https://open.spotify.com/artist/6KH83UCF9zwNaBi4IIJnjE), [iQlover](https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq) | [West Gold](https://open.spotify.com/album/4cM23aZSWB8PP6LtYRNXrs) | 4:55 |
 | 93 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 100 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 
-Snapshot ID: `MCw4N2YzMzBhM2I5Y2QwODk3YWRjMDhlZjYzYjAyMjY4Y2FjOTgwZGUw`
+Snapshot ID: `MCw2ZWI0ODM5ZDlhZWRiMzBjMGNjNTBjZWZjMGZjYmU3N2IwNzY2M2Q2`

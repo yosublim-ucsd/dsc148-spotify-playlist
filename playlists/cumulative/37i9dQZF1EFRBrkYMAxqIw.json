@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Last One On My Mind",
+        "url": "https://open.spotify.com/album/1Uy6JJzeVXvLJrIgiWjrjQ"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Last One On My Mind",
+      "url": "https://open.spotify.com/track/5GqXJIFLTN6cCSKojL326c"
+    },
+    {
+      "album": {
         "name": "Late Nights (feat. Saint Wilder)",
         "url": "https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M"
       },

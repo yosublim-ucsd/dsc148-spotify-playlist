@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-212 songs - 10 hr 56 min
+213 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Fruto Rojo](https://open.spotify.com/track/62UrQDHFgz4FXRtVzNAyp0) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:09 | 2022-06-10 |  |
 | [Fuck Competi](https://open.spotify.com/track/10j7AJYks6t19IxS00jqr5) | [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Barderos](https://open.spotify.com/artist/3H57AwuKV3100IAiRjtD5c) | [Fuck Competi](https://open.spotify.com/album/0TnHmR2j2TnAQCRtiGxt8s) | 3:11 | 2022-04-11 | 2022-11-19 |
 | [FUCK EL POLICE](https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-05-12 |  |
+| [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 | 2023-07-28 |  |
 | [Fuck love](https://open.spotify.com/track/4b537iXuUArOdLDSmtbj6E) | [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Fuck love](https://open.spotify.com/album/3tNNBbrS5YrOYisgJUxPN5) | 2:33 | 2022-02-25 | 2022-04-12 |
 | [Fuego](https://open.spotify.com/track/19ETuz3wXy0nuwhZ0EZ7Se) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Fuego](https://open.spotify.com/album/44EZzCWJiy8sNUhP1ijrcW) | 3:28 | 2022-04-11 | 2022-06-11 |
 | [Fuego](https://open.spotify.com/track/3BrQ82xaqpTfulmMbkZynI) | [Vazquez](https://open.spotify.com/artist/4aRMEua8fTfPbbVMTXPyup) | [Fuego](https://open.spotify.com/album/5qf8vfYWJ9xDIKYs1ve8c6) | 3:45 | 2021-11-26 | 2022-04-12 |
@@ -159,7 +160,7 @@
 | [Peatonal de Sombras](https://open.spotify.com/track/28kvGxsxkaqMfpLumZ5ygj) | [Sub](https://open.spotify.com/artist/0J1AbzNzCjcNrGW7KUABe1) | [Peatonal de Sombras](https://open.spotify.com/album/09AbzqLcZRYYzb8nYE35Cp) | 3:38 | 2021-11-26 | 2023-04-09 |
 | [PELOTUDA](https://open.spotify.com/track/5jq68GFT3eBI341pgT5Zwh) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [PELOTUDA](https://open.spotify.com/album/7ttTUSFx4HqlALyCqqOxDP) | 3:05 | 2021-11-26 |  |
 | [Pensando en Verte](https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Pensando en Verte](https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW) | 3:02 | 2022-10-27 |  |
-| [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 | 2021-11-26 |  |
+| [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 | 2021-11-26 | 2023-07-29 |
 | [Perdón Mamá](https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/7qJ0BTRFXF9Sjh2XCqhA02) | 2:32 | 2022-06-10 | 2023-01-04 |
 | [Pistola$](https://open.spotify.com/track/7Lg9aoBA9kzGHwV572Xgdw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/0nhj2ZKVac57rljWC5yLnw) | 3:04 | 2022-06-10 | 2022-11-12 |
 | [Pistola$](https://open.spotify.com/track/7nDj7K2tDAx18VCqkCrf56) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/08sixJdRCtiGDF1UsF6gPM) | 3:04 | 2021-11-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-88 songs - 5 hr 43 min
+89 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 | 2021-11-19 |  |
 | [Get Together](https://open.spotify.com/track/0VOUTJdbl1xUPSp92MtohU) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Get Together](https://open.spotify.com/album/4MlWINtVUMSiJziqDpyvvx) | 4:12 | 2021-10-22 | 2023-03-18 |
 | [Hold On](https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Hold On](https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG) | 4:19 | 2021-10-22 | 2022-04-09 |
-| [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 |  |
+| [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 | 2023-07-29 |
+| [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 | 2021-10-22 |  |
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 | 2022-07-08 |  |
 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 | 2023-04-07 |  |

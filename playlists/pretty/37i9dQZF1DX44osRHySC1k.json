@@ -1,29 +1,13 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 51554,
+  "num_followers": 51563,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzY5YjcwYzkxYmRkMmY4NzAzZTg4MjlkNGFiNjgzMmU5MTBkYmZh",
+  "snapshot_id": "MCxjNjY4Yjc1YjQ3MGI1YmM1MDRlMWIwZjZjNmMxNGIzNDA5MjNjNjU1",
   "tracks": [
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 478520,
-      "name": "Lovesong from the Mountains",
-      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
-    },
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Traditions & Traitors",
-        "url": "https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f"
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
       },
       "artists": [
         {
-          "name": "Elskavon",
-          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Soft Night",
-      "url": "https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak"
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -71,6 +55,22 @@
       "duration_ms": 136000,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Traditions & Traitors",
+        "url": "https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Soft Night",
+      "url": "https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+        "name": "Falling Stars",
+        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
       "artists": [
         {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+          "name": "Delle Alpi",
+          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
         }
       ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+      "duration_ms": 158423,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -263,22 +263,6 @@
       "duration_ms": 170085,
       "name": "Loving-Kindness",
       "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Falling Stars",
-        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
-      },
-      "artists": [
-        {
-          "name": "Delle Alpi",
-          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -311,6 +295,22 @@
       "duration_ms": 139593,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Dreamland - Solo Piano Version",
-      "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Traces",
         "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 128333,
       "name": "Onthou",
       "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Dreamland - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dream Voucher",
         "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 155039,
       "name": "Dream Voucher",
       "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Floating, Always",
         "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
       "artists": [
         {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Cosmos",
-      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -871,6 +855,22 @@
       "duration_ms": 143277,
       "name": "After The Silence",
       "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 271285,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
-      },
-      "artists": [
-        {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
-        }
-      ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Stelliferous",
         "url": "https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207000,
       "name": "Stelliferous",
       "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+      },
+      "artists": [
+        {
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",

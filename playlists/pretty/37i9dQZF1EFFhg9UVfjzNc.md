@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492 likes - 63 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 494 likes - 63 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 36 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
 | 37 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 |
 | 38 | [Escreve o Teu Nome em Nós \- Playback](https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Escreve o Teu Nome em Nós \(Playback\)](https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy) | 4:56 |
-| 39 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
-| 40 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 39 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 40 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
 | 41 | [Jesus \- Ao Vivo](https://open.spotify.com/track/7v6TBs2l91cNdiyZujXbUn) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 6:38 |
 | 42 | [Simples Canção](https://open.spotify.com/track/3uAqfeX191qTIoB5N2vNWp) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Simples Canção](https://open.spotify.com/album/03q3oGwLsPD8pxwEAbcLNw) | 3:26 |
 | 43 | [Sonhos De Deus](https://open.spotify.com/track/6mlfHKppzLtaqwb4UbJ16t) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Rasgue Os Céus](https://open.spotify.com/album/6tJWnFjkKp9eakuKk9BEUs) | 6:04 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 62 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 63 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `MjgxNzM3NDAsMDAwMDAwMDAwNDZjYTgyMTVlOGVjMjk4Njk5MGZlNzlhY2M1YTZkZA==`
+Snapshot ID: `MjgxNzY2MjAsMDAwMDAwMDAwMDI2MGNmYTJlM2ZiZDY2ODU2NTM0OWNkYzgyOGY0Ng==`

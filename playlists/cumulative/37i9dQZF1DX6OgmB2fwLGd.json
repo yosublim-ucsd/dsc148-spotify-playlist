@@ -4557,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+    },
+    {
+      "album": {
         "name": "Blood Shore Season 3",
         "url": "https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy"
       },
@@ -5026,6 +5044,24 @@
       "duration_ms": 156000,
       "name": "Games",
       "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
+    },
+    {
+      "album": {
+        "name": "Gangsta Boogie",
+        "url": "https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Gangsta Boogie",
+      "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
     },
     {
       "album": {
@@ -6884,7 +6920,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 136800,
       "name": "INDPNDT",
       "url": "https://open.spotify.com/track/40Y3y0L9KIzNyNwog3kToZ"
@@ -8453,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "MBGB2",
+        "url": "https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t"
+      },
+      "artists": [
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103783,
+      "name": "MBGB2",
+      "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
+    },
+    {
+      "album": {
         "name": "THE INSPECTION",
         "url": "https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B"
       },
@@ -9112,7 +9166,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 88893,
       "name": "New Drank",
       "url": "https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw"
@@ -9366,7 +9420,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 136783,
       "name": "Not A Beanie",
       "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
@@ -9586,6 +9640,36 @@
       "duration_ms": 201960,
       "name": "Old English",
       "url": "https://open.spotify.com/track/7hcjkFjIyw8vsUOVIDlcmS"
+    },
+    {
+      "album": {
+        "name": "One Margarita (Margarita Song) [feat. Saucy Santana] [Saucy Remix]",
+        "url": "https://open.spotify.com/album/1u0sKdA7niUzooEbjU7ypF"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165976,
+      "name": "One Margarita (Margarita Song) [feat. Saucy Santana] - Saucy Remix",
+      "url": "https://open.spotify.com/track/7kT07Kchz7TIyylr6RNbVa"
     },
     {
       "album": {
@@ -12596,7 +12680,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165180,
       "name": "TELL ME U ALONE!",
       "url": "https://open.spotify.com/track/1gfQDhApqDoOsPmLtMhP0z"
@@ -12684,7 +12768,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 133999,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
@@ -13506,7 +13590,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 112153,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"

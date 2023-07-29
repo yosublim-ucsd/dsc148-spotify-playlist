@@ -4,7 +4,7 @@
 
 > Relive the fun of CMA Fest on July 19th at 8/7c on ABC! Cover: Luke Combs
 
-242 songs - 13 hr 16 min
+243 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Footprints On The Moon](https://open.spotify.com/track/66mmgHMVELzJ95xzfeFL2r) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:10 | 2021-08-23 | 2022-06-01 |
 | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/track/5b4n4Lp2ZAPDGO9nQM5IHR) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/album/1pr7LMNaajjMMWnGjU9pM9) | 2:56 | 2023-04-29 |  |
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2021-08-23 | 2023-04-30 |
-| [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-08-23 |  |
+| [Freedom Was A Highway](https://open.spotify.com/track/28suql59B0WWfWtL3rZfDy) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:32 | 2023-04-29 |  |
+| [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-08-23 | 2023-07-29 |
 | [Gave It Back Broken](https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Gave It Back Broken](https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0) | 4:05 | 2022-06-01 | 2023-04-30 |
 | [Getting Over Him](https://open.spotify.com/track/3WqT52bSkjn8tG7N9rn3Ba) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 2:46 | 2022-06-01 | 2023-04-30 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-06-01 | 2023-04-30 |

@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-133 songs - 9 hr 2 min
+138 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 |  |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2023-02-23 |  |
+| [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 | 2023-07-28 |  |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
@@ -38,6 +39,7 @@
 | [Cowboy Dream](https://open.spotify.com/track/43SSANT3vfxLkLdriz3VFp) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Cowboy Dream](https://open.spotify.com/album/0W8iflSWh33zJ4GjepIL9E) | 3:11 | 2023-02-23 | 2023-07-15 |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-06-23 |  |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-23 |  |
+| [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 |  |
 | [Daisy](https://open.spotify.com/track/5R27EWWvm93ihBXaIebEqr) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People \(Deluxe Edition\)](https://open.spotify.com/album/5xLq48DQQuDbvcdM9ofNwv) | 4:34 | 2023-02-23 |  |
 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 | 2023-02-23 |  |
@@ -57,6 +59,7 @@
 | [Formula One](https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:52 | 2023-04-07 |  |
 | [Germs](https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Acetone](https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9) | 4:44 | 2023-06-16 |  |
 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-06-12 |  |
+| [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 | 2023-07-28 |  |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-06-12 |  |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 |  |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-23 |  |
@@ -105,7 +108,9 @@
 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-19 |  |
 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 | 2023-02-23 |  |
 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 | 2023-06-23 |  |
+| [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 | 2023-07-28 |  |
 | [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 |  |
+| [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 | 2023-03-17 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-02-23 |  |
 | [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 9:13 | 2023-02-23 |  |

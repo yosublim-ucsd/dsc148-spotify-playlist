@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-124 songs - 7 hr 31 min
+125 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 | 2022-01-14 |  |
 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 | 2022-01-14 |  |
 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 | 2022-09-23 |  |
+| [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 | 2023-07-28 |  |
 | [China](https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:19 | 2022-07-08 |  |
 | [China](https://open.spotify.com/track/6sZqjAOBBRTG3yKFduEjdQ) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/2MurDlHKd3umOCIXtDX9J7) | 3:19 | 2022-01-14 | 2022-07-28 |
 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 | 2022-01-14 |  |
@@ -69,7 +70,7 @@
 | [Las Solteras](https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Las Solteras](https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF) | 3:20 | 2022-06-08 | 2022-10-01 |
 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 | 2022-01-14 |  |
 | [Lo Nuestro](https://open.spotify.com/track/58EFUegqstw2DiwkSSA6iD) | [Catártica Animal](https://open.spotify.com/artist/0KLLLWEbxN8tPnjT1h9byn) | [Canciones para el Desvelo](https://open.spotify.com/album/7BHiKA8Ns9EAngqXFrUuLU) | 3:23 | 2022-01-14 | 2022-07-29 |
-| [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 | 2022-01-14 |  |
+| [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 | 2022-01-14 | 2023-07-29 |
 | [Lo Que Me Hizo Usted](https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Lo Que Me Hizo Usted](https://open.spotify.com/album/2sxMuWDDyA00O2X2HJ2HT5) | 3:58 | 2022-01-14 | 2023-01-21 |
 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 | 2022-01-14 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-03-08 |  |

@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
@@ -1838,6 +1838,28 @@
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "album": {
+        "name": "Oversize",
+        "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "La Segura",
+      "url": "https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz"
     },
     {
       "album": {
@@ -3018,7 +3040,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246510,
       "name": "Pichaera",
       "url": "https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb"
@@ -4278,6 +4300,36 @@
       "duration_ms": 174790,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5yAo09btO7hEn8YDKW4Dkm"
+    },
+    {
+      "album": {
+        "name": "Wait Deh Man (feat. Luar La L)",
+        "url": "https://open.spotify.com/album/6psh7wg5ikbIgDLl0uBIPk"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246280,
+      "name": "Wait Deh Man (feat. Luar La L)",
+      "url": "https://open.spotify.com/track/63fSkia27CbTlytTKxnNqD"
     },
     {
       "album": {

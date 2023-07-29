@@ -1466,10 +1466,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139856,
       "name": "rugburn",
       "url": "https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu"
+    },
+    {
+      "album": {
+        "name": "rugburn",
+        "url": "https://open.spotify.com/album/5DNLhuabPTYy8PMimMdoZl"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139856,
+      "name": "rugburn",
+      "url": "https://open.spotify.com/track/5bS2KchkARxgGxIJfrU6C9"
     },
     {
       "album": {

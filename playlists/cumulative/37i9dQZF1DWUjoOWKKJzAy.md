@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-81 songs - 5 hr 9 min
+82 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 | 2020-10-16 |  |
 | [Bla, Bla, Bla...Eu Te Amo](https://open.spotify.com/track/7JhueQscGoTl2gYNkp4mSN) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Vida Bandida](https://open.spotify.com/album/1mGU4TLsEmo4brfgYv6K3U) | 4:51 | 2020-10-16 |  |
 | [Camila, Camila](https://open.spotify.com/track/7ue3vDtaxcToVyzbyloSyQ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Nenhum de Nós](https://open.spotify.com/album/6XHpLUN8Ks2OCLfsuHK9IG) | 5:12 | 2020-10-16 |  |
+| [Cena de Cinema](https://open.spotify.com/track/3j3zsk14X899YcwhFA7Gte) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Box Lobão \- 81/91](https://open.spotify.com/album/5tr7OqRJmrQzQzdhrdNbdl) | 3:05 | 2023-07-28 |  |
 | [Ciúme](https://open.spotify.com/track/6NthJCbsfFFrTK2OYZTRCp) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 4:02 | 2020-10-16 |  |
 | [Como uma onda \- Zen\-surfismo](https://open.spotify.com/track/2RBGbLDceAHxJ0w2Pfxnzn) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:37 | 2020-10-16 |  |
 | [Corações Psicodélicos](https://open.spotify.com/track/7jkKJnqzBdoFySIYj9Ps6L) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:40 | 2020-10-16 |  |

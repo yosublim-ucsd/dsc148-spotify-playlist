@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 5 hr 0 min
+95 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 | 2022-05-25 |  |
 | [Just Miss Love](https://open.spotify.com/track/6KwvzNhrvOXc1i4mCCU0xY) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love](https://open.spotify.com/album/0HdLiRs3Kv3D36oRKL72zn) | 3:27 | 2022-05-25 |  |
 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 | 2023-04-19 |  |
+| [Last One On My Mind](https://open.spotify.com/track/5GqXJIFLTN6cCSKojL326c) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Last One On My Mind](https://open.spotify.com/album/1Uy6JJzeVXvLJrIgiWjrjQ) | 2:44 | 2023-07-28 |  |
 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2022-05-25 |  |
 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 | 2022-05-25 |  |
 | [Like I Love You \(feat\. The NGHBRS\)](https://open.spotify.com/track/6sPi3kYHqqNDfbMtGDyfiZ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [Alive and Feeling Fine](https://open.spotify.com/album/0NhWhLZutLeTq1cpqKfey7) | 3:10 | 2022-05-25 |  |

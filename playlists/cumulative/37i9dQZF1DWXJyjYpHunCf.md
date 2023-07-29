@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-287 songs - 16 hr 31 min
+288 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-08-19 |  |
 | [DANDELION](https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs) | [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [DANDELION](https://open.spotify.com/album/4C3Okl0eCT7wBlHWHB6ett) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
-| [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 |  |
+| [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-21 |  |
 | [Diamonds in the Rough](https://open.spotify.com/track/3gqiWsG6pJ2aJyoMFfezdS) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Diamonds in the Rough](https://open.spotify.com/album/2UwCSnuXRZbgzs33ivy18L) | 3:36 | 2021-11-12 | 2022-06-06 |
 | [Do Right](https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP) | 3:33 | 2022-03-12 | 2023-06-17 |
@@ -91,7 +91,7 @@
 | [Embers](https://open.spotify.com/track/5narWdetexXv1ucBDuZJfO) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [E M B E R S: Ch\. 2](https://open.spotify.com/album/0HzOvrhMs78v5rqBqhXLCD) | 3:10 | 2021-11-12 | 2022-07-21 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 |  |
-| [Fault Line](https://open.spotify.com/track/3sThVFtOmlfOUh3yE2ObQd) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [The Space Between](https://open.spotify.com/album/3RDaPTTnQLcL2HuI5HQb2s) | 3:07 | 2022-10-14 |  |
+| [Fault Line](https://open.spotify.com/track/3sThVFtOmlfOUh3yE2ObQd) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [The Space Between](https://open.spotify.com/album/3RDaPTTnQLcL2HuI5HQb2s) | 3:07 | 2022-10-14 | 2023-07-29 |
 | [Feel the Night](https://open.spotify.com/track/0FeMcfh8VQJGqwxA43wDfV) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Feel the Night](https://open.spotify.com/album/5wlRaLX971FI816pA5ubb7) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Feels](https://open.spotify.com/track/5bk2qz4ydMCEBhNONsaRGZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/5NhzKPy0eiRmH3PfOsGmtF) | 3:26 | 2021-11-12 | 2022-07-06 |
 | [Feels](https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX) | 3:26 | 2022-03-12 | 2023-02-03 |
@@ -166,6 +166,7 @@
 | [Kick Out the Windows \- Radio Edit](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7msqHdpzdvApMcWNrBG4iG) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-06-23 |  |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-08-19 | 2022-10-06 |
+| [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 | 2023-07-28 |  |
 | [Left With The Wolves](https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK) | [Nathan Hawes](https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd) | [Left With The Wolves](https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb) | 3:49 | 2022-03-12 | 2023-01-29 |
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2022-03-12 |  |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2021-11-12 | 2022-07-29 |
@@ -224,7 +225,7 @@
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-11-12 |  |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-11-12 | 2023-04-01 |
 | [Some Kind Of Love](https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Some Kind Of Love](https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT) | 3:48 | 2022-03-12 | 2022-12-28 |
-| [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 | 2023-07-22 |
+| [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 |  |
 | [sorry isn't good enough](https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sorry isn't good enough](https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE) | 3:07 | 2022-03-12 | 2022-06-02 |
 | [SOS](https://open.spotify.com/track/3V5QxoA51KkR3yxqXsHe87) | [Johnny Ashby](https://open.spotify.com/artist/4uTY1XVLYtGJlmq7loPjQr) | [In Bloom](https://open.spotify.com/album/4gGxjw21cCWRLqTtDVlG95) | 3:18 | 2021-11-12 | 2021-12-31 |
 | [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-11-12 | 2023-04-01 |

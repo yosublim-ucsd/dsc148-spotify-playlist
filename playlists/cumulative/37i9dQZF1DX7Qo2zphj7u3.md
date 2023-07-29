@@ -4,7 +4,7 @@
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Ricardo Montaner & Carlos Rivera
 
-454 songs - 1 day 6 hr 30 min
+455 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Asignatura Pendiente](https://open.spotify.com/track/2UWFTnyf2aXnR54AXoMSXe) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 3:58 | 2022-01-25 | 2022-07-29 |
 | [Atado a Tu Amor](https://open.spotify.com/track/1iQQmHUAQ8NDFJO6SUYcfq) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 5:02 | 2022-01-25 | 2023-06-25 |
 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 | 2022-01-25 |  |
+| [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 | 2023-07-28 |  |
 | [Bella](https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:44 | 2022-01-25 |  |
 | [Bella Señora](https://open.spotify.com/track/3Ewdz8ZnGmWBeAvB9gkFHK) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [La Historia De Toda La Vida](https://open.spotify.com/album/6KEiL407HKEq00TqzevYrA) | 4:39 | 2022-01-25 | 2022-07-29 |
 | [Bendita Tu Luz](https://open.spotify.com/track/5UUJODERmh8Dfu960OJicA) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Exiliados en la Bahia: Lo mejor de Mana \(Correcta\)](https://open.spotify.com/album/1OZeDqa64PvbEHTBeKgF1k) | 4:23 | 2022-01-25 | 2022-07-29 |
@@ -225,7 +226,7 @@
 | [Me Muero](https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Guerra \(+ Sessions Recorded at Abbey Road\)](https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z) | 3:16 | 2022-01-25 |  |
 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 | 2022-01-25 |  |
 | [Me Siento Tan Sola](https://open.spotify.com/track/50VA65XjCfHjXzJeOMYfaa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 4:01 | 2022-01-25 | 2022-07-29 |
-| [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 | 2022-01-25 |  |
+| [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 | 2022-01-25 | 2023-07-29 |
 | [Me va a extrañar \(aka Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 | 2022-01-25 |  |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2022-01-25 | 2022-05-08 |
 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2022-01-25 |  |

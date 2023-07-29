@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Jon Batiste",
-  "num_followers": 411932,
+  "num_followers": 411998,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA2ZWE0NDU1ZDJiZDNkZTkyZTk3ZTQyZDhiZGQ4NWJkOGRjMDQz",
+  "snapshot_id": "MCxiMjVkYjYxNTM1ZTcyMDdmYWM1NzI2OWIyNzcyNWU1Zjc4ZmJjZWRk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 116976,
       "name": "Calling Your Name",
       "url": "https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh"
+      },
+      "artists": [
+        {
+          "name": "Jon McLaughlin",
+          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
+        }
+      ],
+      "duration_ms": 175567,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 189135,
       "name": "Poems",
       "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/746aWMCud3Vqi40M8WEqwG"
-      },
-      "artists": [
-        {
-          "name": "Abby Anderson",
-          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/4UsP9smALtJoaaZp5dPlbL"
     },
     {
       "added_at": "2022-03-11 05:02:00",

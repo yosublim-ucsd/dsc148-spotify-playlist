@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,099 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,135 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 15 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 |
 | 16 | [ALONE](https://open.spotify.com/track/1ES7kph925ytu5O7lJhtav) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 1:46 |
 | 17 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
-| 18 | [I Hate Myself](https://open.spotify.com/track/4o3MnZozzXONhO8hkB58Vn) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/2uB92XqtrzI9tf2J0wIzgQ) | 3:13 |
+| 18 | [I Hate Myself](https://open.spotify.com/track/0oW8vPVlQ0qeQeiJT8VSKx) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2) | 3:13 |
 | 19 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 |
 | 20 | [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 |
 | 21 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 25 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 |
 | 26 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
 | 27 | [エイリアンズ \- 2018 Remaster](https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [3 \(2018 Remaster\)](https://open.spotify.com/album/2yeVYXTtQdifRF7f28CkkW) | 6:04 |
-| 28 | [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 |
+| 28 | [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 |
 | 29 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 30 | [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 |
 | 31 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 |
 | 60 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 |
 
-Snapshot ID: `MCxlYzZiN2E5ZjdmZDE4NGQxYWJiOTcxNTUxOGExMmRkMWE2ODFkN2Q0`
+Snapshot ID: `MCxkNDc5MWNlYjk4ZmMxYWI5M2UwN2I1ZTNiYzllZDdmZDMwMDIyM2M5`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24-6 (Scheissegal welcher Tag)",
+        "url": "https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137205,
+      "name": "24-6 (Scheissegal welcher Tag)",
+      "url": "https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz"
+    },
+    {
+      "album": {
         "name": "Dorfdisko",
         "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197333,
       "name": "You're My Mate",
       "url": "https://open.spotify.com/track/7N0ds009y5ZNY90KGPuegE"

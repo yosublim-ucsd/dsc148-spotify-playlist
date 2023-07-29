@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blackbox Life Recorder 22 [Parallax Mix]",
+      "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
+    },
+    {
+      "album": {
         "name": "SoulCity EP",
         "url": "https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI"
       },
@@ -5934,7 +5952,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"

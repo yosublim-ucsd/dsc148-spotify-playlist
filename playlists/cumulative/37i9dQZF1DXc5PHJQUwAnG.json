@@ -528,6 +528,24 @@
     {
       "album": {
         "name": "Broken",
+        "url": "https://open.spotify.com/album/7JwxVSAZYJlzjqjoPda5Yz"
+      },
+      "artists": [
+        {
+          "name": "Orcoer Overland",
+          "url": "https://open.spotify.com/artist/3T6R4tkTMqP768xm1vCbOY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150495,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1CZpJAHjKh3kdUnP7SPE7Z"
+    },
+    {
+      "album": {
+        "name": "Broken",
         "url": "https://open.spotify.com/album/48DMhGdTm6dqcfp740X6R5"
       },
       "artists": [
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 150495,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4eFOx5iuVJyRryN0YvoKef"

@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Yoss Bones, Nanpa Básico
 
-88 songs - 4 hr 51 min
+89 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2023-03-31 |  |
 | [Alma](https://open.spotify.com/track/1lZaIaZCrb4avapCCelFQt) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/2u7bufSK9Rws04JWErlg26) | 3:28 | 2023-06-23 | 2023-07-08 |
 | [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 | 2023-03-31 | 2023-06-30 |
-| [Aloha Remix](https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Aloha Remix](https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr) | 4:07 | 2023-03-31 |  |
+| [Aloha Remix](https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Aloha Remix](https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr) | 4:07 | 2023-03-31 | 2023-07-29 |
 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 | 2023-03-31 |  |
 | [Atardecer](https://open.spotify.com/track/1pw677psLc8OrOdg88Yy2E) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg) | [Atardecer](https://open.spotify.com/album/4TPFhLCLHZHSIUU1y0VCRG) | 3:16 | 2023-06-23 |  |
 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 | 2023-03-31 |  |
@@ -92,6 +92,7 @@
 | [Todita](https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Todita](https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu) | 2:20 | 2023-03-31 | 2023-07-15 |
 | [Trofeo](https://open.spotify.com/track/4d2xH6EHSOycRY4BjOTKel) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:26 | 2023-03-31 |  |
 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 | 2023-07-07 |  |
+| [Ula Ula](https://open.spotify.com/track/6zcP0uMWuYgQua6WOKfBZm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 33](https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso) | 2:36 | 2023-07-28 |  |
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-21 |  |
 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 | 2023-03-31 |  |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2023-03-31 |  |

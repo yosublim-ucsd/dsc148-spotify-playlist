@@ -1,13 +1,53 @@
 {
   "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe-v3w8sQ\">Alice Phoebe Lou</a> ",
-  "num_followers": 6581,
+  "num_followers": 6585,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmJkNjMxMzFlZWMxNjU5MjVlZTU1MWI1YjY2Mzc3NjI5Y2M4NDE3",
+  "snapshot_id": "MCxjOWRiNjNkODNhNWJmMTQ4ZGNlNjJlOGViNTNjZTBjYWVjZGI3NjIx",
   "tracks": [
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Waiting Forever",
+        "url": "https://open.spotify.com/album/56aLlCwfr5e53TVYK0LOc5"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        {
+          "name": "Preston.",
+          "url": "https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC"
+        }
+      ],
+      "duration_ms": 186795,
+      "name": "Waiting Forever",
+      "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Wildfire Love",
+        "url": "https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 103021,
+      "name": "Wildfire Love",
+      "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"
+    },
     {
       "added_at": "2023-07-13 21:59:00",
       "album": {
@@ -23,6 +63,118 @@
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/6OvAFU5qsu1BjBxY8IjtkU"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Strangers Arms",
+        "url": "https://open.spotify.com/album/5sDM9mCBGIEsBa8H3imZy5"
+      },
+      "artists": [
+        {
+          "name": "The Breeze",
+          "url": "https://open.spotify.com/artist/3usNfpEWJMyOD1K2NJkGU8"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "Strangers Arms",
+      "url": "https://open.spotify.com/track/2xWiyPS3nrRBCNuvPdJh4n"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "MESSED UP KIDS",
+        "url": "https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L"
+      },
+      "artists": [
+        {
+          "name": "Shelter Boy",
+          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
+        }
+      ],
+      "duration_ms": 177433,
+      "name": "MESSED UP KIDS",
+      "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5g0ipxNZptnRDqax2UJBGw"
+      },
+      "artists": [
+        {
+          "name": "Bad Peter",
+          "url": "https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0XcAatyr3iOOemDg7SgVUn"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Far Far Away",
+        "url": "https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Far Far Away",
+      "url": "https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Kumaiha",
+        "url": "https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9"
+      },
+      "artists": [
+        {
+          "name": "Jim Chuchu",
+          "url": "https://open.spotify.com/artist/7h4BiS12xR6PcXn1V914hu"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Kumaiha",
+      "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -41,6 +193,22 @@
       "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"
     },
     {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "A Child's Chant for the New Millennium",
+        "url": "https://open.spotify.com/album/0kH9dP7WAg9Uvw7kFyZKtX"
+      },
+      "artists": [
+        {
+          "name": "Wren Hinds",
+          "url": "https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Wrenbird",
+      "url": "https://open.spotify.com/track/4F1NmFzC3OTampNIU4qLuI"
+    },
+    {
       "added_at": "2023-07-13 21:59:00",
       "album": {
         "name": "Appaloosa Bones",
@@ -55,6 +223,22 @@
       "duration_ms": 239480,
       "name": "Appaloosa Bones",
       "url": "https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "maya",
+        "url": "https://open.spotify.com/album/34c5aaW8G5OnrHefwAUNKi"
+      },
+      "artists": [
+        {
+          "name": "Rodrizzy",
+          "url": "https://open.spotify.com/artist/1QpNNBdyML4vHkl9Xix69m"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "maya",
+      "url": "https://open.spotify.com/track/71bWLot6VTOixr4y5NKpod"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -73,6 +257,22 @@
       "url": "https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369"
     },
     {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/5rdNgKVRNrDIWO7JNYqJHb"
+      },
+      "artists": [
+        {
+          "name": "Kristi Lowe",
+          "url": "https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov"
+    },
+    {
       "added_at": "2023-07-13 21:59:00",
       "album": {
         "name": "Purple Moon",
@@ -87,6 +287,22 @@
       "duration_ms": 197203,
       "name": "Purple Moon",
       "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+    },
+    {
+      "added_at": "2023-07-28 06:39:00",
+      "album": {
+        "name": "Soulution",
+        "url": "https://open.spotify.com/album/44ROe9Rx3omI90s5lK6I5k"
+      },
+      "artists": [
+        {
+          "name": "Alibi Friday",
+          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
+        }
+      ],
+      "duration_ms": 214319,
+      "name": "Soulution",
+      "url": "https://open.spotify.com/track/17TVv0cnaYnwEZ2qTDnILA"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -503,134 +719,6 @@
     {
       "added_at": "2023-06-22 21:59:00",
       "album": {
-        "name": "Your Darkest Hour",
-        "url": "https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i"
-      },
-      "artists": [
-        {
-          "name": "Hunter As a Horse",
-          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Your Darkest Hour",
-      "url": "https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "Sit Right",
-        "url": "https://open.spotify.com/album/21A2eVciYbz82Cu6i8wyCi"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 201060,
-      "name": "Sit Right",
-      "url": "https://open.spotify.com/track/3d53nYqXuydZPnU4AjeE4W"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Can I Talk My Shit?",
-        "url": "https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "Can I Talk My Shit?",
-      "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
-    },
-    {
-      "added_at": "2023-04-21 04:18:52",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Swan",
-          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
-        }
-      ],
-      "duration_ms": 214928,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "My Best Friend Hates Me",
-        "url": "https://open.spotify.com/album/6GiRp1ojCbWrWrSXiEnxYq"
-      },
-      "artists": [
-        {
-          "name": "Nasrene",
-          "url": "https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "My Best Friend Hates Me",
-      "url": "https://open.spotify.com/track/3BAHkbnoHNQi4EkvbOWmbT"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Unknown / Nth",
-        "url": "https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Sophie from Church",
-        "url": "https://open.spotify.com/album/4blZCIZnQH3ooTIUifv63b"
-      },
-      "artists": [
-        {
-          "name": "Gerry",
-          "url": "https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA"
-        }
-      ],
-      "duration_ms": 370820,
-      "name": "Sophie from Church",
-      "url": "https://open.spotify.com/track/44oUqrL76tNaMuvGqPbA5x"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "leave me i'm drowning",
-        "url": "https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "falling~",
-      "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
         "name": "Aidan Fraser",
         "url": "https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt"
       },
@@ -739,86 +827,6 @@
       "duration_ms": 245698,
       "name": "Beautiful Day (Acoustic Cover)",
       "url": "https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/386dEHxWISrlTeyn94DSiT"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Wish I Was",
-      "url": "https://open.spotify.com/track/4ZIY0grkEJXEGKNNlGPEn3"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Golden Heart",
-        "url": "https://open.spotify.com/album/3OVlothIk9cUiqR5mJG9f1"
-      },
-      "artists": [
-        {
-          "name": "Evergreen Band",
-          "url": "https://open.spotify.com/artist/6mP4sC7JWBSGQACztiNRny"
-        }
-      ],
-      "duration_ms": 205294,
-      "name": "Golden Heart",
-      "url": "https://open.spotify.com/track/14J4NyAyHAirsN7SLunFT0"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "Echo Chamber",
-        "url": "https://open.spotify.com/album/0sYRNATuYHwK1B0URrrGrh"
-      },
-      "artists": [
-        {
-          "name": "Gothe",
-          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "Echo Chamber",
-      "url": "https://open.spotify.com/track/75ne9KISAYB2bD46rfk3R2"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV"
-      },
-      "artists": [
-        {
-          "name": "Teagan",
-          "url": "https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi"
-        }
-      ],
-      "duration_ms": 175389,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "jupiter.",
-        "url": "https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ"
-      },
-      "artists": [
-        {
-          "name": "JUCINDA",
-          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
-        }
-      ],
-      "duration_ms": 226754,
-      "name": "jupiter.",
-      "url": "https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4"
     }
   ],
   "unique_name": "SAlt",

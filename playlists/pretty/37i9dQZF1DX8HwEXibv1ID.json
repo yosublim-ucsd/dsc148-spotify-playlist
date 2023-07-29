@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 28967,
+  "num_followers": 28998,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjEzMTc1ZTdiZWM1YTcxY2RhZTYxNTNmYzg1M2VhZDhjMWQ3NjUw",
+  "snapshot_id": "MCw0ZTdiYzRjOTk3OTA3ZjA4N2E5NGRjNTk0MDYyZDdmZmQ0MDFkNjNl",
   "tracks": [
     {
       "added_at": "2023-06-22 07:08:08",
@@ -583,22 +583,18 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 182466,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -619,18 +615,22 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 153866,
-      "name": "I Am In Love - Remastered",
-      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Rap Tap on Wood",
-      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 170333,
       "name": "After You",
       "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Rap Tap on Wood",
+      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
@@ -1012,41 +1012,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
-        "name": "Plays Cole Porter",
-        "url": "https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Wunderbar",
-      "url": "https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1083,50 +1051,34 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Jazz Collection",
-        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
+        "name": "Plays Cole Porter",
+        "url": "https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
         }
       ],
-      "duration_ms": 221959,
-      "name": "Allez-Vous En, Go Away",
-      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+      "duration_ms": 276426,
+      "name": "Wunderbar",
+      "url": "https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn"
     },
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
         }
       ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1151,6 +1103,54 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "The Jazz Collection",
+        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Allez-Vous En, Go Away",
+      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 169400,
       "name": "Ours",
       "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1211,22 +1227,6 @@
       "duration_ms": 154000,
       "name": "Get Out of Town - Med Andra Ord...",
       "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Goodbye Little Dream, Goodbye",
-      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
     },
     {
       "added_at": "2023-06-22 07:08:08",

@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 240856,
+  "num_followers": 241127,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIxYTUyYjhhMDc5ZTM1Mjc0YjA2ODZmNTc3MjRjZWI4MmI5NjZm",
+  "snapshot_id": "MCwzYmU0MTk1MjIwNTM3YmIwNWMzNTBiMjI1NDNmNGVlNmE4OTljNTlh",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 208026,
       "name": "Invisible Touch - 2007 Remaster",
       "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Tarzan Boy: The World Of Baltimora",
-        "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 284373,
       "name": "Get Outta My Dreams, Get Into My Car",
       "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Tarzan Boy: The World Of Baltimora",
+        "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
     },
     {
       "added_at": "2023-01-03 15:06:17",

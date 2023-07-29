@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Esteman",
-  "num_followers": 132026,
+  "num_followers": 132090,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDJiYWU1NjMzY2U0ZDFiY2Q5Zjk2YWM1YWNiYzZhMDIyZGZlNTc4",
+  "snapshot_id": "MCxkNTRiZTZmNDUxYzFiZjAwYTk3NzU2MmU5ODAzMzQ3M2IzMTkyZTQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Pa Tanto",
+        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "Pa Tanto",
+      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 187234,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Pa Tanto",
-        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Pa Tanto",
-      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 267480,
       "name": "jules",
       "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Bellakosa",
         "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
@@ -687,6 +667,22 @@
       "duration_ms": 173333,
       "name": "Bellakosa",
       "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "444/Ms. Moon",
+        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "444",
+      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "444/Ms. Moon",
-        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 170805,
-      "name": "444",
-      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "i love you but this is goodbye",
-        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
         }
       ],
-      "duration_ms": 200000,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -807,6 +811,22 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "i love you but this is goodbye",
+        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -843,26 +863,6 @@
       "duration_ms": 216961,
       "name": "LIBERTAD",
       "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
-      },
-      "artists": [
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Early Years",
-        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "S\u00faper Hero\u00edna",
-      "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "TORQUE: Vol. 1",
         "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 171857,
       "name": "Fue",
       "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "S\u00faper Hero\u00edna",
+      "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Del Cibao",
         "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195866,
       "name": "Mojados",
       "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2023-07-21 04:00:00",

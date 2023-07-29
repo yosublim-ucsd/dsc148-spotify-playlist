@@ -2972,10 +2972,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180101,
       "name": "La 701",
       "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+    },
+    {
+      "album": {
+        "name": "La 701 - Panter Belico",
+        "url": "https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG"
+      },
+      "artists": [
+        {
+          "name": "5 Music MX",
+          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
+        },
+        {
+          "name": "La Fresada Music",
+          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "La 701 - Panter Belico",
+      "url": "https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP"
     },
     {
       "album": {

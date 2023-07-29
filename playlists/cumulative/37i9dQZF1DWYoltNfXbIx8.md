@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-106 songs - 10 hr 10 min
+108 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bomba H](https://open.spotify.com/track/5ppBRENgvv5yADpOGQ6iO7) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [O Crime do Raciocínio](https://open.spotify.com/album/0G72VfXULEv3NrRCT6dOW3) | 6:24 | 2022-02-25 | 2022-07-29 |
 | [Brasília Periferia, Pt\. 2](https://open.spotify.com/track/6VO6LtVee73oVA0iIQnjt8) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 7:33 | 2022-02-25 |  |
 | [Cada Um Por Si](https://open.spotify.com/track/52lGcvfarXD8DdN9qd0lk9) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Bem Vindos ao Inferno](https://open.spotify.com/album/6GvdfWASdnfPT60cj4u2Uq) | 4:44 | 2022-02-25 |  |
-| [Carruagem da Morte](https://open.spotify.com/track/6yXD3xccHxXB9C0hr455gL) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:52 | 2022-02-25 |  |
+| [Carruagem da Morte](https://open.spotify.com/track/6yXD3xccHxXB9C0hr455gL) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:52 | 2022-02-25 | 2023-07-29 |
+| [Carruagem da Morte](https://open.spotify.com/track/5P2RYcthgnyNRYQm8Cxkai) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/0hzhim7UnHj5kVDPOTP3qJ) | 7:52 | 2022-12-02 |  |
 | [Contexto](https://open.spotify.com/track/5eS43KfdjIfUWxAXpfXT8x) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [A Invasão do Sagaz Homem Fumaça](https://open.spotify.com/album/0ElMwq6ONWreyOISGZKaTl) | 3:45 | 2022-02-25 |  |
 | [Corre Corre](https://open.spotify.com/track/6LK9B8x7qw4Ncbso1gY5rG) | [Jigaboo](https://open.spotify.com/artist/5fjd8UuuZAAHiMHu9McnlU) | [As Aparências Enganam](https://open.spotify.com/album/0AKcpKNzc8ulNANZHOLmBV) | 5:32 | 2022-02-25 |  |
 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/2cMC75ZGakoHD31Yvp3mbA) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Realidade Cruel \(Ao Vivo\)](https://open.spotify.com/album/3d5zGxG8wFLzc0pAlE2xTH) | 4:55 | 2022-02-25 |  |
@@ -70,7 +71,8 @@
 | [Prostituta](https://open.spotify.com/track/2LAA3rvQXZnDvXzX8ikRov) | [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy) | [Na Humildade](https://open.spotify.com/album/0ZOdrdFYiagQVXkLVFBLPl) | 6:52 | 2022-02-25 |  |
 | [Pule ou Empurre](https://open.spotify.com/track/2moNnYG8Elyx9SYuGW2fx8) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/3c0wTYodyznfErM03IUkBD) | 3:44 | 2022-02-25 | 2022-08-04 |
 | [Pule ou Empurre](https://open.spotify.com/track/5KyCqnsRNr5sV4y2AcW542) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/62P9Bb98VUUAEAlrLClVZo) | 3:44 | 2022-02-25 |  |
-| [Quatro Manos](https://open.spotify.com/track/3LjEJTocxxuqqO5Q1pcykd) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:04 | 2022-02-25 |  |
+| [Quatro Manos](https://open.spotify.com/track/3LjEJTocxxuqqO5Q1pcykd) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:04 | 2022-02-25 | 2023-07-29 |
+| [Quatro Manos](https://open.spotify.com/track/3v6J73AH2KzBr2iuQtBqRB) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/0hzhim7UnHj5kVDPOTP3qJ) | 7:04 | 2022-12-02 |  |
 | [Qui Nem Judeu](https://open.spotify.com/track/3R4E2vWipow7sK2BpXXc20) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/7KGHKQH1hx4zo1S2Bn4Gr6) | 5:00 | 2022-02-25 |  |
 | [Qui Nem Judeu](https://open.spotify.com/track/2R58QvBYID3mTnOqtlW5bv) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/4JkoDMrs2dTPuMXfstGa6m) | 5:00 | 2022-02-25 | 2023-03-25 |
 | [Rap du Bom](https://open.spotify.com/track/3xl7brkgL1RDxU89kFv6Cf) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem](https://open.spotify.com/album/1e2nuElLGF6tpPCewKaAdL) | 5:51 | 2022-02-25 | 2022-07-29 |

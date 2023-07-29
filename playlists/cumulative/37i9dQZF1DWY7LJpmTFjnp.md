@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Tri en portada.
 
-159 songs - 10 hr 11 min
+160 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2023-06-02 |
 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 | 2022-01-14 |  |
 | [Bajo la Luna](https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Bajo la Luna](https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU) | 3:13 | 2023-07-07 |  |
-| [Beber De Tu Sangre XXX](https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Beber De Tu Sangre XXX](https://open.spotify.com/album/4xMrf9KNtKd0u2Go1qrJWc) | 4:44 | 2022-08-19 |  |
+| [Beber De Tu Sangre XXX](https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Beber De Tu Sangre XXX](https://open.spotify.com/album/4xMrf9KNtKd0u2Go1qrJWc) | 4:44 | 2022-08-19 | 2023-07-29 |
 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 | 2022-04-19 |  |
 | [Brillo de Sol](https://open.spotify.com/track/1DMwAQVf5iQYvczjFH6hsb) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Brillo de Sol](https://open.spotify.com/album/79Meec6gttJaCauGA6nvKm) | 3:22 | 2023-04-28 | 2023-05-27 |
 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 | 2022-01-14 |  |
@@ -146,6 +146,7 @@
 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 | 2022-01-14 |  |
 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 | 2022-01-14 |  |
 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 | 2023-05-12 | 2023-07-01 |
+| [Surf Club](https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Surf Club](https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL) | 1:41 | 2023-07-28 |  |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-10 | 2022-04-21 |
 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2023-06-03 |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 | 2022-01-14 |  |

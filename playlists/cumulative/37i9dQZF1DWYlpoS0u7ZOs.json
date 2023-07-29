@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Dead Pony",
+  "description": "The new wave of rock from the UK & Ireland. Cover: WARGASM (UK)",
   "name": "shockwave",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181785,
       "name": "Catch Myself",
       "url": "https://open.spotify.com/track/0zWZ48DAJDEisU3Nhnil8g"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205011,
       "name": "Detrimental",
       "url": "https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234713,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq"
+    },
+    {
+      "album": {
         "name": "FANG DUMMY",
         "url": "https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy"
       },
@@ -927,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Femme Boi",
+        "url": "https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Femme Boi",
+      "url": "https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa"
       },
@@ -986,6 +1022,24 @@
       "duration_ms": 190500,
       "name": "foreverend",
       "url": "https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN"
+    },
+    {
+      "album": {
+        "name": "Freaks Like Us",
+        "url": "https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3"
+      },
+      "artists": [
+        {
+          "name": "Dead Nature",
+          "url": "https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Freaks Like Us",
+      "url": "https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq"
     },
     {
       "album": {
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 197105,
       "name": "Geisha",
       "url": "https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP"
@@ -1256,6 +1310,24 @@
       "duration_ms": 225999,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6iGRB390nCX5QKcu3QQVI4"
+    },
+    {
+      "album": {
+        "name": "Holly",
+        "url": "https://open.spotify.com/album/6dkP3Np2UjEk9aNT4nVO91"
+      },
+      "artists": [
+        {
+          "name": "Sick Love",
+          "url": "https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183765,
+      "name": "Holly",
+      "url": "https://open.spotify.com/track/7b22PAJMC8VkuWlailtWU8"
     },
     {
       "album": {
@@ -1666,7 +1738,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 145352,
       "name": "leicester",
       "url": "https://open.spotify.com/track/6C4rKvQkoyayJYKEOzzEYr"
@@ -1684,7 +1756,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 235440,
       "name": "Liar",
       "url": "https://open.spotify.com/track/6M5P7gqhMtgvhgDkNMcn4L"
@@ -1828,7 +1900,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193333,
       "name": "Lovedoom",
       "url": "https://open.spotify.com/track/544D9Z05dkl6QbXOKs2UJ0"
@@ -2048,6 +2120,24 @@
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5"
     },
     {
       "album": {
@@ -2613,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "sacrifice/surrender",
+        "url": "https://open.spotify.com/album/46wAFzEPEs6AQWWnyV2OO8"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "sacrifice/surrender",
+      "url": "https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco"
+    },
+    {
+      "album": {
         "name": "SADFACE",
         "url": "https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df"
       },
@@ -2934,7 +3042,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126400,
       "name": "Stones",
       "url": "https://open.spotify.com/track/6JfTPst2t6yiGpn65UxPG8"
@@ -3230,6 +3338,24 @@
       "duration_ms": 191106,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+    },
+    {
+      "album": {
+        "name": "Trust No One",
+        "url": "https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Trust No One",
+      "url": "https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v"
     },
     {
       "album": {

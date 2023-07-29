@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Earned It (Sampler)",
+        "url": "https://open.spotify.com/album/4QdR5tUzrT7SBquAJAJHAb"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163536,
+      "name": "Ain\u2019t Mad At Jesus",
+      "url": "https://open.spotify.com/track/1ZWRFnItc6LzdMrzDg46JV"
+    },
+    {
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
       },

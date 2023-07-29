@@ -3237,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack (Incomplete Edition)",
+        "url": "https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3"
+      },
+      "artists": [
+        {
+          "name": "Takashi Ohmama",
+          "url": "https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299877,
+      "name": "The Witch From Mercury",
+      "url": "https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc"
+    },
+    {
+      "album": {
         "name": "Mobile Suit Gundam The Witch From Mercury (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy"
       },
@@ -3248,7 +3266,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 300376,
       "name": "The Witch From Mercury",
       "url": "https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt"

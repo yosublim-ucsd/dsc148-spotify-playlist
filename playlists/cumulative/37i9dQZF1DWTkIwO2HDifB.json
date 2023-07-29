@@ -1025,6 +1025,32 @@
     },
     {
       "album": {
+        "name": "O Menino Ainda Encanta a Quebrada",
+        "url": "https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cora\u00e7\u00e3o na Geladeira 2",
+      "url": "https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA"
+    },
+    {
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -1744,6 +1770,28 @@
       "duration_ms": 135732,
       "name": "Faz a Pose",
       "url": "https://open.spotify.com/track/1sTVKLLFDfAfowsG4bRBN4"
+    },
+    {
+      "album": {
+        "name": "Faz um Vuk Vuk (Teto Espelhado)",
+        "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Dj Nk Da Serra",
+          "url": "https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Faz um Vuk Vuk (Teto Espelhado)",
+      "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
     },
     {
       "album": {
@@ -2930,7 +2978,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 140307,
       "name": "N\u00e3o Nasceu pra Namorar",
       "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
@@ -3288,7 +3336,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194823,
       "name": "Parab\u00e9ns pra Ela",
       "url": "https://open.spotify.com/track/1U3c26f3zVn6g8zWXq5Gog"

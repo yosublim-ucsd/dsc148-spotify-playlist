@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 202926,
       "name": "As Faixas",
       "url": "https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129923,
       "name": "Conversas Secretas",
       "url": "https://open.spotify.com/track/54lXGqjLkx1l6nDqvRAw3E"
@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+    },
+    {
+      "album": {
         "name": "Fa\u00edsca",
         "url": "https://open.spotify.com/album/4ORKX07HIdDEbFoV4BaGZU"
       },
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 288068,
       "name": "Florescer",
       "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
@@ -1098,6 +1120,28 @@
       "duration_ms": 143801,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg"
+    },
+    {
+      "album": {
+        "name": "F\u00e9 nas Maluca",
+        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143221,
+      "name": "F\u00e9 nas Maluca",
+      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
     },
     {
       "album": {
@@ -1674,7 +1718,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 137000,
       "name": "Manda Foto",
       "url": "https://open.spotify.com/track/2ZAT9lqhq7sEYtyUsg72QR"
@@ -2229,6 +2273,32 @@
     },
     {
       "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/47CHenMbZPUpsD7mEBl0uw"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        },
+        {
+          "name": "Madh\u00ed",
+          "url": "https://open.spotify.com/artist/2jJyxRBbyAEPJ5tm8zXsaY"
+        },
+        {
+          "name": "Lucas Coji",
+          "url": "https://open.spotify.com/artist/21clDnn5F4vdFthtKFO5lY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7Ic1gXHYOwfAPDpYQIYvef"
+    },
+    {
+      "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
       },
@@ -2248,6 +2318,28 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
+    },
+    {
+      "album": {
+        "name": "Pretinha de Lace",
+        "url": "https://open.spotify.com/album/0CbZ6pwIukM4Y2iPFQ7Ztq"
+      },
+      "artists": [
+        {
+          "name": "Raabe",
+          "url": "https://open.spotify.com/artist/0yAvQF59yzNugeb7m0LD5Z"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130914,
+      "name": "Pretinha de Lace",
+      "url": "https://open.spotify.com/track/0Axye7yoG2A8gpwb0UyUzz"
     },
     {
       "album": {
@@ -2614,7 +2706,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126896,
       "name": "Sistema",
       "url": "https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE"
@@ -2700,6 +2792,24 @@
       "duration_ms": 258665,
       "name": "SP NIGHTS",
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
+    },
+    {
+      "album": {
+        "name": "Sugar Mama",
+        "url": "https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu"
+      },
+      "artists": [
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78281,
+      "name": "Sugar Mama",
+      "url": "https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK"
     },
     {
       "album": {

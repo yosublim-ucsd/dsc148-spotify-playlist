@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> C.R.O, Franky Style & Lil Troca en la casa del Trap Argentino.
+> YSY A & Sixto Yegros en la casa del Trap Argentino.
 
-216 songs - 10 hr 25 min
+217 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Acelera2](https://open.spotify.com/track/3NsMTx5SWy3z7LRt7cl0NY) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Acelera2](https://open.spotify.com/album/6IEioO7L7OZTfn2jJ2ALTf) | 3:15 | 2022-01-21 | 2022-11-12 |
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2022-01-21 |  |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-04-19 |  |
+| [AL LIMITE](https://open.spotify.com/track/5jNJoyl5zRnPSnFhYELJwN) | [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [AL LIMITE](https://open.spotify.com/album/3sFhFZKBv9ShUtlP5JmjaP) | 2:13 | 2023-07-28 |  |
 | [Almanaque](https://open.spotify.com/track/5N5E4FH3cNaRV23HvmYNEe) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Almanaque](https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l) | 3:20 | 2022-12-09 |  |
 | [Amor de Rola](https://open.spotify.com/track/6EbwRtuD4kjwvYbz40TPJr) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Amor de Rola](https://open.spotify.com/album/75PRnhJgB0T97jgUp5gn4I) | 3:43 | 2023-02-17 | 2023-06-24 |
 | [ANGELITO \(feat\. Duki\)](https://open.spotify.com/track/3ZBVYxy3XK4IVUlcoq3suZ) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 2:49 | 2022-01-21 |  |

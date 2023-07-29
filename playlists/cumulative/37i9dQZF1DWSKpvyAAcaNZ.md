@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-286 songs - 18 hr 0 min
+287 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Under the Sun](https://open.spotify.com/track/1fTW6CCD4RFNnsKhxWKCFs) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 4:52 | 2022-07-22 |  |
 | [Vagabond](https://open.spotify.com/track/0p0LA0XkXLfDeQGDFsT5Uz) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/1VNkd6veezStoL9TQp20PP) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [Vagabond](https://open.spotify.com/track/4870O66Nal4yfWwHQMSeWl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/6EETonMsPkVWN7iGmStXvW) | 3:39 | 2022-07-22 |  |
+| [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 | 2023-07-28 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2022-07-22 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/7ICQ4gzQ74YlrDDtU8Ttsz) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Waiting for the Thunder](https://open.spotify.com/album/4ZnjSpNC9TNymP4W9jcLrC) | 4:07 | 2021-12-17 | 2022-07-29 |
 | [Waslaha](https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Waslaha](https://open.spotify.com/album/3QHUKfPL9dfrfOrJcKRwfF) | 2:38 | 2021-12-17 | 2022-01-29 |

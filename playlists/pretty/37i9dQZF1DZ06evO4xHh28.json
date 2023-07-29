@@ -1,15 +1,15 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 531971,
+  "num_followers": 532177,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzI5ODIsMDAwMDAwMDBiNGRjN2E0OTY0NGIxNzUzNGZlMzM5Njg5NDFjZjU0NQ==",
+  "snapshot_id": "MjgxNzU4MzgsMDAwMDAwMDBkNjdlZDczMmU0ZGRkN2M1YWI5MTNhMmE3ZTBmNWJhMg==",
   "tracks": [
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -25,71 +25,7 @@
       "url": "https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2023-07-26 13:42:03",
-      "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
-    },
-    {
-      "added_at": "2023-07-26 13:42:03",
-      "album": {
-        "name": "Number Three",
-        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 294680,
-      "name": "The World Is Ugly",
-      "url": "https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1"
-    },
-    {
-      "added_at": "2023-07-26 13:42:03",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
-    },
-    {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
@@ -105,7 +41,71 @@
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
+    },
+    {
+      "added_at": "2023-07-28 13:18:53",
+      "album": {
+        "name": "Number Three",
+        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 294680,
+      "name": "The World Is Ugly",
+      "url": "https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1"
+    },
+    {
+      "added_at": "2023-07-28 13:18:53",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2023-07-28 13:18:53",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Foundations of Decay",
         "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Three",
         "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/46mPWQpvSFkXrr5nWoWW74"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade Is Dead!",
         "url": "https://open.spotify.com/album/7N29psReKsIR8HOltPJqYS"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/0Kt9sF46S7DFKrQOsXqidV"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Welcome to the Black Parade",
         "url": "https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/51VwpPzxUd6g94iELptagU"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Two",
         "url": "https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "May Death Never Stop You",
         "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/08VsSDNBuAOwGu8tkpJlSU"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Life on the Murder Scene",
         "url": "https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5gqpaxUlKUuOeqxfj8H1L8"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Life on the Murder Scene",
         "url": "https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "The Mad Gear and Missile Kid EP",
         "url": "https://open.spotify.com/album/5opukBgphgATwbRHHMXgCM"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1Fmz64vSu0CgsYMm7iqlSH"
     },
     {
-      "added_at": "2023-07-26 13:42:03",
+      "added_at": "2023-07-28 13:18:53",
       "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"

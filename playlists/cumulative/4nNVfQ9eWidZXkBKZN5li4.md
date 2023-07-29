@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-244 songs - 14 hr 57 min
+245 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Yeh Dosti Hum Nahin \- From "Sholay"](https://open.spotify.com/track/11TCBXUQxfI67zmdMVyJFG) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Retro Reloaded \- Amitabh Bachchan Hits](https://open.spotify.com/album/06fdiZm0T15mrmMVf8V40n) | 5:21 | 2022-08-04 | 2022-08-13 |
 | [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Young Shahrukh](https://open.spotify.com/album/557QFyhyOXzJ39kXC0tLSv) | 2:39 | 2020-05-26 |  |
 | [Young Shahrukh \- Slowed](https://open.spotify.com/track/5ODOP1eIQKjtaFBYFSLWaG) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [DarkMode](https://open.spotify.com/artist/3adHo2mQl0i6oATmotIjRE) | [Young Shahrukh \(Slowed\)](https://open.spotify.com/album/5EmstK4k43eAwEOw0w0FG1) | 3:05 | 2021-11-23 |  |
+| [Young Shahrukh \- Sped Up](https://open.spotify.com/track/6jmEGhparSjXzLHEe9AVGS) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [IAMPRATHEEK](https://open.spotify.com/artist/3XZ12XrEzmileZJFImRHxN) | [Young Shahrukh \(Sped Up\)](https://open.spotify.com/album/12wJOVpoE0dleBcqEHgAWq) | 2:11 | 2023-07-28 |  |
 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 | 2023-06-28 |  |
 
 \*This playlist was first scraped on 2021-01-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-166 songs - 12 hr 13 min
+167 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,10 @@
 | [King of Pain \- Live / Unplugged](https://open.spotify.com/track/1oVnIYWKugITYu99VMguwr) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:05 | 2020-07-07 |  |
 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2020-07-07 |  |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/2lFXF74OXaXo1tFD7SNOn6) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Tempo Frio](https://open.spotify.com/album/7yBeHV1yHd5mh7B034kIRq) | 3:09 | 2022-07-04 | 2022-11-13 |
+| [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 | 2022-07-04 |  |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/34C0GaMKXuReggW9Ru18xH) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso Em Casa](https://open.spotify.com/album/1rDTH2UQnimV113RGLghbT) | 3:09 | 2022-07-04 | 2023-03-05 |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 | 2020-07-07 | 2022-07-29 |
-| [Lanterna Dos Afogados](https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [No Trabalho](https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM) | 3:09 | 2022-07-04 |  |
+| [Lanterna Dos Afogados](https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [No Trabalho](https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM) | 3:09 | 2022-07-04 | 2023-07-29 |
 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 | 2020-07-07 |  |
 | [Layla \- Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Live\)](https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy) | 4:49 | 2022-07-04 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 | 2022-07-04 | 2022-11-24 |

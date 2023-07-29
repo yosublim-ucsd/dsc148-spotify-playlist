@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,204 likes - 91 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,238 likes - 91 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 72 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 73 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 |
 | 74 | [There's No Getting' Over Me](https://open.spotify.com/track/0QzqvHYCh9WecfpMIo9Zdv) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [There's No Getting' Over Me](https://open.spotify.com/album/37l3XG7AzVLWEmYS94XUwp) | 4:03 |
-| 75 | [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 |
+| 75 | [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 |
 | 76 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 |
 | 77 | [Fast Car](https://open.spotify.com/track/2pPPW5MlJg0JUPdqTrV3Ll) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Fast Car](https://open.spotify.com/album/4pIM0EG3s7vcZKcZHt0AHU) | 4:07 |
 | 78 | [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 83 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
 | 84 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
 | 85 | [Goodbyes](https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Goodbyes](https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik) | 2:05 |
-| 86 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
+| 86 | [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 |
 | 87 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 |
 | 88 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
 | 89 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/0bOCAiSF04TziDFLSQ1fLr) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/7dUNOUAXKoXqI9kZOU7Viw) | 4:06 |
 | 90 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 |
 | 91 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCw4NjhiZjQ5MjAzYmFlNTU5ODU0MDQzZjdjMzNiMDM3YTA1ZDM5ZDdk`
+Snapshot ID: `MCxhZjU4YmIzOTUwMmYxNDFhOWIwMzgzNmJkZWFmMDNiMDZiZDBkYjQy`

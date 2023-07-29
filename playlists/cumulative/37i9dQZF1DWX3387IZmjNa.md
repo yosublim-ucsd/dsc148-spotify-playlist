@@ -2,9 +2,9 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Don Toliver
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Rylo Rodriguez
 
-348 songs - 17 hr 53 min
+350 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [All U Needed \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4BpIvMO0sf7J1Vh16bQihy) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Monochrome](https://open.spotify.com/album/0fV1mTqgvlLDAcjoXuyOHS) | 4:51 | 2023-05-05 | 2023-06-24 |
 | [Already Know](https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Already Know](https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA) | 2:43 | 2023-02-17 | 2023-03-18 |
 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2021-08-20 | 2022-02-26 |
-| [ALRIGHT](https://open.spotify.com/track/5GgsKq6ZOwwu0a7DNFiNqf) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [ALRIGHT](https://open.spotify.com/album/3x5AQyyopacG4nZhYehT1o) | 2:36 | 2023-07-14 |  |
+| [ALRIGHT](https://open.spotify.com/track/5GgsKq6ZOwwu0a7DNFiNqf) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [ALRIGHT](https://open.spotify.com/album/3x5AQyyopacG4nZhYehT1o) | 2:36 | 2023-07-14 | 2023-07-29 |
 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS) | 3:28 | 2021-10-07\* | 2021-12-18 |
 | [Anita](https://open.spotify.com/track/7xHPjLPNyrVbIyGJmQwX5E) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [This 2 Shall Pass](https://open.spotify.com/album/6jYeqcUwxI2GOK2gnXLEDH) | 2:49 | 2022-05-06 | 2022-06-18 |
 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 | 2023-01-14 |
@@ -89,10 +89,11 @@
 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-08-26 | 2022-10-15 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 | 2022-11-12 |
 | [Dru Hill](https://open.spotify.com/track/251CD0wYHfHLaXJQMn7Dk2) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:55 | 2023-05-26 | 2023-06-17 |
+| [Equal Dirt](https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:01 | 2023-07-28 |  |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-27 | 2022-08-13 |
 | [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/track/1VLGeLbQDpTG0subu0PaFF) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/album/7sKLQSkmWhvQFwb4sQMwAa) | 2:56 | 2023-01-13 | 2023-02-11 |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 | 2022-06-04 |
-| [Evident](https://open.spotify.com/track/1OUbqWrUSf3ZL3fEAod7b6) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Evident](https://open.spotify.com/album/2pOwipyWeVT4gcf49lzqux) | 2:28 | 2023-07-21 |  |
+| [Evident](https://open.spotify.com/track/1OUbqWrUSf3ZL3fEAod7b6) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Evident](https://open.spotify.com/album/2pOwipyWeVT4gcf49lzqux) | 2:28 | 2023-07-21 | 2023-07-29 |
 | [EX](https://open.spotify.com/track/7DMkMmhJYtyyWX7JaPKrEM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [EX](https://open.spotify.com/album/3f8TNHuwmLpB84tgpH0RmB) | 3:56 | 2021-10-07\* | 2021-10-23 |
 | [F Yah Job](https://open.spotify.com/track/0Zrn0AIZ8zNCtStA1YrRfZ) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [F Yah Job](https://open.spotify.com/album/7smZwprQmyFU3VHOz4nfjg) | 1:57 | 2021-07-09 | 2022-02-19 |
 | [FACES](https://open.spotify.com/track/3gG3DVG8vhaCRvJrdl802N) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 3:31 | 2022-08-19 | 2022-09-10 |
@@ -298,6 +299,7 @@
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/0eeeK1ar71WxdsTKydG9yz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:46 | 2023-04-07 | 2023-04-29 |
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-04-07 | 2023-04-27 |
 | [Teach Her The Game](https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Teach Her The Game](https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6) | 2:18 | 2022-09-16 | 2022-10-15 |
+| [TELEKINESIS](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-07-28 |  |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-05-06 | 2022-07-23 |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-06-23 |  |
 | [They Don't Know](https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [They Don't Know](https://open.spotify.com/album/2rNpBAGNZz1jcccaoK2oT7) | 2:48 | 2022-12-16 |  |

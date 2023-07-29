@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Tanner Adell
 
-371 songs - 18 hr 45 min
+374 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-10 | 2022-02-26 |
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-07-01 | 2022-09-17 |
 | [Bonfire](https://open.spotify.com/track/35Wg7qEpf5Ai1c6PDm5v4Q) | [Greg Keys](https://open.spotify.com/artist/026BdhMiLdezQFhx6zujEa), [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Bonfire](https://open.spotify.com/album/0jChumoxm3xtMlxFNlBR1A) | 3:37 | 2021-12-10 | 2022-06-18 |
+| [Boots, Jeans, & Jesus](https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Boots, Jeans, & Jesus](https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8) | 2:37 | 2023-07-28 |  |
 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 | 2022-01-28 |  |
 | [Bottom Of This Bottle](https://open.spotify.com/track/7JhbMQw7V8qsJoCGh29SKp) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9), [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Bottom Of This Bottle](https://open.spotify.com/album/6Jwg4j56ovv2lKOOdaup4R) | 3:10 | 2021-12-10 | 2022-04-09 |
 | [Bourbon In Barrels](https://open.spotify.com/track/3tMdzDTUhQbBH7pTqP4Oik) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP), [UG skywalkin](https://open.spotify.com/artist/0ueHgiiwRHbqzl5vUzv6GW) | [Bourbon In Barrels](https://open.spotify.com/album/3xeIDLOOg5cnb0PQHS70aW) | 2:31 | 2023-07-07 |  |
@@ -221,6 +222,7 @@
 | [Long Time No Sea](https://open.spotify.com/track/2p2BzX4LAWki9frJaL2JWz) | [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Long Time No Sea](https://open.spotify.com/album/3IAKELBkHRMBgNuxeZWAue) | 3:07 | 2022-07-22 | 2022-09-24 |
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-06-11 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2022-03-18 | 2022-06-11 |
+| [Love Hotline](https://open.spotify.com/track/4wkGpWey7BZtqjhiXWy7OG) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Love Hotline](https://open.spotify.com/album/0nnB9jE9Hj0Y4XhQOzWFJr) | 2:32 | 2023-07-28 |  |
 | [Love Is](https://open.spotify.com/track/6nOb6M0kJ4sXEDvhaSVg4t) | [Jeremy Greene](https://open.spotify.com/artist/53QhxJatnLiaX50Z85afkV) | [Love Is](https://open.spotify.com/album/1pUYdKSJZapIhHk8OlV61O) | 3:15 | 2021-12-10 | 2022-02-19 |
 | [Love Makes You Blind](https://open.spotify.com/track/1YKtrSyiY3w56bpgIEW3ND) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/77YdXSBVy1uKOSariJkZET) | 2:38 | 2022-11-18 | 2023-05-04 |
 | [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 | 2022-01-14 | 2022-12-15 |
@@ -303,6 +305,7 @@
 | [Something I'll Never Get Back](https://open.spotify.com/track/7JhkoQ5QEhOTrx7Gedt7id) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:08 | 2022-10-21 | 2023-05-04 |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2021-12-10 | 2023-02-02 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 | 2023-01-04 |
+| [Stetson](https://open.spotify.com/track/5jQICwvgUzWQhUB94SsJU8) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Strait Two Stepping](https://open.spotify.com/album/52eg7C6rpSu8wG6oi7ZBG7) | 2:03 | 2023-07-28 |  |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2021-12-10 | 2023-05-04 |
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-12-10 | 2022-01-08 |
 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 | 2022-07-22 |  |

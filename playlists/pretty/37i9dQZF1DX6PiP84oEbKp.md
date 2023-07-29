@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,136 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,135 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 11 | [House of Memories \- Sped Up Version](https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [House Of Memories](https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj) | 2:44 |
 | 12 | [Nonstop](https://open.spotify.com/track/7M0S9UOrhrWM0Ce7Tkl8QT) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/6b9STxR1fsmemwH0C2DlIH) | 2:20 |
 | 13 | [D.R.E.A.M\. \- Sped Up](https://open.spotify.com/track/76GahnCUa2e2Q2Ym7xB6lm) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [D.R.E.A.M\. \(Sped Up\)](https://open.spotify.com/album/1YAP0qQDqkVnlAsmjYF7bD) | 2:24 |
-| 14 | [Biddy Bom \(feat\. Qai Qai\)](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 |
+| 14 | [Biddy Bom \(feat\. Qai Qai\) \- Anxious](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom \(Anxious\)](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 |
 | 15 | [Unbreakable](https://open.spotify.com/track/0Mi9oDxTwC7u9X6nxSQGN6) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [UglyDolls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq) | 3:24 |
 | 16 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 17 | [It's Pride!](https://open.spotify.com/track/7DW2i7YOFfqzd6EjygeAiu) | [Queer Kid Stuff](https://open.spotify.com/artist/5jQABjKVIKP4Aq0jsEyvC1) | [It's Pride!](https://open.spotify.com/album/5JniKxGp0V6VXmYIRzro2V) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 49 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 50 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MCxlY2ZlNThjNTViYmI4NTA4NThkODgwOTMzNTdjNWE3ZGQ1ODc1Njg5`
+Snapshot ID: `MCw5ZjY3ZjIyMTA3ZDg1NmE3NmE1OWMzZGZiZDUxYmVhMTQyYzE4MDlk`

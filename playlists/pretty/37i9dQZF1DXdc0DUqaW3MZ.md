@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,791 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,917 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 42 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 43 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
 | 44 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
-| 45 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
-| 46 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 45 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 46 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
 | 47 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
 | 48 | [We Are](https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps) | 4:15 |
 | 49 | [Rendezvous \(with Miraa May\)](https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Rendezvous \(with Miraa May\)](https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios) | 2:30 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 64 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
 | 65 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 66 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 |
-| 67 | [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 |
-| 68 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
+| 67 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
+| 68 | [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 |
 | 69 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
 | 70 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 |
 
-Snapshot ID: `MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj`
+Snapshot ID: `MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk`

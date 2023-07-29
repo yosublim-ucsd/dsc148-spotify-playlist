@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "music to play for your parents. Cover: 8485",
+  "description": "Cover: A. G. Cook",
   "name": "hyperpop",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 209706,
       "name": "5g",
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
@@ -2042,6 +2042,24 @@
       "duration_ms": 127999,
       "name": "Always",
       "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
+    },
+    {
+      "album": {
+        "name": "American Terrorist",
+        "url": "https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158686,
+      "name": "American Terrorist",
+      "url": "https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT"
     },
     {
       "album": {
@@ -3378,6 +3396,24 @@
       "duration_ms": 207275,
       "name": "beast friend",
       "url": "https://open.spotify.com/track/70pyGRviwBwkTSZwMAYYc8"
+    },
+    {
+      "album": {
+        "name": "Beautiful (2023 Edit)",
+        "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Beautiful (2023 Edit)",
+      "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
     },
     {
       "album": {
@@ -7671,6 +7707,28 @@
     },
     {
       "album": {
+        "name": "fairies have dreams too",
+        "url": "https://open.spotify.com/album/1RvuaW7uRJtjkVwtQ5ow55"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        },
+        {
+          "name": "mint",
+          "url": "https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129657,
+      "name": "day by day",
+      "url": "https://open.spotify.com/track/4c909Xn4pVv5rA4jkH4JoA"
+    },
+    {
+      "album": {
         "name": "day n nite",
         "url": "https://open.spotify.com/album/4cYM9IgNK3xF1O4WU4S1hp"
       },
@@ -9215,6 +9273,28 @@
     },
     {
       "album": {
+        "name": "molecule",
+        "url": "https://open.spotify.com/album/1sZhAMSxyVfitDVgv0xFuX"
+      },
+      "artists": [
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        },
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148541,
+      "name": "drywall",
+      "url": "https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7"
+    },
+    {
+      "album": {
         "name": "music 2",
         "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
       },
@@ -10508,7 +10588,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
@@ -10958,7 +11038,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169000,
       "name": "Firetruck (umru Remix)",
       "url": "https://open.spotify.com/track/4uRlCLIdCetmRMYC5QFluW"
@@ -13392,6 +13472,24 @@
       "duration_ms": 101367,
       "name": "GREEN APPLE PASTE",
       "url": "https://open.spotify.com/track/4ysStr4DagYqkaCbTPWqHe"
+    },
+    {
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/3kH2nsB9EnNFOi3AScxR5I"
+      },
+      "artists": [
+        {
+          "name": "Natalie Red",
+          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133509,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/3pK8YjdB2827WRRvEAEUgC"
     },
     {
       "album": {
@@ -18238,7 +18336,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 346285,
       "name": "Labyrinth - Neggy Gemmy Remix",
       "url": "https://open.spotify.com/track/5JDFnvb8b6lLXFcyK8Auas"
@@ -18594,6 +18692,24 @@
       "duration_ms": 115514,
       "name": "let me die (feat. polearm)",
       "url": "https://open.spotify.com/track/76PniOSbK2YMnHuR85IaOD"
+    },
+    {
+      "album": {
+        "name": "Let Me Fight",
+        "url": "https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168069,
+      "name": "Let Me Fight",
+      "url": "https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb"
     },
     {
       "album": {
@@ -21912,7 +22028,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 133224,
       "name": "new crush",
       "url": "https://open.spotify.com/track/5QtiXQMpK1x9JjtHS1Tk6p"
@@ -21992,6 +22108,24 @@
       "duration_ms": 127624,
       "name": "Nike",
       "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
+    },
+    {
+      "album": {
+        "name": "no expectations.",
+        "url": "https://open.spotify.com/album/3Hj9wpcgosXqcw6sdmSBg3"
+      },
+      "artists": [
+        {
+          "name": "Lucyen",
+          "url": "https://open.spotify.com/artist/5UBw2VnIl4iOxxtjpL83g7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "no expectations.",
+      "url": "https://open.spotify.com/track/1qOHyWo63YavYVYPo47hh9"
     },
     {
       "album": {
@@ -22678,7 +22812,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168498,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2kmaDNR2r7t9aRoY9pz4SV"
@@ -27976,7 +28110,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169500,
       "name": "Show Me What",
       "url": "https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp"
@@ -30842,7 +30976,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 148513,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6KlkbowjQWXsef4AwSQu4c"
@@ -33407,6 +33541,32 @@
     },
     {
       "album": {
+        "name": "ur so cute (feat. SEBii)",
+        "url": "https://open.spotify.com/album/3eqmleRJF2beinWCLD7x5U"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Arkade",
+          "url": "https://open.spotify.com/artist/1nxV2NMKSn8X42vJ9OyTn8"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146657,
+      "name": "ur so cute (feat. SEBii)",
+      "url": "https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU"
+    },
+    {
+      "album": {
         "name": "urgent",
         "url": "https://open.spotify.com/album/7oy0y8oH0j6qanr1aIOREp"
       },
@@ -34782,6 +34942,24 @@
       "duration_ms": 189051,
       "name": "Whole Ride",
       "url": "https://open.spotify.com/track/2yzcgUVoSdZxakgaETRX3r"
+    },
+    {
+      "album": {
+        "name": "why did we fall in love",
+        "url": "https://open.spotify.com/album/0c5kS0gnliws76WBAMxtUt"
+      },
+      "artists": [
+        {
+          "name": "Psych",
+          "url": "https://open.spotify.com/artist/0FUZiCIWR6cku5kKstgvrE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122730,
+      "name": "why did we fall in love",
+      "url": "https://open.spotify.com/track/4EMDeNLmnBDAjFWWDkRRbE"
     },
     {
       "album": {

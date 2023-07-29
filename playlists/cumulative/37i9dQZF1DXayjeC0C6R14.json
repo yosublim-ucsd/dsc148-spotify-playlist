@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
+    },
+    {
+      "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 311400,
       "name": "Noches de Tu Piel",
       "url": "https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP"
@@ -1213,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "album": {
         "name": "Buenos Muchachos",
         "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
       },
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224813,
       "name": "Tu Que Pediras",
       "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"

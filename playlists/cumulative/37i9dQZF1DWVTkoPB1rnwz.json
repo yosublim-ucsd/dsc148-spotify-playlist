@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Escape Wheel",
+        "url": "https://open.spotify.com/album/0kTPROk36sCcIBdSqxP1OQ"
+      },
+      "artists": [
+        {
+          "name": "Emeralds",
+          "url": "https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402271,
+      "name": "Escape Wheel",
+      "url": "https://open.spotify.com/track/6yFQMacjTp4imNsBfvvbx2"
+    },
+    {
+      "album": {
         "name": "Espuma de mar",
         "url": "https://open.spotify.com/album/3aukawwyALjpYNTqFsYxnn"
       },
@@ -2995,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Lineoa",
+        "url": "https://open.spotify.com/album/7155dlzrVg7sADrfG24wir"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Lineoa",
+      "url": "https://open.spotify.com/track/3ZHLXe62MxnwGz7YjxmHeO"
+    },
+    {
+      "album": {
         "name": "Blizz",
         "url": "https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9"
       },
@@ -3168,7 +3204,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224826,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
@@ -3536,7 +3572,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 259933,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl"

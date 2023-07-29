@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
+    },
+    {
+      "album": {
         "name": "Hey!",
         "url": "https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ"
       },
@@ -4561,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Hoy Solo Quiero Odiar",
+        "url": "https://open.spotify.com/album/51sH6z68UgMTi1AqwFUyyV"
+      },
+      "artists": [
+        {
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280466,
+      "name": "Perd\u00ed Mi Ojo De Venado - cover",
+      "url": "https://open.spotify.com/track/4m49EPX2vxIqJk9ARSEaqs"
+    },
+    {
+      "album": {
         "name": "Perra Soledad",
         "url": "https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG"
       },
@@ -5564,6 +5600,24 @@
       "duration_ms": 270428,
       "name": "Todo el D\u00eda de Hoy",
       "url": "https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS"
+    },
+    {
+      "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "album": {

@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174967,
       "name": "Fornai",
       "url": "https://open.spotify.com/track/6zzkVxSr17jP2B7PbnsoXk"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 131688,
       "name": "Lo que me asusta",
       "url": "https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl"
@@ -3172,6 +3172,24 @@
       "duration_ms": 140444,
       "name": "Miseria",
       "url": "https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX"
+    },
+    {
+      "album": {
+        "name": "MISSIN CHILDREN",
+        "url": "https://open.spotify.com/album/1QeC2pee09euMrbAWBxVpm"
+      },
+      "artists": [
+        {
+          "name": "BARRO",
+          "url": "https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193094,
+      "name": "MISSIN CHILDREN",
+      "url": "https://open.spotify.com/track/7k5s8zIy5dkKwSHEumOTcq"
     },
     {
       "album": {

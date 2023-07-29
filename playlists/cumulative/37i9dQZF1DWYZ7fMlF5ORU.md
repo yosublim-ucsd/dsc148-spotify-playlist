@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-82 songs - 5 hr 29 min
+83 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Deus É Bom](https://open.spotify.com/track/2USllhBBWdhwUCnVr9rz39) | [Jonatan Moraes](https://open.spotify.com/artist/0UedoRaEiHjL9WUCmVWgbQ), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus É Bom](https://open.spotify.com/album/5lDfCxomvBIO97A6qOLQLI) | 3:44 | 2023-04-15 |  |
 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 | 2023-07-14 |  |
 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 | 2023-04-15 |  |
-| [Escolho o Teu Caminho](https://open.spotify.com/track/5DReZpzQNDuDlNZHqe20L9) | [Raquel Garcia](https://open.spotify.com/artist/1i7b1kgIqLIhZ9H14Kp3ce) | [Escolho O Teu Caminho](https://open.spotify.com/album/1e6DPcnmFday9R3FABcACP) | 3:15 | 2023-04-15 |  |
+| [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 | 2023-07-28 |  |
+| [Escolho o Teu Caminho](https://open.spotify.com/track/5DReZpzQNDuDlNZHqe20L9) | [Raquel Garcia](https://open.spotify.com/artist/1i7b1kgIqLIhZ9H14Kp3ce) | [Escolho O Teu Caminho](https://open.spotify.com/album/1e6DPcnmFday9R3FABcACP) | 3:15 | 2023-04-15 | 2023-07-29 |
 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 | 2023-04-15 |  |
 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 | 2023-04-15 |  |
 | [Eu Não Desisto](https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 5:49 | 2023-04-15 |  |

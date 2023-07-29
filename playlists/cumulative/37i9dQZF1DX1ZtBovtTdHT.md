@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-85 songs - 6 hr 44 min
+86 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [The Riddle](https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:45 | 2022-06-10 |  |
 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 | 2022-06-10 |  |
 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/6i0XAILWMxXwjtDxGm6Wgu) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [40 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/6uN9PsLgmCmPPkrusFaAWL) | 10:49 | 2022-06-10 |  |
-| [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 | 2022-06-10 |  |
+| [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 | 2022-06-10 | 2023-07-29 |
+| [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 | 2022-06-10 |  |
 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 | 2022-06-10 |  |
 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 | 2022-06-10 |  |
 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 | 2022-06-10 |  |

@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 126250,
       "name": "ALARM",
       "url": "https://open.spotify.com/track/4r4A0sPJCht0qP4DoOzwFJ"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 198894,
       "name": "Dark Side - Slowed + Reverb",
       "url": "https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo"
@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 105486,
       "name": "dropitlikeitshot!",
       "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/2RSWURwG8u9S1kiS3dui9M"
+      },
+      "artists": [
+        {
+          "name": "zecki",
+          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138217,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/6FkmFtOV8I2ygYPZyeibqc"
+    },
+    {
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/0nlmIPxCvBNODxnr5hk8gG"
       },
@@ -6072,7 +6090,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 106266,
       "name": "Mom's Here",
       "url": "https://open.spotify.com/track/0kJb1DG9EWCXci90357CDT"
@@ -6922,6 +6940,28 @@
       "duration_ms": 150058,
       "name": "ORACLE",
       "url": "https://open.spotify.com/track/7wjlOQUsP6uofLLP7jdw84"
+    },
+    {
+      "album": {
+        "name": "Orquestra Maldita",
+        "url": "https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119736,
+      "name": "Orquestra Maldita",
+      "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
     },
     {
       "album": {
@@ -9508,6 +9548,10 @@
         {
           "name": "DJ RICK 013",
           "url": "https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2023-07-07",
@@ -9654,6 +9698,32 @@
       "duration_ms": 184000,
       "name": "THUNDERSTRIKE",
       "url": "https://open.spotify.com/track/5D8MCa8Q05Urj343Hci4eq"
+    },
+    {
+      "album": {
+        "name": "TIRED OF PROBLEMS",
+        "url": "https://open.spotify.com/album/040xi1cygyTX9odMDiNkpU"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        },
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109268,
+      "name": "TIRED OF PROBLEMS",
+      "url": "https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx"
     },
     {
       "album": {
@@ -10028,6 +10098,24 @@
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
+    },
+    {
+      "album": {
+        "name": "Ukrainian Cossack Phonk",
+        "url": "https://open.spotify.com/album/2peeTkbwrVZh1ZBmL0pruI"
+      },
+      "artists": [
+        {
+          "name": "CHASHKAKEFIRA",
+          "url": "https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Ukrainian Cossack Phonk",
+      "url": "https://open.spotify.com/track/4afiPsUVztQG7Dbc1fazas"
     },
     {
       "album": {

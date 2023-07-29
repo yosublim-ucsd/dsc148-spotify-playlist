@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best in modern country music. Cover: Dan + Shay",
+  "description": "Nothing but the best in modern country music. Cover: Diplo, Jessie Murph, Polo G",
   "name": "All About Country",
   "tracks": [
     {
@@ -710,7 +710,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 170906,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
@@ -3311,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Honky Tonkin' About",
+        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185315,
+      "name": "Honky Tonkin' About",
+      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
+    },
+    {
+      "album": {
         "name": "The Low Light Sessions",
         "url": "https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC"
       },
@@ -3584,6 +3606,32 @@
       "duration_ms": 205671,
       "name": "I Don't Wanna Go To Heaven",
       "url": "https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5"
+    },
+    {
+      "album": {
+        "name": "I Know (feat. Tenille Townes & Bryce Vine)",
+        "url": "https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183578,
+      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
+      "url": "https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN"
     },
     {
       "album": {
@@ -3991,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/12ZPTkxy23YJSeMvKpY7iK"
       },
@@ -4060,7 +4126,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206320,
       "name": "Jealous of Myself",
       "url": "https://open.spotify.com/track/2uVEIKz8z9j4jBZkORX2a1"
@@ -4456,6 +4522,28 @@
       "duration_ms": 145106,
       "name": "Little Songs",
       "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
     },
     {
       "album": {
@@ -5078,7 +5166,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 218330,
       "name": "My Dad And His Truck",
       "url": "https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE"
@@ -5412,7 +5500,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
@@ -7733,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "Summer Don't Go",
+        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168524,
+      "name": "Summer Don't Go",
+      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "album": {
         "name": "Summer On Your Lips",
         "url": "https://open.spotify.com/album/0UaUgPC7Ei0A21sG3LrDL1"
       },
@@ -8668,7 +8774,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225533,
       "name": "Walking Each Other Home",
       "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"

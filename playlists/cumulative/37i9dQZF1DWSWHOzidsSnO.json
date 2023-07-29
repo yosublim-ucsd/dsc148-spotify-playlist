@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 246318,
       "name": "I Like It, I Like It",
       "url": "https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR"
@@ -3962,6 +3962,24 @@
       "duration_ms": 171962,
       "name": "WOW",
       "url": "https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D"
+    },
+    {
+      "album": {
+        "name": "Y Volviste a Decir Te Amo",
+        "url": "https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226443,
+      "name": "Y Volviste a Decir Te Amo",
+      "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,421,923 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,422,274 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 40 | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg) | 2:42 |
 | 41 | [Sinnerman \- Sofi Tukker Remix](https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sinnerman \(Sofi Tukker Remix\)](https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj) | 3:52 |
 | 42 | [By The End Of The Night \- southstar Remix](https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [By The End Of The Night \(southstar Remix\)](https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3) | 3:41 |
-| 43 | [Eyes Closed \- Lost Frequencies Remix](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Eyes Closed \(Lost Frequencies Remix\)](https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy) | 2:59 |
-| 44 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 |
+| 43 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 |
+| 44 | [Eyes Closed \- Lost Frequencies Remix](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Eyes Closed \(Lost Frequencies Remix\)](https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy) | 2:59 |
 | 45 | [Sacrifice \(Remix\) \(feat\. Swedish House Mafia\)](https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7) | 3:58 |
 | 46 | [Hallucination \- Navos Remix](https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Hallucination \(Navos Remix\)](https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v) | 2:30 |
 | 47 | [Never Gonna Not Dance Again \- Sam Feldt Remix](https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Never Gonna Not Dance Again \(Sam Feldt Remix\)](https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [I Love It \(feat\. Charli XCX\) \- I Don’t Care 2022 Re\-Edit](https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\) \[I Don’t Care 2022 Re\-Edit\]](https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq) | 2:32 |
 | 75 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
 
-Snapshot ID: `MCw1NjhjMWUwMGE4NTY1OGE4NjEyOGI1YjRiY2EzYjA3OGRiZTU2YzJl`
+Snapshot ID: `MCw3Njg0MmUwOTg4NjgyMGNiZjNhNjMwY2JhNzg1YWU4OTlhNjU4MDc0`

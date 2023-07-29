@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -4788,10 +4788,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155200,
       "name": "Cuerno Asulado - Marcogta Music Remix",
       "url": "https://open.spotify.com/track/342YTjxByX0g6p1PDZqhMF"
+    },
+    {
+      "album": {
+        "name": "Cuerno Asulao",
+        "url": "https://open.spotify.com/album/5YtmKDRWi1vzn5QZ52943N"
+      },
+      "artists": [
+        {
+          "name": "Marcogta Music",
+          "url": "https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154805,
+      "name": "Cuerno Asulao",
+      "url": "https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M"
     },
     {
       "album": {
@@ -10376,7 +10394,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
@@ -14379,6 +14397,24 @@
     },
     {
       "album": {
+        "name": "My You",
+        "url": "https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165070,
+      "name": "My You",
+      "url": "https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR"
+    },
+    {
+      "album": {
         "name": "M\u00eda M\u00eda",
         "url": "https://open.spotify.com/album/6JItTIS5UxMSndYqRMHpTX"
       },
@@ -16023,6 +16059,28 @@
     },
     {
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197935,
+      "name": "PARANORMAL",
+      "url": "https://open.spotify.com/track/2m8V3evS07OnhatBWyh0Nt"
+    },
+    {
+      "album": {
         "name": "Paris 2.0",
         "url": "https://open.spotify.com/album/7iefRwJFj2lJ4doVJDSImJ"
       },
@@ -17240,6 +17298,32 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "album": {
+        "name": "Punta Mix 2023",
+        "url": "https://open.spotify.com/album/1nAfoTqWKodHAYW14v9bnq"
+      },
+      "artists": [
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        },
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304610,
+      "name": "Punta Mix 2023",
+      "url": "https://open.spotify.com/track/3Vqwxcpe3cb6SRSUMQi70b"
     },
     {
       "album": {
@@ -18704,7 +18788,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
@@ -24670,7 +24754,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
@@ -24688,7 +24772,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 236106,
       "name": "\u30c6\u30fb\u30ad\u30a8\u30ed\u30fb\u30c7\u30a3\u30d2\u30b9\u30c6",
       "url": "https://open.spotify.com/track/1xjGMWxSfbo7Eyjeb3mzNs"

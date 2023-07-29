@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,274 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,279 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 12 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 |
 | 13 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 |
 | 14 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 |
-| 15 | [Seeing Red](https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Shamanaid](https://open.spotify.com/album/2Itmzzv39Z7w6mL8WVeU3x) | 4:56 |
-| 16 | [That's Alright](https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS) | [Fab Samperi](https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte), [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Moonshine Crossroads](https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG) | 2:41 |
+| 15 | [That's Alright](https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS) | [Fab Samperi](https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte), [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Moonshine Crossroads](https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG) | 2:41 |
+| 16 | [Seeing Red](https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Shamanaid](https://open.spotify.com/album/2Itmzzv39Z7w6mL8WVeU3x) | 4:56 |
 | 17 | [Honeybee Blues](https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT) | [The Tao Of Groove](https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa) | [Fresh Goods](https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ) | 3:31 |
 | 18 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
 | 19 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 31 | [Roy's Toy](https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [You Had It Coming](https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft) | 3:35 |
 | 32 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 |
 | 33 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 |
-| 34 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
+| 34 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
 | 35 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
-| 36 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
+| 36 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
 | 37 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 |
 | 38 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 |
 | 39 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 44 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 | 45 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 |
 | 46 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
-| 47 | [Swamp Thang](https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G) | 2:47 |
+| 47 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 48 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
-| 49 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
+| 49 | [Swamp Thang](https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G) | 2:47 |
 | 50 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
 
-Snapshot ID: `MCwyN2JkMDQxNTQ2YWM4MWI4YTVlNjM2MDIyYzQwZjk2ZTZkY2Y1Y2Jk`
+Snapshot ID: `MCxmZDc3NTYyMzFjMjVjMjQ4ODYwNTFmZjljNzg0NDJlZjk4MDc4YTI2`

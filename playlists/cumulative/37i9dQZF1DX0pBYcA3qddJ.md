@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-488 songs - 1 day 9 hr 16 min
+489 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Liszt: 献呈\(シューマンの歌曲による\) S.566](https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト・リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 3:56 | 2022-10-20 | 2022-12-02 |
 | [Little Bug](https://open.spotify.com/track/1jni8yGnOf6wDUtekxUYIz) | [笹倉慎介](https://open.spotify.com/artist/0TO3WXcOUQAVnGNE9BmMBW) | [Little Bug](https://open.spotify.com/album/1emBkGj6qGR72MLwE6KrVX) | 5:03 | 2022-11-15 | 2022-12-02 |
 | [little star \(2022 Illumination ver.\)](https://open.spotify.com/track/6nnCXOMLQz0NhRMYmHKs98) | [Socca](https://open.spotify.com/artist/1Ok7RP5GZH0jY8gZo098M6) | [little star \(2022 Illumination ver.\)](https://open.spotify.com/album/2ArCRaS2o7Cqaj8lxBeNLP) | 3:39 | 2023-01-05 | 2023-03-01 |
+| [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-07-27 |  |
 | [LOMP](https://open.spotify.com/track/5Au7IBDfjqXhhrFSu6AkOU) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd), [Chima](https://open.spotify.com/artist/4i1UhzFZ5BK4tDuShC4Uwk) | [LOMP](https://open.spotify.com/album/45xLAc2wSAb10MYg3S3hOL) | 4:20 | 2023-03-07 | 2023-03-25 |
 | [Lonely Bones](https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:04 | 2022-10-20 | 2023-01-06 |
 | [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-09 | 2023-04-22 |
@@ -492,7 +493,7 @@
 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 | 2022-10-20 | 2022-11-09 |
 | [遠く](https://open.spotify.com/track/6C9aG68VyWYP3aUbh9jMTQ) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [遠く](https://open.spotify.com/album/3fSSUK0Z5FZytj9JJFHA3j) | 8:22 | 2023-04-18 | 2023-06-14 |
 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 | 2022-11-16 |
-| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-07-11 |  |
+| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-07-11 | 2023-07-29 |
 | [風笛](https://open.spotify.com/track/4OBIKEvUBXnI8i5PO9XCX7) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [tears](https://open.spotify.com/album/6Veb3ZyuDiMx59SrvxSAAv) | 3:45 | 2022-12-01 | 2023-03-01 |
 | [魔法のお弁当](https://open.spotify.com/track/71vs9OtgxMkbkqlfvEfOFZ) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [HTB「弁当屋さんのおもてなし」オリジナル・サウンドトラック](https://open.spotify.com/album/3SZt4QnQUgZYaRcxF5LzT9) | 2:38 | 2023-03-28 | 2023-04-05 |
 | [黄昏のワルツ](https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k) | [My Favorite Songs](https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX) | 3:29 | 2022-10-20 | 2022-11-23 |

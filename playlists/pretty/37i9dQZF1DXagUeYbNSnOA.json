@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring El Krack Mx. Updates every Wednesday.",
-  "num_followers": 171519,
+  "num_followers": 171523,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjdjYmJiNTBjMTc4OWEyZmUyMmM1YTc4OWIzMGIyYjI5YzNlYmQ5",
+  "snapshot_id": "MCxkMGYyNzU0MmM3MzQ0YjhiOGI4YzI0NDZmZjdkMWJlZTNmMzYwMTdh",
   "tracks": [
     {
       "added_at": "2023-07-26 06:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "El Film",
-        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 181703,
-      "name": "El Film",
-      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/2H1XMncMGkoF3IRwh3i9OE"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 154125,
       "name": "As\u00ed De Bien",
       "url": "https://open.spotify.com/track/6lDWrby8DgfmF8riv1tBiU"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "El Film",
+        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 181703,
+      "name": "El Film",
+      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr"
-      },
-      "artists": [
-        {
-          "name": "Sueters",
-          "url": "https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "LADRIDOS FREESTYLE",
         "url": "https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 148236,
       "name": "LADRIDOS FREESTYLE",
       "url": "https://open.spotify.com/track/7CiyDHa8UN2hj5kaS5bme8"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr"
+      },
+      "artists": [
+        {
+          "name": "Sueters",
+          "url": "https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Noche Celestial",
+        "url": "https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ"
+      },
+      "artists": [
+        {
+          "name": "Paul\u00e9",
+          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Noche Celestial",
+      "url": "https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Noche Celestial",
-        "url": "https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ"
-      },
-      "artists": [
-        {
-          "name": "Paul\u00e9",
-          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "Noche Celestial",
-      "url": "https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 86192,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Relinda",
+        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
+      },
+      "artists": [
+        {
+          "name": "Jose Villasenor",
+          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "Relinda",
+      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -755,22 +771,6 @@
       "duration_ms": 135000,
       "name": "Bien?",
       "url": "https://open.spotify.com/track/52m258iE1bAIHZVwIpNGqN"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Relinda",
-        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
-      },
-      "artists": [
-        {
-          "name": "Jose Villasenor",
-          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "Relinda",
-      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
     },
     {
       "added_at": "2023-07-26 06:00:00",

@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "Quiero Ser Baladista",
+        "url": "https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342142,
+      "name": "Quiero Ser Baladista",
+      "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },

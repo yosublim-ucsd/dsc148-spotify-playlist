@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186544,
       "name": "...Anyway",
       "url": "https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185969,
       "name": "AUTOMATED",
       "url": "https://open.spotify.com/track/2TW2kFAAMpeOAIz0IrTurd"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 142342,
       "name": "Belly Flop",
       "url": "https://open.spotify.com/track/2jYCOrVA4h3dtFDKsDj1Vc"
@@ -1352,6 +1352,32 @@
       "duration_ms": 317426,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J"
+    },
+    {
+      "album": {
+        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
+        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
+      },
+      "artists": [
+        {
+          "name": "Mac Krol",
+          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
+        },
+        {
+          "name": "Mike Krol",
+          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
+        },
+        {
+          "name": "Mac McCaughan",
+          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Fair Warning",
+      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
     },
     {
       "album": {
@@ -2638,7 +2664,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 158906,
       "name": "LIP BOMB",
       "url": "https://open.spotify.com/track/6tRXA3zKmqHHNFPpjtnbtX"
@@ -2656,7 +2682,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166950,
       "name": "Lonely Edinburgh",
       "url": "https://open.spotify.com/track/5mFwUCoZyiQ1qHvtIwfPwX"
@@ -2894,6 +2920,24 @@
       "duration_ms": 327544,
       "name": "Mushroom Man",
       "url": "https://open.spotify.com/track/0Rp0O14KUjmH0CgWL9leIk"
+    },
+    {
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "album": {
@@ -4053,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+    },
+    {
+      "album": {
         "name": "Spirit In The Sky",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -4377,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -4593,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+      },
+      "artists": [
+        {
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
+    },
+    {
+      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
@@ -4716,6 +4814,24 @@
       "duration_ms": 190581,
       "name": "Try Hard Fool",
       "url": "https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj"
+    },
+    {
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "album": {
@@ -5256,7 +5372,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193254,
       "name": "\u00c1rboles de la Barranca",
       "url": "https://open.spotify.com/track/1e1BPcImb3JXuFQQsLLzxi"

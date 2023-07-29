@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-109 songs - 6 hr 44 min
+110 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Stille Musik: 3\. Augenblicke der Serenade](https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6) | [Bagatellen und Serenaden](https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM) | 2:17 | 2022-07-22 |  |
 | [Stille Musik: 3\. Augenblicke der Serenade](https://open.spotify.com/track/3pThH9KvYgY2zBkcT8qiyj) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6) | [Bagatellen und Serenaden](https://open.spotify.com/album/0sju7yiMo3bg4vW5Za8rKY) | 2:17 | 2022-01-26 | 2022-07-29 |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Debussy: Suite bergamasque, L\. 75, 3\. Clair de lune](https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C) | 4:54 | 2021-11-15 |  |
+| [Suite compostelana: II\. Coral](https://open.spotify.com/track/1FbAQqtKHiQhLbz5Yodjbf) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Krzysztof Meisinger](https://open.spotify.com/artist/43JBMYEGjtG25QfTpngBWM) | [Mystique](https://open.spotify.com/album/25nuEAVTtDUOSLcYmuZQkx) | 3:28 | 2023-07-28 |  |
 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 | 2021-11-15 |  |
 | [Sunset Bird](https://open.spotify.com/track/1jcQ040aWKeiUGJ2IcnFtV) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Sunset Bird](https://open.spotify.com/album/2c9fSY8vvHKDCBKgNUJ70H) | 3:11 | 2021-11-15 | 2023-04-15 |
 | [Symphony No\. 1, "Afro\-American": II\. Sorrow \(Adagio\)](https://open.spotify.com/track/12KMREUbKErP77HI7Av6Gq) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Fort Smith Symphony](https://open.spotify.com/artist/2RF1pwxVSPHMVoOpSiscAE), [John Jeter](https://open.spotify.com/artist/3R8JNp3hUoSjDI0OMGt6VN) | [Still: Afro\-American Symphony](https://open.spotify.com/album/6WeAFg5AUjMi1NkuvCi0Ey) | 5:14 | 2021-11-15 | 2022-03-18 |

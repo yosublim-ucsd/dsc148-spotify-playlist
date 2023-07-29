@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Walk the bridge between indie and folk. Cover: Chance Pe\u00f1a",
+  "description": "Walk the bridge between indie and folk. Cover: Delaney Bailey",
   "name": "Folk Arc",
   "tracks": [
     {
@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "what we leave behind",
+        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259314,
+      "name": "bloomington",
+      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196000,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
@@ -2686,6 +2704,24 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "album": {
+        "name": "Homesick Honeybee",
+        "url": "https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178215,
+      "name": "Homesick Honeybee - Edit",
+      "url": "https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC"
     },
     {
       "album": {
@@ -6854,7 +6890,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207972,
       "name": "Your Garden",
       "url": "https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7"

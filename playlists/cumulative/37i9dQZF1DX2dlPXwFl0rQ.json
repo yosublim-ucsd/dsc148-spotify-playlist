@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 205840,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 156866,
       "name": "Dama Divina",
       "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
@@ -1118,6 +1118,24 @@
       "duration_ms": 177420,
       "name": "Dejalo Ir",
       "url": "https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "album": {
@@ -1368,6 +1386,24 @@
       "duration_ms": 203964,
       "name": "En Carne Viva",
       "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
+    },
+    {
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
     },
     {
       "album": {
@@ -1627,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "album": {
         "name": "Principios Vol. 1",
         "url": "https://open.spotify.com/album/05KzRftEfw53JFMEzSZ5sY"
       },
@@ -1710,7 +1764,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
@@ -2333,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "MALAMANTE (en carne viva)",
+        "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
+      },
+      "artists": [
+        {
+          "name": "Veronica Orozco",
+          "url": "https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm"
+        },
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "MALAMANTE (en carne viva)",
+      "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
+    },
+    {
+      "album": {
         "name": "Malas Noticias",
         "url": "https://open.spotify.com/album/5R3yaC2Y15BJgaSoi4G8bY"
       },
@@ -2380,7 +2456,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
@@ -3069,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
+    },
+    {
+      "album": {
         "name": "No Pasa Nada",
         "url": "https://open.spotify.com/album/3SLyTJrmcrrhj2qqLx2sW3"
       },
@@ -3282,7 +3376,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -3450,7 +3544,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210040,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
@@ -3512,6 +3606,42 @@
       "duration_ms": 144531,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG"
+    },
+    {
+      "album": {
+        "name": "...Y Lleg\u00f3 Para Quedarse",
+        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
+    },
+    {
+      "album": {
+        "name": "Piensa en M\u00ed",
+        "url": "https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
     },
     {
       "album": {
@@ -3764,7 +3894,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 223556,
       "name": "Prieta Linda",
       "url": "https://open.spotify.com/track/2kBqOvaNAhvchI7l1ouNGd"
@@ -3955,6 +4085,32 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -4068,6 +4224,24 @@
       "duration_ms": 221554,
       "name": "Qu\u00e9 Tanto Es Tantito?",
       "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "album": {
@@ -4468,7 +4642,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 223813,
       "name": "Sin Valor - En Vivo",
       "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
@@ -4880,7 +5054,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181500,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv"
@@ -5085,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+    },
+    {
+      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -5262,7 +5458,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 220946,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
@@ -5454,6 +5650,24 @@
       "duration_ms": 193800,
       "name": "\u00c9chame a Mi La Culpa",
       "url": "https://open.spotify.com/track/0217K1S145FAb99BfTdFkx"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame A M\u00ed La Culpa",
+        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "\u00c9chame A M\u00ed La Culpa",
+      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Isaias Saad, Fernandinho
+> A música certa para o seu momento de adoração\. Foto: Rebeca Carvalho
 
-190 songs - 18 hr 38 min
+191 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 | 2023-04-15 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-09 |  |
 | [Anseio Ardente \- Ao Vivo](https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Anseio Ardente \(Ao Vivo\)](https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi) | 6:44 | 2023-02-11 | 2023-04-16 |
-| [Aqui O Mal Não Vai Entrar](https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK) | [Imafe Music](https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/album/5462EWLaEmkc5G7MDsaiSJ) | 5:50 | 2023-07-07 |  |
+| [Aqui O Mal Não Vai Entrar](https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK) | [Imafe Music](https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/album/5462EWLaEmkc5G7MDsaiSJ) | 5:50 | 2023-07-07 | 2023-07-29 |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-09 | 2022-12-17 |
 | [Até Tocar o Céu](https://open.spotify.com/track/5D4MxLzReeObQ5WyMZBHab) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Até Tocar o Céu](https://open.spotify.com/album/73GWhRZDIydE9oN7kghZ4p) | 5:53 | 2023-07-07 |  |
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-03-17 |  |
@@ -50,6 +50,7 @@
 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 | 2022-09-09 | 2023-02-25 |
 | [Deus Poderoso \- Ao Vivo](https://open.spotify.com/track/4gFiMeIv6jYYYvsFT06j2u) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Deus Poderoso \(Ao Vivo\)](https://open.spotify.com/album/4ZXmwYHyVQYQPjRJ4MU5Za) | 5:26 | 2022-11-04 | 2023-02-11 |
 | [Dia E Noite](https://open.spotify.com/track/0xmAELkU7sFGUFEyRI0cSb) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Dia E Noite](https://open.spotify.com/album/5pSLZZgFtTk8RkdCGEjLBg) | 6:47 | 2022-10-14 | 2022-11-26 |
+| [Doxologia](https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP) | [Doxologia](https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF) | 5:43 | 2023-07-28 |  |
 | [E Se](https://open.spotify.com/track/0kNqAibbxuqj6HGiYEUnTV) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [E Se](https://open.spotify.com/album/3c4c9eWtYgfXzFo2WlUx1q) | 4:57 | 2023-02-03 | 2023-03-18 |
 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 | 2022-09-09 |  |
 | [Ele Cumprirá](https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Ele Cumprirá](https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk) | 7:36 | 2023-04-28 |  |

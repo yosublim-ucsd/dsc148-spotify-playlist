@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-330 songs - 19 hr 7 min
+331 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-09 |  |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2023-02-16 |
-| [Juicy](https://open.spotify.com/track/4UsP9smALtJoaaZp5dPlbL) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Juicy](https://open.spotify.com/album/746aWMCud3Vqi40M8WEqwG) | 3:14 | 2022-06-10 |  |
+| [Juicy](https://open.spotify.com/track/4UsP9smALtJoaaZp5dPlbL) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Juicy](https://open.spotify.com/album/746aWMCud3Vqi40M8WEqwG) | 3:14 | 2022-06-10 | 2023-07-29 |
 | [Kick It to Me](https://open.spotify.com/track/5omukHtcJduzkSfOlze4iB) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) | 6:27 | 2021-12-03 | 2022-07-29 |
 | [Kick It to Me](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) | 6:27 | 2021-12-03 | 2023-01-28 |
 | [Ladybird](https://open.spotify.com/track/7hUdlYTjIR6mL4MbK2giSv) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7) | [Nané](https://open.spotify.com/album/5Oly0Hr5fVwveZmCJYodc7) | 3:34 | 2021-12-03 | 2022-07-29 |
@@ -301,6 +301,7 @@
 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 | 2023-04-29 |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-10 | 2023-03-11 |
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 |  |
+| [The Only One](https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Only One](https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh) | 2:55 | 2023-07-28 |  |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2021-12-03 | 2022-10-01 |
 | [Then There Was You](https://open.spotify.com/track/4OkgX6DWNd0peWM54Q6gFf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:12 | 2021-12-03 | 2022-07-20 |
 | [This Time](https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [This Time](https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR) | 3:21 | 2023-07-21 |  |

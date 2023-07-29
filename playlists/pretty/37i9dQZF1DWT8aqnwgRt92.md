@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,142 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,930 likes - 85 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 53 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 |
 | 54 | [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 |
 | 55 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
-| 56 | [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 |
+| 56 | [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 |
 | 57 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 |
 | 58 | [械物](https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [械物](https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45) | 3:43 |
 | 59 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Masquerade Parade](https://open.spotify.com/track/5WXr7EX614ZvEPgsAIBScz) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Masquerade Parade](https://open.spotify.com/album/7v57E9Kbu6Di4AXnCBkqm5) | 3:54 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCw3ZjVjYzc5MzIzMjIxMTc0ZjVlMDRjNjczNmRmYjNlOTRiY2QxMzkw`
+Snapshot ID: `MCxmOWExYjc0ZGY5NzVmMWY0OTVmYzcyNzMwMjRhNzM2Y2NjNTE5NTU0`

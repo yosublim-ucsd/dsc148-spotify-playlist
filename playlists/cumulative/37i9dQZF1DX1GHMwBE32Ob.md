@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Lil Kesh & Young Jonn
+> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bella Shmurda
 
-131 songs - 6 hr 14 min
+132 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 | 2022-08-12 | 2023-04-09 |
 | [Banga](https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Banga \(feat\. Portable\)](https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc) | 3:13 | 2023-02-23 | 2023-06-17 |
 | [Body](https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Body](https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE) | 2:06 | 2023-05-11 |  |
-| [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 | 2022-06-29 |  |
+| [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 | 2022-06-29 | 2023-07-29 |
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 |  |
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 |  |
 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 | 2022-06-29 |  |
@@ -63,6 +63,7 @@
 | [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 | 2022-06-29 | 2023-04-28 |
 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 | 2022-12-02 | 2023-01-13 |
 | [Ikebe Supa](https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Ikebe Supa](https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6) | 2:21 | 2022-11-04 | 2023-05-12 |
+| [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 | 2023-07-28 |  |
 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 |  |
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 |  |
 | [Jajo](https://open.spotify.com/track/0hmoTQIWk98ABc1AIREO7O) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [City Boy](https://open.spotify.com/album/1aA2GGmzpNZnzBm0xBooz0) | 2:23 | 2023-05-19 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,911 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,975 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Runaway](https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Runaway](https://open.spotify.com/album/58t2YKGd5II2bwvxp6LYfl) | 4:55 |
 | 70 | [無計画化計画](https://open.spotify.com/track/7I7tM4CnJNguu8Mfc6w0Ba) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [無計画化計画](https://open.spotify.com/album/1Jq7KVysKOthuUPYQVbDs6) | 4:08 |
 
-Snapshot ID: `MCw3Y2U0ZTZiZjY3MGY3ODFiNzEwODBmOTM0ZDQ1ZjQxZDdlODFmYTFj`
+Snapshot ID: `MCw3NDI5N2Q5MWZlMTJjYmU5Yzc2YzU1MmZiOTY3MDhlZjM0NmU4ODFk`

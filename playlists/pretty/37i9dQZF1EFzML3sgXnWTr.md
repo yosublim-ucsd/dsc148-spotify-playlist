@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087 likes - 38 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 38 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 5 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 |
 | 6 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 |
 | 7 | [SaN LoREnZo \(feat\. Annalisa\)](https://open.spotify.com/track/2n6ZWiGk5VLYhHZUBc0SiI) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s) | 3:22 |
-| 8 | [Furore](https://open.spotify.com/track/1grE7P4DFbcgWrG8uTW6W0) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Per Sempre](https://open.spotify.com/album/4cHkEbaasmk9Bk5W5bXpgO) | 2:56 |
-| 9 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 |
+| 8 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 |
+| 9 | [Furore](https://open.spotify.com/track/1grE7P4DFbcgWrG8uTW6W0) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Per Sempre](https://open.spotify.com/album/4cHkEbaasmk9Bk5W5bXpgO) | 2:56 |
 | 10 | [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 |
 | 11 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 |
 | 12 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 19 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 20 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 |
 | 21 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 |
-| 22 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 |
-| 23 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
+| 22 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
+| 23 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 |
 | 24 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 |
 | 25 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 |
 | 26 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 37 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 38 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 
-Snapshot ID: `MjgxNzIyODAsMDAwMDAwMDA2MTgzOTM3N2U1MDBkNTI3YmFmOWUyMWY5MDdhZDdhNQ==`
+Snapshot ID: `MjgxNzY2MDAsMDAwMDAwMDBiNjU5ODNjNzhjOTZlODdkMDE0YzkyNzhkMmZkMzUzOQ==`

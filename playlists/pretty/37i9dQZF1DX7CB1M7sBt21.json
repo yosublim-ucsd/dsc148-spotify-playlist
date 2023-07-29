@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 3764,
+  "num_followers": 3776,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm",
+  "snapshot_id": "MCwyYTcxMmI1ZjdhY2Y4M2U3ZDZlMzdiYzI1OWQwOTA0ODY4Mjg3ZDVi",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -227,6 +227,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 164490,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "The Other Side (from Trolls World Tour)",
-        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "The Other Side (from Trolls World Tour)",
-      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 159375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "The Other Side (from Trolls World Tour)",
+        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "The Other Side (from Trolls World Tour)",
+      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 198775,
-      "name": "SE MIG",
-      "url": "https://open.spotify.com/track/0gYDwJCTHfdL3oqWIAKLhl"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Alien (Topic Remix)",
         "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 159927,
       "name": "Alien - Topic Remix",
       "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 198775,
+      "name": "SE MIG",
+      "url": "https://open.spotify.com/track/0gYDwJCTHfdL3oqWIAKLhl"
     },
     {
       "added_at": "2023-07-13 22:00:00",

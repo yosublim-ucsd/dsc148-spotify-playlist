@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Taba Chake
 
-222 songs - 12 hr 53 min
+224 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dancing with my phone](https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:23 | 2023-05-19 |  |
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
-| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 |  |
+| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2023-07-29 |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
 | [Disconnect](https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a) | [Pragnya Wakhlu](https://open.spotify.com/artist/2YIHuXM9ivsh3cGQ0Ne1tl) | [Disconnect](https://open.spotify.com/album/73Kr7Mho0OoSB7DCVUk0Ez) | 4:19 | 2022-09-02 | 2022-09-10 |
@@ -67,7 +67,7 @@
 | [Faking Concern](https://open.spotify.com/track/479UQ7H4E9LFs7pJwDsJF6) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [Faking Concern](https://open.spotify.com/album/2rxkw4WM0iQ2kPIBx1AZ0I) | 2:40 | 2022-12-20 | 2023-02-16 |
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-09 |  |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 | 2023-03-19 |
-| [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 |  |
+| [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 | 2023-07-29 |
 | [Fight This Fight](https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn) | [Fight This Fight](https://open.spotify.com/album/0XGeJXRsh23px41Y3pir3m) | 2:53 | 2023-07-14 |  |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 |  |
@@ -75,6 +75,7 @@
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2022-03-25 |  |
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
+| [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 |  |
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 |  |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
@@ -228,6 +229,7 @@
 | [Windy](https://open.spotify.com/track/6H1lOlpG1KTjZjUdkoosi6) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/0kEYZD6hoUGbw9znLdD71p) | [Chérie](https://open.spotify.com/album/1Icgb4WlPI6TCotJlOIbtz) | 3:18 | 2022-10-20 | 2023-05-24 |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2023-05-24 |  |
 | [WORK](https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [WORK](https://open.spotify.com/album/10zQvCUAMF0mF2DIU2gT8Z) | 2:29 | 2022-12-02 | 2023-02-06 |
+| [X Marks The Spot](https://open.spotify.com/track/5Uaq6e7RCXzL2WKI6VCGdz) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [X Marks The Spot](https://open.spotify.com/album/3RgQnZyl8Z6d83c9kZR8zy) | 3:52 | 2023-07-28 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-25 |  |
 | [Your Love](https://open.spotify.com/track/1hRg4KmSV3P1BktyCaewOC) | [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Dappest](https://open.spotify.com/artist/5gbLQgs5c4ow3KIOx30IoX) | [Your Love](https://open.spotify.com/album/46A4zcNfC1xLw5ziGIeU1P) | 3:07 | 2023-06-09 | 2023-07-11 |
 

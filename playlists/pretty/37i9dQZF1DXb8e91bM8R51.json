@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 41675,
+  "num_followers": 41708,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzJlMDNiYTZkMjYwYWQ4MzNlZTM4NzVmMDQ1ODdmNTRmZDQxZTlm",
+  "snapshot_id": "MCwyYmYwYjRhYjY4YWJiNTlmYjNlMDNjYWVhOTJiOGEyYzZhY2Y1Yzll",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "College Park",
         "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 235066,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "BLAME IT ON BABY (DELUXE)",
         "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 153466,
       "name": "BLIND (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Crypto (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
-      },
-      "artists": [
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 160948,
-      "name": "Crypto (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "MORE BLACK SUPERHEROES",
         "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Crypto (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
+      },
+      "artists": [
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 160948,
+      "name": "Crypto (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "USEE4YOURSELF",
-        "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 172105,
-      "name": "Shoot My Shot",
-      "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6ZkKQAXRv2KRTLiWfciQrk"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 241582,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/3ijPbHf7GVkMIT9tlDbWsZ"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "USEE4YOURSELF",
+        "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Shoot My Shot",
+      "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "ARE YOU WITH THAT?",
-        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 138410,
-      "name": "ARE YOU WITH THAT?",
-      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2023-07-21 03:01:00",

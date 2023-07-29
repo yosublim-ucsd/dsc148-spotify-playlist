@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-81 songs - 5 hr 20 min
+82 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hollow](https://open.spotify.com/track/1QYnYN17hqX49mAjGManwu) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:55 | 2022-10-12 |  |
 | [I Almost Do \(Taylor's Version\)](https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:04 | 2022-10-12 |  |
 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 | 2023-02-14 |  |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-28 |  |
 | [It Was Always You](https://open.spotify.com/track/2mSiFxZvp58R8WvfyFZZIL) | [Daisy Jones](https://open.spotify.com/artist/0Ez39SlEHcxFV6TQu8JDdO) | [Special Gift For Our Fans](https://open.spotify.com/album/7nwPNXiHwEk80wbWZPhWY6) | 3:39 | 2023-03-31 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2022-10-12 |  |
 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 | 2022-11-15 |  |

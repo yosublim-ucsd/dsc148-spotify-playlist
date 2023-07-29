@@ -498,7 +498,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 155129,
       "name": "Blinker",
       "url": "https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i"
@@ -1094,6 +1094,24 @@
       "duration_ms": 152000,
       "name": "Dojo (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/4u4qWIezCZStrTvpQJGIBM"
+    },
+    {
+      "album": {
+        "name": "dontstopme!",
+        "url": "https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs"
     },
     {
       "album": {
@@ -5093,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Trust - VIP Mix",
+      "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
+    },
+    {
+      "album": {
         "name": "Tums",
         "url": "https://open.spotify.com/album/1Ycwxjo9vjfPoLHAy4Hemt"
       },
@@ -5488,7 +5524,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210206,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"

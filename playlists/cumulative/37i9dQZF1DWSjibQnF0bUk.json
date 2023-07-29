@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151548,
+      "name": "Bankruptcy",
+      "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
+    },
+    {
+      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
@@ -2602,7 +2624,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
@@ -2964,7 +2986,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
@@ -3424,7 +3446,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
@@ -3898,7 +3920,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
@@ -5092,7 +5114,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 188750,
       "name": "Not My Fault",
       "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
@@ -5300,7 +5322,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
@@ -5980,7 +6002,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 172881,
       "name": "RTID (Rich Till I Die)",
       "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
@@ -6306,7 +6328,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 224294,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk"
@@ -7034,7 +7056,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 200803,
       "name": "Tight",
       "url": "https://open.spotify.com/track/5SuIoPKlTWkfj2npFdlVRZ"
@@ -7472,7 +7494,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 382345,
       "name": "Valentines (feat. Kabza De Small)",
       "url": "https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB"
@@ -8022,7 +8044,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 242857,
       "name": "Yaji",
       "url": "https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT"

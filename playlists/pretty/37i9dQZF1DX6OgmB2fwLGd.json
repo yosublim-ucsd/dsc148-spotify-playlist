@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: 2Rare",
-  "num_followers": 1384735,
+  "num_followers": 1385212,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmVlODY0YTc1OWE5MmUxMTYzY2JjMzY0YmZjNzNlNTg1OGQwY2Ni",
+  "snapshot_id": "MCxjNTIyY2Q2MzBlYzE2OWRlYTk2YTEwOGZhMWVjMjc5YWE4MTAxZmE5",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+    },
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
@@ -47,22 +63,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "RICH SCHOLAR",
         "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
       },
@@ -95,6 +95,38 @@
       "duration_ms": 148148,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "duration_ms": 112153,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -153,6 +185,34 @@
       "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "One Margarita (Margarita Song) [feat. Saucy Santana] [Saucy Remix]",
+        "url": "https://open.spotify.com/album/1u0sKdA7niUzooEbjU7ypF"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "One Margarita (Margarita Song) [feat. Saucy Santana] - Saucy Remix",
+      "url": "https://open.spotify.com/track/7kT07Kchz7TIyylr6RNbVa"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Stop Hating",
@@ -187,6 +247,42 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "MBGB2",
+        "url": "https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t"
+      },
+      "artists": [
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "MBGB2",
+      "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Go (Xtayalive 2)",
+        "url": "https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 106307,
+      "name": "Go (Xtayalive 2)",
+      "url": "https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -267,26 +363,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Go (Xtayalive 2)",
-        "url": "https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 106307,
-      "name": "Go (Xtayalive 2)",
-      "url": "https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
@@ -323,6 +399,22 @@
       "duration_ms": 109722,
       "name": "KNOYA",
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Gangsta Boogie",
+        "url": "https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Gangsta Boogie",
+      "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1563,22 +1655,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "CHPT. 5: iNTRAMURALZ",
-        "url": "https://open.spotify.com/album/6mXxGcMAz1OXL0JrKIaX01"
-      },
-      "artists": [
-        {
-          "name": "Pertinence",
-          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "INDPNDT",
-      "url": "https://open.spotify.com/track/40Y3y0L9KIzNyNwog3kToZ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -1627,42 +1703,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "New Drank",
-        "url": "https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 88893,
-      "name": "New Drank",
-      "url": "https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Not A Beanie",
-        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 136783,
-      "name": "Not A Beanie",
-      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Golden Child, Chapter 3",
         "url": "https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy"
       },
@@ -1675,22 +1715,6 @@
       "duration_ms": 172948,
       "name": "Still The Same! 2",
       "url": "https://open.spotify.com/track/16nsXcNJEwseNbQlu1NRpX"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "TELL ME U ALONE!",
-        "url": "https://open.spotify.com/album/0hdMPzrNIR56NiEsICG7h1"
-      },
-      "artists": [
-        {
-          "name": "CAIRO!",
-          "url": "https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK"
-        }
-      ],
-      "duration_ms": 165180,
-      "name": "TELL ME U ALONE!",
-      "url": "https://open.spotify.com/track/1gfQDhApqDoOsPmLtMhP0z"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1795,26 +1819,6 @@
       "duration_ms": 142843,
       "name": "WALKED IN",
       "url": "https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Lil Pump 2",
-        "url": "https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv"
-      },
-      "artists": [
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 133999,
-      "name": "Tesla",
-      "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
     },
     {
       "added_at": "2023-07-14 04:00:00",

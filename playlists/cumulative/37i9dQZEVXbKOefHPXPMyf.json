@@ -7145,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -15434,7 +15452,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 188666,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov"
@@ -16430,7 +16448,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
@@ -21027,6 +21045,24 @@
     },
     {
       "album": {
+        "name": "RITMO DE TREINO",
+        "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
+      },
+      "artists": [
+        {
+          "name": "YOUTHISENDING",
+          "url": "https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102923,
+      "name": "RITMO DE TREINO",
+      "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
+    },
+    {
+      "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
@@ -21454,7 +21490,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 212000,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
@@ -24616,7 +24652,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -24800,6 +24836,24 @@
       "duration_ms": 266969,
       "name": "The Seed",
       "url": "https://open.spotify.com/track/4xmVVA2E3Yv5zF4OVVj8ru"
+    },
+    {
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "album": {
@@ -26334,7 +26388,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Fernandinho",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Rebeca Carvalho",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 350931,
       "name": "Aqui O Mal N\u00e3o Vai Entrar",
       "url": "https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK"
@@ -858,6 +858,28 @@
       "duration_ms": 407886,
       "name": "Dia E Noite",
       "url": "https://open.spotify.com/track/0xmAELkU7sFGUFEyRI0cSb"
+    },
+    {
+      "album": {
+        "name": "Doxologia",
+        "url": "https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343525,
+      "name": "Doxologia",
+      "url": "https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a"
     },
     {
       "album": {

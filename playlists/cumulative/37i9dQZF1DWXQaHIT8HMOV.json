@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz & Caspian Marvin",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180781,
       "name": "Kimugunyu",
       "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
@@ -2820,6 +2820,28 @@
       "duration_ms": 180086,
       "name": "Take You",
       "url": "https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+        },
+        {
+          "name": "Caspian Marvin",
+          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
     },
     {
       "album": {

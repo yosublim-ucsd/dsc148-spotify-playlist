@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,272 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,286 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 47 | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 |
 | 48 | [Teri Life Meri Life](https://open.spotify.com/track/7jdPeLhBFX1hfWeTIpuQpP) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Teri Life Meri Life](https://open.spotify.com/album/0hoQ82I5Q8Qi2NUnYSbpim) | 4:15 |
 | 49 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 |
-| 50 | [XL](https://open.spotify.com/track/4yZzVCseQLtDE22MKGUWM2) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/3y6GVmi0H1okw1pXQ1zdm1) | 4:18 |
+| 50 | [XL](https://open.spotify.com/track/3Hy56XQKWdElhKlnYiTqpy) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/04Ncv0UW4Of8cNkvLF0rnc) | 4:18 |
 | 51 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 |
 
-Snapshot ID: `MCw2ZTAxMTE4YmUzZTEwYTI0YTQxMzI2MDdiYjdkNmE4OWMxMmQ1OTQ1`
+Snapshot ID: `MCxjZmIwY2M2NDM5NGYxODE5YzUwYmVmN2VkMTdjNGUyOGUwMDA3YjBk`

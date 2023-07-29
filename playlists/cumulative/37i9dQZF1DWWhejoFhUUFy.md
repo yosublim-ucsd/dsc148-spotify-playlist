@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-84 songs - 4 hr 53 min
+85 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 | 2023-04-17 |  |
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-04-17 |  |
 | [Kyun Dhunde \- 1 Min Music](https://open.spotify.com/track/0WUUFBKX2vlagsbYm3KUG2) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde \(1 Min Music\)](https://open.spotify.com/album/62RPhN80MlD2EUAj2aHyfV) | 1:10 | 2023-04-17 |  |
+| [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-28 |  |
 | [Lagan Laagi Re](https://open.spotify.com/track/3bM0sCyyhglscs8EvsBZ36) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:38 | 2023-04-17 |  |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2023-04-17 |  |
 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 | 2023-04-17 |  |
@@ -82,7 +83,7 @@
 | [Tere Jaisa](https://open.spotify.com/track/5se0sLcaUymYKRUm0lCBgt) | [Vaibhav Bundhoo](https://open.spotify.com/artist/2qV4ArHDzLVSdX6GWy5R1z), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Kota Factory: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/4Zp0BZ2ttqNsB92BjMJddM) | 5:12 | 2023-04-17 | 2023-06-28 |
 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 | 2023-04-17 |  |
 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 | 2023-04-17 |  |
-| [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 | 2023-04-17 |  |
+| [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 | 2023-04-17 | 2023-07-29 |
 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 | 2023-04-17 |  |
 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 | 2023-04-17 | 2023-06-16 |
 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 | 2023-04-17 |  |

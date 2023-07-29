@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182577,
       "name": "2 Pa' 2",
       "url": "https://open.spotify.com/track/1Vd3YqV8DYS1U3rsJads3H"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224999,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/7hTNKOhg7i53zGvwWWalLG"
@@ -1346,6 +1346,24 @@
       "duration_ms": 121168,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/4m0hK1iRCWFVezV0Xn6L7M"
+    },
+    {
+      "album": {
+        "name": "Cuando Baila",
+        "url": "https://open.spotify.com/album/6JKsJRQSeJRvn1LQakdxC1"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143392,
+      "name": "Cuando Baila",
+      "url": "https://open.spotify.com/track/3GE0n3hIazM0BGBSbDTer1"
     },
     {
       "album": {
@@ -4931,6 +4949,28 @@
     },
     {
       "album": {
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197161,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
+    },
+    {
+      "album": {
         "name": "Pasemos La Noche",
         "url": "https://open.spotify.com/album/7BFVbGEHuH5FtVYJAxFWjp"
       },
@@ -5048,6 +5088,36 @@
       "duration_ms": 184390,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/4y7cFoXdDhfCfEaMdwEwwX"
+    },
+    {
+      "album": {
+        "name": "Perdido en Alcohol",
+        "url": "https://open.spotify.com/album/4GqW2S0AJrh6ixNjihG273"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182344,
+      "name": "Perdido en el Alcohol",
+      "url": "https://open.spotify.com/track/3xCJJclq5ri6rkne87CE9i"
     },
     {
       "album": {
@@ -6858,7 +6928,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
@@ -6920,6 +6990,28 @@
       "duration_ms": 151415,
       "name": "TQT",
       "url": "https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg"
+    },
+    {
+      "album": {
+        "name": "TRAN.KILO",
+        "url": "https://open.spotify.com/album/4FwpDti3pS1BpcSyBOd6VX"
+      },
+      "artists": [
+        {
+          "name": "Baketha",
+          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185808,
+      "name": "TRAN.KILO",
+      "url": "https://open.spotify.com/track/559RjQCoHUvl7wuXU0PFms"
     },
     {
       "album": {
@@ -7962,7 +8054,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 125909,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk"

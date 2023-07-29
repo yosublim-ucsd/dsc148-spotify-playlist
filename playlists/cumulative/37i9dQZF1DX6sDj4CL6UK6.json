@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 186885,
       "name": "Dear Us",
       "url": "https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 221142,
       "name": "fickle.minds",
       "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
@@ -1284,6 +1284,24 @@
       "duration_ms": 186947,
       "name": "free",
       "url": "https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E"
+    },
+    {
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd"
     },
     {
       "album": {
@@ -4242,6 +4260,24 @@
       "duration_ms": 149433,
       "name": "WORK",
       "url": "https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU"
+    },
+    {
+      "album": {
+        "name": "X Marks The Spot",
+        "url": "https://open.spotify.com/album/3RgQnZyl8Z6d83c9kZR8zy"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "X Marks The Spot",
+      "url": "https://open.spotify.com/track/5Uaq6e7RCXzL2WKI6VCGdz"
     },
     {
       "album": {

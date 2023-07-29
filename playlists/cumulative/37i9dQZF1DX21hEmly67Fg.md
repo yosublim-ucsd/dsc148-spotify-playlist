@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-183 songs - 10 hr 41 min
+184 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [And I Love Her](https://open.spotify.com/track/0PwlcbCorgDG9SKTtWYcj2) | [Terri Matheson](https://open.spotify.com/artist/4F1qAKXP2mtfOM37s8rG5g) | [And I Love Her](https://open.spotify.com/album/7yLwYXIxV1w4DYUcllWU04) | 3:19 | 2021-11-25 |  |
 | [Anti\-Hero](https://open.spotify.com/track/4I0Kmiieqw8EmKEbiZPQzJ) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Anti\-Hero](https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj) | 2:42 | 2023-02-06 |  |
 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 | 2022-11-18 | 2022-11-26 |
+| [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-21 |  |
 | [Bad Habits \- Piano Version](https://open.spotify.com/track/5J4NcyOSEjvKjOaJTPtYn3) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [Bad Habits \(Piano Version\)](https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP) | 3:23 | 2022-02-04 |  |
 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 | 2021-11-25 |  |

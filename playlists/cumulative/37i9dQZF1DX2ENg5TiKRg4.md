@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-229 songs - 13 hr 45 min
+230 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [No Matter Where You Are](https://open.spotify.com/track/2XW4AAjfBQTzp7Oe1tU702) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [No Matter Where You Are](https://open.spotify.com/album/1hwhGQoccUo1mO5TPRxE0D) | 2:58 | 2022-06-09 | 2022-07-26 |
 | [No Ordinary Love](https://open.spotify.com/track/0qKKE7sLRt9jqG0b04w7Es) | [Jennifer Love Hewitt](https://open.spotify.com/artist/2BZDbnjUHnL2XAPgkdqTpb) | [Jennifer Love Hewitt](https://open.spotify.com/album/1HtyaQKUJOkG8RlHgZyuxT) | 4:05 | 2022-06-23 | 2022-07-27 |
 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 | 2023-01-31 | 2023-02-15 |
+| [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-18 |  |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2022-06-07 | 2022-07-26 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-07-26 | 2023-02-01 |
 | [Out of My League](https://open.spotify.com/track/4VoJCUgNmnqG2qF0peDBkw) | [Stephen Speaks](https://open.spotify.com/artist/0AvtzKTYleNqdJXoZasQWG) | [No More Doubt](https://open.spotify.com/album/7nRnVLbfj5ZAhK0xsZzIwo) | 3:38 | 2022-06-07 |  |
@@ -235,7 +236,7 @@
 | [Without You](https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Wide Awake](https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz) | 3:48 | 2022-06-09 | 2022-07-27 |
 | [Would It Kill You At All](https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Would It Kill You At All](https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC) | 2:47 | 2022-08-30 | 2022-10-05 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-06-07 | 2023-04-12 |
-| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-06-09 |  |
+| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-06-09 | 2023-07-29 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-11-03 | 2023-07-19 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

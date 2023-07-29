@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-154 songs - 9 hr 54 min
+155 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Higher Climber](https://open.spotify.com/track/6CjvyG9r1xCjDuZkzt8zAE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Higher Climber](https://open.spotify.com/album/04jdwDX8QGyfATCb6ejnVW) | 4:08 | 2022-05-10 |  |
 | [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:10 | 2022-05-10 | 2022-07-29 |
 | [History Maker](https://open.spotify.com/track/388Goi8izhV978LfGi0AQM) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/4BsUgURzIq1r5FRCXDl66v) | 3:10 | 2022-05-10 | 2022-07-29 |
-| [History Maker](https://open.spotify.com/track/3QjIdDDKoZRyfWDKZC4Ayb) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/2kJJe8xSLSgh5i61Ra5MQE) | 3:10 | 2022-05-10 |  |
+| [History Maker](https://open.spotify.com/track/3QjIdDDKoZRyfWDKZC4Ayb) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/2kJJe8xSLSgh5i61Ra5MQE) | 3:10 | 2022-05-10 | 2023-07-29 |
+| [History Maker](https://open.spotify.com/track/6XUQElkODYTnMXjmUDD0G6) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Stars of the Lid](https://open.spotify.com/album/4KsWTElvGlR40InOGT9QrG) | 3:13 | 2023-07-13 |  |
 | [HOWLING SWORD](https://open.spotify.com/track/43PVlhYSRoyRuowVCAdBNB) | [喜多修平](https://open.spotify.com/artist/6ggUOlYgiWyRlbwA8krLM0) | [HOWLING SWORD / Promise](https://open.spotify.com/album/7jNlhwueVHx3Vsvzs1MGAA) | 4:40 | 2022-05-10 |  |
 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 | 2022-05-10 |  |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2023-01-17 | 2023-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  Stonebwoy & Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,902 likes - 91 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,981 likes - 91 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 9 | [Falling Up \(with Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 |
 | 10 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 11 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 |
-| 12 | [My Lady](https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [My Lady](https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W) | 2:55 |
+| 12 | [My Lady](https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [My Lady](https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W) | 2:58 |
 | 13 | [Sacrifice](https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Chrissy Day](https://open.spotify.com/artist/1VlInCdOFJtwQ9KTKpPeMI), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Sacrifice](https://open.spotify.com/album/7F4FjvyBMOnFznBEQHrpbm) | 4:51 |
 | 14 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 |
 | 15 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 90 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 91 | [Finesse \- feat\. French Montana](https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Finesse \(feat\. French Montana\)](https://open.spotify.com/album/39ali1KqU7VkiJW2pAXv3b) | 2:06 |
 
-Snapshot ID: `MCxhZGQ4MzlkNzcwODMzYzFlOTAwMDM2MzdjMGQ2YzI1ZGZhNTkxN2Yx`
+Snapshot ID: `MCxjZDc5ZjFkMGU2NTVjNzU3Mjk4MzNjZDExNTJjMTA4MjAzYjc1YTY3`

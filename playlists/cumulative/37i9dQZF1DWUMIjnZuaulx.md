@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D?si=78078d9cb34f4592">Kelontae Gavin</a>
 
-335 songs - 1 day 4 hr 48 min
+336 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 | 2022-07-08 | 2023-07-15 |
 | [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 | 2022-04-22 | 2023-03-25 |
 | [Do It Now \(feat\. Dominique Thompson\)](https://open.spotify.com/track/7nWkd4MCZS89qDOc5zGfbf) | [Jason Clayborn & The Atmosphere Changers](https://open.spotify.com/artist/6BGuum32mzutRF9wKRdOJg), [Dominique Thompson](https://open.spotify.com/artist/7dRIIzkMXWQI9n7g3MNDGu) | [God Made It Beautiful](https://open.spotify.com/album/75vGEkrjKlWnDC8q8v5GmY) | 6:24 | 2022-02-18 | 2022-04-02 |
-| [Done It For Me](https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [Done It For Me](https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU) | 3:22 | 2022-08-05 |  |
+| [Done It For Me](https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [Done It For Me](https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU) | 3:22 | 2022-08-05 | 2023-07-29 |
 | [Down At The Cross \- Live](https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Down At The Cross \(Live\)](https://open.spotify.com/album/2YpgSl5innS5tnnqLBekhn) | 3:58 | 2023-03-24 |  |
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
 | [Every Blessing \- Live](https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Transitions \(Live\)](https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV) | 5:00 | 2022-10-28 |  |
@@ -97,6 +97,7 @@
 | [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-10 | 2023-05-20 |
 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-01-27 |  |
 | [Hallelujah](https://open.spotify.com/track/3EWjy5dS9CdNQl01P45yMl) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Hallelujah](https://open.spotify.com/album/6QoYrE7QkcSapO7JcRx8dz) | 5:47 | 2022-07-08 | 2022-10-22 |
+| [Have It All](https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE), [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY) | [Have It All](https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX) | 3:56 | 2023-07-28 |  |
 | [He Always Wins](https://open.spotify.com/track/1izX0ivQKZ1ZIafjXatk2t) | [Ray Bady](https://open.spotify.com/artist/6Dt8PIblzvjwue6gerXmAk), [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx), [Jazmine Lynn Jones](https://open.spotify.com/artist/3cvHEyhv372nQPZfn6u1e2) | [He Always Wins](https://open.spotify.com/album/2F4DEZeeQvjfufgwrbhiXp) | 3:49 | 2022-06-03 | 2022-10-30 |
 | [He Can Handle It \- Live](https://open.spotify.com/track/5E6qPtR1Riful1E9rZUNjx) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/1GzTFUmq8Kd3f6j3IZosN7) | 5:09 | 2023-04-28 |  |
 | [He Did It for Me \- Live](https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [He Did It for Me \(Live\)](https://open.spotify.com/album/75mPsKFQ2OBXqc5lRYk1t2) | 6:50 | 2022-02-18 | 2022-07-02 |

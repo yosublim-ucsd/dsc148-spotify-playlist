@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-180 songs - 21 hr 22 min
+181 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Track3a \(2waynice\)](https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 5:30 | 2021-12-22 |  |
 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2021-12-22 |  |
 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-22 | 2023-02-03 |
-| [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 | 2023-01-27 |  |
+| [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 | 2023-01-27 | 2023-07-29 |
+| [Triennale](https://open.spotify.com/track/4Ly1RN4O1aBZruEPJtxfjC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 4:06 | 2023-07-17 |  |
 | [TWTGA](https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3) | 5:55 | 2022-07-11 |  |
 | [TWTGA](https://open.spotify.com/track/4ljALrblJ6OyrXFH0PzXwK) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/4gsrQjP1ahrsA4kvXQsVyr) | 5:55 | 2021-12-22 | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-12-22 |  |

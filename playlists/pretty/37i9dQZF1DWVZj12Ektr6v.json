@@ -1,29 +1,13 @@
 {
   "description": "To The World, Here is NCT! Hi we are NCT DREAM!",
-  "num_followers": 281632,
+  "num_followers": 281891,
   "original_name": "This Is NCT DREAM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTNhOGJlN2JlZWI5M2NjYjc1M2U2NzgwMTQzYzUwMjUxZGZiYzMx",
+  "snapshot_id": "MCxhZjdkNjFmMWJjZGM2ZWEwYzdiNjVkMGNhZGUyNzdhNjI3NWIyMTk0",
   "tracks": [
-    {
-      "added_at": "2023-07-17 09:00:00",
-      "album": {
-        "name": "ISTJ - The 3rd Album",
-        "url": "https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "ISTJ",
-      "url": "https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8"
-    },
     {
       "added_at": "2023-07-17 09:00:00",
       "album": {
@@ -327,22 +311,6 @@
       "duration_ms": 192506,
       "name": "Fire Alarm",
       "url": "https://open.spotify.com/track/4HhjBzw5QUpkPzswMsIWZR"
-    },
-    {
-      "added_at": "2023-07-17 09:00:00",
-      "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
       "added_at": "2023-07-17 09:00:00",

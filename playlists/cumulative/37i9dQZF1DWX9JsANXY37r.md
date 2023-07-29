@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-225 songs - 13 hr 56 min
+226 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-25 |  |
 | [Ann Wants to Dance](https://open.spotify.com/track/5jIwg6dzwp8I6G2x4joQ5R) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Ann Wants to Dance](https://open.spotify.com/album/6UVPWvjj11w6vKnR5MuW1Q) | 3:35 | 2022-03-25 | 2022-04-20 |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2022-03-25 | 2022-12-02 |
+| [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 |  |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
 | [attention](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 | 2022-06-24 |  |
 | [Aura](https://open.spotify.com/track/1zOVZVSzH0mYCriqsI7YeA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/3LM98l3bBn6ygO1hqJOEVX) | [Aura](https://open.spotify.com/album/1jE2enGNnAn5cjtsCOCCaw) | 3:49 | 2022-03-25 | 2022-04-20 |
@@ -43,7 +44,7 @@
 | [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2022-03-25 |  |
 | [Break Her Heart For Me](https://open.spotify.com/track/4UCMyXxaWZGUJSHyPq8U6f) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Break Her Heart For Me](https://open.spotify.com/album/6Urqp1yMFtEYaEljiwrCsd) | 3:22 | 2022-03-04 | 2022-07-28 |
 | [Burning Eyes](https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd) | [Lou Berry](https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Blue Sky](https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9) | 3:15 | 2022-02-18 | 2022-07-29 |
-| [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 | 2022-06-24 |  |
+| [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 | 2022-06-24 | 2023-07-29 |
 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/71hBQ9qHsZU2M3vDF8MtaN) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/album/1CQFYWHVdRypCsU2IU80t1) | 2:28 | 2022-03-25 | 2022-04-21 |
 | [Caminho Sem Volta](https://open.spotify.com/track/18kgN90dymlnnLvJSmtQug) | [THAMI](https://open.spotify.com/artist/4XlOnZCcxqJttY99hc3uqq) | [Caminho Sem Volta](https://open.spotify.com/album/7ybtjO05lRXxBSO8CCEt9l) | 3:26 | 2022-02-18 | 2022-07-29 |
 | [Cartas para o Passado](https://open.spotify.com/track/4bWigbot8lWuwfqkAMwXfP) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Cartas para o Passado](https://open.spotify.com/album/3xNi4aZ7NY5pngUCrPfSFV) | 4:00 | 2022-04-08 | 2022-07-29 |

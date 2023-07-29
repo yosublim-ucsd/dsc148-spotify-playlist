@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 218538,
       "name": "An\u00edmate",
       "url": "https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU"
@@ -800,6 +800,24 @@
       "duration_ms": 168184,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
+    },
+    {
+      "album": {
+        "name": "Canaima",
+        "url": "https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok"
+      },
+      "artists": [
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149997,
+      "name": "Canaima",
+      "url": "https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0"
     },
     {
       "album": {
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 196480,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
@@ -3921,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+    },
+    {
+      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
       },
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 216555,
       "name": "Quien de los Dos",
       "url": "https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU"
@@ -4904,7 +4940,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 223073,
       "name": "Si Te Preguntan...",
       "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"

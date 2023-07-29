@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 35 | [Break It](https://open.spotify.com/track/4XMbKS9GO46sPXoJOO1ffu) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:05 |
 | 36 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
 | 37 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
-| 38 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
-| 39 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 |
-| 40 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
-| 41 | [Homesick](https://open.spotify.com/track/1xLJqyCa4Soe31BJ5TCReE) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:55 |
-| 42 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
-| 43 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
-| 44 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
-| 45 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
-| 46 | [Jesus, My Mama, My Therapist](https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Jesus, My Mama, My Therapist](https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi) | 3:04 |
+| 38 | [Jesus, My Mama, My Therapist](https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Jesus, My Mama, My Therapist](https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi) | 3:04 |
+| 39 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
+| 40 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 |
+| 41 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
+| 42 | [Homesick](https://open.spotify.com/track/1xLJqyCa4Soe31BJ5TCReE) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:55 |
+| 43 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
+| 44 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
+| 45 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
+| 46 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
 | 47 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 |
 | 48 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
 | 49 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 79 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 80 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
 
-Snapshot ID: `MjgxNzIzMDAsMDAwMDAwMDA3MmVlZjRlYTQzODZkODg2YzgxNjI0NzcwMmJlNzkyNQ==`
+Snapshot ID: `MjgxNzY2MjAsMDAwMDAwMDBjOTk3ZjhhYTQ1YTcxZTJhYmI2ZjgwYjgyOGNlYTFlZQ==`

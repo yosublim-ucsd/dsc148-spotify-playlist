@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-368 songs - 22 hr 22 min
+369 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Around the stabs](https://open.spotify.com/track/2Ix2f5OnsIDSvSjcwOxzv4) | [Hirshy](https://open.spotify.com/artist/05iOlkEoADKxlGg776876i) | [Around the stabs](https://open.spotify.com/album/5HqljPTsCr2Sm0it9VhLiI) | 3:04 | 2022-05-16 |  |
 | [Bangerang](https://open.spotify.com/track/6s28dDs4TFJiLUbtpPCQJW) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Bangerang](https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Beacons](https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Night Lands](https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82) | 5:08 | 2022-11-18 |  |
+| [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 | 2023-07-28 |  |
 | [Beauty & The Bloc](https://open.spotify.com/track/0ZsbE6ZV85uVUugIHAxgKg) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0) | [Beauty & The Bloc](https://open.spotify.com/album/2GxZMHiMF80Xlh9f7xvIg4) | 4:07 | 2022-04-01 |  |
 | [Between the Bread](https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y) | [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [anu](https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH), [Olly Chalk](https://open.spotify.com/artist/1jWnsa23cs9PnPGMf9cTNq), [André Moreira](https://open.spotify.com/artist/4iL7oKqxkwaWhxTtWj4XiW) | [Between the Bread](https://open.spotify.com/album/0F8uPwZqTEdlOSnpns7xoP) | 3:09 | 2021-06-11 | 2023-01-06 |
 | [Bill](https://open.spotify.com/track/0pcDNarowkjMqIcHkrJI5A) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Bill](https://open.spotify.com/album/04fGnb0n2xVtx3fHrDXpQB) | 3:45 | 2021-09-10 |  |
@@ -108,7 +109,7 @@
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
 | [Dream Drone](https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Dream Drone](https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q) | 4:28 | 2021-07-30 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-10 | 2023-05-13 |
-| [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 | 2022-11-04 |  |
+| [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 | 2022-11-04 | 2023-07-29 |
 | [dshirtcannon](https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [dshirtcannon](https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R) | 2:46 | 2022-09-23 | 2022-11-02 |
 | [DustyRhodes](https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV) | [Beats on Road Vol\. 1](https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX) | 2:51 | 2021-01-29 | 2022-02-27 |
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |

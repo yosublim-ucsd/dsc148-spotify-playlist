@@ -1,13 +1,33 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 362826,
+  "num_followers": 363044,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE4MzIyMDRmN2MyN2ZhZjVkNGIzZjk1ZjQ2Mzc3ZmI5NWM5MDM5",
+  "snapshot_id": "MCxmMjlkZDg5NDg5Yzk5ODA3MDE0ZWY1ZjZiNDU4ODc5ODFlMWNmMDBl",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Volare (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/4JUPAhkkvMDPOz1hUoMyfQ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Free Shots",
+          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Volare - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq"
+    },
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
@@ -119,6 +139,26 @@
       "duration_ms": 149138,
       "name": "Mr Sunshine",
       "url": "https://open.spotify.com/track/0veV0DEgDnpup5VRFF7O8n"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "King of the Swingers (Balduin Remix) [Electro Swing Mix]",
+        "url": "https://open.spotify.com/album/711l6y2WuJnL1S2WMST7UU"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "The Swing Ninjas",
+          "url": "https://open.spotify.com/artist/22coFU88Fr9DPEnn5KnMja"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "King of the Swingers - Balduin Remix",
+      "url": "https://open.spotify.com/track/0m0v8h15DevBcyiZa01rbY"
     },
     {
       "added_at": "2023-07-21 04:01:00",

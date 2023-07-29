@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 182493,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ"
@@ -5306,6 +5306,28 @@
     {
       "album": {
         "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
       },
       "artists": [
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 216333,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE"
@@ -14206,6 +14228,24 @@
     {
       "album": {
         "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
       },
       "artists": [
@@ -14216,7 +14256,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"
@@ -25168,7 +25208,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"

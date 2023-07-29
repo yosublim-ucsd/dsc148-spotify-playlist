@@ -1983,6 +1983,44 @@
     },
     {
       "album": {
+        "name": "The Wonderful World of Mickey Mouse: Season 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/17CjYqO32qWp02kmqUnxNg"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "The Wonderful World of Mickey Mouse - Cast",
+          "url": "https://open.spotify.com/artist/5TRtEwAMGdgh29N4x8usMm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62069,
+      "name": "Mickey Mouse Club March",
+      "url": "https://open.spotify.com/track/6apPzU3anNr5qkDfcw55ep"
+    },
+    {
+      "album": {
         "name": "Minnie's Favorites (Songs from \"Mickey Mouse Clubhouse\")",
         "url": "https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m"
       },

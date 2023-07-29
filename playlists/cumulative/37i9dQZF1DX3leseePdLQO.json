@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring Marc Segu\u00ed.",
+  "description": "Pop para refrescarte los d\u00edas, featuring Alaina Castillo.",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162259,
       "name": "A Las 3",
       "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
@@ -1024,6 +1024,24 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "album": {

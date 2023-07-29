@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,817 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,821 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 32 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
 | 33 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
 | 34 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
-| 35 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
-| 36 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
+| 35 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
+| 36 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
 | 37 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 38 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 39 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
+| 39 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 |
 | 40 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 41 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 |
 | 42 | [Wherever I Go](https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 44 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
 | 45 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
 | 46 | [i don't know if we can be friends](https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [bye, sad girl.](https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ) | 3:01 |
-| 47 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 |
+| 47 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
 | 48 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
 | 49 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 | 50 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 84 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
 | 85 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
 | 86 | [¡hola!](https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [¡hola!](https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe) | 3:15 |
-| 87 | [On My Way Back Home \(feat\. Seth Condrey & Desi Raines\)](https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Desi Raines](https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [North Point Worship](https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63) | 3:37 |
-| 88 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 87 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 88 | [On My Way Back Home \(feat\. Seth Condrey & Desi Raines\)](https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Desi Raines](https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [North Point Worship](https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63) | 3:37 |
 | 89 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
 | 90 | [Chasing Quiet](https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Chasing Quiet](https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg) | 2:38 |
 | 91 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Stand Firm](https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 3:28 |
 | 100 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 
-Snapshot ID: `MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1`
+Snapshot ID: `MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5`

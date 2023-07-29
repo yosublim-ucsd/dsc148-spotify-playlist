@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:337hCRFLjygh0JPpHZ80GM\">German Renaissance</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 281866,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/4tvTC4nt8LK0GHFtzGOGeV"
@@ -5003,6 +5003,32 @@
     },
     {
       "album": {
+        "name": "Sequentia: Hildegard von Bingen",
+        "url": "https://open.spotify.com/album/5RxwfhArWtyPN8bdOQlkt2"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        },
+        {
+          "name": "Barbara Thornton",
+          "url": "https://open.spotify.com/artist/4P50YH9GHjydDBKdNVbPy4"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392066,
+      "name": "Cum processit factura digiti Dei",
+      "url": "https://open.spotify.com/track/1FwKOQA63DnFy3vfBHPW7E"
+    },
+    {
+      "album": {
         "name": "St. Thomas Aquinas",
         "url": "https://open.spotify.com/album/3l6T6PiODfpYAMyVP8zINo"
       },
@@ -5980,7 +6006,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 224364,
       "name": "Dolce fortuna",
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
@@ -12820,7 +12846,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 330973,
       "name": "Musique profane: I. Una panthera in compagnia di marte",
       "url": "https://open.spotify.com/track/6WG5bLKCHkQQv8LjHDJYO3"
@@ -13530,7 +13556,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 221880,
       "name": "O felix flos Florencia - Gaude felix Dominice (Motet)",
       "url": "https://open.spotify.com/track/6yuLp54fh9BlqBran81suq"
@@ -14272,7 +14298,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "Oseletto selvaggio",
       "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
@@ -14700,7 +14726,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 423693,
       "name": "Peire Vidal - S\u2019ieu fos en cort",
       "url": "https://open.spotify.com/track/40Shxq1Jij7XBvUssux302"
@@ -15214,7 +15240,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 263666,
       "name": "Pois tornaz sui en Proensa",
       "url": "https://open.spotify.com/track/3xIiR7uGtHlNIwJbyArlVO"
@@ -15240,7 +15266,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 344786,
       "name": "Pois vezem",
       "url": "https://open.spotify.com/track/5urZmYiASkybmyBwLpXV9R"
@@ -18210,7 +18236,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 236786,
       "name": "Un bel sparver - Madrigal",
       "url": "https://open.spotify.com/track/1LqJFxxumjicU7pqperXd2"

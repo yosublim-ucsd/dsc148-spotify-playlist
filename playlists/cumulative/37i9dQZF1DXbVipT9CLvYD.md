@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-71 songs - 4 hr 51 min
+72 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Vambula Thumbula](https://open.spotify.com/track/1hjSN26LvLcBrhObrNSQK1) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Sarpatta Parambarai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42NavG08x69GDTN5nnbovL) | 5:04 | 2021-11-15 |  |
 | [Venaam Machan](https://open.spotify.com/track/1Xy7rlgMjkoWlwUSEk5sA4) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Oru Kal Oru Kannadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47EWVkM2lVbXeExMx5Cn5p) | 5:14 | 2021-11-15 |  |
 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 | 2021-11-15 |  |
-| [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 | 2021-11-15 |  |
+| [What a Karavaad](https://open.spotify.com/track/18iPhT4A67Tw912UjDGs88) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:27 | 2021-11-15 |  |
+| [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 | 2021-11-15 | 2023-07-29 |
 | [Where Is the Party](https://open.spotify.com/track/45LZkeAJNMpiMCCBcb2sep) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Priyadharshini](https://open.spotify.com/artist/1cNyLPObGyYegUDLbjT9Zh) | [Silambattam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qNjtmLsvjileYcRc9OV5d) | 5:18 | 2021-11-15 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

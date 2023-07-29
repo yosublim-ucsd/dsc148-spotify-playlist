@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-195 songs - 12 hr 13 min
+196 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 | 2021-11-19 |  |
 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 | 2021-11-19 |  |
 | [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 | 2021-11-19 |  |
-| [American Dream](https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [American Dream](https://open.spotify.com/album/14MQkr5UdHfFY4IvpMv08p) | 4:52 | 2021-11-19 |  |
+| [American Dream](https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [American Dream](https://open.spotify.com/album/14MQkr5UdHfFY4IvpMv08p) | 4:52 | 2021-11-19 | 2023-07-29 |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2021-11-19 |  |
 | [Avalon, My Hometown](https://open.spotify.com/track/0JIRGF8Q3qjw73kCQ83FN6) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Avalon, My Hometown](https://open.spotify.com/album/3V65aoyRCvsL5rv0JoO8IZ) | 4:20 | 2022-10-28 |  |
 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 | 2022-05-16 |  |
@@ -97,7 +97,7 @@
 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 | 2022-05-16 |  |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/5OXrQDOfnEp52MvMnAk7pp) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shut up and Sing](https://open.spotify.com/album/5XLbgFB2qMD77ww4zaSaPQ) | 2:43 | 2021-11-19 | 2022-07-29 |
 | [Lay Me Down Easy](https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Dandelion](https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46) | 3:49 | 2021-11-19 |  |
-| [Lightning In A Jar](https://open.spotify.com/track/6l4hne0l0AnxsjICMnznH5) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:12 | 2021-11-19 |  |
+| [Lightning In A Jar](https://open.spotify.com/track/6l4hne0l0AnxsjICMnznH5) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:12 | 2021-11-19 | 2023-07-29 |
 | [Little Rain](https://open.spotify.com/track/1OhoR6q63ZViL4HjTgopYp) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/0tMUxLJFnT7IowETbBu8QW) | 3:52 | 2022-05-16 |  |
 | [Little Rain](https://open.spotify.com/track/1w4pCNSU7FTmDXY8j0nYzx) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/1GedbzrnJWEdLnySwqEAzr) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 | 2022-05-16 |  |
@@ -117,6 +117,7 @@
 | [Neglect](https://open.spotify.com/track/17RE55cpX3f07WUuIuwXWH) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/41XpCXgFySfsKBgtFRpvxK) | 3:12 | 2021-11-19 | 2022-05-17 |
 | [Night Singing](https://open.spotify.com/track/6kaUnGYmSsZFT0OyGS2H36) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Night Singing](https://open.spotify.com/album/3NnwRaGjSbrlqi8hRJgfJq) | 2:11 | 2021-11-19 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-11-19 |  |
+| [No Aphrodisiac \- \(Black Stump\)](https://open.spotify.com/track/7xynFxkJJqzol41dmFgtPn) | [Black Stump Band](https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p), [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6) | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/album/5kWKaC2h5CaRZgFqtFDF3V) | 2:58 | 2023-07-28 |  |
 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 | 2021-11-19 |  |
 | [Old Things](https://open.spotify.com/track/6FHK4wd49FqDcnqeO8Uv4s) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 1:46 | 2021-11-19 |  |
 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 | 2021-11-19 |  |

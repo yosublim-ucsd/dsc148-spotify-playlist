@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-60 songs - 3 hr 12 min
+61 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Time Chahida](https://open.spotify.com/track/4NiXbLYDwnA93pAxOO9fw2) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Time Chahida](https://open.spotify.com/album/57YtSUNY9HmiA7aJIhnxLi) | 2:36 | 2023-03-18 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-03-18 |  |
 | [Wrangler](https://open.spotify.com/track/22J4nmeDNKv8OlaFaqgfpr) | [Naaz Aulakh](https://open.spotify.com/artist/4IM8q4PhjHwrBOdITz0eRi) | [Wrangler](https://open.spotify.com/album/2HRm4krnpq1ZuZc9tInKya) | 2:33 | 2023-03-18 |  |
-| [XL](https://open.spotify.com/track/4yZzVCseQLtDE22MKGUWM2) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/3y6GVmi0H1okw1pXQ1zdm1) | 4:18 | 2023-03-18 |  |
+| [XL](https://open.spotify.com/track/3Hy56XQKWdElhKlnYiTqpy) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/04Ncv0UW4Of8cNkvLF0rnc) | 4:18 | 2023-07-20 |  |
+| [XL](https://open.spotify.com/track/4yZzVCseQLtDE22MKGUWM2) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/3y6GVmi0H1okw1pXQ1zdm1) | 4:18 | 2023-03-18 | 2023-07-29 |
 | [Yakeen](https://open.spotify.com/track/0LLmJi2lkz03Eridu6kzBQ) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 4:52 | 2023-04-19 | 2023-05-26 |
 | [Your Magzine](https://open.spotify.com/track/2jF4EIZ3pznUSAhZt5S2fg) | [Inder Maan](https://open.spotify.com/artist/60YDSyRYFWWvHxmWzqcTvK) | [Your Magzine](https://open.spotify.com/album/3i4t9JHuih70k2K0UfbWK5) | 2:26 | 2023-03-18 |  |
 

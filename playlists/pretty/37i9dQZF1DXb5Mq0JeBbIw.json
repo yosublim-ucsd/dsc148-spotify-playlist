@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 6296,
+  "num_followers": 1436,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDI1NDhkMjJkOGRiYWU4MGNhNGI0YTNmNDZlMWFkYjQxNDI3Zjhi",
+  "snapshot_id": "MCxiZTBjNmI5ODI5ZmIxM2FhODJiM2JkYmY4ZWU4MDFkYzFiZGJiNDNk",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Around the Well",
         "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
@@ -447,22 +431,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "IT'S YOU (feat. keshi) [Stripped Version]",
         "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 158742,
       "name": "IT'S YOU (feat. keshi) - Stripped Version",
       "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "#Covers",
         "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
       },
@@ -635,18 +635,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0"
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 148900,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U"
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Here With Me - Acoustic",
+        "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 164478,
+      "name": "Here With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
     },
     {
       "added_at": "2023-06-23 11:57:00",
@@ -671,38 +687,6 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Here With Me - Acoustic",
-        "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 164478,
-      "name": "Here With Me - Acoustic",
-      "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2023-05-19 09:18:00",
@@ -919,22 +903,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1047,6 +1015,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Days That End in Y",
         "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 142686,
       "name": "Days That End in Y",
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
       "artists": [
         {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
         }
       ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 236094,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "In Hindsight",
         "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 138220,
       "name": "I don't mind if you don't mind (draft)",
       "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 140130,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
+        "name": "Live from the Village (Acoustic)",
+        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
       },
       "artists": [
         {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 236094,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 140130,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l"
+      "duration_ms": 227296,
+      "name": "Pink - Live & Acoustic",
+      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
     }
   ],
   "unique_name": "Soft Morning",

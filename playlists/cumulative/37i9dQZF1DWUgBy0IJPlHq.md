@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Uncle Lucius
+> A new shade of Country\. Cover: Tyler Childers
 
-468 songs - 1 day 4 hr 55 min
+469 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-17 | 2022-08-06 |
 | [Don't Blame It on Me](https://open.spotify.com/track/1XVLwPLqU18l5DRqNQS7m7) | [Kimberly Kelly](https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc) | ["I'll Tell You What's Gonna Happen"](https://open.spotify.com/album/5H6WsuIbCm7xkRkDEmDTxN) | 3:37 | 2022-07-08 | 2022-09-10 |
 | [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 | 2022-10-08 |
-| [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 | 2022-08-26 |  |
+| [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 | 2022-08-26 | 2023-07-29 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-04-01 | 2023-05-27 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-04-02 |
 | [Draw From My Memory](https://open.spotify.com/track/39Ih7RHv7E9ZVF08ZVd7RG) | [Desure](https://open.spotify.com/artist/0fjx8XT7Vb25MDBYBF0uHv) | [Draw From My Memory](https://open.spotify.com/album/72vK61r7YYlJdShldRaV73) | 5:07 | 2022-11-25 | 2023-04-15 |
@@ -136,6 +136,7 @@
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-15 |  |
 | [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 |  |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-02 |
+| [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-07-28 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 |  |
 | [Everybody Else](https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Everybody Else](https://open.spotify.com/album/43SnDuO3vSQWIJLUUZoPkM) | 2:57 | 2021-12-17 | 2022-02-12 |
 | [Everything At Once \(feat\. Jeff Tweedy\)](https://open.spotify.com/track/2bit2LuOPnCeU2ob19Gxgl) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Everything At Once](https://open.spotify.com/album/10GH9Xfp9nTC9WgKTAUvY8) | 3:45 | 2023-03-31 |  |

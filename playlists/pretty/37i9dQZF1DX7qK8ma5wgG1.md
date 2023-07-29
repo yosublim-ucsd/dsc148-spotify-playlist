@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Songs for a broken heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,306 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,981 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 79 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 80 | [Hurts The Most](https://open.spotify.com/track/6oVfnKLydVrZIbSdsgoGd0) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Hurts The Most](https://open.spotify.com/album/1Ctxy0NALXX7W3ub57drGk) | 3:22 |
 
-Snapshot ID: `MCw3MmE4YWUzYWEzY2Q3YTU5MDIxOWU2ZjYwOGFjOWRlMTIzYjU0MWFl`
+Snapshot ID: `MCxmY2IxYWRjODJlMmJjYzczYmYxYTYyMmE3NGM0NjIyYjg1NjY2MTZj`

@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9191,
+  "num_followers": 9219,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5",
+  "snapshot_id": "MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Ideologia Chinesa",
+        "url": "https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k"
+      },
+      "artists": [
+        {
+          "name": "Pessoas Que Eu Conhe\u00e7o",
+          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
+        }
+      ],
+      "duration_ms": 323629,
+      "name": "House Aprovado Pelo Governo",
+      "url": "https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Proibidao EP",
         "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
       },
@@ -431,18 +447,34 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Ideologia Chinesa",
-        "url": "https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k"
+        "name": "Parente Neon",
+        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
       },
       "artists": [
         {
-          "name": "Pessoas Que Eu Conhe\u00e7o",
-          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 323629,
-      "name": "House Aprovado Pelo Governo",
-      "url": "https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS"
+      "duration_ms": 149538,
+      "name": "Moleque Vampiro",
+      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -467,22 +499,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "ALGO",
         "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 352099,
       "name": "Algo 2",
       "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Parente Neon",
-        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
-      },
-      "artists": [
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Moleque Vampiro",
-      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
       },
       "artists": [
         {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
         }
       ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-06-16 03:03:00",

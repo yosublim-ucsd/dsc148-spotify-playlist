@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,741 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,751 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 11 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 12 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 13 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 14 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 14 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 |
 | 15 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
-| 16 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 |
+| 16 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
 | 17 | [This is un volcán](https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [This is un volcán](https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif) | 3:26 |
 | 18 | [Caja Negra](https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Caja Negra](https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx) | 3:38 |
-| 19 | [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 |
+| 19 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 20 | [AMOR MINIMAL](https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:27 |
 | 21 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
 | 22 | [Espiral](https://open.spotify.com/track/0uJ2VWcXhHWcH9ABkPMVpE) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0) | [Espiral](https://open.spotify.com/album/0q0FAVg4lKnpxpYcu8S2yL) | 3:31 |
-| 23 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
+| 23 | [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 |
 | 24 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 25 | [Decir Hacerlo](https://open.spotify.com/track/5dEn5K6lSIC8NstRLomW8j) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Decir Hacerlo](https://open.spotify.com/album/7yNmiDUj2WLo9MvVijnK7E) | 3:49 |
 | 26 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 48 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 |
 | 49 | [Ya No](https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Ya No](https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0) | 2:29 |
 | 50 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
-| 51 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
-| 52 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
-| 53 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
-| 54 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
+| 51 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
+| 52 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
+| 53 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
+| 54 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
 | 55 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
 | 56 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
 | 57 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 70 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 71 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
 | 72 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 73 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
-| 74 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
-| 75 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
-| 76 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
-| 77 | [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 |
+| 73 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
+| 74 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
+| 75 | [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 |
+| 76 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
+| 77 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
 | 78 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
 | 79 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 | 80 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 
-Snapshot ID: `MCwzNzI3YjgzYzU3N2M5NGM3Mzk5OWRlZTg5M2VlODdmYzhjZDk4ZGRj`
+Snapshot ID: `MCwzYTUyYmJjODdhMmNjNDY1NWZiMTRiZjI4N2FhNDFhMTRiNDc2MTM4`

@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207604,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/3FdwLv9dcB6tkjpY43jrbW"
@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 255133,
       "name": "Chasing The Light",
       "url": "https://open.spotify.com/track/6iBSEy2yR8w7wA0FPjRp7f"
@@ -2630,6 +2630,24 @@
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "album": {
+        "name": "Didn't Say",
+        "url": "https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206514,
+      "name": "Didn't Say",
+      "url": "https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt"
     },
     {
       "album": {
@@ -3616,6 +3634,24 @@
       "duration_ms": 215280,
       "name": "Four Moons",
       "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5OqDTCl0cicYgB031QCNAe"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219161,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap"
     },
     {
       "album": {
@@ -10486,7 +10522,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 185510,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/4K9ZhFfPbXbmznYX5EffPE"
@@ -11946,6 +11982,28 @@
       "duration_ms": 138586,
       "name": "Year From Now",
       "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
+    },
+    {
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "album": {

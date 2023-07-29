@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-214 songs - 15 hr 24 min
+215 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Eye Of The Storm](https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Eye Of The Storm](https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d) | 4:16 | 2021-07-12 |  |
 | [Feed The Id](https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 4:09 | 2021-07-12 | 2022-09-24 |
 | [Feeling You](https://open.spotify.com/track/0FPvJklZbYd6Es7ndp0zOW) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Now](https://open.spotify.com/album/1h4QJTUxI20S16EwK0FXX1) | 4:22 | 2021-07-12 |  |
-| [Fonk In The City \- Live Performance](https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Live Performance Saxx In The City](https://open.spotify.com/album/1lsSxw2uw1HMgnZLpKmF5c) | 4:56 | 2021-07-12 |  |
+| [Fonk In The City \- Live Performance](https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Live Performance Saxx In The City](https://open.spotify.com/album/1lsSxw2uw1HMgnZLpKmF5c) | 4:56 | 2021-07-12 | 2023-07-29 |
 | [Forever And A Day](https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:49 | 2021-07-12 |  |
 | [Forever And A Day \(feat\. Althea Rene\)](https://open.spotify.com/track/7vZvV6oI3OeasZvFMmda2N) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Got 2 Be Groovin'](https://open.spotify.com/album/0c4MfJpZcRxNrg4AxsUyEH) | 4:49 | 2021-07-12 | 2022-07-29 |
 | [Fresh Air](https://open.spotify.com/track/2MWz9FOWmyvLYqhUsHtLOW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:42 | 2021-07-12 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Melanin](https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [J.Michael O'neal](https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg) | [Balance](https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI) | 4:00 | 2021-07-12 |  |
 | [ML Funk](https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Funky Fridays, Vol\. 2](https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi) | 3:19 | 2022-08-05 | 2023-02-21 |
 | [Mr\. Sexy Saxy](https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Blow Your Mind](https://open.spotify.com/album/2Z30iNpI7qPBYH2OhtrCat) | 4:35 | 2021-07-12 |  |
+| [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 |  |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 |  |
 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 | 2021-10-08 |  |
 | [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe) | 4:10 | 2022-08-12 |  |

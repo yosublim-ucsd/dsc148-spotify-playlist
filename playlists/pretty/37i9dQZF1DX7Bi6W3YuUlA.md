@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,412 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,521 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 58 | [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 |
 | 59 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 |
 | 60 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
-| 61 | [Club Eden](https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Club Eden](https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6) | 2:25 |
-| 62 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 |
+| 61 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 |
+| 62 | [Club Eden](https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Club Eden](https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6) | 2:25 |
 | 63 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 |
 | 64 | [Who That Is](https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Dj Laz](https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ) | [Who That Is](https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq) | 2:24 |
 | 65 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
@@ -80,14 +80,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 70 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 |
 | 71 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 |
 | 72 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
-| 73 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
-| 74 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
+| 73 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
+| 74 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 75 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 |
 | 76 | [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 |
 | 77 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
-| 78 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
-| 79 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
-| 80 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
+| 78 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
+| 79 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
+| 80 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
 | 81 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 |
 | 82 | [HUMAN](https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Rhomar Jessy](https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 4:07 |
 | 83 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
 | 100 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 |
 
-Snapshot ID: `MCxmZjQ1NjlhYzRjYTM3YTBmNzI1M2U3M2FiZTFlZGM3ZTJkNWEwYzA5`
+Snapshot ID: `MCxiMjM3MWE4MDdiZjBhYjRmMzgwMmFlOTc4MjA2YzMwZWVmZDVhNDg3`

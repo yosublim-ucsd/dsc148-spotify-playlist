@@ -1,13 +1,29 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 58576,
+  "num_followers": 58884,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTk3OCxkM2NhNzBmNmQwODgzZmU5ODg4NGZiMWRkNjc0MDAzYmViYTAwYThh",
+  "snapshot_id": "MjAyMSw1NjRlMTM3MWQ3MTlmOWFlY2ZmYjQ3OWUxOGEwNzRmOTRmMGVkMzg1",
   "tracks": [
+    {
+      "added_at": "2023-07-28 15:39:38",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 214845,
+      "name": "Monster In Me",
+      "url": "https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt"
+    },
     {
       "added_at": "2023-06-16 10:33:03",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2023-07-28 15:42:32",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/1zTRJMLEQP1fJfmzsLMWDu"
+    },
+    {
+      "added_at": "2023-07-21 16:15:19",
+      "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
+    },
+    {
+      "added_at": "2023-07-28 15:50:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/7k1vt7r8ODrJ8oD3ZMeFYo"
+    },
+    {
+      "added_at": "2023-07-25 17:43:10",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
+    },
+    {
+      "added_at": "2023-05-19 15:14:47",
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw"
     },
     {
       "added_at": "2023-06-29 13:43:29",
@@ -49,20 +145,116 @@
       "url": "https://open.spotify.com/track/2np8CDTbdwijM9Bvv3rPCd"
     },
     {
-      "added_at": "2023-07-21 16:15:19",
+      "added_at": "2023-07-25 17:43:18",
       "album": {
-        "name": "Bad Friend",
-        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "duration_ms": 211363,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
+      "duration_ms": 220537,
+      "name": "Popular Monster",
+      "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
+    },
+    {
+      "added_at": "2023-07-25 17:43:23",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "BLACK SOUL",
+      "url": "https://open.spotify.com/track/5ry1GWOraVbudUG4Rn9dHu"
+    },
+    {
+      "added_at": "2023-07-25 17:43:30",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 209598,
+      "name": "1x1 (feat. Nova Twins)",
+      "url": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk"
+    },
+    {
+      "added_at": "2023-07-25 17:43:38",
+      "album": {
+        "name": "Phobia (Explicit Version)",
+        "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 227106,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS"
+    },
+    {
+      "added_at": "2023-04-03 10:41:16",
+      "album": {
+        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "added_at": "2023-07-25 17:43:44",
+      "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 192176,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai"
     },
     {
       "added_at": "2023-06-16 10:33:10",
@@ -81,6 +273,42 @@
       "url": "https://open.spotify.com/track/4vxKgrJWqqIJm7XNwjYxZT"
     },
     {
+      "added_at": "2023-07-25 17:43:52",
+      "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "AJ Channer",
+          "url": "https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd"
+        }
+      ],
+      "duration_ms": 182963,
+      "name": "Only Human (feat. AJ Channer)",
+      "url": "https://open.spotify.com/track/2H0GxfBChmWOMhQCUWybav"
+    },
+    {
+      "added_at": "2023-07-14 14:45:47",
+      "album": {
+        "name": "Woo Hah!! Got You All in Check",
+        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 237629,
+      "name": "Woo Hah!! Got You All in Check",
+      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
+    },
+    {
       "added_at": "2023-07-07 18:02:17",
       "album": {
         "name": "Burn Me Down",
@@ -95,6 +323,22 @@
       "duration_ms": 231478,
       "name": "Burn Me Down",
       "url": "https://open.spotify.com/track/0esLzQSUI4NUOFV1f75AKS"
+    },
+    {
+      "added_at": "2023-07-25 17:44:01",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 231161,
+      "name": "Black Lungs",
+      "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
     },
     {
       "added_at": "2023-06-16 10:22:18",
@@ -113,6 +357,22 @@
       "url": "https://open.spotify.com/track/2DQEXYIC5S43ndVkGX2VtO"
     },
     {
+      "added_at": "2023-07-25 17:44:50",
+      "album": {
+        "name": "VENA",
+        "url": "https://open.spotify.com/album/0GC8hjVn9Jz5oEq9gFj9KV"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 252875,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ"
+    },
+    {
       "added_at": "2023-06-09 14:54:16",
       "album": {
         "name": "Sho Nuff",
@@ -127,6 +387,22 @@
       "duration_ms": 150772,
       "name": "Sho Nuff",
       "url": "https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy"
+    },
+    {
+      "added_at": "2023-07-25 17:44:58",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 323800,
+      "name": "Shepherd of Fire",
+      "url": "https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90"
     },
     {
       "added_at": "2023-05-12 18:17:48",
@@ -159,6 +435,22 @@
       "duration_ms": 336112,
       "name": "Diamond Eyes (Boom-Lay Boom-Lay Boom)",
       "url": "https://open.spotify.com/track/1PLMK1ui86iHHG3FM1N7ue"
+    },
+    {
+      "added_at": "2023-04-14 15:22:14",
+      "album": {
+        "name": "War Pigs",
+        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 309888,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
     },
     {
       "added_at": "2023-05-17 19:23:54",
@@ -209,6 +501,30 @@
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
     },
     {
+      "added_at": "2023-02-10 15:46:19",
+      "album": {
+        "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+        "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "William DuVall",
+          "url": "https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR"
+        },
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+      "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
+    },
+    {
       "added_at": "2023-05-17 19:24:21",
       "album": {
         "name": "Toxicity",
@@ -239,6 +555,22 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2023-03-17 18:00:33",
+      "album": {
+        "name": "Hate Me Too",
+        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 210067,
+      "name": "Hate Me Too",
+      "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
     },
     {
       "added_at": "2023-05-17 19:24:44",
@@ -289,38 +621,6 @@
       "url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP"
     },
     {
-      "added_at": "2023-05-19 15:14:47",
-      "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw"
-    },
-    {
-      "added_at": "2023-04-14 15:22:14",
-      "album": {
-        "name": "War Pigs",
-        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 309888,
-      "name": "War Pigs",
-      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
-    },
-    {
       "added_at": "2023-02-22 10:19:42",
       "album": {
         "name": "Survivor",
@@ -335,46 +635,6 @@
       "duration_ms": 193840,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2023-02-10 15:46:19",
-      "album": {
-        "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
-        "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "William DuVall",
-          "url": "https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR"
-        },
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
-      "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
-    },
-    {
-      "added_at": "2023-03-17 18:00:33",
-      "album": {
-        "name": "Hate Me Too",
-        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 210067,
-      "name": "Hate Me Too",
-      "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
     },
     {
       "added_at": "2023-05-05 17:49:04",
@@ -419,34 +679,6 @@
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
-    },
-    {
-      "added_at": "2023-04-03 10:41:16",
-      "album": {
-        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
-        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "Daniel Laskiewicz",
-          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
-        }
-      ],
-      "duration_ms": 268744,
-      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
     },
     {
       "added_at": "2023-04-03 12:07:44",
@@ -909,6 +1141,22 @@
       "url": "https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO"
     },
     {
+      "added_at": "2021-08-20 17:58:02",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 226348,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
+    },
+    {
       "added_at": "2022-03-08 19:52:48",
       "album": {
         "name": "The Great Southern Trendkill",
@@ -923,6 +1171,26 @@
       "duration_ms": 293360,
       "name": "War Nerve",
       "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
+    },
+    {
+      "added_at": "2021-08-20 17:58:02",
+      "album": {
+        "name": "The Comeback (feat. Craig Mabbitt of Escape The Fate)",
+        "url": "https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 255995,
+      "name": "The Comeback (feat. Craig Mabbitt of Escape The Fate)",
+      "url": "https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N"
     },
     {
       "added_at": "2022-03-08 19:54:37",
@@ -955,42 +1223,6 @@
       "duration_ms": 387842,
       "name": "Darkness Within",
       "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 226348,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "The Comeback (feat. Craig Mabbitt of Escape The Fate)",
-        "url": "https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 255995,
-      "name": "The Comeback (feat. Craig Mabbitt of Escape The Fate)",
-      "url": "https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -1049,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
     },
     {
-      "added_at": "2022-01-25 14:48:39",
-      "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
-    },
-    {
       "added_at": "2021-08-20 17:58:02",
       "album": {
         "name": "A Hope In Hell",
@@ -1079,6 +1295,22 @@
       "duration_ms": 257127,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Y9QCwhcDVBxTmbs9LfeAF"
+    },
+    {
+      "added_at": "2022-01-25 14:48:39",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -2397,6 +2629,22 @@
       "url": "https://open.spotify.com/track/5XE0S3m7Qgh40sjaT4g2VU"
     },
     {
+      "added_at": "2023-01-27 16:08:51",
+      "album": {
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 189928,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
+    },
+    {
       "added_at": "2023-01-03 16:14:37",
       "album": {
         "name": "Hurricane",
@@ -2477,22 +2725,6 @@
       "url": "https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l"
     },
     {
-      "added_at": "2023-01-27 16:08:51",
-      "album": {
-        "name": "I Rise",
-        "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 189928,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
-    },
-    {
       "added_at": "2023-05-19 15:15:48",
       "album": {
         "name": "Roses",
@@ -2507,22 +2739,6 @@
       "duration_ms": 201630,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8"
-    },
-    {
-      "added_at": "2023-07-14 14:45:47",
-      "album": {
-        "name": "Woo Hah!! Got You All in Check",
-        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 237629,
-      "name": "Woo Hah!! Got You All in Check",
-      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
     }
   ],
   "unique_name": "Hard Rock Workout",

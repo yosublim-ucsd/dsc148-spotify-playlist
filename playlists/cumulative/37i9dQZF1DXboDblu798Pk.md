@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Anne\-Marie & Khalid
 
-137 songs - 7 hr 4 min
+138 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-06-15 | 2023-06-23 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-06-15 | 2023-06-23 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-06-15 | 2023-06-30 |
-| [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-15 |  |
+| [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-15 | 2023-07-29 |
+| [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 | 2023-07-27 |  |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-15 | 2023-07-21 |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-20 |  |
 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 | 2023-06-15 |  |

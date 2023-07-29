@@ -4,11 +4,11 @@
 
 > Instrumental bliss beyond genre classification.
 
-233 songs - 18 hr 33 min
+235 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 | 2022-12-20 |  |
+| [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 | 2022-12-20 | 2023-07-29 |
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-08-03 |  |
 | [A Nambra](https://open.spotify.com/track/5VVM5EX9i5rDvbyHHogoYb) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 5:30 | 2021-10-15 | 2022-01-20 |
 | [Advertised](https://open.spotify.com/track/6Nleh9HiXzeIMQiMg80WCp) | [Stigma](https://open.spotify.com/artist/7fyEvBoniWpROAH5Pfo0jP), [Taylor E Burch](https://open.spotify.com/artist/7s9kEXLVgrXSgTI0LzPKaQ) | [Too Long](https://open.spotify.com/album/5BvcAtZUW02PRkxjlmE68I) | 8:00 | 2021-10-15 | 2022-01-13 |
@@ -31,7 +31,8 @@
 | [bda creature](https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:51 | 2022-06-20 | 2023-01-04 |
 | [bda creature](https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [bda creature](https://open.spotify.com/album/56315GHHnqKTmTWZFaLFhE) | 4:51 | 2022-06-20 | 2022-11-26 |
 | [Black Rainbow](https://open.spotify.com/track/6j79YyfQV1ZNiQ3Ywqhrhi) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 4:32 | 2021-10-15 | 2022-02-10 |
-| [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-23 |  |
+| [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-23 | 2023-07-29 |
+| [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-28 |  |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 | 2022-05-06 | 2023-06-01 |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes](https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j) | 5:59 | 2022-05-06 |  |
 | [Bliss](https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Bliss](https://open.spotify.com/album/3pzfRwPIduKjP0qOF6BYOD) | 3:20 | 2023-05-24 |  |
@@ -241,5 +242,6 @@
 | [Yelli](https://open.spotify.com/track/2GdD6s2xhZnbj1XmwHYXCW) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Yelli](https://open.spotify.com/album/73FKH6CBhiW5tGdaOHKpeg) | 7:03 | 2021-10-15 | 2022-02-10 |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2022-03-11 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 | 2022-03-11 | 2022-07-29 |
+| [Zero to Sixty](https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Zero to Sixty](https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f) | 4:48 | 2023-07-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

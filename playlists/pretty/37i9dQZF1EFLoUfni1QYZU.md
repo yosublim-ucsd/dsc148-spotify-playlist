@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 83 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 11 | [Recovery](https://open.spotify.com/track/1a5P7IvLUhRhLnnbkev3PI) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:54 |
 | 12 | [Strange](https://open.spotify.com/track/0ym7NHJQXBiw6vQvqqcuhr) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:54 |
 | 13 | [No Witness](https://open.spotify.com/track/13qy3gxJFjx5IKXrW7t6dj) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:28 |
-| 14 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
-| 15 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 14 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 15 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
 | 16 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
 | 17 | [When I'm Over You](https://open.spotify.com/track/1JueotTuCnkcTA7tBA5hLR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:26 |
 | 18 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgxNzIyOTAsMDAwMDAwMDA3NzU2OTIyMDgyYWJjOWQ1ZDA4NGM0YjI1M2YyMmEwNA==`
+Snapshot ID: `MjgxNzY2MTAsMDAwMDAwMDA3NWUyMjc4ZWQxNmJjMjYyNzNkZDgwNDUyM2UwMzNmNg==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Sobrino",
+  "description": "Fresh Latin pop on the rise. Cover: Alex Luna",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -4461,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Me Quieres Cuando No Estas Bien",
+        "url": "https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Me Quieres Cuando No Estas Bien",
+      "url": "https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2"
+    },
+    {
+      "album": {
         "name": "mE RecHaZasTe :(",
         "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
       },
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 172077,
       "name": "mi man\u00e1",
       "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"

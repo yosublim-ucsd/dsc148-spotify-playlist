@@ -2141,6 +2141,28 @@
     },
     {
       "album": {
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/25nuEAVTtDUOSLcYmuZQkx"
+      },
+      "artists": [
+        {
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "Krzysztof Meisinger",
+          "url": "https://open.spotify.com/artist/43JBMYEGjtG25QfTpngBWM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Suite compostelana: II. Coral",
+      "url": "https://open.spotify.com/track/1FbAQqtKHiQhLbz5Yodjbf"
+    },
+    {
+      "album": {
         "name": "Magnard: Orchestral Works",
         "url": "https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 388299,
+  "num_followers": 388605,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTIyYzk5M2M4ZjdkNTVjMGJjNjRjZjlhNjZlYWZiMzM5MTgyNTA1",
+  "snapshot_id": "MCwyMDM0MGI5YzMyMWMyY2I4YmFjNzg2ZTliYzlmYmQzODhhNTI3ZGZm",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
     },
     {
-      "added_at": "2023-06-02 01:45:44",
+      "added_at": "2023-03-30 03:13:10",
       "album": {
-        "name": "Trouble / In My Head",
-        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
       },
       "artists": [
         {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 186528,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2023-03-31 17:52:14",
@@ -989,36 +989,20 @@
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
     },
     {
-      "added_at": "2023-03-30 03:13:10",
+      "added_at": "2023-06-02 01:45:44",
       "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+        "name": "Trouble / In My Head",
+        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
         }
       ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
-    },
-    {
-      "added_at": "2023-05-24 02:01:11",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
+      "duration_ms": 186528,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1035,6 +1019,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2023-05-24 02:01:11",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2022-02-18 20:31:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 228694,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1155,6 +1139,22 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2023-06-02 01:19:32",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "SULA",
-        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
     },
     {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
       "added_at": "2022-01-12 18:14:24",
       "album": {
         "name": "ocean tales",
@@ -1587,22 +1603,6 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Little Ghost",
-        "url": "https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Too Much to Ask",
-      "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Tru Love",
         "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Little Ghost",
+        "url": "https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Too Much to Ask",
+      "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
     },
     {
       "added_at": "2021-10-15 03:01:31",

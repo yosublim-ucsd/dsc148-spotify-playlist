@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 Nina Su\u00e1rez",
+  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 Marina Fages",
   "name": "el under",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 65182,
       "name": "40",
       "url": "https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV"
+    },
+    {
+      "album": {
+        "name": "Sonido Velado",
+        "url": "https://open.spotify.com/album/3DpNPGaoosGx7WXffTI6Re"
+      },
+      "artists": [
+        {
+          "name": "Entidad Animada",
+          "url": "https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274811,
+      "name": "Abrazo Telep\u00e1tico",
+      "url": "https://open.spotify.com/track/2nPDLelRg7W8IYxZs67VX1"
     },
     {
       "album": {
@@ -96,6 +114,24 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "album": {
+        "name": "EL MUNDO PEQUE\u00d1O",
+        "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265029,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy"
     },
     {
       "album": {
@@ -1625,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Llueve",
+        "url": "https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo"
+      },
+      "artists": [
+        {
+          "name": "Los Rusos Hijos de Puta",
+          "url": "https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135720,
+      "name": "Llueve",
+      "url": "https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/6WtmjqcRqwbQRVSzicqD3g"
       },
@@ -1930,6 +1984,24 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
+    },
+    {
+      "album": {
+        "name": "Nuevos miedos - Nadie va a decidir por vos",
+        "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221516,
+      "name": "Nadie va a decidir por vos",
+      "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
     },
     {
       "album": {
@@ -2896,7 +2968,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162730,
       "name": "Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC"

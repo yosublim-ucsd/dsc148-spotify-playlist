@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: GAYLE
+> Dark, hard hitting pop\. Cover: maryjo
 
-444 songs - 20 hr 22 min
+450 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-02-19 |
 | [Checkered Vans](https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Checkered Vans](https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap) | 3:18 | 2023-02-10 | 2023-03-04 |
+| [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-28 |  |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 |  |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
@@ -119,8 +120,9 @@
 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
+| [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 | 2023-07-28 |  |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 |  |
-| [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 |  |
+| [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 | 2023-07-29 |
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
@@ -281,6 +283,7 @@
 | [MONSTERS IN MY MIND](https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [MONSTERS IN MY MIND](https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ) | 2:04 | 2022-10-28 | 2023-04-29 |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 | 2023-02-04 |
 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 | 2023-03-10 | 2023-04-09 |
+| [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 | 2023-07-28 |  |
 | [my best friend's ex](https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [my best friend's ex](https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF) | 2:55 | 2022-09-16 | 2023-02-04 |
 | [Naked](https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Naked](https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj) | 2:13 | 2022-08-05 | 2023-03-25 |
 | [narcissists](https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [narcissists](https://open.spotify.com/album/3bxmadBCTKM5ehmDVfeMkv) | 1:51 | 2023-07-14 |  |
@@ -372,6 +375,7 @@
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-08-27 |
 | [SUCKER4PAIN](https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw) | [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [Jxve](https://open.spotify.com/artist/2WupjRbsK0tgRY3pFyF37o) | [SUCKER4PAIN](https://open.spotify.com/album/7wMQoZWDeXJBeldAlKWMs2) | 2:32 | 2022-01-28 | 2022-04-23 |
+| [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 | 2023-07-28 |  |
 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 | 2021-11-12 | 2022-02-19 |
 | [Super Over](https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq) | 2:44 | 2023-06-30 |  |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-03-18 |
@@ -385,6 +389,7 @@
 | [Tell On You](https://open.spotify.com/track/39xEQ4GBaQFyj8xbNLJdSo) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Tell On You](https://open.spotify.com/album/7EhQ6wX3mvSJrCVqIrq8gZ) | 2:24 | 2023-03-31 | 2023-05-06 |
 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-06-10 | 2022-09-17 |
 | [That Girl](https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i) | 2:20 | 2022-07-15 | 2022-10-29 |
+| [that's how you make a villain](https://open.spotify.com/track/43oNw6eBz19yCSrebBYqUY) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [that's how you make a villain](https://open.spotify.com/album/14MGqlLRlNWV90Z1sZRnPE) | 3:29 | 2023-07-28 |  |
 | [That's the thing x](https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [That's the thing x](https://open.spotify.com/album/6m3nu19SylZYD3mVoL8ofF) | 3:51 | 2022-03-18 | 2022-06-04 |
 | [the AUDACITY](https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [the AUDACITY](https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA) | 3:13 | 2022-04-29 | 2022-09-24 |
 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-06-03 | 2022-08-06 |
@@ -398,6 +403,7 @@
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-09-10 |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2022-09-16 | 2022-10-29 |
 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-10-07 | 2023-02-18 |
+| [To The Moon](https://open.spotify.com/track/7JRnLgqbG12bgMeI0Nntei) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [To The Moon](https://open.spotify.com/album/2ar7pzKt4oF0qyODJLwIMn) | 2:51 | 2023-07-28 |  |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 | 2023-03-25 |
 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 | 2023-05-05 | 2023-06-24 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-24 |

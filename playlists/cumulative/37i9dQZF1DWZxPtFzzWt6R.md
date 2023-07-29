@@ -4,15 +4,16 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Suellen Lima
 
-60 songs - 3 hr 51 min
+62 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Benção Vai Te Ligar](https://open.spotify.com/track/4Uvk0vfjIkRWmPL3CxyQJP) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [A Benção Vai Te Ligar](https://open.spotify.com/album/7nGd76HuuEwLQc98qDUQx8) | 2:31 | 2023-06-23 |  |
 | [A Bússola](https://open.spotify.com/track/03g4XkJDK5LRzWpEFbbx82) | [Jonas Maciel](https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY) | [A Bússola](https://open.spotify.com/album/0G0e0idklupBJO8R7v4IhO) | 4:58 | 2023-06-23 |  |
-| [A Música do Céu](https://open.spotify.com/track/3opLAlkWTG8q832nyb5rHf) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [A Música do Céu](https://open.spotify.com/album/0q9IyarNLkIJTRLq9bZVDA) | 4:35 | 2023-06-23 |  |
+| [A Música do Céu](https://open.spotify.com/track/3opLAlkWTG8q832nyb5rHf) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [A Música do Céu](https://open.spotify.com/album/0q9IyarNLkIJTRLq9bZVDA) | 4:35 | 2023-06-23 | 2023-07-29 |
 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 | 2023-06-23 |  |
 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 | 2023-06-23 |  |
+| [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 | 2023-07-28 |  |
 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 | 2023-06-23 |  |
 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 | 2023-06-23 |  |
 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 | 2023-06-23 |  |
@@ -25,6 +26,7 @@
 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 | 2023-06-23 |  |
 | [Dependente](https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Dependente](https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs) | 3:14 | 2023-06-23 |  |
 | [Deus por Mim](https://open.spotify.com/track/06W5Cw6eutln721NGGKc1g) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus por Mim](https://open.spotify.com/album/6LlVP6cnz2lHACZkeiHHy3) | 3:43 | 2023-06-23 |  |
+| [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 | 2023-07-28 |  |
 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 | 2023-06-23 |  |
 | [Duas Vezes Mais](https://open.spotify.com/track/2UxerwRMfxlSTBcKhWdUhA) | [Jonas Maciel](https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY) | [Duas Vezes Mais](https://open.spotify.com/album/6Pq1Yz43OJMhFtl0spnifB) | 2:46 | 2023-06-23 |  |
 | [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 | 2023-06-23 |  |
@@ -39,7 +41,7 @@
 | [Joelho no Chão e Boca no Pó \- Ao Vivo](https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX) | [Ednan Rufino](https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a) | [Joelho no Chão e Boca no Pó \(Ao Vivo\)](https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7) | 6:11 | 2023-06-23 |  |
 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 | 2023-06-23 |  |
 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 | 2023-06-23 |  |
-| [Me Entrego](https://open.spotify.com/track/6j10JapIh1BVbUjjCVW9Tv) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Entrego](https://open.spotify.com/album/5MKW0jgUtpVcaBfIH1ndN3) | 3:29 | 2023-06-23 |  |
+| [Me Entrego](https://open.spotify.com/track/6j10JapIh1BVbUjjCVW9Tv) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Entrego](https://open.spotify.com/album/5MKW0jgUtpVcaBfIH1ndN3) | 3:29 | 2023-06-23 | 2023-07-29 |
 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 | 2023-06-23 |  |
 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 | 2023-06-23 |  |
 | [No Céu Não Entra Pecado](https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [No Céu Não Entra Pecado](https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt) | 4:16 | 2023-06-23 |  |

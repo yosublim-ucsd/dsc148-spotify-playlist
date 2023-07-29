@@ -2945,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "EDM (Entre deux mondes)",
+        "url": "https://open.spotify.com/album/4v9kxxVzv0G27JxTC1Aj3k"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "EDM (Entre deux mondes)",
+      "url": "https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq"
+    },
+    {
+      "album": {
         "name": "Efforts",
         "url": "https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn"
       },
@@ -5680,7 +5698,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192056,
       "name": "My nigga",
       "url": "https://open.spotify.com/track/0nDa5VqZjVS6a5z8S5UZOJ"
@@ -5980,7 +5998,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 129705,
       "name": "Oh lala",
       "url": "https://open.spotify.com/track/3jwmX9rBS74XmzDgtt6rKh"
@@ -6994,6 +7012,28 @@
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
+    },
+    {
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231382,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
     },
     {
       "album": {
@@ -8426,7 +8466,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 189626,
       "name": "Uptown",
       "url": "https://open.spotify.com/track/1AwELajjX7wPD87c5TfYc6"
@@ -8568,6 +8608,28 @@
       "duration_ms": 172534,
       "name": "VISA",
       "url": "https://open.spotify.com/track/17KVmrxWh2gvFSrrC1yRBW"
+    },
+    {
+      "album": {
+        "name": "VISA",
+        "url": "https://open.spotify.com/album/1hslnP6PutZgrEVGYuBLjz"
+      },
+      "artists": [
+        {
+          "name": "M-Press Live",
+          "url": "https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v"
+        },
+        {
+          "name": "Yung Duce",
+          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/67g2ofnMNzwzUbbNt0eyPk"
     },
     {
       "album": {

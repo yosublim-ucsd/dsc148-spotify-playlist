@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Leon Leiden y Paty Cant\u00fa en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alex Luna en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166977,
       "name": "ASESINA",
       "url": "https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5"
@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
+    },
+    {
+      "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
       },
@@ -991,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149657,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
+    },
+    {
+      "album": {
         "name": "Dementes",
         "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
       },
@@ -1002,7 +1046,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 176207,
       "name": "Dementes",
       "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
@@ -1024,6 +1068,28 @@
       "duration_ms": 160222,
       "name": "Desamor Feliz (Pura Sal)",
       "url": "https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE"
+    },
+    {
+      "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     },
     {
       "album": {
@@ -1245,6 +1311,28 @@
     },
     {
       "album": {
+        "name": "EL RELOJ (con Maluma)",
+        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180521,
+      "name": "EL RELOJ (con Maluma)",
+      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
+    },
+    {
+      "album": {
         "name": "En el Alma",
         "url": "https://open.spotify.com/album/1DgBKSa074CmHpAxJ8XLJu"
       },
@@ -1260,7 +1348,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 226015,
       "name": "En El Alma",
       "url": "https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb"
@@ -1404,7 +1492,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 190603,
       "name": "Fotos",
       "url": "https://open.spotify.com/track/0G57kedn6wvWx5CHefeJdu"
@@ -1501,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Hola Senpai",
+        "url": "https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110285,
+      "name": "Hola Senpai",
+      "url": "https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc"
+    },
+    {
+      "album": {
         "name": "Hola, \u00bfQu\u00e9 Tal?",
         "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
       },
@@ -1538,6 +1644,28 @@
       "duration_ms": 233456,
       "name": "Hora y Cuarto - Single Version",
       "url": "https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8"
+    },
+    {
+      "album": {
+        "name": "hot wheels",
+        "url": "https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169539,
+      "name": "hot wheels",
+      "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
     },
     {
       "album": {
@@ -1650,7 +1778,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194093,
       "name": "Ley Del Hielo",
       "url": "https://open.spotify.com/track/5hcaYoPMTKncvsqFp0L18a"
@@ -1948,6 +2076,24 @@
       "duration_ms": 217973,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+    },
+    {
+      "album": {
+        "name": "Me Quieres Cuando No Estas Bien",
+        "url": "https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Me Quieres Cuando No Estas Bien",
+      "url": "https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2"
     },
     {
       "album": {
@@ -2282,7 +2428,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 127016,
       "name": "No Es Mi Culpa",
       "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
@@ -2728,7 +2874,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167360,
       "name": "Psycho B**ch",
       "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
@@ -3727,6 +3873,32 @@
     },
     {
       "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "album": {
         "name": "Tra",
         "url": "https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi"
       },
@@ -3930,7 +4102,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"

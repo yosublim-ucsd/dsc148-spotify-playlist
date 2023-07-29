@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: DOLLA",
-  "num_followers": 61712,
+  "num_followers": 61745,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjMxMjExMzA1N2Q1N2RmMmYzNDllZWE0YTk2MjE2ZmYyOTVjMTRi",
+  "snapshot_id": "MCwzMTQ0NzQ3Njk4NTE5N2Q0MjIzN2YxYzdhMWZhYTkzZjRlZjEwZGRk",
   "tracks": [
     {
       "added_at": "2023-07-27 16:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {
       "added_at": "2023-07-27 16:00:00",
@@ -258,10 +274,14 @@
         {
           "name": "MORTEN",
           "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
       "duration_ms": 175748,
-      "name": "Something To Hold On To",
+      "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
     },
     {
@@ -281,6 +301,26 @@
       "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
     },
     {
+      "added_at": "2023-07-27 16:31:49",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/5qVEygFbfiRgrFy7zlUxZK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6Khk3gI5G1ygnJYkc5QZIz"
+    },
+    {
       "added_at": "2023-07-27 16:00:00",
       "album": {
         "name": "Superbloodmoon (feat. d4vd)",
@@ -297,8 +337,24 @@
         }
       ],
       "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
+      "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "added_at": "2023-07-27 16:00:00",
@@ -893,6 +949,22 @@
       "url": "https://open.spotify.com/track/6zgeNyPGFOqc2TV8WvXKFR"
     },
     {
+      "added_at": "2023-07-28 05:13:00",
+      "album": {
+        "name": "Paid For",
+        "url": "https://open.spotify.com/album/42rxaiT8eq7n0Ud10tRQUj"
+      },
+      "artists": [
+        {
+          "name": "Saint Kylo",
+          "url": "https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Paid For",
+      "url": "https://open.spotify.com/track/2X6Kd0M5mqWfznL4V7YOdG"
+    },
+    {
       "added_at": "2023-07-27 16:00:00",
       "album": {
         "name": "For Sure",
@@ -1339,6 +1411,22 @@
     {
       "added_at": "2023-07-27 16:00:00",
       "album": {
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/1VAMNjJn72k8a0GY9xEBrk"
+      },
+      "artists": [
+        {
+          "name": "Dani Saldo",
+          "url": "https://open.spotify.com/artist/7y1Al7FB0GXDQCyh1wNTsH"
+        }
+      ],
+      "duration_ms": 152112,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/2Q6CiGpvvDoqglChFcCTxe"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
       },
@@ -1367,6 +1455,22 @@
       "duration_ms": 266840,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/0CVnsBFY4hppwxbcLkjBTi"
+    },
+    {
+      "added_at": "2023-07-27 16:00:00",
+      "album": {
+        "name": "Lost Boy, Lost City",
+        "url": "https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "duration_ms": 143318,
+      "name": "Lost Boy, Lost City",
+      "url": "https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1"
     },
     {
       "added_at": "2023-07-27 16:00:00",

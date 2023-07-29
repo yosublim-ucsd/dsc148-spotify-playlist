@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 118503,
+  "num_followers": 118521,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjNjYjkzMmEzYjJkNzY3NzE2ZDM4NWVmYWYwZGEyMjAwOTBmMDI0",
+  "snapshot_id": "MCwwYTU0YjEzYzYzY2E2M2JmNTczOWIyOGY5NTlhOTczNWU4NGQ0ZmM0",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -237,20 +237,20 @@
       "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
+      "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Halfbreed",
-        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
       },
       "artists": [
         {
-          "name": "Keef Hartley Band",
-          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
         }
       ],
-      "duration_ms": 356360,
-      "name": "Leavin' Trunk",
-      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
+      "duration_ms": 635271,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -269,20 +269,20 @@
       "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
       },
       "artists": [
         {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
         }
       ],
-      "duration_ms": 635271,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+      "duration_ms": 356360,
+      "name": "Leavin' Trunk",
+      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
     },
     {
       "added_at": "2022-03-28 19:25:04",

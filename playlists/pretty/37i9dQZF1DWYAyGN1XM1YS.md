@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,091 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,228 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 31 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 |
 | 32 | [Arcarsenal](https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 2:54 |
 | 33 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
-| 34 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
-| 35 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
+| 34 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
+| 35 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
 | 36 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
 | 37 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
 | 38 | [Undone](https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Magnified](https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
 | 50 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 |
 
-Snapshot ID: `MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi`
+Snapshot ID: `MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj`

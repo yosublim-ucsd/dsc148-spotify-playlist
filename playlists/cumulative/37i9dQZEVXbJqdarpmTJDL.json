@@ -16109,6 +16109,36 @@
     },
     {
       "album": {
+        "name": "MONOS",
+        "url": "https://open.spotify.com/album/3dOVV0NFY12IASzngB411y"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "MONOS",
+      "url": "https://open.spotify.com/track/6104vmH44puCfW9cDqh0ET"
+    },
+    {
+      "album": {
         "name": "Montecristo",
         "url": "https://open.spotify.com/album/65OW7hRhL8EiG1NfhkERqC"
       },
@@ -19782,7 +19812,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194823,
       "name": "PROSOPIKA FREESTYLE",
       "url": "https://open.spotify.com/track/2eS6fdksuCn96wuWTKzrfc"

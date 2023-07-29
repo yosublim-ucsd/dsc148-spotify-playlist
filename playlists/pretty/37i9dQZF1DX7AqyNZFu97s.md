@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: LULU
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,743 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,746 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [BETTER OFF ON MY OWN](https://open.spotify.com/track/70Sv6q5iMvhoHQ9iW4g0VZ) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [BETTER OFF ON MY OWN](https://open.spotify.com/album/31vvkc6lIRTbSjKk6Wc8bk) | 2:15 |
 | 80 | [HEATIN' UP!](https://open.spotify.com/track/7B8BdMRoATOnDhJo5qN4v9) | [crtl](https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6) | [IT'S 2 EASY](https://open.spotify.com/album/31ViLMowpb1q4EQJo8cd21) | 2:35 |
 
-Snapshot ID: `MCxiY2FkYmY3MGRjZjBmMmMyYTdmNTczNzI1ZGE2NjQ3NzExMTUzNmMw`
+Snapshot ID: `MCw2Y2QwZmVmZTQ1MjNiMWMxMTY0M2U2OTAzZTNlN2I2NGEzOGI2YzJj`

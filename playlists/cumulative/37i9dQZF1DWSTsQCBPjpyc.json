@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Love Is a Simple Thing",
+        "url": "https://open.spotify.com/album/43IcXDQeid37UJyedcReq8"
+      },
+      "artists": [
+        {
+          "name": "Davide Pannozzo",
+          "url": "https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249459,
+      "name": "Love Is a Simple Thing",
+      "url": "https://open.spotify.com/track/3c7uIxCmV1OTcSCNwSJOaT"
+    },
+    {
+      "album": {
         "name": "Lover's Plea",
         "url": "https://open.spotify.com/album/5ltNYfYnEzOq2z7a1Ctcd1"
       },

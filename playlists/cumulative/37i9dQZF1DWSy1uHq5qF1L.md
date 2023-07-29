@@ -4,7 +4,7 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-71 songs - 3 hr 47 min
+72 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Al di la](https://open.spotify.com/track/6DWU0HQ3O7i3IROJsztChj) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:23 | 2021-08-13 |  |
 | [Anna](https://open.spotify.com/track/4mcLSBFzlsvlolMAqrbV72) | [Giuseppe Caiani](https://open.spotify.com/artist/6grCjLceCOZWUCCndoqkaD) | [Mandolins Italia](https://open.spotify.com/album/6QhuxcVAJVOmBE2VTmNgq9) | 3:36 | 2021-08-13 |  |
 | [Arrivederci Roma](https://open.spotify.com/track/2ifDHe9AIY2c0CwutJtsNI) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 3:30 | 2021-08-13 | 2022-07-29 |
-| [Arrivederci roma](https://open.spotify.com/track/75L4NLXJjuDxE5HOrElDg5) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:35 | 2021-08-13 |  |
+| [Arrivederci Roma](https://open.spotify.com/track/2wRvA2LS1apB9MYV2QzA01) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29) | 3:33 | 2021-08-13 |  |
+| [Arrivederci roma](https://open.spotify.com/track/75L4NLXJjuDxE5HOrElDg5) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:35 | 2021-08-13 | 2023-07-29 |
 | [Carnival of Venice](https://open.spotify.com/track/3IOxAropYEB0VXVbDqpqAd) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 1:35 | 2021-08-13 |  |
 | [Cielito Lindo](https://open.spotify.com/track/2rbUaarjadZWHDFKNCBqWL) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 3:52 | 2021-08-13 |  |
 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 | 2021-08-13 |  |

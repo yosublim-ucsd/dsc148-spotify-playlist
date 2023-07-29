@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 292493,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192600,
       "name": "Lightning In A Jar",
       "url": "https://open.spotify.com/track/6l4hne0l0AnxsjICMnznH5"
@@ -2024,6 +2024,28 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "album": {
+        "name": "No Aphrodisiac (Black Stump)",
+        "url": "https://open.spotify.com/album/5kWKaC2h5CaRZgFqtFDF3V"
+      },
+      "artists": [
+        {
+          "name": "Black Stump Band",
+          "url": "https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p"
+        },
+        {
+          "name": "The Whitlams",
+          "url": "https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178429,
+      "name": "No Aphrodisiac - (Black Stump)",
+      "url": "https://open.spotify.com/track/7xynFxkJJqzol41dmFgtPn"
     },
     {
       "album": {

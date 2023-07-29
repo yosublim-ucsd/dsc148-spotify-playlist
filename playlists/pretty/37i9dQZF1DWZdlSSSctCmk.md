@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,184 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,288 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,19 +82,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 72 | [Tiefer \- Edit](https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [Tiefer](https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14) | 3:34 |
 | 73 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 |
 | 74 | [AO Longo Do Rio](https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 4:34 |
-| 75 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 |
-| 76 | [Closer to You](https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Amo Amo](https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn) | 3:51 |
-| 77 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
-| 78 | [Your Love \(feat\. BLAME\)](https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [BLAME](https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG) | [Your Love \(feat\. BLAME\)](https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9) | 3:10 |
+| 75 | [Closer to You](https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Amo Amo](https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn) | 3:51 |
+| 76 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 |
+| 77 | [Your Love \(feat\. BLAME\)](https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [BLAME](https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG) | [Your Love \(feat\. BLAME\)](https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9) | 3:10 |
+| 78 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 79 | [My Boy \- Edit](https://open.spotify.com/track/0WguORZMIHRuKEyXnzOioL) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [My Boy](https://open.spotify.com/album/6QTWDp9lo8zn2iTVRO9iAd) | 3:29 |
 | 80 | [Verbana \(feat\. Hush Forever\)](https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:55 |
-| 81 | [Rotation](https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 5:11 |
-| 82 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 |
-| 83 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 |
+| 81 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 |
+| 82 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 |
+| 83 | [Rotation](https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 5:11 |
 | 84 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 |
 | 85 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
-| 86 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
-| 87 | [Silver & Gold \- Yarni feat\. Liv East Remix](https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Silver & Gold \(Yarni feat\. Liv East Remix\)](https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef) | 5:00 |
+| 86 | [Silver & Gold \- Yarni feat\. Liv East Remix](https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Silver & Gold \(Yarni feat\. Liv East Remix\)](https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef) | 5:00 |
+| 87 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
 | 88 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
 | 89 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
 | 90 | [Pandajero](https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Cantoma \(Deluxe\)](https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm) | 5:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Tropicololo](https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 5:32 |
 | 100 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 |
 
-Snapshot ID: `MCw1ODE2ZWUxMTY4MmZjOTZlMTYzZWY3YmFkN2IxOTljMzBiZWMxODFl`
+Snapshot ID: `MCxhMzdhNDc2MjY0YmZiOGYzM2I1MTE2MmQ1NDMxNDY4Yzk5YzExYTY2`

@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-239 songs - 15 hr 30 min
+240 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Flowords](https://open.spotify.com/track/3zVfJCVIVGVRDp77uNavZ4) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [For us, summer is always short](https://open.spotify.com/album/3iIP5u0xiYCdeaipxiuMZl) | 3:58 | 2023-07-12 |  |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-07-12 |  |
 | [Foolish](https://open.spotify.com/track/6sjr0RGxsvJfn1olYrUBU2) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Discovery](https://open.spotify.com/album/1SP1YJnXmb53GB5rk6p6B6) | 3:05 | 2022-09-27 | 2023-07-13 |
-| [FRAGILE!](https://open.spotify.com/track/4x6WpVdBQq9FGXccHMHM9w) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:26 | 2023-07-12 |  |
+| [FRAGILE!](https://open.spotify.com/track/4x6WpVdBQq9FGXccHMHM9w) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:26 | 2023-07-12 | 2023-07-29 |
 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 | 2023-07-12 |  |
 | [Future That Never Comes](https://open.spotify.com/track/7KTE0zDJilsV92AppzPkLl) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Future That Never Comes](https://open.spotify.com/album/5LSPgxkmWoM0HPmwn6sW54) | 3:58 | 2022-09-27 | 2023-07-13 |
 | [G CITY! \(You & Me\)](https://open.spotify.com/track/4h8tDVzQReiDPPugrDttrT) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [G CITY! \(You & Me\)](https://open.spotify.com/album/4hPy9ICn1Dpq20q4ZLWEuB) | 3:17 | 2023-07-12 |  |
@@ -113,6 +113,7 @@
 | [I was a Hero](https://open.spotify.com/track/6y2u3p63XWKrJr3PG9YGd3) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [I was a Hero](https://open.spotify.com/album/7o7JkBnQg1EK3kP6JSBKFD) | 3:19 | 2022-09-27 | 2023-07-13 |
 | [If I](https://open.spotify.com/track/7gfuNwrJJdA1IpnN5XJEkA) | [Gonne Choi](https://open.spotify.com/artist/0upRkpiRh4uADfu67ctCog), [Sunwook Kim](https://open.spotify.com/artist/0GWoIoZxx4ZvQLyCXxkX8g) | [XXXY](https://open.spotify.com/album/6m5JLZtFAmfGcd2olUHNBM) | 3:50 | 2023-07-12 |  |
 | [In My City](https://open.spotify.com/track/3NpmqDtpJsnPrbLYKGS5rD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [SIGNATURE](https://open.spotify.com/album/2OgkXsEmU9TsgOcsKCF86t) | 3:44 | 2022-09-27 |  |
+| [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 | 2023-07-28 |  |
 | [It is U](https://open.spotify.com/track/0Cw8bY4cpgjQjwaLyy7AsN) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/73Lo6xFYboCrcfSGcpFfR7) | 3:28 | 2023-07-12 |  |
 | [It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/0sZzWTxbgVrlnvqrJyQYtk) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [Ballad](https://open.spotify.com/album/09h2JA0QVqAIVA4cojLHjd) | 5:39 | 2022-09-27 | 2022-12-03 |
 | [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 | 2022-09-27 |  |

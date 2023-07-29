@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,604 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,608 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 28 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
 | 29 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 30 | [See you ! \(Feat\. SOLE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:45 |
-| 31 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
-| 32 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 31 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 32 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
 | 33 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
 | 34 | [FLOWER \(Prod\. by AVIN\)](https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [FLOWER](https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ) | 4:07 |
 | 35 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 | 50 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
 
-Snapshot ID: `MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm`
+Snapshot ID: `MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm`

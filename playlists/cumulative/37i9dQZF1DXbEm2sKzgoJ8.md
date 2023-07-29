@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-322 songs - 17 hr 51 min
+324 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,10 @@
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2022-03-25 | 2022-10-13 |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-07 |  |
 | [Dark Red](https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr) | 2:53 | 2023-02-03 | 2023-02-21 |
-| [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 |  |
+| [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 | 2023-07-29 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-05 |  |
 | [Divine](https://open.spotify.com/track/3CmK0MAxS1iEfgWpl1oYU9) | [Lindsxy Mesenburg](https://open.spotify.com/artist/6VwDZ6kAtwpng8gGLHTkVz) | [Divine](https://open.spotify.com/album/38bd7BW2lKRNoYSxgaGDdf) | 3:24 | 2022-04-01 | 2022-06-04 |
-| [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-28 |  |
+| [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-28 | 2023-07-29 |
 | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/track/3u8becTPmigEyasAqCaO2Q) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/album/54Ju4fs7XOHyEfjnXxAabD) | 3:17 | 2022-06-17 | 2022-07-28 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-03-25 |  |
 | [Drive By](https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric B for President: Term 1](https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3) | 2:58 | 2021-12-10 | 2022-12-29 |
@@ -258,6 +258,7 @@
 | [Soon](https://open.spotify.com/track/4BT70hNwWTnCYhbal2Crck) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Soon](https://open.spotify.com/album/6uq2PaKJGa3vufKmxgpuBZ) | 3:09 | 2021-12-10 | 2022-07-27 |
 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 | 2022-07-22 | 2022-07-26 |
 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 | 2022-06-24 |  |
+| [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 |  |
 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2021-12-10 |  |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2022-02-04 | 2022-06-30 |
 | [Step Into A Love Like This](https://open.spotify.com/track/2VDvjymJCdhQ0xtG0TwOQO) | [Lauren Hashian](https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y) | [Step Into A Love Like This](https://open.spotify.com/album/1Qqn2cal5zzDLVYso4lawv) | 3:29 | 2021-12-10 | 2022-04-20 |
@@ -265,6 +266,7 @@
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2021-12-10 | 2022-07-29 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2022-07-13 | 2022-09-10 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sunflower \(Spider\-Man: Into the Spider\-Verse\)](https://open.spotify.com/album/47LpgGVshd0tbFSbm9tTLb) | 2:38 | 2022-03-25 | 2022-04-21 |
+| [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-07-28 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-12-09 |  |
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2022-05-17 | 2022-07-29 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-12-10 | 2022-07-29 |

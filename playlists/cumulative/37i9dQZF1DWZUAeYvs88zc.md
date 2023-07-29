@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-473 songs - 1 day 2 hr 39 min
+474 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2023-01-06 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 |  |
-| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
+| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2023-07-29 |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
@@ -205,6 +205,7 @@
 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 | 2019-05-26\* | 2021-10-02 |
 | [ICIMY](https://open.spotify.com/track/6UJRgLizGERIQKtbRsQ80M) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [ICIMY](https://open.spotify.com/album/1bNo33elQbZGDnfydazYCA) | 3:22 | 2019-12-10 | 2021-10-23 |
 | [idc](https://open.spotify.com/track/5cIHoC2VDwGtH9MWgRghb5) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [idc](https://open.spotify.com/album/3AcFWkkRN3J3Q4Dsz0At9l) | 2:33 | 2019-12-20 | 2021-10-27 |
+| [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 | 2023-07-21 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2023-07-27 |
 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2022-03-25 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 | 2023-02-25 |

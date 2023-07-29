@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-58 songs - 3 hr 51 min
+59 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-08-02 |  |
 | [Takkunu Takkunu](https://open.spotify.com/track/7frWUq8m2KNHx82TS6R5Rz) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mr\. Local \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7A1a3MfIKFJv0TrMs6jbPV) | 3:32 | 2021-08-02 |  |
 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 | 2021-08-02 |  |
-| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2021-08-02 |  |
+| [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 | 2021-08-02 |  |
+| [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 | 2021-08-02 | 2023-07-29 |
 | [Un Paarvayil](https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 1:41 | 2021-08-02 |  |
 | [Un Vizhigalil](https://open.spotify.com/track/5fqsWynhQRpoIVeRfRu4yQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:03 | 2021-08-02 |  |
 | [Uyire Un Uyirena](https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Zero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au) | 4:44 | 2021-08-02 |  |

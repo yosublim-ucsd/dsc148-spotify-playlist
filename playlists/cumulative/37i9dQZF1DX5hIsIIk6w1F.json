@@ -2739,6 +2739,32 @@
     },
     {
       "album": {
+        "name": "Fechor\u00edas",
+        "url": "https://open.spotify.com/album/3DMDkiDqZ93H4mLSolDr9e"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188288,
+      "name": "Fechor\u00edas",
+      "url": "https://open.spotify.com/track/1Dio05MzchOAH6vA3IArJi"
+    },
+    {
+      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
       },
@@ -3144,7 +3170,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 229728,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR"
@@ -3270,6 +3296,24 @@
     {
       "album": {
         "name": "Guilla",
+        "url": "https://open.spotify.com/album/4pikmPJvBbNrUasRk80TGl"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/0XhPfqdAqB451Nvg4AEf9D"
+    },
+    {
+      "album": {
+        "name": "Guilla",
         "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
       "artists": [
@@ -3280,7 +3324,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139428,
       "name": "Guilla",
       "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
@@ -4112,7 +4156,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 216615,
       "name": "LAS 2",
       "url": "https://open.spotify.com/track/13bLoJttbnvfG7gURJlT3x"
@@ -4672,6 +4716,32 @@
       "duration_ms": 214883,
       "name": "Maldita HP",
       "url": "https://open.spotify.com/track/53DjXmbgvnes90zUcQVRrT"
+    },
+    {
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/24SQCfj1wJeepwquhHwgPz"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186135,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/3CUB0TdGWnljZI1tQ5ptRx"
     },
     {
       "album": {
@@ -5976,7 +6046,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 193480,
       "name": "Nalgotas",
       "url": "https://open.spotify.com/track/4GmsyaXWkf6z2nMXX6Phsu"
@@ -6374,7 +6444,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 273977,
       "name": "Otro Dia Otro Whisky",
       "url": "https://open.spotify.com/track/50SD0BrZ2aFx1zXvyMib6F"
@@ -8438,6 +8508,24 @@
       "duration_ms": 165679,
       "name": "Siempre Fine",
       "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
+    },
+    {
+      "album": {
+        "name": "Sorry, Estoy en Mi Darkera",
+        "url": "https://open.spotify.com/album/6NK4S0ZPUudBrWThVBz8c3"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199686,
+      "name": "Siempre Pienso en T\u00ed",
+      "url": "https://open.spotify.com/track/6BdKAQJQkKthJdEoTvEJG1"
     },
     {
       "album": {

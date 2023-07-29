@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,695 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,846 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 20 | [Run](https://open.spotify.com/track/6kesIBNAY17BoAz28pnWMC) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 5:54 |
 | 21 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
 | 22 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ), [Derek Varnals](https://open.spotify.com/artist/11lUPJP9GC5j2RRA7zVddw) | [Shades Of A Blue Orphanage](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 |
-| 23 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
+| 23 | [You Made Me the Thief of Your Heart](https://open.spotify.com/track/4Kaactp7PdWvC8stpChpvK) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 6:20 |
 | 24 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
 | 25 | [Comeback Girl](https://open.spotify.com/track/6BikNH6NZ8zYfexFiQGnxA) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:58 |
-| 26 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 27 | [You Made Me the Thief of Your Heart](https://open.spotify.com/track/4Kaactp7PdWvC8stpChpvK) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 6:20 |
+| 26 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
+| 27 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 28 | [Crazy World](https://open.spotify.com/track/5akihxQPVtNGkZV2uAImMY) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Goodbye Charlie Moonhead](https://open.spotify.com/album/2fCCCqys40hYZqNktMAq3T) | 4:32 |
 | 29 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 30 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 40 | [I Still Haven't Found What I'm Looking For \- Live \- Rattle & Hum Version](https://open.spotify.com/track/2yRJduHjhAu85Y3dO5Ftz6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 5:55 |
 | 41 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
 | 42 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
-| 43 | [After All](https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT) | [The Frank And Walters](https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC) | [Trains, Boats and Planes](https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd) | 3:09 |
-| 44 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
+| 43 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
+| 44 | [After All](https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT) | [The Frank And Walters](https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC) | [Trains, Boats and Planes](https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd) | 3:09 |
 | 45 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
-| 46 | [Rocky Took A Lover](https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 4:10 |
-| 47 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
+| 46 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
+| 47 | [Rocky Took A Lover](https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 4:10 |
 | 48 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
 | 49 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 50 | [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 |
 
-Snapshot ID: `MCwyNDEyNzNjNWY4OTVhN2I5MzJhYmRiYThmODc1NjJkYzRlODY0NmJi`
+Snapshot ID: `MCxlM2Q1YTk5NTc3MDdiZmJmZmUwY2ViZjg1YjA5MzJlMjFiY2ZmN2Uz`

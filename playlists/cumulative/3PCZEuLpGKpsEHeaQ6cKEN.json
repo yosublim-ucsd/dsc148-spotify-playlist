@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/2diOxvi3Qc0VcAs7Bcv9xW"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203109,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/4axu2A6Q4GIglXWF5gPLpK"
+    },
+    {
+      "album": {
         "name": "All About U",
         "url": "https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh"
       },
@@ -452,7 +474,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152364,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/1KD25zo2re5wKcMjyMMrJW"
@@ -522,7 +544,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 188679,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o"
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194769,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/5puZ0ipqp3cDEDMErLJ5eo"
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 151820,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
@@ -4829,6 +4851,32 @@
     },
     {
       "album": {
+        "name": "Hide And Seek",
+        "url": "https://open.spotify.com/album/69bbCdYRSAGbOtVHcuNkKu"
+      },
+      "artists": [
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Hide And Seek - Melodic Mix",
+      "url": "https://open.spotify.com/track/3D9wIUikn1gdz1s20nO784"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/6eht4KegFCx2Lb4OM2wzZH"
       },
@@ -4998,6 +5046,24 @@
       "duration_ms": 269973,
       "name": "Hold On To Your Heart",
       "url": "https://open.spotify.com/track/5p2ilHbZd8Utsprba4QaXS"
+    },
+    {
+      "album": {
+        "name": "Hold That Sucker Down",
+        "url": "https://open.spotify.com/album/3pbHUCYWamWQQyysR2cRGG"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153677,
+      "name": "Hold That Sucker Down",
+      "url": "https://open.spotify.com/track/4wYiEOnBrQ7JsEHKS9caA6"
     },
     {
       "album": {
@@ -5544,6 +5610,32 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love (Innellea Remix)",
+        "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218004,
+      "name": "In And Out Of Love - Innellea Remix",
+      "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
     },
     {
       "album": {
@@ -6468,7 +6560,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146250,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/64qE0QLRkG9UKCgktor4bP"
@@ -6862,7 +6954,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 232161,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6nKyPZ2y9SQWqpoEIRomyp"
@@ -6942,6 +7034,28 @@
       "duration_ms": 172538,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"
+    },
+    {
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/50dnrH1GlIVVV7eKxA4jee"
+      },
+      "artists": [
+        {
+          "name": "Kisch",
+          "url": "https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/47sAZtg8EzohOZpqjgsfjC"
     },
     {
       "album": {
@@ -7750,7 +7864,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 215839,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/7eRcSE3L7rLNG3NOyYudLg"
@@ -7886,6 +8000,24 @@
       "duration_ms": 147697,
       "name": "No Fun - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/29TTa7UtQrdHI25hXkIC00"
+    },
+    {
+      "album": {
+        "name": "No No!",
+        "url": "https://open.spotify.com/album/1ag6PpVSShIgJBqWElEMO0"
+      },
+      "artists": [
+        {
+          "name": "Adapter",
+          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "No No!",
+      "url": "https://open.spotify.com/track/5hCegCzO7hAxIdw2F1UwRO"
     },
     {
       "album": {
@@ -8866,6 +8998,24 @@
       "duration_ms": 172478,
       "name": "Psychedelic Girls",
       "url": "https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP"
+    },
+    {
+      "album": {
+        "name": "Pterodactyl",
+        "url": "https://open.spotify.com/album/6bYJ5EJnVk8HUjaHxjh75y"
+      },
+      "artists": [
+        {
+          "name": "Tom Staar",
+          "url": "https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166007,
+      "name": "Pterodactyl",
+      "url": "https://open.spotify.com/track/261SUIkLUbVA1IgdJ0KcjO"
     },
     {
       "album": {
@@ -10174,7 +10324,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 149320,
       "name": "Shatterproof",
       "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
@@ -10196,7 +10346,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
@@ -10214,7 +10364,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165000,
       "name": "Shift",
       "url": "https://open.spotify.com/track/4v8aXQmv4y8UBwjNdZXFq6"
@@ -12926,7 +13076,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 242053,
       "name": "Unlovable",
       "url": "https://open.spotify.com/track/0RpCSYoRQNoUAjYBozv5P4"
@@ -13534,7 +13684,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167619,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW"

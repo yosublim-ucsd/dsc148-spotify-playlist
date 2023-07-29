@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: El Mató a un Policía Motorizado
+> Las nuevas vibras del rock en español\. Cover: División Minúscula
 
-228 songs - 12 hr 44 min
+229 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Corto Circuito](https://open.spotify.com/track/2QRDPXSOlA03Tj6BHPIjH9) | [Sierra León](https://open.spotify.com/artist/0cyhvPv23KSGqLirkaCPyV) | [Corto Circuito](https://open.spotify.com/album/7iLicaTgffN4CToV3nhSv6) | 2:19 | 2022-04-15 | 2022-12-10 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-04-15 | 2023-01-23 |
 | [Cosas \- En Vivo](https://open.spotify.com/track/785NJtM6mR2P6HGO01daQc) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Ya No Estamos Tan Solos \(En Vivo\)](https://open.spotify.com/album/6Heut2zfILDHR5Z7KoRWlN) | 3:32 | 2022-04-15 | 2022-12-10 |
-| [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 | 2023-03-10 |  |
+| [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 | 2023-03-10 | 2023-07-29 |
 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 | 2022-12-09 |  |
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-12-09 | 2023-02-11 |
 | [Dame Love \- Remix](https://open.spotify.com/track/0j87wxNxOQtGxFckt6w820) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dame Love \(Remix\)](https://open.spotify.com/album/0nER2H7WylrN5QzZ39aRnR) | 3:11 | 2022-04-15 | 2022-09-07 |
@@ -85,7 +85,7 @@
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [Fallaste](https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Fallaste](https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P) | 2:36 | 2023-06-16 |  |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-04-23 |
-| [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
+| [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 | 2022-12-23 | 2023-01-16 |
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Golly](https://open.spotify.com/track/45G6zyppoH1QYioyFisbBU) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/4qAKzGLGB4vFMF60Lt9Wfb) | 4:35 | 2022-04-15 | 2022-12-10 |
@@ -214,6 +214,7 @@
 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 | 2022-12-16 | 2023-07-08 |
 | [Todo Lo Que Siento](https://open.spotify.com/track/5TXAz4xkugCDaACTdtANKN) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:17 | 2022-07-19 | 2022-12-10 |
 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 | 2022-04-15 | 2022-12-10 |
+| [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 | 2023-07-28 |  |
 | [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 | 2023-02-24 | 2023-05-28 |
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-03 | 2023-04-15 |
 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 | 2023-06-02 |  |

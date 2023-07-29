@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Newport\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,836 likes - 98 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,837 likes - 98 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 97 | [Bada Dada](https://open.spotify.com/track/06S2LkT74xmeg2TiylYa8y) | [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [Bada Dada](https://open.spotify.com/album/3vBFqmvYM9XYwRwEJcO9RY) | 3:27 |
 | 98 | [Cloud Dancing](https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Cloud Dancing](https://open.spotify.com/album/7fkki65cI89IRPRiCaobTB) | 3:26 |
 
-Snapshot ID: `MCw3ZWJkNTliOTcxMjI3Yzk3ZmQwNzcxZWY0ZDE0N2ZiZjIyZTQ2YzQ5`
+Snapshot ID: `MCw0ZGYzOGMxMWIwM2U1YTE2NTJmZGQ2NTZjODA2NjU1Yjk2ODhkYzFi`

@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-127 songs - 7 hr 0 min
+128 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Lighters](https://open.spotify.com/track/3LzYPwXiaFbqR205cqMvUY) | [Angel Edwards](https://open.spotify.com/artist/5aTxliDWUENg3Gv9UeAkPu) | [Lighters](https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu) | 3:25 | 2021-12-10 |  |
 | [Little Obsessed](https://open.spotify.com/track/2ZtgCMvuLICClTCq5UogMu) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Little Obsessed](https://open.spotify.com/album/2lG5vFafefPqL3g8UNNTVi) | 3:50 | 2021-12-10 | 2023-04-22 |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |
+| [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 | 2023-07-28 |  |
 | [Made For This](https://open.spotify.com/track/62rjdkhu3J2U0QNJ6F7wQh) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [Made For This](https://open.spotify.com/album/4MpYNH0tUSt3eQoYAwvFmi) | 3:55 | 2021-12-10 | 2023-04-22 |
 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 | 2022-02-11 |  |
 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 | 2021-12-10 |  |

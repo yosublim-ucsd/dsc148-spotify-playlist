@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 154853,
+  "num_followers": 155181,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWVmOTZmMjIxNzFiNjFhY2EwMWE0ZGRjMGVkY2EyMDliMTYxM2Rk",
+  "snapshot_id": "MCxlNzRiOTU3NzcwOTliOTZjYTU3Njk4NDZjNjU1ZjdhMDg0OTVjODdk",
   "tracks": [
     {
       "added_at": "2023-07-26 10:40:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 210549,
-      "name": "We Lost The Summer",
-      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
-    },
-    {
-      "added_at": "2023-07-26 10:40:51",
-      "album": {
         "name": "KARD 5th Mini Album 'Re:'",
         "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 185053,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
+    },
+    {
+      "added_at": "2023-07-26 10:40:51",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "SPECIAL ALBUM <For the Summer>",
-        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
       },
       "artists": [
         {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
         }
       ],
-      "duration_ms": 183787,
-      "name": "Boogie Up",
-      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
+      "duration_ms": 166800,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Summer or Summer",
-        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
+        "name": "SPECIAL ALBUM <For the Summer>",
+        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
       },
       "artists": [
         {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        },
-        {
-          "name": "DASOM",
-          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Summer or Summer",
-      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+      "duration_ms": 183787,
+      "name": "Boogie Up",
+      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

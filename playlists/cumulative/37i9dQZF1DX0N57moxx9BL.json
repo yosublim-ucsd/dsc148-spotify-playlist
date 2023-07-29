@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr?si=e5058065479e4f97\">Thousand Foot Krutch</a> and <a href=\"https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk?si=0da24d47e12746eb\">Adelitas Way</a>",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 201226,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 229500,
       "name": "Become Everything I Hate",
       "url": "https://open.spotify.com/track/1xn3puc4CysCV0UqbLPDtb"
@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
+    },
+    {
+      "album": {
         "name": "Blood On Me",
         "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 203702,
       "name": "Blood On Me",
       "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
@@ -933,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+    },
+    {
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -948,7 +984,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
@@ -1255,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Divided Frame Of Mind",
+        "url": "https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177569,
+      "name": "Holding Me Up",
+      "url": "https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ"
+    },
+    {
+      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
@@ -1836,7 +1890,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 242506,
       "name": "Ready to Roll",
       "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 227486,
       "name": "Rise to the Call",
       "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
@@ -2154,7 +2208,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
@@ -2230,6 +2284,24 @@
       "duration_ms": 248392,
       "name": "The Antihero",
       "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
+    },
+    {
+      "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216560,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
     },
     {
       "album": {
@@ -2320,6 +2392,28 @@
       "duration_ms": 232066,
       "name": "The Resistance",
       "url": "https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh"
+    },
+    {
+      "album": {
+        "name": "The Seventh Seal",
+        "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
+      },
+      "artists": [
+        {
+          "name": "All For The King",
+          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
+        },
+        {
+          "name": "Ulf Christiansson",
+          "url": "https://open.spotify.com/artist/14dnSBT7oYepXKo7iqsq58"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214728,
+      "name": "The Seventh Seal (feat. Ulf Christiansson)",
+      "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
     },
     {
       "album": {
@@ -2460,10 +2554,50 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 248972,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "album": {
+        "name": "War of Change",
+        "url": "https://open.spotify.com/album/7Jl5wUb5M6nQ8Fmyee3czI"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198673,
+      "name": "War of Change - 2023",
+      "url": "https://open.spotify.com/track/1ZEozdTpkYk0FYJ24YWj7t"
     },
     {
       "album": {
@@ -2514,7 +2648,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "We Never Die",
       "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
@@ -2676,7 +2810,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"

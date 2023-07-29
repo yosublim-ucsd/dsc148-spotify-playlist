@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,634 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,638 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 56 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 57 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 | 58 | [Filosofia de Boteco](https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Perfil](https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe) | 4:10 |
-| 59 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
+| 59 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
 | 60 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
 
-Snapshot ID: `MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl`
+Snapshot ID: `MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3`

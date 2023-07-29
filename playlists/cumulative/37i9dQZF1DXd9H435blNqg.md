@@ -4,12 +4,13 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-111 songs - 6 hr 15 min
+112 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 | 2021-02-12 |  |
 | [29 Gold Stars](https://open.spotify.com/track/6YTnk0HV9upkntv86skGcR) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [29 Gold Stars](https://open.spotify.com/album/5cz2W08tqtvSdTBR96IN9b) | 2:25 | 2021-02-12 | 2022-07-29 |
+| [Ain't Nobody \(Pain\)](https://open.spotify.com/track/6tS0Y2R790LQSSoepR6wlW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:27 | 2023-07-28 |  |
 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 | 2021-02-12 |  |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 |  |
 | [Beautiful Women](https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [To Whom It May Concern,](https://open.spotify.com/album/15FWLsNkClkSb0DLGO7H27) | 2:53 | 2023-05-19 |  |
@@ -76,7 +77,7 @@
 | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/track/7EhHLLq7Q9djkr36bvRfBr) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/album/6CBVX1JoEZLgo8t53RJ4Ds) | 4:42 | 2022-04-22 | 2023-06-24 |
 | [Love Your Lies](https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 2:47 | 2021-02-12 |  |
 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:10 | 2023-06-23 |  |
-| [Never Give Up](https://open.spotify.com/track/1LwyCWyGUsiZCBCaSNRfn1) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 1:06 | 2021-02-12 |  |
+| [Never Give Up](https://open.spotify.com/track/1LwyCWyGUsiZCBCaSNRfn1) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 1:06 | 2021-02-12 | 2023-07-29 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 | 2021-02-12 |  |
 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 | 2022-08-31 |  |

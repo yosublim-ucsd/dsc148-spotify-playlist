@@ -2,9 +2,9 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Recent hits and new songs from your fave artists\. Cover: Noah Kahan & Post Malone
+> Recent hits and new songs from your fave artists\. Cover: Tyler Childers
 
-1,203 songs - 2 day 18 hr 19 min
+1,204 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [In Real Life](https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9) | 3:52 | 2022-03-11 | 2022-04-09 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-29 |  |
 | [In the Water \(with Quinn XCII\)](https://open.spotify.com/track/3zSd6aaPHeaSmDSZfQ1G3m) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [In the Water \(with Quinn XCII\)](https://open.spotify.com/album/7hguP7TuWZMgS7RSLd4Eqy) | 2:20 | 2021-04-17 | 2021-06-16 |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-28 |  |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-10-16 | 2022-03-12 |
 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-07 | 2022-10-29 |
 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 | 2020-04-10 | 2020-05-01 |
@@ -1205,7 +1206,7 @@
 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 | 2022-09-23 | 2022-11-12 |
 | [Young](https://open.spotify.com/track/7pGtuhBhQxQGzMvclqwbj4) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Young](https://open.spotify.com/album/0EdifvixNPW5DTuMk3V6eu) | 3:43 | 2019-05-26\* | 2019-08-13 |
 | [Young & Alive](https://open.spotify.com/track/5RsKelNxucrDxgMbZ3vd3W) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Young & Alive](https://open.spotify.com/album/4UoEi8sYhfBkFEkvZDfb74) | 2:40 | 2020-04-10 | 2020-05-16 |
-| [Young & In Love](https://open.spotify.com/track/1dj8VrsGGLhBGuQctmL58F) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Young & In Love](https://open.spotify.com/album/6l4uNHIP9IoOl8AwTdY2Nc) | 2:18 | 2023-07-07 |  |
+| [Young & In Love](https://open.spotify.com/track/1dj8VrsGGLhBGuQctmL58F) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Young & In Love](https://open.spotify.com/album/6l4uNHIP9IoOl8AwTdY2Nc) | 2:18 | 2023-07-07 | 2023-07-29 |
 | [Young And In Love](https://open.spotify.com/track/4uBwFIBwZcgHNvwNjOqICX) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 3:28 | 2019-06-28 | 2019-11-02 |
 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2022-09-02 | 2022-10-01 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-11-06 | 2021-12-11 |

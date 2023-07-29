@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,370 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,588 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 88 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 |
 | 89 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 90 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 |
-| 91 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 |
+| 91 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 |
 | 92 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
 | 93 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 |
 | 94 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 99 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 100 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 |
 
-Snapshot ID: `MCwxNWNkMGVkNzEzZjZhMjdkMmUxY2I5OWMwNWVlZTczY2IwNjIwYzE4`
+Snapshot ID: `MCw4NzY4YTAxODdkNjA3MmRkMzY4OGUxYmE0MDcwNzUxMjVkNDc5Yjkw`

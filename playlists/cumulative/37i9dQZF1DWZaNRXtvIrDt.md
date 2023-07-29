@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: STÜM
 
-369 songs - 1 day 3 hr 21 min
+370 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 | 2022-12-08 | 2023-02-24 |
 | [Ribs \- Joe Hertz Remix](https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Ribs \(Joe Hertz Remix\)](https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p) | 3:48 | 2023-06-08 |  |
 | [Ride For Me](https://open.spotify.com/track/7FqFB8cdeF0OLxK13fBnui) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj), [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Ride For Me](https://open.spotify.com/album/3EJyCfiZvfwzbWYyVhVCoa) | 2:54 | 2023-06-01 |  |
-| [Right Here It's Only Love](https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 3:26 | 2023-07-27 |  |
+| [Right Here It's Only Love](https://open.spotify.com/track/26jpPNfMDwJGtv5B0pWudA) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 3:26 | 2023-07-27 | 2023-07-29 |
+| [Right Here It's Only Love](https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 3:26 | 2023-07-27 |  |
 | [Rosie](https://open.spotify.com/track/5HL3P5ADpJ6dIFIS2zsG9I) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Rosie // On2](https://open.spotify.com/album/2FrNlhkVR83ZNQKJzQpmjj) | 4:54 | 2023-05-18 | 2023-07-21 |
 | [Rosso Profondo](https://open.spotify.com/track/6M9VBE2zlGQa3cT6VNzgeB) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5ABj3AqPtraY5zeMjymw0k) | 5:33 | 2022-12-08 | 2023-01-13 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-12 | 2023-03-10 |

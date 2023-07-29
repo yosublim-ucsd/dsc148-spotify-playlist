@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 511798,
+  "num_followers": 511904,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFkZWY5ZWZhNzcyNDRkNDY2NTk0ZTlmYjhmYTIwOTVkNDA4MmI2",
+  "snapshot_id": "MCw1ZTc1OTk1ZTYzZjNkNjVmNjIyOGMyYjI5MzY3ZmUyMmMxNWJmMTM3",
   "tracks": [
     {
       "added_at": "2023-07-07 18:46:24",
@@ -39,22 +39,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Slave to Love",
         "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 211191,
       "name": "Slave to Love",
       "url": "https://open.spotify.com/track/28xiVJLGLwEHNFDzXKUIdY"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Selected Recordings",
         "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 541680,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "The Best Of Chick Corea",
         "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 216706,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 209813,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -951,26 +951,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "ONCE: Concierto para Dos",
-        "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
       "artists": [
         {
-          "name": "Patricia Sosa",
-          "url": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        },
-        {
-          "name": "Dany Leis",
-          "url": "https://open.spotify.com/artist/3OW30xu7VWd5FZprAF4oE9"
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 225985,
-      "name": "Me Has Echado al Olvido",
-      "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
+      "duration_ms": 184626,
+      "name": "Going Out Of My Head",
+      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1007,6 +999,46 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "ONCE: Concierto para Dos",
+        "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Sosa",
+          "url": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        },
+        {
+          "name": "Dany Leis",
+          "url": "https://open.spotify.com/artist/3OW30xu7VWd5FZprAF4oE9"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Me Has Echado al Olvido",
+      "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1031,18 +1063,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
       "artists": [
         {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
         }
       ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1059,38 +1091,6 @@
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Going Out Of My Head",
-      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
-      },
-      "artists": [
-        {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
-        }
-      ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Fantasia Cubana: Variations On Classical Themes",
-        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Chopin: Prelude In E-Minor",
-      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -1195,22 +1175,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Fantasia Cubana: Variations On Classical Themes",
+        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 320480,
-      "name": "Solo Esta Soledad",
-      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+      "duration_ms": 270066,
+      "name": "Chopin: Prelude In E-Minor",
+      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1235,6 +1215,42 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Solo Esta Soledad",
+      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 324066,
       "name": "Sunny (feat. Aymee Nuviola)",
       "url": "https://open.spotify.com/track/63N8X6IbVc786Hv5yVMuo3"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 321420,
       "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
       "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
+        "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 568773,
+      "name": "Guarachi Guaro - Live",
+      "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 425333,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
-        "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 568773,
-      "name": "Guarachi Guaro - Live",
-      "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
     }
   ],
   "unique_name": "Latin Jazz",

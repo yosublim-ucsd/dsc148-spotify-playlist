@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 251267,
+  "num_followers": 251529,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
+  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 172067,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "VAMPIR",
@@ -231,6 +215,22 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "I Spit On Your Grave",
+        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 235500,
       "name": "Heaviness",
       "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "I Spit On Your Grave",
-        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
-      },
-      "artists": [
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "I Spit On Your Grave",
-      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "RedZone / Dead or Alive",
+        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "RedZone",
+      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Don't Wait",
@@ -811,22 +827,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "RedZone / Dead or Alive",
-        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
-      },
-      "artists": [
-        {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "RedZone",
-      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
-        }
-      ],
-      "duration_ms": 212530,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
       "artists": [
         {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
         }
       ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+      "duration_ms": 212530,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1067,6 +1051,22 @@
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Satellites (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 78531,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1173,42 +1173,6 @@
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
     },
     {
-      "added_at": "2023-07-11 13:39:19",
-      "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Kings Today",
-        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
-      },
-      "artists": [
-        {
-          "name": "Sicksense",
-          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
-        },
-        {
-          "name": "Vicky Psarakis",
-          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
-        }
-      ],
-      "duration_ms": 235954,
-      "name": "Kings Today",
-      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1231,6 +1195,26 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Kings Today",
+        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
+      },
+      "artists": [
+        {
+          "name": "Sicksense",
+          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
+        },
+        {
+          "name": "Vicky Psarakis",
+          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+        }
+      ],
+      "duration_ms": 235954,
+      "name": "Kings Today",
+      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "be no one",
         "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 261206,
       "name": "be no one",
       "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
+    },
+    {
+      "added_at": "2023-07-11 13:39:19",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
-      },
-      "artists": [
-        {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
-    },
-    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Sun Up To Sun Down (Remix)",
@@ -1347,6 +1331,22 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Synopsis",
+        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
+      },
+      "artists": [
+        {
+          "name": "Mountain Eye",
+          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Synopsis",
+      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     },
     {
       "added_at": "2022-11-18 01:42:16",

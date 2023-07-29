@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: BOYS LIKE GIRLS
 
-1,211 songs - 2 day 12 hr 30 min
+1,212 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 | 2023-04-20 | 2023-05-19 |
 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 | 2023-02-24 | 2023-04-14 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-04-08 |
+| [Fall Apart](https://open.spotify.com/track/5NYTMw9LKD1l0KSQgcS8HG) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Fall Apart](https://open.spotify.com/album/7FNAUPTB5IFHkuqJ64vv2y) | 3:38 | 2023-07-27 |  |
 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 | 2021-12-17 | 2022-03-11 |
 | [False Dawn \- Single Edit](https://open.spotify.com/track/6DF3IQ38l2vvd0f3J9vuTQ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [False Dawn](https://open.spotify.com/album/6Td1f77DXw9wUXuz68Ki92) | 3:57 | 2023-05-18 |  |
 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-08 | 2022-10-21 |

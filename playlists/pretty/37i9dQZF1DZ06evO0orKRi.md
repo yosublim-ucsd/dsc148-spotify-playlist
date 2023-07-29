@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,534 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,545 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 24 | [The Bloke Who Serves The Beer](https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:00 |
 | 25 | [Mechanised Swaggie](https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:15 |
 | 26 | [The Man From Snowy River](https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 7:43 |
-| 27 | [Dieseline Dreams](https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Trucks On The Track](https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit) | 3:23 |
-| 28 | [Where Country Is \- 1998 Remaster](https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:49 |
+| 27 | [Where Country Is \- 1998 Remaster](https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:49 |
+| 28 | [Dieseline Dreams](https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Trucks On The Track](https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit) | 3:23 |
 | 29 | [Boomaroo Flyer](https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:32 |
 | 30 | [A Bad Day's Fishin'](https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 2:36 |
 | 31 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 40 | [No Good Truckin' Man](https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 2:30 |
 | 41 | [I'm Married To My Bulldog Mack \- 2009 Digital Remaster](https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:18 |
 | 42 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 |
-| 43 | [Some Things Never Change Out Here](https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 2:58 |
+| 43 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
 | 44 | [Something In The Pilliga](https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:00 |
-| 45 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
+| 45 | [Some Things Never Change Out Here](https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 2:58 |
 | 46 | [Sittin' On The Old Front Verandah](https://open.spotify.com/track/0RHonCLjFf9Xsu8dD0Ew4k) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Son of Noisy Dan](https://open.spotify.com/album/0bADhBUI8wtRyyftPcEw9h) | 2:56 |
 | 47 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 |
 | 48 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 
-Snapshot ID: `MjgxNzQzNzksMDAwMDAwMDBhZWY0NzFlOTYyZDEzYmJkYzJkOGM3YmI1ZTFkMmU3Ng==`
+Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBlNmY1MjRlOTRjNGIxNTg0MjJmNDJkMjM2ODEzNWFkMA==`

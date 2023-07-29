@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Gigantia",
+        "url": "https://open.spotify.com/album/2Eyevi4paab5SHW0pgCRuR"
+      },
+      "artists": [
+        {
+          "name": "Boston 168",
+          "url": "https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339940,
+      "name": "Gigantia",
+      "url": "https://open.spotify.com/track/2W0okYa253wH35AgMldHDT"
+    },
+    {
+      "album": {
         "name": "Gloomy Heart",
         "url": "https://open.spotify.com/album/3rwYUE8VLBZs7huDoI7gvq"
       },

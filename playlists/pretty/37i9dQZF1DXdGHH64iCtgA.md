@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,561 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,602 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 40 | [Set Me Free \- Extended Mix](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free \(Extended Mix\)](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 |
 | 41 | [Zhudio54](https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [DREAMLAND \(DELUXE\)](https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO) | 3:48 |
 | 42 | [Boylife in EU](https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A) | 3:36 |
-| 43 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
-| 44 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
+| 43 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
+| 44 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
 | 45 | [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 |
 | 46 | [Suricate](https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:15 |
 | 47 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 |
 | 100 | [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 |
 
-Snapshot ID: `MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj`
+Snapshot ID: `MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj`

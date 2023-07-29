@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Imagine Dragons
 
-207 songs - 16 hr 13 min
+208 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Back For Good \- Progress Tour Live / 2011](https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress Live](https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR) | 5:14 | 2022-04-14 |  |
 | [Because Of You \- Nissan Live Sets At Yahoo! Music](https://open.spotify.com/track/4zPZeYuv4HBlZITBgBzjBS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Nissan Live Sets At Yahoo! Music](https://open.spotify.com/album/6NEzXXoQlQqLROVlqpXJHX) | 3:50 | 2022-04-14 | 2022-07-29 |
 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 | 2022-04-14 |  |
-| [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-04-14 |  |
+| [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-04-14 | 2023-07-29 |
+| [Bones \- Live in Vegas](https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons Live in Vegas](https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0) | 4:03 | 2023-07-28 |  |
 | [Breathe Me](https://open.spotify.com/track/6LuJxDGp0ASyAlSZN64bR0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Live from Sydney](https://open.spotify.com/album/623a0m3oqPh5SzrTOPxudd) | 6:06 | 2022-04-29 | 2022-08-16 |
 | [Breathe Me \- Live](https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 5:52 | 2022-04-14 |  |
 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 | 2022-04-14 |  |
@@ -154,7 +155,7 @@
 | [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 | 2022-04-14 | 2022-04-20 |
 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 | 2022-04-14 |  |
 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 | 2022-04-14 |  |
-| [Shots \- Live From Spotify London](https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 3:32 | 2022-04-14 |  |
+| [Shots \- Live From Spotify London](https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 3:32 | 2022-04-14 | 2023-07-29 |
 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 | 2022-04-14 |  |
 | [Sisters Are Doin' It for Themselves \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/1Z8ebfG3iPccjrgeqV9G8h) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:26 | 2022-04-14 | 2022-07-21 |
 | [Slave to Love \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/12tg7YyxM5PWXz66U2kyrU) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 3:41 | 2022-04-14 | 2022-07-29 |
@@ -173,7 +174,7 @@
 | [Take A Chance On Me \- Live](https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 4:25 | 2022-04-14 |  |
 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 | 2022-04-29 |  |
 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 | 2022-04-14 | 2022-07-12 |
-| [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 | 2022-04-14 | 2023-07-26 |
+| [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 | 2022-04-14 |  |
 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 | 2022-04-14 | 2022-07-28 |
 | [Take Your Mama \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/7igDjypA2A9moTbMPzB54A) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:51 | 2022-04-14 | 2022-07-21 |
 | [thank u, next \- live](https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 6:29 | 2022-04-14 |  |

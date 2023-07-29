@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Bad Things (Sped Up)",
+        "url": "https://open.spotify.com/album/5KagIh6QAHKnfcAQelJW5h"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189707,
+      "name": "Bad Things - Sped Up",
+      "url": "https://open.spotify.com/track/01Ag73XJaADRBQZYfSArbV"
+    },
+    {
+      "album": {
         "name": "BALENCI FLEECE",
         "url": "https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 206966,
       "name": "Car's Outside - Sped Up Version",
       "url": "https://open.spotify.com/track/6OmKbLCskNWi1IcfpZbeJc"
+    },
+    {
+      "album": {
+        "name": "Charm (Sped Up)",
+        "url": "https://open.spotify.com/album/6ZyvbwsTpWOiFlGmqCrkxd"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162510,
+      "name": "Charm - Sped Up",
+      "url": "https://open.spotify.com/track/2SOuZn3QpmcdL8HdU5pmvG"
     },
     {
       "album": {
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 139182,
       "name": "Maneater - Sped Up",
       "url": "https://open.spotify.com/track/5REQaVsZFgqCEKYY8evZ0I"
@@ -2884,6 +2920,32 @@
       "duration_ms": 215980,
       "name": "Memories - Sped Up",
       "url": "https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac"
+    },
+    {
+      "album": {
+        "name": "Mess Around (feat. EARTHGANG) [Sped Up + Slowed Down]",
+        "url": "https://open.spotify.com/album/5MyfQzicFQZsCm9AvJdKVF"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195855,
+      "name": "Mess Around (feat. EARTHGANG) - Sped Up",
+      "url": "https://open.spotify.com/track/61mhn7nRAGe4XG5imC5QYK"
     },
     {
       "album": {
@@ -3206,7 +3268,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 231425,
       "name": "Normalize - Sped Up",
       "url": "https://open.spotify.com/track/6OPMHp5KfL6U13nM02f1oa"

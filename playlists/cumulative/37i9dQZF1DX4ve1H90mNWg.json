@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 162305,
       "name": "200 P's",
       "url": "https://open.spotify.com/track/4LgPVu5gAUbLjzWbh3nIh7"
@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Don't Like Me",
+        "url": "https://open.spotify.com/album/2k7lOOiEmerUPSuIftNvk4"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141125,
+      "name": "Don\u2019t Like Me",
+      "url": "https://open.spotify.com/track/6ULzrOfL5CveQ6U6duTPNm"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ"
       },
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 234693,
       "name": "Givin\u2019 Up (Not The One) (Don Toliver & 21 Savage, 2 Chainz)",
       "url": "https://open.spotify.com/track/0KoBrntyQ2x6Y1eZwgGe5P"
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 165457,
       "name": "It Girl - Freestyle",
       "url": "https://open.spotify.com/track/3XGWBonwHw1qOsG8OzQprB"
@@ -4391,6 +4409,32 @@
     },
     {
       "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/53wCzAlDpewIIBv071K7xL"
       },
@@ -4402,7 +4446,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 180000,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/1qMPDuh8E1E0fhFVOiCNSv"
@@ -4438,7 +4482,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154409,
       "name": "Ketchup",
       "url": "https://open.spotify.com/track/1QblIMrTkkOit34Xu07bFJ"
@@ -4631,7 +4675,7 @@
       "artists": [
         {
           "name": "EzMoney",
-          "url": "https://open.spotify.com/artist/24uRtNcoIdW3IYh2se3Jg7"
+          "url": "https://open.spotify.com/artist/3mGWLyibYwALhcgS84ASws"
         }
       ],
       "date_added": "2023-07-18",
@@ -4735,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "Lil Fish, Big Pond",
+        "url": "https://open.spotify.com/album/6JznnjXuTAJkN2N6fFXWt9"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154417,
+      "name": "Lil Fish, Big Pond",
+      "url": "https://open.spotify.com/track/3TvFUCXBX98jXJ9aIts2Na"
+    },
+    {
+      "album": {
         "name": "Line 'Em Up (feat. Rob49)",
         "url": "https://open.spotify.com/album/4XA1kWhx65XYsQvRHIEWQ0"
       },
@@ -4750,7 +4812,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 176385,
       "name": "Line 'Em Up (feat. Rob49)",
       "url": "https://open.spotify.com/track/3DkIGKjZBE1tTXEczu59Vd"
@@ -5407,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Miss Me Yet?",
+        "url": "https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174655,
+      "name": "Miss Me Yet?",
+      "url": "https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO"
+    },
+    {
+      "album": {
         "name": "Miss My Dawgs",
         "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
       },
@@ -5956,7 +6036,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 181024,
       "name": "Not My N*gga - Extended",
       "url": "https://open.spotify.com/track/0PQ2ATMw6qnBmKgTjSeRSQ"
@@ -5978,6 +6058,28 @@
       "duration_ms": 181024,
       "name": "Not My N*gga Extended",
       "url": "https://open.spotify.com/track/281hW1bpZ523dJdtspABeh"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares To You (Feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Nothing Compares To You (Feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
     },
     {
       "album": {
@@ -6158,7 +6260,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160000,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
@@ -6871,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "Monday Morning",
+        "url": "https://open.spotify.com/album/1yDOQ6RP1g3Z0k7wS0V2Qe"
+      },
+      "artists": [
+        {
+          "name": "Delishia J",
+          "url": "https://open.spotify.com/artist/09crxlMyW5sgP5fnp1q94P"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230043,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/2ww9GlMlxUJm18MmeEMpIN"
+    },
+    {
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/576p9th3PrurpjwAuwnjlW"
       },
@@ -6992,7 +7112,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 167053,
       "name": "Ratchet",
       "url": "https://open.spotify.com/track/6icilkeeG1XBU1EqDgQrWK"
@@ -7134,7 +7254,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 152000,
       "name": "Replacement",
       "url": "https://open.spotify.com/track/4sesuIEYPhGwC2daNc0PkU"
@@ -7276,7 +7396,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 177637,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3tlNc5CDNUNYWAPoXZNkG2"
@@ -8172,10 +8292,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160076,
       "name": "Soulmate (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/5QNMaR3NKsomdP6B788Y58"
+    },
+    {
+      "album": {
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/28yNjncsY4w451fAVeF34H"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160076,
+      "name": "Soulmate (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/63ieQGuar4OxGgCn8wofOR"
     },
     {
       "album": {
@@ -9050,6 +9192,28 @@
       "duration_ms": 184163,
       "name": "The Electron Song",
       "url": "https://open.spotify.com/track/4kdACYAvg7jO1e6beZhQtF"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
     },
     {
       "album": {

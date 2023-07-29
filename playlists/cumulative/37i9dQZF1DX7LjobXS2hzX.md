@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: TALK
+> Voici les hits du moment\. Photo: Milky Chance
 
 272 songs - 14 hr 20 min
 

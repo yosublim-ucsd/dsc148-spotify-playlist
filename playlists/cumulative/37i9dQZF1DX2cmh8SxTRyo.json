@@ -652,10 +652,32 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 328746,
       "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
       "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
+    },
+    {
+      "album": {
+        "name": "5 Years of mau5",
+        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328733,
+      "name": "Ghosts 'n' Stuff - Extended Mix",
+      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
     },
     {
       "album": {

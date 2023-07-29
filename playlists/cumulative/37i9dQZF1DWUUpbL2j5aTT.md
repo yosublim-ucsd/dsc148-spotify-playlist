@@ -2,9 +2,9 @@
 
 ### [House Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUUpbL2j5aTT)
 
-> The best of Brazilian House and Deep House\. Photo: SPECT3R
+> The best of Brazilian House\. Photo: FBC
 
-67 songs - 4 hr 14 min
+68 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [350°F \- VIP Mix](https://open.spotify.com/track/6FAs2FDoLH3SazWNLfpqMi) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [LABURY](https://open.spotify.com/artist/6VGpi9Vjghz6d2bcEOLQfw) | [350°F](https://open.spotify.com/album/3SqC2hYji3YNIHGPMdxQsX) | 3:29 | 2023-07-21 |  |
 | [About Love](https://open.spotify.com/track/5pbB8cnLWb0vzMtI88Zeci) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [About Love](https://open.spotify.com/album/3aV1WLbnBt3ixeoIi27RE4) | 4:04 | 2023-07-21 |  |
 | [Addictive](https://open.spotify.com/track/1h99HGj5wwNX1DqoJRpPDv) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Addictive](https://open.spotify.com/album/6sZycycWxSmPtRRrarYJSU) | 2:45 | 2023-07-21 |  |
+| [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 |  |
 | [Anyway](https://open.spotify.com/track/1D2k8w6a7pGgm01Q3xLiae) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Anyway](https://open.spotify.com/album/4eTG5fu0MGHN1DjgqoxQaB) | 3:16 | 2023-07-21 |  |
 | [Back To Love](https://open.spotify.com/track/7p7W3U6Eo39Y125LYbdtyg) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu) | [Back To Love](https://open.spotify.com/album/6x0vkrPeOWUXqRyvfDIErh) | 3:27 | 2023-07-21 |  |
 | [Bad Boy](https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/21QkoaGK1l2eEHI7y1SEc0) | 2:59 | 2023-07-21 |  |

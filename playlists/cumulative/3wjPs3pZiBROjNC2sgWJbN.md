@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Coco Jones! Cover: Coco Jones
 
-135 songs - 7 hr 50 min
+137 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-12 | 2023-02-01 |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-06-09 | 2022-12-20 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-06-09 | 2023-02-01 |
-| [Human Nature](https://open.spotify.com/track/227BnZAC6IhqmGh53dOaVd) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:49 | 2022-10-31 |  |
+| [Human Nature](https://open.spotify.com/track/227BnZAC6IhqmGh53dOaVd) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:49 | 2022-10-31 | 2023-07-29 |
 | [Human Nature](https://open.spotify.com/track/2O4ozunvDzSrudXWFOSu8v) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [Human Nature](https://open.spotify.com/album/61VfXvK5kfcX5IFevWAtON) | 3:49 | 2022-09-24 | 2022-11-01 |
 | [Hurt Me So Good](https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:31 | 2022-12-19 | 2023-02-01 |
 | [I Hate U](https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:53 | 2022-12-19 | 2023-03-22 |
@@ -109,6 +109,7 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-08-31 | 2022-09-10 |
 | [Rent Money \(feat\. Dave East\)](https://open.spotify.com/track/31GVq6oNgcw67sXJtlvfRp) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:49 | 2022-06-09 |  |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-06-09 |  |
+| [Save Me](https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Save Me](https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz) | 2:11 | 2023-07-27 |  |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-09 | 2022-08-13 |
 | [Screwin \(with Omarion\)](https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 5:33 | 2022-06-29 | 2022-07-09 |
 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 | 2022-08-12 | 2023-02-01 |
@@ -129,6 +130,7 @@
 | [Switch A Nigga Out](https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:57 | 2022-06-09 |  |
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-19 |  |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-04-06 |  |
+| [The Switch](https://open.spotify.com/track/567i99pRwCcuu8ukhYbqJv) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:47 | 2023-07-27 |  |
 | [This Christmas](https://open.spotify.com/track/4gg8cqMICsKsLBE6R36pP7) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:19 | 2022-12-19 | 2023-02-01 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-05-22 |  |
 | [Tipsy](https://open.spotify.com/track/3rshg8fOyT2sjPZy7mnhlZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Tipsy](https://open.spotify.com/album/1ppJv1ob2g180U4mHFJ8lc) | 2:53 | 2022-11-28 | 2023-02-01 |

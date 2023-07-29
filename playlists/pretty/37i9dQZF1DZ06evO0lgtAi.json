@@ -1,15 +1,15 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 12672,
+  "num_followers": 12725,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzQzNzksMDAwMDAwMDA0NzU5MjI2MjMyZGU0NGRmYzQ3ODU5OGY1MWNjM2U3NQ==",
+  "snapshot_id": "MjgxNzU4MzgsMDAwMDAwMDA3M2Q0NWE5NTZlNjRlYjQwMzBkY2EzZTIxMmMzMWNkZQ==",
   "tracks": [
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "SI TE VAS",
         "url": "https://open.spotify.com/album/37LcMTVZS9ttzx0PdAM2Ss"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5Xx66nNmEkP4pIB3NtXsYX"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -53,7 +53,79 @@
       "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+    },
+    {
+      "added_at": "2023-07-28 13:18:51",
+      "album": {
+        "name": "LA BABY",
+        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "LA BABY",
+      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
+    },
+    {
+      "added_at": "2023-07-28 13:18:51",
+      "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -89,54 +161,50 @@
       "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
       "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
-        "name": "LA BABY",
-        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
+        "name": "Adicto (with Anuel AA & Ozuna)",
+        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
       "artists": [
         {
@@ -144,24 +212,20 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 182857,
-      "name": "LA BABY",
-      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
+      "duration_ms": 270740,
+      "name": "Adicto (with Anuel AA & Ozuna)",
+      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -189,95 +253,7 @@
       "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
-      "album": {
-        "name": "FANTASMA | AVC",
-        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 285074,
-      "name": "FANTASMA | AVC",
-      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
-    },
-    {
-      "added_at": "2023-07-27 12:59:52",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2023-07-27 12:59:52",
-      "album": {
-        "name": "Adicto (with Anuel AA & Ozuna)",
-        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 270740,
-      "name": "Adicto (with Anuel AA & Ozuna)",
-      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
-    },
-    {
-      "added_at": "2023-07-27 12:59:52",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 118857,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
-    },
-    {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
@@ -305,7 +281,7 @@
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
@@ -325,7 +301,7 @@
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
@@ -345,7 +321,7 @@
       "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -356,20 +332,20 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 175192,
-      "name": "ma\u00f1ana",
-      "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
+      "duration_ms": 118857,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
@@ -393,7 +369,7 @@
       "url": "https://open.spotify.com/track/5dtzqRtiXKftAk6B6vxUmr"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
@@ -413,7 +389,7 @@
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
@@ -437,7 +413,7 @@
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -448,20 +424,20 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         },
         {
-          "name": "E.VAX",
-          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 196701,
-      "name": "11 Y ONCE",
-      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+      "duration_ms": 175192,
+      "name": "ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
         "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
@@ -489,7 +465,7 @@
       "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "PO2054AZ (Vol.I)",
         "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
@@ -509,7 +485,7 @@
       "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
@@ -533,7 +509,7 @@
       "url": "https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -544,16 +520,20 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
         }
       ],
-      "duration_ms": 197935,
-      "name": "PARANORMAL",
-      "url": "https://open.spotify.com/track/2m8V3evS07OnhatBWyh0Nt"
+      "duration_ms": 196701,
+      "name": "11 Y ONCE",
+      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko"
@@ -577,7 +557,7 @@
       "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
@@ -601,7 +581,7 @@
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -625,7 +605,7 @@
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -645,7 +625,7 @@
       "url": "https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
@@ -673,7 +653,7 @@
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Asi Eh (Remix)",
         "url": "https://open.spotify.com/album/0rp5iUshTsvz8E4YakFOAw"
@@ -701,7 +681,7 @@
       "url": "https://open.spotify.com/track/5yyxjJEMqSyCySMM9MAoJI"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -721,7 +701,7 @@
       "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
@@ -745,7 +725,7 @@
       "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Sunbathe",
         "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
@@ -765,7 +745,7 @@
       "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
@@ -785,7 +765,7 @@
       "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -805,7 +785,7 @@
       "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "La Gatita (Remix)",
         "url": "https://open.spotify.com/album/4JzAbR7V4k5UWv8IOJ7lCM"
@@ -833,7 +813,7 @@
       "url": "https://open.spotify.com/track/1qihgOJwlXqB4LQrY40MRT"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
@@ -857,7 +837,7 @@
       "url": "https://open.spotify.com/track/1HxapZ1SrjH5LoYGz9aA4Z"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
@@ -881,7 +861,7 @@
       "url": "https://open.spotify.com/track/2re98x1aMO6BYuX9cWKqo8"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -901,7 +881,7 @@
       "url": "https://open.spotify.com/track/1AuakKBKABJveKizKBl9j7"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Falta",
         "url": "https://open.spotify.com/album/6fViyRMZpRfXu93igpXDUc"
@@ -925,7 +905,7 @@
       "url": "https://open.spotify.com/track/6lOrOSBGBDZXIQALvs8igt"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
         "url": "https://open.spotify.com/album/1jSaGmaAvSKgMa4whI89Cx"
@@ -949,7 +929,7 @@
       "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
@@ -981,7 +961,7 @@
       "url": "https://open.spotify.com/track/0LUpKcgDmq08XoS4nSjIde"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -1001,7 +981,7 @@
       "url": "https://open.spotify.com/track/4BEhYjP8feURPfmrHNc4dM"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "Feel It Too (with Jessie Reyez & Tory Lanez)",
         "url": "https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN"
@@ -1025,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0"
     },
     {
-      "added_at": "2023-07-27 12:59:52",
+      "added_at": "2023-07-28 13:18:51",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"

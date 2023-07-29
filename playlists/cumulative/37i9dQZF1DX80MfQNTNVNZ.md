@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-405 songs - 1 day 0 hr 12 min
+406 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 |  |
 | [4AM](https://open.spotify.com/track/2LLuBYP7bKBvtVo77SndPB) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [4AM](https://open.spotify.com/album/1OGYNltozyJz1dl3YdI9Gg) | 3:03 | 2022-03-24 | 2022-04-16 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-06 |  |
-| [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 | 2023-07-27 |  |
+| [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 | 2023-07-27 | 2023-07-29 |
+| [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 | 2023-07-27 |  |
 | [Air Power \(feat\. The Kount\)](https://open.spotify.com/track/0m6ehZK0yTw5rLvYXy53ML) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Air Power \(feat\. The Kount\)](https://open.spotify.com/album/2yeVwhR3XVshdhp3ppP3M7) | 3:39 | 2021-12-23 | 2022-04-14 |
 | [Alive](https://open.spotify.com/track/6t9YFN1wrFtfm6py1N6GeK) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Alive](https://open.spotify.com/album/6LF44PFcCZSPxXDodXRfNo) | 3:04 | 2022-04-07 | 2023-04-07 |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 4:05 | 2021-12-23 | 2022-09-09 |

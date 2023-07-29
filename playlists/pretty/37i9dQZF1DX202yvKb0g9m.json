@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 99187,
+  "num_followers": 99307,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
+  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Sector II: Acid",
         "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 465312,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "album": {
         "name": "90 Proof (with J. Cole)",
         "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
       },
@@ -372,7 +390,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 207760,
       "name": "Big tonka (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2aCj4aX6TXFFUn5zTFRH4w"
@@ -1305,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "Goin' Off (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/2g4Vovxg2bbN9zb6eP9I2b"
+      },
+      "artists": [
+        {
+          "name": "Ghost Kidz",
+          "url": "https://open.spotify.com/artist/1wXjY3mwXdZz71YrxgujXN"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144573,
+      "name": "Goin' Off (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/0tFvUdi4h20wD9rGVZOWbd"
+    },
+    {
+      "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
@@ -1729,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "More Vibes More Money",
+        "url": "https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188175,
+      "name": "More Vibes More Money",
+      "url": "https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0"
+    },
+    {
+      "album": {
         "name": "Motion God",
         "url": "https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31"
       },
@@ -1898,6 +1956,24 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
       "album": {

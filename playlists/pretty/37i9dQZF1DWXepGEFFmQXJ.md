@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Kita Alexander & Morgan Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,768 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,841 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 |
 | 80 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
 
-Snapshot ID: `MCw2OWY3YWZkZjlkODFlMzQwZTNmZWFmYjE3ODllYWMzNjcwZTNlYTJh`
+Snapshot ID: `MCw5MThjMWRlNjdlYzVhMzZhZTg1YTIzNTUwOThhMjUyZTUxNDhjN2Ey`

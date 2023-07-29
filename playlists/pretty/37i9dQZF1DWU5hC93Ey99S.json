@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels",
-  "num_followers": 15063,
+  "num_followers": 15169,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQ4NTU1NWFiNTFiYzdiYjJlODYyMmI4NmExNGUxMTc2NWE2ZGMz",
+  "snapshot_id": "MCw0NDMzNDNlYzI2MDU2MGI2MzZlZDBlODBlNTVlNmRmNTVhMzMzMTY5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/2ve8vm4BaGrmeDr3VsRFa1"
     },
     {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "Be Quiet, They're Listening",
+        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Hold Me",
@@ -129,6 +145,26 @@
       "url": "https://open.spotify.com/track/2KYp9IpK1HURPiKflNwz2i"
     },
     {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "RWEOK?",
+        "url": "https://open.spotify.com/album/1ohdPPIK0Gl5F3oJafcwgQ"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "RWEOK?",
+      "url": "https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Alchemy",
@@ -143,6 +179,22 @@
       "duration_ms": 274677,
       "name": "Sun Showers",
       "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
+    },
+    {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "thinkin' about you",
+        "url": "https://open.spotify.com/album/03nqonZ3inIazXypenyqLl"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "thinkin' about you",
+      "url": "https://open.spotify.com/track/5IRzClFKHGNfPhQFhKD2IP"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -337,6 +389,22 @@
       "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
     },
     {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7h055YeG299pK2UGR9Wm4U"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 158225,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7mXA7ig1a2eIFSU7i3dmdp"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "MOONBOY",
@@ -451,6 +519,26 @@
       "duration_ms": 156000,
       "name": "back in time",
       "url": "https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht"
+    },
+    {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "HOLD YOU (Camden Cox Remix)",
+        "url": "https://open.spotify.com/album/5L5ODP1MllctN77284ejNX"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 185864,
+      "name": "HOLD YOU - Camden Cox Remix",
+      "url": "https://open.spotify.com/track/5zLYT3Tp6GHABZr4eUJGFQ"
     },
     {
       "added_at": "2023-07-07 04:00:00",

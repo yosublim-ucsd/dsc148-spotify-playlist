@@ -4,7 +4,7 @@
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-96 songs - 6 hr 59 min
+97 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [The Book of Lies](https://open.spotify.com/track/50I8d0s6Ki2F5cMv7ZdBeS) | [Stuart Hamm](https://open.spotify.com/artist/3QZYlqOQQfe1fzTpWLOye2) | [The Book of Lies](https://open.spotify.com/album/6UXu63mfEhEXRQaPh74R6N) | 4:32 | 2021-05-06 |  |
 | [The Bridge](https://open.spotify.com/track/4MeTCgjEEXhmcl04NHQY8L) | [Fernando Petry](https://open.spotify.com/artist/4caKiGVGFoxstzqzZixP0G) | [The Bridge](https://open.spotify.com/album/4HwqcDTXtZSK9GzyKvihdI) | 2:58 | 2022-03-11 |  |
 | [The Lion's Den](https://open.spotify.com/track/68tguTFRYXtSPxn6GJUfi2) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [Unleashed](https://open.spotify.com/album/1FBSfdULcA0qTo7EgwdeHA) | 3:42 | 2021-05-06 |  |
+| [The Magic of Moonlight](https://open.spotify.com/track/02rwBh0v51bUfzaKRJnSqH) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:39 | 2023-07-28 |  |
 | [The Peace Song](https://open.spotify.com/track/4mcl5y8bBP14UwlSDz7GBN) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 3:14 | 2022-11-11 |  |
 | [The Rugged Truth](https://open.spotify.com/track/5tbu6qMdDcnfTSTy7tLeuB) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 3:32 | 2021-05-06 |  |
 | [The Sinister Minister](https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Bela Fleck and the Flecktones](https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0) | 4:36 | 2021-05-06 |  |

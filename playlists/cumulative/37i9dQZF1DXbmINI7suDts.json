@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 179513,
       "name": "Akaffekye - Acoustic Version",
       "url": "https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz"
@@ -1432,6 +1432,24 @@
       "duration_ms": 173400,
       "name": "Sing For You - Acoustic version",
       "url": "https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE"
+    },
+    {
+      "album": {
+        "name": "Sivawo (Acoustic)",
+        "url": "https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223007,
+      "name": "Sivawo - Acoustic",
+      "url": "https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi"
     },
     {
       "album": {

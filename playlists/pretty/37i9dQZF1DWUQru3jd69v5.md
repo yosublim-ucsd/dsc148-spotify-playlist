@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Philip ed LJK in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,028 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,058 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [NUMERO 10](https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [NUMERO 10](https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF) | 2:05 |
 | 55 | [EKL \#1](https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [EKL \#1](https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja) | 1:29 |
 
-Snapshot ID: `MCw4ZjdjYjBhNDM5NTBmNDJjODAwMWI0OGIyMzZhMjIyZjRkMTBjNzNi`
+Snapshot ID: `MCw2MTRkOTBjZDY0ZTAwOTBhYTQ4OTJiODczYjgxNTg4N2E5ODM0YWQ2`

@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI"
+    },
+    {
+      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 192226,
       "name": "Crystal Ball (In the Cupboard)",
       "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"

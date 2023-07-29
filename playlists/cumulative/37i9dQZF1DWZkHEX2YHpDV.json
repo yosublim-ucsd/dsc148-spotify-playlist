@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Hot Mulligan",
+  "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Koyo",
   "name": "The Scene",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 204400,
       "name": "19",
       "url": "https://open.spotify.com/track/52UhKglatE25UoP4iS7Vg2"
+    },
+    {
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "album": {
@@ -819,6 +837,28 @@
     },
     {
       "album": {
+        "name": "I Left You In Minnesota",
+        "url": "https://open.spotify.com/album/7zRxOIx96EH95H7sFBnqHo"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144272,
+      "name": "Alone (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/34V3D7YrDC2XD4mcnNYRpf"
+    },
+    {
+      "album": {
         "name": "Steady Glow",
         "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
       },
@@ -960,7 +1000,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 102258,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
@@ -1666,6 +1706,24 @@
       "duration_ms": 151288,
       "name": "Beg",
       "url": "https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4"
+    },
+    {
+      "album": {
+        "name": "Benadryl Subreddit",
+        "url": "https://open.spotify.com/album/31enCOWEDpvlAVDbTq3Pqi"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Benadryl Subreddit",
+      "url": "https://open.spotify.com/track/5dQvFklopnQ5q84EM7nS1M"
     },
     {
       "album": {
@@ -2689,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Join The Club",
+        "url": "https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/6jkeginjmIxiNCDts3bltL"
       },
@@ -3448,7 +3524,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195133,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
@@ -3640,7 +3716,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
@@ -3676,7 +3752,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
@@ -3926,7 +4002,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 171432,
       "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
       "url": "https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa"
@@ -4306,7 +4382,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 120659,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/7mOD2D8wpU4X5XgZS0dhTA"
@@ -4328,7 +4404,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 217417,
       "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
       "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
@@ -5708,7 +5784,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 194598,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/6ltKvSyebk65SJtg5zKDXW"
@@ -5892,7 +5968,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
@@ -6644,7 +6720,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
@@ -6752,7 +6828,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
@@ -7748,7 +7824,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 195646,
       "name": "HORROR SHOW",
       "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
@@ -7766,7 +7842,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
@@ -7814,7 +7890,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
@@ -9240,7 +9316,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 210022,
       "name": "Lacerate",
       "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
@@ -9720,7 +9796,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 169832,
       "name": "LIKED U BETTER",
       "url": "https://open.spotify.com/track/5RxT0AN9dOEzqFTd9NHPsI"
@@ -10548,6 +10624,28 @@
       "duration_ms": 139200,
       "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
       "url": "https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr"
+    },
+    {
+      "album": {
+        "name": "Message Like a Bomb",
+        "url": "https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195850,
+      "name": "Message Like a Bomb",
+      "url": "https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870"
     },
     {
       "album": {
@@ -11682,7 +11780,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
@@ -11812,7 +11910,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 154590,
       "name": "omg",
       "url": "https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77"
@@ -12206,7 +12304,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 146643,
       "name": "PARANOIA (with FEVER 333 & Point North) - Remix",
       "url": "https://open.spotify.com/track/04cSt0T1HgM8NxKA1KCobZ"
@@ -12350,7 +12448,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 214374,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/5v2WvShCblt55NLy82Orod"
@@ -12404,7 +12502,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
@@ -12458,7 +12556,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
@@ -12676,7 +12774,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
@@ -12792,7 +12890,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 153269,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX"
@@ -12984,7 +13082,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 334927,
       "name": "Psyche!",
       "url": "https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p"
@@ -13118,7 +13216,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
@@ -13820,7 +13918,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
@@ -14442,7 +14540,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
@@ -14902,7 +15000,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 208181,
       "name": "Songs on the Radio",
       "url": "https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm"
@@ -15094,7 +15192,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 147259,
       "name": "St. Girlfriend",
       "url": "https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3"
@@ -15390,7 +15488,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 160441,
       "name": "SUBSTANCE",
       "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
@@ -15426,7 +15524,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
@@ -15556,7 +15654,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 206709,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/0Ky4D8Dy9i3NJfB5svu381"
@@ -15744,7 +15842,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 168705,
       "name": "Tell Me You're Sorry",
       "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
@@ -16221,6 +16319,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
+    },
+    {
+      "album": {
         "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
         "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
       },
@@ -16344,6 +16460,24 @@
       "duration_ms": 204560,
       "name": "The Stages of Grief",
       "url": "https://open.spotify.com/track/41Whh7hrQjZ11hkxCT3obF"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "album": {
@@ -17344,7 +17478,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
@@ -18586,7 +18720,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-29",
       "duration_ms": 225838,
       "name": "Wyatt\u2019s Song (Your Name)",
       "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
