@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 57895,
+  "num_followers": 58378,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTRhODUwMGNhOTY3YTE2ODQwNzZmNTM0MjFmZjc0MTM1ZTI1MmRh",
+  "snapshot_id": "MCw5OWRhY2Q2YTE3YTI1ZDYwODYyZjk2NDI1ZTNhN2I5ODQ4NDcyNTQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 12:59:49",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
+    },
+    {
+      "added_at": "2023-07-28 12:59:49",
+      "album": {
         "name": "The World According To Gob",
         "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 223826,
       "name": "Wondering Where The Lions Are",
       "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
-    },
-    {
-      "added_at": "2023-07-28 12:59:49",
-      "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
     },
     {
       "added_at": "2023-07-28 12:59:49",

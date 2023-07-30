@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 96009,
+  "num_followers": 96101,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTVmNWJhZTRlZTgxODQ1NjE2ZDJjZTVmYjY1NDc2YTQ1MGEyYWFm",
+  "snapshot_id": "MCxjZDJmZDMyZjlmODMxMWVlMmM0Y2ZmOWEzZjc3MjkzMGY4YzBmYjA5",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
-        "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
+        "name": "\u30a2\u30a4\u30a6\u30a8",
+        "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
       },
       "artists": [
         {
@@ -716,17 +716,17 @@
           "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
         },
         {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
         },
         {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+          "name": "SAKURAmoti",
+          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
         }
       ],
-      "duration_ms": 205733,
-      "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
+      "duration_ms": 222366,
+      "name": "\u30a2\u30a4\u30a6\u30a8",
+      "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -815,8 +815,8 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30a6\u30a8",
-        "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
+        "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
+        "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
       },
       "artists": [
         {
@@ -824,17 +824,17 @@
           "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
         },
         {
-          "name": "\u7f8e\u6ce2",
-          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
         },
         {
-          "name": "SAKURAmoti",
-          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
         }
       ],
-      "duration_ms": 222366,
-      "name": "\u30a2\u30a4\u30a6\u30a8",
-      "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
+      "duration_ms": 205733,
+      "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
     },
     {
       "added_at": "2023-07-27 15:00:00",

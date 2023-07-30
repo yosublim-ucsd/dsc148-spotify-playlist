@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,169 likes - 175 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,294 likes - 175 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 156 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
 | 157 | [all over my body](https://open.spotify.com/track/3TEKXl5Wdhi5oWrFbOoTF6) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [all over my body](https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn) | 2:16 |
 | 158 | [when you](https://open.spotify.com/track/6dmXA0k54GvfyHMMoYSa4q) | [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [how I saw it \(side B\)](https://open.spotify.com/album/4yKIURLq3TcyVTOVjV6wmE) | 3:19 |
-| 159 | [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 |
+| 159 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/4f2v2PCW2mrh91lSU1gaEh) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/1ur3DgwMjIZmXffxx528sJ) | 2:30 |
 | 160 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
 | 161 | [<3](https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [<3](https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf) | 2:26 |
 | 162 | [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 174 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 175 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw0NDMzNDNlYzI2MDU2MGI2MzZlZDBlODBlNTVlNmRmNTVhMzMzMTY5`
+Snapshot ID: `MCxkNmEyYmFlNTJkNzVhMzcyMmI2OGMyMTRmZDVkMWYyZDE4N2IzYTRh`

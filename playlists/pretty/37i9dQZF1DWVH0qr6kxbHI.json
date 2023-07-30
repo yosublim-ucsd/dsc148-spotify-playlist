@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 60946,
+  "num_followers": 61018,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWI5OGQ5OWY4ZTIxZTc5ZjVmOGRmZjgxZmYxODBjYTUxNzY2ODlm",
+  "snapshot_id": "MCxhYmFkZmM4Nzg1M2U5MzdhMmE1ZjE4ZDZlNzUwYWIzODEyNmU2OGI1",
   "tracks": [
     {
       "added_at": "2023-06-30 13:55:09",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 261813,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
         "name": "Gracias A Vosotros",
         "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 190000,
       "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
       "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2023-06-30 13:55:09",

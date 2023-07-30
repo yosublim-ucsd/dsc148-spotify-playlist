@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 566920,
+  "num_followers": 567101,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTUyZDM5MTZlYzRkZjM1NDFjMzIzMDQ3OWMyNWJjNGU3Mzc2MmQ4",
+  "snapshot_id": "MCw3NTI0MmU4NDFjYmEzOGZlOWI4YTZkMDlhMjMxZWZhM2VlNTA2Nzg2",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -779,6 +779,30 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "wait outside",
+        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "wait outside",
+      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "wait outside",
-        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "wait outside",
-      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Walking Like That",
         "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 181800,
       "name": "Dice",
       "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1015,22 +1031,6 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "A-Train",
-        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
-      },
-      "artists": [
-        {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
-        }
-      ],
-      "duration_ms": 215307,
-      "name": "A-Train - Edit",
-      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 262798,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "A-Train",
+        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "duration_ms": 215307,
+      "name": "A-Train - Edit",
+      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1175,6 +1175,26 @@
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1347,22 +1367,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
-      },
-      "artists": [
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
-        }
-      ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1383,6 +1387,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+      },
+      "artists": [
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        }
+      ],
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1399,22 +1419,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Little Lucille",
         "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
       },
@@ -1427,6 +1431,22 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1475,26 +1495,6 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "I Swear It's True",
         "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 235784,
       "name": "I Swear It's True",
       "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Diving for Lost Treasure",
         "url": "https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie"
       },
@@ -1671,26 +1687,6 @@
       "duration_ms": 212750,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/3gGj1ynPVe2ILz7KATe2pC"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Slow (feat. Henjila)",
-        "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        },
-        {
-          "name": "Henjila",
-          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Slow (feat. Henjila)",
-      "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
     }
   ],
   "unique_name": "Feelgood Indie",

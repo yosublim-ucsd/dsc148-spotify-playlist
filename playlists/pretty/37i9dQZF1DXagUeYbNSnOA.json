@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring El Krack Mx. Updates every Wednesday.",
-  "num_followers": 171523,
+  "num_followers": 171525,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGYyNzU0MmM3MzQ0YjhiOGI4YzI0NDZmZjdkMWJlZTNmMzYwMTdh",
+  "snapshot_id": "MCxmMjdjYmJiNTBjMTc4OWEyZmUyMmM1YTc4OWIzMGIyYjI5YzNlYmQ5",
   "tracks": [
     {
       "added_at": "2023-07-26 06:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Noche Celestial",
+        "url": "https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ"
+      },
+      "artists": [
+        {
+          "name": "Paul\u00e9",
+          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Noche Celestial",
+      "url": "https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Te quedas?",
         "url": "https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Noche Celestial",
-        "url": "https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ"
-      },
-      "artists": [
-        {
-          "name": "Paul\u00e9",
-          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "Noche Celestial",
-      "url": "https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 86192,
-      "name": "Do Not Disturb",
-      "url": "https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Relinda",
         "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 153125,
       "name": "Relinda",
       "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 86192,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl"
     },
     {
       "added_at": "2023-07-26 06:00:00",

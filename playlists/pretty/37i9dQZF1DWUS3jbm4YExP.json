@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 654050,
+  "num_followers": 654469,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWRjOWQ2YTQxZWY3M2Q1MWIzMTJkZGNhOWMzMjI0MTdmY2E1NTVl",
+  "snapshot_id": "MCw0NjFmNTE2YzNiMmVmYzA4NjA5YWRmOTM3ZWY1OGRjNTJhYjBjNGUz",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Mr Bongo Record Club, Vol. 1",
+        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Esperar pra Ver",
+      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
+    },
+    {
       "added_at": "2022-04-17 18:22:38",
       "album": {
         "name": "Alegr\u00eda (Yuksek Remix) - Single",
@@ -323,22 +339,6 @@
       "duration_ms": 258235,
       "name": "Alegr\u00eda - Yuksek Remix",
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Mr Bongo Record Club, Vol. 1",
-        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Esperar pra Ver",
-      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
     },
     {
       "added_at": "2021-10-28 03:11:06",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
-      "added_at": "2023-05-24 02:18:54",
-      "album": {
-        "name": "Spiky Boi",
-        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 119510,
-      "name": "Spiky Boi",
-      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "S\u00e9rie Samba Soul",
@@ -403,6 +387,22 @@
       "duration_ms": 152733,
       "name": "Hei! Voc\u00ea",
       "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+    },
+    {
+      "added_at": "2023-05-24 02:18:54",
+      "album": {
+        "name": "Spiky Boi",
+        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 119510,
+      "name": "Spiky Boi",
+      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
     },
     {
-      "added_at": "2022-03-29 03:12:27",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Daptone Records Singles Collection: Volume 5",
-        "url": "https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx"
+        "name": "Soleil Kr\u00e9yol",
+        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
       "artists": [
         {
-          "name": "The Frightnrs",
-          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
         }
       ],
-      "duration_ms": 213254,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL"
+      "duration_ms": 301653,
+      "name": "Kry\u00e9 Mwen",
+      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-03-29 03:12:27",
       "album": {
-        "name": "Soleil Kr\u00e9yol",
-        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
+        "name": "Daptone Records Singles Collection: Volume 5",
+        "url": "https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx"
       },
       "artists": [
         {
-          "name": "David Walters",
-          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+          "name": "The Frightnrs",
+          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
         }
       ],
-      "duration_ms": 301653,
-      "name": "Kry\u00e9 Mwen",
-      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
+      "duration_ms": 213254,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
     },
     {
-      "added_at": "2023-05-24 02:05:49",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Samba em Kigali",
-        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
       "artists": [
         {
-          "name": "Tapioca",
-          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
         }
       ],
-      "duration_ms": 226416,
-      "name": "Terra Preta",
-      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1031,22 +1031,6 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1087,6 +1071,22 @@
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
+    },
+    {
+      "added_at": "2023-05-24 02:05:49",
+      "album": {
+        "name": "Samba em Kigali",
+        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
+      },
+      "artists": [
+        {
+          "name": "Tapioca",
+          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
+        }
+      ],
+      "duration_ms": 226416,
+      "name": "Terra Preta",
+      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
     },
     {
-      "added_at": "2022-01-14 00:38:13",
-      "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 247624,
-      "name": "Maktoub Aleina",
-      "url": "https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Jungle Fire",
@@ -1239,6 +1223,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-01-14 00:38:13",
+      "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "duration_ms": 247624,
+      "name": "Maktoub Aleina",
+      "url": "https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1277,24 +1277,20 @@
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
-      "added_at": "2023-06-02 06:00:00",
+      "added_at": "2023-02-02 00:27:59",
       "album": {
-        "name": "Mal\u00eca",
-        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Mal\u00eca",
-      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2022-09-02 06:01:15",
@@ -1317,22 +1313,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2023-02-02 00:27:59",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
-    },
-    {
       "added_at": "2022-03-29 03:12:27",
       "album": {
         "name": "On te l'avait dit",
@@ -1353,6 +1333,26 @@
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
     },
     {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Mal\u00eca",
+        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mal\u00eca",
+      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
@@ -1371,22 +1371,6 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
-    },
-    {
-      "added_at": "2023-05-24 02:05:49",
-      "album": {
-        "name": "Yarait (Habibi Funk 022)",
-        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Ben Ali",
-          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Yarait - Habibi Funk 022",
-      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1441,6 +1425,22 @@
       "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
+      "added_at": "2023-05-24 02:05:49",
+      "album": {
+        "name": "Yarait (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Yarait - Habibi Funk 022",
+      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Calentita",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/6gZJn1abfUXsOcyBUKjp4D"
     },
     {
-      "added_at": "2023-05-22 20:22:16",
-      "album": {
-        "name": "Telenova",
-        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
-      },
-      "artists": [
-        {
-          "name": "Zuco 103",
-          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Aruenda",
-      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
-    },
-    {
       "added_at": "2021-10-22 15:36:00",
       "album": {
         "name": "Modern Music (Habibi Funk 006)",
@@ -1523,6 +1507,22 @@
       "duration_ms": 224000,
       "name": "Sah",
       "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+    },
+    {
+      "added_at": "2023-05-22 20:22:16",
+      "album": {
+        "name": "Telenova",
+        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
+      },
+      "artists": [
+        {
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Aruenda",
+      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1761,28 +1761,20 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2023-05-24 02:18:54",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "El Tiempo (Captain Planet Remix)",
-        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
+        "name": "Je k'abere",
+        "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
         }
       ],
-      "duration_ms": 223888,
-      "name": "El Tiempo (Captain Planet Remix)",
-      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
+      "duration_ms": 261167,
+      "name": "Je k'abere",
+      "url": "https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL"
     }
   ],
   "unique_name": "Global Groove",

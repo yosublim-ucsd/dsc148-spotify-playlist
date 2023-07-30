@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,098 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,136 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 45 | [A man with two watches](https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 1\-3](https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo) | 5:11 |
 | 46 | [cells\_](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [cells\_](https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv) | 2:25 |
 | 47 | [Monolake](https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:40 |
-| 48 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
-| 49 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
-| 50 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
+| 48 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
+| 49 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
+| 50 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
 | 51 | [Vu Hijera](https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Vu Hijera](https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC) | 4:21 |
-| 52 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 |
-| 53 | [Starethrough \- Transition Mix](https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 5:04 |
+| 52 | [Starethrough \- Transition Mix](https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 5:04 |
+| 53 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 |
 | 54 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
 | 55 | [My Birthday Suit](https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob) | [Hexsystem](https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh) | [My Birthday Suit](https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX) | 3:45 |
 | 56 | [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 61 | [Plonk III](https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 6:22 |
 | 62 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
 | 63 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 |
-| 64 | [Snow Ritual \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 7:42 |
-| 65 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
-| 66 | [Organic](https://open.spotify.com/track/194j607XLGLXSFe8Higlac) | [Nadia Struiwigh](https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ) | [Pax Aurora](https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML) | 6:58 |
-| 67 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 |
+| 64 | [Organic](https://open.spotify.com/track/194j607XLGLXSFe8Higlac) | [Nadia Struiwigh](https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ) | [Pax Aurora](https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML) | 6:58 |
+| 65 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 |
+| 66 | [Snow Ritual \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 7:42 |
+| 67 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
 | 68 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
-| 69 | [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 |
-| 70 | [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 |
-| 71 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
+| 69 | [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 |
+| 70 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
+| 71 | [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 |
 | 72 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
 | 73 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 | 74 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
 | 75 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
 
-Snapshot ID: `MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4`
+Snapshot ID: `MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj`

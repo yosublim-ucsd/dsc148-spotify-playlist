@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=p0axaK4bSBm2drcSnxLvoQ">  حمزة نمرة </a>
 
-538 songs - 1 day 6 hr 43 min
+539 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Ghayart El Tarekh](https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Ghayart El Tarekh](https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG) | 3:50 | 2021-12-23 | 2022-02-02 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-20 | 2023-01-06 |
 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 | 2022-08-21 |
-| [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 | 2023-07-28 |  |
+| [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 | 2023-07-28 | 2023-07-30 |
 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-13 |  |
 | [Habeena](https://open.spotify.com/track/4IoEukjtpg13X8pPHZidgH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Habeena](https://open.spotify.com/album/5YeLEiEYQMMvDNC46cKLGx) | 3:18 | 2023-01-12 | 2023-01-14 |
 | [Habet Tabtaba](https://open.spotify.com/track/31l0bmTZLNaVOysinrJ2R1) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Habet Tabtaba](https://open.spotify.com/album/3pKOzJL8yLs5sTWmze8rJW) | 4:04 | 2023-06-01 | 2023-07-14 |
@@ -451,6 +451,7 @@
 | [تجاوز](https://open.spotify.com/track/6dGF8eFaRmMMQ72EJd8c7W) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [تجاوز](https://open.spotify.com/album/2bsAJySmgxtPwwtHQ13SQE) | 2:53 | 2023-01-19 | 2023-02-24 |
 | [تجري ورايا \- من فيلم هارلي](https://open.spotify.com/track/77poO713J8VlBYcLXAhQUx) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [تجري ورايا \(من فيلم هارلي\)](https://open.spotify.com/album/732sy0H8AYAH1fNnwN6Lgi) | 2:34 | 2023-05-10 | 2023-06-28 |
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-19 | 2023-07-08 |
+| [جوه عينيك](https://open.spotify.com/track/2fRZNzluxWOWHhzQj1SS1G) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [جوه عينيك](https://open.spotify.com/album/5MU9hOKRXou5F8pcpQfUTt) | 3:37 | 2023-07-28 |  |
 | [حبايبنا](https://open.spotify.com/track/6fM4O75eAUoRxUdsbI0vc3) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [حبايبنا](https://open.spotify.com/album/6FOVMHlP4eAAeX1B3NASpW) | 3:26 | 2023-06-27 | 2023-07-29 |
 | [حبينا](https://open.spotify.com/track/1S3appxEsM5sN3qEURkPt2) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:18 | 2023-01-12 | 2023-02-24 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-04 |  |
@@ -494,7 +495,7 @@
 | [كارفوم بكايته \- لو القديم راحت عليه يبقي الجديد يرقص بالية](https://open.spotify.com/track/2hitrJSVqSNeIsamCOVdUw) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كارفوم بكايته \(لو القديم راحت عليه يبقي الجديد يرقص بالية\)](https://open.spotify.com/album/2yGwhZrfPsVoIG0qyTHoux) | 2:16 | 2023-05-05 | 2023-06-21 |
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 | 2023-04-06 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
-| [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathallah](https://open.spotify.com/artist/3koxro4ES8BUE0HI2QjT6Y) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-07-28 |  |
+| [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-07-28 |  |
 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 | 2023-07-28 |  |
 | [كل سنه](https://open.spotify.com/track/0nc1WH81RNOchRvheduzEi) | [Ammar Hosny](https://open.spotify.com/artist/2U9Wq183dC8s01VOinrjK3) | [كل سنه](https://open.spotify.com/album/62MemAmrKN7MwFZNxvFdvB) | 3:01 | 2023-06-14 | 2023-07-21 |
 | [كل ليل](https://open.spotify.com/track/3FmjlI2P0aYuVbSo5fzSZs) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [كل ليل](https://open.spotify.com/album/67ZFyMPeTn5L5FAZC94WAY) | 4:02 | 2023-06-27 | 2023-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Travis Scott, Drake & Central Cee, and BIA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,821 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,820 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 |
 | 75 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 1:35 |
 
-Snapshot ID: `MCwxNWQwZGNhNGRmMmRlMzJhMDJiZmE2YTc5ZjI2YTM5ODJmZTQ1NzE5`
+Snapshot ID: `MCwzMTE3OGMxMzVlNDIxZDJiODI3NzE4ZDkyYjRhNTA3MTlmYTAzM2Iz`

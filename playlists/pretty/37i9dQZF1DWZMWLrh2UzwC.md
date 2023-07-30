@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,745 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,752 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 45 | [keep still](https://open.spotify.com/track/6m9SWbSQerUcXm8FP9bhql) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [keep still](https://open.spotify.com/album/2AeVBB7LhoQt3MjAt7opVg) | 4:11 |
 | 46 | [BABYBLUE](https://open.spotify.com/track/2XXqif9cTOJnogmYoz6yGf) | [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O), [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [BABYBLUE](https://open.spotify.com/album/19FUhiMpD1GCeG18jdNARI) | 2:35 |
 | 47 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
-| 48 | [idk \- 对等关系](https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH) | [甄济如](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [idk \(对等关系\)](https://open.spotify.com/album/47Hs3pPi2kMdSLreGBGTEw) | 2:41 |
+| 48 | [idk](https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [idk](https://open.spotify.com/album/47Hs3pPi2kMdSLreGBGTEw) | 2:41 |
 | 49 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 50 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 51 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 88 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 |
 | 89 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 
-Snapshot ID: `MCwzMTQ0NzQ3Njk4NTE5N2Q0MjIzN2YxYzdhMWZhYTkzZjRlZjEwZGRk`
+Snapshot ID: `MCxkMzk2Y2M3MGQ0MzUzM2UzNmZlMGIyMzliODM1MmYyMDk2OTEwMDkx`

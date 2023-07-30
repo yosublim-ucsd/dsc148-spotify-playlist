@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,561 likes - 48 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,615 likes - 48 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 19 | [Lo Perdí Todo](https://open.spotify.com/track/5TDc2nGu0vaXZaNO7CiDnE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 3:34 |
 | 20 | [Ahí Estás Tú](https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Ahí Estás Tú](https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW) | 5:56 |
 | 21 | [Tu Gloria](https://open.spotify.com/track/4800m0OhBxOCGRRLuqgqit) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 11:42 |
-| 22 | [Nunca Me Avergonzaré](https://open.spotify.com/track/41Gfod2bIjsuHysuwIuJme) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:10 |
+| 22 | [Cristo Te Amo](https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:59 |
 | 23 | [Con Brazos Abiertos](https://open.spotify.com/track/4iHQl8ItjIyG79cSo5u0Me) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lau Guerra](https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 7:26 |
-| 24 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
-| 25 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
-| 26 | [Cristo Te Amo](https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:59 |
+| 24 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
+| 25 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
+| 26 | [Nunca Me Avergonzaré](https://open.spotify.com/track/41Gfod2bIjsuHysuwIuJme) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:10 |
 | 27 | [Venga Tu Reino](https://open.spotify.com/track/2iaNWbfBXRGuTk0gBXkq6r) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 8:25 |
 | 28 | [Somos Tu Iglesia](https://open.spotify.com/track/3SEOCoySutuNM3ErXmPTnP) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Julian Gamba](https://open.spotify.com/artist/10a3kp2IK6PTgCAYH6BuSh) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 7:52 |
 | 29 | [Abres Camino](https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 7:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 47 | [Amanecer](https://open.spotify.com/track/5c9oAzlvPVPpxKCrhRccYm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY) | 4:37 |
 | 48 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
 
-Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBkMzAzNjNjNjNmNDVlNzMxMjUxYzlmZWU5NjMyZmUwMg==`
+Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDAxMTYwY2RlZThkMTE3ZmEwMWVkOTg4NjE1MWZlY2U5Mw==`

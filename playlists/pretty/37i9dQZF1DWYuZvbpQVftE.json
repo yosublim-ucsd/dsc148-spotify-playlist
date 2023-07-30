@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 18108,
+  "num_followers": 18130,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzIxYjJiMGQyYjRmYWIxYTEzNzlhYjA4MzdhMmQ4ZmRjNmEzYzEx",
+  "snapshot_id": "MCxlZTZlMmQzOGQ1OTI2NWNmZjYzNDA1YjIyNjYxNmRmZWRkMGY3MmQ0",
   "tracks": [
     {
       "added_at": "2023-06-22 07:03:42",
@@ -563,30 +563,6 @@
     {
       "added_at": "2023-06-22 07:03:42",
       "album": {
-        "name": "The Poll Winners Ride Again!",
-        "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
-      },
-      "artists": [
-        {
-          "name": "Barney Kessel",
-          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
-        }
-      ],
-      "duration_ms": 289735,
-      "name": "Custard Puff",
-      "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
-    },
-    {
-      "added_at": "2023-06-22 07:03:42",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+    },
+    {
+      "added_at": "2023-06-22 07:03:42",
+      "album": {
+        "name": "The Poll Winners Ride Again!",
+        "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
+      },
+      "artists": [
+        {
+          "name": "Barney Kessel",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 289735,
+      "name": "Custard Puff",
+      "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
     },
     {
       "added_at": "2023-06-22 07:03:42",

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: YVISON, GUPE",
-  "num_followers": 428885,
+  "num_followers": 428915,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDhiMWI1NWZkMGRmNTEwNDU4ZGE1YTUwMzQxZWNhODcwN2FiODFi",
+  "snapshot_id": "MCxjNjIxYzI4MDY3M2I1OTRhZWNjZTRjYWE4NWM1MmMyZjQ3YzNkNzc0",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Ar da Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 206864,
-      "name": "Ar da Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "N\u00e3o Sou De Me Entregar",
         "url": "https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 242580,
       "name": "N\u00e3o Sou De Me Entregar",
       "url": "https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Ar da Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 206864,
+      "name": "Ar da Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Te dizer que sim.",
         "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Dias Claros",
         "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
       },
@@ -759,38 +759,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI"
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         },
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
         }
       ],
-      "duration_ms": 177344,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Mesmo Se Voc\u00ea Mudar",
-        "url": "https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 185580,
-      "name": "Mesmo Se Voc\u00ea Mudar",
-      "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Mesmo Se Voc\u00ea Mudar",
+        "url": "https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 185580,
+      "name": "Mesmo Se Voc\u00ea Mudar",
+      "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "sexto sentido",
         "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 153428,
       "name": "Virginiana",
       "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 167424,
       "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1239,46 +1239,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "GRA\u00c7AS A DEUS",
-        "url": "https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE"
-      },
-      "artists": [
-        {
-          "name": "zawa",
-          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
-        }
-      ],
-      "duration_ms": 126588,
-      "name": "GRA\u00c7AS A DEUS",
-      "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Desconectar",
-        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "Bufal\u00f4",
-          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Desconectar",
-      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Tua Voz",
         "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
       },
@@ -1295,38 +1255,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Casa Comigo?",
-        "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
+        "name": "GRA\u00c7AS A DEUS",
+        "url": "https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
         }
       ],
-      "duration_ms": 159500,
-      "name": "Casa Comigo?",
-      "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
-      },
-      "artists": [
-        {
-          "name": "F\u00ea Costa",
-          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
-        },
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Sincero",
-      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
+      "duration_ms": 126588,
+      "name": "GRA\u00c7AS A DEUS",
+      "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1367,6 +1307,30 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Desconectar",
+        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Desconectar",
+      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "MEU 1\u00ba APARTAMENTO",
         "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
       },
@@ -1399,6 +1363,42 @@
       "duration_ms": 147600,
       "name": "Sustentar",
       "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Casa Comigo?",
+        "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Casa Comigo?",
+      "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
+      },
+      "artists": [
+        {
+          "name": "F\u00ea Costa",
+          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
+        },
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
     }
   ],
   "unique_name": "Pop Leve",

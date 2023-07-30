@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 34847,
+  "num_followers": 34867,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDAzNzE5NWU3ODNjZmUzM2MwOGRmY2I5ZGYxZjY1YWUyMzZkNTc4",
+  "snapshot_id": "MCw1ZDUyNmEwMWFhMWU3ODc1MzY2Yjk3ZjQ4ZThhMTQ0ODJhYmIxMjk3",
   "tracks": [
     {
       "added_at": "2023-07-11 18:58:34",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 325271,
-      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
-      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180520,
       "name": "America",
       "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 325271,
+      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
+      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Safe at Home",
         "url": "https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 168386,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
     },
     {
       "added_at": "2023-07-11 18:58:34",

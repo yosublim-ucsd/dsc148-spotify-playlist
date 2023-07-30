@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421704,
+  "num_followers": 421695,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
+  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Todo Mundo Ama O Sol",
         "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Contrai",
+        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Martinnz",
+          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
+        }
+      ],
+      "duration_ms": 180008,
+      "name": "Contrai",
+      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Contrai",
-        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Martinnz",
-          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
-        }
-      ],
-      "duration_ms": 180008,
-      "name": "Contrai",
-      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
     },
     {
       "added_at": "2023-07-12 21:00:00",

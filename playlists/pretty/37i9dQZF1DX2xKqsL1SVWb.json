@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Agris en portada.",
-  "num_followers": 96467,
+  "num_followers": 96468,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
+  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
         }
       ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -667,6 +667,22 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Hierbas Para la Tristeza",
-        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 166112,
-      "name": "Hierbas",
-      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "SIN TI",
         "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Tan Bien Que Estaba",
-        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
       "artists": [
         {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Tan Bien Que Estaba",
-      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Te Rendiste en Mi",
-        "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
+        "name": "Tan Bien Que Estaba",
+        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
       },
       "artists": [
         {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         }
       ],
-      "duration_ms": 148353,
-      "name": "Te Rendiste en Mi",
-      "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
+      "duration_ms": 214960,
+      "name": "Tan Bien Que Estaba",
+      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -923,6 +907,22 @@
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Te Rendiste en Mi",
+        "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 148353,
+      "name": "Te Rendiste en Mi",
+      "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Dejar Ir",
-        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Dejar Ir",
-      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Dejar Ir",
+        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Dejar Ir",
+      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "La Balada de Sarah Lynn",
+        "url": "https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "duration_ms": 154048,
+      "name": "La Balada de Sarah Lynn",
+      "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "mejor me voy",
         "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "La Balada de Sarah Lynn",
-        "url": "https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY"
+        "name": "M\u00edstico Desierto",
+        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
       },
       "artists": [
         {
-          "name": "Un Le\u00f3n Marinero",
-          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 154048,
-      "name": "La Balada de Sarah Lynn",
-      "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
+      "duration_ms": 225692,
+      "name": "M\u00edstico Desierto",
+      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "M\u00edstico Desierto",
-        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 225692,
-      "name": "M\u00edstico Desierto",
-      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
+      "duration_ms": 164086,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 164086,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Repetir",
         "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 163958,
       "name": "Repetir",
       "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1339,22 +1355,6 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "La Triste Historia de un Cazafantasmas Retirado",
-        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "La Triste Historia de un Cazafantasmas Retirado",
-      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
     }
   ],
   "unique_name": "madera y miel",

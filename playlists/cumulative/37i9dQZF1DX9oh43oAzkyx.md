@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-290 songs - 14 hr 19 min
+291 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/0boodYr1uIpSVmGSP65Fmk) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:00 | 2022-01-07 | 2022-02-19 |
 | [9 Bridge](https://open.spotify.com/track/2sHekv6OdEiO4htSjdB9j4) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [9 Bridge](https://open.spotify.com/album/0MKr6ZcGoEnkycOQTpDANu) | 2:27 | 2021-05-14 | 2022-06-11 |
 | [A Milli](https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 3:41 | 2021-01-04 | 2022-04-21 |
-| [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-06-02 |  |
+| [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-06-02 | 2023-07-30 |
 | [Afterlife](https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Afterlife](https://open.spotify.com/album/0mU8kILJJ8QZv6C6zSSREv) | 2:29 | 2022-01-28 | 2022-06-20 |
 | [AHHH HA](https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:06 | 2022-03-18 | 2023-06-10 |
 | [Aim For The Moon \(feat\. Quavo\)](https://open.spotify.com/track/25Wq1OwZyKLMjVNXIhzVlV) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:55 | 2021-01-04 | 2022-04-19 |
@@ -126,6 +126,7 @@
 | [Intro \(Hate On Me\)](https://open.spotify.com/track/4s7TIubkdsgdtDEDFEAYVL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:54 | 2021-10-01 | 2022-07-29 |
 | [Isis](https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Isis](https://open.spotify.com/album/361T1uXWyuak02E2W6tBs8) | 3:56 | 2021-01-04 | 2022-01-25 |
 | [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 | 2022-08-05 | 2022-12-13 |
+| [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-28 |  |
 | [Jesse Owens \(feat\. NAV\)](https://open.spotify.com/track/4iDCuTlmGNbpuUILTsJ9vf) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Jesse Owens \(feat\. NAV\)](https://open.spotify.com/album/7aiS7MdJhZ0wCXT9o2fCTY) | 3:05 | 2021-02-13 | 2022-04-20 |
 | [JOC IN '06](https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [JOC IN '06](https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr) | 2:50 | 2023-01-28 | 2023-02-01 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-02-10 |  |

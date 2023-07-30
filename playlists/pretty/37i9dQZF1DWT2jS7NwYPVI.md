@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Quarters of Change
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,911 likes - 111 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,966 likes - 111 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 110 | [Exit Signs](https://open.spotify.com/track/7ud416cuyDDgkQ8huXwqya) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Exit Signs](https://open.spotify.com/album/7E60li9AlGYQO7zHKryWu7) | 4:28 |
 | 111 | [So Different](https://open.spotify.com/track/1KsiHd11ajEuJa3gwTxktJ) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [So Different](https://open.spotify.com/album/1JVPvGnGGNzkWj9QCGxk5T) | 2:37 |
 
-Snapshot ID: `MCw5YWZiMDVjNDgwOTk5NGU5ZTkwYWY3ZDRhYWY2NDNmYWNiNGE0YjQ2`
+Snapshot ID: `MCwwYWQyZDkxMzg1NjMzZDE2YmMyNDdlNTQ3Yzk1NWU4YWRiMTBiY2Q5`

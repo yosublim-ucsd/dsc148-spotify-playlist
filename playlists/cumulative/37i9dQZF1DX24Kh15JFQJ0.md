@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-216 songs - 12 hr 42 min
+217 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/track/0YhPTrNqHLOVp1zNpXtgP6) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/album/6tEbgG4tbB7nYNNzgRcPji) | 3:27 | 2021-10-15 |  |
 | [Where I Am Today](https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:29 | 2021-10-15 |  |
 | [Why Me](https://open.spotify.com/track/4fnDSVPmxFOlo05eGTM8qb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:12 | 2021-11-19 | 2022-03-12 |
-| [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-10-15 |  |
+| [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-10-15 | 2023-07-30 |
+| [Why Things Happen](https://open.spotify.com/track/2w9rZJzFDvECtR44AoO8s2) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:16 | 2023-07-28 |  |
 | [Woman Up \(And Take It Like A Man\)](https://open.spotify.com/track/4ed8tSfo4yU778D2mzIptV) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:27 | 2022-03-04 |  |
 | [Wonderful Future](https://open.spotify.com/track/0FVX4SksBjtW12WwXmaTvA) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Outside the Box](https://open.spotify.com/album/7n8oIGDVjdkgiRql7hPwbT) | 2:54 | 2022-09-16 |  |
 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 | 2021-10-15 |  |

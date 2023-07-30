@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 188093,
       "name": "El Mismo Sol",
       "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
@@ -700,6 +700,28 @@
       "duration_ms": 225533,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Hold You Down (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
     },
     {
       "album": {

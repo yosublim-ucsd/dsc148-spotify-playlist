@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz, Tim Henson & Silverstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,192 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,196 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 79 | [You & I](https://open.spotify.com/track/6Z183xN5O6dxfXJWxiJaVs) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Favia](https://open.spotify.com/artist/4N8uvQb3tYPxlR38FJacyf) | [You & I](https://open.spotify.com/album/2i0qlZCei9ZzPdQJY51VsU) | 3:18 |
 | 80 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 |
 
-Snapshot ID: `MCxhYjU0YjI5Mzc3ZTViNzIyMTdjZDRiZWYyYTllODcwODI5MjIyMjhi`
+Snapshot ID: `MCxmOTE2MjVmZmQ1YTM4ZGU1OGQzNjE2ODk0NWYwMTdhOGQ0YzkxNDJi`

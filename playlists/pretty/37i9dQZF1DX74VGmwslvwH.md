@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,496 likes - 103 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,578 likes - 103 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 94 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
 | 95 | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK) | [CALMING & PEACEFUL VIBES](https://open.spotify.com/artist/0Kzexs0X9tAOobFWG68J7x) | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/album/2X1JJ00htpKDWqWNCMPN1N) | 4:21 |
 | 96 | [Blossom](https://open.spotify.com/track/3NDKacIupHEbaXig16Rd96) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Blossom](https://open.spotify.com/album/7ICFrUMGEsDYWx3XehREpH) | 3:21 |
-| 97 | [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 |
+| 97 | [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 |
 | 98 | [Vishram](https://open.spotify.com/track/14uHrpJDryglZGbZ00E25V) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Vishram](https://open.spotify.com/album/0eRoacAVuWXpwGjuawLvDI) | 3:24 |
 | 99 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 |
 | 100 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 102 | [The Child Within \- The 'Seb Meets Astropilot' Ambient Mix](https://open.spotify.com/track/4PDnVvoXjz4MTMHehCWxgF) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [Seb Taylor](https://open.spotify.com/artist/2OvXxjn0r118YKl6bR43ty), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(the 'Seb Meets Astropilot' Ambient Mix\)](https://open.spotify.com/album/2HAHOMAASHby5AM4HbCCyv) | 4:40 |
 | 103 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 |
 
-Snapshot ID: `MCw4YTJmZjkyNDVlMjNlNTRjOGQ5MTBlMTVkZjg3YjczM2QxM2NiMjc5`
+Snapshot ID: `MCwyZmVkYmNjNTEzNmNmZDgwNDIzNjQ1MzEzZDBkYTQ3OGVhYzE5YzVi`

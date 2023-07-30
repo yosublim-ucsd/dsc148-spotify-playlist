@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad\">Guvna B</a>",
-  "num_followers": 54721,
+  "num_followers": 54871,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2ZmZDNjMjc5Y2JlOWY5NjJlM2Y5MTdhYWYzMzBiMmQzYzNkMWNi",
+  "snapshot_id": "MCw0NTU5ZjBlYzA2ZWEyZDZmMjhlZmEzYzUxYzQyZWIwNTVkMTllOTBl",
   "tracks": [
     {
       "added_at": "2023-05-19 08:55:16",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Kulosa Gospel Cover (Remix)",
+        "url": "https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO"
+      },
+      "artists": [
+        {
+          "name": "elnazor Obi",
+          "url": "https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7"
+        }
+      ],
+      "duration_ms": 77419,
+      "name": "Kulosa Gospel Cover - Remix",
+      "url": "https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Purple Purpose",
-        "url": "https://open.spotify.com/album/5KruixumnQm6iqZ7sPorV2"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Jehovah Jireh",
-      "url": "https://open.spotify.com/track/0Slwb2sCRpsFBaMwIf2Qrq"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Purple Purpose",
+        "url": "https://open.spotify.com/album/5KruixumnQm6iqZ7sPorV2"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 213781,
+      "name": "Jehovah Jireh",
+      "url": "https://open.spotify.com/track/0Slwb2sCRpsFBaMwIf2Qrq"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 167800,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Kulosa Gospel Cover (Remix)",
-        "url": "https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO"
-      },
-      "artists": [
-        {
-          "name": "elnazor Obi",
-          "url": "https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7"
-        }
-      ],
-      "duration_ms": 77419,
-      "name": "Kulosa Gospel Cover - Remix",
-      "url": "https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "You Are Good",
-        "url": "https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Bo Ta Joor",
         "url": "https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 160463,
       "name": "Bo Ta Joor",
       "url": "https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Oh the day",
-        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 157335,
-      "name": "Oh the day",
-      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Hallow",
         "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
       },
@@ -859,26 +843,6 @@
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Oluwa",
-        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 160528,
-      "name": "Oluwa",
-      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -899,6 +863,42 @@
       "duration_ms": 145278,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Oh the day",
+        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 157335,
+      "name": "Oh the day",
+      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Oluwa",
+        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "duration_ms": 160528,
+      "name": "Oluwa",
+      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Ike",
-        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+        "name": "Cock & Bull",
+        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
       },
       "artists": [
         {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 229363,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+      "duration_ms": 602290,
+      "name": "Cock & Bull",
+      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1095,6 +1091,26 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Ike",
+        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 229363,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Savior",
         "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 153473,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Cock & Bull",
-        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 602290,
-      "name": "Cock & Bull",
-      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6P176G2hogYm9WEFbgxfdB"
-      },
-      "artists": [
-        {
-          "name": "Lamboginny",
-          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5UAp4tXcolMuCWfW5Mrkro"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -1311,38 +1295,6 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 156735,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1367,6 +1319,38 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6P176G2hogYm9WEFbgxfdB"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5UAp4tXcolMuCWfW5Mrkro"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Siyahamba",
         "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 179500,
       "name": "Siyahamba",
       "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 156735,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "YOUR MIND",
-        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "YOUR MIND",
-      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Belongs to You (EDM Remix)",
         "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 187500,
       "name": "Belongs to You - EDM Remix",
       "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Nobody Like You",
-        "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
+        "name": "GOD'S LOVE",
+        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
         },
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 185959,
-      "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
-      "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
+      "duration_ms": 137064,
+      "name": "GOD'S LOVE",
+      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "GOD'S LOVE",
-        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 137064,
-      "name": "GOD'S LOVE",
-      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+      "duration_ms": 185959,
+      "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
+      "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Concussion",
         "url": "https://open.spotify.com/album/7G0COo6oAAHrgLidUnr07I"
       },
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
-      },
-      "artists": [
-        {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
       },
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21"
-      },
-      "artists": [
-        {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        },
-        {
-          "name": "OJIH",
-          "url": "https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 152730,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21"
+      },
+      "artists": [
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        },
+        {
+          "name": "OJIH",
+          "url": "https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Legacy (Remix)",
+        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
+      },
+      "artists": [
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Legacy - Remix",
+      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Yakpa",
         "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
       },
@@ -1847,18 +1863,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Legacy (Remix)",
-        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
+        "name": "Agba",
+        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
       },
       "artists": [
         {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
         }
       ],
-      "duration_ms": 179513,
-      "name": "Legacy - Remix",
-      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
+      "duration_ms": 204434,
+      "name": "Agba",
+      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1883,26 +1903,6 @@
       "duration_ms": 164702,
       "name": "Efficient",
       "url": "https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Agba",
-        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        },
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "Agba",
-      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1971,22 +1971,18 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Hiro Lyon",
+          "url": "https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX"
         }
       ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+      "duration_ms": 234083,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD"
     }
   ],
   "unique_name": "AfroGospel",

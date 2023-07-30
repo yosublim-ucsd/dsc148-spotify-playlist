@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,042 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,055 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 9 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
 | 10 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
 | 11 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 |
-| 12 | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
+| 12 | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
 | 13 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 14 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
 | 15 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 |
 | 50 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 |
 
-Snapshot ID: `MCxkYTQzNTljMjE5NmE2MWQ1MzAwNDRjNjg1MGZiYzkyMjExZWZjYWQ5`
+Snapshot ID: `MCxlYWM1MjJlNDVmZmY0YjdlODE4ODBlYmFmZTcyMTg2ZjI5NGM2ODk0`

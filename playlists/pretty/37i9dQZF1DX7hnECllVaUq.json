@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Kip Moore",
-  "num_followers": 26401,
+  "num_followers": 26536,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGE3Mjg2ZGI1YzU5YTBiZWYyMmIyNDBkNDkzZTRiNGNkMGUyNWU4",
+  "snapshot_id": "MCw4Y2U1OWQ4Yjc3MTc2ZTNjMTI4ZTRkODY3ODZkZTEwMGY5MjU5NDQ1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Last Time Last",
-        "url": "https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks"
+        "name": "You Got The Wrong Guy",
+        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        },
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
         }
       ],
-      "duration_ms": 183644,
-      "name": "Last Time Last",
-      "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
+      "duration_ms": 180615,
+      "name": "You Got The Wrong Guy",
+      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "You Got The Wrong Guy",
-        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
+        "name": "Last Time Last",
+        "url": "https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks"
       },
       "artists": [
         {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 180615,
-      "name": "You Got The Wrong Guy",
-      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
+      "duration_ms": 183644,
+      "name": "Last Time Last",
+      "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
     }
   ],
   "unique_name": "Country Worldwide",

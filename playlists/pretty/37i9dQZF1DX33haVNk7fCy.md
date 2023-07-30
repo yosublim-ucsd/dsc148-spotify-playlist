@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,432 likes - 68 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,814 likes - 68 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 11 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
 | 12 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 13 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 |
-| 14 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
+| 14 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 |
 | 15 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 |
-| 16 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 |
+| 16 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
 | 17 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 |
 | 18 | [Tune Jo Na Kaha](https://open.spotify.com/track/0pw3p4gf5homOkvOGOJulF) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [New York](https://open.spotify.com/album/66DHPOlHSIRiBiGjG7Xvfx) | 5:10 |
 | 19 | [Main Dhoondne Ko Zamaane Mein \(From "Heartless"\)](https://open.spotify.com/track/43YkTTlOD203o9E5ZxhUjF) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Arijit Singh Broken Strings](https://open.spotify.com/album/6jk3ucx33D7CLURgcfVFOT) | 4:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 67 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 |
 | 68 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 
-Snapshot ID: `MCxlOWVjZGE4ZGUzYzUwMjJlMjg4M2MzM2ZkMjk1NTIwNjNlNzgwNWI4`
+Snapshot ID: `MCw5ZTZkYzFjN2M0MTlhNmYwOTM1ZDVhYmRkMzk5YWM2ZTkwYzg3Yzhm`

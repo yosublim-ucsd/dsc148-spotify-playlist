@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-204 songs - 10 hr 45 min
+205 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 | 2022-07-26 |  |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2022-01-04 | 2022-07-27 |
 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Dance Fruits Music](https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP) | 2:13 | 2022-07-26 | 2023-07-26 |
-| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [NYE Party](https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7) | 2:13 | 2023-07-28 |  |
+| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M) | 2:13 | 2023-07-28 |  |
+| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [NYE Party](https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7) | 2:13 | 2023-07-28 | 2023-07-30 |
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-07-26 |  |
 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2022-10-12 |  |
 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 | 2022-01-04 | 2023-01-30 |

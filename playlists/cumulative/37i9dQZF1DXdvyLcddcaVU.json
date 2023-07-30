@@ -1006,7 +1006,7 @@
     {
       "album": {
         "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
       "artists": [
         {
@@ -1017,6 +1017,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"

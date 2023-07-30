@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,145 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,235 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Dis\-moi tout](https://open.spotify.com/track/61pucFFwYO0Y8iH8kURccf) | [Svudvde](https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo) | [Dis\-moi tout](https://open.spotify.com/album/6RiKiXDQoeZSXVDpe4HnBb) | 2:52 |
 | 40 | [Sans Filtre](https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Sans Filtre](https://open.spotify.com/album/5JczTcyvSeUFSE4h5pBfIW) | 3:00 |
 
-Snapshot ID: `MCxmMzE3YmQ1OTYzODk2MDU1YzY5Y2U4OGVkNmE4YmJkZDg1MDNlOWRm`
+Snapshot ID: `MCwxZTkyMGJmYTY3NTI2Nzk1ZDAyMTE1MzYyODhhOTJiNGQxMjRlM2Nl`

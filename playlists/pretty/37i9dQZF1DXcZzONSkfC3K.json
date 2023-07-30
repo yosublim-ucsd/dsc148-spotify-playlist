@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 140929,
+  "num_followers": 140990,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjEzY2JmN2M4NjRkYmNmNDBkNTFiZWEyYjI1YzkzNTgwOGRiNWUz",
+  "snapshot_id": "MCxjMTczY2Y3ODBjZmU1ZTJkMTI2ZGRhMGZmZDc4ZGU3MzhhN2NhZjE1",
   "tracks": [
     {
       "added_at": "2023-07-28 03:19:30",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-07-28 03:19:30",
       "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+      "duration_ms": 195468,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2"
     },
     {
       "added_at": "2023-07-28 03:19:30",
@@ -627,6 +623,26 @@
     {
       "added_at": "2023-07-28 03:19:30",
       "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2023-07-28 03:19:30",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
-    },
-    {
-      "added_at": "2023-07-28 03:19:30",
-      "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 195468,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2"
     },
     {
       "added_at": "2023-07-28 03:19:30",

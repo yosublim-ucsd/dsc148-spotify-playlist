@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628179,
+  "num_followers": 628160,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
+  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -635,34 +635,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Jackie Chan",
-        "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        },
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215759,
-      "name": "Jackie Chan",
-      "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Jackie Chan",
+        "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Jackie Chan",
+      "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 203631,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Oh Child",
         "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 195261,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Beso",
-        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 203631,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Silent Sun",
         "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 171245,
       "name": "Silent Sun",
       "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
     },
     {
       "added_at": "2023-02-17 03:00:00",

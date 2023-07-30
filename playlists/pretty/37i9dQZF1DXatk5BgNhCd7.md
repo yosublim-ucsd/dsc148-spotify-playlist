@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Big One, Rusherking, Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,835 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,909 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [La Espina en México \- En Vivo](https://open.spotify.com/track/5pYZGTuuu4mB4p1HBVwlFn) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [La Espina en México \(En Vivo\)](https://open.spotify.com/album/2T12GY1tLBX8wdgZj8nzx3) | 3:07 |
 | 5 | [Como A Nadie](https://open.spotify.com/track/27r1KnZXHGkuLRGctCyD7D) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Como Nadie](https://open.spotify.com/album/70gqKr2KTS4AhGXxBeC0xy) | 3:46 |
 | 6 | [Abran Paso](https://open.spotify.com/track/5Z3KlByddzfueFO3jAWpJQ) | [Billy Vera](https://open.spotify.com/artist/6BumpTZy2HOcTbywLrAJLB), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Maquinon](https://open.spotify.com/artist/1HpKEcHgBuQQUVXeWkpOV0) | [Abran Paso](https://open.spotify.com/album/5Iu0KOfyVadFF2SAnuBTPD) | 2:03 |
-| 7 | [Perdido en el Alcohol](https://open.spotify.com/track/3xCJJclq5ri6rkne87CE9i) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Perdido en Alcohol](https://open.spotify.com/album/4GqW2S0AJrh6ixNjihG273) | 3:02 |
+| 7 | [Perdido en Alcohol](https://open.spotify.com/track/3xCJJclq5ri6rkne87CE9i) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Perdido en Alcohol](https://open.spotify.com/album/4GqW2S0AJrh6ixNjihG273) | 3:02 |
 | 8 | [TRAN.KILO](https://open.spotify.com/track/559RjQCoHUvl7wuXU0PFms) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [TRAN.KILO](https://open.spotify.com/album/4FwpDti3pS1BpcSyBOd6VX) | 3:05 |
 | 9 | [Cuando Baila](https://open.spotify.com/track/3GE0n3hIazM0BGBSbDTer1) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Cuando Baila](https://open.spotify.com/album/6JKsJRQSeJRvn1LQakdxC1) | 2:23 |
 | 10 | [Triste Canción de Amor](https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Triste Canción de Amor / Lo Que Me Duele](https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Ella Baila Sola \- Bachata](https://open.spotify.com/track/4bHzVlcRel2OxVJ4uBZLME) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Ella Baila Sola](https://open.spotify.com/album/18o1cHOnQ9JcksXGXSeQmr) | 2:45 |
 | 50 | [Cómo Se Olvida](https://open.spotify.com/track/1xMRIFh8HKmOBiVkYUFtXp) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Cómo Se Olvida](https://open.spotify.com/album/3YzhMQ87jEhzRVqbn2d7ez) | 3:20 |
 
-Snapshot ID: `MCxjN2NhZDJkMTY1MzQ1NGExYTQxOGY4OWI5YzJhNTg3M2Y3YmYzM2Ri`
+Snapshot ID: `MCxiMmU0M2M5NzhlNDRlMjBhNzhlZDEzODFjYjYxNjI5MTQ1Mzc0Nzhj`

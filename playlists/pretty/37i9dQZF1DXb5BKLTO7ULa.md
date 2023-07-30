@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,274 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,317 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 6 | [Freak](https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Freak](https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn) | 2:33 |
 | 7 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 |
 | 8 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
-| 9 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/436zW2YNa5hDrrtOSJwyJt) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
+| 9 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
 | 10 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 11 | [Vakantie](https://open.spotify.com/track/5vZ2ANfuaIKIIUxyhWyi2b) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS), [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [Vakantie](https://open.spotify.com/album/3cnsJDKrLA8i4rlnQaXtQS) | 3:04 |
 | 12 | [Hollywood](https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Hollywood](https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH) | 2:34 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Moving Into Tucson](https://open.spotify.com/track/5xdHN0dVW9PLxaiqpDSCFK) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Moving Into Tucson](https://open.spotify.com/album/6f3kMkSt9E24Ai203Hehse) | 3:27 |
 | 94 | [Happy](https://open.spotify.com/track/6yFrsXnPJYWNyWiCrwRh9k) | [The Sunset Society](https://open.spotify.com/artist/1ZXfQxTLk25XK3ePd8EwtU) | [Songs Of Love](https://open.spotify.com/album/4WfaALP600ins6emi4SM6f) | 1:52 |
 
-Snapshot ID: `MCwxMTExMWI0NjU2ODI2Njg0MWNiNTM3NzRhOWZkNWRkMTA3MjgxZDUx`
+Snapshot ID: `MCw0NDU1NjJiOTk0NGNkNjA0MDM2YWFkYjk0YzM2NTgzYTllYzNhYWZk`

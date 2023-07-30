@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-202 songs - 12 hr 58 min
+203 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Filthy Rich](https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Filthy Rich](https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg) | 2:01 | 2023-05-19 | 2023-07-03 |
 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 | 2021-10-29 | 2022-07-29 |
 | [Forest Fires](https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9) | 3:30 | 2021-10-29 |  |
-| [Forever Means](https://open.spotify.com/track/2OGXIpzLiNf1aKvoEjnNRR) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Forever Means](https://open.spotify.com/album/6VHVjHm8c0RVdeGL6qzU87) | 3:27 | 2023-04-14 |  |
+| [Forever Means](https://open.spotify.com/track/0FFFiX7StlRc865CB01DRQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Forever Means](https://open.spotify.com/album/6DwEWwprdASbI7T0sI6q8v) | 3:27 | 2023-06-16 |  |
+| [Forever Means](https://open.spotify.com/track/2OGXIpzLiNf1aKvoEjnNRR) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Forever Means](https://open.spotify.com/album/6VHVjHm8c0RVdeGL6qzU87) | 3:27 | 2023-04-14 | 2023-07-30 |
 | [Garden](https://open.spotify.com/track/0Fhm1Jjz3h7bNOeNWr7NzE) | [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [I Go Missing In My Sleep](https://open.spotify.com/album/6CSmsCWZjz4LPDaog0cQJG) | 3:31 | 2021-10-29 | 2022-11-13 |
 | [Garden](https://open.spotify.com/track/2YQdxGS9tPTajcvO2yRMuE) | [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Garden](https://open.spotify.com/album/51V4m6QcOmTplSl8QEoqaj) | 3:32 | 2021-10-29 | 2022-07-29 |
 | [Goat](https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/5DuLQc0FCBPVfEec1Go2ey) | 3:48 | 2021-10-29 | 2022-07-29 |

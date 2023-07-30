@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Imagine Dragons",
-  "num_followers": 58642,
+  "num_followers": 58684,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjI2MzQwZWVkZTA3MDE5MTNlZTEwNzcxMzBkYWUwNDNmNTM0OTc0",
+  "snapshot_id": "MCxhY2U1NWU1NDk5MGI1ZWY1MzViMjUzMmY3M2I0OTUxZmQxZjFkNWFl",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 285930,
-      "name": "I See Fire - Live and in Session",
-      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "k bye for now (swt live)",
         "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 226849,
       "name": "7 rings - live",
       "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 285930,
+      "name": "I See Fire - Live and in Session",
+      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 233416,
+      "name": "no tears left to cry - live",
+      "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
         "url": "https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "no tears left to cry - live",
-      "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 420791,
       "name": "Party In The USA - Live",
       "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 389728,
+      "name": "thank u, next - live",
+      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Gloria (Special Edition)",
-        "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 253671,
-      "name": "Stay With Me - Live From The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Serious Hits...Live! (2019 Remaster)",
         "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 336573,
       "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
       "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 389728,
-      "name": "thank u, next - live",
-      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -743,6 +727,22 @@
       "duration_ms": 215173,
       "name": "Fields Of Gold - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Gloria (Special Edition)",
+        "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 253671,
+      "name": "Stay With Me - Live From The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 486889,
-      "name": "Latch - Live From Madison Square Garden",
-      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 298051,
       "name": "Praying For Time - Live",
       "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 486889,
+      "name": "Latch - Live From Madison Square Garden",
+      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 321453,
       "name": "Lemon Tree - Acoustic Live Version",
       "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Tina Live",
-        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "What's Love Got to Do with It - Live in Arnhem",
-      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+        "name": "Tina Live",
+        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
+      "duration_ms": 219240,
+      "name": "What's Love Got to Do with It - Live in Arnhem",
+      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
     },
     {
       "added_at": "2023-05-14 16:51:28",

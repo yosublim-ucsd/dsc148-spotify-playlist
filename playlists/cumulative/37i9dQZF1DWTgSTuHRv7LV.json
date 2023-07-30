@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 135003,
       "name": "ANGOLA",
       "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
@@ -5624,6 +5624,40 @@
       "duration_ms": 243200,
       "name": "La Dieta del Barrio",
       "url": "https://open.spotify.com/track/6CbApC7Ratt2fddBLCcFln"
+    },
+    {
+      "album": {
+        "name": "La Gracia De Dios",
+        "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Polakan",
+          "url": "https://open.spotify.com/artist/66Q0sKoITOwDGz49FOVlBa"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270897,
+      "name": "La Gracia De Dios",
+      "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
     },
     {
       "album": {

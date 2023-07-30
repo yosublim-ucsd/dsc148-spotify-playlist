@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347,053 likes - 159 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,347,288 likes - 159 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 3 | [Girls Like You](https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Girls Like You](https://open.spotify.com/album/3DqlptGG7VBb3CXxIxHbtz) | 2:53 |
 | 4 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
 | 5 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
-| 6 | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
+| 6 | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
 | 7 | [Same Type](https://open.spotify.com/track/5ZWbzxXxywmBQI0eHDUmLV) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:30 |
 | 8 | [ELEVATE \(ft\. Mack Keane\)](https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:33 |
 | 9 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 158 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 |
 | 159 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 |
 
-Snapshot ID: `MCw0OWZlNDVlNGI5MzBkNzA0MzY2MzFjZjhhY2NiYjA2MzIzYjMyN2Rk`
+Snapshot ID: `MCwwYWFkZTg3ZTc3YWZkODZmNGEyZjBmYjM0ZWY2ZDg5OGVkNTA2ODU0`

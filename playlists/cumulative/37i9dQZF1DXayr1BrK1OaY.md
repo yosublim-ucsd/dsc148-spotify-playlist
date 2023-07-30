@@ -4,14 +4,14 @@
 
 > let the dj set u free
 
-204 songs - 13 hr 49 min
+205 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 | 2023-06-09 | 2023-07-01 |
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-09 | 2023-06-25 |
 | [11\-11](https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [11\-11](https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4) | 4:07 | 2021-10-01 | 2022-07-29 |
-| [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 | 2021-04-02 |  |
+| [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 | 2021-04-02 | 2023-07-30 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-02 | 2023-02-01 |
 | [About You](https://open.spotify.com/track/47CAaly9JZ3kyXzZcXVfvw) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [About You](https://open.spotify.com/album/5HMMIKLIhg51ObQNvqdj8k) | 6:16 | 2021-10-01 | 2022-04-13 |
 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 | 2022-01-28 | 2022-07-29 |
@@ -171,6 +171,7 @@
 | [Something About](https://open.spotify.com/track/7JAYdUpFc003nvCNWD1PkK) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/7a6OiEYIbq9d8UKrAAetAS) | 3:44 | 2022-03-25 | 2022-07-29 |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2021-04-02 |  |
 | [Something I Can Feel](https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ) | [Denis First](https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Something I Can Feel](https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp) | 2:58 | 2022-09-02 | 2023-01-22 |
+| [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 | 2023-07-28 |  |
 | [Spotlight](https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 5:31 | 2021-04-02 | 2023-07-15 |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-05-07 | 2022-09-03 |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-04-02 | 2023-03-29 |

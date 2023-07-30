@@ -3904,10 +3904,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 145750,
       "name": "I SING HIGH",
       "url": "https://open.spotify.com/track/02WXDgjQkcydnk4b24IRBG"
+    },
+    {
+      "album": {
+        "name": "Music for Saxofone & Bass Guitar More Songs",
+        "url": "https://open.spotify.com/album/2KdFDb8XBuXLkl8wBIeE4p"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "I SING HIGH",
+      "url": "https://open.spotify.com/track/6ffoKpSQyhCbR9tI5RQC9f"
     },
     {
       "album": {
@@ -6430,7 +6452,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 421945,
       "name": "One Theme",
       "url": "https://open.spotify.com/track/5ph2tEsYdaBmN6u4I8KhEE"
@@ -10554,7 +10576,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 295898,
       "name": "Ya Tatu",
       "url": "https://open.spotify.com/track/1gLmgmrqTNEOZYVV2I934m"

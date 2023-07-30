@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Ethan Tasch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,575 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,722 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Spitting Off the Edge of the World \- Lush Version](https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World \(Lush Version\)](https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH) | 4:23 |
 | 150 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 |
 
-Snapshot ID: `MCxmYTMzMmU1MDYxNTNkOWQ1Njk4YmE1NGUwN2VjN2RjYmQ3NmM0NTg1`
+Snapshot ID: `MCwwMTZlMTU0ZjEyZjEwZjVmNGU0OGIyNWI3MGMzY2MxZjY1NGIwYjMz`

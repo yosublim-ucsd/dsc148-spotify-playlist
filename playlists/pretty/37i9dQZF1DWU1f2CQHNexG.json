@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 96359,
+  "num_followers": 96528,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjhkZmUzODkzOGEzNTcxNDFhYzU4ZjJjYTc2YWUwYzQxZDk1NDIx",
+  "snapshot_id": "MCw0OTY4YmQ4MjkzMGM1NjYyZWYwNjRmZjRmYjhlOGJiOWFmMjI2ZjVk",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "Falco 3",
         "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202236,
       "name": "Rock Me Amadeus",
       "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
     },
     {
       "added_at": "2023-02-02 20:54:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 195506,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2023-02-02 20:54:30",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-02-02 20:54:30",

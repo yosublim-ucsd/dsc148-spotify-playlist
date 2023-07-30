@@ -1,12 +1,12 @@
 {
   "description": "Cause I'm a person just like you but I got better things to do.",
-  "num_followers": 21510,
+  "num_followers": 21529,
   "original_name": "Straight Edge Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDQ2YmFhOWUzZDMxZjY2NmRmZmIxNTFlOWY2ZDM0YTczNzQ4YWZj",
+  "snapshot_id": "MCw3NmRhZjFlOGEzMTBiNmE3ODA0ODhlNmZjMzQ3YWM3ZWY4YmRlMWZk",
   "tracks": [
     {
       "added_at": "2021-07-09 16:06:04",
@@ -23,6 +23,54 @@
       "duration_ms": 45160,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
+    },
+    {
+      "added_at": "2021-07-09 16:06:04",
+      "album": {
+        "name": "Drive Me Dead",
+        "url": "https://open.spotify.com/album/018sFhNE5wUqQ9oKLQQTED"
+      },
+      "artists": [
+        {
+          "name": "Throwdown",
+          "url": "https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Raise Your Fist",
+      "url": "https://open.spotify.com/track/2z7aKCTcovzjutnJCtYuMP"
+    },
+    {
+      "added_at": "2021-07-09 16:06:04",
+      "album": {
+        "name": "Twin Killing",
+        "url": "https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG"
+      },
+      "artists": [
+        {
+          "name": "Floorpunch",
+          "url": "https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF"
+        }
+      ],
+      "duration_ms": 49266,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/2iHrDSkDhKvvoljjam1naY"
+    },
+    {
+      "added_at": "2021-07-09 16:06:04",
+      "album": {
+        "name": "The One Thing That Still Holds True",
+        "url": "https://open.spotify.com/album/0hnswSr8phfJBcDFWl7e2K"
+      },
+      "artists": [
+        {
+          "name": "Chain Of Strength",
+          "url": "https://open.spotify.com/artist/1zLeNHq4M54hoXRnm6n9tM"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "True Till Death",
+      "url": "https://open.spotify.com/track/5lqOhHKw9WzRmPCgY6cBYh"
     },
     {
       "added_at": "2021-07-09 16:06:04",
@@ -87,22 +135,6 @@
       "duration_ms": 153813,
       "name": "Youth Crew",
       "url": "https://open.spotify.com/track/3pU0zhuy1zrJKSZSCMxpaS"
-    },
-    {
-      "added_at": "2021-07-09 16:06:04",
-      "album": {
-        "name": "The One Thing That Still Holds True",
-        "url": "https://open.spotify.com/album/0hnswSr8phfJBcDFWl7e2K"
-      },
-      "artists": [
-        {
-          "name": "Chain Of Strength",
-          "url": "https://open.spotify.com/artist/1zLeNHq4M54hoXRnm6n9tM"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "True Till Death",
-      "url": "https://open.spotify.com/track/5lqOhHKw9WzRmPCgY6cBYh"
     },
     {
       "added_at": "2021-07-09 16:06:04",
@@ -279,22 +311,6 @@
       "duration_ms": 209160,
       "name": "Gomorrah's Season Ends",
       "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
-    },
-    {
-      "added_at": "2021-07-09 16:06:04",
-      "album": {
-        "name": "Twin Killing",
-        "url": "https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG"
-      },
-      "artists": [
-        {
-          "name": "Floorpunch",
-          "url": "https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF"
-        }
-      ],
-      "duration_ms": 49266,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/2iHrDSkDhKvvoljjam1naY"
     },
     {
       "added_at": "2021-07-09 16:06:04",
@@ -791,22 +807,6 @@
       "duration_ms": 81426,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1bhIx7OdRatEgGvCQKXXI6"
-    },
-    {
-      "added_at": "2021-07-09 16:06:04",
-      "album": {
-        "name": "Drive Me Dead",
-        "url": "https://open.spotify.com/album/018sFhNE5wUqQ9oKLQQTED"
-      },
-      "artists": [
-        {
-          "name": "Throwdown",
-          "url": "https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Raise Your Fist",
-      "url": "https://open.spotify.com/track/2z7aKCTcovzjutnJCtYuMP"
     },
     {
       "added_at": "2021-07-09 16:06:04",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 57177,
+  "num_followers": 57259,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNThlNGU0ZGE5N2Q5YzRmYTgyOWE3OTM2NDQ5ZjA5NmU0YjdlNzE4",
+  "snapshot_id": "MCw0NjE0NjE5MjhhZmU4YjFmOWM1MTBlODUwYTBlNDcxYzE4NzlhZTZi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Tudo Vai Terminar Bem",
+        "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "duration_ms": 225735,
+      "name": "Tudo Vai Terminar Bem",
+      "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 188061,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Tudo Vai Terminar Bem",
-        "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
-      },
-      "artists": [
-        {
-          "name": "Minha Vida \u00e9 Uma Viagem",
-          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        }
-      ],
-      "duration_ms": 225735,
-      "name": "Tudo Vai Terminar Bem",
-      "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
     },
     {
       "added_at": "2023-07-28 03:00:00",

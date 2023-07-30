@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-395 songs - 1 day 4 hr 52 min
+396 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 | 2022-08-12 | 2022-10-03 |
 | [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-07-01 | 2023-04-30 |
 | [My Light](https://open.spotify.com/track/0eANfKS2OdrNW97hqnN2Hd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Arkade Destinations Iceland](https://open.spotify.com/album/5co9bcybiUIWZleDoNLo7w) | 4:55 | 2021-05-07 | 2022-04-18 |
-| [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 | 2021-05-07 |  |
+| [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 | 2021-05-07 | 2023-07-30 |
 | [Naked in Space](https://open.spotify.com/track/0XdpgAs8Fp8fxMJsCiiD2U) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Stub](https://open.spotify.com/artist/78pxK5C9rPSl4lyfb4wOnN) | [Naked in Space EP](https://open.spotify.com/album/6ZHDKTljQyVW2Oqok8vOG9) | 3:16 | 2021-05-07 | 2022-07-19 |
 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 | 2021-05-07 | 2022-07-29 |
 | [Necessary Evil](https://open.spotify.com/track/7iDmdm79hvjnMqZe5oF69h) | [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Necessary Evil](https://open.spotify.com/album/50HwQ95ByIvY7fIPNzA92T) | 3:07 | 2021-05-07 | 2022-07-26 |
@@ -303,6 +303,7 @@
 | [Solace](https://open.spotify.com/track/0feNo72QolanySmddGhGkc) | [Fangs](https://open.spotify.com/artist/4uwjtp0lY1WNyPdWoGzPf6) | [Solace](https://open.spotify.com/album/53frXkObbpOpfRImwR9O2Q) | 4:40 | 2021-05-07 | 2022-05-31 |
 | [Solace](https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Textures](https://open.spotify.com/album/60phFMk7gOvMHD5Bro6qXg) | 4:50 | 2021-05-07 | 2022-07-22 |
 | [Soloma](https://open.spotify.com/track/3IPbBrbr8oO8oWyJIZTu8r) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr) | [Soloma](https://open.spotify.com/album/4SQIO1v71xFw6n0YAgHkur) | 4:34 | 2021-05-07 | 2022-07-04 |
+| [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 | 2023-07-28 |  |
 | [Sonoma](https://open.spotify.com/track/0YrQuaYeWmUnZRfPFEYC5N) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Sonoma / Luna](https://open.spotify.com/album/0mwvQSu6tdpSrjLYjHgqNZ) | 3:52 | 2021-05-07 | 2022-04-18 |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-10 |  |
 | [Space Between Us](https://open.spotify.com/track/7i6E5BAg4MCdRymdTNv2bc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:03 | 2021-05-07 | 2022-04-16 |

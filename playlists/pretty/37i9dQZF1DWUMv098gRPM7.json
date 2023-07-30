@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Idman",
-  "num_followers": 5580,
+  "num_followers": 5607,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmIzZTU4ZWQ3OGEyZWJkZWI0MDc4MzdkYjk4NGIyOThmZjVkZjA3",
+  "snapshot_id": "MCwwNTRmZmU4OWYxYWMyMjgxZjhiMzY2NDM1MjMxMjczNDJiMmRjZDBm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Time Goes \"Bye\"",
+        "url": "https://open.spotify.com/album/55FALUa466PtpCqbVDbalm"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "duration_ms": 261027,
+      "name": "Time Goes \"Bye\"",
+      "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 227946,
       "name": "Open (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Time Goes \"Bye\"",
-        "url": "https://open.spotify.com/album/55FALUa466PtpCqbVDbalm"
-      },
-      "artists": [
-        {
-          "name": "Jex Nwalor",
-          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
-        }
-      ],
-      "duration_ms": 261027,
-      "name": "Time Goes \"Bye\"",
-      "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "BEFORE LOVE CAME TO KILL US (Deluxe)",
         "url": "https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 215213,
       "name": "FAR AWAY II (feat. A Boogie Wit da Hoodie & JID)",
       "url": "https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Play With The Changes (Remixed)",
-        "url": "https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 284606,
-      "name": "All Along (Kaytranada Remix)",
-      "url": "https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Play With The Changes (Remixed)",
+        "url": "https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 284606,
+      "name": "All Along (Kaytranada Remix)",
+      "url": "https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "When Flowers Bloom",
-        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 199770,
-      "name": "Alone In Kenzo",
-      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 180874,
       "name": "Love Shit",
       "url": "https://open.spotify.com/track/0L2qoVdYFANCKydaeuqDHU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "duration_ms": 199770,
+      "name": "Alone In Kenzo",
+      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
     }
   ],
   "unique_name": "R&B Rewind",

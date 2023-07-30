@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-239 songs - 14 hr 17 min
+240 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2022-06-20 |  |
 | [Go Down River](https://open.spotify.com/track/5gWVKOLeoNkmsMHLUrXGzU) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/2eLDIgJg4QDe5pkmwEc7pB) | 4:26 | 2021-10-01 | 2022-06-21 |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-11 | 2023-03-16 |
-| [Good Lady](https://open.spotify.com/track/2WgzgqiDT9QJHSQoM3wTry) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:25 | 2023-05-19 |  |
+| [Good Lady](https://open.spotify.com/track/2WgzgqiDT9QJHSQoM3wTry) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:25 | 2023-05-19 | 2023-07-30 |
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-08-02 | 2023-04-30 |
 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 | 2022-03-01 |
 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 | 2021-10-01 | 2022-07-27 |
@@ -166,7 +166,7 @@
 | [Pain and Misery](https://open.spotify.com/track/74MhYN5UyyDx0W2cbTUZYo) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:00 | 2022-06-01 | 2022-09-15 |
 | [Pain and Misery](https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 4:01 | 2021-10-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-11-13 |
-| [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 | 2023-05-19 | 2023-07-18 |
+| [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 | 2023-05-19 |  |
 | [Persistence](https://open.spotify.com/track/4lgnsoBDruL2TzW00kI9xP) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Persistence](https://open.spotify.com/album/3qLAGo8JfSOc7nAUjO9QLW) | 2:51 | 2021-10-01 | 2022-07-28 |
 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 | 2021-10-01 |  |
 | [Place Names](https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 3:53 | 2023-05-19 |  |
@@ -227,7 +227,8 @@
 | [The Denial Twist](https://open.spotify.com/track/7BMgx9rf5sNUCUGXnKKoew) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/6QK4LkEULkPZjhRPaRvYyV) | 2:35 | 2021-10-01 | 2022-07-29 |
 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 | 2021-10-01 | 2022-07-29 |
 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 | 2021-10-01 |  |
-| [This Is A Photograph II](https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph II b/w Five Easy Pieces Revisited](https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30) | 2:56 | 2023-04-28 |  |
+| [This Is A Photograph II](https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 2:56 | 2023-07-21 |  |
+| [This Is A Photograph II](https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph II b/w Five Easy Pieces Revisited](https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30) | 2:56 | 2023-04-28 | 2023-07-30 |
 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 | 2022-06-01 |  |
 | [To the Boys](https://open.spotify.com/track/52dhb3ZAR5RRN695C7z3UG) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [To the Boys](https://open.spotify.com/album/0NMBhJrx4szULWFv3WxUfA) | 3:47 | 2021-10-01 | 2022-07-29 |
 | [Tower of Babel](https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Keep Your Courage](https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe) | 2:28 | 2023-04-28 |  |

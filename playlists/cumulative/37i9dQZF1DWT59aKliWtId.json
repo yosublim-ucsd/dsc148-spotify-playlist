@@ -7470,10 +7470,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 241216,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7"
+    },
+    {
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241216,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/73fzDLtCR3jMZrwNZlQXpo"
     },
     {
       "album": {

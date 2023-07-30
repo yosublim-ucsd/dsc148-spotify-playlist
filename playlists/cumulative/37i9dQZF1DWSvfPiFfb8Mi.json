@@ -245,6 +245,46 @@
     },
     {
       "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
+    {
+      "album": {
+        "name": "Back In Time EP",
+        "url": "https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY"
+      },
+      "artists": [
+        {
+          "name": "Ricky Razu",
+          "url": "https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375483,
+      "name": "Back In Time - Original Mix",
+      "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
+    },
+    {
+      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
       },
@@ -1914,7 +1954,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 205456,
       "name": "Just for the Night - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux"
@@ -2669,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
+    },
+    {
+      "album": {
         "name": "Moon II",
         "url": "https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL"
       },
@@ -3000,7 +3062,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 188040,
       "name": "PULL UP (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5OcpvgdYknA4VEGTwXNecJ"
@@ -3950,7 +4012,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 271475,
       "name": "You Ain't Love (feat. Teni Tinks)",
       "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"

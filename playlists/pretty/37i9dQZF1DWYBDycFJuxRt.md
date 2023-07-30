@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LANA + Awich + JP THE WAVY \*👉 <a href="https://spice.eplus.jp/articles/320527?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,977 likes - 81 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,013 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 46 | [come again \- prod\. Sam is Ohm](https://open.spotify.com/track/6UlbTCudWIsQdIZkYHxTGA) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [come again \(prod\. Sam is Ohm\)](https://open.spotify.com/album/3zBf9ZyWrQS2A1GR27TiGs) | 3:41 |
 | 47 | [Sweet Escape feat\. ひかり \- Jafunk Remix](https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\) \[Jafunk Remix\]](https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie) | 3:37 |
 | 48 | [Pari Pari \- Nariaki Remix](https://open.spotify.com/track/6WiFOaLPzJhi4r09OtRL0J) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R), [Transistorcake](https://open.spotify.com/artist/27rHnUne52oEgvjxzT2pqy), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Dansu EP \(Japan Edition\)](https://open.spotify.com/album/6MwDCYpRTaaSLAKT0unkaK) | 4:40 |
-| 49 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 |
+| 49 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/181YGGJQCMlBzrwWFLmjkx), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 |
 | 50 | [盗電団](https://open.spotify.com/track/6oqAt4V2P9YwP0Jp30QyJ4) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [出土の都市](https://open.spotify.com/album/6fXNfdOr5YECSRC1a84eDD) | 3:53 |
 | 51 | [すなお](https://open.spotify.com/track/0tesJVNYnA4JxPujej4C5A) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [すなお](https://open.spotify.com/album/4sG4nsjmtFGL9Urjx5Hmjl) | 2:59 |
 | 52 | [ヒートアイランド](https://open.spotify.com/track/0hBvFsfZ7bnrzbcx2pQr7t) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [ヒートアイランド](https://open.spotify.com/album/668mGkjE36HIXMls2co74G) | 3:24 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 59 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 |
 | 60 | [Higher](https://open.spotify.com/track/2c030YF5KY7duyqix9YP9X) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Higher / Monster](https://open.spotify.com/album/4tOlsXxiowxpk5ndQK2qg2) | 3:20 |
 | 61 | [Mawase Mawaseyo Tetsugakuwo \-Imagine\-](https://open.spotify.com/track/1dcbyRpbQJTR7gnka28Nt7) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Mawase Mawaseyo Tetsugakuwo \-Imagine\-](https://open.spotify.com/album/5FY07bKBIvArNWGcQXuOE8) | 2:58 |
-| 62 | [BLOWING](https://open.spotify.com/track/4Pkhnry5OCzQDZycgGDGWY) | [MONTIEN](https://open.spotify.com/artist/6QNRLqKcApDMJCaGBpafSx), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf), [SUIKEN](https://open.spotify.com/artist/1UYQLPC8PYjUq6xV5MwFMz), [MACKA\-CHIN](https://open.spotify.com/artist/3hZPoNqYwz0RoAgmm546QK), [Jaribu Afrobeat Arkestra](https://open.spotify.com/artist/7BmuBUHrpMKpWY9GUfz6TL) | [BLOWING / STEP3](https://open.spotify.com/album/077g9Aq3xtfiCKJgDPIUbo) | 4:05 |
+| 62 | [BLOWING](https://open.spotify.com/track/4Pkhnry5OCzQDZycgGDGWY) | [MONTIEN](https://open.spotify.com/artist/6QNRLqKcApDMJCaGBpafSx), [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L), [SUIKEN](https://open.spotify.com/artist/1UYQLPC8PYjUq6xV5MwFMz), [MACKA\-CHIN](https://open.spotify.com/artist/3hZPoNqYwz0RoAgmm546QK), [Jaribu Afrobeat Arkestra](https://open.spotify.com/artist/7BmuBUHrpMKpWY9GUfz6TL) | [BLOWING / STEP3](https://open.spotify.com/album/077g9Aq3xtfiCKJgDPIUbo) | 4:05 |
 | 63 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 |
 | 64 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 |
 | 65 | [ミュヲラ](https://open.spotify.com/track/2am3PNoddXpK3bZcaLNrlp) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [ミュヲラ](https://open.spotify.com/album/5gN9T5GEhYUuhnQIS0w4k2) | 4:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 80 | [ボクらの夏休み戦争](https://open.spotify.com/track/0xbD8MeCmUqSzHPGsOi2gw) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ボクらの夏休み戦争](https://open.spotify.com/album/6pM7HAMeTlwCgq9AVEwF28) | 3:28 |
 | 81 | [DURARA](https://open.spotify.com/track/5sjMYTyQnrDixy5R19SYjN) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1jGRkHKkoYkHjxt3cBWD9C) | 3:13 |
 
-Snapshot ID: `MCxlOTQwNWRjOGNmYzBjYzVlYzJmNjM0OWQ4ZmJlYTYzMjMyNWIzNDIw`
+Snapshot ID: `MCxiYjcyOTVmNTQ0NWU1NjE5NzhhYWQ1ZGRkNDAzNTk3YjFlMzA0YWVl`

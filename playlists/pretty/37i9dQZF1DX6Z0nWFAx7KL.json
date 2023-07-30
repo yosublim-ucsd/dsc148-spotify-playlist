@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34043,
+  "num_followers": 34070,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzIwZDdiYTE4NDBlMDBhZTlmN2EyMDBhMzk2YjQxYzNkZTgyYjVh",
+  "snapshot_id": "MCw0NWQxMTlhZDI2ZTQ4YjE1MzZiNWMwNGY1NjE3MDBjZGE0YmRhNGMx",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 159180,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Careless Whisper",
         "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 172800,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 159180,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -679,26 +679,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "The Boys Of Summer",
-        "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
       "artists": [
         {
-          "name": "Lone Tusker",
-          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
         },
         {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "Geoff Duncan",
-          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
         }
       ],
-      "duration_ms": 137142,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -719,22 +715,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
+        "name": "The Boys Of Summer",
+        "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
       "artists": [
         {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
         },
         {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Geoff Duncan",
+          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
         }
       ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
+      "duration_ms": 137142,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 187377,
       "name": "Botanica",
       "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -1243,22 +1275,6 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "ECH\u014cWALL",
-          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
         }
       ],
-      "duration_ms": 156375,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1535,34 +1531,38 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
         }
       ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
     },
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
       "artists": [
         {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "ECH\u014cWALL",
+          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
         }
       ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+      "duration_ms": 156375,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
     }
   ],
   "unique_name": "Dance Chill",

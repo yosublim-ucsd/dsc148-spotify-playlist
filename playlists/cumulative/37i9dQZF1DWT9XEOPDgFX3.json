@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 237052,
       "name": "bc i love you",
       "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
@@ -5054,6 +5054,24 @@
       "duration_ms": 254545,
       "name": "Shades Of You",
       "url": "https://open.spotify.com/track/5P0xYk06k6jT5Cujyx5TLX"
+    },
+    {
+      "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "album": {

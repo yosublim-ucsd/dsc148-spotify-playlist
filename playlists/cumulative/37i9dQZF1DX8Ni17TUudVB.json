@@ -3487,6 +3487,32 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army (feat. KOYSINA)",
+        "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "KOYSINA",
+          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Seven Nation Army (feat. KOYSINA)",
+      "url": "https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS"
+    },
+    {
+      "album": {
         "name": "NYE Party",
         "url": "https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7"
       },
@@ -3506,7 +3532,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba"

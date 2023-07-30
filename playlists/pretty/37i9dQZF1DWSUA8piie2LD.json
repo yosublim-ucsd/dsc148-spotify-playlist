@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 86585,
+  "num_followers": 86742,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzZjMTQ2OTcyMmU4ZmFjZjM1MGYwN2VjYjlmMjBkMzhhYTBkOTFm",
+  "snapshot_id": "MCxjY2I1ODg4ZTIzNjJjMzI1NjA0MTJhYjE4ODJmZGEwZDFlZTBmY2I1",
   "tracks": [
     {
       "added_at": "2023-06-21 07:49:09",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 250746,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
       "artists": [
         {
           "name": "Brian Simpson",
           "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 233042,
-      "name": "When I Say Your Name",
-      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
       "artists": [
         {
           "name": "Brian Simpson",
           "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+      "duration_ms": 233042,
+      "name": "When I Say Your Name",
+      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 288666,
       "name": "Island Life",
       "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2023-06-21 07:49:09",

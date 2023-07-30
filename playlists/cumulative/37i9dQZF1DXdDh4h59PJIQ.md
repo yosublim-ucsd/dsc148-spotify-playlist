@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2023!
 
-258 songs - 12 hr 55 min
+259 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2021-10-22 |  |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2021-10-22 | 2022-07-29 |
 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Dance Fruits Music](https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP) | 2:13 | 2022-03-11 | 2023-07-26 |
-| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [NYE Party](https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7) | 2:13 | 2023-02-13 |  |
+| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M) | 2:13 | 2023-02-13 |  |
+| [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [NYE Party](https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7) | 2:13 | 2023-02-13 | 2023-07-30 |
 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/7uR6rM1rJG4o5GWTdi93Lm) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Dance Hits](https://open.spotify.com/album/23fYQhKawZN1Kgheizhlzj) | 2:13 | 2022-08-09 | 2022-11-13 |
 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2022-08-09 |  |
 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 | 2021-10-22 | 2023-01-30 |

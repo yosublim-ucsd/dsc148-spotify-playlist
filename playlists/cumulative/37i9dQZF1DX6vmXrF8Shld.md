@@ -87,6 +87,6 @@
 | [What a Man \- Remastered Single Version](https://open.spotify.com/track/0pcsr9n7Pn6XOfzcvoxRB4) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Atlantic Unearthed: Soul Sisters](https://open.spotify.com/album/1wThKZtNlrDOWOsBh5aal4) | 2:55 | 2020-12-01 |  |
 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 | 2020-12-01 |  |
 | [You Can't Miss What You Can't Measure](https://open.spotify.com/track/46Yw4kZuQEhGY2qN9Yd5lt) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:21 | 2020-12-01 |  |
-| [You're Starting Too Fast](https://open.spotify.com/track/34Craxb9QArnb4D9ztapc0) | [Johnny Pate](https://open.spotify.com/artist/3DdDR0Pm60equUbBz5FFGK) | [Outrageous](https://open.spotify.com/album/25LTD9Bngd94hhjNamWKa7) | 3:41 | 2020-12-01 | 2023-07-29 |
+| [You're Starting Too Fast](https://open.spotify.com/track/34Craxb9QArnb4D9ztapc0) | [Johnny Pate](https://open.spotify.com/artist/3DdDR0Pm60equUbBz5FFGK) | [Outrageous](https://open.spotify.com/album/25LTD9Bngd94hhjNamWKa7) | 3:41 | 2020-12-01 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

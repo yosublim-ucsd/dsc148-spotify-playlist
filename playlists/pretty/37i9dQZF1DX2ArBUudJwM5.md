@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Estamos listxs para un Festival único\. <br/>\#FestivalEqual • 16 de septiembre • Hipódromo de Palermo
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,035 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,314 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 25 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 |
 | 26 | [WAIFU\_153BPM2B](https://open.spotify.com/track/03HO7mvBt6gnVKbg2Mm2Jk) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [USB IDOL](https://open.spotify.com/album/5Xy3BkW6GSr3WpaLxoRU8L) | 2:10 |
 | 27 | [Ya No Te Extraño](https://open.spotify.com/track/4WVtuJcQR2kknWhzQxjLr1) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Ya No Te Extraño](https://open.spotify.com/album/2dd6EhKSO05XTFsFSb3kZp) | 2:32 |
-| 28 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 |
-| 29 | [Mariposa Azul](https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Mariposa Azul](https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f) | 3:21 |
+| 28 | [Mariposa Azul](https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Mariposa Azul](https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f) | 3:21 |
+| 29 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 |
 | 30 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
-| 31 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
-| 32 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
+| 31 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
+| 32 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 33 | [Pal Tiempo Del Carnaval](https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 2:06 |
 | 34 | [Llueven](https://open.spotify.com/track/4fdEh07pr5c2f26qyohOSR) | [Claridad](https://open.spotify.com/artist/6FQABns19gJHsrT0ok4pQu), [Oli Miglioli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Sublimar](https://open.spotify.com/album/7K3wpWFngZGTkcG5FPkBD5) | 3:22 |
 | 35 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 47 | [Yo no lloro más](https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 3:08 |
 | 48 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 49 | [TRIGAL](https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 3:02 |
-| 50 | [Tu Casa](https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu Casa](https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH) | 3:20 |
+| 50 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
 
-Snapshot ID: `MCxkYjVjYzEyNzI1MmVlYjAxYmQwNTI3YjYwMzA4NGM4MjYyZDM4Nzdh`
+Snapshot ID: `MCw3NGJlNWIxYTgxMDdlYjg1Zjg0NjM0Mzc1OTIxMDgzZWM2OTA0MjQ3`

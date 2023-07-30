@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17247,
+  "num_followers": 17259,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1",
+  "snapshot_id": "MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -99,26 +99,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "The Essential Hezekiah Walker",
-        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
-        }
-      ],
-      "duration_ms": 415640,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "The Essential Hezekiah Walker",
+        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        }
+      ],
+      "duration_ms": 415640,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Did It Again (feat. Thomas & The Situation)",
-        "url": "https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM"
-      },
-      "artists": [
-        {
-          "name": "Ruth La'Ontra",
-          "url": "https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq"
-        },
-        {
-          "name": "Thomas & The Situation",
-          "url": "https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ"
-        }
-      ],
-      "duration_ms": 257518,
-      "name": "Did It Again (feat. Thomas & The Situation)",
-      "url": "https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Pour Your Spirit Out (Live)",
         "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
       },
@@ -647,6 +627,26 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Did It Again (feat. Thomas & The Situation)",
+        "url": "https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM"
+      },
+      "artists": [
+        {
+          "name": "Ruth La'Ontra",
+          "url": "https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq"
+        },
+        {
+          "name": "Thomas & The Situation",
+          "url": "https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ"
+        }
+      ],
+      "duration_ms": 257518,
+      "name": "Did It Again (feat. Thomas & The Situation)",
+      "url": "https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Live in Chicago",
         "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks (Live)",
         "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 254426,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Words & Music: John Mellencamp's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Gratitude (Live)",
         "url": "https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Words & Music: John Mellencamp's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
+        "name": "Grace - Live Worship From New Wine 2001",
+        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
+      "duration_ms": 237146,
+      "name": "Give Thanks To The Lord (Forever)",
+      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Grace - Live Worship From New Wine 2001",
-        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Give Thanks To The Lord (Forever)",
-      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "You Find a Way",
         "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 295111,
       "name": "Too Grateful",
       "url": "https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -951,6 +935,22 @@
       "duration_ms": 345560,
       "name": "For All You've Done (I Worship You) (feat. Jason Ingram) - Live",
       "url": "https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",

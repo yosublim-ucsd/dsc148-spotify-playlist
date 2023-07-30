@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Post Malone, Carly Rae Jepsen, Grimes & Illangelo and Roy Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,582 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,605 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 70 | [out of place](https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [out of place](https://open.spotify.com/album/0Ip616glU6BrtTZZcpN98D) | 2:42 |
 | 71 | [My Body // Your Body \(with Muni Long\)](https://open.spotify.com/track/0d6YLzBCBfs2v23oiB0o07) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [never worry \- deluxe](https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF) | 3:08 |
 | 72 | [Eastside Girl ft\. Ty Dolla $ign](https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Eastside Girl ft\. Ty Dolla $ign](https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P) | 3:02 |
-| 73 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
+| 73 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
 | 74 | [Georgia Moon](https://open.spotify.com/track/4rccvQd9g94LPiej5ZQk4l) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Georgia Moon](https://open.spotify.com/album/1aTeIVCm5KoH9X91c1h3rR) | 4:09 |
 | 75 | [My Sweet Lord](https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [My Sweet Lord](https://open.spotify.com/album/7rbfhqkpS5J9JerwXt4OPq) | 5:04 |
 | 76 | [New Potential](https://open.spotify.com/track/1wyuwXGn0gPzCPxiPDmNHc) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [Run The World: Season 2 \(Music from the STARZ Original Series\)](https://open.spotify.com/album/2Q7HIpBQni6hlMKHk4ufqv) | 2:53 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 80 | [Good Time](https://open.spotify.com/track/0Bnpz1CaFfX0jvsEjTpBez) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Good Time](https://open.spotify.com/album/6n4HP1Pwg3VrFhBVaPXrmF) | 2:58 |
 | 81 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 |
 | 82 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 |
-| 83 | [Sure To Come](https://open.spotify.com/track/5U6MQMI83GtlMlqJbmUclX) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420) | [Sure To come](https://open.spotify.com/album/0WyEcXQ7j4dXJ4MzdmMnZe) | 3:48 |
+| 83 | [Sure To Come](https://open.spotify.com/track/5U6MQMI83GtlMlqJbmUclX) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420) | [Sure To Come](https://open.spotify.com/album/0WyEcXQ7j4dXJ4MzdmMnZe) | 3:48 |
 | 84 | [Mama](https://open.spotify.com/track/7C6bJAOyLNZ8UYdNyhIYn1) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Mama](https://open.spotify.com/album/1hy4Nsokdj1ymhSez1PH0M) | 3:04 |
 | 85 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 |
 | 86 | [Better Off](https://open.spotify.com/track/3TL3UrGWuIS8e8FXhO7qK6) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET \(Deluxe\)](https://open.spotify.com/album/5tEScQJvMZmUIqMt3DHISF) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [FALLEN ANGEL](https://open.spotify.com/track/4ST0Joh8wzuYOUv8xWA9Ns) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [CHAPTER II: FALLEN](https://open.spotify.com/album/7rQ8wz62RAV7SDxsCgAxxt) | 3:39 |
 | 100 | [Didn't Say](https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Didn't Say](https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV) | 3:26 |
 
-Snapshot ID: `MCwyOGRiOTFkMWVkNDNlYzhkZTIwODgyN2EyZjllZWRiMTMxMzg5MDE2`
+Snapshot ID: `MCwyZmU5ZGQxN2NkODA0M2VhZThlYmFkYjQyOTVkODAyMTQwN2MyYmNk`

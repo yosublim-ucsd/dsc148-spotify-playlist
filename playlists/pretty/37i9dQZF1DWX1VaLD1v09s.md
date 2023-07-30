@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,709 likes - 150 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,707 likes - 150 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 67 | [Resurrection Day](https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 3:43 |
 | 68 | [Jesus We Love You \- Live](https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:55 |
 | 69 | [Here I Am To Worship](https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Ultimate Collection](https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn) | 5:17 |
-| 70 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
-| 71 | [Oh, the Deep, Deep Love of Jesus \(feat\. Fernando Ortega\)](https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 2:37 |
+| 70 | [Oh, the Deep, Deep Love of Jesus \(feat\. Fernando Ortega\)](https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 2:37 |
+| 71 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 72 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 73 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 |
 | 74 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 116 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
 | 117 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 |
 | 118 | [Blessing I Can’t See](https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [brook\(e\)](https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:53 |
-| 119 | [Jerusalem](https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 4:48 |
-| 120 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
+| 119 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
+| 120 | [Jerusalem](https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 4:48 |
 | 121 | [Even Unto Death](https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 4:38 |
-| 122 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
-| 123 | [There Is None Like You \- Live](https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X) | [Lenny LeBlanc](https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx) | [Pure Heart \(Live\)](https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg) | 3:28 |
+| 122 | [There Is None Like You \- Live](https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X) | [Lenny LeBlanc](https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx) | [Pure Heart \(Live\)](https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg) | 3:28 |
+| 123 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 124 | [Lamb of God](https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Church Songs](https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6) | 4:11 |
 | 125 | [Sweet Victory](https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Dimitri McDowell](https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo), [Leah Smith](https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E) | [Rise](https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ) | 5:08 |
 | 126 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3n1yqO5DsbjxxCLOfpWibS) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Hymnbook](https://open.spotify.com/album/71smqXy1VEm6zOxaHZuYcA) | 4:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [He's Not Here](https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:02 |
 | 150 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
 
-Snapshot ID: `MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw`
+Snapshot ID: `MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 45188,
+  "num_followers": 45259,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjM5Zjc3YjNlYTgzMTAwNmIzNzJmOGVlYzlmMTY2NTdkMTBhOTQ3",
+  "snapshot_id": "MCwzOGY0ZWMyYTRlYTI1NmRlYjVlNzZiMWY3N2U5NjZkZGYxZjMyZmMw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Call on Your Name (Piano Version)",
-        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 228385,
-      "name": "Call on Your Name - Piano Version",
-      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Call on Your Name (Piano Version)",
+        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 228385,
+      "name": "Call on Your Name - Piano Version",
+      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hymns for Eventide (Eventide Mix)",
+        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Hymns for Eventide (Eventide Mix)",
-        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Will Remember",
-        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 351646,
-      "name": "I Will Remember",
-      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "From the Valley",
         "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 279451,
       "name": "God Who Saves",
       "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I Will Remember",
+        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
+      },
+      "artists": [
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 351646,
+      "name": "I Will Remember",
+      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "What You Paid For",
-        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
       },
       "artists": [
         {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 249608,
-      "name": "What You Paid For",
-      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,6 +719,26 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "What You Paid For",
+        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "What You Paid For",
+      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -755,22 +771,6 @@
       "duration_ms": 242120,
       "name": "The Lion And The Lamb - Instrumental",
       "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Phone to Logos",
         "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 447355,
       "name": "Pomegranates",
       "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -903,22 +903,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
       "artists": [
         {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         },
         {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
         }
       ],
-      "duration_ms": 216366,
-      "name": "hold on (alt. version)",
-      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+      "duration_ms": 358373,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -939,22 +939,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You Are Good",
-        "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
         },
         {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 358373,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+      "duration_ms": 216366,
+      "name": "hold on (alt. version)",
+      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -987,26 +987,6 @@
       "duration_ms": 224173,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "wearing thin (alt. version)",
-      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1067,6 +1047,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "wearing thin (alt. version)",
+      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "All the Bright Lights",
         "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 411933,
       "name": "Every Mountain View",
       "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Velveteen",
         "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
-      },
-      "artists": [
-        {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
-        }
-      ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
         }
       ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
     },
     {
       "added_at": "2023-07-28 04:02:00",

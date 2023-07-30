@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-313 songs - 17 hr 16 min
+314 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Blueprint](https://open.spotify.com/track/55Nq3mwhH1p1FjDAzttnIN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 4:11 | 2022-09-05 | 2022-11-14 |
 | [Blueprint](https://open.spotify.com/track/560TR1d15nGMXufjbt5tys) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 4:11 | 2021-11-17 | 2022-07-28 |
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2021-11-17 |  |
-| [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 | 2021-11-17 |  |
+| [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 | 2021-11-17 | 2023-07-30 |
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-18 | 2023-07-02 |
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-08 | 2022-08-30 |
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2021-11-17 | 2022-08-13 |
@@ -220,6 +220,7 @@
 | [Paradise](https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:26 | 2021-11-17 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 3:26 | 2022-07-27 |  |
 | [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 | 2023-07-01 | 2023-07-20 |
+| [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 | 2023-07-26 |  |
 | [Paradise](https://open.spotify.com/track/0kP6hG7AXnIQxtticOiI3s) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [The W](https://open.spotify.com/album/6XqSbtKtmWkEAYbXfzFkV6) | 3:42 | 2022-01-09 | 2022-07-18 |
 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 | 2021-11-17 | 2022-07-28 |
 | [PARADISE \(feat\. Ha Sungwoon\)](https://open.spotify.com/track/3Spqjlpsu0JvMJrHdae0dI) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [PARADISE](https://open.spotify.com/album/1aE7bYwUTn5p8OaeIs2ioP) | 3:31 | 2021-11-17 | 2022-07-26 |

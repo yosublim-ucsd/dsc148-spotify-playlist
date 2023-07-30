@@ -1,12 +1,12 @@
 {
   "description": "Klingt nach Sonne und Meer, egal wo du bist.",
-  "num_followers": 995320,
+  "num_followers": 995741,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDg5ZGRkOTk3ZDExYWYzYTRjOWEwNjQ1OTVmZWI0ZDU0M2JjMjJi",
+  "snapshot_id": "MCxiNjUzYzVkNDdhMDUzN2FmYjBmYTJmMTAxNTJiZWEzMDlkMzMxZjlm",
   "tracks": [
     {
       "added_at": "2023-07-26 13:31:18",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Jah",
-        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "Jah",
-      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
-    },
-    {
-      "added_at": "2023-07-26 13:31:18",
-      "album": {
         "name": "Changes - EP",
         "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 184559,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
+    },
+    {
+      "added_at": "2023-07-26 13:31:18",
+      "album": {
+        "name": "Jah",
+        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "Jah",
+      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Summer Someday",
-        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
-      },
-      "artists": [
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
-    },
-    {
-      "added_at": "2023-07-26 13:31:18",
-      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
+    },
+    {
+      "added_at": "2023-07-26 13:31:18",
+      "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Guitar",
-      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Open My Door",
-        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "Open My Door",
-      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
-    },
-    {
-      "added_at": "2023-07-26 13:31:18",
-      "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 178120,
       "name": "neverletyougo",
       "url": "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy"
+    },
+    {
+      "added_at": "2023-07-26 13:31:18",
+      "album": {
+        "name": "Open My Door",
+        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 153110,
+      "name": "Open My Door",
+      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
       "added_at": "2023-07-26 13:31:18",

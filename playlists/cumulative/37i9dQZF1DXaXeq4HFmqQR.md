@@ -4,7 +4,7 @@
 
 > Mujeres que la rompen feat\. Aura BAE.<br/>Dales PLAY, dales POWER.
 
-651 songs - 1 day 12 hr 11 min
+652 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [ZODIACO](https://open.spotify.com/track/7bboKjKKX9K9SL4mGavgWS) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [ZODIACO](https://open.spotify.com/album/14axp3OJF0cqgx3mP0MxKx) | 3:18 | 2023-04-05 | 2023-06-06 |
 | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS) | 3:20 | 2023-06-05 | 2023-07-06 |
 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 | 2023-03-02 | 2023-04-06 |
-| [Éxtasis](https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Éxtasis](https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf) | 3:03 | 2023-02-01 |  |
+| [Éxtasis](https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [AQUA](https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq) | 3:03 | 2023-07-05 |  |
+| [Éxtasis](https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Éxtasis](https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf) | 3:03 | 2023-02-01 | 2023-07-30 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

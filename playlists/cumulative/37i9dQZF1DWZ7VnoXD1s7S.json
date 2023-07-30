@@ -668,10 +668,28 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 357989,
       "name": "Great Mother In The Sky",
       "url": "https://open.spotify.com/track/0J69dD3yE5vo51vW8DRokI"
+    },
+    {
+      "album": {
+        "name": "I Hope You Are Well",
+        "url": "https://open.spotify.com/album/28ZgWDtVKZMYuI8GOiRSCe"
+      },
+      "artists": [
+        {
+          "name": "Lionmilk",
+          "url": "https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357989,
+      "name": "Great Mother In The Sky",
+      "url": "https://open.spotify.com/track/6KsjZGtZKyjJmpHoCXC0LW"
     },
     {
       "album": {
@@ -1110,7 +1128,7 @@
     {
       "album": {
         "name": "Infinite Cloud",
-        "url": "https://open.spotify.com/album/4MoKdgXVBtpIrEfh3epMMI"
+        "url": "https://open.spotify.com/album/6uQrwva2QnqUhGeg47t6DK"
       },
       "artists": [
         {
@@ -1121,6 +1139,24 @@
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 107949,
+      "name": "Infinite Cloud",
+      "url": "https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW"
+    },
+    {
+      "album": {
+        "name": "Infinite Cloud",
+        "url": "https://open.spotify.com/album/4MoKdgXVBtpIrEfh3epMMI"
+      },
+      "artists": [
+        {
+          "name": "azzz",
+          "url": "https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
       "duration_ms": 107949,
       "name": "Infinite Cloud",
       "url": "https://open.spotify.com/track/2uufSlJp3cSuv6hQXOs05B"

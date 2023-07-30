@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 386447,
+  "num_followers": 386530,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2I4MzM4Yzg5ZTJkMzRlNWYxZWJiODkyMzI0NDhiZDdjZTQzOTBm",
+  "snapshot_id": "MCwxZDRkNzgxOGQ4YmRjYTQ5ODQxYjBhZDY1MWZlNTJjMTEwNzQwMDc1",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -371,18 +371,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Welcome to My Dream",
-        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
+        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
+        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
       },
       "artists": [
         {
-          "name": "Woody Herman & His Orchestra",
-          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 195030,
-      "name": "Woodchopper\u2019s Ball",
-      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
+      "duration_ms": 187453,
+      "name": "Rusty Dusty Blues",
+      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
-        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+        "name": "Welcome to My Dream",
+        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
         }
       ],
-      "duration_ms": 187453,
-      "name": "Rusty Dusty Blues",
-      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+      "duration_ms": 195030,
+      "name": "Woodchopper\u2019s Ball",
+      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Roar Of '74",
-        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Nuttville",
-      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Everybody's Talking (feat. Greg Blackman)",
@@ -803,18 +787,34 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+        "name": "The Roar Of '74",
+        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
         }
       ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+      "duration_ms": 290146,
+      "name": "Nuttville",
+      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Boss Brass And Woods",
+        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
+      },
+      "artists": [
+        {
+          "name": "Rob McConnell & The Boss Brass With Phil Woods",
+          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
+        }
+      ],
+      "duration_ms": 461934,
+      "name": "Greenhouse",
+      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -835,18 +835,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Boss Brass And Woods",
-        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
       },
       "artists": [
         {
-          "name": "Rob McConnell & The Boss Brass With Phil Woods",
-          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 461934,
-      "name": "Greenhouse",
-      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2022-07-22 04:02:00",

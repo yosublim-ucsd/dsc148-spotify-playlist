@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-832 songs - 2 day 11 hr 35 min
+833 songs - 2 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2023-05-26 |  |
 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 | 2021-04-24 | 2022-07-30 |
 | [Every Weather](https://open.spotify.com/track/2tenVKEpKLAVWq8xO5ivk1) | [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Every Weather](https://open.spotify.com/album/76GecvSIhgTJVPERMcqYvI) | 5:42 | 2021-10-22 | 2022-07-22 |
-| [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 | 2019-06-19\* |  |
+| [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 | 2019-06-19\* | 2023-07-30 |
 | [Everything In Its Right Place](https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Everything In Its Right Place](https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ) | 5:16 | 2021-04-24 | 2022-07-29 |
 | [Eye Flow Wide](https://open.spotify.com/track/7JryfaXQFOYTw8Z1tMXxyH) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eye Flow Wide](https://open.spotify.com/album/7KWsdVqUb22QuIkCg7ix6D) | 5:28 | 2021-09-03 | 2022-04-17 |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-04-29 |  |
@@ -838,6 +838,7 @@
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 | 2022-04-21 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
+| [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 |  |
 | [Zone 3 \(City Limits\) \- Beatrice Dillon Remix](https://open.spotify.com/track/7JPugeDFZ8ng7r1fYmreum) | [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [City Planning \(Remixes\)](https://open.spotify.com/album/1WPSvjKzgjyse929PO9g6i) | 1:39 | 2023-07-03 |  |
 | [╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌](https://open.spotify.com/track/2YF4eWmwwFA8fkx2IE0djt) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 0:33 | 2019-06-19\* | 2020-10-19 |
 

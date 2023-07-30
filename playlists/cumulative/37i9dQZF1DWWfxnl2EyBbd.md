@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-499 songs - 1 day 14 hr 37 min
+500 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Find The Way](https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 5:58 | 2022-02-10 | 2022-11-09 |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-12 |  |
-| [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 | 2023-06-22 |  |
+| [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 | 2023-06-22 | 2023-07-30 |
 | [First Song](https://open.spotify.com/track/3PsEztkJz9a5NsIgqzl3wd) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [First Song](https://open.spotify.com/album/1gdQmvCLSFSHvwA5NcjYgj) | 6:53 | 2023-03-10 | 2023-04-16 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
 | [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-02-02 |  |
@@ -306,6 +306,7 @@
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-03-17 |  |
 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 | 2023-03-02 |  |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-12 |  |
+| [Ol' Man River](https://open.spotify.com/track/0iJhcm8EqkYjSLKb29oOwp) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods, Vol\. 2](https://open.spotify.com/album/0SKWC5kJ00WXtjynZVWF0O) | 5:42 | 2023-06-22 |  |
 | [Ol' Man River](https://open.spotify.com/track/3w76lFh4V9mNpxGelN7U44) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Ol' Man River](https://open.spotify.com/album/6rFrgssgHkHnZknkv70EOe) | 5:42 | 2023-06-22 | 2023-07-24 |
 | [Old Folks \- Live](https://open.spotify.com/track/0w6BWAytSQFGUW5paTcKzd) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [After The Fall \(Live\)](https://open.spotify.com/album/6KCtVTAKemrqpVZLLdxB2c) | 9:23 | 2022-02-10 | 2022-11-09 |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-03-02 |  |

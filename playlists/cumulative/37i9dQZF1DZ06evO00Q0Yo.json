@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 152840,
       "name": "Eat It Up",
       "url": "https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA"
@@ -522,6 +522,24 @@
       "duration_ms": 114434,
       "name": "F.N.G.M.",
       "url": "https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG"
+    },
+    {
+      "album": {
+        "name": "Fruit Loop",
+        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137263,
+      "name": "Fruit Loop",
+      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
     },
     {
       "album": {

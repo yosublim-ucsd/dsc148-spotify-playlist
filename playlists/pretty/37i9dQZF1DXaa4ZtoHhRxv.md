@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,295 likes - 146 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,301 likes - 146 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 40 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 |
 | 41 | [Memory \- GOLDHOUSE x Mokita Remix](https://open.spotify.com/track/4XZ8YGsNIF4UqE324Mbgfg) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Memory Remixes](https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK) | 2:57 |
 | 42 | [Singles You Up \- Ryan Riback Remix](https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Singles You Up \(Ryan Riback Remix\)](https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf) | 3:18 |
-| 43 | [Match For My Memory \- Fired Up](https://open.spotify.com/track/0SuNsEC7A6fZBORw4b7tOd) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Ken Gao](https://open.spotify.com/artist/4aDGUknMCdJCisXyn0kTgU) | [Match For My Memory \(Fired Up\)](https://open.spotify.com/album/4XAmbiaoCMwjJVZKcnNCPf) | 3:04 |
+| 43 | [Match For My Memory \- Fired Up](https://open.spotify.com/track/0SuNsEC7A6fZBORw4b7tOd) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory \(Fired Up\)](https://open.spotify.com/album/4XAmbiaoCMwjJVZKcnNCPf) | 3:04 |
 | 44 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 |
 | 45 | [Love The Way It Hurts \(So Good\)](https://open.spotify.com/track/1SmEMvjRkff8V9mORj25g3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:21 |
 | 46 | [Lose You](https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Lose You](https://open.spotify.com/album/4zCPTx2ALPDPeOQ6p1ecIU) | 2:52 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 145 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 146 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MCxhYWVmNjJhZGMzZGIyOGI0MzI4MmIwZjk5ODdjYTM1NTBjODQ2NTgy`
+Snapshot ID: `MCw5YzAxM2IwNGUwNDU4NzY0NzE3MGZiOGFlYTVlODlmN2YzOWNiYjMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,604 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,631 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 67 | [Vitamina](https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Dave Garsia](https://open.spotify.com/artist/1s6bWATuy6Z852EN5OnwZK) | [ANHMATSV](https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz) | 2:54 |
 | 68 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 |
 | 69 | [Como Si Nah \(feat\. KEVVO\)](https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Como Si Nah \(feat\. KEVVO\)](https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M) | 3:16 |
-| 70 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
-| 71 | [Phantom](https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Phantom](https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo) | 3:25 |
+| 70 | [Phantom](https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Phantom](https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo) | 3:25 |
+| 71 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
 | 72 | [Parcera](https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Parcera](https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j) | 3:33 |
 | 73 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 | 74 | [Freestyle Session \#12](https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Freestyle Session \#12](https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi) | 3:23 |
 | 75 | [El Querendón](https://open.spotify.com/track/0c9SrjNN7UuZgqq1UjKsAx) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Querendón](https://open.spotify.com/album/1KQVePMRNM2Bg7RBARw9Js) | 2:48 |
 
-Snapshot ID: `MCw4NTk5ODQ5NWI2YWIyNTliYWU5ZmQwM2I0YjVmNmRkNWM5MzMxOTUy`
+Snapshot ID: `MCw2YmUyMjI3ODRjZjFmN2VmMTQzNzExYjlmNjE4MGRiN2RlMTA1ZTRi`

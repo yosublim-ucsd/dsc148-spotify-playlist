@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: The Moon during the Day\(낮에 뜨는 달\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,641 likes - 122 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,767 likes - 122 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 48 | [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol OST Part.11 \(Soundtrack\)](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 |
 | 49 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |
 | 50 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 |
-| 51 | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ) | [영둥이](https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF) | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/album/6gXXtK0DiUHEttuZnWjyc3) | 2:33 |
+| 51 | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ) | [Kenzi](https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF) | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/album/6gXXtK0DiUHEttuZnWjyc3) | 2:33 |
 | 52 | [또 한번 찾아올까요](https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [바이트미 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB) | 3:27 |
 | 53 | [Cinderella's Love \(Daily JoJo\)](https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Daily JoJo \(Original Webtoon Soundtrack\) Pt.2](https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW) | 2:56 |
 | 54 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 121 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 |
 | 122 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 |
 
-Snapshot ID: `MCxlN2NjNjE4YmJmYjBhY2QwOGUyODY0ZmVjYjc2ZmYxNzk4NDA3ODlh`
+Snapshot ID: `MCxmYWNlYTdkYTE1NThlNTg2NWE4MTU1OTEwMGU3YjVmMGJmNThmMjE4`

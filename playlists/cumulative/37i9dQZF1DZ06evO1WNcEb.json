@@ -187,6 +187,32 @@
     },
     {
       "album": {
+        "name": "Deus no Controle - Remix",
+        "url": "https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn"
+      },
+      "artists": [
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215856,
+      "name": "Deus no Controle - Remix",
+      "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
+    },
+    {
+      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },

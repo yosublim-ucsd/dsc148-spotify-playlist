@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alex Luna en portada.",
-  "num_followers": 70619,
+  "num_followers": 70657,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTk4NTBiNzQyZmUyMThiNDdmOGVhMzUzNGJiYmY3YmRhYjkyOGZl",
+  "snapshot_id": "MCw1NDUyM2Y2ZjJjNzM0ZGJlODIzMjAxMGU2YmY1YmU0Yzg3MDE4MDIx",
   "tracks": [
     {
       "added_at": "2023-07-28 18:03:13",
@@ -723,22 +723,26 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+        "name": "La Reina del Flow 2 (Banda Sonora Oficial de la Serie de Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         },
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Alejo Valencia",
+          "url": "https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj"
+        },
+        {
+          "name": "Guita",
+          "url": "https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd"
         }
       ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+      "duration_ms": 201702,
+      "name": "Mi Destino",
+      "url": "https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV"
     },
     {
       "added_at": "2023-07-28 18:03:13",
@@ -779,26 +783,22 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "La Reina del Flow 2 (Banda Sonora Oficial de la Serie de Televisi\u00f3n)",
-        "url": "https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5"
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
       "artists": [
         {
-          "name": "Caracol Televisi\u00f3n",
-          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
         },
         {
-          "name": "Alejo Valencia",
-          "url": "https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj"
-        },
-        {
-          "name": "Guita",
-          "url": "https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 201702,
-      "name": "Mi Destino",
-      "url": "https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV"
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2023-07-28 18:03:13",

@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 210461,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU"
@@ -2134,6 +2134,24 @@
       "duration_ms": 199532,
       "name": "Sue\u00f1o con Encontrarte",
       "url": "https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR"
+    },
+    {
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "album": {

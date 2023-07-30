@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Legallyrxx en portada.",
-  "num_followers": 101174,
+  "num_followers": 101209,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGViNDAyYWI1NDk5NmI3YjBjZDMwMWM5NzVkZDZkYTI2ZTE5MWY3",
+  "snapshot_id": "MCxjNGVmYTExMGE0MzhlNmEyZDg2OTRkNDRmOGEyZmJkNWMwMjczYWUx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
-      },
-      "artists": [
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 93280,
-      "name": "Vamos Pal Espacio",
-      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
       "artists": [
         {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
         }
       ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Navegantes",
+        "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
+      },
+      "artists": [
+        {
+          "name": "Dany Calvario",
+          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "duration_ms": 243664,
+      "name": "Navegantes",
+      "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "EST\u00c1 CABR\u00d3N",
         "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 221250,
       "name": "Elige Bien",
       "url": "https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Navegantes",
-        "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
-      },
-      "artists": [
-        {
-          "name": "Dany Calvario",
-          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
-        },
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "Navegantes",
-      "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Sin Kerer",
-        "url": "https://open.spotify.com/album/73Oo5M4eCl2COT9fOmp7km"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Sin Kerer",
-      "url": "https://open.spotify.com/track/0sCUbih1waSFC1xrUlzoW2"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Quiere Volar",
         "url": "https://open.spotify.com/album/1gqMgFqBBzJKRpS6OGyuAk"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+        "name": "Sin Kerer",
+        "url": "https://open.spotify.com/album/73Oo5M4eCl2COT9fOmp7km"
       },
       "artists": [
         {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+      "duration_ms": 169565,
+      "name": "Sin Kerer",
+      "url": "https://open.spotify.com/track/0sCUbih1waSFC1xrUlzoW2"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 217096,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/2uHw8t8dMkKs7zEeCb5GC6"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     }
   ],
   "unique_name": "R&B Latino",

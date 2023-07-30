@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Janeth Valenzuela en portada.
 
-304 songs - 16 hr 24 min
+305 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-01-20 |  |
 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 | 2023-05-05 |  |
 | [Prieta Linda](https://open.spotify.com/track/2kBqOvaNAhvchI7l1ouNGd) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Prieta Linda](https://open.spotify.com/album/2TcWpGmSYIANY2yIsfIgOJ) | 3:43 | 2023-06-16 | 2023-07-29 |
+| [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 | 2023-07-28 |  |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Que Poca](https://open.spotify.com/track/0JQO9eCZDOTcUkXz7FfRQO) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/0XQF6UKQVn168OYRJfNoL5) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 | 2022-09-23 |  |
@@ -254,7 +255,7 @@
 | [Si Tu Te Vas](https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt) | [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Mis 20 Éxitos](https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn) | 3:04 | 2022-06-08 |  |
 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 | 2021-12-17 |  |
 | [Siempre Vuelvo Contigo](https://open.spotify.com/track/5lWViFRs52ZHJr8LK6fOb5) | [Rocio Reyna](https://open.spotify.com/artist/35IdmDZL2acYsC86sLEUbK) | [Siempre Vuelvo A Ti](https://open.spotify.com/album/2dIhh5rHaiCNx3OZGIG35w) | 3:02 | 2021-12-17 | 2022-12-10 |
-| [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 | 2022-04-08 |  |
+| [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 | 2022-04-08 | 2023-07-30 |
 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 | 2023-06-16 | 2023-07-29 |
 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 | 2022-09-23 | 2022-12-10 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:37 | 2021-12-17 |  |

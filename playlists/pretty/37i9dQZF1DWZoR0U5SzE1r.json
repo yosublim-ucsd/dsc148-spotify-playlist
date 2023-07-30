@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 262631,
+  "num_followers": 262774,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi",
+  "snapshot_id": "MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Into The Deep (Live)",
-        "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
+        "name": "Only a Holy God",
+        "url": "https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry"
       },
       "artists": [
         {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
         }
       ],
-      "duration_ms": 388133,
-      "name": "Into The Deep - Live",
-      "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
+      "duration_ms": 357373,
+      "name": "Good and Gracious King",
+      "url": "https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -663,18 +659,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Only a Holy God",
-        "url": "https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry"
+        "name": "Into The Deep (Live)",
+        "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
       },
       "artists": [
         {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
         }
       ],
-      "duration_ms": 357373,
-      "name": "Good and Gracious King",
-      "url": "https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib"
+      "duration_ms": 388133,
+      "name": "Into The Deep - Live",
+      "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Miracle or Not",
+        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+      },
+      "artists": [
+        {
+          "name": "Alisa Turner",
+          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "My Prayer For You",
+      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 400000,
       "name": "Canvas And Clay - Live",
       "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Miracle or Not",
-        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
-      },
-      "artists": [
-        {
-          "name": "Alisa Turner",
-          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
-        }
-      ],
-      "duration_ms": 243269,
-      "name": "My Prayer For You",
-      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Songs We Sing",
-        "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
-      },
-      "artists": [
-        {
-          "name": "Mid-Cities Worship",
-          "url": "https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP"
-        },
-        {
-          "name": "Brooklynn Ward",
-          "url": "https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Unshakable",
-      "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Abundantly More",
         "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 241684,
       "name": "Abundantly More (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Songs We Sing",
+        "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
+      },
+      "artists": [
+        {
+          "name": "Mid-Cities Worship",
+          "url": "https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP"
+        },
+        {
+          "name": "Brooklynn Ward",
+          "url": "https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Unshakable",
+      "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Fill This Place (Studio Version)",
-        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Fill This Place (Studio Version)",
-      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 256226,
       "name": "Still",
       "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Fill This Place (Studio Version)",
+        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Fill This Place (Studio Version)",
+      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 232404,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 224026,
       "name": "I Stand Here",
       "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 232404,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "On My Side (Live)",
-        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 301106,
-      "name": "Throne Room - Live",
-      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Brave New World",
         "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 257373,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "On My Side (Live)",
+        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "Throne Room - Live",
+      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
     }
   ],
   "unique_name": "epicPRAISE",

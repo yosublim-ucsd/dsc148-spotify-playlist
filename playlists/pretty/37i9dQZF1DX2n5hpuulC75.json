@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 255897,
+  "num_followers": 255949,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -59,6 +59,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Gallows",
-        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+    },
+    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Hosoi",
@@ -199,38 +215,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -495,6 +495,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Old Compilation 3",
+        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "thankful",
+      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Old Compilation 3",
-        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "thankful",
-      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
-      },
-      "artists": [
-        {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
-        }
-      ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
+      },
+      "artists": [
+        {
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+        }
+      ],
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

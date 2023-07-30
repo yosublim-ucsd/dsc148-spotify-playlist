@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Lesti
 
-108 songs - 8 hr 20 min
+109 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 | 2021-08-23 | 2023-07-14 |
 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 | 2023-07-27 |  |
 | [Disana Menanti Disini Menunggu](https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Disana Menanti Disini Menunggu](https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66) | 4:53 | 2021-08-23 |  |
-| [Ditinggal Rabi](https://open.spotify.com/track/5q7e84OjA1D5GF4XYoybtb) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/0XkdWnMJXBzQfMT2RwQ7ej) | 4:36 | 2021-08-23 |  |
+| [Ditinggal Rabi](https://open.spotify.com/track/1dNh9PrLF9Vbok1qUy305Y) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A.](https://open.spotify.com/album/6LMxey6D3XA1MKERz5c2C3) | 4:33 | 2023-07-27 |  |
+| [Ditinggal Rabi](https://open.spotify.com/track/5q7e84OjA1D5GF4XYoybtb) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/0XkdWnMJXBzQfMT2RwQ7ej) | 4:36 | 2021-08-23 | 2023-07-30 |
 | [Ditinggal Rabi](https://open.spotify.com/track/4sYOxiEbp2oz4WCTIxin5O) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/3ktlwW2CVWwqhq17PK4Cl6) | 4:36 | 2021-08-23 | 2022-07-29 |
 | [Edan Turun](https://open.spotify.com/track/1BWvBsPoBT8rciQPQBBjgw) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Edan Turun](https://open.spotify.com/album/5Dpm6QGDrTVpKDRlj1SEqm) | 3:36 | 2021-08-23 |  |
 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 | 2021-08-23 |  |

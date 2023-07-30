@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,199 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,364 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [My Friend of Misery](https://open.spotify.com/track/3GGkrhDdtE10kUbMHGsrm1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend of Misery](https://open.spotify.com/album/5uWEWXfsS7EyQGxsqRpIhZ) | 3:30 |
 | 100 | [deepfake](https://open.spotify.com/track/4joNvDANwbD24bZhI6au7d) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [deepfake](https://open.spotify.com/album/2FZLlKKbqTGs8EqTskm6cI) | 3:05 |
 
-Snapshot ID: `MCxiMmI3NTQ3OThjMTgxZDkyZDAzNjc5MTcyZTVkMDUzYjM2ZjIzOWE3`
+Snapshot ID: `MCxhOWFlNzk4MDE4ZmJlMGQ0OGViNWViMDI5NDUzNmE2ZWQxYzQzZTU2`

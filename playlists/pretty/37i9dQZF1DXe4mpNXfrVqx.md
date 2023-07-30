@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mih, Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,024 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,038 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [S N P B](https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Kave](https://open.spotify.com/artist/30AsB6yzTLmEiqnHcSzTCw) | [S N P B](https://open.spotify.com/album/7oXtdqWwZM27N0v1oKMjus) | 2:30 |
 | 75 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 
-Snapshot ID: `MCwyMzY1ZTBkOTM1M2NmZDc2YWUwNGUwNmJiNWM3MjhmNjE4ZGU1YzA4`
+Snapshot ID: `MCw3ZTk2ZDk3NWU1NWQ0ZGVhZjgxMDExZDk0ODI5NDFhM2I1MGJhY2Fk`

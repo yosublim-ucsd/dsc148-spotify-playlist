@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 162384,
       "name": "Dbayli Ana - Fransa Daretha Biya",
       "url": "https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu"
@@ -2766,6 +2766,28 @@
       "duration_ms": 256757,
       "name": "Welili",
       "url": "https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf"
+    },
+    {
+      "album": {
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
       "album": {

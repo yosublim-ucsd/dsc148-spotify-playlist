@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,777 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,449 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [Spaceman](https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Spaceman](https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1) | 3:23 |
 | 49 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 
-Snapshot ID: `MCxlYTVjOTNkMGJkMWY3Y2NmYjNmOGJjOWQyMDRiZDI2NzI4MzZiMjlj`
+Snapshot ID: `MCw3ZTk3NDE4M2NiZjU4MDllZTJlYzgwMWNkZmE0NGQ2OTAzZjFhMzFm`

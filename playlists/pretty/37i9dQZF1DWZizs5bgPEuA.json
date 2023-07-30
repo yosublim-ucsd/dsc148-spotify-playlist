@@ -1,12 +1,12 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Young Miko",
-  "num_followers": 347,
+  "num_followers": 398,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQ2ZTkwZTIyMzgwYWQyMTcxMzc0Zjk4YTFlYzg5NDA3YmY5ZGJl",
+  "snapshot_id": "MCxlZWMwNTY5OGU4MGQ1N2JkZjAyODY4MDlmZjMyMjU0MTViYzUyZGY5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:48",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-07-28 04:00:48",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad - Deluxe",
-      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-07-28 04:00:48",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-28 04:00:48",
       "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "La Curiosidad - Deluxe",
+      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+    },
+    {
+      "added_at": "2023-07-28 04:00:48",
+      "album": {
         "name": "te kiero ver",
         "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 176960,
       "name": "C\u00e1scara de Coco",
       "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "Aqu\u00ed Te Espero",
-        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Aqu\u00ed Te Espero",
-      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-07-28 04:00:48",

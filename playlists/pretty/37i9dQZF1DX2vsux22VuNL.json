@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Hodari, Luedji Luna",
-  "num_followers": 282323,
+  "num_followers": 282322,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzEzY2I3ZWMyNDcwZjE4NTZkMWZjNTEzNTgyZDE4YWI2MWE1Mjc5",
+  "snapshot_id": "MCxiNDdmZWI1NDYzM2I4NzRhMjU0NmQ5OGZmZDg4ZWVjNzNkMTc1ZTQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1075,6 +1075,34 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3"
+      },
+      "artists": [
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "MC Liro",
+          "url": "https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG"
+        },
+        {
+          "name": "MC Torugo",
+          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
+        },
+        {
+          "name": "Mc Digo STC",
+          "url": "https://open.spotify.com/artist/3qyS5M2cuAZ6a2t43qlrpn"
+        }
+      ],
+      "duration_ms": 208762,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1111,34 +1139,6 @@
       "duration_ms": 177612,
       "name": "Me Diz Se Vem",
       "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3"
-      },
-      "artists": [
-        {
-          "name": "MC Lemos",
-          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
-        },
-        {
-          "name": "MC Liro",
-          "url": "https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG"
-        },
-        {
-          "name": "MC Torugo",
-          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
-        },
-        {
-          "name": "Mc Digo STC",
-          "url": "https://open.spotify.com/artist/3qyS5M2cuAZ6a2t43qlrpn"
-        }
-      ],
-      "duration_ms": 208762,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "SENHORA LUZ",
+        "url": "https://open.spotify.com/album/1GsIiBUbWvPe32iTlDsSLR"
+      },
+      "artists": [
+        {
+          "name": "Filipe Escandurras",
+          "url": "https://open.spotify.com/artist/0LzKJGPuCzCpzO1nzfasU4"
+        }
+      ],
+      "duration_ms": 156300,
+      "name": "Senhora Luz",
+      "url": "https://open.spotify.com/track/4AM4zsEdvpxM6SInhjRFZF"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Existe Vida Sem Voc\u00ea",
         "url": "https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 237712,
       "name": "Existe Vida Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "SENHORA LUZ",
-        "url": "https://open.spotify.com/album/1GsIiBUbWvPe32iTlDsSLR"
-      },
-      "artists": [
-        {
-          "name": "Filipe Escandurras",
-          "url": "https://open.spotify.com/artist/0LzKJGPuCzCpzO1nzfasU4"
-        }
-      ],
-      "duration_ms": 156300,
-      "name": "Senhora Luz",
-      "url": "https://open.spotify.com/track/4AM4zsEdvpxM6SInhjRFZF"
     },
     {
       "added_at": "2023-07-28 03:00:00",

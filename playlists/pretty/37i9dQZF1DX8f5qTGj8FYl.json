@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 346044,
+  "num_followers": 346180,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU5ZjZlZWY0Y2U4MWM3YzM5OGJiMzZmOTM0MDNkNGMwNmI2NDNi",
+  "snapshot_id": "MCwzNGJmZTk2M2NhMTAxZDg5NjczODI2MGRjNWZlNDZmNGU2MDBmYWM0",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Wired",
@@ -507,6 +491,22 @@
       "duration_ms": 164173,
       "name": "Head for Backstage Pass",
       "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "Hole In One",
-      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Resonate",
@@ -713,20 +697,20 @@
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-01-29 05:01:00",
       "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
       },
       "artists": [
         {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+      "duration_ms": 274853,
+      "name": "Hole In One",
+      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Fried Soul",
-        "url": "https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O"
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 216699,
-      "name": "Fried Soul",
-      "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
+      "duration_ms": 359698,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -877,36 +877,20 @@
       "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+        "name": "Fried Soul",
+        "url": "https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 359698,
-      "name": "Gravy Train",
-      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Golden Ticket",
-        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
+      "duration_ms": 216699,
+      "name": "Fried Soul",
+      "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -923,6 +907,22 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Golden Ticket",
+        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 310561,
       "name": "NDUGU",
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
-    },
-    {
       "added_at": "2021-05-28 04:00:00",
       "album": {
         "name": "Getaway Car",
@@ -1139,6 +1123,22 @@
       "duration_ms": 208384,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
+    },
+    {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2020-11-13 05:02:00",

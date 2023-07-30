@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 100894,
+  "num_followers": 100968,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzdmMGNmMzg2YjY1MjgyOGY5MDE4OWY4NGY1Zjk3ZjkzZjE3NWQ1",
+  "snapshot_id": "MCwxNjU4ZjJlNGMzYjE5NWQ4ODQ2MmNiYjIxYTQxNmQ1YjIxYmQwZTg3",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Solo \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Por Qu\u00e9 Te Fuiste",
         "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185505,
       "name": "Por Qu\u00e9 Te Fuiste",
       "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Goza Tu Cumbia: Peruvian Cumbia",
-        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "El Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 247986,
       "name": "J\u00farame",
       "url": "https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Necesito un Amor",
-        "url": "https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1"
-      },
-      "artists": [
-        {
-          "name": "El Lobo Y La Sociedad Privada",
-          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
-        }
-      ],
-      "duration_ms": 250665,
-      "name": "Necesito un Amor",
-      "url": "https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Me Vas a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233564,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Necesito un Amor",
+        "url": "https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1"
+      },
+      "artists": [
+        {
+          "name": "El Lobo Y La Sociedad Privada",
+          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
+        }
+      ],
+      "duration_ms": 250665,
+      "name": "Necesito un Amor",
+      "url": "https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy"
     },
     {
       "added_at": "2023-03-31 05:01:00",

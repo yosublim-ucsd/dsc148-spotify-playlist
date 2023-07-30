@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 
 > Featuring LiL CaKe, Calle 13, Young Miko & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 939 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 | 24 | [+HP](https://open.spotify.com/track/0nFu1WN1whrcVqY3ZrxZtm) | [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [+HP](https://open.spotify.com/album/4XGV3CmZwOSCd6IdoFlegu) | 3:33 |
 | 25 | [AFTER PARTY](https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [AFTER PARTY](https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU) | 3:30 |
 
-Snapshot ID: `MCwxYTc2NzI2N2YxMjVlMjYyOTJkNWU5NzliZTkxMWRmYWZlNDA4ZTE2`
+Snapshot ID: `MCwyY2Y1YzAwOGU0MDk1NDBmMDQxOTI1ZTg4ZTE1OGNmMGNjODNlOTgy`

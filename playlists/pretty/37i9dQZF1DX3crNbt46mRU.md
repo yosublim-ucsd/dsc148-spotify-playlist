@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Calvin Harris, Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,582 likes - 106 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,593 likes - 106 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [MikroDose](https://open.spotify.com/track/5gKQ7b41VWta78B3152s37) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0), [morten](https://open.spotify.com/artist/73JMQvllbBsfDclpXOW4Wj) | [MikroDose](https://open.spotify.com/album/1nX5VzYdH230ULQOW7GA03) | 2:54 |
 | 106 | [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 |
 
-Snapshot ID: `MCw4OGJjYmFkOGEwNzg4ZTJkODhkYjlmYmE1NDliN2IzYzcyNzExMDQx`
+Snapshot ID: `MCw3ZjJkMWY2ODU4ODUzM2U0MDVlMDA1OGJjM2IwZWQzNWE2ODhlM2Q1`

@@ -4134,10 +4134,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 187812,
       "name": "Send Me on My Way (Acoustic)",
       "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
+    },
+    {
+      "album": {
+        "name": "Send Me on My Way [Acoustic (Cover)]",
+        "url": "https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187812,
+      "name": "Send Me on My Way - Acoustic (Cover)",
+      "url": "https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV"
     },
     {
       "album": {

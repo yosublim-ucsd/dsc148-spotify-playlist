@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16?si=2da142e40d034893">Passion<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,419 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,538 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 28 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
 | 29 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 |
 | 30 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
-| 31 | [Breaking Me Down](https://open.spotify.com/track/5S7cWUO458cqVn2PS4lHh9) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You're Not Wrong](https://open.spotify.com/album/7jJq3XrNqhOlvaiXch2hbz) | 4:17 |
+| 31 | [Breaking Me Down](https://open.spotify.com/track/53zJ1dNecJzQixyRg908qB) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Prison Doors](https://open.spotify.com/album/4AmO2PaalrAWwEyFker98w) | 4:17 |
 | 32 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
 | 33 | [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 |
 | 34 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 | 100 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 
-Snapshot ID: `MCxiMTQwYmIyNDZlNjI1NTkxMzYzM2ZkMmZiZWM0ZmY4MjVmNThkMGFi`
+Snapshot ID: `MCxiZGExMzQyMTM3ZGUyNDAwOGRmYWIxNzIwMTk4OTQyYTUwZjllNTNh`

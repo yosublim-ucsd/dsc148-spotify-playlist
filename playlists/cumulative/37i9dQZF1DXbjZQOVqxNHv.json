@@ -2702,6 +2702,24 @@
     {
       "album": {
         "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419565,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
+    },
+    {
+      "album": {
+        "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
       "artists": [
@@ -5548,7 +5566,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 321453,
       "name": "Music Is Math",
       "url": "https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb"

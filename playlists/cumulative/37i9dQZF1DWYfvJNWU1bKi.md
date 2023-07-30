@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-120 songs - 8 hr 55 min
+121 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/55mEN7iiqTNzWfYjF8QbQn) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7) | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/69MQlshE2Cveetu5T2b2JT) | 5:40 | 2021-08-16 | 2023-04-19 |
 | [Othaiyadi Pathayila](https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0) | 4:09 | 2021-08-16 |  |
 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 | 2022-01-03 |  |
-| [Po Indru Neeyaga](https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3) | [Anirudh Ravichander,Dhanush](https://open.spotify.com/artist/4YEo0HPn95NVCVLihttqrC) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:43 | 2022-01-03 |  |
+| [Po Indru Neeyaga](https://open.spotify.com/track/1M0oh1uq87eUtgVQTj6KR5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 3:43 | 2022-03-11 |  |
+| [Po Indru Neeyaga](https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3) | [Anirudh Ravichander,Dhanush](https://open.spotify.com/artist/4YEo0HPn95NVCVLihttqrC) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:43 | 2022-01-03 | 2023-07-30 |
 | [Pondattee \- From "Golisoda 2"](https://open.spotify.com/track/28zGTndSQj4JT9nCPHRoTV) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Pondattee \(From "Golisoda 2"\)](https://open.spotify.com/album/5WsyGHHLL3UMZS3rVGtKnu) | 4:10 | 2022-01-03 | 2022-10-12 |
 | [Pularaadha \(From "Dear Comrade"\)](https://open.spotify.com/track/2evwKEXIO4b6y7aOnkUvxu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Pularaadha \(From "Dear Comrade"\)](https://open.spotify.com/album/6W50OP2zXkzY7mYQZjbo9Y) | 4:21 | 2022-01-03 | 2022-08-30 |
 | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Aishwarya Suresh Bindra](https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg) | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/3Pbe8ZyeyqvBT0aNNJXsuK) | 4:20 | 2021-08-16 |  |

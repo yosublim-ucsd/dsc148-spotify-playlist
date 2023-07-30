@@ -3533,6 +3533,24 @@
     },
     {
       "album": {
+        "name": "Boyfriends",
+        "url": "https://open.spotify.com/album/4WTlyYWvkNmhbGxJwvyt7n"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241318,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw"
+    },
+    {
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5KObpEAV5b6d9f6X0Oi3TF"
       },
@@ -23806,7 +23824,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"

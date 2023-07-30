@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
+    },
+    {
+      "album": {
         "name": "Life + Love",
         "url": "https://open.spotify.com/album/76yW9XMMy9huSpK9EFkOeD"
       },
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 289315,
       "name": "The Word Remains",
       "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 213360,
       "name": "Up Again (Acoustic Mix)",
       "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"

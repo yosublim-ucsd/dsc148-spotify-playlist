@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 196626,
+  "num_followers": 196672,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl",
+  "snapshot_id": "MCwyMThmZDhiNDUxMDk1NGEzNDMzNWQ1NmY0NjgyNzdjZDk1ZThhM2U4",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     },
     {
       "added_at": "2023-04-04 13:33:05",

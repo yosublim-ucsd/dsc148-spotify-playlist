@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-112 songs - 6 hr 18 min
+114 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Come On](https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:45 | 2022-08-31 |  |
 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 | 2021-02-12 | 2023-04-30 |
 | [Dandy Little Day](https://open.spotify.com/track/5HnCJp1xyqBUE69QG1JTd6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Dandy Little Day](https://open.spotify.com/album/3tCzBYcHu00sdT3DZ8iAKJ) | 3:08 | 2021-02-12 |  |
-| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-05-19 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 2:50 | 2023-05-19 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-05-19 | 2023-07-30 |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 2:50 | 2023-05-19 | 2023-06-25 |
 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 | 2021-11-12 |  |
 | [Dog Days](https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY) | 4:08 | 2021-02-12 | 2023-05-26 |
@@ -76,7 +77,8 @@
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2021-02-12 |  |
 | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/track/7EhHLLq7Q9djkr36bvRfBr) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/album/6CBVX1JoEZLgo8t53RJ4Ds) | 4:42 | 2022-04-22 | 2023-06-24 |
 | [Love Your Lies](https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 2:47 | 2021-02-12 |  |
-| [Mexico \(I Want You Back\)](https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:10 | 2023-06-23 |  |
+| [Mexico \(I Want You Back\)](https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:10 | 2023-06-23 | 2023-07-30 |
+| [Mexico \(I Want You Back\)](https://open.spotify.com/track/7bXgTPxjegXSGlRLTP56Kj) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:10 | 2023-06-23 |  |
 | [Never Give Up](https://open.spotify.com/track/1LwyCWyGUsiZCBCaSNRfn1) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 1:06 | 2021-02-12 | 2023-07-29 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 | 2021-02-12 |  |

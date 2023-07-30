@@ -4941,6 +4941,28 @@
     },
     {
       "album": {
+        "name": "Led Lights",
+        "url": "https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231382,
+      "name": "Led Lights",
+      "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw"
       },
@@ -7012,28 +7034,6 @@
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
-    },
-    {
-      "album": {
-        "name": "Red Lights",
-        "url": "https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231382,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
     },
     {
       "album": {

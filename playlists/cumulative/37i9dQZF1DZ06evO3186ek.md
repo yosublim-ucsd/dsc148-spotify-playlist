@@ -4,7 +4,7 @@
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-69 songs - 9 hr 34 min
+70 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [My Soul Sings \(feat\. Dante Bowe\)](https://open.spotify.com/track/5cc19U5WGGElNUc38XY25r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 11:20 | 2022-09-14 | 2022-10-13 |
 | [Names \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 7:00 | 2022-09-14 |  |
 | [Never Lost \(feat\. Joe L Barnes, Lizzie Morgan & Melvin Crispell III\)](https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 13:13 | 2022-09-14 | 2022-10-17 |
+| [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-29 |  |
 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 | 2022-09-14 |  |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2022-09-14 |  |
 | [Real Thing \(feat\. Dante Bowe\)](https://open.spotify.com/track/3g4WBq2CluHrcmGSk9RFDn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 10:41 | 2022-09-14 | 2022-11-21 |

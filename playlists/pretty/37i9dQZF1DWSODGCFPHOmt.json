@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWEzNDcwZmU0Njg4OTk1NmI3MThmNjEyNmE3ZDQ5OTM3MDM3ZjE3",
+  "snapshot_id": "MCxlZjkxZGI4NTBjNjkzNWJmYzIzYjkzZDQ3OWI4MGI3MzU1ZmE4MDdi",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Otra Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 190914,
-      "name": "Otra Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1263,6 +1247,22 @@
       "duration_ms": 120405,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Otra Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Otra Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
     },
     {
       "added_at": "2022-12-22 18:42:12",

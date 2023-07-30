@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 179473,
       "name": "El Su\u00e9ter",
       "url": "https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw"
@@ -2064,6 +2064,24 @@
       "duration_ms": 193190,
       "name": "Hola, Buenas Noches",
       "url": "https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb"
+    },
+    {
+      "album": {
+        "name": "Hola, Me Llamo Mar\u00eda",
+        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Hola, Me Llamo Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 36236,
+  "num_followers": 36266,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmEyYzIyNWJhZDEyMzA0MTExZjFlYTc1ZjQwOThjZTFjMzMzM2Y4",
+  "snapshot_id": "MCxkZTZmODE2ZjM1YTFkMDRkZWY2OGU5MTQ0MWY3MmQ1MmYyZTFjMzE0",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Efeito",
-        "url": "https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W"
       },
       "artists": [
         {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Efeito",
-      "url": "https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz"
+      "duration_ms": 190041,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W"
+        "name": "Efeito",
+        "url": "https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO"
       },
       "artists": [
         {
-          "name": "TAY",
-          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
         }
       ],
-      "duration_ms": 190041,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt"
+      "duration_ms": 151200,
+      "name": "Efeito",
+      "url": "https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Fazer-te sonhar",
         "url": "https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Low Battery",
-        "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
-      },
-      "artists": [
-        {
-          "name": "dage",
-          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Low Battery",
-      "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "N\u00e3o Me Leves a Mal",
         "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 240763,
       "name": "N\u00e3o Me Leves a Mal",
       "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Low Battery",
+        "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
+      },
+      "artists": [
+        {
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Low Battery",
+      "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Conex\u00e3o Azul",
-        "url": "https://open.spotify.com/album/67Bwhan77xYqoRiYvjSGXu"
-      },
-      "artists": [
-        {
-          "name": "Calalo",
-          "url": "https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Conex\u00e3o Azul",
-      "url": "https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Crime Scene",
         "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 178443,
       "name": "Crime Scene",
       "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Conex\u00e3o Azul",
+        "url": "https://open.spotify.com/album/67Bwhan77xYqoRiYvjSGXu"
+      },
+      "artists": [
+        {
+          "name": "Calalo",
+          "url": "https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Conex\u00e3o Azul",
+      "url": "https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1243,38 +1259,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "100 Maneiras",
-        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
-      },
-      "artists": [
-        {
-          "name": "xtussy",
-          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "100 Maneiras",
-      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Voei",
         "url": "https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 164200,
       "name": "Voei",
       "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "100 Maneiras",
+        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
+      },
+      "artists": [
+        {
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "100 Maneiras",
+      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
     },
     {
       "added_at": "2023-07-27 23:00:00",

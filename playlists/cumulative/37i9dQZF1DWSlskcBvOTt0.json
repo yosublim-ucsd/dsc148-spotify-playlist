@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 237056,
       "name": "Atacama - Edit",
       "url": "https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r"
@@ -1216,6 +1216,32 @@
       "duration_ms": 352916,
       "name": "Black Rain - \u00c2me Remix",
       "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+    },
+    {
+      "album": {
+        "name": "Blaze (J.O.P. Remix)",
+        "url": "https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350375,
+      "name": "Blaze - J.O.P. Remix",
+      "url": "https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj"
     },
     {
       "album": {
@@ -4760,7 +4786,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 268355,
       "name": "Looking at Your Pager - Solomun Remix",
       "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
@@ -8208,6 +8234,36 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
+    },
+    {
+      "album": {
+        "name": "The Dream (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210156,
+      "name": "The Dream (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
     },
     {
       "album": {

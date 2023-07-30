@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5944,
+  "num_followers": 5957,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
+  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Coal Black Mattie",
         "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+        "name": "Ugly Brain",
+        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "Mike Ross",
+          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
         }
       ],
-      "duration_ms": 203338,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+      "duration_ms": 276283,
+      "name": "Ugly Brain - Single Version",
+      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -423,22 +439,6 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Ugly Brain",
-        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Ross",
-          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
-        }
-      ],
-      "duration_ms": 276283,
-      "name": "Ugly Brain - Single Version",
-      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -471,22 +471,6 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Mexico (I Want You Back)",
-        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -655,22 +639,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
-      },
-      "artists": [
-        {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Crime",
-      "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Crime",
+      "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -831,22 +815,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Old Road",
-        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
-      },
-      "artists": [
-        {
-          "name": "Keegan McInroe",
-          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "Old Road",
-      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 237613,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Old Road",
+        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
+      },
+      "artists": [
+        {
+          "name": "Keegan McInroe",
+          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "Old Road",
+      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Wayward Son",
+        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Wayward Son",
+      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Make It Easy",
         "url": "https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Wayward Son",
-        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
       },
       "artists": [
         {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Wayward Son",
-      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     }
   ],
   "unique_name": "Blues BBQ",

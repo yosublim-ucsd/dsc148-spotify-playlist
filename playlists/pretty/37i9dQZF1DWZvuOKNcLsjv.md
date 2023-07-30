@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: kZm, JUMADIBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,076 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,085 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 34 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 |
 | 35 | [審美眼](https://open.spotify.com/track/41BaivhYY4KjzS6jSUsU89) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [審美眼](https://open.spotify.com/album/3AyYgqJHAffr84SgYgNl66) | 2:51 |
 | 36 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 |
-| 37 | [No End feat.Daichi Miura](https://open.spotify.com/track/52f2ObtLVeaLKWEEMIjs0P) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [No End feat.Daichi Miura](https://open.spotify.com/album/6Mb3E6OG236Iy1EZZH7gzo) | 3:30 |
+| 37 | [No End feat\. Daichi Miura](https://open.spotify.com/track/2bm4dVvrFDIcK2QEYTl4Fq) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ODO KYUKYU BAKO](https://open.spotify.com/album/5Ces90ZRW37Mc4m5WxIbMH) | 3:30 |
 | 38 | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj) | 2:51 |
 | 39 | [MY RICE](https://open.spotify.com/track/7E9JFtt5U3BwxHMZHbDOlL) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [MY RICE](https://open.spotify.com/album/2uFCN9g78lOMr0PpyCiDNO) | 3:31 |
 | 40 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Hashirimizu](https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Hashirimizu](https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe) | 6:26 |
 | 100 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 |
 
-Snapshot ID: `MCwyYzUzNTEwZTVmNjIwMjNhMzllYmQxYTRkNTJmZDcyYzhkZjE1NmVk`
+Snapshot ID: `MCwyYWYzNjkxYmE3NzExODM2YzVkYjVjOWEyNDg1ZWVlMTU5ZDIxNjMw`

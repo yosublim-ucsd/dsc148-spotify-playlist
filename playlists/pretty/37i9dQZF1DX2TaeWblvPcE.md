@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,028 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 16 | [Save ME](https://open.spotify.com/track/5ozzrhrnokSSLK42H7Mrwo) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS \| Piano Cover Collection](https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru) | 3:30 |
 | 17 | [Is You \- Instrumental](https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43) | 4:23 |
 | 18 | [Heart Shaker](https://open.spotify.com/track/7lSdsxAbIEfjvTliKEV109) | [Chino Bernal](https://open.spotify.com/artist/7IJm1PMY3Ozh9flQJLBnTN) | [Heart Shaker](https://open.spotify.com/album/2vmqxFc48LkzwJXbY5Rhw7) | 3:36 |
-| 19 | [Love Poem](https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:16 |
-| 20 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
+| 19 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
+| 20 | [Love Poem](https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:16 |
 | 21 | [Orbit \- Instrumental](https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2) | 3:06 |
 | 22 | [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 |
 | 23 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 49 | [A Poem For Poetry \- Instrumental](https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [A Poem a Day \(tvN DRAMA\) OST Part.12](https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9) | 4:11 |
 | 50 | [Puzzle \- Instrumental](https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1) | 3:55 |
 | 51 | [My Tale \- inst.](https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU) | 3:46 |
-| 52 | [Just Like a Dream \(Inst.\)](https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh \(Original Television Soundtrack\), Pt 2](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
-| 53 | [Love Resembles Memories \- Instrumental](https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju) | [YOOK SUNG JAE](https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN) | [Mystic Pop\-up Bar, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL) | 3:47 |
+| 52 | [Love Resembles Memories \- Instrumental](https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju) | [YOOK SUNG JAE](https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN) | [Mystic Pop\-up Bar, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL) | 3:47 |
+| 53 | [Just Like a Dream \(Inst.\)](https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh \(Original Television Soundtrack\), Pt 2](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
 | 54 | [Be My Light \(Inst.\)](https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Chicago Typewriter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT) | 3:48 |
 | 55 | [Butter](https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Piano Covers, Vol\. 7 \(Best of 2021\)](https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb) | 2:33 |
 | 56 | [When We Were Together \- Instrumental](https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Mystic Pop\-up Bar, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7) | 3:44 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 86 | [Best Of Me](https://open.spotify.com/track/73w13Yr11HuTJzr6Fqg6Ti) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS \| Piano Cover Collection](https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru) | 3:57 |
 | 87 | [Life Goes On](https://open.spotify.com/track/4A63WkIqSbhpZtDY9WeNf0) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [BE](https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb) | 3:56 |
 | 88 | [DNA](https://open.spotify.com/track/2VRiAjdWyI8CQBoSESWYuX) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS \| Piano Cover Collection](https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru) | 4:03 |
-| 89 | [Eight](https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 2:56 |
-| 90 | [Stay Gold](https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 4:26 |
+| 89 | [Stay Gold](https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 4:26 |
+| 90 | [Eight](https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 2:56 |
 | 91 | [Ice Cream](https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:49 |
 | 92 | [Into The New World](https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 5:00 |
 | 93 | [Fake Love](https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Dynamite \- Piano Cover](https://open.spotify.com/track/4numcWrrlJaISYq3s9UDQO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [BE](https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb) | 3:24 |
 | 100 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 
-Snapshot ID: `MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk`
+Snapshot ID: `MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3`

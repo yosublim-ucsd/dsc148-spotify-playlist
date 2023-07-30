@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 7028,
+  "num_followers": 7036,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
+  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
-      },
-      "artists": [
-        {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
-        }
-      ],
-      "duration_ms": 256526,
-      "name": "Love Poem",
-      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 253186,
       "name": "Breath - instrumental",
       "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
-        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 226715,
-      "name": "Just Like a Dream (Inst.)",
-      "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 227413,
       "name": "Love Resembles Memories - Instrumental",
       "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
+        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 226715,
+      "name": "Just Like a Dream (Inst.)",
+      "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 176495,
-      "name": "Eight",
-      "url": "https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC"
+      "duration_ms": 266495,
+      "name": "Stay Gold",
+      "url": "https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 266495,
-      "name": "Stay Gold",
-      "url": "https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO"
+      "duration_ms": 176495,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC"
     },
     {
       "added_at": "2022-11-02 13:40:53",

@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Rubio.
 
-161 songs - 9 hr 41 min
+162 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ave](https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 4:06 | 2023-07-21 |  |
 | [Ave](https://open.spotify.com/track/6nzvFncXdAOLTAwGIPcq3Y) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Ave](https://open.spotify.com/album/3kbP8SZyPKeG1hu6yqDyGF) | 4:06 | 2023-07-14 | 2023-07-17 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2023-03-17 |  |
+| [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 | 2023-07-28 |  |
 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 | 2023-07-21 |  |
 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 | 2023-06-02 |  |
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-12 |  |
@@ -78,7 +79,7 @@
 | [Haikus](https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Kamishibai: Un Viaje Tejido en el Tiempo](https://open.spotify.com/album/5rqbwd6aFbeFiOAMbm8jFt) | 3:31 | 2023-04-21 | 2023-05-13 |
 | [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 |  |
 | [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 | 2023-05-15 |
-| [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 |  |
+| [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 | 2023-07-30 |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2023-03-17 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2023-03-17 | 2023-07-08 |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2023-03-17 |  |

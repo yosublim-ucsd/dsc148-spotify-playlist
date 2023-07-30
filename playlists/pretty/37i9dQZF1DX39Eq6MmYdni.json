@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera ",
-  "num_followers": 11781,
+  "num_followers": 11826,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTdmZjhjZTBmZmIzMjFmOWJiYmI1NDc3N2U3MjYwNzg4NTgyYmZj",
+  "snapshot_id": "MCw4YjJjMzlkZWViYjJmYmI0OTQyZWEwZTUyMDA1OGFkYjBlMWQ3ZjQ2",
   "tracks": [
     {
       "added_at": "2023-05-26 08:27:44",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
-        "name": "Chiquita Bonita",
-        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Chiquita Bonita",
-      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Beses a Quien Beses",
+        "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Beses a Quien Beses",
+      "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "Me gustas (En Vivo)",
         "url": "https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 197355,
       "name": "Pa Quererte",
       "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
-        "name": "Beses a Quien Beses",
-        "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Beses a Quien Beses",
-      "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
     },
     {
       "added_at": "2023-05-26 08:27:44",

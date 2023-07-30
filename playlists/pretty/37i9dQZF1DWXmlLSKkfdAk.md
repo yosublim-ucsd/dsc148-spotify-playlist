@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,752,409 likes - 213 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,752,526 likes - 213 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 84 | [Dreams](https://open.spotify.com/track/60toINmwSQZUomYR08Ru8M) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Dreams](https://open.spotify.com/album/7gA5WBfPdFoNmZTtnSJ9n9) | 4:09 |
 | 85 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 |
 | 86 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 |
-| 87 | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v) | 3:07 |
+| 87 | [Send Me on My Way \- Acoustic \(Cover\)](https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \[Acoustic \(Cover\)\]](https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN) | 3:07 |
 | 88 | [I Melt with You](https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS) | 3:37 |
 | 89 | [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 3:10 |
 | 90 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 212 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 213 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCw1YTY4YTQwZTE4OGNhMjNiYzhmZjg4MTQ5YzJmMjZkMDIxYzIwZGVi`
+Snapshot ID: `MCxiNmQ0N2NjODhkNjFmODIyOGZhYTJiZGFhMjU3ZDRkODllZDYwNTlj`

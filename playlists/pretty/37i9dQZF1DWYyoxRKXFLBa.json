@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 7693,
+  "num_followers": 7712,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTIyMTE0NWUzYTI2ZjZkMWIwZWMyYjJiYmRhYjMyNjZmMmJiMTY1",
+  "snapshot_id": "MCw1MmU5YzJjNGQzMzdiOGE4OWQ5ZDg3NDdkYmY3NTg2NzMyYzVhYjJj",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "La Era De Acuario",
-        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
-      },
-      "artists": [
-        {
-          "name": "La Era de Acuario",
-          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Om Ganesh",
-      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168500,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "La Era De Acuario",
+        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
+      },
+      "artists": [
+        {
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Om Ganesh",
+      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Volver a Ser",
         "url": "https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 208048,
       "name": "Volver a Ser",
       "url": "https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 253456,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",

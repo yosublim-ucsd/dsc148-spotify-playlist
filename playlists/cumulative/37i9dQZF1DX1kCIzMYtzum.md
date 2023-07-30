@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-471 songs - 1 day 0 hr 35 min
+472 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 | 2023-02-21 |
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-05-19 |  |
-| [All You Need Is Love \- Festival Edit](https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love \(Festival Edit\)](https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu) | 4:14 | 2023-07-28 |  |
+| [All You Need Is Love \- Festival Edit](https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love \(Festival Edit\)](https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu) | 4:14 | 2023-07-28 | 2023-07-30 |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-23 | 2023-07-29 |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2022-03-18 | 2022-04-14 |
 | [Anti\-Hero \- ILLENIUM Remix](https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Anti\-Hero \(ILLENIUM Remix\)](https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6) | 4:27 | 2022-11-29 |  |
@@ -106,6 +106,7 @@
 | [Dreams Come True](https://open.spotify.com/track/6OgK0QV9SlIIrzykt39S49) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Dreams Come True](https://open.spotify.com/album/6aR6l10Qlm7WjEfoQgEVV3) | 2:39 | 2023-01-13 | 2023-03-04 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-23 |  |
 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj) | 2:33 | 2023-02-17 |  |
+| [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 | 2023-07-28 |  |
 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-02 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-03-18 | 2022-04-20 |

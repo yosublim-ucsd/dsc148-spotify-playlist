@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-162 songs - 9 hr 18 min
+163 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 | 2022-05-25 | 2023-06-08 |
 | [Crawfish Fiesta \- Remastered](https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:13 | 2022-05-25 | 2023-06-08 |
 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 | 2023-06-07 |  |
-| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-06-16 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 2:50 | 2023-07-21 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-06-16 | 2023-07-30 |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 2:50 | 2023-06-07 | 2023-06-25 |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2023-06-07 |  |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,832 likes - 148 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,811 likes - 148 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 147 | [The Garden](https://open.spotify.com/track/2OaoXYurShXZuFU5hmUva6) | [Vita Menzer](https://open.spotify.com/artist/42qLi1hQmxw9USs3HEfXVV) | [The Garden](https://open.spotify.com/album/45dL7k8Mvl17qNTwRdE1OO) | 2:27 |
 | 148 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 
-Snapshot ID: `MCxlYzMyNmFlNmE4NjgxODllZWQ0YzMxYzQwNDVjNTY4OGIzZDQ1MjAy`
+Snapshot ID: `MCw4NzA1NjY4YjEwMjJkNGQxNmM3OTZiODJmNDY3NTBlZTY0YTQ0NmUx`

@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 346235,
+  "num_followers": 346318,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjc1NzdkYjhmODc3NzNhMzg2YjFhOGE1MGJhNGQ0NDVmYWVmNGQ2",
+  "snapshot_id": "MCxlYTE0NzkxMTJjOGRhYjc3MTZlNTEzNGQxNzBlMTI2N2UxYTRlNzgz",
   "tracks": [
     {
       "added_at": "2023-07-21 10:20:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
         "name": "Ride for Me",
         "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194542,
       "name": "Ride for Me",
       "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2023-07-21 10:20:44",

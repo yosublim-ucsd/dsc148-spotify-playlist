@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1737,
+  "num_followers": 1751,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDQwZTNlNTNmZmY2ZDIzZGMyMzdkYTljOTAzN2ExOWZkNzc0ZWQx",
+  "snapshot_id": "MCwzYWM0NjUyMzE5ZjMwZTVhMDAzZjllYjgyNDJmYjJjMzRhOWE5OTA3",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
       },
       "artists": [
         {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
         }
       ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -615,6 +619,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
+      },
+      "artists": [
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "Mungu Ni Mungu Tu",
         "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 507425,
       "name": "Mungu Ni Mungu Tu",
       "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
-        }
-      ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
-      },
-      "artists": [
-        {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
-        }
-      ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Na Gode (Swahili)",
         "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 206500,
       "name": "Na Gode - Swahili",
       "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Hapa Nilipo",
+        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
+      },
+      "artists": [
+        {
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+        }
+      ],
+      "duration_ms": 261355,
+      "name": "Upendo Wa Yesu",
+      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     },
     {
       "added_at": "2023-07-28 00:01:00",

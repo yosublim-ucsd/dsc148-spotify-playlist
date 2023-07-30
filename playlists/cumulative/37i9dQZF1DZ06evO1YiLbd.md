@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 36 min
+78 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [moonlit night](https://open.spotify.com/track/3tKR4BC1txLrHW0Q7cWHwp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/5TOcbeM0HzV5EZFnpbmua8) | 4:40 | 2023-07-09 | 2023-07-24 |
 | [My Hero Academia](https://open.spotify.com/track/50o13VmOJiUj3WfU7XmEAn) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:25 | 2022-12-23 |  |
 | [My Hero Is Our Hero](https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:49 | 2023-01-21 | 2023-06-08 |
+| [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Hulu Anime](https://open.spotify.com/artist/4zO0OJ7PBiY6Sy3tiji0eS), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ) | 1:53 | 2023-07-29 |  |
 | [Revengers](https://open.spotify.com/track/0qWg7OtwyOJCWon829FVO0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:27 | 2022-12-23 | 2023-07-16 |
 | [Rody's Heart](https://open.spotify.com/track/2RsFq9HSoesTiuEVArS1sN) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 2:10 | 2023-02-12 | 2023-02-23 |
 | [Shutter Speed, Aperture, ISO](https://open.spotify.com/track/7LbFveevqPd2Vele8E6aQG) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:53 | 2023-06-22 |  |

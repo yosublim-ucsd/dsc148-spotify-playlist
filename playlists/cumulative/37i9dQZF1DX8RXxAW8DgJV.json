@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "Enai Noki Paayum Thota (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45bGofpPXb9IrX5gpp9Lgx"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356718,
+      "name": "Maruvaarthai",
+      "url": "https://open.spotify.com/track/6A79kP682lpUXnwcl5575F"
+    },
+    {
+      "album": {
         "name": "Maruvaarthai (From \"Enai Noki Paayum Thota\")",
         "url": "https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA"

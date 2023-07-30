@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3012,
+  "num_followers": 3013,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGY3MjQ4ODA2MWU1NWUzMDc4MjRhZTU1N2ExOTc2ZGU0ZDY3ZWQ1",
+  "snapshot_id": "MCw3NDhjODkzMDA2YzA5OWNiZGM4ZTkzYTVkZTEzZmQzM2VlZjlkNTNl",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Dreamrider",
-        "url": "https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V"
-      },
-      "artists": [
-        {
-          "name": "Lazerhawk",
-          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
-        }
-      ],
-      "duration_ms": 322246,
-      "name": "Neon Dawn",
-      "url": "https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Word as Power",
         "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 601827,
       "name": "Babel",
       "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Dreamrider",
+        "url": "https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V"
+      },
+      "artists": [
+        {
+          "name": "Lazerhawk",
+          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
+        }
+      ],
+      "duration_ms": 322246,
+      "name": "Neon Dawn",
+      "url": "https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Asleep And Well Hidden",
         "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 430986,
       "name": "The Ruins And The Serene",
       "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr"
     },
     {
-      "added_at": "2022-11-17 21:42:27",
-      "album": {
-        "name": "Die of The Waters",
-        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
-      },
-      "artists": [
-        {
-          "name": "Sharp Veins",
-          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
-        }
-      ],
-      "duration_ms": 186321,
-      "name": "Don't Forget",
-      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
-    },
-    {
       "added_at": "2022-07-06 17:58:03",
       "album": {
         "name": "Below the Mountain",
@@ -1095,6 +1079,22 @@
       "duration_ms": 290653,
       "name": "Woven Planet",
       "url": "https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV"
+    },
+    {
+      "added_at": "2022-11-17 21:42:27",
+      "album": {
+        "name": "Die of The Waters",
+        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
+      },
+      "artists": [
+        {
+          "name": "Sharp Veins",
+          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
+        }
+      ],
+      "duration_ms": 186321,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
     },
     {
       "added_at": "2022-07-06 17:58:03",

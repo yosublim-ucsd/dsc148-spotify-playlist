@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,835 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,044 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point Remix \(feat\. Victoria Monét\)](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
+| 1 | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
 | 2 | [Make It Easy \(with Coco Jones\)](https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 |
 | 3 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 |
 | 4 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 19 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 |
 | 20 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 |
 | 21 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 |
-| 22 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/436zW2YNa5hDrrtOSJwyJt) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
+| 22 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
 | 23 | [At Your Worst](https://open.spotify.com/track/1Aoj7H9ZePB0DQzvbz1OTd) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p) | [At Your Worst](https://open.spotify.com/album/1OMJguCi8Zi7tewDnFoJ4M) | 2:50 |
 | 24 | [Make Your Move](https://open.spotify.com/track/4eNhlwQKsXKDUOJhOOHjJB) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [Make Your Move](https://open.spotify.com/album/1sd3owtgEdz4FtoCynU6Ev) | 3:10 |
 | 25 | [Dog Chasing Bone](https://open.spotify.com/track/7F0yOSGVUQcNHN2zpptNev) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Dog Chasing Bone](https://open.spotify.com/album/3i5NCYWVXYtSHl9nrv6XfD) | 2:29 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 122 | [Who Am I \(feat\. Twigg Martin\)](https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ), [Twigg Martin](https://open.spotify.com/artist/5F2DtKXZAnKgl5e3BSiI5M) | [Who Am I \(feat\. Twigg Martin\)](https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE) | 2:02 |
 | 123 | [Supposed 2](https://open.spotify.com/track/3oxZ1pHavgN53c3ryBf4jE) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [Supposed 2](https://open.spotify.com/album/7EyV7SYwuiVIXD0H65nrnp) | 3:39 |
 | 124 | [Oh Dear](https://open.spotify.com/track/5BSII2hWfTjJPXts8xcJOl) | [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Oh Dear](https://open.spotify.com/album/7Lv4TIe9prKJMgvbRHJ5QE) | 4:05 |
-| 125 | [Options](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 |
+| 125 | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 |
 | 126 | [Ocean](https://open.spotify.com/track/1pNB9Npnx2sX0Zq9VvOHjD) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [WNTRS OUTCAST](https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl) | 1:53 |
 | 127 | [HEALING](https://open.spotify.com/track/2NC6WZch90Qv5YCWWh3dNO) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [HEALING](https://open.spotify.com/album/1n8K3etSJvgAzm1qIZTyOW) | 2:48 |
 | 128 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 175 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCxlZTcxMDNkYjQ4YmQ3YzM3ZmUyZDVkNDVjZGNiNmRkMDc3NGU3OTA5`
+Snapshot ID: `MCwzOTdiMjI0OWFiYTI5OTkwM2U0Mjc5YzdmZjQ0MDgyNmMwMTYxNzkx`

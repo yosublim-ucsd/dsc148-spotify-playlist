@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,434 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,468 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 31 | [Infravermelho](https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW), [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Infravermelho](https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx) | 3:06 |
 | 32 | [Faixa Preta](https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Faixa Preta](https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH) | 2:49 |
 | 33 | [Armamento do Irã](https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [D r o p e](https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Olympio](https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72) | [Armamento do Irã](https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3) | 4:19 |
-| 34 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 |
-| 35 | [Sentral](https://open.spotify.com/track/6slMt85DKGnDHB3DUExnCj) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Sentral](https://open.spotify.com/album/0j8ZGugjauflFzt6hnpFK5) | 2:24 |
+| 34 | [Sentral](https://open.spotify.com/track/6slMt85DKGnDHB3DUExnCj) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Sentral](https://open.spotify.com/album/0j8ZGugjauflFzt6hnpFK5) | 2:24 |
+| 35 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 |
 | 36 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 37 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
 | 38 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Blackoutt MC](https://open.spotify.com/artist/4BuVB9M4LodpY72q4pXoS0) | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q) | 4:59 |
 
-Snapshot ID: `MCwxMzk0ZTM5OWFmNTFiNTNhZDcyYTU0NGYwNTRiNjc5ZmNjZjZlZmRm`
+Snapshot ID: `MCwzNjM1YjMxMjE0ZWUyNDhkYzZmMjdjMzZjNDk1MGRkZGEzNjljMGZh`

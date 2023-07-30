@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-810 songs - 2 day 1 hr 31 min
+811 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,8 @@
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-12-10 | 2022-01-15 |
 | [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 3:50 | 2023-02-17 | 2023-05-27 |
 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 | 2022-08-19 | 2022-10-08 |
-| [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 |  |
+| [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 | 2023-07-30 |
+| [Lord Have Mercy](https://open.spotify.com/track/73fzDLtCR3jMZrwNZlQXpo) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 4:01 | 2023-07-24 |  |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 |  |
 | [Lost Myself](https://open.spotify.com/track/75fbzYs01Qy6v7PQFCuRn4) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Guy Garvey](https://open.spotify.com/artist/2j3K3e7Jnnmd2KwlFgCC5u) | [Lost Myself](https://open.spotify.com/album/1IHWQirXUP8rmULByurr7X) | 3:34 | 2022-09-30 | 2022-11-19 |
 | [Lost Track](https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE) | 2:22 | 2022-03-04 | 2022-06-25 |

@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 329789,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25"
@@ -1104,6 +1104,28 @@
       "duration_ms": 278440,
       "name": "Lazy Evening Blues",
       "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "London Hilton",
+      "url": "https://open.spotify.com/track/7zreWwu1eicUJJ4gkPjKnI"
     },
     {
       "album": {

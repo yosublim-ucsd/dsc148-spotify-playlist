@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,785 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,003 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 14 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 |
 | 15 | [Kriminal tango](https://open.spotify.com/track/50Z9lMvcnkHuPodeL6XY53) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:44 |
 | 16 | [Ma l'amore no](https://open.spotify.com/track/5drSJDJ0IiWmwKiosUskqK) | [Alberto Rabagliati](https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra) | [Alberto Rabagliati](https://open.spotify.com/album/1yvawlqBZYtfiyu8OMhAPK) | 3:57 |
-| 17 | [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 |
+| 17 | [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/5MAX7FhPRj2T2e7FL0nPWM) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 |
 | 18 | [Polvere](https://open.spotify.com/track/1ZhJn46BIvPpZcSqNEWDKX) | [Giorgio Consolini](https://open.spotify.com/artist/3YJLfJ2gMM7sd2cZnsHKKS) | [Giorgio Consolini](https://open.spotify.com/album/1ZtMtYMAmH2oopEA6dkCWr) | 3:39 |
 | 19 | [Guarda che luna](https://open.spotify.com/track/79g5dcc87vtTw5RkwkDs4L) | [Fred Buscaglione](https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa) | [Che Bambola!](https://open.spotify.com/album/2dznTOXzQCpmzkTwLmt9fh) | 2:24 |
 | 20 | [In Times Like These](https://open.spotify.com/track/1O3XkvdYvLgmvUhAqtTPCR) | [Julius La Rosa](https://open.spotify.com/artist/1yhv5zp6IYFYpboAm7Fdlm) | [On The Sunny Side](https://open.spotify.com/album/5UwXs3lYUnJJjOMdvxKfty) | 2:46 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 54 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 
-Snapshot ID: `MCxlZDNlZDM5YzNjMTc2MjgxYjZhYjNiMjg1MGNmZGUxZWM0YmJiM2Ji`
+Snapshot ID: `MCxiNTY2NTcwY2IyZDEzYjI5YTFhZjljZjcwZjgxMWY5ZGFlZjI3ZmM3`

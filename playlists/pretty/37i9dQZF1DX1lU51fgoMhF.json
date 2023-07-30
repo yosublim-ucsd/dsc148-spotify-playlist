@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 155181,
+  "num_followers": 155529,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzRiOTU3NzcwOTliOTZjYTU3Njk4NDZjNjU1ZjdhMDg0OTVjODdk",
+  "snapshot_id": "MCxjMWVmOTZmMjIxNzFiNjFhY2EwMWE0ZGRjMGVkY2EyMDliMTYxM2Rk",
   "tracks": [
     {
       "added_at": "2023-07-26 10:40:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "Sour & Sweet",
-      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
-    },
-    {
-      "added_at": "2023-07-26 10:40:51",
-      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
+    },
+    {
+      "added_at": "2023-07-26 10:40:51",
+      "album": {
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "Sour & Sweet",
+      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Summer Special [Flip That]",
-        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Flip That",
-      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
-    },
-    {
-      "added_at": "2023-07-26 10:40:51",
-      "album": {
         "name": "Lil' Touch - The 1st Single",
         "url": "https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 189846,
       "name": "Lil\u2019 Touch",
       "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
+    },
+    {
+      "added_at": "2023-07-26 10:40:51",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -919,18 +919,22 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -951,22 +955,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 189720,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "SF9 4th Mini Album [ MAMMA MIA! ]",
-        "url": "https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV"
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
       },
       "artists": [
         {
-          "name": "SF9",
-          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
         }
       ],
-      "duration_ms": 204594,
-      "name": "MAMMA MIA",
-      "url": "https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX"
+      "duration_ms": 166800,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "Golden Hourglass",
-        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+        "name": "SF9 4th Mini Album [ MAMMA MIA! ]",
+        "url": "https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr"
+      "duration_ms": 204594,
+      "name": "MAMMA MIA",
+      "url": "https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX"
     },
     {
       "added_at": "2023-07-26 10:40:51",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-07-26 10:40:51",
       "album": {
-        "name": "SPECIAL ALBUM <For the Summer>",
-        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
       },
       "artists": [
         {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
         }
       ],
-      "duration_ms": 183787,
-      "name": "Boogie Up",
-      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
+      "duration_ms": 168986,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

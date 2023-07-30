@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-376 songs - 23 hr 27 min
+377 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-19 | 2023-07-23 |
 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 | 2023-07-21 |  |
-| [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-03-24 |  |
+| [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-03-24 | 2023-07-30 |
 | [Be the Player, Not the Poet](https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 4:54 | 2022-10-28 | 2023-01-07 |
 | [Be There Still](https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 3:35 | 2022-01-21 | 2023-03-16 |
 | [Been Struggling](https://open.spotify.com/track/0gqf9Si8wjPTxy3TP0avIy) | [Alex Maas](https://open.spotify.com/artist/0dBNMuLxOUm6BEU0IiD5Fe) | [Luca](https://open.spotify.com/album/24EXPHVPeAd5klXJR9fqKR) | 3:20 | 2022-04-29 | 2023-01-20 |
@@ -282,6 +282,7 @@
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |
 | [Shades Of You](https://open.spotify.com/track/5P0xYk06k6jT5Cujyx5TLX) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Surf The Sun](https://open.spotify.com/album/4P86SbCNGivegXvti0I0hX) | 4:14 | 2023-05-19 | 2023-07-03 |
+| [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shine Your Light on Me](https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Shine Your Light on Me](https://open.spotify.com/album/6RS8ZU3E0tfqM9OqKXLd6o) | 3:56 | 2022-01-21 | 2022-07-28 |
 | [Simple Life](https://open.spotify.com/track/5JdkPxWojjdgoJyKXmKH7U) | [Maybe Babs](https://open.spotify.com/artist/3S1vxfO28NzR0pVVLqJkZf) | [Simple Life](https://open.spotify.com/album/00zDlsowht5s6cIeQJn4xL) | 4:12 | 2022-04-13 | 2022-07-26 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-04-29 |  |

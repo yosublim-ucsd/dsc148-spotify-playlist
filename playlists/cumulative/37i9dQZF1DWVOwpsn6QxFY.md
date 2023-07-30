@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-257 songs - 15 hr 43 min
+258 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,13 +231,14 @@
 | [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-04-08 | 2023-03-11 |
 | [Spring Song](https://open.spotify.com/track/0OdnqTeiqN9eRs22OSf5n2) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Spring Song](https://open.spotify.com/album/4a0TAPZGnCsgk0RMiEVfU7) | 3:41 | 2022-03-31 | 2022-04-19 |
 | [Stacking Chairs](https://open.spotify.com/track/7355r4wB8D6crALDxPZ8KR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/70VPEuD4jUU7uPjBmP0D2o) | 3:08 | 2021-11-12 | 2022-07-29 |
+| [Stacking Chairs](https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We’re The Greatest](https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu) | 3:08 | 2023-04-27 |  |
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2022-03-31 | 2022-04-17 |
 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 | 2022-06-23 |  |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2022-03-31 | 2022-10-18 |
 | [Summertime](https://open.spotify.com/track/4NKJj0xn6XT06bsPq9mua1) | [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Summertime](https://open.spotify.com/album/1gmucHGTkROZ1QEoPmoIsP) | 3:34 | 2022-03-31 | 2022-04-20 |
 | [Sunday Funday](https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Sunday Funday](https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH) | 4:16 | 2021-11-12 | 2022-07-29 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-06-23 |  |
-| [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 | 2022-06-23 |  |
+| [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 | 2022-06-23 | 2023-07-30 |
 | [Surreal](https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/0OiP7DFcv3L9ERkVz4HyeF) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Ballad Of Joyce Vincent](https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [The Ballad of Joyce Vincent](https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6790,
+  "num_followers": 6806,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2U0MDMwMjY5YTQ2NWUxZTRjN2FiZTIyNmQ5MGZkYjcxYTg2ZmI3",
+  "snapshot_id": "MCwzNjhhMGM3NDU3YjJiNTg0MDRkMTIwN2Y0OGRlNmU3MTUzY2NhMjdi",
   "tracks": [
     {
       "added_at": "2023-06-30 05:46:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 225304,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Ese Dinero",
-        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
-      },
-      "artists": [
-        {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
-        }
-      ],
-      "duration_ms": 238648,
-      "name": "Ese Dinero",
-      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Emocional",
         "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Ese Dinero",
+        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+      },
+      "artists": [
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        }
+      ],
+      "duration_ms": 238648,
+      "name": "Ese Dinero",
+      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
     },
     {
       "added_at": "2023-06-30 05:46:00",

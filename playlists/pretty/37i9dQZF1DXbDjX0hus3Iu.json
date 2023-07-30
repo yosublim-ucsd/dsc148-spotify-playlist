@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 482580,
+  "num_followers": 482696,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzJmYWUwMDg1MDcxZDZmOGE4NDYwOWI1ODI4ZmY3OWY3NDBlOTg1",
+  "snapshot_id": "MCw4NmExNDBlNzgyNjJiMmMxMmJjYzRkN2NjZWI2ZTJhNWYxMDRjMTBj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Struttin' My Stuff",
-        "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
       "artists": [
         {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Fooled Around And Fell In Love",
-      "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
+      "duration_ms": 224026,
+      "name": "You're No Good",
+      "url": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Searchin' for a Rainbow",
-        "url": "https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS"
+        "name": "Struttin' My Stuff",
+        "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
       },
       "artists": [
         {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Fire on the Mountain",
-      "url": "https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS"
+      "duration_ms": 276000,
+      "name": "Fooled Around And Fell In Love",
+      "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Searchin' for a Rainbow",
+        "url": "https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Fire on the Mountain",
+      "url": "https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Eat A Peach",
         "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 311703,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Million Mile Reflections",
-        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
         "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
       },
@@ -375,38 +391,6 @@
       "duration_ms": 279893,
       "name": "Hold On Loosely",
       "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "You're No Good",
-      "url": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 221890,
-      "name": "Ain't Wastin' Time No More",
-      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 221890,
+      "name": "Ain't Wastin' Time No More",
+      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "I'm No Angel",
-      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Rock & Roll Strategy",
         "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Brothers And Sisters (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0OCVL5FaQyJzR008B2Mvpr"
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 451160,
-      "name": "Jessica",
-      "url": "https://open.spotify.com/track/7AN22wQYwiCG49qYosygFq"
+      "duration_ms": 222893,
+      "name": "I'm No Angel",
+      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -555,22 +539,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 450333,
-      "name": "Highway Song",
-      "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Keep On Smilin'",
         "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 237333,
       "name": "Keep On Smilin'",
       "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 450333,
+      "name": "Highway Song",
+      "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -603,6 +587,38 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Brothers And Sisters (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OCVL5FaQyJzR008B2Mvpr"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 451160,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/7AN22wQYwiCG49qYosygFq"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 426000,
       "name": "Dreams I'll Never See",
       "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Laid Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
-      },
-      "artists": [
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 267363,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+        "name": "Laid Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
+      "duration_ms": 267363,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "The Whippoorwill",
+        "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Pretty Little Lie",
+      "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "The Dirty South",
         "url": "https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 375600,
       "name": "Take the Highway",
       "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "The Whippoorwill",
-        "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Pretty Little Lie",
-      "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Ain't Life Grand",
         "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 277960,
       "name": "Left Turn on a Red Light",
       "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Searchin' for a Rainbow",
-      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1047,6 +1031,22 @@
       "duration_ms": 273226,
       "name": "Champagne Jam",
       "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Searchin' for a Rainbow",
+      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Snake in the Grass",
+        "url": "https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0"
+      },
+      "artists": [
+        {
+          "name": "Southern Bitch",
+          "url": "https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
         "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 411720,
       "name": "Grey Ghost",
       "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Snake in the Grass",
-        "url": "https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0"
-      },
-      "artists": [
-        {
-          "name": "Southern Bitch",
-          "url": "https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS"
     },
     {
       "added_at": "2023-01-18 21:52:55",

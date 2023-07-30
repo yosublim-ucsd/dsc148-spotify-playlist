@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,067 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,104 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 12 | [Feena](https://open.spotify.com/track/6lB92ejTjNk0jFZQpIXCcJ) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Feena](https://open.spotify.com/album/7vz3jgxySKMBpfvgpmiDrR) | 2:48 |
 | 13 | [Ta'lan](https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta'lan](https://open.spotify.com/album/4a8SJ5uy1axuUEarsnqEV7) | 3:34 |
 | 14 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 |
-| 15 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 |
-| 16 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
+| 15 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
+| 16 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 |
 | 17 | [آخر إصدار](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [آخر إصدار](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 |
 | 18 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
 | 19 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 40 | [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 |
 | 41 | [Rayto](https://open.spotify.com/track/7bh4lXLynRMSV3cyxTUlCr) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Rayto](https://open.spotify.com/album/1mZSJu73qb3eXhZOL5xM0c) | 3:18 |
 | 42 | [على كيفي](https://open.spotify.com/track/4a6bLROaBRTXHvbOU4iUlL) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [على كيفي](https://open.spotify.com/album/1KUd4Q4eTnblXlRJu9Ho1t) | 3:08 |
-| 43 | [Feeling Cool](https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG) | [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w) | [Feeling Cool](https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT) | 2:42 |
-| 44 | [Taqa Egabiya](https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Taqa Egabiya](https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu) | 3:03 |
+| 43 | [Taqa Egabiya](https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Taqa Egabiya](https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu) | 3:03 |
+| 44 | [Feeling Cool](https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG) | [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w) | [Feeling Cool](https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT) | 2:42 |
 | 45 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 |
 | 46 | [Ahenu Ilayka](https://open.spotify.com/track/1cMmjfiraN9MdBMliiJDrR) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ahenu Ilayka](https://open.spotify.com/album/2WrO9FMMDPLcIRrwag5v4A) | 3:42 |
 | 47 | [BOCCA](https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [BOCCA](https://open.spotify.com/album/34dzNc340Motb5uIZVI1WJ) | 2:52 |
 | 48 | [Ergaa Ya Zaman](https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 2:21 |
-| 49 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 |
-| 50 | [Baaet Aada](https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Baaet Aada](https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap) | 4:20 |
+| 49 | [Bab ElTayaba](https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Bab ElTayaba](https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD) | 3:50 |
+| 50 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 |
 
-Snapshot ID: `MCxmMWEwM2EyMjFlMjhmYjUyNTM4MmExZmViMWFlZGZlNzA5Yzg1MDM5`
+Snapshot ID: `MCw5OWYyZDBjNjBjMGJiOGJiYjBlZTcyOGFkZmQ3MjRhY2M3MWNmZTU4`

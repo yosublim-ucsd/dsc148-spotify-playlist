@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/3Uyt7xDVMAftgjNiZ9qVjP"
+      },
+      "artists": [
+        {
+          "name": "Eagle Chan",
+          "url": "https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195982,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/1fbuJWzh5RW09bUUUKmB8A"
+    },
+    {
+      "album": {
         "name": "I'm Lovin' You",
         "url": "https://open.spotify.com/album/6MCekR21H8RPtGaLafIIYc"
       },

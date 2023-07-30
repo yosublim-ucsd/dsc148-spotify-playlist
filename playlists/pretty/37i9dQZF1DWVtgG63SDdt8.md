@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,425 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,562 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza \- EP](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
+| 1 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
 | 2 | [La La La](https://open.spotify.com/track/4rckPCPXflSm6oeZtbyYid) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [La La La](https://open.spotify.com/album/48fRMBi6eZARuSG8YBiAwG) | 3:19 |
 | 3 | [Confetti](https://open.spotify.com/track/5EmyCt8M4Ws9wY3wcT3i50) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Confetti](https://open.spotify.com/album/2GN4epksZV5WFSZDs1EE6C) | 3:01 |
 | 4 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 34 | [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 |
 | 35 | [Vacancy](https://open.spotify.com/track/0LNqTJ4rUGKQDonUjgNnHu) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Vacancy](https://open.spotify.com/album/7l4JXG24cCuvA516fUg78P) | 4:19 |
 | 36 | [growing into my dreams](https://open.spotify.com/track/4GtT4W8Ze5bFJpxxy3m4Mh) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [growing into my dreams](https://open.spotify.com/album/1zN8J0Ci8C1k49ypLIzvfQ) | 2:05 |
-| 37 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
+| 37 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Carolena](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
 | 38 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 |
 | 39 | [Faith > Fear](https://open.spotify.com/track/4urpo7LLiNUtyOvhXTezM5) | [Mia Pearl](https://open.spotify.com/artist/6oDZzh1uMkMpsLsAEcKomm) | [Faith > Fear](https://open.spotify.com/album/6LxqTYmOc27BCEsV6DVNJ6) | 2:31 |
 | 40 | [MIA](https://open.spotify.com/track/6cQfK7OFrzrdAqGWcla6T0) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Church Girls Love R&B \- Girls Trip](https://open.spotify.com/album/2ewOBzZTAFJIVRijNg6IeF) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [YOU'RE MINE](https://open.spotify.com/track/0ika43Bh4ZerhBKWqJGi0Y) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [YOU'RE MINE](https://open.spotify.com/album/2Va2mNp8nQ5GWBqQSN9yO9) | 2:40 |
 | 100 | [boys don't cry.](https://open.spotify.com/track/1LgWU5tcPIc9prUvouAL7k) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [boys don't cry.](https://open.spotify.com/album/17Unz9MVuW4hYOoriIzvoy) | 2:30 |
 
-Snapshot ID: `MCwzYmIxMTBhOTE2MmJlZTAyMjdmZmU5ZjZiYjc1MDU1OGI3OGIzYzBl`
+Snapshot ID: `MCwzNmY5M2I4ODI5MzNlNGNlNWZhNjBmNTRlZmVlYjUzZjI4ODU3NjMz`

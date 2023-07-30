@@ -77,24 +77,6 @@
     },
     {
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "date_added": "2021-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237733,
-      "name": "A",
-      "url": "https://open.spotify.com/track/77shkefXyUkPU45nis6XkK"
-    },
-    {
-      "album": {
         "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
       },
@@ -1864,6 +1846,24 @@
       "duration_ms": 240493,
       "name": "\u9ed2\u3044\u50b7\u8de1\u306e\u30d6\u30eb\u30fc\u30b9",
       "url": "https://open.spotify.com/track/4vIAmiJitmLTgRsf5B0KPn"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "\uff21",
+      "url": "https://open.spotify.com/track/77shkefXyUkPU45nis6XkK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX40xbLWvaxZD"

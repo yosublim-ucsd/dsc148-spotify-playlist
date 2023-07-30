@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring El Krack Mx\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,523 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,525 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 33 | [UNTITLED](https://open.spotify.com/track/3Ya4XhiqbDfZ7rIIQuGCUH) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH), [Izzy Mxntana](https://open.spotify.com/artist/7GAIcjNsFaCmVoeGal3Gjz) | [UNTITLED](https://open.spotify.com/album/7sJsu08e5AJKzaXZhQDmhd) | 2:15 |
 | 34 | [LADRIDOS FREESTYLE](https://open.spotify.com/track/7CiyDHa8UN2hj5kaS5bme8) | [ZETKA](https://open.spotify.com/artist/7yDof2rQaLdwTnAT6dR0KM), [Arizpe](https://open.spotify.com/artist/5SU1Zp5WmMwNYZHbcqxbi0), [Velabeats](https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W), [Maneyx](https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi) | [LADRIDOS FREESTYLE](https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y) | 2:28 |
 | 35 | [Anoche](https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV) | [Sueters](https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr) | [Anoche](https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr) | 3:36 |
-| 36 | [Te quedas?](https://open.spotify.com/track/6qxxprT7F81xDBzLl656co) | [Crazh](https://open.spotify.com/artist/0Q0yC3XZZfy1LklYS2bFVA), [Pablo Rosas](https://open.spotify.com/artist/6OiSSyW5Z1Izedz1JmotWw) | [Te quedas?](https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d) | 2:36 |
-| 37 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
-| 38 | [Noche Celestial](https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp) | [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [Noche Celestial](https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ) | 2:34 |
+| 36 | [Noche Celestial](https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp) | [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [Noche Celestial](https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ) | 2:34 |
+| 37 | [Te quedas?](https://open.spotify.com/track/6qxxprT7F81xDBzLl656co) | [Crazh](https://open.spotify.com/artist/0Q0yC3XZZfy1LklYS2bFVA), [Pablo Rosas](https://open.spotify.com/artist/6OiSSyW5Z1Izedz1JmotWw) | [Te quedas?](https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d) | 2:36 |
+| 38 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
 | 39 | [Eclipse](https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC) | [Proyectosolo](https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa) | [Eclipse](https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf) | 3:16 |
 | 40 | [Tragos](https://open.spotify.com/track/28Kg5mB38fipYwzhyUnNeH) | [Nesty D](https://open.spotify.com/artist/4gu2v0saKToZy4NElInn8X) | [Tragos](https://open.spotify.com/album/0feBdbt4JgUrY5P4D2xxFx) | 3:20 |
-| 41 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 |
-| 42 | [Relinda](https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ) | [Jose Villasenor](https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS) | [Relinda](https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14) | 2:33 |
+| 41 | [Relinda](https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ) | [Jose Villasenor](https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS) | [Relinda](https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14) | 2:33 |
+| 42 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 |
 | 43 | [Suncircus](https://open.spotify.com/track/5ZiVcC53KNtZGIJ6AnOBRI) | [vonnside](https://open.spotify.com/artist/2MCzOmuoRHFfxL33QW2jQG) | [Suncircus](https://open.spotify.com/album/1x10WgffbqyKcx6aJGYbxk) | 3:04 |
 | 44 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 |
 | 45 | [Bien?](https://open.spotify.com/track/52m258iE1bAIHZVwIpNGqN) | [Oliivr](https://open.spotify.com/artist/0iTUsca1axJEI2gTD3CSa1) | [Bien?](https://open.spotify.com/album/5xfyJpUUVOl9b5IscR73QE) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 |
 | 50 | [Mariposa](https://open.spotify.com/track/0NPeTtfGWTFfkxukvNABEq) | [Royalty Kings](https://open.spotify.com/artist/4u257YkHzvod1NBiycnYsX), [Yamilex](https://open.spotify.com/artist/22yz7YQtm8ztl4nWGy6GqG) | [Underdogs](https://open.spotify.com/album/7hLnVN9xlGImtKA6xo3lgC) | 3:10 |
 
-Snapshot ID: `MCxkMGYyNzU0MmM3MzQ0YjhiOGI4YzI0NDZmZjdkMWJlZTNmMzYwMTdh`
+Snapshot ID: `MCxmMjdjYmJiNTBjMTc4OWEyZmUyMmM1YTc4OWIzMGIyYjI5YzNlYmQ5`

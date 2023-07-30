@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,542 likes - 114 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,569 likes - 114 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 92 | [Classics](https://open.spotify.com/track/2wxEvZuIYk454DJwoShj3V) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Classics](https://open.spotify.com/album/22HaA6JMGWTCAA6MnwOC8s) | 2:58 |
 | 93 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 94 | [Inside Outside](https://open.spotify.com/track/1CZvp1wwxWHgSJfXg3awqB) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Inside Outside](https://open.spotify.com/album/7HegRbqCwUI5z3Nq572KqK) | 3:33 |
-| 95 | [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 |
+| 95 | [Lord Have Mercy](https://open.spotify.com/track/73fzDLtCR3jMZrwNZlQXpo) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 4:01 |
 | 96 | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK) | 4:25 |
 | 97 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 98 | [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 114 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCwwZWZmNzI3ZmZkY2Q3MDYyMzczMTZjYThjZWIwMjc1NjkzZTY5OWI1`
+Snapshot ID: `MCxjYzk0YzhiOWExNzNhNzhmOTExYmFjNWM5MDA5MDIzNTI3MzQzZGEw`

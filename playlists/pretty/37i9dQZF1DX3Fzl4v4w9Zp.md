@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,026 likes - 149 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,174 likes - 149 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 30 | [Slow Pace Of Time \[Feat\. Charlie Gabriel\]](https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o), [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK) | [What If I EP](https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu) | 4:29 |
 | 31 | [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 |
 | 32 | [All I Really Wanna Do](https://open.spotify.com/track/2pdN1F1hOI1At7GepafDMT) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:42 |
-| 33 | [This Is A Photograph II](https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph II b/w Five Easy Pieces Revisited](https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30) | 2:56 |
+| 33 | [This Is A Photograph II](https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 2:56 |
 | 34 | [Since You've Been Gone](https://open.spotify.com/track/1oNa7B5qiFbiMbWIiyl5Bi) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Since You've Been Gone](https://open.spotify.com/album/0AeeTTrViZQ6KZrZAu2l8M) | 3:26 |
 | 35 | [New York Comeback](https://open.spotify.com/track/0uCIjbxBRNceKKdJg5FpzK) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [New York Comeback](https://open.spotify.com/album/1a8vXGdhuyxxZ3m6YkUPP8) | 4:14 |
 | 36 | [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn) | 3:00 |
 | 149 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 
-Snapshot ID: `MCwyZGUyNDlkY2I5NDEyM2YyMmY5MTZmYjA4NWRhZGY3OGZhNDlkZmRj`
+Snapshot ID: `MCw1ODQ0MzhkMjE1MTE0YTk5ODAxMjZjZTk1ZTFiNzk0ZjliZTUyYmU2`

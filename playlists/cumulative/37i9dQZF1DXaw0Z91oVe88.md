@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-122 songs - 7 hr 20 min
+123 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [F902](https://open.spotify.com/track/72Crnzf4RXJvssLigcC7om) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [\#02](https://open.spotify.com/album/7mJsJcbED93wlCutILesJi) | 2:59 | 2022-06-20 | 2022-07-26 |
 | [Fall In Love](https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love Alarm CLAP! CLAP! CLAP! OST](https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L) | 4:10 | 2023-07-07 |  |
 | [fallin \(feat\. Liss\)](https://open.spotify.com/track/0syedLlswRozp59jePqhIG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat\. Liss\)](https://open.spotify.com/album/5bwuj0Iuze77jbfrymLEtp) | 2:47 | 2022-06-20 | 2022-07-28 |
+| [fallin \(feat.Liss\)](https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat.Liss\)](https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU) | 2:47 | 2023-07-17 |  |
 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 | 2023-05-02 |  |
 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 | 2022-07-22 | 2023-02-17 |
 | [Feeling Good \- 2019 Version](https://open.spotify.com/track/2BV9fEymPBavD9QsC27AmY) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 2:42 | 2022-06-20 | 2022-07-25 |
@@ -46,7 +47,7 @@
 | [Forever](https://open.spotify.com/track/4jcW7dMVX8ESpPQ9U3XvWp) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:55 | 2022-06-20 | 2022-08-11 |
 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 | 2022-06-20 |  |
 | [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-06-20 | 2023-07-26 |
-| [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 | 2022-06-20 |  |
+| [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 | 2022-06-20 | 2023-07-30 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-06-20 | 2022-12-27 |
 | [Have You Ever](https://open.spotify.com/track/4AjBFmioxIaW1QzH1FrPEI) | [Kim Yeo Myeong](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Have You Ever](https://open.spotify.com/album/0gW2S1J50ucDsXbClgMqPl) | 3:16 | 2022-06-20 | 2022-07-09 |
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-07-07 |  |

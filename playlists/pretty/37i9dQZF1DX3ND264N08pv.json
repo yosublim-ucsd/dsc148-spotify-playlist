@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 50205,
+  "num_followers": 50296,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM3NGRjYjAxMDIyNjEzOTY5ZDNlYjQ3OTIzOTE0ZDFiZGUxNmJm",
+  "snapshot_id": "MCxiYmQxOWVmZWYzYzQ0NDViZDYzYmJjNGEwZDFjODZhZDhhNmFkMDdj",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "DEQUINOX 100",
+        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "DEQUINOX 100",
+      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 195000,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "DEQUINOX 100",
-        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "DEQUINOX 100",
-      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Til The AM",
+        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
+      },
+      "artists": [
+        {
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        },
+        {
+          "name": "Animal Side",
+          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Til The AM",
+      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "The Resurrection (Official Toxicator 2022 Anthem)",
         "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
@@ -1507,26 +1527,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Til The AM",
-        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
-      },
-      "artists": [
-        {
-          "name": "EQUAL2",
-          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
-        },
-        {
-          "name": "Animal Side",
-          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Til The AM",
-      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Demolition Hardcore",
         "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 213890,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Het Verbond",
         "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 256457,
       "name": "Het Verbond",
       "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 213890,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Go Wild Now",
         "url": "https://open.spotify.com/album/5SyasrNQvjgKmVuEPuyrH1"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 173100,
       "name": "Go Wild Now",
       "url": "https://open.spotify.com/track/4bLBf2HAZj2X8ENelaqWnW"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

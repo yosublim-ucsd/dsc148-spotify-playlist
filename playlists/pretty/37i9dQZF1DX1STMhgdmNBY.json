@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 57185,
+  "num_followers": 57299,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI1ZTYzNGRhZjgwN2E4NDNjMjE0MzhiOTAwMWY3Nzk4ZWNiMDFh",
+  "snapshot_id": "MCw5YWI3OTkyNDA2MDVkMzhkNDIyNThkOWVjNTY4ZDE4YTI3NzRkNjQw",
   "tracks": [
     {
       "added_at": "2023-06-16 14:15:56",
@@ -915,22 +915,18 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Mike Farris",
-          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 289266,
-      "name": "I Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
+      "duration_ms": 198560,
+      "name": "Dr. Feelgood (Love Is Serious Business)",
+      "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -955,18 +951,22 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Soul Queen",
-        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Mike Farris",
+          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
         }
       ],
-      "duration_ms": 198560,
-      "name": "Dr. Feelgood (Love Is Serious Business)",
-      "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
+      "duration_ms": 289266,
+      "name": "I Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Today I Sing the Blues",
+      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Today I Sing the Blues",
-      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
     },
     {
       "added_at": "2023-06-16 14:15:56",

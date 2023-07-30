@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 38420,
+  "num_followers": 38453,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWE4MmQxMGVmMTk5MzNjNmI3ZDUyYWFlNzRkODhmMDg0OWQ2MGJj",
+  "snapshot_id": "MCw5ZTg3NWNjNWM1YjgxYjg0OGQ1MTUwMWQyOWU5OTE1YjkzYjZmYzNi",
   "tracks": [
     {
       "added_at": "2023-07-13 14:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me - Single Version",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "Come Around EP",
         "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 228473,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me - Single Version",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218400,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
         "url": "https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197716,
       "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
       "url": "https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "High Off You",
+        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "High Off You",
+      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     }
   ],
   "unique_name": "Soulful",

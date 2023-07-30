@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 133771,
+  "num_followers": 134012,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzdiOWZjMGU0YzI4ZTUwN2RmNDRhOTgyMzdkOWY2NjhmM2FiZThi",
+  "snapshot_id": "MCw0Yjk3MzA1YmIzNTY5YzYyNzNlYjNkNDQ4Yzk5ZWViZmU2NmJmMGUy",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Multiplica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Multiplica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Jesus Saves Bro",
         "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 220279,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Multiplica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Multiplica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 163794,
       "name": "Se P\u00e1",
       "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "S\u00f3 H\u00e1 Um Caminho",
+        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+        }
+      ],
+      "duration_ms": 162468,
+      "name": "S\u00f3 H\u00e1 Um Caminho",
+      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "S\u00f3 H\u00e1 Um Caminho",
-        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
-      },
-      "artists": [
-        {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
-        }
-      ],
-      "duration_ms": 162468,
-      "name": "S\u00f3 H\u00e1 Um Caminho",
-      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1387,50 +1387,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Lord Jesus (Speed)",
-        "url": "https://open.spotify.com/album/6pqdbGTQYqufkPlapM04Uq"
-      },
-      "artists": [
-        {
-          "name": "Bodybuilding Speed",
-          "url": "https://open.spotify.com/artist/6edmRMwiY07gTZBKVDEr3u"
-        },
-        {
-          "name": "Lil Boas",
-          "url": "https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL"
-        }
-      ],
-      "duration_ms": 187235,
-      "name": "Lord Jesus (Speed)",
-      "url": "https://open.spotify.com/track/08eDRWIuA9mBKKMBK20cmg"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Pe\u00e7o ao Pai",
-        "url": "https://open.spotify.com/album/0UxrV2Onm8AQmIOFTeaRIG"
-      },
-      "artists": [
-        {
-          "name": "MC Fabr\u00edcio SP",
-          "url": "https://open.spotify.com/artist/6bRBaUU1jYP9cCFGneI3rb"
-        },
-        {
-          "name": "MC NEGO LAMA",
-          "url": "https://open.spotify.com/artist/2QqWULuCFMJcUcE8ekHQkP"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Pe\u00e7o ao Pai",
-      "url": "https://open.spotify.com/track/1iDv4IFu49D5zurfn2T2Yu"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Tesouro",
         "url": "https://open.spotify.com/album/3iy6RkWquXFeUGiKjwejpT"
       },
@@ -1463,6 +1419,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Lord Jesus (Speed)",
+        "url": "https://open.spotify.com/album/6pqdbGTQYqufkPlapM04Uq"
+      },
+      "artists": [
+        {
+          "name": "Bodybuilding Speed",
+          "url": "https://open.spotify.com/artist/6edmRMwiY07gTZBKVDEr3u"
+        },
+        {
+          "name": "Lil Boas",
+          "url": "https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL"
+        }
+      ],
+      "duration_ms": 187235,
+      "name": "Lord Jesus (Speed)",
+      "url": "https://open.spotify.com/track/08eDRWIuA9mBKKMBK20cmg"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Meu Maior Bem (Speed)",
         "url": "https://open.spotify.com/album/28DAmcBlt8CUfsNJTYOf46"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 127004,
       "name": "Meu Maior Bem - Speed",
       "url": "https://open.spotify.com/track/2jJlcXWhvXVNx1ro2r2eZW"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Pe\u00e7o ao Pai",
+        "url": "https://open.spotify.com/album/0UxrV2Onm8AQmIOFTeaRIG"
+      },
+      "artists": [
+        {
+          "name": "MC Fabr\u00edcio SP",
+          "url": "https://open.spotify.com/artist/6bRBaUU1jYP9cCFGneI3rb"
+        },
+        {
+          "name": "MC NEGO LAMA",
+          "url": "https://open.spotify.com/artist/2QqWULuCFMJcUcE8ekHQkP"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Pe\u00e7o ao Pai",
+      "url": "https://open.spotify.com/track/1iDv4IFu49D5zurfn2T2Yu"
     },
     {
       "added_at": "2023-07-28 03:00:00",

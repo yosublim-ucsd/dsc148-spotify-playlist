@@ -4,7 +4,7 @@
 
 > Life in plastic, it's fantastic \#fyp
 
-100 songs - 5 hr 6 min
+101 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [KJF 4](https://open.spotify.com/track/38h0M6U32s0OpQuETbhlhY) | [LESTEF KJF BOYZ](https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp) | [KJF 4](https://open.spotify.com/album/12c3Tn2s4BkI2iFdx1vCah) | 2:49 | 2023-03-24 |  |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2023-03-24 |  |
 | [La clé](https://open.spotify.com/track/2JBnBUqpC3hrhMZv1Z9JKO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:52 | 2023-03-24 |  |
-| [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-04-07 |  |
+| [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-04-07 |  |
+| [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-04-07 | 2023-07-30 |
 | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/track/3aIH3DPcGwMDPlOl43Lufl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb) | 3:31 | 2023-07-07 |  |
 | [Lola](https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Lola](https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW) | 2:26 | 2023-03-24 |  |
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-03-24 |  |

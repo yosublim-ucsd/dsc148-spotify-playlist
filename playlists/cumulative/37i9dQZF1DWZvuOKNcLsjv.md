@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: kZm, JUMADIBA
 
-1,546 songs - 3 day 18 hr 22 min
+1,547 songs - 3 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,7 +781,8 @@
 | [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-09 | 2023-04-24 |
 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 | 2023-07-02 | 2023-07-17 |
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-05 | 2023-04-03 |
-| [No End feat.Daichi Miura](https://open.spotify.com/track/52f2ObtLVeaLKWEEMIjs0P) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [No End feat.Daichi Miura](https://open.spotify.com/album/6Mb3E6OG236Iy1EZZH7gzo) | 3:30 | 2023-07-23 |  |
+| [No End feat\. Daichi Miura](https://open.spotify.com/track/2bm4dVvrFDIcK2QEYTl4Fq) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ODO KYUKYU BAKO](https://open.spotify.com/album/5Ces90ZRW37Mc4m5WxIbMH) | 3:30 | 2023-07-23 |  |
+| [No End feat.Daichi Miura](https://open.spotify.com/track/52f2ObtLVeaLKWEEMIjs0P) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [No End feat.Daichi Miura](https://open.spotify.com/album/6Mb3E6OG236Iy1EZZH7gzo) | 3:30 | 2023-07-23 | 2023-07-30 |
 | [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 | 2023-07-09 | 2023-07-17 |
 | [No Good](https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 4:12 | 2023-05-21 | 2023-06-05 |
 | [NO GRAVITY](https://open.spotify.com/track/0xhBpU4DETSpvWbBYJJqCE) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [ROUND & ROUND](https://open.spotify.com/album/5XEXLtQTUGXRy1tPPkvPAl) | 4:31 | 2023-02-12 | 2023-02-20 |

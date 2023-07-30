@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 266400,
       "name": "Cartel",
       "url": "https://open.spotify.com/track/59IiQCRjKBFmjPbFd0MOzs"
@@ -5383,6 +5383,28 @@
     },
     {
       "album": {
+        "name": "Novaform / Blueshift",
+        "url": "https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180531,
+      "name": "Novaform",
+      "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
+    },
+    {
+      "album": {
         "name": "Nu Era Dub",
         "url": "https://open.spotify.com/album/49GSDSjry8dLRKU5xrTiTc"
       },
@@ -7942,7 +7964,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 301714,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/3ysoysyiTgfQearPlE8KA7"
@@ -9246,6 +9268,28 @@
       "duration_ms": 345655,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/2gm15vRwMX3d7yYcXWWdwM"
+    },
+    {
+      "album": {
+        "name": "Woofer",
+        "url": "https://open.spotify.com/album/55T0ZfUjc6ouKwC5iRaUpo"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Cleva Thoughts",
+          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212862,
+      "name": "Woofer",
+      "url": "https://open.spotify.com/track/3DvH2GoGvI8imw22IoETL6"
     },
     {
       "album": {

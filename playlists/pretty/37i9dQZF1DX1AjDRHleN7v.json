@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 276176,
+  "num_followers": 276235,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRlYmJmOGM2OTJlMzk4NmM2ZDkxZGQxZjdiY2E0NGI0ZTJkNzg5",
+  "snapshot_id": "MCw5MDM2YjkwNjZjMzRmNGI2YjE4YWRmMTE5NTA2MjljNjNjN2Q0NDBi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Sol da Meia-Noite",
-        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
-        }
-      ],
-      "duration_ms": 209971,
-      "name": "Sol da Meia-Noite",
-      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 161107,
       "name": "Frequ\u00eancia do Amor",
       "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Sol da Meia-Noite",
+        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
+        }
+      ],
+      "duration_ms": 209971,
+      "name": "Sol da Meia-Noite",
+      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "sei l\u00e1",
         "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2023-07-28 03:01:00",

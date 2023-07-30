@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 18791,
+  "num_followers": 18799,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg1YTAxNGJhYzQ5NGE5ZDc0OGJkZmNkZmNkZTQ3ZjcwN2RiYTc4",
+  "snapshot_id": "MCw4MzdlYTZiNTk3NzFjYmFjOTg1ZjMxODgxMzg5MTg1NGNlYmI0OTRi",
   "tracks": [
     {
       "added_at": "2023-05-24 22:54:50",
@@ -231,18 +231,22 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
       },
       "artists": [
         {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+      "duration_ms": 162000,
+      "name": "Nada Me Va A Importar",
+      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Nada Me Va A Importar",
-      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2023-05-24 22:54:50",

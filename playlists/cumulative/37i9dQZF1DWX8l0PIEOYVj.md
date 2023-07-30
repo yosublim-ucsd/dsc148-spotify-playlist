@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-402 songs - 1 day 0 hr 6 min
+403 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
-| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 |  |
+| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 | 2023-07-30 |
 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 | 2023-05-19 |  |
 | [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-07 |  |
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2023-05-08 |
@@ -256,6 +256,7 @@
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-08 |  |
 | [Moments \(feat\. Rynn\)](https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Moments \(feat\. Rynn\)](https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8) | 3:02 | 2023-01-13 |  |
 | [More Than I Can Say](https://open.spotify.com/track/2T2kT4f02nSeRrEENBSIYl) | [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq), [SUNHO](https://open.spotify.com/artist/70S0Ni9kqS1R56dJPs7k70) | [More Than I Can Say](https://open.spotify.com/album/36gx8N6RBR3uEyT6seZAtF) | 3:43 | 2023-06-30 | 2023-07-09 |
+| [Morning Light](https://open.spotify.com/track/17BDOUULoXbRCq84qFf1eJ) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Morning Light](https://open.spotify.com/album/2M4DDPLgGtuE86QiwGdlMK) | 2:52 | 2023-07-28 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-07-08 | 2023-05-27 |
 | [NEED IT](https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [NEED IT](https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i) | 2:41 | 2023-03-03 |  |
 | [Never Get Like You](https://open.spotify.com/track/0ZVqAkTI1bubdASG5Rm62r) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be EP](https://open.spotify.com/album/5zIoYzixuK56wDyqLOgylH) | 3:58 | 2022-07-08 | 2022-08-13 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=p0axaK4bSBm2drcSnxLvoQ">  حمزة نمرة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,342 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,400 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eskendereya](https://open.spotify.com/track/1xLgw7NZmHcFDi7PRe4Wod) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Eskendereya](https://open.spotify.com/album/0gpiCuYzxOpiYMrYADdJup) | 3:37 |
 | 2 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
-| 3 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathallah](https://open.spotify.com/artist/3koxro4ES8BUE0HI2QjT6Y) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 |
+| 3 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 |
 | 4 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 |
 | 5 | [مش هتغير عشان حد](https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [مش هتغير عشان حد](https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR) | 2:53 |
 | 6 | [3al Wa3d](https://open.spotify.com/track/0jBnk6ZGo8XuurCrYaEZon) | [Wust El Balad](https://open.spotify.com/artist/5kpaPebhiMoUmLOVyPW7gv) | [3al Wa3d](https://open.spotify.com/album/5atcnSO2Vs5QQKu6xxAY0Z) | 3:01 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 9 | [Tabtabli From Mar3y El Breemo Movie](https://open.spotify.com/track/7hYaLDWuVgxSeZdBONdXBf) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd) | [Tabtabli From Mar3y El Breemo Movie](https://open.spotify.com/album/77togvaC4Ov3W1rylLGheJ) | 2:38 |
 | 10 | [السخان](https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [السخان](https://open.spotify.com/album/5dYVZRHfYxMnpizVoXyane) | 3:06 |
 | 11 | [Ta'lan](https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta'lan](https://open.spotify.com/album/4a8SJ5uy1axuUEarsnqEV7) | 3:34 |
-| 12 | [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 |
+| 12 | [جوه عينيك](https://open.spotify.com/track/2fRZNzluxWOWHhzQj1SS1G) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [جوه عينيك](https://open.spotify.com/album/5MU9hOKRXou5F8pcpQfUTt) | 3:37 |
 | 13 | [يلا بينا](https://open.spotify.com/track/3iaw6gTODKdM94IYTs5vEZ) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يلا بينا](https://open.spotify.com/album/1iax2dHTopEeLNaOaxlhox) | 3:14 |
 | 14 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
 | 15 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [Meganeny](https://open.spotify.com/track/25s2qmlWFJDRU31NtsmNpX) | [DB Gad](https://open.spotify.com/artist/6G5gPrPosWPaVpR3R1sNWB) | [Meganeny](https://open.spotify.com/album/6koVSxC153FozWgzdyUBqs) | 3:38 |
 | 50 | [El Qalb Hab](https://open.spotify.com/track/1OUQcMVeT1YkcsMLIOj1Au) | [Mona](https://open.spotify.com/artist/0XDedczfxD2nnwn1Fe0WRr) | [El Qalb Hab](https://open.spotify.com/album/1lDfJuWLlTq3staZDOF6i6) | 3:14 |
 
-Snapshot ID: `MCxhZjVkNzdkMzk3NGVlOTAwMDg1NGRiMWJhMTJmYWQ0NGEzZDVhM2Jj`
+Snapshot ID: `MCw0MzA4NjMwZTA3NDExODdlZTE3M2NiZTY4MzAxMzRlMDNiNDdkMDgw`

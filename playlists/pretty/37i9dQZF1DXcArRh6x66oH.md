@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,711 likes - 132 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,459 likes - 132 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 73 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 |
 | 74 | [No, Pedal Steel](https://open.spotify.com/track/33Ym9lYGDDhFeS3ZzSfP9t) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Dispatch to 16th Ave.](https://open.spotify.com/album/4oNeyMqut0MLJpV85MMKqu) | 3:48 |
 | 75 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
-| 76 | [Come Back Down](https://open.spotify.com/track/0I9huwsNKzSzkXy7MW6ujw) | [JB and The Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW), [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Come Back Down](https://open.spotify.com/album/0l8v1sHgKl84eEQUpaKoXs) | 4:42 |
+| 76 | [Come Back Down](https://open.spotify.com/track/0I9huwsNKzSzkXy7MW6ujw) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW), [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Come Back Down](https://open.spotify.com/album/0l8v1sHgKl84eEQUpaKoXs) | 4:42 |
 | 77 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 |
 | 78 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 |
 | 79 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 131 | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/track/4kVZzwAjL8y73Oc7qsNG0p) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/album/6cZwwQJr7F9hTcrvSWx3rJ) | 3:35 |
 | 132 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 
-Snapshot ID: `MCxmMjNmNjc2OTA0ZjZmYmYzMGJjNjdlNzBhYzU0ODg2OTVmYWZiMWQ1`
+Snapshot ID: `MCwzNzA2ZmE1OWQ5Y2IyMTIzMDU3ZTJmNmM2MzQ4MWVhM2RlOTczMjlm`

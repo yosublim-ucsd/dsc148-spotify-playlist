@@ -4,7 +4,7 @@
 
 > Cover: A\. G\. Cook
 
-1,794 songs - 3 day 9 hr 32 min
+1,795 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Betrayal](https://open.spotify.com/track/5bsI9gfjvA8a5G97Q60Goj) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Betrayal](https://open.spotify.com/album/3rOEMm8Zk4GFy2ayL2zi5G) | 2:18 | 2022-02-25 | 2022-05-14 |
 | [Better Days](https://open.spotify.com/track/4LvAjFkdT6wq8JXHhegqHK) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [Better Days](https://open.spotify.com/album/6W9MmVO5evkp4vRgpe3HMK) | 1:18 | 2022-05-06 | 2022-06-11 |
 | [Better off Dreaming](https://open.spotify.com/track/6vAbR5qWTbCGFvzMXnPMvT) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn) | [Better off Dreaming](https://open.spotify.com/album/2mTBj4AowriTtQv6gNeWyJ) | 3:13 | 2020-11-14 | 2021-01-08 |
-| [better outside](https://open.spotify.com/track/7fhe5bUjmWgYs0dxjRhQtk) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5) | 3:18 | 2023-06-02 |  |
+| [better outside](https://open.spotify.com/track/4uzBtvdU1gZ8jMSYkSUZeZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/1zGUJO8gfWtISByeVTIj1w) | 3:18 | 2023-06-02 |  |
+| [better outside](https://open.spotify.com/track/7fhe5bUjmWgYs0dxjRhQtk) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5) | 3:18 | 2023-06-02 | 2023-07-30 |
 | [Beverly Hills](https://open.spotify.com/track/4DnyQxa0UP9xorQcG58BYW) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Beverly Hills](https://open.spotify.com/album/5DkrsWtn8AbzHH9dSEMkk6) | 2:55 | 2022-02-25 | 2022-05-12 |
 | [Big Age](https://open.spotify.com/track/1tthNvobJJpXWpwY9F1hP5) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Blinks](https://open.spotify.com/album/6nWmnZpOMHaYBjDZe43fuJ) | 3:33 | 2020-12-11 | 2021-01-08 |
 | [Big Break](https://open.spotify.com/track/3XkF97AUMDBcixfFndkIF5) | [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Big Break](https://open.spotify.com/album/6FVvFtyyX1UlqF6QvIvLl2) | 3:06 | 2020-10-23 | 2021-01-27 |

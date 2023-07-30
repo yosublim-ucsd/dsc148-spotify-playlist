@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 195424,
       "name": "Amor & Paz",
       "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 226861,
       "name": "Cheers To Goodbye (feat. Spencer Charnas)",
       "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 193814,
       "name": "Got Me All Wrong",
       "url": "https://open.spotify.com/track/2d9A8njtdFo4MOI3v17kpw"
@@ -5692,7 +5692,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 212093,
       "name": "Lifeline (Drowning)",
       "url": "https://open.spotify.com/track/4DtoWdGQMt22FdSimXadCF"
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 358055,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/041siYMLiKaHk8F9sgRuhF"
@@ -6447,6 +6447,32 @@
     },
     {
       "album": {
+        "name": "Monsters (feat. Aaron Gillespie of Underoath)",
+        "url": "https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2"
+      },
+      "artists": [
+        {
+          "name": "Magic Whatever",
+          "url": "https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198486,
+      "name": "Monsters (feat. Aaron Gillespie of Underoath)",
+      "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
+    },
+    {
+      "album": {
         "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
         "url": "https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ"
       },
@@ -6743,6 +6769,28 @@
     },
     {
       "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "album": {
         "name": "Werewolves of London (Live)",
         "url": "https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g"
       },
@@ -6772,7 +6820,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 266908,
       "name": "Necromanteum",
       "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
@@ -6906,7 +6954,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 231782,
       "name": "Ni\u00f1os de Pl\u00e1stico - Cover",
       "url": "https://open.spotify.com/track/5j6Y7dpMOqYOPcXPm9rjPd"
@@ -7186,7 +7234,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 216384,
       "name": "On The Cross",
       "url": "https://open.spotify.com/track/25xrdLy1EL8uj3cyPKbmWK"
@@ -7544,7 +7592,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 247181,
       "name": "People Around Me",
       "url": "https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0"
@@ -9053,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "So Much (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/7iS7A36j8O5TyIvJrk7LDu"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290948,
+      "name": "So Much - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/5cJ31Zc5IUlrwjF7fs6C5D"
+    },
+    {
+      "album": {
         "name": "So Much (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/03rXk4298DiG9hCaIbrdO8"
       },
@@ -9064,7 +9130,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 290948,
       "name": "So Much - Dark-Side Mix",
       "url": "https://open.spotify.com/track/45GmfZojjnWbfgYyEk0txR"
@@ -9100,7 +9166,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 199941,
       "name": "Solstice Kiss - Edit",
       "url": "https://open.spotify.com/track/76LCIaNYeDAFoXLL5LrPEw"
@@ -10060,7 +10126,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 197781,
       "name": "The One",
       "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
@@ -10400,7 +10466,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 258600,
       "name": "Three Little Birds (Feat. Teni and Oxlade)",
       "url": "https://open.spotify.com/track/3Jm1XardcGOdw3A65RcwSv"
@@ -10796,6 +10862,24 @@
       "duration_ms": 121440,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/1WEUwVJCrhF7C6q4hIc0za"
+    },
+    {
+      "album": {
+        "name": "Beaucoup de Rock'n'Roll (Live 1966)",
+        "url": "https://open.spotify.com/album/3m3vukFkpww4qaxJU1ziZY"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145986,
+      "name": "Tutti Frutti - Live 1966",
+      "url": "https://open.spotify.com/track/0rqJ1kJrTOhfujiGl3IM7r"
     },
     {
       "album": {
@@ -11370,7 +11454,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
@@ -11476,7 +11560,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 148439,
       "name": "When Love Sucks (feat. Dido) - Sped Up Version",
       "url": "https://open.spotify.com/track/0TwD0t7Pxl8fgzxibbaa9B"
@@ -12036,7 +12120,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 160906,
       "name": "\u6c5f\u30ce\u5cf6\u30a8\u30b9\u30ab\u30fc (2023 ver.)",
       "url": "https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4"

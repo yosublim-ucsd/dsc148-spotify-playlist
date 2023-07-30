@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Salebarbes
 
-1,969 songs - 4 day 9 hr 11 min
+1,970 songs - 4 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Dans mon vieux truck](https://open.spotify.com/track/6D7rLkmngo9Rkr1ejIdhGk) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Dans mon vieux truck](https://open.spotify.com/album/7vsQCqosRjl2zDw3Llt2Rn) | 3:08 | 2023-02-17 | 2023-03-04 |
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-01-28 | 2022-02-12 |
 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 | 2023-03-31 | 2023-04-23 |
-| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 |  |
+| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 | 2023-07-30 |
 | [Danser avec nobodé](https://open.spotify.com/track/3CMRjg9kIbzfwuiBfCNegZ) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Danser avec nobodé](https://open.spotify.com/album/6wnxZ6Ryr5oL4gcJtt7RPx) | 3:16 | 2022-08-19 | 2022-09-03 |
 | [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-04 | 2022-02-19 |
@@ -1039,6 +1039,7 @@
 | [Le vent](https://open.spotify.com/track/1OZ94J7rPk6yWDLM2dBdlw) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Le vent](https://open.spotify.com/album/3QN7Gzr6StTMob43x0mmKy) | 2:37 | 2022-08-05 | 2022-08-27 |
 | [Le vide](https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le vide](https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk) | 3:49 | 2023-04-07 | 2023-05-13 |
 | [Leansy](https://open.spotify.com/track/33tyoDlbRyXPfFj3t9Z3u8) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Leansy](https://open.spotify.com/album/1ceqJneoh9TEfSwqu2NfFx) | 3:53 | 2023-02-10 | 2023-02-25 |
+| [Led Lights](https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Led Lights](https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e) | 3:51 | 2023-07-28 |  |
 | [Leila](https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 5:03 | 2023-05-19 | 2023-07-05 |
 | [Leitmotiv](https://open.spotify.com/track/15hkBz9ac754HWEx1qXQQm) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Leitmotiv](https://open.spotify.com/album/5ciEyxTMqX0t2I7RGyNqyd) | 5:02 | 2022-11-04 | 2022-11-26 |
 | [Les amourettes](https://open.spotify.com/track/30zwnPdJ9CIfebBZMpQC9s) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Les amourettes](https://open.spotify.com/album/6qWbvCgV8X7p50mEgStUJO) | 4:03 | 2022-07-08 | 2022-07-30 |
@@ -1521,7 +1522,6 @@
 | [RECETTE](https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb) | [Jnr Slice](https://open.spotify.com/artist/1h9TsJVZdaubBn1BZHaAhk), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Junior](https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh) | 3:05 | 2023-04-07 | 2023-05-13 |
 | [Recuerdo](https://open.spotify.com/track/5tEJxtL0ekv8F9ZJ2ufMM4) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Recuerdo](https://open.spotify.com/album/6AWsIZ9x7uwfLpGbhc35WQ) | 3:21 | 2022-02-18 | 2022-03-05 |
 | [Red Flags](https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Red Flags](https://open.spotify.com/album/44utAKHWESMxA5DfRIJEqk) | 2:40 | 2023-06-02 | 2023-06-25 |
-| [Red Lights](https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Red Lights](https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e) | 3:51 | 2023-07-28 |  |
 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-15 | 2022-08-07 |
 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 | 2022-08-05 | 2022-08-20 |
 | [Reflet](https://open.spotify.com/track/4m5OzPNw4iiWpWhMxvsbh0) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Reflet](https://open.spotify.com/album/5ONvgYzq53eti8xESa6iM5) | 2:34 | 2022-03-11 | 2022-03-26 |
@@ -1924,6 +1924,7 @@
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-06-11 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2021-12-31 | 2022-01-22 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 | 2022-04-02 |
+| [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-28 |  |
 | [Y peut mouiller](https://open.spotify.com/track/7DB1nOg1YJZhUHXiuKWz2C) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Y peut mouiller](https://open.spotify.com/album/3fk617GZRpCDEXIdosytTW) | 4:36 | 2022-06-17 | 2022-06-25 |
 | [Y'a pas juste le rhum](https://open.spotify.com/track/22cJLwgsY41vphEpXMOOWv) | [Alex et Caro](https://open.spotify.com/artist/6LuAYRiUw3vfGV3c4obH56) | [Le sablier](https://open.spotify.com/album/6ONB5SVMZACMuKhe1Jn79h) | 3:20 | 2022-04-15 | 2022-04-23 |
 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 | 2023-03-10 | 2023-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,080 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,078 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 48 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 | 49 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 |
 
-Snapshot ID: `MCxjMTlhYjUxZTgxZmI3ZjkzZTVkYTI4ODYwOTA3ZTNhYzE0NjkyZThi`
+Snapshot ID: `MCw1NWQxOWFiZTkzYWZhOWNlZTIzZTk0ZjI5MWQzOWJiZGVjYmUwODYw`

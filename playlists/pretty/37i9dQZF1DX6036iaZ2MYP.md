@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,404 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,457 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [Posa na bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa na bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 3 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 |
 | 4 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 |
-| 5 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/436zW2YNa5hDrrtOSJwyJt) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
+| 5 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
 | 6 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 |
 | 7 | [UMENIKAMATA](https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [UMENIKAMATA](https://open.spotify.com/album/2fNLMX9KrBkbWRim0t4OYg) | 2:38 |
 | 8 | [Maria](https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Maria](https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Du Yeye](https://open.spotify.com/track/5C95P8WdZXKWMS23hhior0) | [La Famax](https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE) | [Rétro](https://open.spotify.com/album/4MsxRqiIlAvYLVgNT1AVp1) | 2:41 |
 | 50 | [Babyjet](https://open.spotify.com/track/6GNugjWdqd1eZQYDTyE5ch) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Ik Zie Je](https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP) | 3:40 |
 
-Snapshot ID: `MCw1OWFiNDQxMTBiMmNjNGYyZTE5MThkMTM3YTlmOTBhZTk2NzkwODBl`
+Snapshot ID: `MCw5N2Q5Yjk3ZjhhZjZhNDcyMjZmMTU2MzNlMDcyOWUxZGQwNGM5ZWY5`

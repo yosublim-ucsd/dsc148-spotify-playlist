@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Sacha
 
-151 songs - 7 hr 47 min
+152 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Whiskey When I'm Gone](https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf) | [Chauncey Jones](https://open.spotify.com/artist/5Dm8aBxMcG8ORTzv0IJMkt) | [Whiskey When I'm Gone](https://open.spotify.com/album/3VQtuaW3kFENk36ThLmnT7) | 3:18 | 2022-07-08 |  |
 | [Whiskeysippi River](https://open.spotify.com/track/1LPvaOfo7A7fL5L8qMZO8z) | [Tracey Blake](https://open.spotify.com/artist/4Q1l0KvTqvy9SM3XF9n07P) | [Whiskeysippi River](https://open.spotify.com/album/7d0FHNsKz47v9HGgpoSROS) | 3:55 | 2021-12-03 |  |
 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 | 2022-10-07 |  |
-| [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-12-03 |  |
+| [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-12-03 | 2023-07-30 |
+| [Why Things Happen](https://open.spotify.com/track/2w9rZJzFDvECtR44AoO8s2) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:16 | 2023-07-21 |  |
 | [Won't Be Long](https://open.spotify.com/track/1cfQ6T7ZhWMDSoZssoTWTI) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Won't Be Long](https://open.spotify.com/album/2B4Lyflq8rxDQamu3nVuYf) | 3:15 | 2023-04-07 |  |
 | [Wrecked](https://open.spotify.com/track/06eu1Ntmqj1XQT7kspc0mN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/63WJUkOUzblbgJ5AK5eb27) | 2:48 | 2021-12-03 | 2022-08-25 |
 | [Wrecked](https://open.spotify.com/track/14utDIRjqZIp00XPn6ixVx) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/7aTwKQTvJ2g5aoVffmAFXs) | 2:48 | 2022-08-12 |  |

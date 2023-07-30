@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-253 songs - 15 hr 17 min
+254 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Closer to the Sun](https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer to the Sun](https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW) | 2:25 | 2022-07-06 |  |
 | [Collie Man](https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Everything You Need](https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6) | 2:13 | 2022-07-06 |  |
 | [Collie Man](https://open.spotify.com/track/3Zjdqz7eOox8XU0zTCPL4P) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Everything You Need](https://open.spotify.com/album/6SivmmHM5n3CCsU99XDFYi) | 2:13 | 2022-01-10 | 2022-07-27 |
+| [Cool & Collected](https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Cool & Collected](https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm) | 3:13 | 2023-07-28 |  |
 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2022-01-10 |  |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2022-07-06 |  |
 | [Count Me In](https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:09 | 2021-12-10 | 2023-07-29 |
@@ -100,7 +101,7 @@
 | [Got It All](https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Crazy Little Village](https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5) | 3:05 | 2021-12-10 | 2022-07-29 |
 | [Greatest Hits](https://open.spotify.com/track/3lPMNolk5gDJVYBjkAVCTC) | [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Greatest Hits](https://open.spotify.com/album/1AvPIbANN0YDiEQYHFoprt) | 2:55 | 2021-12-10 | 2022-07-29 |
 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 | 2021-12-10 | 2022-01-15 |
-| [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 | 2023-05-19 |  |
+| [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 | 2023-05-19 | 2023-07-30 |
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2021-12-10 |  |
 | [Headline](https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW) | [Unified Highway](https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI) | [Headline](https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb) | 3:23 | 2021-12-10 | 2022-07-24 |
 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 | 2021-12-10 |  |

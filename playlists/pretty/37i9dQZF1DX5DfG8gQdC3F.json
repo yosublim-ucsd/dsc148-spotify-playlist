@@ -1,12 +1,12 @@
 {
   "description": "New music from Post Malone, Carly Rae Jepsen, Grimes & Illangelo and Roy Woods.",
-  "num_followers": 346582,
+  "num_followers": 346605,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGRiOTFkMWVkNDNlYzhkZTIwODgyN2EyZjllZWRiMTMxMzg5MDE2",
+  "snapshot_id": "MCwyZmU5ZGQxN2NkODA0M2VhZThlYmFkYjQyOTVkODAyMTQwN2MyYmNk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1374,6 +1374,10 @@
         {
           "name": "Jesse Mac Cormack",
           "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
+        },
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
         }
       ],
       "duration_ms": 196607,
@@ -1531,7 +1535,7 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Sure To come",
+        "name": "Sure To Come",
         "url": "https://open.spotify.com/album/0WyEcXQ7j4dXJ4MzdmMnZe"
       },
       "artists": [

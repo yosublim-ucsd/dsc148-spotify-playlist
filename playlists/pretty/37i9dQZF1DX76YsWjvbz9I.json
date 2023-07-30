@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 220542,
+  "num_followers": 220954,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk1OTFjNjBmZGExYzE3NDVjYmZmNWE2ZGIyYmFkM2JmNDY5Yzli",
+  "snapshot_id": "MCwxZmFhNTI2OWVhZmRmODBkODNmNzg1ZDkwMTE2YzM2MzcwNDdiODNl",
   "tracks": [
     {
       "added_at": "2023-06-20 12:51:53",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 182693,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
+      "duration_ms": 182693,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Dinah Sings, Previn Plays",
         "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 219466,
       "name": "My Melancholy Baby",
       "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0"
       },
@@ -1211,6 +1191,22 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
+      "duration_ms": 220640,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "The Man I Love",
         "url": "https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 253160,
       "name": "Please Be Kind",
       "url": "https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "More Of The Great",
-        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 255480,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 337706,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "More Of The Great",
+        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 255480,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "It's a Blue World (2015 Remastered Version)",
-        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "You Leave Me Breathless - 2015 Remastered Version",
-      "url": "https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Sarah - Dedicated to You",
         "url": "https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 362693,
       "name": "Dedicated to You - Remastered 2003",
       "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "It's a Blue World (2015 Remastered Version)",
+        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "You Leave Me Breathless - 2015 Remastered Version",
+      "url": "https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f"
     },
     {
       "added_at": "2023-06-20 12:51:53",

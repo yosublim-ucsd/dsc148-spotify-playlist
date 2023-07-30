@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-126 songs - 8 hr 46 min
+127 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Morning Sun](https://open.spotify.com/track/33ffWFzPUhcsxS823Z7Nqr) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Morning Sun](https://open.spotify.com/album/0B5u0PBNsYAdRmhfiNJhcs) | 2:44 | 2022-07-14 |  |
 | [Mount Kailash](https://open.spotify.com/track/5T7JzSKY03KLxvWWSEug8r) | [Aural Waves](https://open.spotify.com/artist/0rqRKblaWE6B3flDy2r0x0) | [Mount Kailash](https://open.spotify.com/album/1KLmnLjZBOC0q3TXkK6t4e) | 4:23 | 2022-05-13 |  |
 | [Mtargashti](https://open.spotify.com/track/5fB5O3TLUezJkA2zM8ePZ9) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Mtargashti](https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN) | 4:10 | 2023-01-13 |  |
-| [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 | 2022-05-13 |  |
+| [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 | 2023-03-07 |  |
+| [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 | 2022-05-13 | 2023-07-30 |
 | [Nainital Honeymoon](https://open.spotify.com/track/4ImoheUJchq404T34HH5lN) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Nainital Honeymoon](https://open.spotify.com/album/2wd6EhW4H94OL8n0x4GBmx) | 4:15 | 2023-01-13 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-19 |  |
 | [Passion](https://open.spotify.com/track/10N4pUn5NmbJTodGCJSV4I) | [Banishu](https://open.spotify.com/artist/1QZvqFFagrFlGk46JD2WNi) | [Passion](https://open.spotify.com/album/7KsHiZ06JKArEPc8LMdP2w) | 3:19 | 2022-05-13 |  |

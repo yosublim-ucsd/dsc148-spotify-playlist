@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 43887,
+  "num_followers": 43950,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
+  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Blues Hangover",
+      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "The Complete Vanguard Recordings",
         "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Blues Hangover",
-      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "The Best of the 5th Annual Brooklyn Folk Festival",
         "url": "https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Love & Gravity",
         "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Marshall Texas Is My Home",
-        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Down On My Knees",
         "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213000,
       "name": "Down On My Knees",
       "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Marshall Texas Is My Home",
+        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Hard Living Alone",
+      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
     },
     {
       "added_at": "2023-06-30 00:01:00",

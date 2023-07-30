@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,164 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,147 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Amok](https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz) | [Amok](https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr) | 4:42 |
 | 29 | [Why Her Not Me](https://open.spotify.com/track/6xsoOjRcLB8gvjtmsQrIyq) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:50 |
 | 30 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 31 | [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 |
-| 32 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
+| 31 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
+| 32 | [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 |
 | 33 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 34 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 |
 | 35 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 |
 | 39 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 | 40 | [Changer](https://open.spotify.com/track/5reuS90U6IugxXu6kmZNI0) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Changer](https://open.spotify.com/album/5NnTyMnwFkYpkr0AwaCkgd) | 3:09 |
-| 41 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 |
-| 42 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 |
+| 41 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 |
+| 42 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 |
 | 43 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 |
 | 44 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 45 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 |
 | 67 | [Canción de Amor](https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:52 |
 | 68 | [Baddie In The Passenger Seat](https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [Baddie In The Passenger Seat](https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph) | 2:50 |
-| 69 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
-| 70 | [No me arrepiento de nada](https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [No me arrepiento de nada](https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk) | 2:38 |
+| 69 | [No me arrepiento de nada](https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [No me arrepiento de nada](https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk) | 2:38 |
+| 70 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
 | 71 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 |
 | 72 | [El Muro](https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [El Muro](https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw) | 3:13 |
 | 73 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 |
 | 74 | [blank](https://open.spotify.com/track/7dhNbI7JqdUvdqVY8uCmHV) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [blank](https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz) | 3:35 |
 | 75 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 |
 
-Snapshot ID: `MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm`
+Snapshot ID: `MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi`

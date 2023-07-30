@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mujer Cebra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,386 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,390 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 50 | [Preso en un Compás](https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc) | [REOT](https://open.spotify.com/artist/4g6UBfhSci5JLutunDJUl4) | [Preso en un Compás](https://open.spotify.com/album/68Bfxww4zT5h3cwPSmuxKr) | 3:09 |
 
-Snapshot ID: `MCw1N2Y5YTJkZjFiMzAwYmZhZjczMmI5NzMwZmE3YjhkZDI3ZjFkN2E2`
+Snapshot ID: `MCw0MWNlNGZkYWMzMDRhYzgxMWY0ZjQyZTVjZWY0YjcxMGZhMWRkMzEz`

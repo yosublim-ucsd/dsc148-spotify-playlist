@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hayden Coffman, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,335 likes - 135 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,392 likes - 135 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 134 | [Blame It on My Boots](https://open.spotify.com/track/6waMe4NbRpTzeM2AUyxvvN) | [Sam Carter](https://open.spotify.com/artist/4TDFCfBkOxwM1cMvRXt4Wc) | [Blame It on My Boots](https://open.spotify.com/album/4YPR2OxkSCbaY7WOFfzSaJ) | 2:56 |
 | 135 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
 
-Snapshot ID: `MCwyNzExZTMzZjhiOGFlYjJlYjNlZDJkZWE1NjQwZWI4NjYwOTEyNTg5`
+Snapshot ID: `MCxlYTZiNzZkNTBjOTU2M2EzMzdjNmYzMTdhNzZlMzNiNzA1OWMzMDNk`

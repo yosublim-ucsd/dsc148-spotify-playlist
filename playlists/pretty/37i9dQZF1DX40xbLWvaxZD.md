@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,706 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,715 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 38 | [Butterfly City](https://open.spotify.com/track/17fzZod0jPS0RWsUJqzsNk) | [ZEEBRA](https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54), [RYO the SKYWALKER](https://open.spotify.com/artist/2BwzHQCPEZc2nCeStyclIP), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX), [DOUBLE](https://open.spotify.com/artist/7aX0nvuOtj9eTDip2YXY6p) | [Black World/White Heat](https://open.spotify.com/album/3cFa32IThm0QOnid4cvsj9) | 4:24 |
 | 39 | [JUDGEMENT\-審判\- \- Full Spec Edition](https://open.spotify.com/track/0fQv8Ok7Zp0MRFD2kvKvHA) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 3:51 |
 | 40 | [Receive and Bite You](https://open.spotify.com/track/5V0nm46PQuRbl65hPX0aPg) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume1\)](https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns) | 2:56 |
-| 41 | [A](https://open.spotify.com/track/77shkefXyUkPU45nis6XkK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [A](https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf) | 3:57 |
+| 41 | [Ａ](https://open.spotify.com/track/77shkefXyUkPU45nis6XkK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [A](https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf) | 3:57 |
 | 42 | [バブル](https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [バブル](https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP) | 4:56 |
 | 43 | [Zetsubou\-cho Pride \- Maji Spec Edition](https://open.spotify.com/track/6qjNszXxA6chVxq8ARWBCk) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp), [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 4:27 |
 | 44 | [Bloody Moon](https://open.spotify.com/track/3x097zSgBwU3NlX9eFdRLk) | [GOSPELS OF JUDAS](https://open.spotify.com/artist/59BRLcy4SjxESP4kbUSuzk) | [25th Anniversary BEST ALBUM "GREATEST ANTHOLOGY"](https://open.spotify.com/album/2bT5vw23kS7odJDy32HSNd) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MCwxMmM4ZTViNDAyZDg2MGQxM2I1ZWI3OWNlMjFiYjRhYjQzZmMwZjJi`
+Snapshot ID: `MCxmZDRlNjE2OWM2OWQ0YmY4OTU4NTllNmJlOGRkNjY1MmY4Nzc3Zjg0`

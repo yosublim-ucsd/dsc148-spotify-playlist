@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 184562,
+  "num_followers": 184786,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTliZmNhMWJhZDFlYWYzYjBjMjQzNTg1YzgxMzM2ZDg5NGM1ZWQz",
+  "snapshot_id": "MCw5NDg2M2YyYjY0ZWU4ZThiNzhjNzVjZDQyZjFhZTQ1MTZmZWEyNzk4",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Barrio Estaci\u00f3n",
-        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Nada Nuevo Bajo El Sol",
-      "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228106,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Nada Nuevo Bajo El Sol",
+      "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
     },
     {
       "added_at": "2022-07-06 19:51:55",

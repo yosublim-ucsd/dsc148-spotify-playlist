@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 474132,
+  "num_followers": 474169,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODBmZWJmMTQ0YTAxMWIyMjUxMzQ3Zjg3OTIxM2E5YTk3NWQ0MGY5",
+  "snapshot_id": "MCwyYjZjN2E5MWFhMjJhYzUyNjk5Nzk0NTJmNTIxMDcxYTMyODZkY2Ey",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Gila Monster",
-        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Gila Monster",
-      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "What's So Fucking Funny?",
         "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 176119,
       "name": "Make A Dime",
       "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 201177,
+      "name": "Going Clear",
+      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Don't Go Dark",
         "url": "https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 191993,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "i heard they found you face down inside your living room",
         "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 191548,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 224580,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 204560,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 224580,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Nightmare Daydream",
         "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 257398,
       "name": "Father Of Lies",
       "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Draw Down The Moon",
         "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 205600,
       "name": "If I Believed In Love",
       "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Around the Bend",
+        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
+      },
+      "artists": [
+        {
+          "name": "Strata",
+          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Around the Bend",
+      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Around the Bend",
-        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
-      },
-      "artists": [
-        {
-          "name": "Strata",
-          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Around the Bend",
-      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
     },
     {
       "added_at": "2023-06-30 04:01:00",

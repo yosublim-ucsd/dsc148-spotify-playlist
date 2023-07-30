@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCxiM2IzYWQ0ZDczOGY2NGY5OGNlOGYwMjlkZTZiN2M1NDAzNjNhZThl`
+Snapshot ID: `MCwyZTM0YTM5YzhkZTQ2OGZiNmM5MjNjZWQ2NTMwMjUwMzJlOGRlOGY4`

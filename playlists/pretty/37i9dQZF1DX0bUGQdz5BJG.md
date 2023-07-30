@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,816 likes - 202 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,879 likes - 202 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 201 | [Stranger](https://open.spotify.com/track/10RtSGZV9YgUICMOKdynY0) | [Cassie Cenzano](https://open.spotify.com/artist/6Gtm8eyXjLSXaTo9YGU98D) | [Stranger](https://open.spotify.com/album/118ixOSc2tdqJufYiZpgrs) | 3:17 |
 | 202 | [Adam's Song](https://open.spotify.com/track/5J5YyGh055rlYQMq298bz9) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Angst](https://open.spotify.com/album/1VoaFBLj3xWmGXzARjTpQT) | 2:26 |
 
-Snapshot ID: `MCwwZGIxMDhmNTMzNzU0NjBmZTRiNjI2OGZiMDgyYWNlNWFkMTkyNjI1`
+Snapshot ID: `MCxhZDdhZGZmMmU5YWNmNGVlZDk1MTVhNDBlZTU4ZTQ4YzMwMTRmMDlh`

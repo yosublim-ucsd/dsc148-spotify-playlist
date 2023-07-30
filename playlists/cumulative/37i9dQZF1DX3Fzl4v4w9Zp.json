@@ -8105,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "More Photographs (A Continuum)",
+        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "This Is A Photograph II",
+      "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
+    },
+    {
+      "album": {
         "name": "This Is A Photograph II b/w Five Easy Pieces Revisited",
         "url": "https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30"
       },
@@ -8116,7 +8134,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 176053,
       "name": "This Is A Photograph II",
       "url": "https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3"

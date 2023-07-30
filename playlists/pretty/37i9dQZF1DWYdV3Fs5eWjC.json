@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Doechii",
-  "num_followers": 75578,
+  "num_followers": 75585,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjA3NmE3NmZiOTExOTUzNTU0YTA3NzhjNTVhMjMwODQ1YTg2YWJh",
+  "snapshot_id": "MCxhNDUwYWRhMzY0ZWU5NmE5ODUyODY4ZWMxNTM1OTUxMjFiY2U5ZWE3",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
     },
     {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
+    },
+    {
       "added_at": "2023-04-06 23:29:21",
       "album": {
         "name": "Smoke (feat. Lucky Daye)",
@@ -283,22 +299,6 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -385,6 +385,42 @@
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
+      "added_at": "2023-04-06 23:29:21",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
       "added_at": "2021-02-26 05:00:00",
       "album": {
         "name": "in defense of my own happiness",
@@ -417,26 +453,6 @@
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "Chapter 25: Domonique",
@@ -451,22 +467,6 @@
       "duration_ms": 187213,
       "name": "Bisexual Anthem",
       "url": "https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd"
-    },
-    {
-      "added_at": "2023-04-06 23:29:21",
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -503,22 +503,6 @@
       "duration_ms": 104842,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
-    },
-    {
-      "added_at": "2021-02-26 05:00:00",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -567,6 +551,22 @@
     {
       "added_at": "2020-06-01 21:07:43",
       "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
+      "added_at": "2021-02-26 05:00:00",
       "album": {
-        "name": "Grrrl Like",
-        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "Dope Saint Jude",
-          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 171667,
-      "name": "Grrrl Like",
-      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
-      "added_at": "2023-04-06 23:29:21",
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
-      },
-      "artists": [
-        {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
-        }
-      ],
-      "duration_ms": 243071,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
-    },
-    {
       "added_at": "2020-10-23 15:11:26",
       "album": {
         "name": "Green Eyes",
@@ -687,6 +671,22 @@
       "duration_ms": 240426,
       "name": "Pynk (feat. Grimes)",
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
+    },
+    {
+      "added_at": "2023-04-06 23:29:21",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 243071,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
     },
     {
       "added_at": "2021-02-26 05:00:00",

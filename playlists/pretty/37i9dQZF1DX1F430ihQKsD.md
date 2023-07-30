@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,194 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,214 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
+| 1 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
 | 2 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 | 3 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 |
 | 4 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 | 100 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 
-Snapshot ID: `MCw1MzBjOGIxNTk5OTRlOWZhMjJlMzMxY2VjYTA4NGM0ZDJmYWM0Nzdl`
+Snapshot ID: `MCxjMzdmYWNmYjk3YjAyYWU3ZGFmOWFjYzA1ZjkyMTExNTA1ODE0ZmNm`

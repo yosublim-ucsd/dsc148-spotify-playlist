@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Joya
 
-621 songs - 1 day 11 hr 9 min
+622 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 | 2023-03-18 |
 | [I made wine out of tears](https://open.spotify.com/track/0tu4KP98S7K1o54V5eQ1yy) | [Racy](https://open.spotify.com/artist/5vTtc4X5nArtI6oOD08Oqr) | [I made wine out of tears](https://open.spotify.com/album/0PZGCk65MLxPLIrJC2E5df) | 2:50 | 2022-10-13 | 2023-02-03 |
 | [I Think It's Called Love](https://open.spotify.com/track/20qSlGJcQWb42VaQldUdvS) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Think It's Called Love](https://open.spotify.com/album/3YUeNdoLFls6W5VQQjm8KK) | 2:10 | 2022-12-15 | 2023-03-18 |
+| [I'm Fine](https://open.spotify.com/track/1fbuJWzh5RW09bUUUKmB8A) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [I'm Fine](https://open.spotify.com/album/3Uyt7xDVMAftgjNiZ9qVjP) | 3:15 | 2023-07-29 |  |
 | [I'm Lovin' You](https://open.spotify.com/track/3xvoFtYuQp24sFoDkujaPD) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [I'm Lovin' You](https://open.spotify.com/album/6MCekR21H8RPtGaLafIIYc) | 3:14 | 2022-12-08 | 2023-02-03 |
 | [I'm not the one](https://open.spotify.com/track/3xqhWlBXXGrIYi1ayfYCqB) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [I'm not the one](https://open.spotify.com/album/0Vr2ZGzGQlXjQNvLAKbuL9) | 4:29 | 2022-05-26 | 2022-07-29 |
 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 | 2023-06-15 |  |

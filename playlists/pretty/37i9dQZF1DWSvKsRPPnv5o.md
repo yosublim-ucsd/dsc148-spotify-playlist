@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,854 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,914 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 6 | [Where's Remble?](https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Where's Remble?](https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c) | 2:49 |
 | 7 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |
 | 8 | [Pressure](https://open.spotify.com/track/6CgABqVIcFh12r257y2jey) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Pressure](https://open.spotify.com/album/4uQm94AZIS4PBeZ4Jm2Y94) | 2:48 |
-| 9 | [Off Tha Dribble \(feat\. Swiftchapo 4oe, F.O.E & Bueno da champ\)](https://open.spotify.com/track/5gdqJwuISnyQQTpfP0ZkGp) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Swiftchapo 4oe](https://open.spotify.com/artist/0FMM4EulAUGDGCNTL9qxRh), [F.O.E.](https://open.spotify.com/artist/0YhKXDgtIy2aJqcYQ6IP8s), [Bueno da champ](https://open.spotify.com/artist/4eBmQL3b5w0PkS702oYBjz) | [Off Tha Dribble \(feat\. Swiftchapo 4oe, F.O.E & Bueno da champ\)](https://open.spotify.com/album/4AeY7Zo9yoZhy7uSf2i2HQ) | 2:18 |
+| 9 | [Off Tha Dribble \(feat\. Swiftchapo, 4oe & Bueno da champ\)](https://open.spotify.com/track/5gdqJwuISnyQQTpfP0ZkGp) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Swiftchapo](https://open.spotify.com/artist/33T6gXM29kDaUGMVkMYbfW), [4oe](https://open.spotify.com/artist/1ZnndBUPHXEs4pc41qg8PN), [Bueno da champ](https://open.spotify.com/artist/4eBmQL3b5w0PkS702oYBjz) | [Off Tha Dribble \(feat\. Swiftchapo, 4oe & Bueno da champ\)](https://open.spotify.com/album/4AeY7Zo9yoZhy7uSf2i2HQ) | 2:18 |
 | 10 | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/track/3CyMDd2MLUwAa0nQoScVYC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/album/77vh60o8P1QO1Qd3Slu2YD) | 2:49 |
 | 11 | [Yo Baby Mama Ugly](https://open.spotify.com/track/41LpHD55TiX85sDovbsgsK) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Yo Baby Mama Ugly](https://open.spotify.com/album/6qg6VgcHj5aQIQIMF9TJNP) | 2:05 |
 | 12 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [FOCUSED](https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 4:28 |
 | 75 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 
-Snapshot ID: `MCxmYzhiMTExYTQ0OTFjMjA0YjMwODA3YjgzYmM0OWE1MDY2YTBhODY4`
+Snapshot ID: `MCxlZjljYjhlNDczMDJmNjg2ODlhMTYwZDQ5MDJhZGEzYjhmMTZjYWY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 和ぬか
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,518 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,532 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [夏の雫](https://open.spotify.com/track/70ZDMpiBKBoKv9xKnc9PQj) | [Haruna Yusa](https://open.spotify.com/artist/3lc5Z805sOOFhD7BcUlMG2) | [夏の雫](https://open.spotify.com/album/2LdxHycPGTF5CsGTWdqyvO) | 4:41 |
 | 80 | [この世界に](https://open.spotify.com/track/2pScyJJVKWgirt3iDuYvWy) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [この世界に](https://open.spotify.com/album/1XrKfWTEtLdJXqIMIQfh8S) | 4:16 |
 
-Snapshot ID: `MCw3ZDEzNDEzY2NkYzNmMWY1MDgzMGMzMTVkMGI4YjYxZjM5NmE1NWI3`
+Snapshot ID: `MCxlNmZiYjRmNzk1ZTZmNTgyMjYyZGFhMzE5NDBjYTNiMmRiMGJkNjIw`

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 34634,
+  "num_followers": 34764,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmQ4NjA2ZDZiZmMwNmY4NTBhOTE2ZmVhMDhiNDE3ZmFiOTA3ZGI4",
+  "snapshot_id": "MCw4NDFhZWJmODczYmZkOTA3NjRhOGVlZDAwOGFlZjc5NjM4MTBhNzdm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Le Jardin de Monsieur Monet",
+        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 151402,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Le Jardin de Monsieur Monet",
-        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "A Collective Destiny",
         "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 262000,
       "name": "A Collective Destiny",
       "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "The Myth",
         "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Hiding (Clariloops Rework)",
-        "url": "https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
       },
       "artists": [
         {
-          "name": "Garreth Broke",
-          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
-        },
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+          "name": "Njord",
+          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Hiding - Clariloops Rework",
-      "url": "https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh"
+      "duration_ms": 145333,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1539,18 +1519,38 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
       },
       "artists": [
         {
-          "name": "Njord",
-          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 145333,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Hiding (Clariloops Rework)",
+        "url": "https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9"
+      },
+      "artists": [
+        {
+          "name": "Garreth Broke",
+          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+        },
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hiding - Clariloops Rework",
+      "url": "https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Lost Time - Strings Version",
-        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
       "artists": [
         {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 141500,
-      "name": "Lost Time - Strings Version",
-      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1643,34 +1639,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+        "name": "Lost Time - Strings Version",
+        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
-      },
-      "artists": [
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
         }
       ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+      "duration_ms": 141500,
+      "name": "Lost Time - Strings Version",
+      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 343893,
       "name": "Bird's Tail - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-06-30 04:01:00",

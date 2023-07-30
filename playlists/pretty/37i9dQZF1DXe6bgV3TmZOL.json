@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2264035,
+  "num_followers": 2264648,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODIzOGFmMWU1OGEzYjI3NmQyNWZjM2EyYmJmN2NlN2M0MjMzODg5",
+  "snapshot_id": "MCw5MDFlYmQyNmYxZDY2MmVjY2Q3ZjM5ZjIwOGM4NmVhYjhiYjk3NDc5",
   "tracks": [
     {
       "added_at": "2023-07-25 16:36:34",
@@ -139,26 +139,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 199773,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Might Love Myself",
+        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "10,000 Days",
         "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 448613,
       "name": "Jambi",
       "url": "https://open.spotify.com/track/2gbPu2QNqhnnqtfK3yyeZ0"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Might Love Myself",
-        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 269266,
       "name": "Strife",
       "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Lost in the Waves",
-        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 224929,
-      "name": "Lost in a Wave",
-      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Lost in the Waves",
+        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 224929,
+      "name": "Lost in a Wave",
+      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Remade In Misery",
-        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "Bleed Me Dry",
-      "url": "https://open.spotify.com/track/0yVroPkpn46h7QdEYkNAFg"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Dark Connection",
         "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 214134,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "Bleed Me Dry",
+      "url": "https://open.spotify.com/track/0yVroPkpn46h7QdEYkNAFg"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Laugh Tracks",
-        "url": "https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s"
+        "name": "Anesthetic",
+        "url": "https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+          "name": "Mark Morton",
+          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
         },
         {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+          "name": "Chester Bennington",
+          "url": "https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS"
         }
       ],
-      "duration_ms": 134253,
-      "name": "Billy No Mates",
-      "url": "https://open.spotify.com/track/20Ov9PW41YrzgpGdvbARfE"
+      "duration_ms": 253445,
+      "name": "Cross Off",
+      "url": "https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Anesthetic",
-        "url": "https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR"
+        "name": "Laugh Tracks",
+        "url": "https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s"
       },
       "artists": [
         {
-          "name": "Mark Morton",
-          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
         },
         {
-          "name": "Chester Bennington",
-          "url": "https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 253445,
-      "name": "Cross Off",
-      "url": "https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy"
+      "duration_ms": 134253,
+      "name": "Billy No Mates",
+      "url": "https://open.spotify.com/track/20Ov9PW41YrzgpGdvbARfE"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -2111,18 +2095,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
       },
       "artists": [
         {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 218274,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u"
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2139,6 +2123,22 @@
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 218274,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "The Last Kind Words",
+        "url": "https://open.spotify.com/album/6MkJ7IHLd9pebsk09okG1t"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Clouds Over California",
+      "url": "https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "The Last Kind Words",
-        "url": "https://open.spotify.com/album/6MkJ7IHLd9pebsk09okG1t"
-      },
-      "artists": [
-        {
-          "name": "DevilDriver",
-          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Clouds Over California",
-      "url": "https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM"
     },
     {
       "added_at": "2023-07-25 16:36:34",

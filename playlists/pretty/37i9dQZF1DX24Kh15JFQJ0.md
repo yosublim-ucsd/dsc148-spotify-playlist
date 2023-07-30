@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,621 likes - 160 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,655 likes - 160 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 106 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 |
 | 107 | [Make It Til Summertime](https://open.spotify.com/track/2t5m1jQhBn9IKziKQwFUc7) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Every Road](https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq) | 3:04 |
 | 108 | [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 |
-| 109 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 |
+| 109 | [Why Things Happen](https://open.spotify.com/track/2w9rZJzFDvECtR44AoO8s2) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:16 |
 | 110 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 111 | [Better Off](https://open.spotify.com/track/2Si7GvIT6drGqNGR4MNEVz) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Ain't That Kind of Cowboy](https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4) | 3:09 |
 | 112 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 159 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 160 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCw4NDg3MDNmZWEzYTdkMDA4MDYwYjFjMzQ3OGU2ZWI0YmVjNmNmZjlj`
+Snapshot ID: `MCw3ZGFhMTA3NmE5YmExNWUxMWY0YjE1MDk4MTg0YzhiOGU3MTU1YmUy`

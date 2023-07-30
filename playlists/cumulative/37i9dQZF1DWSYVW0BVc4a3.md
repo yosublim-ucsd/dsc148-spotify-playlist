@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-574 songs - 1 day 21 hr 21 min
+575 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Lost In You \- Musumeci Remix](https://open.spotify.com/track/0G5UiLHnVOuRDgt4ImEBuW) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp), [Pôngo](https://open.spotify.com/artist/6Gmcf0X0BC2oKO3wSvKHt5), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Lost In You \(Musumeci Remix\)](https://open.spotify.com/album/7jBDEyBuO1n6cmSf1VmtI8) | 6:01 | 2022-12-27 | 2023-01-02 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-08-18 | 2022-11-25 |
 | [LOUI3](https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [LOUI3](https://open.spotify.com/album/4HYjJOasl2gNC0Dwyah4o8) | 2:47 | 2023-02-16 | 2023-02-18 |
-| [Love Me](https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT) | 3:56 | 2023-07-03 |  |
+| [Love Me](https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT) | 3:56 | 2023-07-03 | 2023-07-30 |
 | [Love Me \- Yotto Remix](https://open.spotify.com/track/7lsy3LZ9Ha36Tdl4TJ1Nbl) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Love Me](https://open.spotify.com/album/2XQGvDUTW5PirrF5TOq31I) | 3:35 | 2022-12-27 | 2023-03-10 |
 | [Love Will Remain](https://open.spotify.com/track/1ijPmeeloygCcUB9S92hS4) | [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Love Will Remain EP](https://open.spotify.com/album/4WRjAuIv736FhQobJaCP17) | 4:33 | 2023-01-19 | 2023-01-27 |
 | [Love's Not Over](https://open.spotify.com/track/3q6mkccpsxtJGGwVedusig) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/3dZGnWkLHS96GFdsMGitNW) | 5:50 | 2023-01-26 | 2023-03-10 |
@@ -470,6 +470,7 @@
 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 | 2022-12-08 |  |
 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-01-19 | 2023-03-10 |
 | [Symbol](https://open.spotify.com/track/1oYataUHnEfOMQOhwVA7jI) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Mind Control, Pt\. 1](https://open.spotify.com/album/5BQb7ZNxbrF6s2IDGHrAgN) | 4:01 | 2023-04-20 | 2023-04-28 |
+| [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-07-28 |  |
 | [Tacheté](https://open.spotify.com/track/32v92N39LOlK2w0GA3u8jl) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Simon Ray](https://open.spotify.com/artist/0Lv8Fe6PuOVjqAk7lUdlTU) | [Back It Up](https://open.spotify.com/album/4rgh27ob3afcsItdfCeaKM) | 3:18 | 2023-06-02 | 2023-06-23 |
 | [Taka Doom](https://open.spotify.com/track/5Ukd9BLEG6Ae9hedwZY0PX) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Taka Doom EP](https://open.spotify.com/album/5S6urowFyIkdlHaTlqvjui) | 2:54 | 2023-05-11 | 2023-06-09 |
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-10-07 | 2023-02-03 |

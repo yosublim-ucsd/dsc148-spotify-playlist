@@ -12554,7 +12554,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 280778,
       "name": "Something",
       "url": "https://open.spotify.com/track/1sGsrm9KCsqvMA0H7ry4bn"
@@ -12572,7 +12572,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 280778,
       "name": "Something",
       "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
@@ -13106,6 +13106,24 @@
     {
       "album": {
         "name": "SEOUL WAVE",
+        "url": "https://open.spotify.com/album/6SYa8yN8Ivbm3Vux91rW6l"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/5t5PKzBdSmRojqxlrl6loX"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233712,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0TMJ2mSEsUqftvCJtZ2YLV"
+    },
+    {
+      "album": {
+        "name": "SEOUL WAVE",
         "url": "https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ"
       },
       "artists": [
@@ -13116,7 +13134,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 233712,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H"

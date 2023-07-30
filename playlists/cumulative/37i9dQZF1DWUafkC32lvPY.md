@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-55 songs - 2 hr 14 min
+56 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2023-06-26 |  |
 | [Happy To Help](https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Happy To Help](https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp) | 1:52 | 2023-06-26 |  |
 | [Hotel Lounge in Havana](https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Hotel Lounge in Havana](https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK) | 1:55 | 2023-06-26 |  |
-| [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 | 2023-07-14 |  |
+| [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 | 2023-07-14 | 2023-07-30 |
 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 | 2023-06-26 |  |
 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 | 2023-07-14 |  |
 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 | 2023-07-06 |
@@ -54,6 +54,7 @@
 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-06-26 |  |
 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 | 2023-06-26 |  |
 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 | 2023-06-26 |  |
+| [Rambla Sur](https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:26 | 2023-07-14 |  |
 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 | 2023-06-26 |  |
 | [spirits](https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [spirits](https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm) | 2:17 | 2023-06-26 |  |
 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 | 2023-06-26 |  |

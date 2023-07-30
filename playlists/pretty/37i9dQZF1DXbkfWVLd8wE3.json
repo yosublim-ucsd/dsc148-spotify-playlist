@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 155757,
+  "num_followers": 156049,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzgwZmVhYjg5Yjc0NDNkN2UzODcxNGViYmVjOTE4OWY4NGYwMTJi",
+  "snapshot_id": "MCw2MWVmOTM4NDM1NDcwNzg3NzJmOTU1MWNhMDM1M2IxYTBmYWIzN2Ew",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
@@ -539,8 +539,8 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
       "artists": [
         {
@@ -548,17 +548,13 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
         }
       ],
-      "duration_ms": 178213,
-      "name": "Otis",
-      "url": "https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy"
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -651,8 +647,8 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
       "artists": [
         {
@@ -660,13 +656,17 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Big Pimpin'",
-      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+      "duration_ms": 178213,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "At Tha Movies",
-        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Mack 10",
-          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
-        },
-        {
-          "name": "Ms. Toi",
-          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "It's Already Written",
         "url": "https://open.spotify.com/album/5cCSKl7fCsFuNoTszec4MP"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 236520,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "At Tha Movies",
+        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Ms. Toi",
+          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",

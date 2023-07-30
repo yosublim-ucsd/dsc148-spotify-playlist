@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5?si=538gXNdBThOxPyUqPC0elQ">Gocho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,530 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,600 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 3 | [Gravity](https://open.spotify.com/track/25Ceui68Sf584QrximNxKA) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Gravity](https://open.spotify.com/album/75mfTVdjdBZqQFwnFXfMda) | 3:18 |
 | 4 | [Como Ninguno](https://open.spotify.com/track/1aH1fIVJlkQm09QlUj2mI9) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Como Ninguno](https://open.spotify.com/album/2uLoEEa8CtjcQqitGAxvsH) | 3:04 |
 | 5 | [La La La](https://open.spotify.com/track/4rckPCPXflSm6oeZtbyYid) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [La La La](https://open.spotify.com/album/48fRMBi6eZARuSG8YBiAwG) | 3:19 |
-| 6 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza \- EP](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
+| 6 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
 | 7 | [Imperfecto](https://open.spotify.com/track/4sT39gSIMiAXQoybYfz3Yl) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Benji Rosales](https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7) | [Imperfecto](https://open.spotify.com/album/3pTa1S2rEET0tW40xapO4K) | 2:32 |
 | 8 | [Hay Un Nombre](https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu Iglesia](https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP) | 4:58 |
 | 9 | [El Guion](https://open.spotify.com/track/45CWJs4RW9XfhfdhGFpuS1) | [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [El Guion](https://open.spotify.com/album/3T7hIgbLsOvhsMALv25Wus) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Mi Prioridad](https://open.spotify.com/track/3rgpZycMxLz0S7gb1irJVk) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA) | [Mi Prioridad](https://open.spotify.com/album/05e64dpw82UmZGuGeJwgqb) | 3:09 |
 | 100 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
 
-Snapshot ID: `MCxiZTc3ZDMwMmI0ZjMwNzIzZWQ0NzQ0ZDUzODlmMDE3M2I2Yzk5Mzlh`
+Snapshot ID: `MCw1Zjc3ZTc2YzA3ZGZkYTg4MDQzMzU3ODNkZGIwNzhhNWQ5NjcxMDg5`

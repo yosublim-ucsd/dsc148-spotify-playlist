@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Annrain Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,328 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,345 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 4 | [Bakit Ka Bumitaw](https://open.spotify.com/track/21EUKWwYwbmqA6f6ZMc6p8) | [Annrain](https://open.spotify.com/artist/2rnULVwQTB4f238HABhkoW) | [Bakit Ka Bumitaw](https://open.spotify.com/album/0qPKcV6PDKngHnewLYwlvh) | 4:18 |
 | 5 | [Oxygen](https://open.spotify.com/track/5WRMxSCs9W65GMcnbF6LQH) | [Phoebe Gil](https://open.spotify.com/artist/32DK9SxDI8Q7ri4yMXbraU) | [Oxygen](https://open.spotify.com/album/58qH32y3o7Sd0kudNfXH2V) | 3:32 |
 | 6 | [Akit](https://open.spotify.com/track/75KTAl7LtIHeXc0OOezZFF) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Akit](https://open.spotify.com/album/4gyuvv2ooE1VTCxnxAyE7E) | 3:17 |
-| 7 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:30 |
+| 7 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 |
 | 8 | [Sad Life Mo Diha](https://open.spotify.com/track/0ZpiFrNyV6NdUv5N4WBpEq) | [Jurge Bond](https://open.spotify.com/artist/3SZg3pyn46vauXWERD7tQH) | [Sad Life Mo Diha](https://open.spotify.com/album/0Wgb04V8QHplpyxRfEUagu) | 4:24 |
 | 9 | [Hangin](https://open.spotify.com/track/3hHzehK0qjbxYtNdED66kc) | [Louis Angelo](https://open.spotify.com/artist/2IxYn7kml5dzf4HptTMJWo) | [Hangin](https://open.spotify.com/album/7JHNwzcorwJoErwgJVqpXH) | 4:04 |
 | 10 | [getaway](https://open.spotify.com/track/3JAR2lGvb5ekvlQZzVOayO) | [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg) | [getaway](https://open.spotify.com/album/2KbvMXDb1u0vKuGxqRnZ9h) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Alam Mo Ba](https://open.spotify.com/track/7Aqz3OPr2Pjpz2asXS3Ior) | [Ascend](https://open.spotify.com/artist/2dk0BwYzQwTjT8LUNoqoYE) | [Alam Mo Ba](https://open.spotify.com/album/6GWjVmC6ZxB9Yub5mXXymC) | 4:33 |
 | 75 | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/track/3a9nrbtqAwqNZ2zTtcNuiE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49), [King Promdi](https://open.spotify.com/artist/6Mp2h4C9XeFduDTfhoTmtQ) | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/album/2MY1dDcU42g5NX3WFhOeIx) | 4:01 |
 
-Snapshot ID: `MCw3YjllY2E1ZjhjNjRhOTM4YWE5ZTkwMzRmMmUxMTdiYWMzZTk0MDJi`
+Snapshot ID: `MCwxMDI3YWE2NTMyYjlkYjNmMGU1NjE1MzM2MDY5NTlmMjI1NDQ0YjI0`

@@ -871,6 +871,28 @@
     },
     {
       "album": {
+        "name": "Cool & Collected",
+        "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193941,
+      "name": "Cool & Collected",
+      "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
+    },
+    {
+      "album": {
         "name": "Corona and Lime",
         "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 222440,
       "name": "Greed",
       "url": "https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo"

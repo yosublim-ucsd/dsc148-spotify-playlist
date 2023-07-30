@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 474566,
+  "num_followers": 474750,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
+  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "HEAVY META",
         "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "In The Wild (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Every Hour Is A Dollar Gone",
         "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1275,6 +1275,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "LUCKY PENNY",
+        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "LUCKY PENNY",
+      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
       },
@@ -1295,22 +1327,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "LUCKY PENNY",
-        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "LUCKY PENNY",
-      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "\"Filthy\"",
+        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "\"Filthy\"",
+      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 176373,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "\"Filthy\"",
-        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "\"Filthy\"",
-      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Heartache Melody",
-        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
-      },
-      "artists": [
-        {
-          "name": "Electric Enemy",
-          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "Heartache Melody",
-      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Love Is All You Love",
         "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 202813,
       "name": "Love Is All You Love",
       "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Heartache Melody",
+        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
     },
     {
       "added_at": "2023-07-07 04:01:00",

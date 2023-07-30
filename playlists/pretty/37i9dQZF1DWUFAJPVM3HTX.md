@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,075 likes - 450 songs - 22 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,164 likes - 450 songs - 22 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 123 | [Roses](https://open.spotify.com/track/3EfZ1FovbvY5dxogyyB8sw) | [Cxrno](https://open.spotify.com/artist/1iKmg6IgBEKSUEnHr6KLom) | [Roses](https://open.spotify.com/album/37kEh032g40R9I6d7sd7cV) | 2:35 |
 | 124 | [Doechii](https://open.spotify.com/track/2Pt0145ieSf8X9QulaQemN) | [Xian Bell](https://open.spotify.com/artist/1DD9ttmrDTrddo8JOqqS6z) | [Doechii](https://open.spotify.com/album/6LiVWQObGRJEhATxi94qMO) | 2:51 |
 | 125 | [SAME THING NEW MAN](https://open.spotify.com/track/1YkIy6zZ9a2oE0Ig9zolNi) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd) | [SAME THING NEW MAN](https://open.spotify.com/album/4qDqfkRgNv2uBqrv0ZH5EJ) | 3:00 |
-| 126 | [LETUDOWN](https://open.spotify.com/track/4eoEyNZvwHakQIJLUYz6bF) | [GODBLESSRODNEY](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [LETUDOWN](https://open.spotify.com/album/0oPUWvIux2vsu2UDWA9Ffp) | 2:08 |
+| 126 | [LETUDOWN](https://open.spotify.com/track/4eoEyNZvwHakQIJLUYz6bF) | [Nylo Carter](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [LETUDOWN](https://open.spotify.com/album/0oPUWvIux2vsu2UDWA9Ffp) | 2:08 |
 | 127 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 |
 | 128 | [Pressing Matters](https://open.spotify.com/track/7mIm5DdxPrraYVtrbsaN9I) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Time Spent Running](https://open.spotify.com/album/6OTFlhMPbnTaZNGceucNSG) | 4:00 |
 | 129 | [NumNumb](https://open.spotify.com/track/4asv0mVXXe70a93PogdcZr) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [NumNumb](https://open.spotify.com/album/3o1JfbTO6pOfoRpsjmK6Mj) | 2:21 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 449 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 | 450 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 
-Snapshot ID: `MCwyZTg0YjFmYjc1Yzg2YjM5NmRjZTAzY2M4NGFjYjUyMzJlNDBkODMz`
+Snapshot ID: `MCxhN2VlNWFlZGJkNzljODZlN2I4MzMxOGVjOTcxZjQ0YjI4YjZiYmU5`

@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Cloonee.
 
-2,349 songs - 5 day 16 hr 30 min
+2,350 songs - 5 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1256,7 +1256,8 @@
 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2022-09-09 | 2022-10-29 |
 | [Love Language](https://open.spotify.com/track/2kII74W6BvQZSOwXBotukX) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/1zDkevWz3xdsqVAYbdANiN) | 3:18 | 2020-10-13\* | 2020-10-16 |
 | [Love Line \(with Tinashe\)](https://open.spotify.com/track/35srxciIsvJZu2JRXmlmbn) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Love Line \(with Tinashe\)](https://open.spotify.com/album/6Psj6YaHzPqQbMwR9qAxvL) | 2:45 | 2021-04-24 | 2021-06-12 |
-| [Love Me](https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT) | 3:56 | 2023-07-07 |  |
+| [Love Me](https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT) | 3:56 | 2023-07-07 | 2023-07-30 |
+| [Love Me](https://open.spotify.com/track/4Y2NzrC0yPHSc3Cb3J6YdC) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 3:56 | 2023-07-14 |  |
 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 | 2021-10-16 | 2021-12-24 |
 | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/track/08BdwDsjgDp9N3ALRaKuYJ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/album/09PyXeLOshCAxaVs56KcMN) | 3:20 | 2022-08-19 | 2022-10-08 |
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2021-08-14 | 2021-09-04 |

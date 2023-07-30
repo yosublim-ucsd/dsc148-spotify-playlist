@@ -1328,10 +1328,28 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 260164,
       "name": "Baaet Aada",
       "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
+    },
+    {
+      "album": {
+        "name": "Bab ElTayaba",
+        "url": "https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD"
+      },
+      "artists": [
+        {
+          "name": "Nourhane Al Morshidy",
+          "url": "https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Bab ElTayaba",
+      "url": "https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA"
     },
     {
       "album": {

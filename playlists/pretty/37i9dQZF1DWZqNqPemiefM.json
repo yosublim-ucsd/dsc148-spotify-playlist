@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 56161,
+  "num_followers": 56232,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQ1Y2NkMTY3ZGVhMDVmNzM3YTk0MzY4YWJlZmEzNWU3OTUzMzNj",
+  "snapshot_id": "MCwxMjhmYzJhYWNhMTVhMThiZTZiMDFjYWU2NjI0ZGVlMGNmZjI0ZjI1",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Pierrepont",
-        "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
-      },
-      "artists": [
-        {
-          "name": "Shuta Hasunuma",
-          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
-        }
-      ],
-      "duration_ms": 270664,
-      "name": "Pierrepont",
-      "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "Pierrepont",
+        "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Pierrepont",
+      "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
     },
     {
       "added_at": "2023-07-25 15:00:00",

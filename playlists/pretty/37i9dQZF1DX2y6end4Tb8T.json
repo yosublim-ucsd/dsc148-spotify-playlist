@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 53353,
+  "num_followers": 53389,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmM2MTM3NWE2Y2Y0MjEyOWY5Nzc3NDNiMTM0OGNmMmY2ZjQ1MmJl",
+  "snapshot_id": "MCxiN2M2YjE3MDU4YTFjOGMxYjM5ZTA3NjIzN2JlOTNiNmQ3NGRmNDY1",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -415,26 +415,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -911,26 +911,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Excitement",
-        "url": "https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283270,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "TattleTales",
         "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 202666,
       "name": "TROLLZ (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Excitement",
+        "url": "https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 283270,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9"
     },
     {
       "added_at": "2021-11-12 16:22:17",

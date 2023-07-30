@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Part I \u2013 When Everything Was Lost",
+        "url": "https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191450,
+      "name": "Inside My Chest",
+      "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
+    },
+    {
+      "album": {
         "name": "Run Deep",
         "url": "https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 229464,
       "name": "Talk to Me - Live",
       "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"

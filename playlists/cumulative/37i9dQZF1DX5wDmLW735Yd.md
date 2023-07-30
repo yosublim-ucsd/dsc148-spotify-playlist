@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Bou
 
-431 songs - 1 day 3 hr 52 min
+432 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-04-08 | 2022-07-23 |
 | [Censor \(feat\. Popcaan & IRAH\)](https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:36 | 2022-06-10 | 2023-02-04 |
 | [Change](https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza) | [Linguistics](https://open.spotify.com/artist/5ez11adLi95kAPuxh0RefJ), [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ), [Blind Mic](https://open.spotify.com/artist/7yCdWDEm9XhixEPUKPnB75) | [Change](https://open.spotify.com/album/0BLrz7WuXQF3U3FvXkdwXE) | 3:46 | 2022-04-22 | 2022-07-14 |
+| [Chase The Sun](https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Chase The Sun](https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc) | 3:09 | 2023-07-27 |  |
 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 | 2022-12-02 |  |
 | [CHERRY](https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [CHERRY](https://open.spotify.com/album/5lARKxTOtIr1ZquSfhrzyW) | 2:37 | 2022-04-22 | 2022-06-15 |
 | [Clart](https://open.spotify.com/track/3uyEfOe9WtKJztamx4FaUL) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Clart](https://open.spotify.com/album/4rF8XTOzNlvz7rovZE9jX4) | 2:06 | 2022-12-09 | 2023-03-04 |
@@ -342,7 +343,7 @@
 | [So Much In Love \- Sub Focus Remix](https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [So Much In Love \(Sub Focus Remix\)](https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0) | 3:55 | 2023-07-13 |  |
 | [So Tell Me…](https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [So Tell Me…](https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb) | 3:47 | 2022-11-25 |  |
 | [Sober](https://open.spotify.com/track/2DQuvfpU2uYaIk1BaBSJ15) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Sober](https://open.spotify.com/album/1rqnsguzp4curAq6xu8xfP) | 4:02 | 2022-08-05 | 2022-10-29 |
-| [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-27 |  |
+| [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-27 | 2023-07-30 |
 | [Someone Like You](https://open.spotify.com/track/49cWdhJzj0tBe3GpAi6Kgn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Marianna Ray](https://open.spotify.com/artist/0PyV4VBxPsxRmInWJWxqkm) | [Someone Like You](https://open.spotify.com/album/1Lk1JUzWVnubx7jtyDlzqF) | 3:21 | 2022-05-30 | 2022-07-13 |
 | [Somewhere](https://open.spotify.com/track/5gFeCFyZG6ZWOTbD1SzoVP) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Somewhere](https://open.spotify.com/album/1VTu7oss8WCM8VC4oLEsrg) | 3:40 | 2022-04-08 | 2022-07-29 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr) | 3:34 | 2022-05-06 | 2023-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2?si=dcb330485ac242f6">Marcos Witt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,202 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,407 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 24 | [CICATRICES](https://open.spotify.com/track/7hr0OyJzcvtkyNxrjlzFUS) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [CICATRICES](https://open.spotify.com/album/4o0231wiUwMNR3movn9RbR) | 3:00 |
 | 25 | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/album/1v9gXaZpngKHdplKNOuc9j) | 3:11 |
 | 26 | [Loco Corazón](https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Recarga](https://open.spotify.com/album/3jAyk5Gqm3aTIoviY7Fx06) | 3:22 |
-| 27 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza \- EP](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
+| 27 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
 | 28 | [Presente Y Futuro](https://open.spotify.com/track/4Pt3XjZidq0ChEYpMdvMDC) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Charlee Buitrago](https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Presente Y Futuro](https://open.spotify.com/album/7JMdznd473lSaMPvzqx0NR) | 3:52 |
 | 29 | [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 |
 | 30 | [Aleluya](https://open.spotify.com/track/49pWfGhPqDuqK81qPbObx3) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Nadie Como Él](https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 | 100 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 
-Snapshot ID: `MCw1ZjlkMWU2MmZlZGQ4N2Y2MTU0MTNmNmFmNDY2OWEwYWFmOTBkNGJj`
+Snapshot ID: `MCw4ZDQzNGQ3ZTNhZTgwZmFmMjVlN2E1MjE1YzY1ZTkyNWI4ODE3MGM2`

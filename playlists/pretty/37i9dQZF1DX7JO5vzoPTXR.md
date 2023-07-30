@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:32obs0w1xupMz2CXf5B9wb">Eva Westphal,</a> <a href="spotify:artist:4tDe9qBHvHEkaXHzoA78jn">KAlYI,</a> and <a href="spotify:artist:5e1bKhywUuMGHafddmBW6u">Mariel Loveland</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,825 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,882 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 |
-| 2 | [Options](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 |
+| 2 | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 |
 | 3 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 |
 | 4 | [Get Back Your Fight](https://open.spotify.com/track/36CI8SJxYXTbafUgZAF8h6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Get Back Your Fight](https://open.spotify.com/album/5L2ud13tzJHmKTiHn61CDJ) | 2:56 |
 | 5 | [25 \(original version\)](https://open.spotify.com/track/59Xx6vSr7ahce3ORDSlNcd) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [From the Archives](https://open.spotify.com/album/4E2aHOCSiBpwSRatiIVYgt) | 2:41 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 40 | [Easy](https://open.spotify.com/track/1CDJTcyFw958xL2pwyu209) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [Easy](https://open.spotify.com/album/2qMMieiLbIjxLKRjPj1AfQ) | 4:38 |
 | 41 | [Dysmorphia](https://open.spotify.com/track/5OuFrMQiAuKmnXRlSfufIi) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Dysmorphia](https://open.spotify.com/album/0HVpkLXU6yCSctOLruSVnf) | 2:32 |
 
-Snapshot ID: `MCw3OTRlYTUzNDZmNjQ1YmQ4YjAwNWFmNmIyZmI0ZTBmN2JlNWUzMjUz`
+Snapshot ID: `MCw2MDYwNmUxMGRiZjI2ZDExZDQ4MjJiZjg5OGEwNTY0MDFjYmRiNWQ0`

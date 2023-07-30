@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,485 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,493 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/track/1IY7R5UlUoBnntviHe1Iyx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/album/2rhWYBZjwNNftb8BXJ1ExP) | 1:21 |
 | 2 | [O Que Estou Fazendo Agora](https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [O Que Estou Fazendo Agora](https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe) | 3:21 |
-| 3 | [Anticorpos](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Anticorpos](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 |
+| 3 | [ANTICORPOS](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [ANTICORPOS](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 |
 | 4 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
 | 5 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/1EHdm19uRPxleym1gLW9Cq) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/album/0tLksO6H9CKan8UY4zGfE1) | 3:05 |
 | 6 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 | 75 | [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 |
 
-Snapshot ID: `MCw3ZDNmNjI3YTU3Yjg3ZDdmZTg3ZTcwMmQwYzgzODU4N2NkMWNkODQx`
+Snapshot ID: `MCwxYzJlZjlkN2U3ODY1NjQ2OTcxYTgzZTk5ZTZhMDRmM2Y3Yzg3MWU5`

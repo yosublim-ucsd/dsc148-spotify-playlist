@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Ryan SP, Mc Poze do Rodo e Mc Daniel, IZA, Henrique & Juliano, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,556 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899,028 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Deu Vontade](https://open.spotify.com/track/1FVoxlwihhdlnxiz9Xym6e) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI) | [Deu Vontade](https://open.spotify.com/album/2w80JBvjFtVAtK3ZgKRcgx) | 2:40 |
 | 75 | [No Passo da Saudades](https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [No Passo da Saudades](https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj) | 2:56 |
 | 76 | [Não Saio](https://open.spotify.com/track/5qasQTEYxcYe3GwZI3oWFv) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Não Saio](https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw) | 2:23 |
-| 77 | [Anticorpos](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Anticorpos](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 |
+| 77 | [ANTICORPOS](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [ANTICORPOS](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 |
 | 78 | [Então Desce](https://open.spotify.com/track/6ezd5rDZS43LljKJITbdkj) | [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Abakio](https://open.spotify.com/artist/2MGMAE8ZUNgqJmR1d4wOft) | [Então Desce](https://open.spotify.com/album/5y4p9HJ8UghXvk3nQpYTTP) | 2:37 |
 | 79 | [Blá Blá Blá](https://open.spotify.com/track/3K5q8ZIugl5ewbrLhJvg2e) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Blá Blá Blá](https://open.spotify.com/album/2vHtSuPZkx8fU7QvAAczVf) | 2:27 |
 | 80 | [Câmera Lenta](https://open.spotify.com/track/0YluUkAastiZ3NtVD0wo8b) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ) | [Câmera Lenta](https://open.spotify.com/album/6pQetCttr0glzZ6Nl0vWaY) | 2:58 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Meu Bem\-Te\-Vi](https://open.spotify.com/track/7iuvVFHmmQmugGo0EbfyTY) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Meu Bem\-Te\-Vi](https://open.spotify.com/album/5nfzQ9wIIJFoNxJiT4ODLB) | 2:49 |
 | 99 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 
-Snapshot ID: `MCw2OTc2MGU2M2Y1ZThkZWM4ZWFhNDg0ZTEzOTUzMWEyMWRkNWVlOGYy`
+Snapshot ID: `MCw1Yjk1NDRkYjcwY2Y2OGUxZmNhYmNmNDllOTg5MjJmNTU1M2ZmODk4`

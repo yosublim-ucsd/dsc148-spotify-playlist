@@ -1,12 +1,12 @@
 {
   "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER?si=aa07e4f23640494a\">BIA</a>",
-  "num_followers": 1005317,
+  "num_followers": 1005304,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmZkYzUzNzIwY2JhMTA5ZDM3MTc1MDY0ZjYzNzkyYWQzYTk3YmJl",
+  "snapshot_id": "MCw2NDhmOWYzNGZmZjk2OWE2MjJkZTQ3NjRhYmEyNjA3NGNlNGI0ZTJm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:34:43",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-07-28 04:34:43",
       "album": {
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
+    },
+    {
+      "added_at": "2023-07-28 04:34:43",
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -231,7 +251,7 @@
     {
       "added_at": "2023-07-28 04:34:43",
       "album": {
-        "name": "Breaking Point Remix (feat. Victoria Mon\u00e9t)",
+        "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
         "url": "https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz"
       },
       "artists": [
@@ -245,7 +265,7 @@
         }
       ],
       "duration_ms": 310892,
-      "name": "Breaking Point Remix (feat. Victoria Mon\u00e9t)",
+      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
       "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
     },
     {
@@ -495,6 +515,26 @@
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "added_at": "2023-07-28 04:34:43",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2023-07-28 04:34:43",

@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-666 songs - 1 day 17 hr 43 min
+667 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [a \(hey\)](https://open.spotify.com/track/1sGH32pmXnEhI5myHYhYi1) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [a \(hey\)](https://open.spotify.com/album/2SwEji0M37BGWE7nDKMUOG) | 3:09 | 2023-05-23 | 2023-06-07 |
 | [A Bit On The Side](https://open.spotify.com/track/1f9nwOMTtMSLYvVreTnSyg) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [EP](https://open.spotify.com/album/2nFumk9wFMFhKU6FgiVcLL) | 2:02 | 2023-04-25 | 2023-05-24 |
 | [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 | 2023-07-25 | 2023-07-27 |
-| [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 | 2023-07-25 |  |
+| [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/181YGGJQCMlBzrwWFLmjkx), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 | 2023-07-25 |  |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-02 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 |  |
 | [Afraid??](https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Afraid??](https://open.spotify.com/album/0AwUv4QlEg7y7oZGSGtfW8) | 3:16 | 2023-01-12 | 2023-01-25 |
@@ -450,6 +450,7 @@
 | [あんなつぁ](https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ROMANTIC LOVE](https://open.spotify.com/album/7E0ksEexysVceoijCZfooz) | 5:15 | 2023-03-30 |  |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 |  |
+| [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-27 |  |
 | [うつつの在り処](https://open.spotify.com/track/5HkN90H6tnBaNLLN8AUgSV) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [うつつの在り処](https://open.spotify.com/album/6Z8H4xZkf36EwUt62Y8N3d) | 4:35 | 2023-07-18 |  |
 | [おまえも](https://open.spotify.com/track/3IdphYtjWRvJCaNsnyGqKP) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [ファンタジア](https://open.spotify.com/album/1GHSCT2NBD3Lcc6dFvv19x) | 4:26 | 2023-03-30 | 2023-06-28 |
 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 | 2023-06-07 |
@@ -516,7 +517,7 @@
 | [ネクター](https://open.spotify.com/track/6htrbZf7DCXBtisoMEa9RA) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [ネクター](https://open.spotify.com/album/0XsicevMGUI7zaYW4XmHhw) | 5:35 | 2023-03-14 | 2023-04-05 |
 | [ハッピースター](https://open.spotify.com/track/0NuNbA26R8KV5p0biOFqhJ) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [1st Single](https://open.spotify.com/album/5GB1jFBogsf27sIGcRhb5a) | 1:37 | 2023-02-28 | 2023-03-15 |
 | [ハニーとマスタード](https://open.spotify.com/track/5Old3zhCyVtgPCArANiMNw) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [ハニーとマスタード](https://open.spotify.com/album/5fJw0wUOt9yesE75myJFNV) | 1:56 | 2023-01-31 | 2023-02-02 |
-| [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 | 2023-05-23 |  |
+| [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 | 2023-05-23 | 2023-07-30 |
 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 | 2023-07-18 |  |
 | [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 | 2023-06-23 |  |
 | [パンデミック](https://open.spotify.com/track/2yKphSroLPQ2vPZO5lcHqy) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 3:29 | 2023-07-18 | 2023-07-28 |

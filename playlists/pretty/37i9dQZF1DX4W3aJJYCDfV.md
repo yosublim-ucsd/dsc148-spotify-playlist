@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Calvin Harris + Sam Smith \(pictured\), Anne\-Marie, Burna Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,767 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,822 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 93 | [Weight In Gold](https://open.spotify.com/track/0ExIW8EGZB9EvaeNVHIrqR) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Weight In Gold](https://open.spotify.com/album/7vka0imCBzLmtK9vQlrfWH) | 3:28 |
 | 94 | [I'll Do My Best \(feat\. The Ritchie Family\)](https://open.spotify.com/track/48aNzYVnVdz5DtNvTJwXZk) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [The Ritchie Family](https://open.spotify.com/artist/3FxBwdg0z5WkLdlAbe7GHq) | [I'll Do My Best \(feat\. The Ritchie Family\)](https://open.spotify.com/album/4AM3hHtqDZiHeizGFiB1lg) | 2:31 |
 | 95 | [Don't Look Back](https://open.spotify.com/track/5MoXrheJrI8JemATaETfUJ) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Light Years](https://open.spotify.com/album/3SLG7NSbEnEYeZ3fmAaUiy) | 2:50 |
-| 96 | [I Made It](https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK) | [Morrisson](https://open.spotify.com/artist/15p6ONcUoj9K5HHtuJv7cd), [Broadday](https://open.spotify.com/artist/5JLxpSPbsLhED2i4OmVaRF) | [I Made It](https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi) | 2:43 |
+| 96 | [I Made It](https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Broadday](https://open.spotify.com/artist/5JLxpSPbsLhED2i4OmVaRF) | [I Made It](https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi) | 2:43 |
 | 97 | [Father](https://open.spotify.com/track/7LD6qG5PLFi9TRWRfM6nmA) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Father](https://open.spotify.com/album/1isHEf9tgV2cbKFqYK93kz) | 2:38 |
 | 98 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 99 | [Chemical Balance](https://open.spotify.com/track/2VZvFF5kzLwLlhJJi6UOgE) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Chemical Balance](https://open.spotify.com/album/6ZfplYTcVTANcZEWIzulrM) | 2:20 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 |
 | 144 | [Medina](https://open.spotify.com/track/71GKQgzFuV3uCFJIwsJkCZ) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb) | [Medina](https://open.spotify.com/album/0PxYMm6JaKtyRvutWduBNe) | 6:36 |
 
-Snapshot ID: `MCw1Mzg2MWZkZDEyYTYzYTMwYmM4NDEwNGM4ZmNjYmRhODFiYTQyMTlm`
+Snapshot ID: `MCwyYWQyNjRmODc5OWEzZjE1NjBhMjNkMTMxMWY5OWNlYmUzYjJlNzA2`

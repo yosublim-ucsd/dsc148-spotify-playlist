@@ -397,6 +397,32 @@
     },
     {
       "album": {
+        "name": "Our Journey (feat. AKKOGORILLA)",
+        "url": "https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Hulu Anime",
+          "url": "https://open.spotify.com/artist/4zO0OJ7PBiY6Sy3tiji0eS"
+        },
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113302,
+      "name": "Our Journey (feat. AKKOGORILLA)",
+      "url": "https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: Season 6 (Original Series Soundtrack EP)",
         "url": "https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS"
       },

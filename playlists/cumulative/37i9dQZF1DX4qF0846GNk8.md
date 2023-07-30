@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=52aOzzzLQWGNFO\-oyZmxmQ">  كريم كرستيانو </a>
 
-166 songs - 10 hr 7 min
+167 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-12-16 | 2022-07-29 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |
 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 | 2021-12-16 | 2022-07-31 |
-| [آسلك \- مسلم و حوده بندق](https://open.spotify.com/track/1QWvSRoOK0VfHXEIyZLRG3) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/album/45nZf869o02m4pCL39AJVb) | 3:53 | 2023-07-03 |  |
+| [آسلك \- مسلم و حوده بندق](https://open.spotify.com/track/1QWvSRoOK0VfHXEIyZLRG3) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/album/45nZf869o02m4pCL39AJVb) | 3:53 | 2023-07-03 | 2023-07-30 |
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 | 2023-03-18 |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 | 2023-04-21 |
@@ -154,6 +154,7 @@
 | [مهرجان طلقاتى راشقه \(اولها حب و تانيها خبى\) حمو الطيخا](https://open.spotify.com/track/4DpDiqw5eq04pDADV4rEZt) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان طلقاتى راشقه \(اولها حب و تانيها خبى\) حمو الطيخا](https://open.spotify.com/album/5Tfsp1n7k36Y3o9BdVfsaC) | 3:58 | 2023-07-03 |  |
 | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/track/0g8KH2qkC7lwfYt1cEqddg) | [i Media](https://open.spotify.com/artist/1PKVWSj5RnhEsVuyJ1AFCo) | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/album/1jT4cNu2gl2tV7LVUNKvlZ) | 4:00 | 2022-10-16 | 2022-12-07 |
 | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/track/2bQNy3nPQScyHMoHD4BiLa) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/album/4dQP9XYz589KvRXP7hbFSu) | 4:00 | 2022-10-27 | 2022-11-13 |
+| [مهرجان فتشني يا باشا فتشني](https://open.spotify.com/track/5s3ADmOZs2OyLCN4dSBbHp) | [Ahmed El Dogary](https://open.spotify.com/artist/6zKcmNsQGGYiTZ0j8FRQK6), [Samer Elmedany](https://open.spotify.com/artist/1nt4fNK1UhJDil6gZzkBQp) | [مهرجان فتشني يا باشا فتشني](https://open.spotify.com/album/0yBrjrDSsZrmy7kc5sSBEW) | 3:09 | 2023-07-29 |  |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 | 2023-07-13 |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 | 2022-11-24 |
 | [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 | 2022-12-24 |

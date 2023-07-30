@@ -3301,6 +3301,28 @@
     },
     {
       "album": {
+        "name": "Fur and Metal",
+        "url": "https://open.spotify.com/album/6ehmrA1NW4dSyQQWIK2EJ9"
+      },
+      "artists": [
+        {
+          "name": "Augustus Muller",
+          "url": "https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145453,
+      "name": "Stretching / Invading",
+      "url": "https://open.spotify.com/track/2gz0CqpSgEAif1U3hez55O"
+    },
+    {
+      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/3uLDq6PcffnmXFz4MZnxZP"
       },
@@ -3614,7 +3636,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 312000,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"

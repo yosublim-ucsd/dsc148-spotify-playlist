@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Post Malone, 宇多田ヒカル, Calvin Harris & Sam Smith, Diplo and more! cover: Post Malone
 
-2,301 songs - 5 day 10 hr 30 min
+2,302 songs - 5 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-03-25 |
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-13 | 2023-07-21 |
 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 | 2023-03-17 | 2023-03-25 |
+| [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-30 |  |
 | [JOC IN '06](https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [JOC IN '06](https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr) | 2:50 | 2023-01-29 | 2023-02-03 |
 | [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 | 2023-03-24 | 2023-03-31 |
 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 | 2023-06-15 | 2023-06-23 |

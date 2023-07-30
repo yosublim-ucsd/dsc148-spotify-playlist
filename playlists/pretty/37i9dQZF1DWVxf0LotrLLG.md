@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Gonzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,838 likes - 200 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,862 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [El Camino](https://open.spotify.com/track/33AyfzyJha5GueYGAdnqBu) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:11 |
 | 200 | [Alba](https://open.spotify.com/track/7p0lbeNlfphIkeUmnZocYR) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:36 |
 
-Snapshot ID: `MCwzOTc5MGE0NDFkNjA1NDhlNDFjNmEzMDdmY2VkZWY5NmViOTAwMjQ3`
+Snapshot ID: `MCxkY2E0NTMxMTQ5ZTY0YWQwN2Q2MmE0NGFlNDk5OTdmOWM1ZGZkYTE3`

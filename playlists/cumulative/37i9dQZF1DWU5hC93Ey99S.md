@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels
 
-195 songs - 10 hr 52 min
+196 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Keep You As A Memory \- Disco Lines Remix](https://open.spotify.com/track/6DJw57OGSrunErUHTurP0K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Keep You As A Memory \(Disco Lines Remix\)](https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC) | 3:58 | 2023-05-11 |  |
 | [KIDS](https://open.spotify.com/track/6NQbvueqSRWgHOailFx7th) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [KIDS](https://open.spotify.com/album/2hLLfjFvg3ya7scVAfQjrE) | 3:05 | 2023-06-08 |  |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 | 2023-04-13 | 2023-06-27 |
-| [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 | 2023-06-08 |  |
+| [Kratos \(A Little Closer\)](https://open.spotify.com/track/4f2v2PCW2mrh91lSU1gaEh) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/1ur3DgwMjIZmXffxx528sJ) | 2:30 | 2023-07-07 |  |
+| [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 | 2023-06-08 | 2023-07-30 |
 | [Lavendel](https://open.spotify.com/track/0lbjpK5PxeMycGZaZ1idNf) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-06-08 |  |
 | [Let Me Know \(feat.CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-15 |  |
 | [Let Me Know Feat\. CLMD](https://open.spotify.com/track/0EJeElSggv9GanclAqmRN8) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know Feat\. CLMD](https://open.spotify.com/album/6wYSmRineXwxLpxEEOq6vi) | 2:50 | 2023-06-15 | 2023-06-17 |

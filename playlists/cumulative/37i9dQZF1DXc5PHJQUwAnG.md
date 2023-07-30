@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K](https://open.spotify.com/track/5cWum4iD5BloSMkbkwcGqj) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo) | [10K](https://open.spotify.com/album/1ehQq1iS3f3afJsFt916oL) | 2:17 | 2023-06-09 |  |
-| [333](https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S) | [Joven Fresquito](https://open.spotify.com/artist/4cqfrK5ouivQRPxsz2yo27), [Luv'](https://open.spotify.com/artist/21WrFLppRHVogsXTUKT54f) | [333](https://open.spotify.com/album/0HuSbvYhqdyA1vdLESDCXV) | 2:47 | 2023-06-30 |  |
+| [333](https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S) | [Joven Fresquito](https://open.spotify.com/artist/4cqfrK5ouivQRPxsz2yo27), [Luv](https://open.spotify.com/artist/3MVNzlKvSMAZOwTwbBURbM) | [333](https://open.spotify.com/album/0HuSbvYhqdyA1vdLESDCXV) | 2:47 | 2023-06-30 |  |
 | [888](https://open.spotify.com/track/0S7JUK9EWqgM3vOVMsBUck) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [888](https://open.spotify.com/album/6iodhvyXGLiKXHreODGYZT) | 2:24 | 2023-06-09 |  |
 | [90](https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [Mi Psicóloga Me Dijo Que Hiciera Este Disco](https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux) | 2:19 | 2023-06-09 |  |
 | [A2UL](https://open.spotify.com/track/6GaXs0SohJwpaWmBqEMzZi) | [NAVIX](https://open.spotify.com/artist/6QjZG199q2IKREAzYWp095) | [A2UL](https://open.spotify.com/album/73yqt9H6cJ6wClZVWXOsJV) | 2:02 | 2023-06-09 |  |

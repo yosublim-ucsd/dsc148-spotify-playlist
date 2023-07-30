@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,704 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,717 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 |
 | 80 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 |
 
-Snapshot ID: `MCxiNjJiMjg5Y2EwYjVjOTUyZmQwNWRiNWU0OTIyYmVhZmNmZmIzNmY0`
+Snapshot ID: `MCwyNDMyZWE0YzRmZTZiYzc1YjE1NjA5NmY4MDI3NGRkOTFkOTM3MDJl`

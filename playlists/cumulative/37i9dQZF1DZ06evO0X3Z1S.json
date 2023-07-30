@@ -323,6 +323,32 @@
     },
     {
       "album": {
+        "name": "Fade (Jonas Blue Mix)",
+        "url": "https://open.spotify.com/album/5o15ApBZwwn2zkLHqSiPNK"
+      },
+      "artists": [
+        {
+          "name": "Solu Music",
+          "url": "https://open.spotify.com/artist/0lpwsK5bX64iD7GjEda5De"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "KimBlee",
+          "url": "https://open.spotify.com/artist/4OKxdPfybjZIWXLj8rml2s"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Fade - Jonas Blue Vocal Mix",
+      "url": "https://open.spotify.com/track/6Q1v4ZvXui7kMfBLzr9Vca"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },

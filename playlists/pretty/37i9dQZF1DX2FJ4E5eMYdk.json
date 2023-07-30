@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 146579,
+  "num_followers": 146679,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzIyOWY1MTRiZmE2ZmUwOTk4OTJkMWVjOTgxYjBjOWFmN2JhYTJi",
+  "snapshot_id": "MCxiNjA4ZWJmNTZmZTUwM2I4NTZhYzc2ZGMxYWJjNTA5ZWY5NjhhZTli",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Brain Cycles",
         "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 140164,
-      "name": "Hippo",
-      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "My Morning Jacket",
         "url": "https://open.spotify.com/album/3KKJu9Fa8rKsY7UlfxecRR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/01eqfDvkAeItZ8NJNc6f6v"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
-        }
-      ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Caught It from the Rye",
         "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 169160,
       "name": "Real You",
       "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
     },
     {
       "added_at": "2023-05-12 04:00:00",

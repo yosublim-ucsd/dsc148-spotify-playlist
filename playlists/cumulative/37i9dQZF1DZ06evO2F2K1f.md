@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 15 min
+117 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |
 | [High Diver](https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 3:42 | 2022-06-01 | 2022-10-09 |
 | [Hot Pants](https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:52 | 2022-05-29 |  |
-| [In The Clouds](https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 5:29 | 2022-05-29 |  |
+| [In The Clouds](https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 5:29 | 2022-05-29 | 2023-07-30 |
 | [Laura](https://open.spotify.com/track/1xm6n05NR02rGfhPXdbmS2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Laura](https://open.spotify.com/album/7nG2Idce7vm6pBdxp2eEA1) | 4:00 | 2022-06-12 |  |
 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 | 2022-05-29 | 2023-03-28 |
+| [London Hilton](https://open.spotify.com/track/7zreWwu1eicUJJ4gkPjKnI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:34 | 2023-07-29 |  |
 | [Lounging at Dave's](https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Adam Mills](https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 1:57 | 2022-08-17 | 2023-07-16 |
 | [Love Of Life](https://open.spotify.com/track/5OsBULLtMHBHyE2OEKQQK6) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [High Drama](https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr) | 3:10 | 2022-05-29 | 2022-06-17 |
 | [Man of Means](https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:13 | 2022-05-29 | 2023-07-17 |

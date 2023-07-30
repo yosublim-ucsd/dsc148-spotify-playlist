@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Missing You](https://open.spotify.com/track/4ogVNLLmeO8xX57MjbhTCs) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/7xnWoJEKBmJsg5ZBpJyEkl) | 4:16 |
+| 1 | [Missing You](https://open.spotify.com/track/4ogVNLLmeO8xX57MjbhTCs) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/7xnWoJEKBmJsg5ZBpJyEkl) | 4:16 |
 | 2 | [Falling](https://open.spotify.com/track/1cXlFn45iKoANa74LUqiCP) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/49RPhfmbjEiPdrSzzpN2YO) | 3:01 |
 | 3 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 |
 | 4 | [Only You](https://open.spotify.com/track/5pzjzjlcEjiMdFgKZhI6fz) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/25C7dgrlL7Rcqahfa4soWA) | 3:38 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 | 30 | [K\-LAND](https://open.spotify.com/track/0NSVyvsN7Wwtu7YZ4sLVdn) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [K\-LAND](https://open.spotify.com/album/2O6DCzRdIxCr5oEu8DwAnE) | 3:19 |
 | 31 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 |
 
-Snapshot ID: `MCxmMThmZTZlMDRhZDYxMTQxMTlhODM1Y2M5OTcxNTY0YmIyOTRlZmY3`
+Snapshot ID: `MCw0MDQ4ZmZkOTljOGU0M2VmYjE2YjU0YTgxMzEyZjZkMmMzNWM0NDFj`

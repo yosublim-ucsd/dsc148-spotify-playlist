@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 23189,
+  "num_followers": 23254,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWU3NzNhNzJiYjI1MDgxNjE1ODQyMmZkMDQ5ZDU5MGNkMmE5MGRi",
+  "snapshot_id": "MCw2ZmM3NTQwZmY0NTk5ZDJmOWY5NzJkNzZiOGRjOWVhZmFjN2ZmYzg5",
   "tracks": [
     {
       "added_at": "2023-07-28 00:00:00",
@@ -251,26 +251,22 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
-        "name": "Omo Ologo",
-        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 178347,
-      "name": "Oganigwe",
-      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -319,22 +315,26 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+      "duration_ms": 178347,
+      "name": "Oganigwe",
+      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
-        "name": "Guy Man",
-        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Guy Man",
-      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
-        "name": "Amdallah",
-        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180584,
-      "name": "Amdallah",
-      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
+        "name": "Amdallah",
+        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Amdallah",
+      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
+        "name": "Holy Gee",
+        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Holy Gee",
+      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
         "name": "Bad Persin",
         "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
-        "name": "Holy Gee",
-        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Holy Gee",
-      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
-        "name": "Osapa London",
-        "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Stand Attention",
-      "url": "https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
+        "name": "Osapa London",
+        "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Stand Attention",
+      "url": "https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm"
     },
     {
       "added_at": "2023-07-28 00:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-28 00:00:00",
       "album": {
+        "name": "Rhythm and Tunes",
+        "url": "https://open.spotify.com/album/6baCP0yFlevNRcE8ZFYC5x"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/13un17MWANLgtDAfIDzTka"
+    },
+    {
+      "added_at": "2023-07-28 00:00:00",
+      "album": {
         "name": "STILL FIGURING LIFE",
         "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 161118,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
-    },
-    {
-      "added_at": "2023-07-28 00:00:00",
-      "album": {
-        "name": "Rhythm and Tunes",
-        "url": "https://open.spotify.com/album/6baCP0yFlevNRcE8ZFYC5x"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/13un17MWANLgtDAfIDzTka"
     },
     {
       "added_at": "2023-07-28 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT?si=gKkL262mTwKZ3kzqrYdEng"> Tulenkey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,735 likes - 79 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,758 likes - 79 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 78 | [Perfection](https://open.spotify.com/track/0j0TEjJfEvRyNS1jM2YnUg) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:42 |
 | 79 | [Fa Me Saa](https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fa Me Saa](https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4) | 3:05 |
 
-Snapshot ID: `MCwwNTE3MjlhM2IyMDRiMTA0YzkxNmVkMDE4NWFjYzNiMDJiYWYzOTI1`
+Snapshot ID: `MCxiZDMwNzg5MGIyMWY4Nzc4MDdjZjNlNzhiNmM3MjJmY2U1OGJiNmQy`

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12408,
+  "num_followers": 12420,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0",
+  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -83,26 +83,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "\u00c9xtasis",
-        "url": "https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
       },
@@ -139,26 +119,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Fina",
-        "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel"
       },
@@ -175,6 +135,26 @@
       "duration_ms": 146000,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/3f4F947OK390ug1C4igSLp"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Fina",
+        "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -319,22 +299,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 196967,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Soy una Gerla",
         "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
       },
@@ -347,6 +311,22 @@
       "duration_ms": 116412,
       "name": "Soy una Gerla",
       "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 196967,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -403,22 +383,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a"
       },
@@ -431,6 +395,22 @@
       "duration_ms": 227441,
       "name": "Libre",
       "url": "https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -515,6 +495,26 @@
       "duration_ms": 167000,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Bla",
-        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Bdilla",
-          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Bla",
-      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Hood",
         "url": "https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 176410,
       "name": "Hood",
       "url": "https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Bla",
+        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Bdilla",
+          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Bla",
+      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
     },
     {
       "added_at": "2023-07-05 03:00:00",

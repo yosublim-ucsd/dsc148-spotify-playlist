@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 267669,
+  "num_followers": 267960,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTJhNjJjMTJkZTgwZWJjZmFiMDVlMmNiZGRiZGZkMGI5MDVjNjNi",
+  "snapshot_id": "MCw4MGY0ZjIzM2NmOWVkMzlmZjcxODQ0ZmQ4ZDZiYzQ3OGMwY2E3YmEz",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
       "artists": [
         {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
         }
       ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2023-07-18 16:14:01",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Giselle",
-          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
-        }
-      ],
-      "duration_ms": 234786,
-      "name": "Crave You",
-      "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "Crave You",
+      "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
     },
     {
-      "added_at": "2023-06-29 14:20:09",
-      "album": {
-        "name": "Elliot - EP",
-        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 236335,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
-    },
-    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "If This Is House I Want My Money Back 3",
@@ -847,6 +831,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2023-06-29 14:20:09",
+      "album": {
+        "name": "Elliot - EP",
+        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 246266,
       "name": "Peaceful Life",
       "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "elated!",
-        "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 207327,
-      "name": "FEEL SOMETHING DIFFERENT",
-      "url": "https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "elated!",
+        "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 207327,
+      "name": "FEEL SOMETHING DIFFERENT",
+      "url": "https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+      },
+      "artists": [
+        {
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 229610,
       "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Tetra",
-        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
-      },
-      "artists": [
-        {
-          "name": "C2C",
-          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Down The Road",
-      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "House Hues",
+        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "duration_ms": 98461,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -1529,22 +1545,6 @@
       "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "House Hues",
-        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
-      },
-      "artists": [
-        {
-          "name": "IAMNOBODI",
-          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
-        }
-      ],
-      "duration_ms": 98461,
-      "name": "Separated",
-      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
-    },
-    {
       "added_at": "2023-06-23 14:31:14",
       "album": {
         "name": "Blutooth / enough 4 u",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Hablot Brown",
-          "url": "https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM"
-        }
-      ],
-      "duration_ms": 235369,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Crash Course (feat. Biig Piig)",
         "url": "https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 167328,
       "name": "Crash Course (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Hablot Brown",
+          "url": "https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM"
+        }
+      ],
+      "duration_ms": 235369,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
     },
     {
       "added_at": "2023-05-04 21:27:18",

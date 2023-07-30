@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Cover: Jesse Mac Cormack, Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,192 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,199 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
+| 1 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 |
 | 2 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
 | 3 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
 | 4 | [Slip Slide](https://open.spotify.com/track/7q3Ur8hlX5x35dyzQbdNJP) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Slip Slide](https://open.spotify.com/album/452wHpG8AT64V8dKhduC45) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Phantom](https://open.spotify.com/track/4xfk99hBLqPwiTvY7BnSyH) | [Pacoussa](https://open.spotify.com/artist/65qRZyXgZqOtnGIW4WRGtL), [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Phantom](https://open.spotify.com/album/6bYa0DYAxFWjG26ZOp4rDE) | 2:30 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCwxMDcyYzRjYTJlN2QwNDE2NmUzNjZkNDIxY2ZlZTZlODYxMDczNDI4`
+Snapshot ID: `MCw4MDBiZGFlMzZhYmE2MDgxMjVhYmUxYjU0NzlhYzJhM2NmODFhNGE1`

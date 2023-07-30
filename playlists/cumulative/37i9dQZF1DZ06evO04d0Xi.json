@@ -715,6 +715,72 @@
     },
     {
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Thyago Fersil",
+          "url": "https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Marquinhos Menezes",
+          "url": "https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2"
+        },
+        {
+          "name": "Lilian Azevedo",
+          "url": "https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N"
+        },
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Emerson Pinheiro",
+          "url": "https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376720,
+      "name": "Pastor",
+      "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
+    },
+    {
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V"
       },
@@ -947,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
+        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313124,
+      "name": "Tu \u00c9s Deus",
+      "url": "https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA"
+    },
+    {
+      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
@@ -962,7 +1046,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 420500,
       "name": "Tu \u00c9s Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/6zrBTyHijYBU6xcem6hd8X"

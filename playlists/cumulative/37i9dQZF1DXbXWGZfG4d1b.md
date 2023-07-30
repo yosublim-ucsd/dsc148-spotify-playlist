@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-474 songs - 1 day 4 hr 6 min
+475 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Hojas de Sombra](https://open.spotify.com/track/7koV9ojFGsDXkZMBxfEmWZ) | [Pájaro](https://open.spotify.com/artist/4nmLAzSOQNI1YZKhGqmHwP) | [Hojas de Sombra](https://open.spotify.com/album/2ir033W52DI2aqS7n50nFO) | 7:17 | 2022-07-01 | 2022-07-24 |
 | [Hombre Paloma](https://open.spotify.com/track/33MjnTrlEgYbra2prv0l5i) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Hombre Paloma](https://open.spotify.com/album/2yZ4h4VN6iWBjseopIbsS7) | 3:02 | 2022-07-01 | 2022-07-16 |
 | [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 | 2022-12-02 |
+| [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-07-28 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-06-03 | 2022-07-29 |
 | [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-24 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
@@ -446,7 +447,7 @@
 | [Tus Amigos de la Cia](https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Doble de Riesgo](https://open.spotify.com/album/3AldHEpT3we5tF068rm14O) | 3:47 | 2022-06-03 |  |
 | [Tú No Me Tienes Que Salvar](https://open.spotify.com/track/0ytEtD2kJH402e4tr29BCE) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Tú No Me Tienes Que Salvar](https://open.spotify.com/album/0SpuX0dssFYOk9FbkqJgih) | 3:50 | 2022-06-03 | 2022-07-29 |
 | [Tú No Me Tienes Que Salvar](https://open.spotify.com/track/648639ImUdRqgV1nzvXYQE) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Tú No Me Tienes Que Salvar](https://open.spotify.com/album/5pzm3qZYdcY2WucocBaTj9) | 3:50 | 2022-07-15 | 2023-03-03 |
-| [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-11 |  |
+| [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-11 | 2023-07-30 |
 | [Un Cactus](https://open.spotify.com/track/1ryPVXya20fTWNhxzydX4K) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Supersad \(Parte 2\)](https://open.spotify.com/album/24EzhJe728sgblG5U3zDE0) | 2:16 | 2022-06-03 | 2022-07-23 |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2022-09-09 | 2022-10-12 |
 | [Un Recuerdo](https://open.spotify.com/track/1q06uH13BsX1S7xW7FAjlQ) | [Andrés Guerrero](https://open.spotify.com/artist/5DZ6Jknzod4InSRVzxpajz), [DOMΔ](https://open.spotify.com/artist/4CEn2mufh7u7qkxxC0ICDk) | [Un Recuerdo](https://open.spotify.com/album/5SqxZQlpBefSeSTrbeMi3g) | 4:43 | 2022-07-01 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 270119,
+  "num_followers": 270192,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTI2ODAzNTQ2MzAzYzQ2MzI1NmQ1OTI4MTcyNGFkOGRmNmJjYWZj",
+  "snapshot_id": "MCwzM2IwODVhMjE4YjFhZjI1ZTIzY2QyYTAzMTcwMGM2NDc3ZDQzNDQ5",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
       "artists": [
         {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
         }
       ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+      "duration_ms": 241200,
+      "name": "Total Football",
+      "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 241200,
-      "name": "Total Football",
-      "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "Adderall (End of the Line)",
-      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
-    },
-    {
       "added_at": "2023-03-17 13:08:31",
       "album": {
         "name": "American Nightmare",
@@ -259,6 +243,22 @@
       "duration_ms": 189474,
       "name": "American Nightmare",
       "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+      "duration_ms": 194693,
+      "name": "Almost Had to Start a Fight/In and Out of Patience",
+      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -325,54 +325,6 @@
       "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
-      "added_at": "2023-07-28 14:24:56",
-      "album": {
-        "name": "TELL ME WHEN I'M TELLING LIES",
-        "url": "https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "TELL ME WHEN I'M TELLING LIES",
-      "url": "https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Almost Had to Start a Fight/In and Out of Patience",
-      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "One Rizla",
-      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
-    },
-    {
       "added_at": "2023-06-20 22:28:34",
       "album": {
         "name": "Slab",
@@ -387,6 +339,38 @@
       "duration_ms": 108880,
       "name": "Slab",
       "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 265183,
+      "name": "Adderall (End of the Line)",
+      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
+    },
+    {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "TELL ME WHEN I'M TELLING LIES",
+        "url": "https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "TELL ME WHEN I'M TELLING LIES",
+      "url": "https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -421,22 +405,6 @@
       "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
-      "added_at": "2023-07-28 14:24:56",
-      "album": {
-        "name": "Stumbling Still",
-        "url": "https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh"
-      },
-      "artists": [
-        {
-          "name": "Nation of Language",
-          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
-        }
-      ],
-      "duration_ms": 279870,
-      "name": "Stumbling Still",
-      "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
-    },
-    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Flower of Devotion",
@@ -451,6 +419,22 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+    },
+    {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "Stumbling Still",
+        "url": "https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 279870,
+      "name": "Stumbling Still",
+      "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -480,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
+      "duration_ms": 214578,
+      "name": "One Rizla",
+      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -519,22 +503,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -563,6 +531,54 @@
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Stumpwork",
+        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Kwenchy Kups",
+      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -603,38 +619,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Stumpwork",
-        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Kwenchy Kups",
-      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
       "artists": [
         {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
         }
       ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 303133,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Rhythm Is Our Business (Edit)",
-        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rhythm Is Our Business - Edit",
-      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
     },
     {
       "added_at": "2023-02-24 00:00:00",

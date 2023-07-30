@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 122514,
+  "num_followers": 122591,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQxZTU4YzNmODE1OWM2MmQyMTg4M2FkOTZmNzFlZDEwZGUxZDli",
+  "snapshot_id": "MCw0NWI0NmYyM2Q2YmY4ZDE2YWQyOTdmNjY1MjNkYWVmNDgzMDg1YjJk",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 97466,
+      "name": "Conmigo te gust\u00f3",
+      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo te gust\u00f3",
-      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
-        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 273273,
-      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
-      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
         "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 364197,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
       "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Movistar Arena",
-        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Bonita / Madre Soltera (En Vivo)",
         "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 232896,
       "name": "Madre Soltera - En Vivo",
       "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
+        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+      "duration_ms": 208613,
+      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
+      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -643,22 +647,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
-        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
-      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Crecer (En Vivo)",
         "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 108129,
       "name": "Que Vuelvas - En Vivo",
       "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Una Copa de M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 316182,
       "name": "Una Copa de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 1189088,
       "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
       "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2023-07-07 03:00:00",

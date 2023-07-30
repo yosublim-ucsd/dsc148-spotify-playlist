@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 929817,
+  "num_followers": 930056,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2ZhZTNiYTgwNWE0ZTgxN2JmMDVhODQ3MzVmZDRiZTM0NTY3NWMz",
+  "snapshot_id": "MCxhYTRlMjE2YjI5YjZmNzdhODFhZThjNWJkYmY2MTU3MzVlZDllZDY1",
   "tracks": [
     {
       "added_at": "2023-07-28 16:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Pop That",
-        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
         "name": "Make U SWEAT!",
         "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "ADU",
+        "url": "https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM"
+      },
+      "artists": [
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        },
+        {
+          "name": "Sam Helix",
+          "url": "https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "ADU",
+      "url": "https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 157428,
       "name": "Your Tongue",
       "url": "https://open.spotify.com/track/6uGNhZyjr139uPQIFQCVP2"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "ADU",
-        "url": "https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM"
-      },
-      "artists": [
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        },
-        {
-          "name": "Sam Helix",
-          "url": "https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "ADU",
-      "url": "https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO"
     },
     {
       "added_at": "2023-07-28 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 67406,
+  "num_followers": 67455,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy",
+  "snapshot_id": "MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Sessions - EP",
-        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Chantae Cann",
-          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
-        }
-      ],
-      "duration_ms": 249176,
-      "name": "Maintain (feat. Chantae Cann) (Live)",
-      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Peace: The Album",
         "url": "https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 462320,
       "name": "Rushing In - Live",
       "url": "https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
     },
     {
       "added_at": "2023-02-18 05:28:04",

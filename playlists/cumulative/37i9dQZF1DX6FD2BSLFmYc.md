@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-112 songs - 7 hr 18 min
+113 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Morning Clarity](https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Morning Clarity](https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA) | 3:02 | 2023-04-26 |  |
 | [My Lotus](https://open.spotify.com/track/2OpLL9LQZtE1WHGiNVo1WC) | [Bhramari](https://open.spotify.com/artist/7b2ZFUFfg5RnyozQzikhCg) | [My Lotus](https://open.spotify.com/album/0M5zVaMvDG8R1Qt6fG2N6O) | 2:10 | 2022-07-18 | 2022-07-29 |
 | [My Lotus](https://open.spotify.com/track/4k1YPLJ6s094uAR6CY2kgB) | [Bhramari](https://open.spotify.com/artist/7b2ZFUFfg5RnyozQzikhCg) | [My Lotus](https://open.spotify.com/album/1ABuUFMKeLuuyi5twSGwcR) | 2:10 | 2022-07-18 |  |
-| [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2022-07-18 |  |
+| [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 | 2023-04-26 |  |
+| [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2022-07-18 | 2023-07-30 |
 | [Música para la Meditación](https://open.spotify.com/track/17brV8ioEjTOxTS7xOdQT2) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 3:55 | 2022-07-18 |  |
 | [Number 40](https://open.spotify.com/track/1IKuAnqiUFBg4Y2JGLBHhK) | [Contemplations](https://open.spotify.com/artist/1uuJsACT4k3FSETvbMEx6X) | [Number 40](https://open.spotify.com/album/06FdBec05oKft47K0wtFDJ) | 4:24 | 2022-08-10 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2023-01-13 |  |

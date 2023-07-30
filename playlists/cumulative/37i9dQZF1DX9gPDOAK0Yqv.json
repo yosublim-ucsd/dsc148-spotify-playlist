@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
@@ -2342,6 +2342,32 @@
       "duration_ms": 179491,
       "name": "I'm So Weak - Dark Mix",
       "url": "https://open.spotify.com/track/3Q7eE5wxQnxBC697LoqUcj"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love (Innellea Remix)",
+        "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218004,
+      "name": "In And Out Of Love - Innellea Remix",
+      "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
     },
     {
       "album": {
@@ -3978,7 +4004,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 221669,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V"
@@ -4513,6 +4539,40 @@
     },
     {
       "album": {
+        "name": "Sorry (with Madonna) [Miss Monique Remix]",
+        "url": "https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Sorry (with Madonna) - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
+    },
+    {
+      "album": {
         "name": "Spacewalk",
         "url": "https://open.spotify.com/album/1CZVDDNWqniSK1aUYy8MGY"
       },
@@ -4692,6 +4752,28 @@
       "duration_ms": 191341,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K"
+    },
+    {
+      "album": {
+        "name": "Syren",
+        "url": "https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197822,
+      "name": "Syren",
+      "url": "https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn"
     },
     {
       "album": {
@@ -5330,7 +5412,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"

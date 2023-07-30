@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,741 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,758 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 26 | [why?](https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [why?](https://open.spotify.com/album/04jGMZtjIz0RxunjQXl2E0) | 1:14 |
 | 27 | [Eh Pensado](https://open.spotify.com/track/36c9COfteQmw0nhzSiSZR2) | [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD) | [OMW2FYH](https://open.spotify.com/album/6f9OrhrFWH2PsX9opwSbke) | 2:27 |
 | 28 | [Lick my Pssy](https://open.spotify.com/track/6lL8KpsAiZizaL1VZTVlAw) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [Lick my Pssy](https://open.spotify.com/album/5NlCyELkZ9Zjbm5xWw3gZK) | 1:38 |
-| 29 | [333](https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S) | [Joven Fresquito](https://open.spotify.com/artist/4cqfrK5ouivQRPxsz2yo27), [Luv'](https://open.spotify.com/artist/21WrFLppRHVogsXTUKT54f) | [333](https://open.spotify.com/album/0HuSbvYhqdyA1vdLESDCXV) | 2:47 |
+| 29 | [333](https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S) | [Joven Fresquito](https://open.spotify.com/artist/4cqfrK5ouivQRPxsz2yo27), [Luv](https://open.spotify.com/artist/3MVNzlKvSMAZOwTwbBURbM) | [333](https://open.spotify.com/album/0HuSbvYhqdyA1vdLESDCXV) | 2:47 |
 | 30 | [Rumor](https://open.spotify.com/track/1LhQ9rwpOhoMBxbofBOFQr) | [Sick Morrison](https://open.spotify.com/artist/4oMSYrYeZPbi9uvI1ql9wm) | [Rumor](https://open.spotify.com/album/0IdcNCtYlU30GVYUD0aQOR) | 2:26 |
 | 31 | [Mi Cabeza](https://open.spotify.com/track/72wd6LLe5x4KuoEwI8YWu7) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Mi Cabeza](https://open.spotify.com/album/2JpDPQjUAFrV7BsDQAO3HE) | 3:44 |
 | 32 | [k me la coma todo el tr4p](https://open.spotify.com/track/42TknIixHJVWmsqEqHK7fh) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [k me la coma todo el tr4p](https://open.spotify.com/album/7yFHxE9JNqUzDIH2jfuy9D) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw4Y2VhMTA4MjQ4Mzc5OWU4OTg3MjEyMzdiOTlmOTc1MGEwMTgxYTUz`
+Snapshot ID: `MCw4ZWQzYjcwYmMwYTc5MWFmOTg0YzkzM2M3N2EzMDhlYjIwM2Y4MTk5`

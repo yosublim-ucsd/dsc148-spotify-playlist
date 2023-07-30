@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2417774,
+  "num_followers": 2417747,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYwOTFkNTQyNzkxZGVkOGQ2MzJmNTNlNGFjNTNiM2VmOTgxZjY0",
+  "snapshot_id": "MCw4Y2JjYzdkYzRiYjhhNDk0MWEzYmYzODI3YzZjOTAwOWQyYmM3M2Fh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Paper Crown",
         "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190786,
       "name": "Can't Cheat Death",
       "url": "https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Lighght (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Philosophize In It! Chemicalize With It!",
-      "url": "https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 231813,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Lighght (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Philosophize In It! Chemicalize With It!",
+      "url": "https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq"
     },
     {
       "added_at": "2023-07-28 04:00:00",

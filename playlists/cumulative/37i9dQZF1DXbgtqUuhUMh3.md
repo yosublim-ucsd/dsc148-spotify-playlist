@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-506 songs - 1 day 5 hr 32 min
+507 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Baad Sneen](https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Baad Sneen](https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md) | 3:42 | 2023-05-04 |  |
 | [Baadni Bhebak](https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Baadni Bhebak](https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ) | 2:58 | 2023-05-11 |  |
 | [Baadou Albi](https://open.spotify.com/track/1QWgfJSKW7nKXEpK1Xwzat) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Baadou Albi](https://open.spotify.com/album/3pm4xg93LDoNqYbEWC7dnZ) | 3:36 | 2023-06-22 |  |
-| [Baaet Aada](https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Baaet Aada](https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap) | 4:20 | 2023-05-04 |  |
+| [Baaet Aada](https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Baaet Aada](https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap) | 4:20 | 2023-05-04 | 2023-07-30 |
+| [Bab ElTayaba](https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Bab ElTayaba](https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD) | 3:50 | 2023-07-28 |  |
 | [Bad Trip](https://open.spotify.com/track/5Yn8SZfv3IYoS49jpomqS3) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Bad Trip](https://open.spotify.com/album/6LZMuljvaHpZKQx8raK0Zq) | 2:32 | 2021-12-23 | 2022-03-02 |
 | [Badal Madi](https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Badal Madi](https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv) | 2:48 | 2023-03-16 | 2023-07-14 |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 | 2022-11-08 |

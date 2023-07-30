@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,157 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,166 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 32 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
 | 33 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
 | 34 | [Alvará \(Ao Vivo\) \(feat\. Elaine Martins\)](https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr) | [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Samba Adorador \(Ao Vivo\)](https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj) | 3:37 |
-| 35 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
-| 36 | [Raridade \- Live MK 10 MI](https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD) | 4:58 |
+| 35 | [Raridade \- Live MK 10 MI](https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD) | 4:58 |
+| 36 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
 | 37 | [Mestre \(Ao Vivo\)](https://open.spotify.com/track/5gf1Tq1LVi3ZjR67sol1Yd) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:59 |
 | 38 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
-| 39 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
-| 40 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
+| 39 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
+| 40 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
 | 41 | [Volte a Sonhar Remix](https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Templo Fit Remix](https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb) | 3:56 |
 | 42 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 |
 | 43 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 |
-| 44 | [O Cirineu](https://open.spotify.com/track/5pPviO1Xd2xywi4i4iDXT6) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:37 |
-| 45 | [Ouve Senhor](https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:20 |
+| 44 | [Ouve Senhor](https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:20 |
+| 45 | [O Cirineu](https://open.spotify.com/track/5pPviO1Xd2xywi4i4iDXT6) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:37 |
 | 46 | [Linda Flor](https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Linda Flor](https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT) | 3:35 |
-| 47 | [Minha Alma Canta \(Ao Vivo\)](https://open.spotify.com/track/4LMX1eh6fFMyoTk9uP3rUH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 4:44 |
-| 48 | [Ainda Existe Solução](https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda\-me](https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF) | 4:42 |
+| 47 | [Ainda Existe Solução](https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda\-me](https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF) | 4:42 |
+| 48 | [Minha Alma Canta \(Ao Vivo\)](https://open.spotify.com/track/4LMX1eh6fFMyoTk9uP3rUH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 4:44 |
 | 49 | [Quem é Este?](https://open.spotify.com/track/7IQ2ohWCn0riWIs580kI0g) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Posso Confiar](https://open.spotify.com/album/3A5WfixvsA44oIkknRbupr) | 7:04 |
 | 50 | [Força Santa](https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Força Santa](https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc) | 5:44 |
 
-Snapshot ID: `MjgxNzU4MzgsMDAwMDAwMDBkNmQ2YzJmOTcwN2MzOWViM2M3ODc0OTc0NjQxN2VkNg==`
+Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDAzN2U4YTUzMTJjMWIxZDM5ODE3ZDQ2YWViMGRkOWExMg==`

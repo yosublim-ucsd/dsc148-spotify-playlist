@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,737 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,256 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 14 | [Angels](https://open.spotify.com/track/6ojP7ndmGdRKXLvPuMmSoh) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [STILL \(Five & A F\*\*\* You\) \[Deluxe\]](https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8) | 3:01 |
 | 15 | [Pictures On My Wall](https://open.spotify.com/track/17IOwU3ETt4Tf3YR8u0tPf) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 2:35 |
 | 16 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
-| 17 | ['05 Honda](https://open.spotify.com/track/4jRwstwnKA0gtdu5aemONX) | [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [Some People Scream, Some People Talk](https://open.spotify.com/album/5CVZBLsQKpTNmjjq1xmQJW) | 2:58 |
+| 17 | ['05 Honda](https://open.spotify.com/track/4jRwstwnKA0gtdu5aemONX) | [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [Some People Scream, Some People Talk](https://open.spotify.com/album/5CVZBLsQKpTNmjjq1xmQJW) | 2:58 |
 | 18 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 |
 | 19 | [Floating](https://open.spotify.com/track/4sGOJwyK0WdXgQ3KUPKz1N) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Floating](https://open.spotify.com/album/0gSSy5awjaAGUxdmcgmLMj) | 2:02 |
 | 20 | [Blame On Me](https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 | 100 | [Hootz](https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:09 |
 
-Snapshot ID: `MCw1NzZlMzhjODNjNDg1ODFlZmZiYmI5NzNiODdiYThkNGRkY2YxYzZh`
+Snapshot ID: `MCw1NDhhMDRkMDRhODcwNTNiYTJmYzdiMjhiM2E4Njk0MTBkYTc0NzRi`

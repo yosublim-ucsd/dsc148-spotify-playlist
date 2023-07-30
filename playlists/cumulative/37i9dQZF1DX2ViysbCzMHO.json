@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 226179,
       "name": "Austin - Acoustic",
       "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
@@ -1894,6 +1894,24 @@
       "duration_ms": 207272,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb"
+    },
+    {
+      "album": {
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "album": {
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 205663,
       "name": "Truth About You - Piano Version",
       "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
@@ -4424,6 +4442,28 @@
       "duration_ms": 166666,
       "name": "You Shouldn't Have - Acoustic",
       "url": "https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO"
+    },
+    {
+      "album": {
+        "name": "You, Me, And Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187361,
+      "name": "You, Me, And Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2ViysbCzMHO"

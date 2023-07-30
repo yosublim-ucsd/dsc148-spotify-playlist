@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-353 songs - 1 day 8 hr 44 min
+354 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Re: Stacks \- Radio Edit](https://open.spotify.com/track/5LgjJfkiN9BorHEUZV9M53) | [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Re: Stacks](https://open.spotify.com/album/2AjfPscrernP7PXSailByn) | 4:49 | 2020-05-02\* | 2021-09-10 |
 | [Recluse](https://open.spotify.com/track/4RywJdtfcGqz3t8sBW7J52) | [James Kitchman](https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW), [Bruno Heinen](https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7), [Tom McCredie](https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s), [Shane Forbes](https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB) | [First Quartet](https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ) | 4:49 | 2022-04-07 |  |
 | [Reflections in D](https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Reflections in D](https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND) | 5:35 | 2022-02-10 | 2022-12-06 |
-| [Requiem \- Live](https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [8: Kindred Spirits \(Live From The Lobero\)](https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6) | 11:32 | 2022-07-21 |  |
+| [Requiem \- Live](https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [8: Kindred Spirits \(Live From The Lobero\)](https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6) | 11:32 | 2022-07-21 | 2023-07-30 |
 | [Requiem \- Live](https://open.spotify.com/track/0EsPT0KrwqMReT97PWuMMC) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Requiem \(Live From The Lobero\)](https://open.spotify.com/album/1ILoV7zYx31TbupBpFC0J0) | 11:32 | 2020-05-02\* | 2022-07-29 |
 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 | 2021-10-28 |  |
 | [Riders](https://open.spotify.com/track/0LDytu1PRUdxTZ5YCMIZIC) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [Riders](https://open.spotify.com/album/19KDDC1aNTNeM8ogVSyXNO) | 4:12 | 2020-05-02\* | 2022-07-29 |
@@ -337,6 +337,7 @@
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 |  |
 | [Wall](https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy), [Matthias Hemstock](https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU) | [Wall](https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9) | 4:59 | 2023-07-19 |  |
+| [Waltz for an Absent Lover](https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX) | [Christophe Marguet](https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ), [Guillaume De Chassy](https://open.spotify.com/artist/2SbiqsyR4YDxZ4QVsMxaQ3), [Thomas Savy](https://open.spotify.com/artist/1Bhjk9ozaPEoGohTuvErI1) | [Waltz for an Absent Lover](https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX) | 4:04 | 2023-07-19 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
 | [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |

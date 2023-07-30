@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2618,
+  "num_followers": 2620,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2FjNWZkMmYxMmNiNjIzMWJiMzQ2ZTZjNmQ5OTI2MjZlOWJjMzc5",
+  "snapshot_id": "MCxkYzc4ZTQxNGE2NjBlNmIxMzVjOThlM2FkOTcxMTJhODFiMjkzZGM3",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "fallin (feat.Liss)",
+        "url": "https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Liss",
+          "url": "https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI"
+        }
+      ],
+      "duration_ms": 167698,
+      "name": "fallin (feat.Liss)",
+      "url": "https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "BAD BLOOD - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
       },
@@ -547,6 +567,22 @@
       "duration_ms": 244360,
       "name": "To you, Tomorrow",
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -567,22 +603,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -667,22 +687,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Your Voice Makes Me Dream",
         "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
       },
@@ -699,18 +703,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
       "artists": [
         {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 201003,
-      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
-      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -727,6 +731,22 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "duration_ms": 201003,
+      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
+      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -767,22 +787,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "I Love You Enough to Die Now",
-        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "I Love You Enough to Die Now",
-      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
@@ -799,6 +803,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "I Love You Enough to Die Now",
+        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "I Love You Enough to Die Now",
+      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -811,22 +831,6 @@
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     },
     {
       "added_at": "2023-07-17 06:14:28",

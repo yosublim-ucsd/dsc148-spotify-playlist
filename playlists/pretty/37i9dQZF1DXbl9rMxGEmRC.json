@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 448744,
+  "num_followers": 448981,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWUwMjAyZjkzOTY3YTAyZTQ1NzJkNDgwMWQxNmZmNzE2ZWE2M2Q2",
+  "snapshot_id": "MCw0NWE3ZDAwYjk5NWJkNzMxNTYwZmMyYzc2YTk2MDE2OTU5NmJlNzRm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Die as a King",
-        "url": "https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP"
+        "name": "Morbid Visions",
+        "url": "https://open.spotify.com/album/2ZHqbNI33ZdAaw2i4Jdv1U"
       },
       "artists": [
         {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+          "name": "Cavalera Conspiracy",
+          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
         }
       ],
-      "duration_ms": 217794,
-      "name": "Die as a King",
-      "url": "https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r"
+      "duration_ms": 217152,
+      "name": "Morbid Visions - Re-Recorded",
+      "url": "https://open.spotify.com/track/7c59qpYgeS1g0LRYr3Wh7z"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Morbid Visions",
-        "url": "https://open.spotify.com/album/2ZHqbNI33ZdAaw2i4Jdv1U"
+        "name": "Die as a King",
+        "url": "https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP"
       },
       "artists": [
         {
-          "name": "Cavalera Conspiracy",
-          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
         }
       ],
-      "duration_ms": 217152,
-      "name": "Morbid Visions - Re-Recorded",
-      "url": "https://open.spotify.com/track/7c59qpYgeS1g0LRYr3Wh7z"
+      "duration_ms": 217794,
+      "name": "Die as a King",
+      "url": "https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "In Abeyance",
-        "url": "https://open.spotify.com/album/6TxLiQzD4gg3dHNCuTA4GF"
-      },
-      "artists": [
-        {
-          "name": "Cryptopsy",
-          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
-        }
-      ],
-      "duration_ms": 175683,
-      "name": "In Abeyance",
-      "url": "https://open.spotify.com/track/5kMqGe9AgwZmgYSl6cQu1o"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Enthrone Darkness Triumphant",
         "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 342160,
       "name": "In Death's Embrace",
       "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "In Abeyance",
+        "url": "https://open.spotify.com/album/6TxLiQzD4gg3dHNCuTA4GF"
+      },
+      "artists": [
+        {
+          "name": "Cryptopsy",
+          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
+        }
+      ],
+      "duration_ms": 175683,
+      "name": "In Abeyance",
+      "url": "https://open.spotify.com/track/5kMqGe9AgwZmgYSl6cQu1o"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Cruelty & The Beast",
-        "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 438733,
-      "name": "Cruelty Brought Thee Orchids",
-      "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Datalysium",
         "url": "https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 421031,
       "name": "Datalysium",
       "url": "https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Cruelty & The Beast",
+        "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 438733,
+      "name": "Cruelty Brought Thee Orchids",
+      "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Slasher - EP",
-        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
       "artists": [
         {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
         }
       ],
-      "duration_ms": 269346,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+        "name": "Slasher - EP",
+        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
       },
       "artists": [
         {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
         }
       ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+      "duration_ms": 269346,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Warmen Are Here For None",
-        "url": "https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa"
-      },
-      "artists": [
-        {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Warmen Are Here For None",
-      "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Devoid",
         "url": "https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 427154,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Warmen Are Here For None",
+        "url": "https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa"
+      },
+      "artists": [
+        {
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Warmen Are Here For None",
+      "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Dark (Winter)",
+        "url": "https://open.spotify.com/album/1K2Z23Ff5NNhERhuqhiAF2"
+      },
+      "artists": [
+        {
+          "name": "Uada",
+          "url": "https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ"
+        }
+      ],
+      "duration_ms": 451500,
+      "name": "The Dark (Winter)",
+      "url": "https://open.spotify.com/track/451BYwGZF7lYLxkhJk1zCE"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Kalmah",
         "url": "https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 254500,
       "name": "Stained In Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Dark (Winter)",
-        "url": "https://open.spotify.com/album/1K2Z23Ff5NNhERhuqhiAF2"
-      },
-      "artists": [
-        {
-          "name": "Uada",
-          "url": "https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ"
-        }
-      ],
-      "duration_ms": 451500,
-      "name": "The Dark (Winter)",
-      "url": "https://open.spotify.com/track/451BYwGZF7lYLxkhJk1zCE"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Black Medium Current",
-        "url": "https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE"
-      },
-      "artists": [
-        {
-          "name": "D\u00f8dheimsgard",
-          "url": "https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8"
-        }
-      ],
-      "duration_ms": 619257,
-      "name": "Et smelter",
-      "url": "https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Queen of the Dead Dimension",
         "url": "https://open.spotify.com/album/3WaZwT2pTDgkg17wE3Clad"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 333560,
       "name": "Queen of the Dead Dimension",
       "url": "https://open.spotify.com/track/1VMrvtJi8UYs1HSiCCk2OL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Black Medium Current",
+        "url": "https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE"
+      },
+      "artists": [
+        {
+          "name": "D\u00f8dheimsgard",
+          "url": "https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8"
+        }
+      ],
+      "duration_ms": 619257,
+      "name": "Et smelter",
+      "url": "https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Angels Hung from the Arches of Heaven",
-        "url": "https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt"
-      },
-      "artists": [
-        {
-          "name": "Goatwhore",
-          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
-        }
-      ],
-      "duration_ms": 294610,
-      "name": "Angels Hung from the Arches of Heaven",
-      "url": "https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Kiss The Goat",
         "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
       },
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "He Was a Good Man, He Was a Taxpayer",
-        "url": "https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW"
+        "name": "Angels Hung from the Arches of Heaven",
+        "url": "https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt"
       },
       "artists": [
         {
-          "name": "KEN Mode",
-          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+          "name": "Goatwhore",
+          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
         }
       ],
-      "duration_ms": 304826,
-      "name": "He Was a Good Man, He Was a Taxpayer",
-      "url": "https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70"
+      "duration_ms": 294610,
+      "name": "Angels Hung from the Arches of Heaven",
+      "url": "https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Long Road North",
+        "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "duration_ms": 699313,
+      "name": "Blood Upon Stone",
+      "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "He Was a Good Man, He Was a Taxpayer",
+        "url": "https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW"
+      },
+      "artists": [
+        {
+          "name": "KEN Mode",
+          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "He Was a Good Man, He Was a Taxpayer",
+      "url": "https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "The Endless Multitude",
         "url": "https://open.spotify.com/album/6y6QjPmkMmz2APyxoLZ4V4"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 388666,
       "name": "The Endless Multitude",
       "url": "https://open.spotify.com/track/2Slao5IkvxQCqt8P84KYJT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Long Road North",
-        "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
-      },
-      "artists": [
-        {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        }
-      ],
-      "duration_ms": 699313,
-      "name": "Blood Upon Stone",
-      "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
     },
     {
       "added_at": "2023-07-28 04:01:00",

@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: Rothy\(로시\)\)
 
-893 songs - 2 day 3 hr 40 min
+894 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,8 +677,8 @@
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-06 | 2022-09-09 |
 | [Solar](https://open.spotify.com/track/4VJtWynaEkc0UOMSbXOnWg) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:22 | 2022-03-07 | 2023-01-04 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-03-07 | 2022-04-06 |
-| [Something](https://open.spotify.com/track/1sGsrm9KCsqvMA0H7ry4bn) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 4:40 | 2023-07-04 |  |
-| [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-02 | 2023-06-07 |
+| [Something](https://open.spotify.com/track/1sGsrm9KCsqvMA0H7ry4bn) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 4:40 | 2023-07-04 | 2023-07-30 |
+| [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-02 |  |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-04-05 | 2022-05-05 |
 | [SOMETIMES](https://open.spotify.com/track/0OtjUV1mxN4idSXfdKFCOu) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [She Was Pretty OST Part.2](https://open.spotify.com/album/5XYNu18StbdLuRczU34Sbg) | 3:56 | 2023-02-28 | 2023-04-05 |
 | [Songs of the sea](https://open.spotify.com/track/21sbCAyyXqa1nl552ucbpZ) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Songs of the sea](https://open.spotify.com/album/02U1hunoosR7waTm8IhDyG) | 2:41 | 2023-06-06 | 2023-07-05 |
@@ -708,7 +708,8 @@
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-28 | 2023-04-05 |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-11-10 | 2022-12-01 |
 | [Suddenly](https://open.spotify.com/track/789mOE8Bws9wCYSFkoeq6i) | [Div](https://open.spotify.com/artist/33EogRsZc7AZ2RwY90VsJn) | [Suddenly](https://open.spotify.com/album/0PZHs6jgIvohnWOiqkrbEw) | 3:49 | 2023-07-04 |  |
-| [Summer Love](https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 3:53 | 2023-07-04 |  |
+| [Summer Love](https://open.spotify.com/track/0TMJ2mSEsUqftvCJtZ2YLV) | [KIM A REUM](https://open.spotify.com/artist/5t5PKzBdSmRojqxlrl6loX) | [SEOUL WAVE](https://open.spotify.com/album/6SYa8yN8Ivbm3Vux91rW6l) | 3:53 | 2023-07-04 |  |
+| [Summer Love](https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 3:53 | 2023-07-04 | 2023-07-30 |
 | [Sunny Shower \(feat\. Colde\)](https://open.spotify.com/track/1lkbr5SIokNTGFELm7BE9d) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Sunny Shower](https://open.spotify.com/album/2DSsJ3SnwV6H0cZLwxGZ8Z) | 3:33 | 2023-01-03 | 2023-02-01 |
 | [Sweet Dream](https://open.spotify.com/track/52S5z54LOqFTKmrUVPMn5z) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Love to Hate You, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0yGjEMAPhsKQ0BWSfOASFd) | 3:39 | 2023-02-28 | 2023-04-05 |
 | [Sweet Dream \(feat\. ZIEUN\)](https://open.spotify.com/track/6Gcxk1chI6hr9MBU9BP94X) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [ZIEUN](https://open.spotify.com/artist/3QlmnceJXQziVVuim9JODA) | [Sweet Dream](https://open.spotify.com/album/4rRDVHFuW195vCXoc0AavL) | 3:30 | 2023-02-28 | 2023-04-05 |

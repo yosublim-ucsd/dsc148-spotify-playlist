@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。7月26日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,495 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,530 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [蛍](https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [蛍](https://open.spotify.com/album/6nHk2AOBDEv4KNDfbQCPgS) | 4:00 |
 | 50 | [夏恋センセイション](https://open.spotify.com/track/5McCZ1isTVJg3Wr5WBVoI3) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [CHOSYOKU](https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF) | 2:18 |
 
-Snapshot ID: `MCxlYzJiZTdiNDhlZThlMDk2NWM5YjViMGI4ZjMxODczOTc5N2JkMmIw`
+Snapshot ID: `MCw2YTc5NWU2ZmU3MmUxM2Q0N2U4YjJiOWYwN2Y3NzE2NGUxY2IwZDJi`

@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 100657,
+  "num_followers": 101278,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDNjOTY5ZTU4YzA4OGEyNGIwNDY3MGY0Y2JjNDM1OGM5NjU4YTU0",
+  "snapshot_id": "MCwyMjY4ODQyYTdhMmRkMTg1MTVhODI5NGZhNjEzNzhiNjM3MTBmNjMz",
   "tracks": [
     {
       "added_at": "2023-07-12 16:22:38",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
       "added_at": "2023-07-19 14:27:54",
       "album": {
         "name": "MONTAGEM - PR FUNK",
@@ -71,6 +55,22 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-07-12 16:22:38",
       "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "BRAZILIAN DAN\u00c7A PHONK",
-        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
-      },
-      "artists": [
-        {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 118194,
-      "name": "BRAZILIAN DAN\u00c7A PHONK",
-      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
       "added_at": "2023-07-19 14:27:54",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-12 16:22:38",
       "album": {
-        "name": "Phonky Town",
-        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141343,
-      "name": "Phonky Town",
-      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "Phonky Town",
+        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141343,
+      "name": "Phonky Town",
+      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -669,6 +669,30 @@
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
     },
     {
+      "added_at": "2023-07-25 15:20:22",
+      "album": {
+        "name": "MTG - PISTA TOMA",
+        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
+      },
+      "artists": [
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "MTG - PISTA TOMA",
+      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
       "added_at": "2023-07-12 16:22:38",
       "album": {
         "name": "Twilight",
@@ -683,26 +707,6 @@
       "duration_ms": 116129,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "Spin The Globe",
-        "url": "https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Bens",
-          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
-        }
-      ],
-      "duration_ms": 110938,
-      "name": "Spinnin",
-      "url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes"
     }
   ],
   "unique_name": "gymcore",

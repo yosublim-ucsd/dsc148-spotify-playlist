@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,262 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,310 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
 | 2 | [Calladita](https://open.spotify.com/track/1GWGfak4Mjusp4NxzmfDs4) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Chapa JM](https://open.spotify.com/artist/71O7eskHUfLrBvFUOockZ4) | [Calladita](https://open.spotify.com/album/2d1Etw0XvlWwOKNhzfNx5n) | 3:30 |
-| 3 | [Tirando Flow Sesh \#11 \(feat\. Uzielito Mix & Ritorukai\)](https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11 \(feat\. Uzielito Mix & Ritorukai\)](https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb) | 3:32 |
+| 3 | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb) | 3:32 |
 | 4 | [CHANEL REAL](https://open.spotify.com/track/4YE774jIKvocYDSB7Jwa5W) | [Ray Menace](https://open.spotify.com/artist/6sZ33pbSr5zOnfMK1jGqld), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK) | [Chanel](https://open.spotify.com/album/6mZNaNVmSCyWS5Ja8ONC8U) | 2:47 |
 | 5 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 |
 | 6 | [Me Liberé](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Me Liberé](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 99 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 100 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 
-Snapshot ID: `MCw1MWYyZTc5MTUwYTkxNWVmZDJhNjEyNmE0NDc3YTg5MzFkYzBmMzY3`
+Snapshot ID: `MCxmNGNlZjQ4MzUyNWJmZjMxMjQ3Y2NkMDNkMDA3YTBiNmI4MjU4ZDA2`

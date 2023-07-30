@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3469,
+  "num_followers": 3471,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQzYmFjY2IwMmE4ZjYzMGNkMjg3ZmM2MDhmN2Q4OTViYjg0MjJi",
+  "snapshot_id": "MCwxOTBlNzk1YjUwYzFkMTM3MzcxYjJiMmM5MGVkMjA5YmYyYjg0NmQ1",
   "tracks": [
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Show Me the Money 5 Episode 1",
         "url": "https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 282197,
       "name": "Air DoTheQ",
       "url": "https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 176244,
-      "name": "Genius (Behind the scene)",
-      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "20/22",
         "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 182578,
       "name": "20/22",
       "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 176244,
+      "name": "Genius (Behind the scene)",
+      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -2035,18 +2035,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+        "name": "Show Me the Money 9 Episode 2",
+        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+      "duration_ms": 253800,
+      "name": "Upgrade 2020",
+      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

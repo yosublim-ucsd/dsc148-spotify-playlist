@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Eddy Herrera",
-  "num_followers": 384332,
+  "num_followers": 384357,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODNiNDIyZmUxMzA3Yzc4ZTIxYmMwOGY2ZTJkYjk5MGQ2MmI4ZWM2",
+  "snapshot_id": "MCxiZmM2NjY5MDc1ZmIxZTc2ZGE1NDljMDliZTEzY2U2NDI4NTkyZDg0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -299,26 +299,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
-        "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "El Cata",
-          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 195240,
-      "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
-      "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -339,18 +331,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+        "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
+        "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
       },
       "artists": [
         {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "El Cata",
+          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
         }
       ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+      "duration_ms": 195240,
+      "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
+      "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "La Vida Da Vuelta",
-        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 162882,
-      "name": "La Vida Da Vuelta",
-      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 288866,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "JotaB\u00e9",
+        "url": "https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS"
+      },
+      "artists": [
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 167722,
+      "name": "JotaB\u00e9",
+      "url": "https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Tesoro Mio (Versi\u00f3n Merengue)",
         "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
       },
@@ -1071,22 +1091,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1115,6 +1119,22 @@
       "duration_ms": 286520,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1247,22 +1267,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Moriso\u00f1ando, Vol. 1",
         "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
       },
@@ -1279,6 +1283,22 @@
       "duration_ms": 230819,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "La Hora De La Verdad",
-        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 234426,
-      "name": "Sandunga",
-      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Con El Machete En La Mano",
         "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
       },
@@ -1511,6 +1515,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "La Hora De La Verdad",
+        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "Sandunga",
+      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1567,22 +1587,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "No Me Veran Caer",
-        "url": "https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8"
-      },
-      "artists": [
-        {
-          "name": "Barbosa",
-          "url": "https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "No Me Veran Caer",
-      "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
       },
@@ -1599,18 +1603,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Re-Haciendo La Historia-Los Exitos!",
-        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
+        "name": "No Me Veran Caer",
+        "url": "https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8"
       },
       "artists": [
         {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+          "name": "Barbosa",
+          "url": "https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG"
         }
       ],
-      "duration_ms": 297773,
-      "name": "Me Miras Y Te Miro",
-      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
+      "duration_ms": 222426,
+      "name": "No Me Veran Caer",
+      "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1631,6 +1635,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Re-Haciendo La Historia-Los Exitos!",
+        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "Me Miras Y Te Miro",
+      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Out of Control",
         "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
       },
@@ -1643,22 +1663,6 @@
       "duration_ms": 327346,
       "name": "Te Gusta Eh",
       "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "\u00a1Que Vaina!",
-        "url": "https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS"
-      },
-      "artists": [
-        {
-          "name": "Francisco Ulloa",
-          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
     }
   ],
   "unique_name": "Merengue Mania",

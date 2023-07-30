@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Calvin Harris, Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,664 likes - 111 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,678 likes - 111 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 48 | [DAMELO](https://open.spotify.com/track/0Z8yXdMaoKymfgPGJG0hFH) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy) | [DAMELO](https://open.spotify.com/album/4WjVPEkqwJ7GfRpJWJ03I6) | 3:05 |
 | 49 | [BABYBLUE](https://open.spotify.com/track/2XXqif9cTOJnogmYoz6yGf) | [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O), [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [BABYBLUE](https://open.spotify.com/album/19FUhiMpD1GCeG18jdNARI) | 2:35 |
 | 50 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
-| 51 | [idk \- 对等关系](https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH) | [甄济如](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [idk \(对等关系\)](https://open.spotify.com/album/47Hs3pPi2kMdSLreGBGTEw) | 2:41 |
+| 51 | [idk](https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [idk](https://open.spotify.com/album/47Hs3pPi2kMdSLreGBGTEw) | 2:41 |
 | 52 | [Odp](https://open.spotify.com/track/2TL8ebhjU3ZM6ateAJTTWe) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [Odp](https://open.spotify.com/album/1rBmBWlXqElANcDgcjFfcP) | 4:20 |
 | 53 | [Bad Politician](https://open.spotify.com/track/1PKSZ9viP53MkqwSDcNX2w) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Bad Politician](https://open.spotify.com/album/4MlrUQxBBQGOf31RciUPh6) | 3:35 |
 | 54 | [Can I Fly](https://open.spotify.com/track/7CrgjWBJCHx7HnBH58swkW) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Evol](https://open.spotify.com/album/5HHoebNadPA58uamidwMJH) | 4:59 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 |
 | 111 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 
-Snapshot ID: `MCw5NTUwMTdkOTc4NjY5ZDE2ZDhmNTI4YzY4MDMzY2JjZGFhYWFmNWNm`
+Snapshot ID: `MCxmNzliZWM3MGMxY2EzYzJlOGNjNWZmNGYyZDcxNzFjZDJhMDk5ZTdj`

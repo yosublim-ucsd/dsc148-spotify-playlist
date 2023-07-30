@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 238794,
+  "num_followers": 238826,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk",
+  "snapshot_id": "MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1",
   "tracks": [
     {
       "added_at": "2023-02-27 20:56:19",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-02-27 20:56:19",
       "album": {
-        "name": "Tachikawa",
-        "url": "https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6WE",
-          "url": "https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI"
-        },
-        {
-          "name": "Lazy Noodles",
-          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Tachikawa",
-      "url": "https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM"
-    },
-    {
-      "added_at": "2023-02-27 20:56:19",
-      "album": {
         "name": "scenes I",
         "url": "https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 250344,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx"
+    },
+    {
+      "added_at": "2023-02-27 20:56:19",
+      "album": {
+        "name": "Tachikawa",
+        "url": "https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6WE",
+          "url": "https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "Tachikawa",
+      "url": "https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM"
     },
     {
       "added_at": "2023-02-27 20:56:19",

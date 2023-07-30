@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,714 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,866 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 53 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 54 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 55 | [Keep Going](https://open.spotify.com/track/3XSK1XTq9e6WgG4Sfhw4fL) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:03 |
-| 56 | [Never Loved You Like That](https://open.spotify.com/track/3eaya4A2mIUwmiQo3TcpSi) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [GIGANTIC NGHTMRE EP](https://open.spotify.com/album/3dxmYqwwE8QWlNBoZXl2u8) | 3:27 |
+| 56 | [Never Loved You Like That](https://open.spotify.com/track/3eaya4A2mIUwmiQo3TcpSi) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [GIGANTIC NGHTMRE](https://open.spotify.com/album/3dxmYqwwE8QWlNBoZXl2u8) | 3:27 |
 | 57 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 |
 | 58 | [$$$$](https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [$$$$](https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv) | 2:30 |
 | 59 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 93 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 94 | [Natural Disaster](https://open.spotify.com/track/6TODc3kSKReFGryDNCHUbR) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/4wiAcRUnwqGvAwKdZ7fLM3) | 3:38 |
 | 95 | [Free](https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Free](https://open.spotify.com/album/5OqDTCl0cicYgB031QCNAe) | 3:39 |
-| 96 | [What U Don't Know \(with Destin Laurel\)](https://open.spotify.com/track/2pS5hwMui1kJOUJt7KgWMg) | [XLOVCLO](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si), [Destin Laurel](https://open.spotify.com/artist/3x9Z1md33eENgkScqvJCDB) | [What U Don't Know](https://open.spotify.com/album/39PtSuJVMoy7zC1RhTuDpL) | 2:33 |
+| 96 | [What U Don't Know \(with Destin Laurel\)](https://open.spotify.com/track/2pS5hwMui1kJOUJt7KgWMg) | [XLOVCLO](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si), [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [What U Don't Know](https://open.spotify.com/album/39PtSuJVMoy7zC1RhTuDpL) | 2:33 |
 | 97 | [BACK 2 U](https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [BACK 2 U](https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w) | 2:40 |
 | 98 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 |
 | 99 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 |
 | 100 | [radar](https://open.spotify.com/track/6IRdJtaVyL4bgGWgubnPoX) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/43UCisFX7ydBuBK24RQlur) | 2:22 |
 
-Snapshot ID: `MCwwYzBjM2NlMGQwNzFiZjBiOTE0MTc3NzM4MTBhYTlmZGM1ZDlhZWU0`
+Snapshot ID: `MCxhMTgzYTg2NmZjYjExNjdlNTY2NjUwNjBkNmI5MjhiNmU4NTcwNDBi`

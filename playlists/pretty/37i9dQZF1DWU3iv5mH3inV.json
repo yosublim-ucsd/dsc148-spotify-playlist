@@ -1,12 +1,12 @@
 {
   "description": "Dembow dominicano to el d\u00eda. Foto: Chimbala",
-  "num_followers": 90020,
+  "num_followers": 90090,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzVhOWJiYjQ1ZjkzNDAyYWYwNDc1ZjQ5ODU5MGM5YWY4NWI5MWUy",
+  "snapshot_id": "MCxkNGMwNDliNTdmZDMxNmFjYzg2MzM3YTRkODljNGJlMjEzZTIxMGMy",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Colombiana",
+        "url": "https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "De Kabra A Tiguere",
         "url": "https://open.spotify.com/album/2sPIMpTiFft4Hkh81Qkeml"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 141734,
       "name": "De Kabra A Tiguere",
       "url": "https://open.spotify.com/track/2tYAhcLaNAogPhIUO5ksdT"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Colombiana",
-        "url": "https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "Colombiana",
-      "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -822,6 +822,10 @@
         {
           "name": "Doble T y El Crok Los Pepes",
           "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        },
+        {
+          "name": "El Crok",
+          "url": "https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj"
         }
       ],
       "duration_ms": 245815,
@@ -1381,6 +1385,30 @@
       "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Mucha Nota",
+        "url": "https://open.spotify.com/album/72ApAp8ut9YkQXy1jtkuau"
+      },
+      "artists": [
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Mucha Nota",
+      "url": "https://open.spotify.com/track/4zFwxrNKotK3UDnVxGVU23"
+    },
+    {
       "added_at": "2023-05-26 20:55:47",
       "album": {
         "name": "Tony (feat. Afro Nigga)",
@@ -1407,30 +1435,6 @@
       "duration_ms": 228004,
       "name": "Tony (feat. Afro Nigga)",
       "url": "https://open.spotify.com/track/24EPIb6Iiuc4l6Iw0dCkfF"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Mucha Nota",
-        "url": "https://open.spotify.com/album/72ApAp8ut9YkQXy1jtkuau"
-      },
-      "artists": [
-        {
-          "name": "Aleica",
-          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Mucha Nota",
-      "url": "https://open.spotify.com/track/4zFwxrNKotK3UDnVxGVU23"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1643,22 +1647,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
-      },
-      "artists": [
-        {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "La Libreta",
         "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
       },
@@ -1699,6 +1687,22 @@
       "duration_ms": 184398,
       "name": "Ven",
       "url": "https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1751,26 +1755,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Mueve Eso",
-        "url": "https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 142862,
-      "name": "Mueve Eso",
-      "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Tu Cojea (Remix)",
         "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
       },
@@ -1803,6 +1787,26 @@
       "duration_ms": 244916,
       "name": "Tu Cojea - Remix",
       "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Mueve Eso",
+        "url": "https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        }
+      ],
+      "duration_ms": 142862,
+      "name": "Mueve Eso",
+      "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1979,6 +1983,26 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Despues del Party (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25nhzMAtLnwyImNJGSV8RR"
+      },
+      "artists": [
+        {
+          "name": "Los Mellos On The Track",
+          "url": "https://open.spotify.com/artist/5wbd1nUWIetX7i1ztlDIsd"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Despues del Party (feat. El Nene La Amenaza)",
+      "url": "https://open.spotify.com/track/29FsQIukzUJViiM0nPah6a"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Punto 40 (Remix)",
         "url": "https://open.spotify.com/album/7AV4r4VWWF9eDsFtAIS4pc"
       },
@@ -2019,26 +2043,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Despues del Party (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25nhzMAtLnwyImNJGSV8RR"
-      },
-      "artists": [
-        {
-          "name": "Los Mellos On The Track",
-          "url": "https://open.spotify.com/artist/5wbd1nUWIetX7i1ztlDIsd"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Despues del Party (feat. El Nene La Amenaza)",
-      "url": "https://open.spotify.com/track/29FsQIukzUJViiM0nPah6a"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Kame Hame Ha",
         "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
       },
@@ -2059,6 +2063,22 @@
       "duration_ms": 203358,
       "name": "Kame Hame Ha",
       "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Sin \"S\"",
+        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Telacuti",
+      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2111,22 +2131,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Sin \"S\"",
-        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Telacuti",
-      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "La Gente Ta' Loca (Remix)",
         "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
       },
@@ -2147,26 +2151,6 @@
       "duration_ms": 218487,
       "name": "La Gente Ta' Loca - Remix",
       "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Desacatate",
-        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Desacatate",
-      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2199,6 +2183,26 @@
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
       "url": "https://open.spotify.com/track/6fF4naENXsnyCaiHCctKCp"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2246,6 +2250,10 @@
         {
           "name": "Doble T y El Crok Los Pepes",
           "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        },
+        {
+          "name": "El Crok",
+          "url": "https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj"
         }
       ],
       "duration_ms": 209989,
@@ -2267,6 +2275,26 @@
       "duration_ms": 276387,
       "name": "Mi Cumplea\u00f1o",
       "url": "https://open.spotify.com/track/6pqh2p7TCSu7zLt42CLmwE"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Primero Que Kanye",
+        "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Light GM",
+          "url": "https://open.spotify.com/artist/3rSw7umKFLoUIP95mKQG5f"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "Primero Que Kanye",
+      "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2295,26 +2323,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Primero Que Kanye",
-        "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Light GM",
-          "url": "https://open.spotify.com/artist/3rSw7umKFLoUIP95mKQG5f"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "Primero Que Kanye",
-      "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Reverencia H\u00e1ganme",
         "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
       },
@@ -2327,6 +2335,22 @@
       "duration_ms": 229368,
       "name": "No Me Friso",
       "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Teachan",
+        "url": "https://open.spotify.com/album/1RPnMwzMdbkmDRAAinX1Ng"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Teachan",
+      "url": "https://open.spotify.com/track/3DaL688NoYxesmyFq0cSmL"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2351,22 +2375,6 @@
       "duration_ms": 183066,
       "name": "Zumba (feat. Yomel El Meloso & Tivi Gunz)",
       "url": "https://open.spotify.com/track/5gRslx9ORG3Au16BcR2Df5"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Teachan",
-        "url": "https://open.spotify.com/album/1RPnMwzMdbkmDRAAinX1Ng"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Teachan",
-      "url": "https://open.spotify.com/track/3DaL688NoYxesmyFq0cSmL"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2439,6 +2447,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O"
+      },
+      "artists": [
+        {
+          "name": "Principe Baru",
+          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
+        }
+      ],
+      "duration_ms": 219951,
+      "name": "La Lata",
+      "url": "https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Normalito",
         "url": "https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS"
       },
@@ -2455,22 +2479,6 @@
       "duration_ms": 216439,
       "name": "Normalito",
       "url": "https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O"
-      },
-      "artists": [
-        {
-          "name": "Principe Baru",
-          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
-        }
-      ],
-      "duration_ms": 219951,
-      "name": "La Lata",
-      "url": "https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2539,22 +2547,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Edici\u00f3n de Lujo",
-        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Durisimo",
-      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "En Nota",
         "url": "https://open.spotify.com/album/5ptlZw4xjZ0P5c7EAs72jM"
       },
@@ -2571,6 +2563,22 @@
       "duration_ms": 171750,
       "name": "En Nota",
       "url": "https://open.spotify.com/track/20Q3Oyu7B8C5CQklLSKha3"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Edici\u00f3n de Lujo",
+        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Durisimo",
+      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2867,26 +2875,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Yo Lo Cojo",
-        "url": "https://open.spotify.com/album/5cghx4B50p7CpM3uO3AVF5"
-      },
-      "artists": [
-        {
-          "name": "La Manta",
-          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
-        },
-        {
-          "name": "Yomel el Meloso",
-          "url": "https://open.spotify.com/artist/2qdnRKcNyUSQ5D0wDjqmSj"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Yo Lo Cojo",
-      "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "La Gomita",
         "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
       },
@@ -2923,6 +2911,26 @@
       "duration_ms": 125193,
       "name": "Ma Me Mi Mo Mu",
       "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Yo Lo Cojo",
+        "url": "https://open.spotify.com/album/5cghx4B50p7CpM3uO3AVF5"
+      },
+      "artists": [
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        },
+        {
+          "name": "Yomel el Meloso",
+          "url": "https://open.spotify.com/artist/2qdnRKcNyUSQ5D0wDjqmSj"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Yo Lo Cojo",
+      "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"
     },
     {
       "added_at": "2023-05-26 20:55:47",

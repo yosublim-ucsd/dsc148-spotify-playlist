@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 63148,
+  "num_followers": 63164,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjhjOWRkY2VkOGRlYWZkYmI1OTA5ZTc4ODk3ODQ0Mjc2YmUzNTRm",
+  "snapshot_id": "MCw1MWQxZGNmOTdmNTJmNWM1Y2E1YjAwZmE5NDgzOWRlZjRlOTc5NzVl",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Solo Dios lo Sabe",
         "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 252782,
       "name": "Tennessecito",
       "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Nunca Me Voy a Ir",
         "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Y Si Patinan?",
-        "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
       },
       "artists": [
         {
-          "name": "Skates Mx",
-          "url": "https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv"
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Siempre Fuerte",
-      "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "No Digas Lo Siento",
+        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "No Digas Lo Siento",
+      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
     }
   ],
   "unique_name": "Escena Pop Punk",

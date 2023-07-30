@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,652 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,653 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCwwZjhlZTZhNzJmMGYxOGUyM2EwNjdiMTg1MzQ1NTYzYzg3NDMyNzNk`
+Snapshot ID: `MCw5YmQ4Y2RmNmEyZTBhZThkNDRjOWM3NTFjOGU4NTU0NjBjMzIxNDVj`

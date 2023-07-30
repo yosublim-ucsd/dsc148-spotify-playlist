@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18638,
+  "num_followers": 18643,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjA1MWI4NzljNGZhZDhhOGYyNTlhNWM2MmQ4M2YwYTI5MGM0OWRj",
+  "snapshot_id": "MCwyNTQyMjkzYzRlNDNhMGI4NTAyYmZhY2QzODEzYjFjMWM0NTI2ODQ5",
   "tracks": [
     {
       "added_at": "2023-07-28 18:57:29",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Deseo Permanente",
         "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Modernica",
-        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
-      },
-      "artists": [
-        {
-          "name": "Soy Irracional",
-          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Mordisco",
-      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "Modernica",
+        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
+      },
+      "artists": [
+        {
+          "name": "Soy Irracional",
+          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
+        }
+      ],
+      "duration_ms": 189707,
+      "name": "Mordisco",
+      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Zona de Fumadores",
         "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 91500,
       "name": "Zona de Fumadores",
       "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Egnaro",
-        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
-      },
-      "artists": [
-        {
-          "name": "Los Valses",
-          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Egnaro",
-      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "Egnaro",
+        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
+      },
+      "artists": [
+        {
+          "name": "Los Valses",
+          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Egnaro",
+      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1543,6 +1559,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -1571,22 +1603,6 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1679,26 +1695,6 @@
       "duration_ms": 229821,
       "name": "Decir Hacerlo",
       "url": "https://open.spotify.com/track/5dEn5K6lSIC8NstRLomW8j"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": "Ultravioleta",
-        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
-      },
-      "artists": [
-        {
-          "name": "mitimitis",
-          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
-        },
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Ultravioleta",
-      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
     }
   ],
   "unique_name": "6PM Indie",

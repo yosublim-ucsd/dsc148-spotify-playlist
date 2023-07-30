@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK17xtyYDId.md) - [plain]
 
 > SuperM is the Super One!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,858 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,870 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK17xtyYDId.md) - [plain]
 | 21 | [No Manners](https://open.spotify.com/track/3dJecOICXVH0e9oDU6wDyN) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 3:03 |
 | 22 | [Let’s Go Everywhere](https://open.spotify.com/track/15EuNfF8jBYElpeYWzs3WO) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Let's Go Everywhere \- Korean Air X SuperM](https://open.spotify.com/album/4TmCXHbM5HhdDWjbpMBAqR) | 3:21 |
 
-Snapshot ID: `MCw4NDAxMGI5MTc1MDU2MjUwZjI4NDE5YTA2NDM3YTJlYjFkOGE2MjZh`
+Snapshot ID: `MCxiNGU3YjM4YmFmMGRkMWMxM2NkYWIyOWM3YTI3NDYwNDY1YWQ4NTdi`

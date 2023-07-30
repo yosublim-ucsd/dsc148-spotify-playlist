@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 51563,
+  "num_followers": 51587,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjY4Yjc1YjQ3MGI1YmM1MDRlMWIwZjZjNmMxNGIzNDA5MjNjNjU1",
+  "snapshot_id": "MCxiYzY5YjcwYzkxYmRkMmY4NzAzZTg4MjlkNGFiNjgzMmU5MTBkYmZh",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
-      },
-      "artists": [
-        {
-          "name": "Mingmei Hsueh",
-          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
-        }
-      ],
-      "duration_ms": 130624,
-      "name": "Can You Feel The Love Tonight",
-      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "In the Far Away Distance",
         "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 176878,
       "name": "In the Far Away Distance",
       "url": "https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
+      },
+      "artists": [
+        {
+          "name": "Mingmei Hsueh",
+          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
+        }
+      ],
+      "duration_ms": 130624,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Traces",
-        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Onthou",
-      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 161258,
       "name": "Dreamland - Solo Piano Version",
       "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "Onthou",
+      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 146624,
       "name": "Violin Lullaby",
       "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Meditation Music Zone",
-          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+      },
+      "artists": [
+        {
+          "name": "Meditation Music Zone",
+          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "The Breath Inside the Breath",
-      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Missing Piece",
         "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 125656,
       "name": "A Missing Piece",
       "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 325400,
+      "name": "The Breath Inside the Breath",
+      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
-      },
-      "artists": [
-        {
-          "name": "Borghild Wenn",
-          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
-        }
-      ],
-      "duration_ms": 152581,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Wave After Wave EP",
         "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 186461,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
+      },
+      "artists": [
+        {
+          "name": "Borghild Wenn",
+          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
+        }
+      ],
+      "duration_ms": 152581,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
-      },
-      "artists": [
-        {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 195428,
       "name": "As She Awakens",
       "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+      },
+      "artists": [
+        {
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
       "added_at": "2021-06-24 10:58:44",

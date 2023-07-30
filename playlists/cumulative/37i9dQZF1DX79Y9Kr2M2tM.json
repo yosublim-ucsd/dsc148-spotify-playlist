@@ -1102,6 +1102,24 @@
     {
       "album": {
         "name": "Forever Means",
+        "url": "https://open.spotify.com/album/6DwEWwprdASbI7T0sI6q8v"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "Forever Means",
+      "url": "https://open.spotify.com/track/0FFFiX7StlRc865CB01DRQ"
+    },
+    {
+      "album": {
+        "name": "Forever Means",
         "url": "https://open.spotify.com/album/6VHVjHm8c0RVdeGL6qzU87"
       },
       "artists": [
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 207933,
       "name": "Forever Means",
       "url": "https://open.spotify.com/track/2OGXIpzLiNf1aKvoEjnNRR"

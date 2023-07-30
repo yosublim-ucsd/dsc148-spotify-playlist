@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,095 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,163 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 9 | [Feridas Abertas](https://open.spotify.com/track/6S00iFG7VSum4SgXoNXha8) | [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Feridas Abertas](https://open.spotify.com/album/4bxhpFYA9ixhMcSj7Ahx2D) | 3:35 |
 | 10 | [BANDIDOS TAMBÉM AMAM](https://open.spotify.com/track/2mzgrPejhEC7UbvdtL7YyF) | [Saint Clair](https://open.spotify.com/artist/7atjAkSf2uJDdvAbjcrIGf), [Erridablio](https://open.spotify.com/artist/5MfiNK0zMxqkHGH0WHOeju) | [BANDIDOS TAMBÉM AMAM](https://open.spotify.com/album/3T2f22DeTQ660HLHMMu0Ws) | 1:12 |
 | 11 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
-| 12 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
+| 12 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
 | 13 | [41](https://open.spotify.com/track/1kg0eQ4RkEzdQTICEDthS0) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [41](https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X) | 3:23 |
 | 14 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
 | 15 | [Deu Vontade](https://open.spotify.com/track/1FVoxlwihhdlnxiz9Xym6e) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI) | [Deu Vontade](https://open.spotify.com/album/2w80JBvjFtVAtK3ZgKRcgx) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCw1NGZhNmUwZjFiNjkyMTU4NGE3YzQ3NjY2Y2E3ZGZiZTlkZThmNGEz`
+Snapshot ID: `MCw0ZmIwYTYxNDI2NGFhNGZlYTU5NmNiZWQ1NzcwYTY4ODU1NzVlODJj`

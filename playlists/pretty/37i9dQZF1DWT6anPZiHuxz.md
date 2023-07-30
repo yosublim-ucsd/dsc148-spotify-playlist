@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,720 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,849 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 16 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 |
 | 17 | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \- Sofi Tukker Remix](https://open.spotify.com/track/5js0S06HeHofz7ZtlXV7In) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \[Sofi Tukker Remix\]](https://open.spotify.com/album/5cCmg8456rs4GJehZTqkCa) | 3:08 |
 | 18 | [Never Gonna Not Dance Again \- Sam Feldt Remix](https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Never Gonna Not Dance Again \(Sam Feldt Remix\)](https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J) | 2:47 |
-| 19 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
-| 20 | [Padam Padam \- Jax Jones Remix](https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ) | 3:24 |
+| 19 | [Padam Padam \- Jax Jones Remix](https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ) | 3:24 |
+| 20 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 21 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
 | 22 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
 | 23 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [New \- Ryan Riback Remix](https://open.spotify.com/track/6bdZCqyQeoYp7AkdWK1eeb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [New \(Ryan Riback Remix\)](https://open.spotify.com/album/7HjLbfxU3GXwWEanY6pXGj) | 3:26 |
 | 50 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
 
-Snapshot ID: `MCwwNmQ3YmU3MzJjZWExMTFlODZkNmMzNTI0OWU3MTgwNjc1ZjYzODhl`
+Snapshot ID: `MCxiMzczYTA1NzA5NThmMmY4MWRkNmUyMWI4MTk2MTJiZDFhYjUxYWM5`

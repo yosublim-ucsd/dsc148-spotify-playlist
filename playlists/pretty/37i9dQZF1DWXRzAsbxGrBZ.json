@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 24044,
+  "num_followers": 24145,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1",
+  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -391,6 +375,38 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -415,22 +431,6 @@
       "duration_ms": 430538,
       "name": "Ingoma - Original Mix",
       "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -527,6 +511,38 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -607,22 +623,6 @@
       "duration_ms": 436551,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
-      },
-      "artists": [
-        {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
-        }
-      ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Joyful Music, Vol. 1 (Compiled)",
         "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
+      },
+      "artists": [
+        {
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+        },
+        {
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
+        }
+      ],
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2023-05-12 07:57:53",

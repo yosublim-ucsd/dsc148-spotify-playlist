@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,477 likes - 79 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 79 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 78 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
 | 79 | [Hello](https://open.spotify.com/track/0u1GbGTf8juGD77G7KuTq3) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Hello](https://open.spotify.com/album/29wsaI4QogsPd6eAuaWJrO) | 2:33 |
 
-Snapshot ID: `MCw5YWRjMWNlMmM0YTcwMzkxNDM3YWQ4OTMzODYwYTYxYjVkMDg4YjNk`
+Snapshot ID: `MCw2ZGVlOGFmMjZkMjlmOWE0MWNjNjUyNGE1MmJjY2MzMGU4YmJhNThh`

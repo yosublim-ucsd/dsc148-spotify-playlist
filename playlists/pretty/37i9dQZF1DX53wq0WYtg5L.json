@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 543681,
+  "num_followers": 543756,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTkwY2FhNTdmNTJiN2E4MTk3MTViOTRlZjEzNzc2ZjJmYjAxYjBl",
+  "snapshot_id": "MCw2MGNlYWNkYjY2NjcxYWFiNDE5MzY5MjBmYjA2NTNhMDJmNGUxMWYz",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Canta a su tierra",
-        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV"
       },
       "artists": [
         {
-          "name": "Mariachi Jalisco",
-          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 176844,
-      "name": "El Son de Mi Tierra",
-      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
+      "duration_ms": 200053,
+      "name": "100% Mexicano",
+      "url": "https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "100% Mexicano",
-        "url": "https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV"
+        "name": "Canta a su tierra",
+        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Mariachi Jalisco",
+          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
         }
       ],
-      "duration_ms": 200053,
-      "name": "100% Mexicano",
-      "url": "https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n"
+      "duration_ms": 176844,
+      "name": "El Son de Mi Tierra",
+      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Fiesta Charra",
-      "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Mariachi Silvestre Vargas",
         "url": "https://open.spotify.com/album/16GU1dTM2NQHmwLIuzbPfv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 191346,
       "name": "El mariachi",
       "url": "https://open.spotify.com/track/3vvl3l4JPI02gAFClBz9s6"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Fiesta Charra",
+      "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Rub\u00e9n Fuentes, Miguel Mart\u00ednez, Silvestre Vargas",
-        "url": "https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "La Verdolaga (Huapango)",
-      "url": "https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Aires de Mexico",
         "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 167836,
       "name": "All\u00e1 en el Rancho Grande",
       "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Rub\u00e9n Fuentes, Miguel Mart\u00ednez, Silvestre Vargas",
+        "url": "https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "La Verdolaga (Huapango)",
+      "url": "https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",

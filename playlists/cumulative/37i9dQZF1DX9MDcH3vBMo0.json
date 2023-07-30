@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-30",
       "duration_ms": 154291,
       "name": "Just a Thought",
       "url": "https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG"
@@ -6354,6 +6354,24 @@
       "duration_ms": 167153,
       "name": "Najma",
       "url": "https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi"
+    },
+    {
+      "album": {
+        "name": "Postkaarten",
+        "url": "https://open.spotify.com/album/75jJdYhqxDnTeFAAaWtSED"
+      },
+      "artists": [
+        {
+          "name": "Sheisa Buraku",
+          "url": "https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Nevel op het water",
+      "url": "https://open.spotify.com/track/2xrAPUVXZ9Fx3Db3F3BR6r"
     },
     {
       "album": {

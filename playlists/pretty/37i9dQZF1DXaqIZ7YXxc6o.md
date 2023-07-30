@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Calvin Harris & Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,751 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,760 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 27 | [Challenger](https://open.spotify.com/track/06ZbjaNJQtCyd5nues7Hgr) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Challenger](https://open.spotify.com/album/5uOK9IXnfbgPnivh7fFf8x) | 3:46 |
 | 28 | [Lick Stamps](https://open.spotify.com/track/1yjNHdREEsMpNRSGOcwHa9) | [Kalou](https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu) | [Maybe, It's Me](https://open.spotify.com/album/1SqMZheGoPXlKUYSRHzT9k) | 3:18 |
 | 29 | [i'm in love](https://open.spotify.com/track/2K5GNprFk4Rq3hHE8RcQfx) | [Hundaes](https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt) | [hundaes sine journal 3](https://open.spotify.com/album/7oRbchJEdt7m1sMrRw9o3a) | 1:29 |
-| 30 | [We Burn](https://open.spotify.com/track/3SK6BAxWE3rzQO7NYSfaWD) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg), [Jezzabell Doran](https://open.spotify.com/artist/1jzEk1yLcuoJvQUbfbDRCp) | [We Burn](https://open.spotify.com/album/68tSYqBPe07bb1ql0QisG0) | 2:47 |
+| 30 | [We Burn](https://open.spotify.com/track/3SK6BAxWE3rzQO7NYSfaWD) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [We Burn](https://open.spotify.com/album/68tSYqBPe07bb1ql0QisG0) | 2:47 |
 | 31 | [Amore](https://open.spotify.com/track/5u5PGFFfzckx0TDik6R7g5) | [TJIG](https://open.spotify.com/artist/3vmEX0eXfDPT56vevkxflT), [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM) | [Amore](https://open.spotify.com/album/5joIeweu1udL2EJqjKljfF) | 2:52 |
 | 32 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 |
 | 33 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [I Wish I Was In Ibiza](https://open.spotify.com/track/2nGQhIedkKopZFnUeP5QMe) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [I Wish I Was In Ibiza](https://open.spotify.com/album/5HV4Vd94d1ofIupXX4sKko) | 3:08 |
 | 99 | [Make It Right \(Matt Nugent Remix\)](https://open.spotify.com/track/73lqadUDvkR4646rIF9ty1) | [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU), [Matt Nugent](https://open.spotify.com/artist/5ig7cMHdw8M9NdREUMTtme) | [Make It Right \(Matt Nugent Remix\)](https://open.spotify.com/album/03Ui4jdf5WSScMqrxuR8sb) | 2:49 |
 
-Snapshot ID: `MCw4ZGNlYzg2NGU1Y2Q1Mjg1NTIzNjc1ODA3NGViYjE4MjE4OGM1MTVk`
+Snapshot ID: `MCxmNWFlOTA3ZGY2NjY2YWQxOGRjYjE2Y2EwNDlkYjg5NjZkOGVkOWZh`

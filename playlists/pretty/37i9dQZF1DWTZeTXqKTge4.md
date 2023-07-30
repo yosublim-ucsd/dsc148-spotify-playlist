@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,207 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,216 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 2 | [I love U](https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:47 |
 | 3 | [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 |
 | 4 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 |
-| 5 | [Red Lights](https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Red Lights](https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e) | 3:51 |
+| 5 | [Led Lights](https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Led Lights](https://open.spotify.com/album/4nsp2Vm16IarlfbIaihW8e) | 3:51 |
 | 6 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 |
 | 7 | [Risques & Hustle](https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Toujours pas mort \- E.P.](https://open.spotify.com/album/5Nr5o553FALmH6SQLmGCCe) | 3:47 |
 | 8 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 |
 | 75 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
 
-Snapshot ID: `MCwzY2E5NDNlYWNiZTQxMWJiMDYxOGY3NTg1MDk0YWViZGFhZjNhMDM5`
+Snapshot ID: `MCxmNWJlYWUyYjk4YzczMDE1MDY1YzU5YjI5OGNjNTQzYmNjY2UyNjk3`

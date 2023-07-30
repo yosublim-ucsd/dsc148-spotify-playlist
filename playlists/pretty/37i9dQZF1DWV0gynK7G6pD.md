@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: MILOŠ
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,559 likes - 55 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,593 likes - 55 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 54 | [SAR](https://open.spotify.com/track/0obKV2sIBe7OUbHu5xrIga) | [Martin Jaggi](https://open.spotify.com/artist/1fmhxInJRqFv2YDtHtOmJ2), [Maja Weber](https://open.spotify.com/artist/3cFv9a6YTnoNteeq6A28TE) | [Jaggi: SAR](https://open.spotify.com/album/1FcrRrWqq9aEpBqRrbl6ah) | 6:28 |
 | 55 | [6 Romances sans paroles, Op\. 76: No\. 6, Meditation](https://open.spotify.com/track/4sDEids9gCkkbQWEIG20lx) | [Cécile Chaminade](https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk), [Ubaldo Rosso](https://open.spotify.com/artist/0YPYMuL5BYqPYjOe5qkso4), [Andrea Vigna\-Taglianti](https://open.spotify.com/artist/0A7RZz4W8jUyMEzcoLf6I1) | [Chaminade: 6 Romances sans paroles, Op\. 76: No\. 6, Meditation](https://open.spotify.com/album/4RabTYmhHN7ZycU5OCQW2E) | 3:35 |
 
-Snapshot ID: `MCxlN2E0Yjc4YTNiZmFmYmRiNTc3M2Q2ODYxZThlMmJmOWRmZTcxMWJm`
+Snapshot ID: `MCw4MzY2NDRjMzIzMDJlMzcwOWQ5M2I0ZWYyNWM3NzQ5MjEwOGJkMDJm`

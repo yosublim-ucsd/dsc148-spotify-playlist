@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 47857,
+  "num_followers": 47883,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDljMGRjMTZiY2QwM2JhODMyMTAwZGJlYzU4YzZlMzAzMDM3ODM3",
+  "snapshot_id": "MCw3NTAwNDQxOTkxMGM0NWQ4NGE0Y2YyNDU2ZjU2YzQwOGJkMTJmMTJi",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:21",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 272662,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
         "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
         "url": "https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 296426,
       "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
       "url": "https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 272662,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
-      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "[04]",
         "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220003,
       "name": "Like A Bird",
       "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
+      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Bit by Bit, Slowly, To You",
-        "url": "https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Bit by Bit, Slowly, To You",
-      "url": "https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "Bit by Bit, Slowly, To You",
+        "url": "https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Bit by Bit, Slowly, To You",
+      "url": "https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
+        "name": "Night Mood",
+        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 194573,
       "name": "We don\u2019t talk (Feat. CHEEZE)",
       "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
-        "name": "Night Mood",
-        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "Blue Mangtto",
-          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Rainy Apgujeong",
-        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
-      },
-      "artists": [
-        {
-          "name": "YOON GUN",
-          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
-        },
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 274030,
-      "name": "Rainy Apgujeong",
-      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "Rainy Apgujeong",
+        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
+      },
+      "artists": [
+        {
+          "name": "YOON GUN",
+          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+        },
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 274030,
+      "name": "Rainy Apgujeong",
+      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

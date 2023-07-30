@@ -3726,7 +3726,7 @@
     {
       "album": {
         "name": "better outside",
-        "url": "https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5"
+        "url": "https://open.spotify.com/album/1zGUJO8gfWtISByeVTIj1w"
       },
       "artists": [
         {
@@ -3741,6 +3741,28 @@
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198000,
+      "name": "better outside",
+      "url": "https://open.spotify.com/track/4uzBtvdU1gZ8jMSYkSUZeZ"
+    },
+    {
+      "album": {
+        "name": "better outside",
+        "url": "https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5"
+      },
+      "artists": [
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        },
+        {
+          "name": "Chris Moon",
+          "url": "https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
       "duration_ms": 198000,
       "name": "better outside",
       "url": "https://open.spotify.com/track/7fhe5bUjmWgYs0dxjRhQtk"

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6426\)
+## Playlists \(6433\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2851,7 +2851,12 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Long Distance](/playlists/pretty/37i9dQZF1DWTaHkGYBpGRM.md)
 - [Long Live DnB](/playlists/pretty/37i9dQZF1DXbouKezIgSHE.md)
 - [Lorem](/playlists/pretty/37i9dQZF1DXdwmD5Q7Gxah.md)
+- [Los 2000 Argentina](/playlists/pretty/37i9dQZF1DWZzPn1Y1VEWq.md)
 - [Los 2000 México](/playlists/pretty/37i9dQZF1DWVuVYbdq3h1k.md)
+- [Los 2010 Argentina](/playlists/pretty/37i9dQZF1DXc1fXOgOgW7C.md)
+- [Los 70 Argentina](/playlists/pretty/37i9dQZF1DX8uOqczKiNnG.md)
+- [Los 80 Argentina](/playlists/pretty/37i9dQZF1DWUSRkJxO1RgW.md)
+- [Los 90 Argentina](/playlists/pretty/37i9dQZF1DX8KUmmjlkOod.md)
 - [Los 90 México](/playlists/pretty/37i9dQZF1DWZfQQ5UXqF0s.md)
 - [Los Chilaquiles](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md)
 - [Los Gallos](/playlists/pretty/37i9dQZF1DX5moeZr1JWKb.md)
@@ -6424,6 +6429,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [告別前](/playlists/pretty/37i9dQZF1DWYCBGFNlTmIS.md)
 - [呪術廻戦 \- Jujutsu Kaisen \-](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md)
 - [声優、歌う \-Sing Like Talking\-](/playlists/pretty/37i9dQZF1DXc7RvXTzD4rW.md)
+- [夕方ジェネレーション](/playlists/pretty/37i9dQZF1DXdxPR0maUKqu.md)
 - [大石昌良 Masayoshi Oishi Works](/playlists/pretty/37i9dQZF1DX0j8ATpV1eln.md)
 - [天籟美聲](/playlists/pretty/37i9dQZF1DWXxk55r8Lbgr.md)
 - [太陽を見てしまった](/playlists/pretty/37i9dQZF1DX1KJ0jRmRVDZ.md)
@@ -6453,6 +6459,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [都会の空と音楽と](/playlists/pretty/37i9dQZF1DWTbkKlc06FmH.md)
 - [鋼の錬金術師 FULLMETAL ALCHEMIST / FULLMETAL ALCHEMIST BROTHERHOOD](/playlists/pretty/37i9dQZF1DX6EruMUbdfEp.md)
 - [雨中旋律](/playlists/pretty/37i9dQZF1DX4NBorsTLJKk.md)
+- [青春と一瞬](/playlists/pretty/37i9dQZF1DX889DuwlJCDK.md)
 - [静寂と黄昏](/playlists/pretty/37i9dQZF1DX0pBYcA3qddJ.md)
 - [香港散步](/playlists/pretty/37i9dQZF1DX3lmnsqvYpgD.md)
 - [龍が如く \-Yakuza: Like a Dragon\-](/playlists/pretty/37i9dQZF1DX40xbLWvaxZD.md)

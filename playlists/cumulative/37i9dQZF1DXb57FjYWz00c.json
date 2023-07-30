@@ -2669,24 +2669,6 @@
     },
     {
       "album": {
-        "name": "Vital Idol",
-        "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "date_added": "2022-01-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 505093,
-      "name": "White Wedding (Parts 1 And 2) - Shotgun Mix / 24-Bit Digitally Remastered 2001",
-      "url": "https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m"
-    },
-    {
-      "album": {
         "name": "Rock and Roll Classics",
         "url": "https://open.spotify.com/album/2BHqKirk8D8kvs1YrnuheI"
       },
@@ -2702,6 +2684,24 @@
       "duration_ms": 505093,
       "name": "White Wedding (Parts 1 And 2) - Shotgun Mix / 24-Bit Digitally Remastered 2001",
       "url": "https://open.spotify.com/track/7EijhywiaX07rx8g656Wgu"
+    },
+    {
+      "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505093,
+      "name": "White Wedding (Pts. 1 & 2) - Shotgun Mix / Remastered 2001",
+      "url": "https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m"
     },
     {
       "album": {

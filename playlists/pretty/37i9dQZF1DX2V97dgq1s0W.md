@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,444 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,613 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 80 | [3 of Us](https://open.spotify.com/track/6zFcETrfVYpqo46Ffqv6PP) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:56 |
 | 81 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/3VaXsRs2d64G2h36ekyB7c) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 4:18 |
 
-Snapshot ID: `MCwxZDM4MGFlNWU0NGJlODY1NjIzNjViNjg3ZWQ2M2I2ZTc0ZmRhODJi`
+Snapshot ID: `MCw2NGJiNzJkMzhiYjY1OWEwZjZiMzQzYWNjODAyNjlmYmNmMDM5Nzdl`

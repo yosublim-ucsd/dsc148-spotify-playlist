@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjU1YjI2YWE1ZDk4YWI2MWY4OWQ3MzVkZDI4MjI5MTE4OTg1NGQz",
+  "snapshot_id": "MCw0MjVkZmU5YTRmM2UzMzRjMTQ5NGIwNzY0MDBjMjZkZWEwYzYyNDVm",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Piece Peace",
-        "url": "https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV"
-      },
-      "artists": [
-        {
-          "name": "Sean Eastman",
-          "url": "https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint"
-        }
-      ],
-      "duration_ms": 168379,
-      "name": "Piece Peace",
-      "url": "https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "When Hearts Turn Blue",
         "url": "https://open.spotify.com/album/1f6jrrjOGTM7mGcOS8lbrT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 135463,
       "name": "When Hearts Turn Blue",
       "url": "https://open.spotify.com/track/7nsHRk3Dbx5tj8ya1Vw1eF"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Piece Peace",
+        "url": "https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV"
+      },
+      "artists": [
+        {
+          "name": "Sean Eastman",
+          "url": "https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint"
+        }
+      ],
+      "duration_ms": 168379,
+      "name": "Piece Peace",
+      "url": "https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Fly Me To The Moon",
-        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
-      },
-      "artists": [
-        {
-          "name": "Ward Stetson",
-          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Is that happened?",
         "url": "https://open.spotify.com/album/3gZqqXn69wrOmMGANIVzg5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 179237,
       "name": "Is that happened?",
       "url": "https://open.spotify.com/track/5SGkGXLO0vVwWsD94GE4wH"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Too Young To Go Steady",
-        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
-      },
-      "artists": [
-        {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Box Of Photos",
         "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Too Young To Go Steady",
+        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/3bMoWdrQYKVgGklRZVdDXv"
-      },
-      "artists": [
-        {
-          "name": "Marc Leigh",
-          "url": "https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY"
-        }
-      ],
-      "duration_ms": 206861,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/08iHceGlaOmsMpNJVuN8Ev"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Moonlight In Vermont",
         "url": "https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178868,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/3bMoWdrQYKVgGklRZVdDXv"
+      },
+      "artists": [
+        {
+          "name": "Marc Leigh",
+          "url": "https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY"
+        }
+      ],
+      "duration_ms": 206861,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/08iHceGlaOmsMpNJVuN8Ev"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA"
-      },
-      "artists": [
-        {
-          "name": "Miles Henley",
-          "url": "https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "First-rate",
         "url": "https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 194026,
       "name": "First-rate",
       "url": "https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA"
+      },
+      "artists": [
+        {
+          "name": "Miles Henley",
+          "url": "https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Nancy With The Laughing Face",
-        "url": "https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq"
-      },
-      "artists": [
-        {
-          "name": "Madeleine West",
-          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
-        }
-      ],
-      "duration_ms": 261034,
-      "name": "Nancy With The Laughing Face",
-      "url": "https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Fine And Dandy",
         "url": "https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 127012,
       "name": "Fine And Dandy",
       "url": "https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Nancy With The Laughing Face",
+        "url": "https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "duration_ms": 261034,
+      "name": "Nancy With The Laughing Face",
+      "url": "https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 208777,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Four Casinos",
         "url": "https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 148837,
       "name": "Four Casinos",
       "url": "https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 208777,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "In Love In Vain",
-        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 174239,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Still playing",
         "url": "https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174333,
       "name": "Still playing",
       "url": "https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "duration_ms": 174239,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Some kind of friend",
-        "url": "https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Morris",
-          "url": "https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx"
-        }
-      ],
-      "duration_ms": 187623,
-      "name": "Some kind of friend",
-      "url": "https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Entitled to it",
         "url": "https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207139,
       "name": "Entitled to it",
       "url": "https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Some kind of friend",
+        "url": "https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Morris",
+          "url": "https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx"
+        }
+      ],
+      "duration_ms": 187623,
+      "name": "Some kind of friend",
+      "url": "https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "It Could Happen to You",
-        "url": "https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf"
-      },
-      "artists": [
-        {
-          "name": "Maurillo",
-          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
-        }
-      ],
-      "duration_ms": 155207,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/2wn9Ltw3roFXfB1c0XFkQe"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186318,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/1DfdEGpdA0fELrmIsPAfuF"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "It Could Happen to You",
+        "url": "https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf"
+      },
+      "artists": [
+        {
+          "name": "Maurillo",
+          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
+        }
+      ],
+      "duration_ms": 155207,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1239,6 +1239,22 @@
       "duration_ms": 179562,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Now-empty",
+        "url": "https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "duration_ms": 109193,
+      "name": "Now-empty",
+      "url": "https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 232374,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Now-empty",
-        "url": "https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 109193,
-      "name": "Now-empty",
-      "url": "https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Behind The Jalousie",
-        "url": "https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Blake",
-          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
-        }
-      ],
-      "duration_ms": 194637,
-      "name": "Behind The Jalousie",
-      "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "La Luna",
         "url": "https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 146031,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Behind The Jalousie",
+        "url": "https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Blake",
+          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
+        }
+      ],
+      "duration_ms": 194637,
+      "name": "Behind The Jalousie",
+      "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 147029,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Don't Blame Me",
         "url": "https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 212163,
       "name": "Don't Blame Me",
       "url": "https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 147029,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Yours Is My Heart Alone",
-        "url": "https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Yours Is My Heart Alone",
-      "url": "https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 210365,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Yours Is My Heart Alone",
+        "url": "https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Yours Is My Heart Alone",
+      "url": "https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Easy Living",
-        "url": "https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16"
-      },
-      "artists": [
-        {
-          "name": "Lenard Lovito",
-          "url": "https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT"
-        }
-      ],
-      "duration_ms": 194447,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Nordic Dreams",
         "url": "https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 226272,
       "name": "Nordic Dreams",
       "url": "https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Easy Living",
+        "url": "https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16"
+      },
+      "artists": [
+        {
+          "name": "Lenard Lovito",
+          "url": "https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT"
+        }
+      ],
+      "duration_ms": 194447,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "My One And Only Love",
-        "url": "https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Baron",
-          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "How Long Has This Been Going On?",
         "url": "https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 171127,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "My One And Only Love",
+        "url": "https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4"
-      },
-      "artists": [
-        {
-          "name": "Grace Carey",
-          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
-        }
-      ],
-      "duration_ms": 303968,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 149933,
       "name": "Uncovered",
       "url": "https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "duration_ms": 303968,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2607,18 +2607,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz"
+        "name": "Am I the Only One?",
+        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
       "artists": [
         {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
         }
       ],
-      "duration_ms": 259991,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa"
+      "duration_ms": 177071,
+      "name": "Break My Heart, Love",
+      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2639,18 +2639,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Am I the Only One?",
-        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz"
       },
       "artists": [
         {
-          "name": "Urskogen Jazz",
-          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
         }
       ],
-      "duration_ms": 177071,
-      "name": "Break My Heart, Love",
-      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
+      "duration_ms": 259991,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2735,22 +2735,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "A Future With You",
-        "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
-      },
-      "artists": [
-        {
-          "name": "Carl Clementine",
-          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
-        }
-      ],
-      "duration_ms": 253976,
-      "name": "Juniper Leaves",
-      "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "My Roses",
         "url": "https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v"
       },
@@ -2763,6 +2747,22 @@
       "duration_ms": 131120,
       "name": "My Roses",
       "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "A Future With You",
+        "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "duration_ms": 253976,
+      "name": "Juniper Leaves",
+      "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V"
-      },
-      "artists": [
-        {
-          "name": "Ray Royston",
-          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
-        }
-      ],
-      "duration_ms": 210882,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "ballads by midnight",
         "url": "https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 280124,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V"
+      },
+      "artists": [
+        {
+          "name": "Ray Royston",
+          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
+        }
+      ],
+      "duration_ms": 210882,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm"
-      },
-      "artists": [
-        {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Strasbourg",
         "url": "https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 142103,
       "name": "Strasbourg",
       "url": "https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm"
+      },
+      "artists": [
+        {
+          "name": "Matt Lingus",
+          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3391,22 +3391,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Days of Wine and Roses",
-        "url": "https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL"
-      },
-      "artists": [
-        {
-          "name": "Esther Davis",
-          "url": "https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz"
-        }
-      ],
-      "duration_ms": 144893,
-      "name": "Days of Wine and Roses",
-      "url": "https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Without A Song",
         "url": "https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU"
       },
@@ -3419,6 +3403,22 @@
       "duration_ms": 260000,
       "name": "Without A Song",
       "url": "https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Days of Wine and Roses",
+        "url": "https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL"
+      },
+      "artists": [
+        {
+          "name": "Esther Davis",
+          "url": "https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz"
+        }
+      ],
+      "duration_ms": 144893,
+      "name": "Days of Wine and Roses",
+      "url": "https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3583,22 +3583,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Forever in your arms",
-        "url": "https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV"
-      },
-      "artists": [
-        {
-          "name": "Sophie Nichols",
-          "url": "https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3"
-        }
-      ],
-      "duration_ms": 166276,
-      "name": "Forever in your arms",
-      "url": "https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -3631,6 +3615,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Forever in your arms",
+        "url": "https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV"
+      },
+      "artists": [
+        {
+          "name": "Sophie Nichols",
+          "url": "https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3"
+        }
+      ],
+      "duration_ms": 166276,
+      "name": "Forever in your arms",
+      "url": "https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Come Rain Or Come Shine",
         "url": "https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH"
       },
@@ -3647,22 +3647,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "It Could Happen To You",
-        "url": "https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS"
-      },
-      "artists": [
-        {
-          "name": "Danny Walgreen",
-          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "prelude to a kiss",
         "url": "https://open.spotify.com/album/218dJkcubcykiRq5fUVovq"
       },
@@ -3675,6 +3659,22 @@
       "duration_ms": 261741,
       "name": "prelude to a kiss",
       "url": "https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "It Could Happen To You",
+        "url": "https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3823,22 +3823,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
-      },
-      "artists": [
-        {
-          "name": "Lisa Livalli",
-          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
-        }
-      ],
-      "duration_ms": 216978,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "They Say It's Wonderful",
         "url": "https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198"
       },
@@ -3855,18 +3839,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
       "artists": [
         {
-          "name": "Edward France",
-          "url": "https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp"
+          "name": "Lisa Livalli",
+          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91"
+      "duration_ms": 216978,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -3883,6 +3867,22 @@
       "duration_ms": 133500,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr"
+      },
+      "artists": [
+        {
+          "name": "Edward France",
+          "url": "https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -4687,22 +4687,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "I left my heart in San Francisco",
-        "url": "https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2"
-      },
-      "artists": [
-        {
-          "name": "Matthew Simmons",
-          "url": "https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "I loves you Porgy",
-      "url": "https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Alone Time Flies",
         "url": "https://open.spotify.com/album/4WBL1pkmwJa8oHx0Xg91oj"
       },
@@ -4715,6 +4699,22 @@
       "duration_ms": 272000,
       "name": "Alone Time Flies",
       "url": "https://open.spotify.com/track/5zHS7Es44XkrYt76lKxGed"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "I left my heart in San Francisco",
+        "url": "https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2"
+      },
+      "artists": [
+        {
+          "name": "Matthew Simmons",
+          "url": "https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "I loves you Porgy",
+      "url": "https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud"
     },
     {
       "added_at": "2023-06-22 22:00:00",

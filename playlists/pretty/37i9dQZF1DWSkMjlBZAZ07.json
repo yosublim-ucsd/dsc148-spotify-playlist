@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1968449,
+  "num_followers": 1968592,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmY3M2ZlYjUzNjJlYWUxMjUwNzRlNDA3NGFkMGI2OWVmODVhNjBh",
+  "snapshot_id": "MCw1M2EyMWVmNjZmMzdjNjBmMzFkZDMxYmQ2YjkzMDQ2MzU1NzE1YTNi",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Skinny Dipping & Mimosas",
+        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Skinny Dipping & Mimosas",
-        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 163717,
-      "name": "Skinny Dipping & Mimosas",
-      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 165764,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "To the North",
         "url": "https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 206546,
       "name": "I Will Remain",
       "url": "https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 165764,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 195160,
       "name": "Put It Together",
       "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Strawberry Mansion - Side A",
-        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mighty Soul",
-      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+        "name": "Strawberry Mansion - Side A",
+        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 245281,
-      "name": "Borrow Trouble",
-      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
+      "duration_ms": 117146,
+      "name": "Mighty Soul",
+      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1603,22 +1587,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hold On For Dear Life",
-        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 227117,
-      "name": "Hold On For Dear Life",
-      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1635,6 +1615,26 @@
       "duration_ms": 179750,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Hold On For Dear Life",
+        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 227117,
+      "name": "Hold On For Dear Life",
+      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
     },
     {
       "added_at": "2023-07-21 04:00:00",

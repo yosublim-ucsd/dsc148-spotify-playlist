@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDA1NDZhMmQ0Y2RhNzU0ODdkNjA1MWRlODQ3OTc4YWYyYg==",
+  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDBhNDBlZDAyZDIyOWQ0ODRiYWMwYTM2YWE0Nzc2YjJiNg==",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Beaucoup de Rock'n'Roll (Live 1966)",
+        "url": "https://open.spotify.com/album/3m3vukFkpww4qaxJU1ziZY"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 145986,
+      "name": "Tutti Frutti - Live 1966",
+      "url": "https://open.spotify.com/track/0rqJ1kJrTOhfujiGl3IM7r"
+    },
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
@@ -59,6 +75,26 @@
       "duration_ms": 205723,
       "name": "A Love",
       "url": "https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -131,6 +167,22 @@
       "duration_ms": 247583,
       "name": "A Veces Bien a Veces Mal",
       "url": "https://open.spotify.com/track/1py1Q70o23MDIghZWTVzE9"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "So Much (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/7iS7A36j8O5TyIvJrk7LDu"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 290948,
+      "name": "So Much - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/5cJ31Zc5IUlrwjF7fs6C5D"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -523,38 +575,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Necromanteum",
-        "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 266908,
-      "name": "Necromanteum",
-      "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Cities (Live) [2023 Remaster]",
         "url": "https://open.spotify.com/album/03Fwgxoot2pqsSaPcyxKcu"
       },
@@ -591,26 +611,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Ni\u00f1os de Pl\u00e1stico (Cover)",
-        "url": "https://open.spotify.com/album/1m4oMUOvb9jwd28xf9Md1S"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Abbattista",
-          "url": "https://open.spotify.com/artist/2HkAIZVKbJJyt61zWE9ZZK"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 231782,
-      "name": "Ni\u00f1os de Pl\u00e1stico - Cover",
-      "url": "https://open.spotify.com/track/5j6Y7dpMOqYOPcXPm9rjPd"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -623,46 +623,6 @@
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "When Love Sucks (feat. Dido) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/4ZPxcyIqtcrgUY7WL7b5p9"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 148439,
-      "name": "When Love Sucks (feat. Dido) - Sped Up Version",
-      "url": "https://open.spotify.com/track/0TwD0t7Pxl8fgzxibbaa9B"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "\u30b5\u30fc\u30d5 \u30d6\u30f3\u30ac\u30af \u30ab\u30de\u30af\u30e9 (\u5b8c\u5168\u7248)",
-        "url": "https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "\u6c5f\u30ce\u5cf6\u30a8\u30b9\u30ab\u30fc (2023 ver.)",
-      "url": "https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -683,62 +643,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "On The Cross",
-        "url": "https://open.spotify.com/album/6KeevQoFEu21avBwQxlbrb"
+        "name": "Monsters (feat. Aaron Gillespie of Underoath)",
+        "url": "https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2"
       },
       "artists": [
         {
-          "name": "SHIVA",
-          "url": "https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj"
+          "name": "Magic Whatever",
+          "url": "https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT"
         },
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
         },
         {
-          "name": "Fullmetal Jessie",
-          "url": "https://open.spotify.com/artist/7MEOsCmZzAe5CMP2FefopH"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 216384,
-      "name": "On The Cross",
-      "url": "https://open.spotify.com/track/25xrdLy1EL8uj3cyPKbmWK"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Werewolf (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "So Much (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/03rXk4298DiG9hCaIbrdO8"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 290948,
-      "name": "So Much - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/45GmfZojjnWbfgYyEk0txR"
+      "duration_ms": 198486,
+      "name": "Monsters (feat. Aaron Gillespie of Underoath)",
+      "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -755,178 +679,6 @@
       "duration_ms": 226523,
       "name": "All A Share Together Now",
       "url": "https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Plein D'Amour",
-        "url": "https://open.spotify.com/album/13CuZhFz03sBZ0pGP1guLM"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 247181,
-      "name": "People Around Me",
-      "url": "https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Cheers To Goodbye (feat. Spencer Charnas)",
-        "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Spencer Charnas",
-          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
-        }
-      ],
-      "duration_ms": 226861,
-      "name": "Cheers To Goodbye (feat. Spencer Charnas)",
-      "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Love Me Two Times",
-        "url": "https://open.spotify.com/album/45NdY0ZL7x51DvIxQhO5IJ"
-      },
-      "artists": [
-        {
-          "name": "Virgin Magnetic Material",
-          "url": "https://open.spotify.com/artist/04KTmShSJF84eXqUcis0Qw"
-        },
-        {
-          "name": "LM.ORG",
-          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        }
-      ],
-      "duration_ms": 358055,
-      "name": "Love Me Two Times",
-      "url": "https://open.spotify.com/track/041siYMLiKaHk8F9sgRuhF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Got Me All Wrong",
-        "url": "https://open.spotify.com/album/0PqyD9lzmBCY7SfmLqd5BN"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 193814,
-      "name": "Got Me All Wrong",
-      "url": "https://open.spotify.com/track/2d9A8njtdFo4MOI3v17kpw"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Three Little Birds (Feat. Teni and Oxlade)",
-        "url": "https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "Three Little Birds (Feat. Teni and Oxlade)",
-      "url": "https://open.spotify.com/track/3Jm1XardcGOdw3A65RcwSv"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Lifeline (Drowning)",
-        "url": "https://open.spotify.com/album/1T2MF3dsVYDJsGyXI0ZZsy"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Lifeline (Drowning)",
-      "url": "https://open.spotify.com/track/4DtoWdGQMt22FdSimXadCF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Amor & Paz",
-        "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 195424,
-      "name": "Amor & Paz",
-      "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Solstice Kiss",
-        "url": "https://open.spotify.com/album/6ihYiCl6WdpP6ezri0SfW3"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "Solstice Kiss - Edit",
-      "url": "https://open.spotify.com/track/76LCIaNYeDAFoXLL5LrPEw"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

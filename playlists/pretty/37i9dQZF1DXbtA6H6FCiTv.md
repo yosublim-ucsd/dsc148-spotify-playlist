@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 
 > Enjoy the SEVENTEEN's best hits for the upcoming concerts! \(다가오는 세븐틴의 콘서트를 준비하며 히트곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,446 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,190 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 52 | [I can't run away](https://open.spotify.com/track/0bFiLUmBmFX0aWyhVqIwiN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:30 |
 | 53 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 |
 
-Snapshot ID: `MCw5Zjc0ZTA5M2RjNWRlNzBlZjA5OTBjOWRmZWEwOWJlOTI0ODFiY2Nm`
+Snapshot ID: `MCxhMDFiOTIwMmE3N2JmYzllYWJjZGYxMTJhZGY5Y2E2NjJmNTZlZDll`

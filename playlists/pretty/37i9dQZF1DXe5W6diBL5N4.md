@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YUGYEOM\(유겸\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,133 likes - 749 songs - 1 day 18 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,319 likes - 749 songs - 1 day 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 46 | [Stay](https://open.spotify.com/track/0jYZd9AvIXMl8K5b1ZKA49) | [SATURDAY](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph) | [The 6th Single Album ‘Find Summer’](https://open.spotify.com/album/3eBngLxqSJNHRwxUk1xIGk) | 3:11 |
 | 47 | [Honeymoon](https://open.spotify.com/track/2ZPQAI9Co4ob1x5TS8kkiL) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Honeymoon](https://open.spotify.com/album/4q1e0pt969Sd4PaINKE0Tb) | 3:02 |
 | 48 | [Relation](https://open.spotify.com/track/1TjBX00j5vQaUOIZt2sDT0) | [Yountoven](https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO) | [The end](https://open.spotify.com/album/50xRFZ5DCTIAuMen6NKcER) | 4:18 |
-| 49 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
+| 49 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
 | 50 | [Who moved my Pepsi?](https://open.spotify.com/track/7rqKEJYSdFdPsvWEq0jNRz) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Who moved my Pepsi?](https://open.spotify.com/album/01kZCpT4UJyPFH8IEEqbHu) | 3:08 |
 | 51 | [Maybe](https://open.spotify.com/track/4hjpyVu9YFQwSupd1w4VPn) | [Kim Seheon](https://open.spotify.com/artist/1qrAdolEOljRODhp9rXq64) | [M.L.S](https://open.spotify.com/album/7tSJL98IR8mdDtSmYup9cx) | 3:28 |
 | 52 | [ONLY!](https://open.spotify.com/track/03XCYoNPHL8Ftgk4grJ5bV) | [DEUL](https://open.spotify.com/artist/2YmGeFB53OtlKStZWg05Hd) | [ONLY!](https://open.spotify.com/album/04PnUqwLIg9hAvtJn8Twvd) | 2:41 |
@@ -373,7 +373,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 363 | [Simple words \(Vocal\. LEE SUHYUN, Chang Kiha\)](https://open.spotify.com/track/42N6LdD4vqOxY3kuhJipSR) | [Leechanhyukvideo](https://open.spotify.com/artist/1dBSscBwVVcvPtfLQhIxvd), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Umbrella](https://open.spotify.com/album/3OXAS6bv5BzOO43UoLgWaV) | 4:03 |
 | 364 | [Monthly Project 2023 June Yoon Jong Shin \- Your Class \(with\. Leellamarz\)](https://open.spotify.com/track/6ciUXu6lw5qOFrTSaQOGsS) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Monthly Project 2023 June Yoon Jong Shin \- Your Class](https://open.spotify.com/album/6lKzAzfCiDfBVuRuZCoVzj) | 4:02 |
 | 365 | [I Revive](https://open.spotify.com/track/7p0ioxh3zkPuvpnVdqVJ2K) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Heartbeat \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1SppqHeF2hRV1aydHRDTZJ) | 2:58 |
-| 366 | [Summer Love](https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 3:53 |
+| 366 | [Summer Love](https://open.spotify.com/track/0TMJ2mSEsUqftvCJtZ2YLV) | [KIM A REUM](https://open.spotify.com/artist/5t5PKzBdSmRojqxlrl6loX) | [SEOUL WAVE](https://open.spotify.com/album/6SYa8yN8Ivbm3Vux91rW6l) | 3:53 |
 | 367 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 |
 | 368 | [EXCEL](https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [UNCHARTED DRIFT](https://open.spotify.com/album/61W392PxSk764yUZnI8eyR) | 2:50 |
 | 369 | [4:ever](https://open.spotify.com/track/3SmHyaTCDWnJjlrWQs5Chx) | [TEAM 24:00](https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0) | [4:ever](https://open.spotify.com/album/4P0kjkeTg5XEX1ELCLBBLv) | 2:51 |
@@ -569,7 +569,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 559 | [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 |
 | 560 | [Save me, Kill me](https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 6th EP Album 'OK' Episode 2 : I'm OK](https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02) | 3:37 |
 | 561 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 |
-| 562 | [The Day](https://open.spotify.com/track/2JGpd5v7QkvJ1QLeSkLH7q) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The Day](https://open.spotify.com/album/7JRL58bym7NMRTqs3gwxIJ) | 3:31 |
+| 562 | [The Day](https://open.spotify.com/track/2JGpd5v7QkvJ1QLeSkLH7q) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The Day](https://open.spotify.com/album/7JRL58bym7NMRTqs3gwxIJ) | 3:31 |
 | 563 | [To You](https://open.spotify.com/track/2V0Rr5qfC2Tx3bv5mEi5I0) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/4jAKv0TrDi4ki5cJbMVsIN) | 3:12 |
 | 564 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 |
 | 565 | [I'm Not Your Cat Feat.b!ni](https://open.spotify.com/track/3DllqL0wBXYC9WRE5cPIms) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [I'm Not Your Cat](https://open.spotify.com/album/0DA2jdBnt7GvEvyFN7UtXy) | 2:46 |
@@ -758,4 +758,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 748 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 |
 | 749 | [LOVE YOU! \(Feat\. Tablo\)](https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [LOVE YOU!](https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u) | 3:05 |
 
-Snapshot ID: `MCw0ZjhjNjE2ZTI4YmViMzc0OWFmYTk0ZmRmNTU3ZjUzZDkyMjcyYTRj`
+Snapshot ID: `MCxhOGIwM2VjZDlhMWJjZjA5YWY3YjBhMTVjZGM1MDYzYTlhYjBiNjY3`

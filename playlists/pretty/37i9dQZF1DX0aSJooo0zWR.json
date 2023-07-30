@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 186206,
+  "num_followers": 186295,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
+  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -233,6 +233,54 @@
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 300876,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Layers",
@@ -255,54 +303,6 @@
       "duration_ms": 164622,
       "name": "Layers",
       "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
-      },
-      "artists": [
-        {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
-        }
-      ],
-      "duration_ms": 300876,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "From The Top",
@@ -431,6 +415,22 @@
       "duration_ms": 281946,
       "name": "From The Top",
       "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -473,30 +473,6 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Projekt 13",
-        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
-      },
-      "artists": [
-        {
-          "name": "Markus Venehsalo",
-          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
-        },
-        {
-          "name": "Mavon Safia",
-          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
-        },
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 251490,
-      "name": "Projekt 13",
-      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Face First",
@@ -527,6 +503,30 @@
       "duration_ms": 285533,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -1237,30 +1237,6 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "VHS Fireplace Love (Live)",
-        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "SmokeFace",
-          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
-        },
-        {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "VHS Fireplace Love - Live",
-      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Axiom",
@@ -1291,6 +1267,30 @@
       "duration_ms": 260866,
       "name": "Growing Up!",
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-07-23 04:01:00",

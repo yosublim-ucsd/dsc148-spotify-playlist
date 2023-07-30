@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 291874,
+  "num_followers": 292212,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmNkYWJhY2U2NzMyZTQ4MzUxNjMwMmE3N2Q5NzZjNDEyNTEwMmZh",
+  "snapshot_id": "MCwzMDE2OTFlNDIwMWY5Mzc0ODk5ZWJhMzhjMDI1NTg5MTZkM2Y3NGVh",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "The Globe Sessions",
-        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "My Favorite Mistake",
-      "url": "https://open.spotify.com/track/1eKPBcUKstvi0UKNvpSbl1"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Hell To Pay",
         "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 315666,
       "name": "While My Guitar Gently Weeps",
       "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "The Globe Sessions",
+        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "My Favorite Mistake",
+      "url": "https://open.spotify.com/track/1eKPBcUKstvi0UKNvpSbl1"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 347666,
-      "name": "Don't Let The Sun Go Down On Me - Live",
-      "url": "https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1"
+      "duration_ms": 196106,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
     }
   ],
   "unique_name": "90s Easy Rock",

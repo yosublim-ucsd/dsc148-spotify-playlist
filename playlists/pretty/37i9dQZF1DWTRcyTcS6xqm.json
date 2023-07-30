@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10025,
+  "num_followers": 10038,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2",
+  "snapshot_id": "MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "King Bee Shakedown",
+      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 191933,
       "name": "Bump that Mother",
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "King Bee Shakedown",
-      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -753,26 +753,6 @@
       "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
     },
     {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "Spider in My Stew",
-        "url": "https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws"
-      },
-      "artists": [
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 249234,
-      "name": "Big Mama's Soul Food",
-      "url": "https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Times Have Changed",
@@ -795,6 +775,26 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
+    },
+    {
+      "added_at": "2021-03-19 05:01:00",
+      "album": {
+        "name": "Spider in My Stew",
+        "url": "https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 249234,
+      "name": "Big Mama's Soul Food",
+      "url": "https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
